@@ -1,0 +1,591 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# I L <tseminivan@yahoo.com>, 2016
+# Miyuki Kanda <info@axispoint.co.jp>, 2013
+# Miyuki Kanda <info@axispoint.co.jp>, 2013
+# Negishi Yoshimasa <yoshimasa.negishi@gmail.com>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-11 08:36+0000\n"
+"Last-Translator: Oscar Bot <maik.hoepfel@tangentsnowball.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/codeinthehole/django-oscar/"
+"language/ja/)\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr ""
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "商品"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr ""
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr ""
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr ""
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr ""
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr ""
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr ""
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "注文一覧"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr "解析"
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr ""
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr "カスタマー"
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr ""
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr ""
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "クーポン"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr "コンテンツ"
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr "コンテンツブロック"
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr "ページ別コンテンツブロック"
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr "ページ"
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr ""
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr ""
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr "レポート"
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr "タイプ"
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr ""
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr ""
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr ""
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr ""
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr ""
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr ""
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+msgid "Catalan"
+msgstr ""
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+msgid "German"
+msgstr ""
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr "送信中・・・"
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr "アカウント"
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr "ログアウト"
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr "ログインする　または　新規アカウント登録する"
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "カート"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr ""
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "全カテゴリ"
+
+#~ msgid "First name"
+#~ msgstr "名"
+
+#~ msgid "Last name"
+#~ msgstr "姓"
+
+#~ msgid "Phone number"
+#~ msgstr "電話番号"
+
+#~ msgid "User"
+#~ msgstr "ユーザー"
+
+#~ msgid "Partner"
+#~ msgstr "在庫管理者"
+
+#~ msgid "Product"
+#~ msgstr "商品"
+
+#~ msgid "Name"
+#~ msgstr "アカウント情報"
+
+#~ msgid "Date registered"
+#~ msgstr "アカウント作成日時"
+
+#~ msgid "Owner"
+#~ msgstr "オーナー"
+
+#~ msgid "Status"
+#~ msgstr "ステータス"
+
+#~ msgid "Date created"
+#~ msgstr "作成日時"
+
+#~ msgid "Date submitted"
+#~ msgstr "注文日時"
+
+#~ msgid "Baskets"
+#~ msgstr "カート"
+
+#~ msgid "Price excl. Tax"
+#~ msgstr "定価（税抜）"
+
+#~ msgid "Price incl. Tax"
+#~ msgstr "定価（税込）"
+
+#~ msgid "Save for Later"
+#~ msgstr "今は買わない"
+
+#~ msgid "Date of creation"
+#~ msgstr "作成日時"
+
+#~ msgid "Description"
+#~ msgstr "説明"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Subject"
+#~ msgstr "タイトル"
+
+#~ msgid "Date Sent"
+#~ msgstr "送信日"
+
+#~ msgid "Order number"
+#~ msgstr "注文番号"
+
+#~ msgid "All orders"
+#~ msgstr "全注文"
+
+#~ msgid "Email History"
+#~ msgstr "Eメール履歴"
+
+#~ msgid "Order History"
+#~ msgstr "注文履歴"
+
+#~ msgid "'%s' has been added to your basket"
+#~ msgstr "'%s' カートに追加されました"
+
+#~ msgid "Create a new product of type"
+#~ msgstr "商品タイプ追加"
+
+#~ msgid "Title"
+#~ msgstr "タイトル"
+
+#~ msgid "Actions"
+#~ msgstr "アクション"
+
+#~ msgid "Number of child categories"
+#~ msgstr "子カテゴリ数"
+
+#~ msgid "All alerts"
+#~ msgstr "全アラート"
+
+#~ msgid "Partner SKU"
+#~ msgstr "ISBN(SKU)"
+
+#~ msgid "Date from"
+#~ msgstr "始期"
+
+#~ msgid "Date to"
+#~ msgstr "終期"
+
+#~ msgid "All pages"
+#~ msgstr "全ページ"
+
+#~ msgid "Promotion type"
+#~ msgstr "プロモーションタイプ"
+
+#~ msgid "Report Type"
+#~ msgstr "レポートタイプ"
+
+#~ msgid "Only the offer and order reports use the selected date range"
+#~ msgstr "オファーと注文状況のレポートは始期終期の設定が有効です"
+
+#~ msgid "The report is inclusive of this date"
+#~ msgstr "このレポートには始期終期当日を含みます"
+
+#~ msgid "Download"
+#~ msgstr "ダウンロード"
+
+#~ msgid "Keyword"
+#~ msgstr "キーワード"
+
+#~ msgid "to"
+#~ msgstr "いつまで"
+
+#~ msgid "All users"
+#~ msgstr "顧客一覧"
+
+#~ msgid "All Alerts"
+#~ msgstr "全アラート"
+
+#~ msgid "Frequency"
+#~ msgstr "対象数"
+
+#~ msgid "Number in stock"
+#~ msgstr "在庫登録"
+
+#~ msgid "Number allocated"
+#~ msgstr "出荷対象数"
+
+#~ msgid "Available"
+#~ msgstr "在庫有"
+
+#~ msgid "Page Promotion"
+#~ msgstr "ページプロモーション"
+
+#~ msgid "Filter"
+#~ msgstr "絞り込み"
+
+#~ msgid "Search"
+#~ msgstr "検索"
+
+#~ msgid "Free Shipping"
+#~ msgstr "無料"
+
+#~ msgid "Free shipping"
+#~ msgstr "送料無料"
+
+#~ msgid "Page not found"
+#~ msgstr "お探しのページは見つかりませんでした…。"
+
+#~ msgid "Home"
+#~ msgstr "ホーム"
+
+#~ msgid "Items to buy now"
+#~ msgstr "購入予定商品一覧"
+
+#~ msgid "Price"
+#~ msgstr "価格"
+
+#~ msgid "Update"
+#~ msgstr "更新"
+
+#~ msgid "Save for later"
+#~ msgstr "今は買わない"
+
+#~ msgid "or"
+#~ msgstr "または"
+
+#~ msgid "cancel"
+#~ msgstr "キャンセル"
+
+#~ msgid "Proceed to checkout"
+#~ msgstr "注文確認画面へ"
+
+#~ msgid "Add to basket"
+#~ msgstr "カートに入れる"
+
+#~ msgid "Delete"
+#~ msgstr "削除"
+
+#~ msgid "Print this page"
+#~ msgstr "このページを印刷する"
+
+#~ msgid "Save"
+#~ msgstr "保存"
+
+#~ msgid "Edit"
+#~ msgstr "編集"
+
+#~ msgid "Order #%(number)s"
+#~ msgstr "注文番号: %(number)s"
+
+#~ msgid "Email history"
+#~ msgstr "Eメール履歴"
+
+#~ msgid "Date sent"
+#~ msgstr "送信日時"
+
+#~ msgid "Products you recently viewed"
+#~ msgstr "最近チェックした商品"
+
+#~ msgid "View"
+#~ msgstr "見る"
+
+#~ msgid "Order history"
+#~ msgstr "注文履歴"
+
+#~ msgid "Re-order"
+#~ msgstr "再注文"
+
+#~ msgid "Filter results"
+#~ msgstr "絞込結果"
+
+#~ msgid "Reset"
+#~ msgstr "リセット"
+
+#~ msgid "Total inc tax"
+#~ msgstr "税込総額"
+
+#~ msgid "Edit profile"
+#~ msgstr "登録内容の変更"
+
+#~ msgid "You are editing:"
+#~ msgstr "編集対象:"
+
+#~ msgid "Edit category"
+#~ msgstr "カテゴリ編集"
+
+#~ msgid "Edit children"
+#~ msgstr "子カテゴリ編集"
+
+#~ msgid "View on site"
+#~ msgstr "サイトで見る"
+
+#~ msgid "Create new product"
+#~ msgstr "新商品追加"
+
+#~ msgid "New Product"
+#~ msgstr "選択"
+
+#~ msgid "Search Products"
+#~ msgstr "商品検索"
+
+#~ msgid "No stock alerts found."
+#~ msgstr "現在ストックアラートはありません"
+
+#~ msgid "Total orders"
+#~ msgstr "全注文件数"
+
+#~ msgid "Total lines"
+#~ msgstr "総商品数"
+
+#~ msgid "Total revenue"
+#~ msgstr "総売上"
+
+#~ msgid "Welcome"
+#~ msgstr "ようこそ"
+
+#~ msgid "Download selected orders as a CSV"
+#~ msgstr "選択した注文内容をCSVファイルにしてダウンロードする"
+
+#~ msgid "Summary"
+#~ msgstr "概要"
+
+#~ msgid "Order status breakdown"
+#~ msgstr "注文状況内訳"
+
+#~ msgid "Create a new content block"
+#~ msgstr "新コンテンツブロック作成"
+
+#~ msgid "Create block"
+#~ msgstr "ブロック作成"
+
+#~ msgid "Number of times used"
+#~ msgstr "利用回数"
+
+#~ msgid "Reporting Dashboard"
+#~ msgstr "リポート概要"
+
+#~ msgid "Reporting dashboard"
+#~ msgstr "リポート概要"
+
+#~ msgid "Search product alerts"
+#~ msgstr "商品アラート検索"
+
+#~ msgid "reset"
+#~ msgstr "リセット"
+
+#~ msgid "No alerts found."
+#~ msgstr "アラートはありませんでした"
+
+#~ msgid "Order Number"
+#~ msgstr "注文番号"
+
+#~ msgid "Num orders"
+#~ msgstr "注文数"

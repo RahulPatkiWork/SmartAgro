@@ -1,0 +1,706 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# thatthep vorrasing <amaudy@gmail.com>, 2014
+# thatthep vorrasing <amaudy@gmail.com>, 2014
+# thatthep vorrasing <amaudy@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-11 08:36+0000\n"
+"Last-Translator: Oscar Bot <maik.hoepfel@tangentsnowball.com>\n"
+"Language-Team: Thai (Thailand) (http://www.transifex.com/codeinthehole/"
+"django-oscar/language/th_TH/)\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr ""
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr "แคทตาล็อก"
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "สินค้า"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr ""
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "หมวดหมู่"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr "ช่วง"
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr ""
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr ""
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr "เติมสินค้า"
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "การสั่งซื้อ"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr "สถิติ"
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr ""
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr "ลูกค้า"
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr ""
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr "ข้อเสนอ"
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr ""
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr "เนื้อหา"
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr ""
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr ""
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr "หน้า"
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr "เทมเพลตอีเมลล์"
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr "รีวิว"
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr "รายงาน"
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr ""
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr ""
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr ""
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr ""
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr ""
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr ""
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr ""
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+#, fuzzy
+#| msgid "Catalogue"
+msgid "Catalan"
+msgstr "แคทตาล็อก"
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+msgid "German"
+msgstr ""
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr ""
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "ตะกร้า"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr ""
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr ""
+
+#~ msgid "Mr"
+#~ msgstr "นาย"
+
+#~ msgid "Miss"
+#~ msgstr "นางสาว"
+
+#~ msgid "Mrs"
+#~ msgstr "นาง"
+
+#~ msgid "Ms"
+#~ msgstr "นาง"
+
+#~ msgid "Dr"
+#~ msgstr "ด็อกเตอร์"
+
+#~ msgid "First name"
+#~ msgstr "ชื่อ"
+
+#~ msgid "Last name"
+#~ msgstr "นามสกุล"
+
+#~ msgid "First line of address"
+#~ msgstr "ที่อยู่บรรทัดแรก"
+
+#~ msgid "Second line of address"
+#~ msgstr "ที่อยู่บรรทัดที่สอง"
+
+#~ msgid "Third line of address"
+#~ msgstr "ที่อยู่บรรทัดที่สาม"
+
+#~ msgid "City"
+#~ msgstr "เมือง"
+
+#~ msgid "State/County"
+#~ msgstr "ประเทศ"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "รหัสไปรษณีย์"
+
+#~ msgid "Country"
+#~ msgstr "ประเทศ"
+
+#~ msgid "Address"
+#~ msgstr "ที่อยู่"
+
+#~ msgid "Addresses"
+#~ msgstr "ที่อยู่"
+
+#~ msgid "Country name"
+#~ msgstr "ชื่อประเทศ"
+
+#~ msgid "Countries"
+#~ msgstr "ประเทศ"
+
+#~ msgid "Phone number"
+#~ msgstr "เบอร์โทรศัพท์"
+
+#~ msgid "Shipping address"
+#~ msgstr "ที่อยู่สำหรับส่งสินค้า"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "ที่อยู่สำหรับส่งสินค้า"
+
+#~ msgid "User"
+#~ msgstr "ผู้ใช้"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "ที่อยู่หลักสำหรับส่งสินค้า"
+
+#~ msgid "Default billing address?"
+#~ msgstr "ที่อยู่หลักสำหรับส่งใบเสร็จ"
+
+#~ msgid "Date Created"
+#~ msgstr "วันที่สร้าง"
+
+#~ msgid "User address"
+#~ msgstr "ที่อยู่ของผู้ใช้"
+
+#~ msgid "User addresses"
+#~ msgstr "ที่อยู่ของผู้ใช้"
+
+#~ msgid "Billing address"
+#~ msgstr "ที่อยู่สำหรับส่งใบเสร็จ"
+
+#~ msgid "Billing addresses"
+#~ msgstr "ที่อยู่สำหรับส่งใบเสร็จ"
+
+#~ msgid "Partner"
+#~ msgstr "คู่ค้า"
+
+#~ msgid "Product"
+#~ msgstr "สินค้า"
+
+#~ msgid "Purchases"
+#~ msgstr "ชำระเงิน"
+
+#~ msgid "Score"
+#~ msgstr "คะแนน"
+
+#~ msgid "Total Spent"
+#~ msgstr "รวมการจ่าย"
+
+#~ msgid "Last Order Date"
+#~ msgstr "วันที่สั่งซื้อล่าสุด"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "%(user)s ดู '%(product)s'"
+
+#~ msgid "User search queries"
+#~ msgstr "คำค้นของผู้ใช้"
+
+#~ msgid "%(user)s searched for '%(query)s'"
+#~ msgstr "%(user)s กำลังค้นหา '%(query)s'"
+
+#~ msgid "Name"
+#~ msgstr "ชื่อ"
+
+#~ msgid "Date registered"
+#~ msgstr "วันที่ลงทะเบียน"
+
+#~ msgid "Product views"
+#~ msgstr "ยอดเข้าชมสินค้า"
+
+#~ msgid "Order items"
+#~ msgstr "จำนวนชิ้นที่สั่งซื้อ"
+
+#~ msgid "Owner"
+#~ msgstr "เจ้าของ"
+
+#~ msgid "Status"
+#~ msgstr "สถานะ"
+
+#~ msgid "Date created"
+#~ msgstr "วันที่สร้าง"
+
+#~ msgid "Baskets"
+#~ msgstr "ตะกร้า"
+
+#~ msgid "Thanks for voting!"
+#~ msgstr "ขอบคุณที่โหวต"
+
+#~ msgid "Please choose a shipping address"
+#~ msgstr "กรุณาเลือกที่อยู่สำหรับส่งสินค้า"
+
+#~ msgid "Please choose a shipping method"
+#~ msgstr "กรุณาเลือกวิธีส่งสินค้า"
+
+#~ msgid "Address saved"
+#~ msgstr "บันทึกที่อยู่แล้ว"
+
+#~ msgid "Address deleted"
+#~ msgstr "ลบที่อยู่แล้ว"
+
+#~ msgid "Your submitted shipping method is not permitted"
+#~ msgstr "ไม่สามารถใช้ที่อยู่ที่คุณเลือกได้"
+
+#~ msgid "No order found"
+#~ msgstr "ไม่พบการสั่งซื้อ"
+
+#~ msgid "Users"
+#~ msgstr "ผู้ใช้"
+
+#~ msgid "Subject"
+#~ msgstr "หัวเรื่อง"
+
+#~ msgid "Body Text"
+#~ msgstr "เนื้อหา"
+
+#~ msgid "Body HTML"
+#~ msgstr "เนื้อในรูปแบบ HTML"
+
+#~ msgid "Date Sent"
+#~ msgstr "วันที่ส่ง"
+
+#~ msgid "Emails"
+#~ msgstr "อีเมลล์"
+
+#~ msgid "Order related"
+#~ msgstr "การสั่งซื้อที่เกี่ยวข้องกัน"
+
+#~ msgid "Email Subject Template"
+#~ msgstr "เทมเพลตหัวข้ออีเมลล์"
+
+#~ msgid "Email Body Template"
+#~ msgstr "เทมเพลตเนื้อหาอีเมลล์"
+
+#~ msgid "Email Body HTML Template"
+#~ msgstr "เทมเพลตเนื้อหาอีเมลล์ในรูปแบบ HTML"
+
+#~ msgid "HTML template"
+#~ msgstr "เทมเพลต HTML"
+
+#~ msgid "SMS Template"
+#~ msgstr "เทมเพลตข้อความสั้น"
+
+#~ msgid "SMS template"
+#~ msgstr "เทมเพลตข้อความสั้น"
+
+#~ msgid "Cancelled"
+#~ msgstr "ยกเลิก"
+
+#~ msgid "Closed"
+#~ msgstr "ปิด"
+
+#~ msgid "Date confirmed"
+#~ msgstr "วันที่ยืนยัน"
+
+#~ msgid "Date cancelled"
+#~ msgstr "วันที่ยกเลิก"
+
+#~ msgid "Date closed"
+#~ msgstr "วันที่ปิด"
+
+#~ msgid "Your stock alert is now active"
+#~ msgstr "เปิดการแจ้งเตือนสินค้าคงคลังแล้ว"
+
+#~ msgid "Password"
+#~ msgstr "รหัสผ่าน"
+
+#~ msgid "Order number"
+#~ msgstr "หมายเลขการสั่งซื้อ"
+
+#~ msgid "All orders"
+#~ msgstr "รายการสั่งซื้อทั้งหมด"
+
+#~ msgid "Enter your email"
+#~ msgstr "กรอกอีเมลล์ของท่าน"
+
+#~ msgid "Password updated"
+#~ msgstr "อัปเดตรหัสผ่านแล้ว"
+
+#~ msgid "Order"
+#~ msgstr "การสั่งซื้อ"
+
+#~ msgid "Add a new address"
+#~ msgstr "เพิ่มที่อยู่"
+
+#~ msgid "Edit address"
+#~ msgstr "แก้ไขที่อยู่"
+
+#~ msgid "Deleted product '%s'"
+#~ msgstr "ลบสินค้า '%s' แล้ว"
+
+#~ msgid "All alerts"
+#~ msgstr "การแจ้งเตือนทั้งหมด"
+
+#~ msgid "Email saved"
+#~ msgstr "บันทึกอีเมลล์แล้ว"
+
+#~ msgid "Start date"
+#~ msgstr "วันที่เริ่ม"
+
+#~ msgid "End date"
+#~ msgstr "วันที่จบ"
+
+#~ msgid "Offer name"
+#~ msgstr "ชื่อผู้เสนอ"
+
+#~ msgid "Order date"
+#~ msgstr "วันที่สั่งซื้อ"
+
+#~ msgid "Order total"
+#~ msgstr "การสั่งซื้อทั้งหม"
+
+#~ msgid "Cost"
+#~ msgstr "ต้นทุน"
+
+#~ msgid "All offers"
+#~ msgstr "ข้อเสนอทั้งหมด"
+
+#~ msgid "Offer deleted!"
+#~ msgstr "ลบข้อเสนอ!"
+
+#~ msgid "Offer is already suspended"
+#~ msgstr "พักข้อเสนอนี้ไว้แล้ว"
+
+#~ msgid "Offer suspended"
+#~ msgstr "หยุดใช้ข้อเสนอ"
+
+#~ msgid "Confirm Password"
+#~ msgstr "ยืนยันรหัสผ่าน"
+
+#~ msgid "Create user"
+#~ msgstr "สร้างผู้ใช้"
+
+#~ msgid "User '%s' was created successfully."
+#~ msgstr "สร้างผู้ใช้ '%s' สำเร็จแล้ว"
+
+#~ msgid "User '%(name)s' was linked to '%(partner_name)s'"
+#~ msgstr "เชื่อมต่อ '%(name)s' กับ '%(partner_name)s' แล้ว"
+
+#~ msgid "User '%(name)s' is already linked to '%(partner_name)s'"
+#~ msgstr "ผู้ใช้ '%(name)s' เชื่อมต่อกับ '%(partner_name)s' อยู่ก่อนแล้ว"
+
+#~ msgid "User '%(name)s' is not linked to '%(partner_name)s'"
+#~ msgstr "ผู้ใช้ '%(name)s' ไม่ได้เชื่อมต่อกับ '%(partner_name)s'"
+
+#~ msgid "Edit user '%s'"
+#~ msgstr "แก้ไข '%s'"
+
+#~ msgid "User '%s' was updated successfully."
+#~ msgstr "บันทึกการแก้ไข '%s' แล้ว"
+
+#~ msgid "Download"
+#~ msgstr "ดาวน์โหลด"
+
+#~ msgid "to"
+#~ msgstr "ถึง"
+
+#~ msgid " created after %s"
+#~ msgstr "สร้างหลังจาก %s"
+
+#~ msgid "All reviews"
+#~ msgstr "รีวิวทั้งหมด"
+
+#~ msgid "All users"
+#~ msgstr "ผู้ใช้งานทั้งหมด"
+
+#~ msgid "All Alerts"
+#~ msgstr "การแจ้งเตือนทั้งหมด"
+
+#~ msgid "Product alert saved"
+#~ msgstr "บันทึกการแจ้งเตือนสินค้าแล้ว"
+
+#~ msgid "Product alert deleted"
+#~ msgstr "ลบการแจ้งเตือนสินค้าแล้ว"
+
+#~ msgid "Usage"
+#~ msgstr "การใช้งาน"
+
+#~ msgid "Discount type"
+#~ msgstr "ประเภทการลด"
+
+#~ msgid "Discount value"
+#~ msgstr "มูลค่าที่ลด"
+
+#~ msgid "Condition"
+#~ msgstr "เงื่อนไข"
+
+#~ msgid "Priority"
+#~ msgstr "ลำดับความสำคัญ"
+
+#~ msgid "Max discount"
+#~ msgstr "ส่วนลดสูงสุด"
+
+#~ msgid "Number of Orders"
+#~ msgstr "จำนวนการสั่งซื้อ"
+
+#~ msgid "Conditions"
+#~ msgstr "เงื่อนไข"
+
+#~ msgid "Date Uploaded"
+#~ msgstr "วันที่อัปโหลด"
+
+#~ msgid "Coverage Condition"
+#~ msgstr "เงื่อนไขนี้ครอบคลุมถึง"
+
+#~ msgid "Coverage Conditions"
+#~ msgstr "เงื่อนไขนี้ครอบคลุมถึง"
+
+#~ msgid "Offer"
+#~ msgstr "ข้อเสนอ"
+
+#~ msgid "Total discount"
+#~ msgstr "รวมส่วนลด"
+
+#~ msgid "Site"
+#~ msgstr "ไซต์"
+
+#~ msgid "Billing Address"
+#~ msgstr "ที่อยู่สำหรับส่งใบเสร็จ"
+
+#~ msgid "Shipping charge (inc. tax)"
+#~ msgstr "ค่าขนส่ง (รวมภาษี)"
+
+#~ msgid "Shipping charge (excl. tax)"
+#~ msgstr "ค่าขนส่ง (ไม่รวมภาษี)"
+
+#~ msgid "Shipping Address"
+#~ msgstr "ที่อยู่สำหรับส่งสินค้า"
+
+#~ msgid "Shipping method"
+#~ msgstr "วิธีการส่งสินค้า"
+
+#~ msgid "In progress"
+#~ msgstr "ระหว่างดำเนินการ"
+
+#~ msgid "Message"
+#~ msgstr "ข้อความ"
+
+#~ msgid "<missing product>"
+#~ msgstr "<ไม่พบสินค้า>"
+
+#~ msgid "Event"
+#~ msgstr "เหตุการณ์"
+
+#~ msgid "Notifications inbox"
+#~ msgstr "การแจ้งเตือนในกล่องข้อความ"
+
+#~ msgid "Edit the user's details"
+#~ msgstr "แก้ไขรายละเอียดผู้ใช้"
+
+#~ msgid "Manage partner and users"
+#~ msgstr "จัดการคู่ค้าและผู้ใช้"
+
+#~ msgid "Link an existing user"
+#~ msgstr "เชื่อมกับผู้ใช้ที่มีอยู่แล้ว"
+
+#~ msgid "Link a new user"
+#~ msgstr "เชื่อมกับผู้ใช้ใหม่"
+
+#~ msgid "Unlink user"
+#~ msgstr "ยกเลิกการเชื่อมผู้ใช้"
+
+#~ msgid "No users linked."
+#~ msgstr "ไม่เชื่อมกับผู้ใช้ใดๆ"
+
+#~ msgid "Link a user"
+#~ msgstr "เชื่อมกับผู้ใช้"
+
+#~ msgid "Manage users"
+#~ msgstr "จัดการผู้ใช้"

@@ -1,0 +1,6488 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Amir M, 2014
+# Amir M, 2014
+# Amir Markovitz <amirmr1@013.net>, 2014
+# idoivri <idoivri@gmail.com>, 2015
+# Mor Rubinstein <morchickit@gmail.com>, 2015
+# Paul Walsh <pauywalsh@gmail.com>, 2014
+# yaniv14 <yanivmirel@gmail.com>, 2014
+# yaniv14 <yanivmirel@gmail.com>, 2014
+# yaniv14 <yanivmirel@gmail.com>, 2014
+# Zeev Shilor <zshilor@gmail.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-05-12 07:10+0000\n"
+"Last-Translator: Zeev Shilor <zshilor@gmail.com>\n"
+"Language-Team: Hebrew (http://www.transifex.com/codeinthehole/django-oscar/"
+"language/he/)\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n == 2 && n % "
+"1 == 0) ? 1: (n % 10 == 0 && n % 1 == 0 && n > 10) ? 2 : 3;\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr "לוח הבקרה"
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr "קטלוג"
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "מוצרים"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr "סוגי מוצרים"
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "קטגוריות"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr "קבוצות מוצרים"
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr "התראות מלאי נמוך"
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr "אפשרויות"
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr "הזמנות"
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "הזמנות"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr "סטטיסטיקות"
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr "ספקים"
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr "לקוחות"
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr "בקשות להתראות מלאי"
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr "הנחות ומבצעים"
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "שוברים"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr "מערכי שוברים"
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr "תוכן"
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr "יחידות תוכן"
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr "יחידות תוכן ע\"פ דף"
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr "דפים"
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr "תבניות דואר"
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr "ביקורות"
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr "דוחות"
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr "סוג"
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr "דרוג"
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr "טווח מחירים"
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr "0 עד 20"
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr "20 עד 40"
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr "40 עד 60"
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr "60 ומעלה"
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+#, fuzzy
+#| msgid "Catalogue"
+msgid "Catalan"
+msgstr "קטלוג"
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+#, fuzzy
+#| msgid "Permalink"
+msgid "German"
+msgstr "קישור קבוע"
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr "שולח..."
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr "קדימה"
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr "חשבון"
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr "יציאה"
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr "כניסה או הרשמה"
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "סל"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+"\n"
+"סך הכל:  %(total)s"
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr "דפדפו בחנות"
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "כל המוצרים"
+
+#~ msgid "Mr"
+#~ msgstr "אדון"
+
+#~ msgid "Miss"
+#~ msgstr "גברת"
+
+#~ msgid "Mrs"
+#~ msgstr "גברת"
+
+#~ msgid "Ms"
+#~ msgstr "גברת"
+
+#~ msgid "Dr"
+#~ msgstr "ד\"ר"
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "כותרת"
+
+#~ msgid "First name"
+#~ msgstr "שם פרטי"
+
+#~ msgid "Last name"
+#~ msgstr "שם משפחה"
+
+#~ msgid "First line of address"
+#~ msgstr "כתובת"
+
+#~ msgid "Second line of address"
+#~ msgstr "שורה שניה של הכתובת"
+
+#~ msgid "Third line of address"
+#~ msgstr "שורה שלישית של הכתובת"
+
+#~ msgid "City"
+#~ msgstr "עיר"
+
+#~ msgid "State/County"
+#~ msgstr "ארץ/מדינה"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "מיקוד"
+
+#~ msgid "Country"
+#~ msgstr "ארץ"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "חיפוש טקסט - בשימוש עבור חיפוש כתובות בלבד"
+
+#~ msgid "Address"
+#~ msgstr "כתובת"
+
+#~ msgid "Addresses"
+#~ msgstr "כתובות"
+
+#~ msgid "Addresses in %(country)s require a valid postcode"
+#~ msgstr "נדרש מיקוד תקין עבור %(country)s"
+
+#~ msgid "The postcode '%(postcode)s' is not valid for %(country)s"
+#~ msgstr "המיקוד '%(postcode)s' אינו תקין עבור %(country)s"
+
+#~ msgid "ISO 3166-1 alpha-2"
+#~ msgstr "קוד מדינה 2 אותיות"
+
+#~ msgid "ISO 3166-1 alpha-3"
+#~ msgstr "קוד מדינה 3 אותיות"
+
+#~ msgid "ISO 3166-1 numeric"
+#~ msgstr "קוד מדינה - מספרי"
+
+#~ msgid "Country name"
+#~ msgstr "ארץ"
+
+#~ msgid "Official name"
+#~ msgstr "שם רשמי"
+
+#~ msgid "Display order"
+#~ msgstr "סדר הצגה"
+
+#~ msgid "Higher the number, higher the country in the list."
+#~ msgstr "ככל שהמספר גבוה יותר, המדינה תוצג במקום גבוה יותר ברשימה"
+
+#~ msgid "Is shipping country"
+#~ msgstr "מדינה אליה ניתן לבצע משלוח"
+
+#~ msgid "Countries"
+#~ msgstr "ארצות"
+
+#~ msgid "Phone number"
+#~ msgstr "מספר טלפון"
+
+#~ msgid "In case we need to call you about your order"
+#~ msgstr "במקרה שנצטרך להתקשר אליך בקשר להזמנתך"
+
+#~ msgid "Instructions"
+#~ msgstr "הוראות לשליח"
+
+#~ msgid "Tell us anything we should know when delivering your order."
+#~ msgstr "כתבו מה עלינו לדעת לגבי המשלוח של הזמנתכם"
+
+#~ msgid "Shipping address"
+#~ msgstr "כתובת משלוח"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "כתובות משלוח"
+
+#~ msgid "User"
+#~ msgstr "משתמש"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "כתובת משלוח ברירת מחדל?"
+
+#~ msgid "Default billing address?"
+#~ msgstr "כתובת חיוב ברירת מחדל?"
+
+#~ msgid "Address Hash"
+#~ msgstr "ערבול כתובת"
+
+#~ msgid "Date Created"
+#~ msgstr "תאריך יצירה"
+
+#~ msgid "User address"
+#~ msgstr "כתובת משתמש"
+
+#~ msgid "User addresses"
+#~ msgstr "כתובות משתמש"
+
+#~ msgid "This address is already in your address book"
+#~ msgstr "הכתובת נמצאת כבר בספר הכתובות שלך."
+
+#~ msgid "Billing address"
+#~ msgstr "כתובת לחיוב"
+
+#~ msgid "Billing addresses"
+#~ msgstr "כתובות לחיוב"
+
+#~ msgid "Partner"
+#~ msgstr "ספק"
+
+#~ msgid "Partner address"
+#~ msgstr "כתובת ספק"
+
+#~ msgid "Partner addresses"
+#~ msgstr "כתובות ספק"
+
+#~ msgid "Product"
+#~ msgstr "מוצר"
+
+#~ msgid "Views"
+#~ msgstr "הצגות"
+
+#~ msgid "Basket Additions"
+#~ msgstr "תוספות לסל"
+
+#~ msgid "Purchases"
+#~ msgstr "רכישות"
+
+#~ msgid "Score"
+#~ msgstr "ציון"
+
+#~ msgid "Product record"
+#~ msgstr "רשומת מוצר"
+
+#~ msgid "Product records"
+#~ msgstr "רשומות מוצר"
+
+#~ msgid "Record for '%s'"
+#~ msgstr "רשומת '%s'"
+
+#~ msgid "Product Views"
+#~ msgstr "צפיות במוצר"
+
+#~ msgid "Order Lines"
+#~ msgstr "שורות בהזמנה"
+
+#~ msgid "Order Items"
+#~ msgstr "פריטים בהזמנה"
+
+#~ msgid "Total Spent"
+#~ msgstr "סה\"כ"
+
+#~ msgid "Last Order Date"
+#~ msgstr "תאריך הזמנה אחרון"
+
+#~ msgid "User record"
+#~ msgstr "רשומת משתמש"
+
+#~ msgid "User records"
+#~ msgstr "רשומות משתמש"
+
+#~ msgid "User product view"
+#~ msgstr "צפיות במוצר"
+
+#~ msgid "User product views"
+#~ msgstr "צפיות במוצר"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "%(user)s צפו ב '%(product)s'"
+
+#~ msgid "Search term"
+#~ msgstr "מונח חיפוש"
+
+#~ msgid "User search query"
+#~ msgstr "שאילתות חיפוש ע\"י משתמשים"
+
+#~ msgid "User search queries"
+#~ msgstr "שאילתות חיפוש ע\"י משתמשים"
+
+#~ msgid "%(user)s searched for '%(query)s'"
+#~ msgstr "%(user)s חיפשו '%(query)s'"
+
+#~ msgid "Analytics"
+#~ msgstr "ניתוח (אנליטיקס)"
+
+#~ msgid "Basket additions"
+#~ msgstr "תוספות לסל "
+
+#~ msgid "Product analytics"
+#~ msgstr "סטטיסטיקות מוצר"
+
+#~ msgid "Name"
+#~ msgstr "שם"
+
+#~ msgid "Date registered"
+#~ msgstr "תאריך רישום"
+
+#~ msgid "Product views"
+#~ msgstr "צפיות במוצר"
+
+#~ msgid "Order lines"
+#~ msgstr "שורות בהזמנה"
+
+#~ msgid "Order items"
+#~ msgstr "פריטים בהזמנה"
+
+#~ msgid "Total spent"
+#~ msgstr "סה\"כ"
+
+#~ msgid "Date of last order"
+#~ msgstr "תאריך הזמנה אחרונה"
+
+#~ msgid "User analytics"
+#~ msgstr "סטטיסטיקת משתמשים"
+
+#~ msgid "Owner"
+#~ msgstr "בעלים"
+
+#~ msgid "Open - currently active"
+#~ msgstr "פתוח - פעיל כרגע"
+
+#~ msgid "Merged - superceded by another basket"
+#~ msgstr "מוזג - נטמע בסל אחר "
+
+#~ msgid "Saved - for items to be purchased later"
+#~ msgstr "נשמר - עבור מוצרים שיירכשו בהמשך"
+
+#~ msgid "Frozen - the basket cannot be modified"
+#~ msgstr "הוקפא - לא ניתן לשנות את הסל"
+
+#~ msgid "Submitted - has been ordered at the checkout"
+#~ msgstr "נשלח - התבצע אישור הזמנה"
+
+#~ msgid "Status"
+#~ msgstr "סטטוס"
+
+#~ msgid "Date created"
+#~ msgstr "תאריך יצירה"
+
+#~ msgid "Date merged"
+#~ msgstr "תאריך מיזוג"
+
+#~ msgid "Date submitted"
+#~ msgstr "תאריך שליחה"
+
+#~ msgid "Baskets"
+#~ msgstr "סלים"
+
+#~ msgid "%(status)s basket (owner: %(owner)s, lines: %(num_lines)d)"
+#~ msgstr "סל במצב %(status)s (בעלים: %(owner)s, מספר פריטים: %(num_lines)d )"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order."
+#~ msgstr ""
+#~ "עקב מגבלות טכניות אין באפשרותנו לספק יותר מ - %(threshold)d פריטים בהזמנה "
+#~ "אחת"
+
+#~ msgid "Line Reference"
+#~ msgstr "הפניה לשורה"
+
+#~ msgid "Quantity"
+#~ msgstr "כמות"
+
+#~ msgid "Currency"
+#~ msgstr "מטבע"
+
+#~ msgid "Price excl. Tax"
+#~ msgstr "מחיר לפני מע\"מ"
+
+#~ msgid "Price incl. Tax"
+#~ msgstr "מחיר כולל מע\"מ"
+
+#~ msgid "Basket line"
+#~ msgstr "שורה בסל"
+
+#~ msgid "Basket lines"
+#~ msgstr "שורות בסל"
+
+#~ msgid ""
+#~ "Basket #%(basket_id)d, Product #%(product_id)d, quantity %(quantity)d"
+#~ msgstr "סל #%(basket_id)d , מוצר #%(product_id)d, כמות %(quantity)d"
+
+#~ msgid "You cannot modify a %s basket"
+#~ msgstr "לא ניתן לשנות סל %s"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has increased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "המחיר של '%(product)s' עלה מ  %(old_price)s ל %(new_price)s since you "
+#~ "added it to your basket"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has decreased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "המחיר של '%(product)s' ירד מ %(old_price)s ל-%(new_price)s מאז שהוספת את "
+#~ "המוצר לסל שלך. "
+
+#~ msgid "Line"
+#~ msgstr "שורה"
+
+#~ msgid "Option"
+#~ msgstr "אפשרות"
+
+#~ msgid "Value"
+#~ msgstr "ערך"
+
+#~ msgid "Line attribute"
+#~ msgstr "תכונת שורה"
+
+#~ msgid "Line attributes"
+#~ msgstr "תכונות שורה"
+
+#~ msgid "Save for Later"
+#~ msgstr "שמור לאח\"כ"
+
+#~ msgid "Move to Basket"
+#~ msgstr "הוסף לסל"
+
+#~ msgid "Code"
+#~ msgstr "קוד"
+
+#~ msgid "Variant"
+#~ msgstr "חלופה"
+
+#~ msgid "Please select a valid product"
+#~ msgstr "אנא בחר מוצר בר תוקף"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order. Your basket currently has %(basket)d "
+#~ "items."
+#~ msgstr ""
+#~ "עקב מגבלות טכניות אין אפשרות לספק הזמנה המכילה יותר מ - %(threshold)d "
+#~ "פריטים. סל הקניות הנוכחי שלך מכיל %(basket)d פריטים."
+
+#~ msgid ""
+#~ "This product cannot be added to the basket as its currency isn't the same "
+#~ "as other products in your basket"
+#~ msgstr ""
+#~ "אי אפשר להכניס את מוצר זה לסל כיוון שמחירו נקוב במטבע שאינו זהה ליתר "
+#~ "המוצרים בסל שלך"
+
+#~ msgid ""
+#~ "We have merged a basket from a previous session. Its contents might have "
+#~ "changed."
+#~ msgstr "מיזגנו סל קניות מהבחירה הקודמת. יתכן שתוכנו השתנה. "
+
+#~ msgid "User ID"
+#~ msgstr "מזהה משתמש"
+
+#~ msgid "Email"
+#~ msgstr "אימייל"
+
+#~ msgid "Basket status"
+#~ msgstr "מצב סל הקניות"
+
+#~ msgid "Num lines"
+#~ msgstr "מספר שורות"
+
+#~ msgid "Num items"
+#~ msgstr "מספר פריטים"
+
+#~ msgid "Date of creation"
+#~ msgstr "תאריך יצירה"
+
+#~ msgid "Time since creation"
+#~ msgstr "זמן מאז יצירה"
+
+#~ msgid "Open baskets"
+#~ msgstr "סלים פתוחים"
+
+#~ msgid "Time between creation and submission"
+#~ msgstr "זמן בין יצירה לשליחה"
+
+#~ msgid "Submitted baskets"
+#~ msgstr "סלים שאושרו"
+
+#~ msgid "You can't save an item for later if you're not logged in!"
+#~ msgstr "אינך יכול לשמור פריט לאח\"כ אם לא נכנסת למערכת"
+
+#~ msgid ""
+#~ "Your basket couldn't be updated. Please correct any validation errors "
+#~ "below."
+#~ msgstr "לא ניתן היה לעדכן את הסל שלך. בבקשה לעדכן את השגיאות המסומנות."
+
+#~ msgid "The '%(code)s' voucher has expired"
+#~ msgstr "פג תוקף השובר '%(code)s'"
+
+#~ msgid "The '%(code)s' voucher is not active"
+#~ msgstr "השובר '%(code)s' אינו בתוקף."
+
+#~ msgid "Your basket does not qualify for a voucher discount"
+#~ msgstr "לא ניתן להחיל את השובר על הסל הנוכחי שלך"
+
+#~ msgid "Voucher '%(code)s' added to basket"
+#~ msgstr "השובר '%(code)s' הוסף לסל שלך "
+
+#~ msgid "You have already added the '%(code)s' voucher to your basket"
+#~ msgstr "השובר '%(code)s' כבר נוצל"
+
+#~ msgid "No voucher found with code '%(code)s'"
+#~ msgstr "לא נמצא שובר עם הקוד '%(code)s'"
+
+#~ msgid "Please enter a voucher code"
+#~ msgstr "אנא הכנס קוד שובר"
+
+#~ msgid "No voucher found with id '%s'"
+#~ msgstr "לא נמצא שובר כלשהו ל  '%s'"
+
+#~ msgid "Voucher '%s' removed from basket"
+#~ msgstr "השובר '%s' הוסר מסל הקניות "
+
+#~ msgid "Slug"
+#~ msgstr "שם מקוצר"
+
+#~ msgid "Requires shipping?"
+#~ msgstr "נדרש משלוח?"
+
+#~ msgid "Track stock levels?"
+#~ msgstr "עקוב אחר רמת מלאי?"
+
+#~ msgid "Product class"
+#~ msgstr "סוג מוצר"
+
+#~ msgid "Product classes"
+#~ msgstr "סוגי מוצרים"
+
+#~ msgid "Description"
+#~ msgstr "תאור"
+
+#~ msgid "Image"
+#~ msgstr "תמונה"
+
+#~ msgid "Category"
+#~ msgstr "קטגוריה"
+
+#~ msgid "Product category"
+#~ msgstr "קטגורית מוצר"
+
+#~ msgid "Product categories"
+#~ msgstr "קטגוריות מוצרים"
+
+#~ msgid "Stand-alone product"
+#~ msgstr "מוצר שעומד בזכות עצמו"
+
+#~ msgid "Parent product"
+#~ msgstr "מוצר הורה"
+
+#~ msgid "Child product"
+#~ msgstr "מוצר ילד"
+
+#~ msgid "Product structure"
+#~ msgstr "מבנה המוצר"
+
+#~ msgid "UPC"
+#~ msgstr "קוד מוצר בינלאומי"
+
+#~ msgid ""
+#~ "Universal Product Code (UPC) is an identifier for a product which is not "
+#~ "specific to a particular  supplier. Eg an ISBN for a book."
+#~ msgstr ""
+#~ "קוד מוצר בינלאומי (UPC) הנו מזהה עבור מוצר שאינו יחודי לספק מסוים. "
+#~ "לדוגמה, קוד ISBN של ספר."
+
+#~ msgid ""
+#~ "Only choose a parent product if you're creating a child product.  For "
+#~ "example if this is a size 4 of a particular t-shirt.  Leave blank if this "
+#~ "is a stand-alone product (i.e. there is only one version of this product)."
+#~ msgstr ""
+#~ "בחרו במוצר הורה רק אם אתם יוצרים מוצר ילד. לדוגמא, אם מדובר בחולצה במידה "
+#~ "4. השאירו ריק אם המוצר עומד בזכות עצמות (כלומר, אם יש רק גרסה אחת של מוצר "
+#~ "זה)."
+
+#~ msgctxt "Product title"
+#~ msgid "Title"
+#~ msgstr "כותרת"
+
+#~ msgid "Product type"
+#~ msgstr "סוג מוצר"
+
+#~ msgid "Choose what type of product this is"
+#~ msgstr "בחר לאיזה סוג מוצר זה משתייך"
+
+#~ msgid "Attributes"
+#~ msgstr "תכונות"
+
+#~ msgid ""
+#~ "A product attribute is something that this product may have, such as a "
+#~ "size, as specified by its class"
+#~ msgstr "תכונת מוצר היא משהו שיש למוצר, כגון מידה, ומפורט לפי סוגו. "
+
+#~ msgid "Product options"
+#~ msgstr "אפשרויות מוצר"
+
+#~ msgid ""
+#~ "Options are values that can be associated with a item when it is added to "
+#~ "a customer's basket.  This could be something like a personalised message "
+#~ "to be printed on a T-shirt."
+#~ msgstr ""
+#~ "אפשרויות הן ערכים שיכולים להיות משויכים למוצר כאשר מוסיפים אותו לסל. "
+#~ "לדוגמה - טקסט או תמונה מסוימת שרוצים שתודפס על חולצה"
+
+#~ msgid "Recommended products"
+#~ msgstr "מוצרים מומלצים"
+
+#~ msgid ""
+#~ "These are products that are recommended to accompany the main product."
+#~ msgstr "אלה המוצרים המומלצים שמתלווים למוצר הראשי."
+
+#~ msgid "Date updated"
+#~ msgstr "תאריך עודכן"
+
+#~ msgid "Is discountable?"
+#~ msgstr "ניתן לקבוע הנחה?"
+
+#~ msgid "This flag indicates if this product can be used in an offer or not"
+#~ msgstr "הגדרה זו קובעת האם מוצר זה יכול להיות כלול בהנחות או לא"
+
+#~ msgid "Your product must have a title."
+#~ msgstr "למוצר שלך חייבת להיות כותרת."
+
+#~ msgid "Your product must have a product class."
+#~ msgstr "למוצר שלך חייב להיות סיווג."
+
+#~ msgid "Only child products can have a parent."
+#~ msgstr "רק מוצר ילד אפשר שיהיה לו מוצר הורה."
+
+#~ msgid "A child product needs a parent."
+#~ msgstr "למוצר הילד דרוש הורה."
+
+#~ msgid "You can only assign child products to parent products."
+#~ msgstr "אפשר לשייך מוצר ילד רק למוצרי הורה."
+
+#~ msgid "A child product can't have a product class."
+#~ msgstr "מוצר ילד אינו יכול שיהיה לו סיווג מוצר."
+
+#~ msgid "A child product can't have a category assigned."
+#~ msgstr "מוצר ילד אינו יכול שתהיה לו קטגוריה."
+
+#~ msgid "A child product can't have options."
+#~ msgstr "מוצר ילד לא יכול להיות בעל אפשרויות."
+
+#~ msgid "A parent product can't have stockrecords."
+#~ msgstr "מוצר הורה אינו מאפשר רשומות מלאי."
+
+#~ msgid "The specified parent product is a child product."
+#~ msgstr "המוצר המתואר הינו מוצר ילד."
+
+#~ msgid "One can't add a child product to a product with stock records."
+#~ msgstr "אין באפשרותך להוסיף מוצר ילד למוצר בעל רשומות מלאי."
+
+#~ msgid "Primary product"
+#~ msgstr "מוצר ראשי."
+
+#~ msgid "Recommended product"
+#~ msgstr "מוצר מומלץ."
+
+#~ msgid "Ranking"
+#~ msgstr "דירוג"
+
+#~ msgid ""
+#~ "Determines order of the products. A product with a higher value will "
+#~ "appear before one with a lower ranking."
+#~ msgstr ""
+#~ "קובע את סדר המוצרים. מוצר בעל דירוג גבוה יופיע לפני מוצר עם דירוג נמוך "
+#~ "יותר."
+
+#~ msgid "Product recommendation"
+#~ msgstr "המלצה על מוצר."
+
+#~ msgid "Product recomendations"
+#~ msgstr "המלצות על מוצרים"
+
+#~ msgid ""
+#~ "Code can only contain the letters a-z, A-Z, digits, and underscores, and "
+#~ "can't start with a digit."
+#~ msgstr ""
+#~ "קוד יכול להכיל רק אותיות, ספרות ומקפים תחתונים, ואינו יכול להתחיל בספרה"
+
+#~ msgid "Text"
+#~ msgstr "טקסט"
+
+#~ msgid "Integer"
+#~ msgstr "מספר שלם"
+
+#~ msgid "True / False"
+#~ msgstr "נכון / לא נכון"
+
+#~ msgid "Float"
+#~ msgstr "שבר עשרוני"
+
+#~ msgid "Rich Text"
+#~ msgstr "טקסט עשיר"
+
+#~ msgid "Date"
+#~ msgstr "תאריך"
+
+#~ msgid "Datetime"
+#~ msgstr "תאריך"
+
+#~ msgid "Multi Option"
+#~ msgstr "מרובה אפשרויות"
+
+#~ msgid "Entity"
+#~ msgstr "ישות"
+
+#~ msgid "File"
+#~ msgstr "קובץ"
+
+#~ msgid "Option Group"
+#~ msgstr "קבוצת אפשרויות"
+
+#~ msgid "Select an option group if using type \"Option\" or \"Multi Option\""
+#~ msgstr "בחירה של קבוצת אפשרויות אם משתמשים ב\"אפשרות\" או \"אפשרות מרובה\""
+
+#~ msgid "Required"
+#~ msgstr "נדרש"
+
+#~ msgid "Product attribute"
+#~ msgstr "תכונת מוצר"
+
+#~ msgid "Product attributes"
+#~ msgstr "תכונות מוצר"
+
+#~ msgid "Must be str or unicode"
+#~ msgstr "חייב להיות מסוג מחרוזת או unicode"
+
+#~ msgid "Must be a float"
+#~ msgstr "חייב להיות שבר עשרוני"
+
+#~ msgid "Must be an integer"
+#~ msgstr "חייב להיות מספר שלם"
+
+#~ msgid "Must be a date or datetime"
+#~ msgstr "חייב להיות תאריך"
+
+#~ msgid "Must be a datetime"
+#~ msgstr "חייב להיות תאריכי"
+
+#~ msgid "Must be a boolean"
+#~ msgstr "חייב להיות ערך בוליאני"
+
+#~ msgid "Must be a model instance"
+#~ msgstr "חייב להיות מופע של מודל"
+
+#~ msgid "Must be a list or AttributeOption queryset"
+#~ msgstr "חייבת להיות רשומה (list) או AttributeOption queryset"
+
+#~ msgid "Must be an AttributeOption model object instance"
+#~ msgstr "חייב להיות מופע של אובייקט מודל מסוג AttributeOption"
+
+#~ msgid "AttributeOption has not been saved yet"
+#~ msgstr "התכונה עדיין לא נשמרה"
+
+#~ msgid "%(enum)s is not a valid choice for %(attr)s"
+#~ msgstr "%(enum)s אינו אפשרות תקינה עבור %(attr)s"
+
+#~ msgid "Must be a file field"
+#~ msgstr "חייב להיות שדה קובץ"
+
+#~ msgid "Attribute"
+#~ msgstr "תכונה"
+
+#~ msgid "Boolean"
+#~ msgstr "בוליאני"
+
+#~ msgid "Richtext"
+#~ msgstr "טקסט עשיר"
+
+#~ msgid "DateTime"
+#~ msgstr "תאריך"
+
+#~ msgid "Value multi option"
+#~ msgstr "ערך מרובה אפשרויות"
+
+#~ msgid "Value option"
+#~ msgstr "ערך אפשרי"
+
+#~ msgid "Product attribute value"
+#~ msgstr "ערך תכונת מוצר"
+
+#~ msgid "Product attribute values"
+#~ msgstr "ערכי תכונות של מוצר"
+
+#~ msgid "Attribute option group"
+#~ msgstr "קבוצת אפשרויות של תכונה"
+
+#~ msgid "Attribute option groups"
+#~ msgstr "קבוצות של אפשרויות תכונה"
+
+#~ msgid "Group"
+#~ msgstr "קבוצה"
+
+#~ msgid "Attribute option"
+#~ msgstr "אפשרות תכונה"
+
+#~ msgid "Attribute options"
+#~ msgstr "אפשרויות תכונה"
+
+#~ msgid "Required - a value for this option must be specified"
+#~ msgstr "נדרש להכניס ערך עבור אפשרות זו"
+
+#~ msgid "Optional - a value for this option can be omitted"
+#~ msgstr "אופציונלי - אין חובה להכניס ערך עבור אפשרות זו"
+
+#~ msgid "Original"
+#~ msgstr "מקורי"
+
+#~ msgid "Caption"
+#~ msgstr "כותרת"
+
+#~ msgid ""
+#~ "An image with a display order of zero will be the primary image for a "
+#~ "product"
+#~ msgstr "תמונה עם סדר הצגה 0 תהיה התמונה הראשית של המוצר"
+
+#~ msgid "Product image"
+#~ msgstr "תמונת המוצר"
+
+#~ msgid "Product images"
+#~ msgstr "תמונות מוצר"
+
+#~ msgid "%(obj)s has no attribute named '%(attr)s'"
+#~ msgstr "ל %(obj)s אין תכונה בשם  '%(attr)s'"
+
+#~ msgid "%(attr)s attribute cannot be blank"
+#~ msgstr "ערך התכונה  '%(attr)s' לא יכול להיות ריק"
+
+#~ msgid "%(attr)s attribute %(err)s"
+#~ msgstr "%(attr)s תכונה %(err)s"
+
+#~ msgctxt "Product review title"
+#~ msgid "Title"
+#~ msgstr "כותרת"
+
+#~ msgid "Body"
+#~ msgstr "גוף"
+
+#~ msgctxt "Anonymous reviewer name"
+#~ msgid "Name"
+#~ msgstr "שם"
+
+#~ msgid "URL"
+#~ msgstr "קישור"
+
+#~ msgid "Requires moderation"
+#~ msgstr "דורש עריכה"
+
+#~ msgid "Approved"
+#~ msgstr "מאושר"
+
+#~ msgid "Rejected"
+#~ msgstr "נדחה"
+
+#~ msgid "Total Votes"
+#~ msgstr "סה\"כ הצבעות"
+
+#~ msgid "Delta Votes"
+#~ msgstr "הצבעות דלתא"
+
+#~ msgid "Product review"
+#~ msgstr "סקירה מוצר"
+
+#~ msgid "Product reviews"
+#~ msgstr "ביקורות מוצר"
+
+#~ msgid "Anonymous reviews must include a name and an email"
+#~ msgstr "ביקורות אנונימיות חייבות לכלול שם וכתובת דוא\"ל"
+
+#~ msgid "anonymous"
+#~ msgstr "אנונימי"
+
+#~ msgid "Only signed in users can vote"
+#~ msgstr "רק משתמשים רשומים יכולים להצביע"
+
+#~ msgid "Up"
+#~ msgstr "מעלה"
+
+#~ msgid "Down"
+#~ msgstr "מטה"
+
+#~ msgid "Delta"
+#~ msgstr "דלתא"
+
+#~ msgid "Vote"
+#~ msgstr "הצבעה"
+
+#~ msgid "Votes"
+#~ msgstr "הצבעות"
+
+#~ msgid "You cannot vote on your own reviews"
+#~ msgstr "אינך יכול/ה להצביע על ביקורות שנכתבו על ידך"
+
+#~ msgid "Only signed-in users can vote on reviews"
+#~ msgstr "משתמשים רשומים בלבד יכולים להצביע"
+
+#~ msgid "You can only vote once on a review"
+#~ msgstr "ניתן להצביע רק פעם אחת על כל סקירה"
+
+#~ msgid "Catalogue reviews"
+#~ msgstr "חוות דעת הקטלוג"
+
+#~ msgid "Recency"
+#~ msgstr "לאחרונה"
+
+#~ msgid "Sort by"
+#~ msgstr "מיין לפי"
+
+#~ msgid "You have already reviewed this product!"
+#~ msgstr "כתבת כבר סקירה על מוצר זה!"
+
+#~ msgid "You can't leave a review for this product."
+#~ msgstr "אין באפשרותך לכתוב סקירה על מוצר זה"
+
+#~ msgid "Thank you for reviewing this product"
+#~ msgstr "תודה על כתיבת הסקירה"
+
+#~ msgid "Thanks for voting!"
+#~ msgstr "תודה שהצבעת!"
+
+#~ msgid "%(filename)s is not a valid image (%(error)s)"
+#~ msgstr "%(filename)s אינו קובץ תמונה חוקי (%(error)s)"
+
+#~ msgid "%s is not a valid image archive"
+#~ msgstr "%s אינו קובץ תמונה חוקי"
+
+#~ msgid "The given page number was invalid."
+#~ msgstr "מספר הדף שניתן אינו נכון. "
+
+#~ msgid "Checkout"
+#~ msgstr "לסיום קניה"
+
+#~ msgid "My email address is"
+#~ msgstr "כתובת האימייל שלי היא"
+
+#~ msgid "I am a new customer and want to checkout as a guest"
+#~ msgstr "אני לקוח/ה חדש המעונין לבצע קנייה ללא רישום"
+
+#~ msgid ""
+#~ "I am a new customer and want to create an account before checking out"
+#~ msgstr "אני לקוח/ה חדש וברצוני ליצור חשבון לפני סיום הקניה"
+
+#~ msgid "I am a returning customer, and my password is"
+#~ msgstr "אני לקוח/ה רשום, וסיסמתי היא"
+
+#~ msgid "A user with that email address already exists"
+#~ msgstr "קיים כבר משתמש בעל אותה כתובת דוא\"ל"
+
+#~ msgid "You need to add some items to your basket to checkout"
+#~ msgstr "יש להוסיף מוצרים לסל לפני סיום הקניה"
+
+#~ msgid ""
+#~ "'%(title)s' is no longer available to buy (%(reason)s). Please adjust "
+#~ "your basket to continue"
+#~ msgstr ""
+#~ "'%(title)s'  אינו זמין לקנייה (%(reason)s).  \n"
+#~ "אנא התאם את הסל שלך כדי להמשיך."
+
+#~ msgid "Please either sign in or enter your email address"
+#~ msgstr "יש להיכנס לחשבונך או להכניס את כתובת האימייל"
+
+#~ msgid "Please choose a shipping address"
+#~ msgstr "נא לבחור כתובת למשלוח"
+
+#~ msgid ""
+#~ "Your previously chosen shipping address is no longer valid.  Please "
+#~ "choose another one"
+#~ msgstr "שיטת המשלוח שבחרתם קודם אינה תקפה יותר. אנא בחרו אחרת."
+
+#~ msgid "Please choose a shipping method"
+#~ msgstr "נא לבחור שיטת משלוח"
+
+#~ msgid ""
+#~ "Your previously chosen shipping method is no longer valid.  Please choose "
+#~ "another one"
+#~ msgstr "שיטת המשלוח שבחרתם קודם אינה תקפה יותר. אנא בחרו אחרת."
+
+#~ msgid ""
+#~ "Create your account and then you will be redirected back to the checkout "
+#~ "process"
+#~ msgstr "מלא/י את פרטיך ולאחר מכן תופנה/י בחזרה לסיום הקניה"
+
+#~ msgid "Address saved"
+#~ msgstr "הכתובת נשמרה"
+
+#~ msgid "Address deleted"
+#~ msgstr "הכתובת נמחקה"
+
+#~ msgid ""
+#~ "Shipping is unavailable for your chosen address - please choose another"
+#~ msgstr "לא מתבצעים משלוחים אל הכתובת שנבחרה - יש לבחור כתובת אחרת"
+
+#~ msgid "Your submitted shipping method is not permitted"
+#~ msgstr "שיטת המשלוח שנבחרה אינה חוקית"
+
+#~ msgid ""
+#~ "A problem occurred while processing payment for this order - no payment "
+#~ "has been taken.  Please contact customer services if this problem persists"
+#~ msgstr ""
+#~ "ארעה שגיאה בזמן עיבוד התשלום עבור הזמנה זו. לא נגבה תשלום.אנא פנו לשירות "
+#~ "הלקוחות אם הבעיה ממשיכה"
+
+#~ msgid "No order found"
+#~ msgstr "לא נמצאה הזמנה"
+
+#~ msgid "email address"
+#~ msgstr "כתובת אימייל"
+
+#~ msgid "Staff status"
+#~ msgstr "סטטוס איש צוות"
+
+#~ msgid "Designates whether the user can log into this admin site."
+#~ msgstr "קובע האם המשתמש יכול להיכנס לאתר הניהול"
+
+#~ msgid "Active"
+#~ msgstr "פעיל"
+
+#~ msgid ""
+#~ "Designates whether this user should be treated as active. Unselect this "
+#~ "instead of deleting accounts."
+#~ msgstr ""
+#~ "מציין האם ניתן להתחייחס למשתמש זה כפעיל. השתמש בשיטה זו במקום למחוק "
+#~ "חשבונות."
+
+#~ msgid "date joined"
+#~ msgstr "תאריך הצטרפות"
+
+#~ msgid "Users"
+#~ msgstr "משתמשים"
+
+#~ msgid "Email Address"
+#~ msgstr "כתובת דוא\"ל"
+
+#~ msgid "Subject"
+#~ msgstr "נושא"
+
+#~ msgid "Body Text"
+#~ msgstr "טקסט"
+
+#~ msgid "Body HTML"
+#~ msgstr "גוף HTML"
+
+#~ msgid "Date Sent"
+#~ msgstr "תאריך שליחה"
+
+#~ msgid "Emails"
+#~ msgstr "אימיילים"
+
+#~ msgid "Email to %(user)s with subject '%(subject)s'"
+#~ msgstr "שלח דואר אלקטרוני ל%(user)s עם הנושא '%(subject)s'"
+
+#~ msgid "Anonymous email to %(email)s with subject '%(subject)s'"
+#~ msgstr "דוא\"ל אנונימי עבור %(email)s עם הנושא  '%(subject)s'"
+
+#~ msgid "Code used for looking up this event programmatically"
+#~ msgstr "קוד המשמש לאיחזור אירוע זה באופן ממוחשב"
+
+#~ msgid "This is just used for organisational purposes"
+#~ msgstr "משמש רק לצרכים ארגוניים פנימיים"
+
+#~ msgid "Order related"
+#~ msgstr "קשור להזמנה"
+
+#~ msgid "User related"
+#~ msgstr "קשור למשתמש"
+
+#~ msgid "Email Subject Template"
+#~ msgstr "תבנית לכותרת דוא\"ל"
+
+#~ msgid "Email Body Template"
+#~ msgstr "תבנית לגוף דוא\"ל"
+
+#~ msgid "Email Body HTML Template"
+#~ msgstr "תבנית לגוף HTML של דוא\"ל"
+
+#~ msgid "HTML template"
+#~ msgstr "תבנית HTML"
+
+#~ msgid "SMS Template"
+#~ msgstr "תבנית SMS"
+
+#~ msgid "SMS template"
+#~ msgstr "תבנית SMS"
+
+#~ msgid "Date Updated"
+#~ msgstr "תאריך עדכון"
+
+#~ msgid "Communication event type"
+#~ msgstr "סוג אירוע תקשורת"
+
+#~ msgid "Communication event types"
+#~ msgstr "סוגי אירועי תקשורת"
+
+#~ msgid "Inbox"
+#~ msgstr "דואר נכנס"
+
+#~ msgid "Archive"
+#~ msgstr "כיון"
+
+#~ msgid "Notification"
+#~ msgstr "הודעה"
+
+#~ msgid "Notifications"
+#~ msgstr "הודעות"
+
+#~ msgid "Key"
+#~ msgstr "פתח"
+
+#~ msgid "Not yet confirmed"
+#~ msgstr "לא אושרה"
+
+#~ msgid "Cancelled"
+#~ msgstr "בוטלה"
+
+#~ msgid "Closed"
+#~ msgstr "נסגרה"
+
+#~ msgid "Date confirmed"
+#~ msgstr "תאריך אישור"
+
+#~ msgid "Date cancelled"
+#~ msgstr "תאריך ביטול"
+
+#~ msgid "Date closed"
+#~ msgstr "תאריך סגירה"
+
+#~ msgid "Product alert"
+#~ msgstr "התרעת מוצר"
+
+#~ msgid "Product alerts"
+#~ msgstr "התרעות מוצר"
+
+#~ msgid "Product Alerts"
+#~ msgstr "התראות מוצר"
+
+#~ msgid "An alert has been created"
+#~ msgstr "התראה חדשה נוצרה"
+
+#~ msgid "A confirmation email has been sent to %s"
+#~ msgstr "אימייל אישור נשלח ל %s"
+
+#~ msgid "Your stock alert is now active"
+#~ msgstr "התראת המלאי שלך פעילה כעת"
+
+#~ msgid "Your stock alert cannot be confirmed"
+#~ msgstr "לא ניתן לאשר את התראת המלאי"
+
+#~ msgid "Your stock alert has been cancelled"
+#~ msgstr "התראת המלאי שלך בוטלה"
+
+#~ msgid "Your stock alert cannot be cancelled"
+#~ msgstr "לא ניתן לבטל את התראת המלאי שלך"
+
+#~ msgid "Customer"
+#~ msgstr "לקוח"
+
+#~ msgid "Email address"
+#~ msgstr "כתובת אימייל"
+
+#~ msgid "Password"
+#~ msgstr "סיסמה"
+
+#~ msgid "The entered password is not valid!"
+#~ msgstr "הסיסמא שהוקלדה אינה חוקית!"
+
+#~ msgid "Confirm password"
+#~ msgstr "אישור סיסמה"
+
+#~ msgid "The two password fields didn't match."
+#~ msgstr "אין התאמה בין שתי הסיסמאות"
+
+#~ msgctxt "start date"
+#~ msgid "From"
+#~ msgstr "מאת"
+
+#~ msgctxt "end date"
+#~ msgid "To"
+#~ msgstr "אל"
+
+#~ msgid "Order number"
+#~ msgstr "מספר הזמנה"
+
+#~ msgid "At least one field is required."
+#~ msgstr "חובה למלא שדה אחד לפחות"
+
+#~ msgid "All orders"
+#~ msgstr "כל ההזמנות"
+
+#~ msgid ""
+#~ "Orders placed between %(date_from)s and %(date_to)s and order number "
+#~ "containing %(order_number)s"
+#~ msgstr ""
+#~ "הזמנות שנרשמו בין התאריכים %(date_from)s ל %(date_to)s ומספר ההזמנה כולל "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed between %(date_from)s and %(date_to)s"
+#~ msgstr "הזמנות שנרשמו בין התאריכים %(date_from)s ל %(date_to)s"
+
+#~ msgid ""
+#~ "Orders placed since %(date_from)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "ההזמנה בוצעה מתאריך  %(date_from)s ומספר הזמנה מכיל %(order_number)s"
+
+#~ msgid "Orders placed since %(date_from)s"
+#~ msgstr "ההזמנה בוצעה מאז %(date_from)s"
+
+#~ msgid ""
+#~ "Orders placed until %(date_to)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr "ההזמנה תשמר עד  %(date_to)s ומספר ההזמנה הוא %(order_number)s"
+
+#~ msgid "Orders placed until %(date_to)s"
+#~ msgstr "ההזמנה תשמר עד %(date_to)s"
+
+#~ msgid "Orders with order number containing %(order_number)s"
+#~ msgstr "הזמנות עם מספרי הזמנות המכילים %(order_number)s"
+
+#~ msgid "A user with this email address already exists"
+#~ msgstr "משתמש עם כתובת דוא\"ל זו כבר קיים במערכת"
+
+#~ msgid "Send notification to"
+#~ msgstr "שלח התראות ל"
+
+#~ msgid "Enter your email"
+#~ msgstr "הכנס/י את האימייל שלך"
+
+#~ msgid "There is already an active stock alert for %s"
+#~ msgstr "יש כבר התרעת מלאי פעילה עבור %s"
+
+#~ msgid ""
+#~ "%s has been sent a confirmation email for another product alert on this "
+#~ "site. Please confirm or cancel that request before signing up for more "
+#~ "alerts."
+#~ msgstr ""
+#~ "%s נשלחה בקשת דוא\"ל עבור אתראת מוצר אחר באתר זה. יש לאשר או לבטל את "
+#~ "הבקשה בכדי להרשם לאתראות נוספות. "
+
+#~ msgid "You already have an active alert for this product"
+#~ msgstr "קיימת התראת מלאי עבור מוצר זה"
+
+#~ msgid "%(count)d notification archived"
+#~ msgid_plural "%(count)d notifications archived"
+#~ msgstr[0] "%(count)d הודעה הועברה לארכיון"
+#~ msgstr[1] "%(count)d הודעות הועברו לארכיון"
+#~ msgstr[2] "%(count)d הודעות הועברו לארכיון"
+#~ msgstr[3] "%(count)d הודעות הועברו לארכיון"
+
+#~ msgid "%(count)d notification deleted"
+#~ msgid_plural "%(count)d notifications deleted"
+#~ msgstr[0] "%(count)d הודעה בוטלה"
+#~ msgstr[1] "%(count)d הודעות בוטלו"
+#~ msgstr[2] "%(count)d הודעות בוטלו"
+#~ msgstr[3] "%(count)d הודעות בוטלו"
+
+#~ msgid "Welcome back"
+#~ msgstr "ברוכים השבים!"
+
+#~ msgid "Thanks for registering!"
+#~ msgstr "תודה שנרשמתם!"
+
+#~ msgid "Profile"
+#~ msgstr "פרופיל"
+
+#~ msgid "Edit Profile"
+#~ msgstr "ערוך פרופיל"
+
+#~ msgid "Profile updated"
+#~ msgstr "הפרופיל עודכן"
+
+#~ msgid "Delete profile"
+#~ msgstr "מחק את הפרופיל"
+
+#~ msgid "Your profile has now been deleted. Thanks for using the site."
+#~ msgstr "פרופילך נמחק. תודה שהשתמשת באתר."
+
+#~ msgid "Change Password"
+#~ msgstr "שינוי סיסמה"
+
+#~ msgid "Password updated"
+#~ msgstr "הסיסמה שונתה"
+
+#~ msgid "Email History"
+#~ msgstr "היסטוריית אימיילים"
+
+#~ msgid "Order History"
+#~ msgstr "היסטוריית הזמנות"
+
+#~ msgid "Order"
+#~ msgstr "הזמנה"
+
+#~ msgid ""
+#~ "All available lines from order %(number)s have been added to your basket"
+#~ msgstr "כל המוצרים הזמינים מהזמנה מספר %(number)s הוספו לסל הקניות"
+
+#~ msgid ""
+#~ "It is not possible to re-order order %(number)s as none of its lines are "
+#~ "available to purchase"
+#~ msgstr ""
+#~ "לא ניתן להזמין מחדש את הזמנה מס' %(number)s מכיוון שכל המוצרים הכלולים בה "
+#~ "אינם זמינים "
+
+#~ msgid "%(qty)d copies of '%(product)s' have been added to your basket"
+#~ msgstr "%(qty)d עותקים של '%(product)s' הוספו לסל שלך"
+
+#~ msgid "'%s' has been added to your basket"
+#~ msgstr "'%s' הוסף לסל הקניות"
+
+#~ msgid "Address Book"
+#~ msgstr "כתובות"
+
+#~ msgid "Add a new address"
+#~ msgstr "הוספת כתובת חדשה"
+
+#~ msgid "Address '%s' created"
+#~ msgstr "הכתובת '%s' נוצרה"
+
+#~ msgid "Edit address"
+#~ msgstr "עריכת כתובת"
+
+#~ msgid "Address '%s' updated"
+#~ msgstr "הכתובת '%s' עודכנה"
+
+#~ msgid "Delete address?"
+#~ msgstr "מחק כתובת?"
+
+#~ msgid "Address '%s' deleted"
+#~ msgstr "הכתובת '%s' נמחקה"
+
+#~ msgid "We do not ship to this country"
+#~ msgstr "איננו מבצעים משלוח לארץ זו"
+
+#~ msgid "Wish Lists"
+#~ msgstr "רשימת משאלות"
+
+#~ msgid "Quantities updated."
+#~ msgstr "כמויות עודכנו"
+
+#~ msgid "Create a new wish list"
+#~ msgstr "צרו רשימת משאלות חדשה"
+
+#~ msgid "The requested product no longer exists"
+#~ msgstr "המוצר המבוקש אינו קיים יותר"
+
+#~ msgid "Your wishlist has been created and '%(name)s has been added"
+#~ msgstr "רשימת המשאלות שלך נוצרה ו-'%(name)s  נוספו אליה"
+
+#~ msgid "Your wishlist has been created"
+#~ msgstr "רשימת המשאלות שלך נוצרה"
+
+#~ msgid "%(title)s has been added to your wishlist"
+#~ msgstr "%(title)s נוספו לרשימת המשאלות שלך"
+
+#~ msgid "Your '%s' wishlist has been updated"
+#~ msgstr "רשימת מתנות %s' עודכנה"
+
+#~ msgid "Delete %s"
+#~ msgstr "מחיקת %s"
+
+#~ msgid "Your '%s' wish list has been deleted"
+#~ msgstr "רשימת מתנות %s' נמחקה"
+
+#~ msgid "'%s' was added to your wish list."
+#~ msgstr "%s' הוסף לרשימת המתנות"
+
+#~ msgid "Remove %s"
+#~ msgstr "הסר %s"
+
+#~ msgid "'%(title)s' was removed from your '%(name)s' wish list"
+#~ msgstr "'%(title)s'  הוסר מרשימת מתנות '%(name)s' "
+
+#~ msgid "Wish list '%(name)s' already containing '%(title)s'"
+#~ msgstr "רשימת המשאלות '%(name)s' כבר כוללת  '%(title)s'"
+
+#~ msgid "'%(title)s' moved to '%(name)s' wishlist"
+#~ msgstr "'%(title)s' הועבר לרשימת מתנות '%(name)s'"
+
+#~ msgid "Create a new product of type"
+#~ msgstr "צרו מוצר חדש מסוג"
+
+#~ msgid "-- Choose type --"
+#~ msgstr "-- בחרו סוג --"
+
+#~ msgid "Product title"
+#~ msgstr "כותרת המוצר"
+
+#~ msgid "Select an option group"
+#~ msgstr "בחירת קבוצת אפשרויות"
+
+#~ msgid ""
+#~ "At least one stock record must be set to a partner that you're associated "
+#~ "with."
+#~ msgstr "יש להגדיר לפחות פריט מלאי אחד עבור שותף מקושר אליך"
+
+#~ msgid "Stand-alone and parent products must have at least one category"
+#~ msgstr "מוצרים שעומדים לבדם ומוצרי אב חייבים להיות בעלי קטגוריה אחת לפחות."
+
+#~ msgid "A child product should not have categories"
+#~ msgstr "מוצר ילד צריך להיות ללא קטגוריות"
+
+#~ msgid "Title"
+#~ msgstr "כותרת"
+
+#~ msgid "Variants"
+#~ msgstr "גרסאות"
+
+#~ msgid "Stock records"
+#~ msgstr "רשומות מלאי"
+
+#~ msgid "Actions"
+#~ msgstr "פעולות"
+
+#~ msgid "Number of child categories"
+#~ msgstr "מספר קטגוריות בנות"
+
+#~ msgid "%s Category"
+#~ msgid_plural "%s Categories"
+#~ msgstr[0] "%s קטגוריה"
+#~ msgstr[1] "%s קטגוריות"
+#~ msgstr[2] "%s קטגוריות"
+#~ msgstr[3] "%s קטגוריות"
+
+#~ msgid "Option summary"
+#~ msgstr "סיכום אפשרויות"
+
+#~ msgid "%s Attribute Option Group"
+#~ msgid_plural "%s Attribute Option Groups"
+#~ msgstr[0] "%s קבוצת אפשרויות תכונה"
+#~ msgstr[1] "%s קבוצות אפשרויות תכונה"
+#~ msgstr[2] "%s קבוצות אפשרויות תכונה"
+#~ msgstr[3] "%s קבוצות אפשרויות תכונה"
+
+#~ msgid "Product search results"
+#~ msgstr "תוצאות חיפוש מוצר"
+
+#~ msgid "Please choose a product type"
+#~ msgstr "אנא בחרו סוג מוצר"
+
+#~ msgid "Create new %(product_class)s product"
+#~ msgstr "צור %(product_class)s מוצר חדש"
+
+#~ msgid "Create new variant of %(parent_product)s"
+#~ msgstr "צור גרסה חדשה של %(parent_product)s"
+
+#~ msgid "Editing variant of %(parent_product)s"
+#~ msgstr "עורך משתנה של %(parent_product)s"
+
+#~ msgid "Your submitted data was not valid - please correct the errors below"
+#~ msgstr "הזנת מידע שאינו תקף - אנא תקן את השגיאות המופיעות מטה"
+
+#~ msgid "Delete product variant?"
+#~ msgstr "למחוק גרסת מוצר?"
+
+#~ msgid "Delete product?"
+#~ msgstr "למחוק מוצר?"
+
+#~ msgid "Deleted product variant '%s'"
+#~ msgstr "משתנה מוצר '%s' נמחק"
+
+#~ msgid "Deleted product '%s'"
+#~ msgstr "מוצר  '%s' נמחק "
+
+#~ msgid "Alerts with status \"%s\""
+#~ msgstr "התראות בסטטוס \"%s\""
+
+#~ msgid "All alerts"
+#~ msgstr "כל ההתראות"
+
+#~ msgid "Add a new category"
+#~ msgstr "הוסיפו קטגוריה חדשה"
+
+#~ msgid "Category created successfully"
+#~ msgstr "קטגוריה נוספה בהצלחה"
+
+#~ msgid "Update category '%s'"
+#~ msgstr "קטגוריה  '%s' עודכנה "
+
+#~ msgid "Category updated successfully"
+#~ msgstr "קטגוריה עודכנה בהצלחה"
+
+#~ msgid "Category deleted successfully"
+#~ msgstr "קטגוריה נמחקה בהצלחה"
+
+#~ msgid "Add a new product type"
+#~ msgstr "הוסף סוג חדש של מוצר"
+
+#~ msgid "Product type created successfully"
+#~ msgstr "סוג מוצר נוסף בהצלחה"
+
+#~ msgid "Update product type '%s'"
+#~ msgstr "סוג מוצר '%s' עודכן"
+
+#~ msgid "Product type updated successfully"
+#~ msgstr "סוג מוצר עודכן בהצלחה"
+
+#~ msgid "Delete product type '%s'"
+#~ msgstr "סוג מוצר '%s' נמחק"
+
+#~ msgid "Unable to delete '%s'"
+#~ msgstr "בלתי אפשרי למחוק את  '%s'"
+
+#~ msgid "%i products are still assigned to this type"
+#~ msgstr "מוצרי %i עדיין משוייכים לסוג זה"
+
+#~ msgid "Product type deleted successfully"
+#~ msgstr "סוג מוצר נמחק בהצלחה"
+
+#~ msgid "Add a new Attribute Option Group"
+#~ msgstr "הוספת קבוצת אפשרויות לתכונה"
+
+#~ msgid "Attribute Option Group created successfully"
+#~ msgstr "קבוצת אפשרויות תכונה נוצרה בהצלחה"
+
+#~ msgid "Update Attribute Option Group '%s'"
+#~ msgstr "עדכון קבוצת אפשרויות תכונה  '%s'"
+
+#~ msgid "Attribute Option Group updated successfully"
+#~ msgstr "קבוצת אפשרויות תכונה עודכנה בהצלחה"
+
+#~ msgid "Delete Attribute Option Group '%s'"
+#~ msgstr "ביטול קבוצת אפשרויות תכונה  '%s'"
+
+#~ msgid ""
+#~ "%i product attributes are still assigned to this attribute option group"
+#~ msgstr "%i תכונות מוצר עדיין מקושרות לקבוצת אפשרויות התכונה"
+
+#~ msgid "Attribute Option Group deleted successfully"
+#~ msgstr "קבוצת אפשרויות תכונה בוטלה בהצלחה"
+
+#~ msgid "Communications dashboard"
+#~ msgstr "לוח בקרת תקשורת"
+
+#~ msgid "Email subject template"
+#~ msgstr "תבנית כותרת דוא\"ל"
+
+#~ msgid "Email body text template"
+#~ msgstr "תבנית טקסט גוף דוא\"ל"
+
+#~ msgid "Email body HTML template"
+#~ msgstr "תבנית גוף HTML דוא\"ל"
+
+#~ msgid "Preview email"
+#~ msgstr "תצוגה מקדימה של הדוא\"ל"
+
+#~ msgid "No order found with this number"
+#~ msgstr "לא נמצאה הזמנה עם מספר זה"
+
+#~ msgid "Please enter an email address"
+#~ msgstr "אנא כתבו כתובת דוא\"ל"
+
+#~ msgid ""
+#~ "The submitted form was not valid, please correct the errors and resubmit"
+#~ msgstr "הטופס שנשלח לא היה חוקי, אנא תקנו את השגיאות ושלחו מחדש"
+
+#~ msgid "Email saved"
+#~ msgstr "דוא\"ל נשמר"
+
+#~ msgid "A preview email has been sent to %s"
+#~ msgstr "דוא\"ל תצוגה מקדימה נשלח ל %s"
+
+#~ msgid "Offers dashboard"
+#~ msgstr "לוח בקרת הצעות"
+
+#~ msgid "Start date"
+#~ msgstr "תאריך התחלה"
+
+#~ msgid "End date"
+#~ msgstr "תאריך סיום"
+
+#~ msgid "The end date must be after the start date"
+#~ msgstr "תאריך הסיום חייב להיות אחרי תאריך ההתחלה"
+
+#~ msgid "Custom condition"
+#~ msgstr "תנאי מותאם אישית"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom condition"
+#~ msgstr "אנא בחרו טווח, סוג וערך או בחרו תנאי מותאם אישית"
+
+#~ msgid "A range is required"
+#~ msgstr "חובה לבחור בטווח"
+
+#~ msgid "Custom incentive"
+#~ msgstr "תמריץ מותאם אישית"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom incentive"
+#~ msgstr "אנא בחרו טווח, סוג וערך או בחרו מתמריץ מותאם אישית"
+
+#~ msgid "No other options can be set if you are using a custom incentive"
+#~ msgstr ""
+#~ "אין אפשרויות אחרות שיכולות להיות מוגדרות אם את/ה משתמש/ת בתמריץ מוגדר "
+#~ "אישית"
+
+#~ msgid "Offer name"
+#~ msgstr "שם המבצע"
+
+#~ msgid "Is active?"
+#~ msgstr "פעיל?"
+
+#~ msgid "Order date"
+#~ msgstr "תאריך הזמנה"
+
+#~ msgid "Order total"
+#~ msgstr "סה\"כ הזמנה"
+
+#~ msgid "Cost"
+#~ msgstr "עלות"
+
+#~ msgid "All offers"
+#~ msgstr "כל המבצעים"
+
+#~ msgid "Offers matching '%s'"
+#~ msgstr "מבצעים תואמים ל-'%s'"
+
+#~ msgid "%s step not complete"
+#~ msgstr "שלב %s לא הושלם"
+
+#~ msgid "Offer '%s' updated"
+#~ msgstr "המבצע  '%s' עודכן"
+
+#~ msgid "Offer '%s' created!"
+#~ msgstr "המבצע '%s' נוצר!"
+
+#~ msgid "Name and description"
+#~ msgstr "שם ותיאור"
+
+#~ msgid "Incentive"
+#~ msgstr "תמריץ"
+
+#~ msgid "Restrictions"
+#~ msgstr "הגבלות"
+
+#~ msgid "Offer deleted!"
+#~ msgstr "המבצע נמחק!"
+
+#~ msgid "Offer is already suspended"
+#~ msgstr "המבצע כבר בהשעיה"
+
+#~ msgid "Offer suspended"
+#~ msgstr "המבצע בהשעיה"
+
+#~ msgid "Offer cannot be reinstated as it is not currently suspended"
+#~ msgstr "ההצעה אינה יכולה להיות מחודשת כיוון שאינה מושעית"
+
+#~ msgid "Offer reinstated"
+#~ msgstr "המבצע הוחזר לתוקף"
+
+#~ msgid "Orders dashboard"
+#~ msgstr "לוח בקרת הזמנות"
+
+#~ msgid "Orders placed since %s"
+#~ msgstr "הזמנות שנרשמו החל מ %s"
+
+#~ msgid "Orders placed until %s"
+#~ msgstr "הזמנות שנרשמו עד %s"
+
+#~ msgid "Customer name"
+#~ msgstr "שם לקוח"
+
+#~ msgid "Product name"
+#~ msgstr "שם מוצר"
+
+#~ msgid "Partner SKU"
+#~ msgstr "מזהה ספק"
+
+#~ msgid "Date from"
+#~ msgstr "תאריך תאריך מ - "
+
+#~ msgid "Date to"
+#~ msgstr " תאריך עד "
+
+#~ msgid "Voucher code"
+#~ msgstr "קוד שובר"
+
+#~ msgid "Payment method"
+#~ msgstr "פרטי צורת תשלום"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "CSV"
+#~ msgstr "CSV"
+
+#~ msgid "Get results as"
+#~ msgstr "הצג תוצאות כ"
+
+#~ msgid "New order status"
+#~ msgstr "מצב הזמנה חדש"
+
+#~ msgid "Order number starts with \"{order_number}\""
+#~ msgstr "מספר הזמנה מתחיל ב \"{order_number}\""
+
+#~ msgid "Customer name matches \"{customer_name}\""
+#~ msgstr "שם לקוח תואם את \"{customer_name}\""
+
+#~ msgid "Product name matches \"{product_name}\""
+#~ msgstr "שם מוצר תואם את \"{product_name}\""
+
+#~ msgid "Includes an item with UPC \"{upc}\""
+#~ msgstr "כולל פריט עם  UPC \"{upc}\""
+
+#~ msgid "Includes an item with partner SKU \"{partner_sku}\""
+#~ msgstr "כולל פריט עם מספר פריט של השותף \"{partner_sku}\""
+
+#~ msgid "Placed between {start_date} and {end_date}"
+#~ msgstr "הוזמן בין {start_date} ו {end_date}"
+
+#~ msgid "Placed after {start_date}"
+#~ msgstr "הוזמן אחרי {start_date}"
+
+#~ msgid "Placed before {end_date}"
+#~ msgstr "הוזמן לפני {end_date}"
+
+#~ msgid "Used voucher code \"{voucher_code}\""
+#~ msgstr "שומש קוד שובר  \"{voucher_code}\""
+
+#~ msgid "Paid using {payment_method}"
+#~ msgstr "שולם ב  {payment_method}"
+
+#~ msgid "Order status is {order_status}"
+#~ msgstr "סטטוס הזמנה הנו  {order_status}"
+
+#~ msgid "Order value"
+#~ msgstr "ערך הזמנה"
+
+#~ msgid "Date of purchase"
+#~ msgstr "תאריך רכישה"
+
+#~ msgid "Number of items"
+#~ msgstr "מספר הפריטים"
+
+#~ msgid "Order status"
+#~ msgstr "מצב הזמנה"
+
+#~ msgid "Customer email address"
+#~ msgstr "כתובת אימייל של הלקוח"
+
+#~ msgid "Deliver to name"
+#~ msgstr "משלוח לשם הבא"
+
+#~ msgid "Bill to name"
+#~ msgstr "שלח חשבונית על שם"
+
+#~ msgid "The new status '%s' is not valid"
+#~ msgstr "הסטטוס החדש  '%s' לא תקף"
+
+#~ msgid "The new status '%s' is not valid for this order"
+#~ msgstr "הסטטוס החדש  '%s' לא תקף להזמנה זו"
+
+#~ msgid "Unable to change order status due to payment error: %s"
+#~ msgstr "אין אפשרות לשנות את סטטוס ההזמנה בגלל בעיית תשלום: %s"
+
+#~ msgid "Order status changed from '%(old_status)s' to '%(new_status)s'"
+#~ msgstr "סטטוס הזמנה השתנה מ'%(old_status)s ל-'%(new_status)s'"
+
+#~ msgid "No valid action submitted"
+#~ msgstr "לא הוזנה פעולה חוקית"
+
+#~ msgid "Invalid action"
+#~ msgstr "פעולה לא חוקית"
+
+#~ msgid "You must select some lines to act on"
+#~ msgstr "אנא בחרו כמה שורות לעבוד עליהן"
+
+#~ msgid "Invalid lines requested"
+#~ msgstr "בחירת שורות אינה תקפה"
+
+#~ msgid "The entered quantity for line #%s is not valid"
+#~ msgstr "הכמות המוזנת לשורה  %s אינה תקפה"
+
+#~ msgid ""
+#~ "The entered quantity for line #%(line_id)s should not be higher than "
+#~ "%(quantity)s"
+#~ msgstr "הכמות המוזנת לשורה  #%(line_id)s צריכה להיות גבוהה מ- %(quantity)s"
+
+#~ msgid "Note saved"
+#~ msgstr "הפתק נשמר"
+
+#~ msgid "Note cannot be deleted"
+#~ msgstr "אין אפשרות למחוק את הפתק"
+
+#~ msgid "Note deleted"
+#~ msgstr "הפתק נמחק"
+
+#~ msgid "Invalid form submission"
+#~ msgstr "שליחת טופס בלתי חוקית"
+
+#~ msgid ""
+#~ "Unable to change order status as the requested new status is not valid"
+#~ msgstr "אין אפשרות לשנות את מצב ההזמנה כיוון שהמצב החדש אינו חוקי"
+
+#~ msgid "Please choose a valid amount"
+#~ msgstr "אנא בחרו כמות חוקית"
+
+#~ msgid "'%(status)s' is not a valid new status for line %(line_id)d"
+#~ msgstr "'%(status)s' אינו סטטוס חדש תקף לשורה %(line_id)d"
+
+#~ msgid ""
+#~ "Status of line #%(line_id)d changed from '%(old_status)s' to "
+#~ "'%(new_status)s'"
+#~ msgstr ""
+#~ "סטטוס של שורה #%(line_id)d שונה מ '%(old_status)s' ל'%(new_status)s'"
+
+#~ msgid "The event type '%s' is not valid"
+#~ msgstr "סוג האירוע '%s' אינו תקף"
+
+#~ msgid "Unable to create shipping event: %s"
+#~ msgstr "אין אפשרות לייצר אירוע משלוח %s"
+
+#~ msgid "Unable to create shipping event due to payment error: %s"
+#~ msgstr "אין אפשרות לייצר אירוע משלוח בגלל שגיאת תשלום: %s"
+
+#~ msgid "Shipping event created"
+#~ msgstr "אירוע משלוח נוצר"
+
+#~ msgid "Unable to create payment event due to payment error: %s"
+#~ msgstr "אין אפשרות לייצר אירוע תשלום בגלל שגיאת תשלום: %s"
+
+#~ msgid "Unable to create payment event: %s"
+#~ msgstr "אין אפשרות לייצר אירוע תשלום: %s"
+
+#~ msgid "Payment event created"
+#~ msgstr "אירוע תשלום נוצר"
+
+#~ msgid "%(field)s changed from '%(old_value)s' to '%(new_value)s'"
+#~ msgstr "%(field)s שונה מ'%(old_value)s' ל-  '%(new_value)s'"
+
+#~ msgid ""
+#~ "Delivery address updated:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "כתובת משלוח עודכנה: \n"
+#~ "%s"
+
+#~ msgid "Delivery address updated"
+#~ msgstr "כתובת משלוח עודכנה"
+
+#~ msgid "Pages dashboard"
+#~ msgstr "לוח בקרת דפים"
+
+#~ msgctxt "Page title"
+#~ msgid "Title"
+#~ msgstr "כותרת"
+
+#~ msgid "Example: '/about/contact/'."
+#~ msgstr "לדוגמה: '/about/contact/'."
+
+#~ msgid ""
+#~ "This value must contain only letters, numbers, dots, underscores, dashes, "
+#~ "slashes or tildes."
+#~ msgstr ""
+#~ "הערך יכול לכלול רק אותיות, מספרים, נקודות, מקפים, מקפים תחתונים, לוכסנים "
+#~ "או טילדות - ~"
+
+#~ msgid "All pages"
+#~ msgstr "כל הדפים"
+
+#~ msgid " with title containing '%s'"
+#~ msgstr "עם כותרת המכילה '%s'"
+
+#~ msgid "Create New Page"
+#~ msgstr "צרו דף חדש"
+
+#~ msgid "Deleted page '%s'"
+#~ msgstr "הדף '%s' נמחק"
+
+#~ msgid "Partners dashboard"
+#~ msgstr "לוח בקרת ספקים"
+
+#~ msgctxt "Partner's name"
+#~ msgid "Name"
+#~ msgstr "שם"
+
+#~ msgid "Full dashboard access"
+#~ msgstr "הרשאות גישה מלאות ללוח הבקרה"
+
+#~ msgid "Limited dashboard access"
+#~ msgstr "רשאות גישה חלקיות ללוח הבקרה"
+
+#~ msgid "User role"
+#~ msgstr "תפקיד משתמש"
+
+#~ msgid "Confirm Password"
+#~ msgstr "אשרו סיסמא"
+
+#~ msgid "All partners"
+#~ msgstr "כל הספקים"
+
+#~ msgid "Partners matching '%s'"
+#~ msgstr "ספקים התואמים '%s'"
+
+#~ msgid "Create new partner"
+#~ msgstr "צרו ספק חדש"
+
+#~ msgid "Partner '%s' was created successfully."
+#~ msgstr "ספק '%s' נוצר בהצלחה"
+
+#~ msgid "Partner '%s' was updated successfully."
+#~ msgstr "ספק '%s' עודכן בהצלחה"
+
+#~ msgid "Partner '%s' was deleted successfully."
+#~ msgstr "ספק '%s' נמחק בהצלחה"
+
+#~ msgid "Create user"
+#~ msgstr "משתמש נוצר"
+
+#~ msgid "User '%s' was created successfully."
+#~ msgstr "משתמש '%s' נוצר בהצלחה"
+
+#~ msgid "User '%(name)s' was linked to '%(partner_name)s'"
+#~ msgstr "משתמש '%(name)s' קושר ל'%(partner_name)s' "
+
+#~ msgid "User '%(name)s' is already linked to '%(partner_name)s'"
+#~ msgstr "המשתמש '%(name)s' כבר מקושר ל-'%(partner_name)s'"
+
+#~ msgid "User '%(name)s' is not linked to '%(partner_name)s'"
+#~ msgstr "המשתמש '%(name)s' לא מקושר ל'%(partner_name)s'"
+
+#~ msgid "Edit user '%s'"
+#~ msgstr "ערכו משתמש '%s'"
+
+#~ msgid "User '%s' was updated successfully."
+#~ msgstr "המשתמש  '%s' עודכן בהצלחה"
+
+#~ msgid "Promotions dashboard"
+#~ msgstr "לוח בקרת מבצעים"
+
+#~ msgid "Promotion type"
+#~ msgstr "סוג מבצע"
+
+#~ msgid "Position"
+#~ msgstr "מיקום"
+
+#~ msgid "Where in the page this content block will appear"
+#~ msgstr "היכן בדף יופיע בלוק התוכן הזה"
+
+#~ msgid "Content blocks can only be linked to internal URLs"
+#~ msgstr "בלוקי תוכן יכולין להיות מקושרים רק בURLs פנימיים"
+
+#~ msgid "Content block removed successfully"
+#~ msgstr "בלוקי תוכן הוסרו בהצלחה"
+
+#~ msgid "Content block created successfully"
+#~ msgstr "בלוקי תוכן נוצרו בהצלחה"
+
+#~ msgid "Create a new %s content block"
+#~ msgstr "צרו בלוק תוכן %s חדש"
+
+#~ msgid "Product list content block created"
+#~ msgstr "בלוק רשימת המוצרים נוצר"
+
+#~ msgid "Update content block"
+#~ msgstr "בלוק התוכן עודכן"
+
+#~ msgid "Content block updated successfully"
+#~ msgstr "בלוק התוכן עודכן בהצלחה"
+
+#~ msgid "Content block '%(block)s' added to page '%(page)s'"
+#~ msgstr "בלוק התוכן k '%(block)s'  נוסף לדף  '%(page)s'"
+
+#~ msgid "No link found to delete"
+#~ msgstr "לא נמצא קישור למחיקה"
+
+#~ msgid "Content block removed from page '%s'"
+#~ msgstr "בלוק התוכן הוסר מpage '%s'"
+
+#~ msgid "Product list promotion updated"
+#~ msgstr "מבצע רשימת המוצרים עודכן"
+
+#~ msgid "Content block deleted successfully"
+#~ msgstr "בלוק תוכן נמחק בהצלחה"
+
+#~ msgid "Ranges dashboard"
+#~ msgstr "לוח בקרה של טווחים"
+
+#~ msgid "Product SKUs or UPCs"
+#~ msgstr "מוצר SKUs או UPCs"
+
+#~ msgid "You can paste in a selection of SKUs or UPCs"
+#~ msgstr "אתם יכולים להדביק מבין  SKUs או UPCs"
+
+#~ msgid "File of SKUs or UPCs"
+#~ msgstr "קובץ SKUs או UPCs"
+
+#~ msgid "Either comma-separated, or one identifier per line"
+#~ msgstr "או מופרד על ידי פסיק (comma-separated) או מזהה אחד בכל שורה"
+
+#~ msgid "You must submit either a list of SKU/UPCs or a file"
+#~ msgstr "חובה להזין רשימה של  SKU/UPC או קובץ"
+
+#~ msgid "The products with SKUs or UPCs matching %s are already in this range"
+#~ msgstr "מוצרים עם SKUs או UPCs התואמים %s כבר נמצאים בטווח זה"
+
+#~ msgid "No products exist with a SKU or UPC matching %s"
+#~ msgstr "אין מוצרים הקיימים עם SKU or UPC התואמים את %s"
+
+#~ msgid "Create range"
+#~ msgstr "צור טווח"
+
+#~ msgid "Range deleted"
+#~ msgstr "קבוצת מוצרים נמחקה"
+
+#~ msgid "Removed %d product from range"
+#~ msgid_plural "Removed %d products from range"
+#~ msgstr[0] "הוסר %d מוצר מהתחום"
+#~ msgstr[1] "הוסרו%d מוצרים מהתחום"
+#~ msgstr[2] "הוסרו%d מוצרים מהתחום"
+#~ msgstr[3] "הוסרו%d מוצרים מהתחום"
+
+#~ msgid "%d product added to range"
+#~ msgid_plural "%d products added to range"
+#~ msgstr[0] "%d מוצר נוסף לתחום"
+#~ msgstr[1] "%d מוצרים נוספו לתחום"
+#~ msgstr[2] "%d מוצרים נוספו לתחום"
+#~ msgstr[3] "%d מוצרים נוספו לתחום"
+
+#~ msgid "No product(s) were found with SKU or UPC matching %s"
+#~ msgstr "לא נמצאו מוצרים עם SKU או UPC התואמים את %s"
+
+#~ msgid "There are more than one product with SKU %s"
+#~ msgstr "יש יותר ממוצר אחד עם המזהה %s"
+
+#~ msgid "Reports dashboard"
+#~ msgstr "דוחות לוח בקרה"
+
+#~ msgid "Report Type"
+#~ msgstr "סוג דו\"ח"
+
+#~ msgid "Only the offer and order reports use the selected date range"
+#~ msgstr "רק דו\"ח הצעה ודו\"ח הזמנה משתמשים בטווח התאריכים הנבחר"
+
+#~ msgid "The report is inclusive of this date"
+#~ msgstr "הדו\"ח כולל תאריך זה"
+
+#~ msgid "Download"
+#~ msgstr "הורדה"
+
+#~ msgid "Your start date must be before your end date"
+#~ msgstr "התאריך שהזנת חייב להתחיל לפני תאריך הסיום"
+
+#~ msgid "%(report_filter)s between %(start_date)s and %(end_date)s"
+#~ msgstr "%(report_filter)s בין %(start_date)s  ו-%(end_date)s"
+
+#~ msgid "You do not have access to this report"
+#~ msgstr "אין לך גישה לדו\"ח זה"
+
+#~ msgid "Reviews dashboard"
+#~ msgstr "סקירת לוח בקרה"
+
+#~ msgid "Keyword"
+#~ msgstr "מילת מפתח"
+
+#~ msgid "to"
+#~ msgstr "ל"
+
+#~ msgid ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+#~ msgstr ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+
+#~ msgid " created after %s"
+#~ msgstr "נוצר אחרי %s"
+
+#~ msgid " created before %s"
+#~ msgstr "נוצר לפני  %s"
+
+#~ msgid " created between %(start_date)s and %(end_date)s"
+#~ msgstr "נוצר בין %(start_date)s ו-%(end_date)s"
+
+#~ msgid "All reviews"
+#~ msgstr "כל הביקורות"
+
+#~ msgid " with status matching '%s'"
+#~ msgstr "עם סטטוס התואם את '%s'"
+
+#~ msgid " with keyword matching '%s'"
+#~ msgstr "עם מילת מפתח התואמת את '%s'"
+
+#~ msgid " with customer name matching '%s'"
+#~ msgstr "עם שם לקוח התואם את '%s'"
+
+#~ msgid "Shipping dashboard"
+#~ msgstr "לוח בקרת משלוחים"
+
+#~ msgid "%d Row"
+#~ msgid_plural "%d Rows"
+#~ msgstr[0] "שורה %d "
+#~ msgstr[1] "%d שורות"
+#~ msgstr[2] "%d שורות"
+#~ msgstr[3] "%d שורות"
+
+#~ msgid "Users dashboard"
+#~ msgstr "לוח בקרת משתמשים"
+
+#~ msgctxt "User's name"
+#~ msgid "Name"
+#~ msgstr "שם"
+
+#~ msgid "%(main_filter)s %(email_filter)s %(name_filter)s"
+#~ msgstr "%(main_filter)s %(email_filter)s %(name_filter)s"
+
+#~ msgid "All users"
+#~ msgstr "כל המשתמשים"
+
+#~ msgid " with email matching '%s'"
+#~ msgstr "עם דואר אלקטרוני התואם את '%s'"
+
+#~ msgid " with name matching '%s'"
+#~ msgstr "עם שם התואם את '%s' "
+
+#~ msgid "Users' status successfully changed"
+#~ msgstr "סטטוס המשתמש השתנה"
+
+#~ msgid "A password reset email has been sent"
+#~ msgstr "מייל איפוס ססמא נשלח "
+
+#~ msgid "All Alerts"
+#~ msgstr "כל ההתראות"
+
+#~ msgid " with customer email matching '%s'"
+#~ msgstr "עם אימייל התואם התואם את '%s'"
+
+#~ msgid "Product alert saved"
+#~ msgstr "התראת מוצרים נשמרה"
+
+#~ msgid "Product alert deleted"
+#~ msgstr "התראת מוצרים נמחקה"
+
+#~ msgid "Vouchers dashboard"
+#~ msgstr "לוח בקרת קופונים"
+
+#~ msgid "Start datetime"
+#~ msgstr "תאריך התחלה"
+
+#~ msgid "End datetime"
+#~ msgstr "תאריך סיום"
+
+#~ msgid "Usage"
+#~ msgstr "שימוש"
+
+#~ msgid "Which products get a discount?"
+#~ msgstr "איזה מוצר מקבל הנחה? "
+
+#~ msgid "Percentage off of products in range"
+#~ msgstr "אחוז שירד ממוצרים בטווח"
+
+#~ msgid "Fixed amount off of products in range"
+#~ msgstr "מחיר קבוע שירד ממוצרים בטווח"
+
+#~ msgid "Discount is a percentage off of the shipping cost"
+#~ msgstr "ההנחה היא הנחה על מחיר המשלוח"
+
+#~ msgid "Discount is a fixed amount of the shipping cost"
+#~ msgstr "ההנחה היא מחיר קבוע על עלות המשלוח"
+
+#~ msgid "Get shipping for a fixed price"
+#~ msgstr "קבלו משלוח בעלות קבועה"
+
+#~ msgid "Discount type"
+#~ msgstr "סוג הנחה"
+
+#~ msgid "Discount value"
+#~ msgstr "ערך ההנחה"
+
+#~ msgid "Exclusive offers cannot be combined on the same items"
+#~ msgstr "הצעות אקסקלוסיביות אינן יכולות להשתלב באותם הפריטים"
+
+#~ msgid "The name '%s' is already in use"
+#~ msgstr "השם %s' כבר נמצא בשימוש"
+
+#~ msgid "The code '%s' is already in use"
+#~ msgstr "הקוד %s' כבר נמצא בשימוש"
+
+#~ msgid "The start date must be before the end date"
+#~ msgstr "תאריך ההתחלה חייב להיות לפני תאריך הסוף"
+
+#~ msgid "Is Active?"
+#~ msgstr "האם פעיל?"
+
+#~ msgid "In Voucherset?"
+#~ msgstr "האם נמצא במערך השוברים?"
+
+#~ msgid "%(main_filter)s %(name_filter)s %(code_filter)s"
+#~ msgstr "%(main_filter)s %(name_filter)s %(code_filter)s"
+
+#~ msgid "All vouchers"
+#~ msgstr "כל הקופונים"
+
+#~ msgid "with name matching '%s'"
+#~ msgstr "עם שם המתאים ל-'%s'"
+
+#~ msgid "with code '%s'"
+#~ msgstr "עם קוד המתאים ל-'%s"
+
+#~ msgid "Active vouchers"
+#~ msgstr "קופונים פעילים"
+
+#~ msgid "Create voucher"
+#~ msgstr "צור קופון"
+
+#~ msgid "Offer for voucher '%s'"
+#~ msgstr "הצעות לקופון '%s'"
+
+#~ msgid "Voucher created"
+#~ msgstr "קופון נוצר"
+
+#~ msgid "Voucher updated"
+#~ msgstr "קופון התעדכן"
+
+#~ msgid "Voucher deleted"
+#~ msgstr "קופון נמחק"
+
+#~ msgid "Create voucher set"
+#~ msgstr "יצירת מערך שוברים"
+
+#~ msgid "Voucher set created"
+#~ msgstr "מערך שוברים נוצר"
+
+#~ msgid "Voucher sets"
+#~ msgstr "מערכי שוברים"
+
+#~ msgid "This is displayed within the customer's basket"
+#~ msgstr "הטקסט יוצג בתוך הסל של הלקוח"
+
+#~ msgid "This is displayed on the offer browsing page"
+#~ msgstr "הטקסט יוצג התוך דף תצוגת ההצעות"
+
+#~ msgid "Site offer - available to all users"
+#~ msgstr "הצעת אתר - זמינה לכל הלקוחות"
+
+#~ msgid ""
+#~ "Voucher offer - only available after entering the appropriate voucher code"
+#~ msgstr "הצעת קופון - זמין רק אחרי הכנסת קוד הקופון המתאים"
+
+#~ msgid "User offer - available to certain types of user"
+#~ msgstr "הצעת משתמש - זמינה לסוגים מסויימים של לקוחות"
+
+#~ msgid ""
+#~ "Session offer - temporary offer, available for a user for the duration of "
+#~ "their session"
+#~ msgstr "הצעת גלישה - הצעת זמנית, זמינה למשתמש במשך זמן גלישתו באתר"
+
+#~ msgid "Exclusive offer"
+#~ msgstr "הצעה אקסלוסיבית"
+
+#~ msgid "Condition"
+#~ msgstr "תנאי"
+
+#~ msgid "Benefit"
+#~ msgstr "הטבה"
+
+#~ msgid "Priority"
+#~ msgstr "עדיפות"
+
+#~ msgid "The highest priority offers are applied first"
+#~ msgstr "ההצעות עם העדיפות הגבוהה מיושמות קודם"
+
+#~ msgid ""
+#~ "Offers are active from the start date. Leave this empty if the offer has "
+#~ "no start date."
+#~ msgstr ""
+#~ "ההצעות תקפות ממועד תחילה.\n"
+#~ "יש להשאיר ריק אם אין מועד תחילה."
+
+#~ msgid ""
+#~ "Offers are active until the end date. Leave this empty if the offer has "
+#~ "no expiry date."
+#~ msgstr ""
+#~ "ההצעות תקפות עד מועד סיום.\n"
+#~ "יש להשאיר ריק אם אין מועד סיום."
+
+#~ msgid "Max global applications"
+#~ msgstr "מקסימום יישומים גלובליים"
+
+#~ msgid "The number of times this offer can be used before it is unavailable"
+#~ msgstr "מספר הפעמים שהצעה זו יכולה להיות בשימוש לפני שהיא הופכת ללא זמינה"
+
+#~ msgid "Max user applications"
+#~ msgstr "מקסימום יישומי משתמש"
+
+#~ msgid "The number of times a single user can use this offer"
+#~ msgstr "מספר הפעמים שמשתמש יחיד יכול להשתמש בהצעה"
+
+#~ msgid "Max basket applications"
+#~ msgstr "מקסימום יישומי סל"
+
+#~ msgid ""
+#~ "The number of times this offer can be applied to a basket (and order)"
+#~ msgstr "מספר הפעמים שהצעה זו יכולה להיות זמינה לסל (והזמנה)"
+
+#~ msgid "Max discount"
+#~ msgstr "הנחה מקסימלית"
+
+#~ msgid ""
+#~ "When an offer has given more discount to orders than this threshold, then "
+#~ "the offer becomes unavailable"
+#~ msgstr "כשהצעה נתנה יותר הנחות מאשר הגבול שניתן, ההצעה הופכת ללא זמינה. "
+
+#~ msgid "Total Discount"
+#~ msgstr "סך הכל הנחה"
+
+#~ msgid "Number of applications"
+#~ msgstr "מספר בקשות"
+
+#~ msgid "Number of Orders"
+#~ msgstr "מספר הזמנות"
+
+#~ msgid "URL redirect (optional)"
+#~ msgstr "ניתוב מחדש של ה-URL (אופציונלי)"
+
+#~ msgid "Conditional offer"
+#~ msgstr "הצעה מותנית"
+
+#~ msgid "Conditional offers"
+#~ msgstr "הצעות מותנות"
+
+#~ msgid "End date should be later than start date"
+#~ msgstr "תאריך סיום צריך להיות אחרי תאריך התחלה"
+
+#~ msgid "Offer is suspended"
+#~ msgstr "ההצעה מושהית"
+
+#~ msgid "Limited to %(total)d uses (%(remainder)d remaining)"
+#~ msgstr "מוגבל ל- %(total)d שימושים. (נשארו - (%(remainder)d)"
+
+#~ msgid "Limited to 1 use per user"
+#~ msgstr "מוגבל לשימוש אחד למשתמש אחד"
+
+#~ msgid "Limited to %(total)d uses per user"
+#~ msgstr "מוגבל ל- %(total)d שימושים למשתמש"
+
+#~ msgid "Limited to 1 use per basket"
+#~ msgstr "מוגבל לשימוש אחד לסל"
+
+#~ msgid "Limited to %(total)d uses per basket"
+#~ msgstr "מוגבל ל-%(total)d שימושים לסל אחד"
+
+#~ msgid "Available between %(start)s and %(end)s"
+#~ msgstr "זמין בין %(start)s לבין %(end)s"
+
+#~ msgid "Available from %(start)s"
+#~ msgstr "זמין מ-%(start)s"
+
+#~ msgid "Available until %(end)s"
+#~ msgstr "זמין עד %(end)s"
+
+#~ msgid "Limited to a cost of %(max)s"
+#~ msgstr "מוגבל למחיר של  %(max)s"
+
+#~ msgid "Range"
+#~ msgstr "טווח"
+
+#~ msgid "Discount is a percentage off of the product's value"
+#~ msgstr "ההנחה היא הורדת אחוזים מערך המוצר"
+
+#~ msgid "Discount is a fixed amount off of the product's value"
+#~ msgstr "ההנחה היא הורדת סכום קבוע מערך המוצר"
+
+#~ msgid "Discount is to give the cheapest product for free"
+#~ msgstr "ההנחה מקנה את המוצר הזול בחינם"
+
+#~ msgid "Get the products that meet the condition for a fixed price"
+#~ msgstr "קבלו את המוצרים שעונים לקריטריון במחיר קבוע"
+
+#~ msgid "Max Affected Items"
+#~ msgstr "מקסימום מוצרים מושפעים"
+
+#~ msgid ""
+#~ "Set this to prevent the discount consuming all items within the range "
+#~ "that are in the basket."
+#~ msgstr "קבע זאת כדי למנוע מההנחה לצרוך את כל המוצרים בטווח שנמצאים בסל. "
+
+#~ msgid "Custom class"
+#~ msgstr "טווח מותאם אישית"
+
+#~ msgid "Benefits"
+#~ msgstr "הטבות"
+
+#~ msgid "Multibuy benefits require a product range"
+#~ msgstr "הטבת קנייה מרובת מוצרים דורשת טווח מוצרים"
+
+#~ msgid "Multibuy benefits don't require a value"
+#~ msgstr "הטבת קניית מוצרים אינה דורשת טווח. "
+
+#~ msgid "Multibuy benefits don't require a 'max affected items' attribute"
+#~ msgstr "קנייה מרובת מוצרים אינה מצריכה את התכונה 'מקסימום מוצרים מושפעים' "
+
+#~ msgid "Percentage benefits require a product range"
+#~ msgstr "הטבת אחוזים מצריכה טווח מוצרים"
+
+#~ msgid "Percentage discount benefits require a value"
+#~ msgstr "שיעור הנחת ההטבות מחייב הגדרת ערך"
+
+#~ msgid "Percentage discount cannot be greater than 100"
+#~ msgstr "הנחת אחוזים אינה יכולה להיות גדולה יותר מ-100"
+
+#~ msgid "A discount value is required"
+#~ msgstr "נדרש ערך הנחה"
+
+#~ msgid ""
+#~ "No range should be selected as this benefit does not apply to products"
+#~ msgstr "שום ערך אינו יכול להבחר משום שהטבה זאת אינה תקפה למוצרים אלו"
+
+#~ msgid "Shipping discounts don't require a 'max affected items' attribute"
+#~ msgstr "הנחת משלוח אינה מצריכה את הערך 'מקסימום מוצרים שהושפעו' "
+
+#~ msgid ""
+#~ "No range should be selected as the condition range will be used instead."
+#~ msgstr "שום טווח אינו צריך להבחר משום שטווח מותנה יהיה בשימוש במקום"
+
+#~ msgid "Fixed discount benefits require a product range"
+#~ msgstr "הטבת הנחה קבועה מצריכה טווח מוצר"
+
+#~ msgid "Fixed discount benefits require a value"
+#~ msgstr "הטבת הנחה קבועה מצריכה ערך"
+
+#~ msgid "Depends on number of items in basket that are in condition range"
+#~ msgstr "תלוי במספר הפריטים שבסל שנמצאים בטווח המותנה"
+
+#~ msgid "Depends on value of items in basket that are in condition range"
+#~ msgstr "תלוי בהאם ערך הפריטים נמצא בטווח המותנה"
+
+#~ msgid ""
+#~ "Needs to contain a set number of DISTINCT items from the condition range"
+#~ msgstr "צריך להכיל מספר פריטים ייחודים מהטווח המותנה"
+
+#~ msgid "Conditions"
+#~ msgstr "תנאים"
+
+#~ msgid "Is public?"
+#~ msgstr "האם זמין?"
+
+#~ msgid "Public ranges have a customer-facing page"
+#~ msgstr "לטווחים ציבוריים יש דף הפונה ללקוח"
+
+#~ msgid "Includes all products?"
+#~ msgstr "האם לכלול את כל המוצרים?"
+
+#~ msgid "Included Products"
+#~ msgstr "כולל מוצרים"
+
+#~ msgid "Excluded Products"
+#~ msgstr "חוץ ממוצרים"
+
+#~ msgid "Included Categories"
+#~ msgstr "כולל קטגוריות"
+
+#~ msgid "File Path"
+#~ msgstr "נתיב הקובץ"
+
+#~ msgid "Size"
+#~ msgstr "גודל"
+
+#~ msgid "Uploaded By"
+#~ msgstr "הועלה על ידי"
+
+#~ msgid "Date Uploaded"
+#~ msgstr "תאריך  העלאה"
+
+#~ msgid "Error Message"
+#~ msgstr "הודעת שגיאה"
+
+#~ msgid "Date Processed"
+#~ msgstr "תאריך עיבוד"
+
+#~ msgid "Number of New SKUs"
+#~ msgstr "מספר SKUs חדש"
+
+#~ msgid "Number of Unknown SKUs"
+#~ msgstr "מספר של  SKUs לא ידוע"
+
+#~ msgid "Number of Duplicate SKUs"
+#~ msgstr "מספר של  SKUs כפול"
+
+#~ msgid "Range Product Uploaded File"
+#~ msgstr "טווח מוצר העלאת קובץ"
+
+#~ msgid "Range Product Uploaded Files"
+#~ msgstr "טווח מוצר העלאת קבצים"
+
+#~ msgid "%(value)s%% discount on %(range)s"
+#~ msgstr "%(value)s%% הנחה מ-%(range)s"
+
+#~ msgid "Percentage discount benefit"
+#~ msgstr "הטבת הנחת אחוזים"
+
+#~ msgid "Percentage discount benefits"
+#~ msgstr "הטבות הנחת אחוזים"
+
+#~ msgid "%(value)s discount on %(range)s"
+#~ msgstr "%(value)s הנחה על %(range)s"
+
+#~ msgid "Absolute discount benefit"
+#~ msgstr "הטבת הנחה אבסולוטית"
+
+#~ msgid "Absolute discount benefits"
+#~ msgstr "הטבות הנחה אבסולטית"
+
+#~ msgid "The products that meet the condition are sold for %(amount)s"
+#~ msgstr "המוצרים שתואמים את התנאי נמכרים ב-%(amount)s"
+
+#~ msgid "Fixed price benefit"
+#~ msgstr "הטבת מחיר קבוע"
+
+#~ msgid "Fixed price benefits"
+#~ msgstr "הטבות מחיר קבוע"
+
+#~ msgid "Cheapest product from %(range)s is free"
+#~ msgstr "המוצר הזול מ %(range)s הוא חינם"
+
+#~ msgid "Multibuy discount benefit"
+#~ msgstr "הטבת הנחת קניית רבת מוצרים"
+
+#~ msgid "Multibuy discount benefits"
+#~ msgstr "הטבות הנחת קניית רבת מוצרים"
+
+#~ msgid "%(amount)s off shipping cost"
+#~ msgstr "%(amount)s ירדו ממחיר המשלוח"
+
+#~ msgid "Shipping absolute discount benefit"
+#~ msgstr "הטבת הנחת משלוח אבסולוטית"
+
+#~ msgid "Shipping absolute discount benefits"
+#~ msgstr "הטבות הנחת משלוח אבסולוטית"
+
+#~ msgid "Get shipping for %(amount)s"
+#~ msgstr "החזר משלוח עבור %(amount)s"
+
+#~ msgid "Fixed price shipping benefit"
+#~ msgstr "הטבת מחיר משלוח קבוע"
+
+#~ msgid "Fixed price shipping benefits"
+#~ msgstr "הטבות מחיר משלוח קבוע"
+
+#~ msgid "%(value)s%% off of shipping cost"
+#~ msgstr "%(value)s%% הורדה ממחיר משלוח"
+
+#~ msgid "Shipping percentage discount benefit"
+#~ msgstr "הטבת הנחה של אחוז משלוח"
+
+#~ msgid "Shipping percentage discount benefits"
+#~ msgstr "הטבות הנחה של אחוז משלוח"
+
+#~ msgid "Basket includes %(count)d item(s) from %(range)s"
+#~ msgstr "סל כולל %(count)d מוצרים מ- %(range)s"
+
+#~ msgid "Count condition"
+#~ msgstr "תנאי ספירה"
+
+#~ msgid "Count conditions"
+#~ msgstr "תנאי ספירה"
+
+#~ msgid "Buy %(delta)d more product from %(range)s"
+#~ msgid_plural "Buy %(delta)d more products from %(range)s"
+#~ msgstr[0] "רכישת%(delta)d מוצר נוסף מ %(range)s"
+#~ msgstr[1] "רכישת%(delta)d מוצרים נוספים מ %(range)s"
+#~ msgstr[2] "רכישת%(delta)d מוצרים נוספים מ %(range)s"
+#~ msgstr[3] "רכישת%(delta)d מוצרים נוספים מ %(range)s"
+
+#~ msgid "Basket includes %(count)d distinct item(s) from %(range)s"
+#~ msgstr "סל כולל %(count)d  ממוצרים ייחודיים מ-%(range)s"
+
+#~ msgid "Coverage Condition"
+#~ msgstr "תנאי כיסוי"
+
+#~ msgid "Coverage Conditions"
+#~ msgstr "תנאי כיסוי"
+
+#~ msgid "Basket includes %(amount)s from %(range)s"
+#~ msgstr "סל כולל %(amount)s מ-%(range)s"
+
+#~ msgid "Value condition"
+#~ msgstr "תנאי ערך"
+
+#~ msgid "Value conditions"
+#~ msgstr "תנאי ערכים"
+
+#~ msgid "Spend %(value)s more from %(range)s"
+#~ msgstr "קנה/י מוצרים נוספים מ%(range)s בסך %(value)s"
+
+#~ msgid "Offer"
+#~ msgstr "הצעה"
+
+#~ msgid "Total discount"
+#~ msgstr "סך כל ההנחה"
+
+#~ msgid "Offer performance"
+#~ msgstr "ביצועי הצעה"
+
+#~ msgid "Site"
+#~ msgstr "אתר"
+
+#~ msgid "Billing Address"
+#~ msgstr "כתובת לחיוב"
+
+#~ msgid "Order total (inc. tax)"
+#~ msgstr "סה\"כ הזמנה (כולל מעמ)"
+
+#~ msgid "Order total (excl. tax)"
+#~ msgstr "סה\"כ הזמנה (ללא מעמ)"
+
+#~ msgid "Shipping charge (inc. tax)"
+#~ msgstr "מחיר משלוח (כולל מעמ)"
+
+#~ msgid "Shipping charge (excl. tax)"
+#~ msgstr "מחיר משלוח (ללא מעמ)"
+
+#~ msgid "Shipping Address"
+#~ msgstr "כתובת למשלוח"
+
+#~ msgid "Shipping method"
+#~ msgstr "צורת משלוח"
+
+#~ msgid "Guest email address"
+#~ msgstr "כתובת דואר אלקטרוני של אורח"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status for order %(number)s (current "
+#~ "status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s' אינו סטטוס תקף עבור הזמנה  %(number)s (מצב הסטטוס: "
+#~ "'%(status)s')"
+
+#~ msgid "In progress"
+#~ msgstr "בעבודה"
+
+#~ msgid "Note Type"
+#~ msgstr "סוג הארה"
+
+#~ msgid "Message"
+#~ msgstr "הודעה"
+
+#~ msgid "Order Note"
+#~ msgstr "הערה להזמנה"
+
+#~ msgid "Order Notes"
+#~ msgstr "הערות הזמנה"
+
+#~ msgid "Event Type"
+#~ msgstr "סוג ארוע"
+
+#~ msgid "Communication Event"
+#~ msgstr "אירוע תקשורת"
+
+#~ msgid "Communication Events"
+#~ msgstr "אירועי תקשורת"
+
+#~ msgid "'%(type)s' event for order #%(number)s"
+#~ msgstr "אירוע '%(type)s' להזמנה #%(number)s"
+
+#~ msgid "Partner name"
+#~ msgstr "שם ספק"
+
+#~ msgid "Partner reference"
+#~ msgstr "ביצועי ספק"
+
+#~ msgid "This is the item number that the partner uses within their system"
+#~ msgstr "זהו מספר הפריט שהספק משתמש בו במערכת שלו"
+
+#~ msgid "Partner Notes"
+#~ msgstr "הערות ספק"
+
+#~ msgid "Stock record"
+#~ msgstr "רשומת מלאי"
+
+#~ msgid "Price (inc. tax)"
+#~ msgstr "מחיר (כולל מעמ)"
+
+#~ msgid "Price (excl. tax)"
+#~ msgstr "מחיר (ללא מעמ)"
+
+#~ msgid "Price before discounts (inc. tax)"
+#~ msgstr "מחיר לפני הנחה (כולל מס)"
+
+#~ msgid "Price before discounts (excl. tax)"
+#~ msgstr "מחיר לפני הנחה (ללא מס)"
+
+#~ msgid "Unit Cost Price"
+#~ msgstr "מחיר עלות של יחידה"
+
+#~ msgid "Unit Price (inc. tax)"
+#~ msgstr "מחיר יחידה (כולל מס)"
+
+#~ msgid "Unit Price (excl. tax)"
+#~ msgstr "מחיר יחידה (ללא מס)"
+
+#~ msgid "Unit Retail Price"
+#~ msgstr "מחיר יחידה קמעונאי "
+
+#~ msgid "Estimated Dispatch Date"
+#~ msgstr "תאריך שילוח משוער"
+
+#~ msgid "Order Line"
+#~ msgstr "שורת הזמנה"
+
+#~ msgid "<missing product>"
+#~ msgstr "<missing product>"
+
+#~ msgid "Product '%(name)s', quantity '%(qty)s'"
+#~ msgstr "מוצר '%(name)s', כמות '%(qty)s'"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status (current status: '%(status)s')"
+#~ msgstr ""
+#~ "%(new_status)s' אינו סטטוס תקף עבור הזמנה (סטטוס נוכחי: '%(status)s')"
+
+#~ msgid "'%(title)s' is no longer available"
+#~ msgstr "'%(title)s' אינו זמין יותר"
+
+#~ msgid "Line Attribute"
+#~ msgstr "תכונת שורה"
+
+#~ msgid "Line Attributes"
+#~ msgstr "תכונות שורה"
+
+#~ msgid "Shiping (inc. tax)"
+#~ msgstr "משלוח (כולל מס)"
+
+#~ msgid "Shipping (excl. tax)"
+#~ msgstr "משלוח (ללא מס)"
+
+#~ msgid "Line Price"
+#~ msgstr "מחיר שורה"
+
+#~ msgid "Line Prices"
+#~ msgstr "מחירי שורה"
+
+#~ msgid "Line '%(number)s' (quantity %(qty)d) price %(price)s"
+#~ msgstr "שורה '%(number)s' (כמות %(qty)d) מחיר %(price)s"
+
+#~ msgid "Payment Event Type"
+#~ msgstr "סוג אירוע תשלום"
+
+#~ msgid "Payment Event Types"
+#~ msgstr "סוגי אירוע תשלום"
+
+#~ msgid "Amount"
+#~ msgstr "כמות"
+
+#~ msgid "Reference"
+#~ msgstr "הפנייה"
+
+#~ msgid "Lines"
+#~ msgstr "שורות"
+
+#~ msgid "Payment Event"
+#~ msgstr "אירוע תשלום"
+
+#~ msgid "Payment Events"
+#~ msgstr "אירועי תשלום"
+
+#~ msgid "Payment event for order %s"
+#~ msgstr "אירוע תשלום להזמנה %s"
+
+#~ msgid "Event"
+#~ msgstr "אירוע"
+
+#~ msgid "Payment Event Quantity"
+#~ msgstr "כמות אירוע תשלום"
+
+#~ msgid "Payment Event Quantities"
+#~ msgstr "כמויות אירועי תשלום"
+
+#~ msgid "Event notes"
+#~ msgstr "הערות אירוע"
+
+#~ msgid "This could be the dispatch reference, or a tracking number"
+#~ msgstr "טקסט זה יכול להיות מספר הפניית השילוח או מספר מעקב"
+
+#~ msgid "Shipping Event"
+#~ msgstr "אירוע משלוח"
+
+#~ msgid "Shipping Events"
+#~ msgstr "אירועי משלוח"
+
+#~ msgid "Order #%(number)s, type %(type)s"
+#~ msgstr "הזמנה #%(number)s,סוג %(type)s"
+
+#~ msgid "Shipping Event Quantity"
+#~ msgstr "כמות אירוע משלוח"
+
+#~ msgid "Shipping Event Quantities"
+#~ msgstr "כמויות אירועי משלוח"
+
+#~ msgid "%(product)s - quantity %(qty)d"
+#~ msgstr "%(product)s -כמות  %(qty)d"
+
+#~ msgid "Shipping Event Type"
+#~ msgstr "סוג אירוע משלוח"
+
+#~ msgid "Shipping Event Types"
+#~ msgstr "סוגי אירוע משלוח"
+
+#~ msgid "Discount category"
+#~ msgstr "קטגוריית הנחה"
+
+#~ msgid "Offer ID"
+#~ msgstr "מזהה הצעה"
+
+#~ msgid "Voucher ID"
+#~ msgstr "מזהה קופון"
+
+#~ msgid "Frequency"
+#~ msgstr "תדירות"
+
+#~ msgid "Order Discount"
+#~ msgstr "ההנחה של ההזמנה"
+
+#~ msgid "Order Discounts"
+#~ msgstr "ההנחות של ההזמנה"
+
+#~ msgid "Discount of %(amount)r from order %(order)s"
+#~ msgstr "הנחה של %(amount)r מהזמנה  %(order)s"
+
+#~ msgid "The selected quantity for line #%(line_id)s is too large"
+#~ msgstr "הכמות הנבחרת של שורה  #%(line_id)s גדולה מדי"
+
+#~ msgid "Total incl. tax"
+#~ msgstr "סכום כולל מס"
+
+#~ msgid "Date placed"
+#~ msgstr "תאריך הוזן"
+
+#~ msgid "Orders placed"
+#~ msgstr "ההזמנה הוזמנה"
+
+#~ msgid "Empty baskets cannot be submitted"
+#~ msgstr "סל ריק אינו יכול להשלח"
+
+#~ msgid "There is already an order with number %s"
+#~ msgstr "כבר קיימת הזמנה עם המספר  %s"
+
+#~ msgid "Fulfillment partner"
+#~ msgstr "מיצוי ספק"
+
+#~ msgid "Fulfillment partners"
+#~ msgstr "מיצוי ספקים"
+
+#~ msgid "Price (retail)"
+#~ msgstr "מחיר (קמעונאי)"
+
+#~ msgid "Cost Price"
+#~ msgstr "מחיר עלות"
+
+#~ msgid "Number in stock"
+#~ msgstr "מספר פריטים במלאי"
+
+#~ msgid "Number allocated"
+#~ msgstr "מספר הוקצה"
+
+#~ msgid "Low Stock Threshold"
+#~ msgstr "סף מלאי נמוך"
+
+#~ msgid "Invalid stock consumption request"
+#~ msgstr "בקשת צריכת המלאי אינה חוקית"
+
+#~ msgid "Stock Record"
+#~ msgstr "רשומת מלאי"
+
+#~ msgid "Threshold"
+#~ msgstr "גבול"
+
+#~ msgid "Open"
+#~ msgstr "פתוח"
+
+#~ msgid "Date Closed"
+#~ msgstr "תאריך נסגר"
+
+#~ msgid "<stockalert for \"%(stock)s\" status %(status)s>"
+#~ msgstr "<stockalert for \"%(stock)s\" status %(status)s>"
+
+#~ msgid "Stock alert"
+#~ msgstr "התראת מלאי"
+
+#~ msgid "Stock alerts"
+#~ msgstr "התראות מלאי"
+
+#~ msgid "unavailable"
+#~ msgstr "לא זמין"
+
+#~ msgid "Unavailable"
+#~ msgstr "לא זמין"
+
+#~ msgid "Available"
+#~ msgstr "זמין"
+
+#~ msgid "no stock available"
+#~ msgstr "מלאי לא זמין"
+
+#~ msgid "a maximum of %(max)d can be bought"
+#~ msgstr "מקסימום של %(max)d יכול להקנות"
+
+#~ msgid "In stock"
+#~ msgstr "במלאי"
+
+#~ msgid "In stock (%d available)"
+#~ msgstr "במלאי  (%d זמינים)"
+
+#~ msgid "No file path supplied"
+#~ msgstr "נתיב קובץ לא צויין"
+
+#~ msgid "%s does not exist"
+#~ msgstr "%s לא קיים"
+
+#~ msgid "%s is not a file"
+#~ msgstr "%s הוא לא קובץ"
+
+#~ msgid "%s is not readable"
+#~ msgstr "%s אינו קריא"
+
+#~ msgid "Source"
+#~ msgstr "מקור"
+
+#~ msgid "%(type)s of %(amount).2f"
+#~ msgstr "%(type)s של %(amount).2f"
+
+#~ msgid "Transaction"
+#~ msgstr "עסקה"
+
+#~ msgid "Transactions"
+#~ msgstr "עסקאות"
+
+#~ msgid "Source Type"
+#~ msgstr "סוג מקור"
+
+#~ msgid "Amount Allocated"
+#~ msgstr "הסכום הוקצה"
+
+#~ msgid "Amount Debited"
+#~ msgstr "הסכום חוייב"
+
+#~ msgid "Amount Refunded"
+#~ msgstr "הסכום הוחזר"
+
+#~ msgid "Label"
+#~ msgstr "תווית"
+
+#~ msgid "Sources"
+#~ msgstr "מקורות"
+
+#~ msgid "Allocation of %(amount)s from type %(type)s"
+#~ msgstr "הקצאה של %(amount)s מסוג %(type)s"
+
+#~ msgid " (reference: %s)"
+#~ msgstr "(הפניהה: %s)"
+
+#~ msgid "This is used within forms to identify this source type"
+#~ msgstr "טקסט זה נמצא בשימוש בטפסים כדי לזהות את סוג המקור"
+
+#~ msgid "Source Types"
+#~ msgstr "סוג מקור"
+
+#~ msgid "Card Type"
+#~ msgstr "סוג כרטיס"
+
+#~ msgid "Number"
+#~ msgstr "מספר"
+
+#~ msgid "Expiry Date"
+#~ msgstr "תאריך תפוגה"
+
+#~ msgid "Partner Reference"
+#~ msgstr "הפניית שותף"
+
+#~ msgid "%(card_type)s %(number)s (Expires: %(expiry)s)"
+#~ msgstr "%(card_type)s %(number)s (פג תוקף: %(expiry)s)"
+
+#~ msgid "Bankcard"
+#~ msgstr "כרטיס בנק"
+
+#~ msgid "Bankcards"
+#~ msgstr "כרטיסי בנק"
+
+#~ msgid "Payment"
+#~ msgstr "תשלום"
+
+#~ msgid "Card number"
+#~ msgstr "מספר כרטיס"
+
+#~ msgid "Please enter a valid credit card number."
+#~ msgstr "בבקשה הכנס את מספר כרטיס אשראי תקף"
+
+#~ msgid "%s cards are not accepted."
+#~ msgstr "%s כרטיסים אינם מכובדים"
+
+#~ msgid "Enter a valid month."
+#~ msgstr "הכניסו חודש תקף"
+
+#~ msgid "Enter a valid year."
+#~ msgstr "הכניסו שנה תקפה"
+
+#~ msgid "Valid to"
+#~ msgstr "תקף ל"
+
+#~ msgid "The expiration date you entered is in the past."
+#~ msgstr "תאריך התפוגה שהכנסת הוא בעבר"
+
+#~ msgid "Valid from"
+#~ msgstr "תקף מ"
+
+#~ msgid "The starting date you entered is in the future."
+#~ msgstr "תאריך ההתחלה שהכנסת הוא בעתיד"
+
+#~ msgid "CCV number"
+#~ msgstr "מספר CCV"
+
+#~ msgid "Please enter a 3 or 4 digit number"
+#~ msgstr "אנא הכניסו 3 או 4 ספרות"
+
+#~ msgid ""
+#~ "This is the 3 or 4 digit security number on the back of your bankcard"
+#~ msgstr "זהו המספר בעל 3 או 4 ספרות בגב הרכטיס"
+
+#~ msgid "American Express cards use a 4 digit security code"
+#~ msgstr "בכרטיסי אמריקאן אקספרס יש 4 ספרות בקוד האבטחה"
+
+#~ msgid "Promotions"
+#~ msgstr "מבצעים"
+
+#~ msgid "Display Order"
+#~ msgstr "סדר הצגה"
+
+#~ msgid "Clicks"
+#~ msgstr "קליקס"
+
+#~ msgid "Linked Promotion"
+#~ msgstr "מבצע מקושר"
+
+#~ msgid "Linked Promotions"
+#~ msgstr "מבצעים מקושרים"
+
+#~ msgid "Page URL"
+#~ msgstr "דף URL"
+
+#~ msgid "Page Promotion"
+#~ msgstr "דף מבצע"
+
+#~ msgid "Page Promotions"
+#~ msgstr "מבצעים בדף"
+
+#~ msgid "Filter"
+#~ msgstr "פילטר"
+
+#~ msgid "Keyword Promotion"
+#~ msgstr "מבצע מילות מפתח"
+
+#~ msgid "Keyword Promotions"
+#~ msgstr "מבצעי מילות מפתח"
+
+#~ msgid "Keywords"
+#~ msgstr "מילות מפתח"
+
+#~ msgid "Promotion"
+#~ msgstr "מבצע"
+
+#~ msgid "Display type"
+#~ msgstr "הצג סוג"
+
+#~ msgid ""
+#~ "This can be used to have different types of HTML blocks (eg different "
+#~ "widths)"
+#~ msgstr ""
+#~ "אפשרות זו יכולה לבנות סוגים שונים של בלוקי HTML (למשל כדי להשתמש ברוחב "
+#~ "בלוק שונה בדף)"
+
+#~ msgid "Raw HTML"
+#~ msgstr "מקור HTML"
+
+#~ msgid "Link URL"
+#~ msgstr "לינק URL"
+
+#~ msgid "This is where this promotion links to"
+#~ msgstr "זהו המקום שאליו מבצע זה מקושר"
+
+#~ msgid ""
+#~ "Choose the Image content blocks that this block will use. (You may need "
+#~ "to create some first)."
+#~ msgstr ""
+#~ "בחרו בתמונת בלוק התוכן שתרצו שבלוק זה יהיה (ייתכן שתצטרכו ליצור אחד שכזה "
+#~ "קודם)."
+
+#~ msgid "Multi Image"
+#~ msgstr "העבר לסל"
+
+#~ msgid "Multi Images"
+#~ msgstr "מרובה תמונות"
+
+#~ msgid "Single product"
+#~ msgstr "מוצר יחיד"
+
+#~ msgctxt "Promotion product list title"
+#~ msgid "Title"
+#~ msgstr "כותרת"
+
+#~ msgid "Link text"
+#~ msgstr "טקסט לינק"
+
+#~ msgid "Product list"
+#~ msgstr "רשימת מוצרים"
+
+#~ msgid "Product lists"
+#~ msgstr "רשימות מוצרים"
+
+#~ msgid "Hand Picked Product List"
+#~ msgstr "רשימת מוצרים שנבחרה ידנית"
+
+#~ msgid "Hand Picked Product Lists"
+#~ msgstr "רשימות מוצרים שנבחרו ידנית"
+
+#~ msgid "List"
+#~ msgstr "רשימה"
+
+#~ msgid "Ordered product"
+#~ msgstr "מוצרים מוזמנים"
+
+#~ msgid "Bestselling products"
+#~ msgstr "המוצרים הכי נמכרים"
+
+#~ msgid "Recently added products"
+#~ msgstr "מוצרים שנוספו לאחרונה"
+
+#~ msgid "Method"
+#~ msgstr "שיטה"
+
+#~ msgid "Number of Products"
+#~ msgstr "מספר מוצרים"
+
+#~ msgid "Automatic product list"
+#~ msgstr "רשימת מוצרים אוטומטית"
+
+#~ msgid "Automatic product lists"
+#~ msgstr "רשימות מוצרים אוטומטיות"
+
+#~ msgid "Tabbed Block"
+#~ msgstr "בלוק כרטיסיות (טאבים)"
+
+#~ msgid "Ordered Product List"
+#~ msgstr "רשימת מוצרים מוזמנים"
+
+#~ msgid "Ordered Product Lists"
+#~ msgstr "רשימות מוצרים מוזמנים"
+
+#~ msgctxt "Tabbed block title"
+#~ msgid "Title"
+#~ msgstr "כותרת"
+
+#~ msgid "Tabbed Blocks"
+#~ msgstr "בלוקי כרטיסיות (טאבים)"
+
+#~ msgid "Search"
+#~ msgstr "חיפוש"
+
+#~ msgid "Relevancy"
+#~ msgstr "רלוונטיות"
+
+#~ msgid "Customer rating"
+#~ msgstr "דירוג לקוחות"
+
+#~ msgid "Newest"
+#~ msgstr "הכי חדש"
+
+#~ msgid "Price high to low"
+#~ msgstr "מחיר מגבוה לנמוך"
+
+#~ msgid "Price low to high"
+#~ msgstr "מחיר מנמוך לגבוה"
+
+#~ msgid "Title A to Z"
+#~ msgstr "כותרת מ-A ל-Z"
+
+#~ msgid "Title Z to A"
+#~ msgstr "כותרת מ-Z ל-A"
+
+#~ msgid "Page is not 'last', nor can it be converted to an int."
+#~ msgstr "הדף אינו 'אחרון' ואינו יכול להיות מומר למספר"
+
+#~ msgid "Shipping Method"
+#~ msgstr "צורת משלוח"
+
+#~ msgid "Shipping Methods"
+#~ msgstr "אפשרויות משלוח"
+
+#~ msgid "Price per order"
+#~ msgstr "מחיר להזמנה"
+
+#~ msgid "Price per item"
+#~ msgstr "מחיר לפריט"
+
+#~ msgid "Free Shipping"
+#~ msgstr "משלוח חינם"
+
+#~ msgid "Order and Item Charge"
+#~ msgstr "הזמנה ופריט חיוב"
+
+#~ msgid "Order and Item Charges"
+#~ msgstr "חיובי פריטים ומשלוח"
+
+#~ msgid "Default Weight"
+#~ msgstr "משקל ברירת מחדל"
+
+#~ msgid "Default product weight in kg when no weight attribute is defined"
+#~ msgstr "משקל ברירת המחדל הוא בקילוגרמים כאשר תכונת המשקל לא הוגדרה"
+
+#~ msgid "Weight-based Shipping Method"
+#~ msgstr "שיטת משלוח מבוססת משקל"
+
+#~ msgid "Weight-based Shipping Methods"
+#~ msgstr "שיטות משלוח מבוססות משקל"
+
+#~ msgid "Upper Limit"
+#~ msgstr "גבול עליון"
+
+#~ msgid ""
+#~ "Enter upper limit of this weight band in kg. The lower limit will be "
+#~ "determined by the other weight bands."
+#~ msgstr ""
+#~ "הכניסו את גבול המשקל העליון של סף משקל זה בקילוגרם. הגבול התחתון יוכרע על "
+#~ "ידי ספי משקל אחרים. "
+
+#~ msgid "Charge"
+#~ msgstr "חיוב"
+
+#~ msgid "Weight Band"
+#~ msgstr "קבוצת משקל"
+
+#~ msgid "Weight Bands"
+#~ msgstr "קבוצות משקל"
+
+#~ msgid "Charge for weights up to %s kg"
+#~ msgstr "שנה משקלים לעד %s קילוגרם"
+
+#~ msgid "Shipping"
+#~ msgstr "משלוח"
+
+#~ msgid "Free shipping"
+#~ msgstr "משלוח חינם"
+
+#~ msgid "No shipping required"
+#~ msgstr "ללא משלוח"
+
+#~ msgid "Fixed price shipping"
+#~ msgstr "משלוח בסכום קבוע"
+
+#~ msgid "You need to define some shipping methods"
+#~ msgstr "אתם צריכים להגדיר שיטות משלוח"
+
+#~ msgid "Number of vouchers"
+#~ msgstr "מספר שוברים"
+
+#~ msgid "Length of Code"
+#~ msgstr "אורך הקוד"
+
+#~ msgid "VoucherSet"
+#~ msgstr "מערך שוברים"
+
+#~ msgid "VoucherSets"
+#~ msgstr "מערכי שוברים"
+
+#~ msgid ""
+#~ "This will be shown in the checkout and basket once the voucher is entered"
+#~ msgstr "מידע זה יוצג בקופה ובסל אחרי שהקופון יוזן."
+
+#~ msgid "Case insensitive / No spaces allowed"
+#~ msgstr "אינו תלוי ברישיות / רווחים אינם מותרים"
+
+#~ msgid "Can be used once by one customer"
+#~ msgstr "יכול להיות בשימוש פעם אחת על ידי לקוח אחד"
+
+#~ msgid "Can be used multiple times by multiple customers"
+#~ msgstr "יכול להיות בשימוש מספר פעמים על ידי מספר לקוחות"
+
+#~ msgid "Can only be used once per customer"
+#~ msgstr "מותר לשימוש פעם אחת לכל לקוח"
+
+#~ msgid "Times added to basket"
+#~ msgstr "הזמנים הוספו לסל."
+
+#~ msgid "Times on orders"
+#~ msgstr "זמני הזמנה"
+
+#~ msgid "Voucher"
+#~ msgstr "קופון"
+
+#~ msgid "This voucher has already been used"
+#~ msgstr "הקופון כבר היה בשימוש"
+
+#~ msgid "This voucher is only available to signed in users"
+#~ msgstr "הקופון זמין רק למשתמשים מחוברים"
+
+#~ msgid "You have already used this voucher in a previous order"
+#~ msgstr "השתמשתם בקופון זה כבר בהזמנה קודמת"
+
+#~ msgid "Voucher Application"
+#~ msgstr "יישום קופון"
+
+#~ msgid "Voucher Applications"
+#~ msgstr "יישומי קופון"
+
+#~ msgid "'%(voucher)s' used by '%(user)s'"
+#~ msgstr "'%(voucher)s היה בשימוש על ידי  '%(user)s'"
+
+#~ msgid "Added to a basket"
+#~ msgstr "הוסף לסל"
+
+#~ msgid "Used in an order"
+#~ msgstr "שומש בהזמנה"
+
+#~ msgid "Voucher performance"
+#~ msgstr "ביצועי קופון"
+
+#~ msgid "Default"
+#~ msgstr "ברירת מחקר"
+
+#~ msgid "Private - Only the owner can see the wish list"
+#~ msgstr "פרטי - רק היוצר/ת יכולים לראות את רשימת המתנות"
+
+#~ msgid ""
+#~ "Shared - Only the owner and people with access to the obfuscated link can "
+#~ "see the wish list"
+#~ msgstr "משותף - רק היוצר ואנשים עם הלינק יכולים לראות את רשימת המתנות"
+
+#~ msgid "Public - Everybody can see the wish list"
+#~ msgstr "פומבי - כולם יכולים לראות את רשימת המתנות"
+
+#~ msgid "Visibility"
+#~ msgstr "נראות"
+
+#~ msgid "Wish List"
+#~ msgstr "רשימת מתנות"
+
+#~ msgid "Wish list line"
+#~ msgstr "שורת רשימת מתנות"
+
+#~ msgid "Wishlists"
+#~ msgstr "רשימות מתנות"
+
+#~ msgid "The URL \"%s\" does not exist"
+#~ msgstr "כתובת האינטרנט  \"%s\" אינה קיימת"
+
+#~ msgid "Specified page already exists!"
+#~ msgstr "הדף המצויין כבר קיים!"
+
+#~ msgid "This field is required"
+#~ msgstr "חובה למלא שדה זה"
+
+#~ msgid "This field is invalid as its value is forbidden"
+#~ msgstr "שדה זה לא חוקי כיון שאינו מקבל ערכים"
+
+#~ msgid "This is not a valid international phone format."
+#~ msgstr "זהו לא פורמט עבור טלפון בינלאומי"
+
+#~ msgid "This is not a valid local phone format for %s."
+#~ msgstr "זהו לא פורמט חוקי עבור טלפון מקומי של %s"
+
+#~ msgid "This is not a valid local or international phone format."
+#~ msgstr "זהו לא פורמט חוקי עבור טלפון מקומי או בינלאומי"
+
+#~ msgid "Check for products that are back in stock and send out alerts"
+#~ msgstr "בדוק מוצרים שחזרו למלאי ושלח התראה"
+
+#~ msgid "Permission denied!"
+#~ msgstr "אין לך הרשאות!"
+
+#~ msgid "We're sorry but you are not permitted to access this page."
+#~ msgstr "אנחנו מצטערים, אבל אינכם רשאים לצפות בדף זה."
+
+#~ msgid "Page not found"
+#~ msgstr "דף לא נמצא"
+
+#~ msgid "Page not found!"
+#~ msgstr "דף לא נמצא!"
+
+#~ msgid "We're sorry but the page you are looking for can't be found."
+#~ msgstr "אנחנו מצטערים, אבל הדף שחיפשתם לא נמצא. "
+
+#~ msgid "Server error!"
+#~ msgstr "שגיאת שרת!"
+
+#~ msgid ""
+#~ "We're sorry but something went terribly wrong and we've been unable to "
+#~ "generate the page you requested."
+#~ msgstr "אנחנו מצטערים אבל משהו לא עבד ולא הצלחנו לייצר את הדף שביקשתם. "
+
+#~ msgid ""
+#~ "This incident has been logged and will be addressed by an engineer as "
+#~ "soon as possible."
+#~ msgstr "האירוע נשמר והמתכנת שלנו יעבוד עליו במהירות האפשרית. "
+
+#~ msgid "Home"
+#~ msgstr "דף הבית"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(title)s</strong> has been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> הוסף לסל שלך."
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(quantity)s</strong> copies of <strong>%(title)s</strong>\n"
+#~ "    have been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(quantity)s</strong> עותקים של <strong>%(title)s</strong>\n"
+#~ "הוספו לסל שלך."
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been moved back to your basket.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong>  הוסף בחזרה לסל שלך.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been saved for later\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> נשמרו ליותר מאוחר\n"
+
+#~ msgid "Your basket is now empty"
+#~ msgstr "סל הקניות ריק"
+
+#~ msgid ""
+#~ "\n"
+#~ "            Your basket total is now <strong>%(total)s</strong>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "שווי הסל שלך עכשיו <strong>%(total)s</strong"
+
+#~ msgid "View basket"
+#~ msgstr "סל קניות"
+
+#~ msgid "Checkout now"
+#~ msgstr "לסיום קניה"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket now qualifies for the \n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "הסל שלך עכשיו זכאי\n"
+#~ "להצעה <strong>%(name)s</strong>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket no longer qualifies for the\n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "הסל שלך לא זכאי יותר \n"
+#~ "להצעה <strong>%(name)s</strong>\n"
+
+#~ msgid "Important messages about items in your basket"
+#~ msgstr "הודעות חשובות על פריטים בסל שלך"
+
+#~ msgid "You could be missing out on offers!"
+#~ msgstr "הנחות ומבצעים "
+
+#~ msgid ""
+#~ "\n"
+#~ "                <div class=\"warning\">%(message)s to qualify for the <a "
+#~ "href=\"%(url)s\">%(offer_name)s</a> special offer</div>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                <div class=\"warning\">%(message)s כדי להנות מהמבצע הבא: "
+#~ "-  <a href=\"%(url)s\">%(offer_name)s</a> </div>\n"
+#~ "            "
+
+#~ msgid "Items to buy now"
+#~ msgstr "מוצרים לקנייה"
+
+#~ msgid "Price"
+#~ msgstr "מחיר"
+
+#~ msgid "Total"
+#~ msgstr "סך הכל"
+
+#~ msgid "Updating..."
+#~ msgstr "מעדכן..."
+
+#~ msgid "Update"
+#~ msgstr "עדכון"
+
+#~ msgid "Remove"
+#~ msgstr "להסיר"
+
+#~ msgid "Save for later"
+#~ msgstr "שמור לאח\"כ"
+
+#~ msgid "Voucher/promo code"
+#~ msgstr "קוד שובר"
+
+#~ msgid "I have a voucher code..."
+#~ msgstr "יש לי שובר הנחה..."
+
+#~ msgid "Adding..."
+#~ msgstr "מוסיף..."
+
+#~ msgid "Add voucher"
+#~ msgstr "הוספת שובר"
+
+#~ msgid "or"
+#~ msgstr "או"
+
+#~ msgid "cancel"
+#~ msgstr "ביטול"
+
+#~ msgid "Totals"
+#~ msgstr "סך הכל"
+
+#~ msgid "Proceed to checkout"
+#~ msgstr "לקופה"
+
+#~ msgid "Your basket is empty."
+#~ msgstr "סל הקניות ריק"
+
+#~ msgid "Continue shopping"
+#~ msgstr "המשך קנייה"
+
+#~ msgid "Items to buy later"
+#~ msgstr "פריטים לקנות מאוחר יותר"
+
+#~ msgid "Items"
+#~ msgstr "פריטים"
+
+#~ msgid "Move to basket"
+#~ msgstr "העבר לסל"
+
+#~ msgid "Qty"
+#~ msgstr "כמות"
+
+#~ msgid "Total:"
+#~ msgstr "סך הכל"
+
+#~ msgid "Basket total (before discounts)"
+#~ msgstr "סך הכל בסל (לפני הנחה)"
+
+#~ msgid "Discount"
+#~ msgstr "הנחה"
+
+#~ msgid "Basket total (after discounts)"
+#~ msgstr "סך הכל בסל (אחרי הנחה)"
+
+#~ msgid "Basket total"
+#~ msgstr "סכום סל"
+
+#~ msgid "Alternative shipping methods can be chosen during checkout"
+#~ msgstr "שיטת משלוח אחרת יכולה להיות בשימוש בזמן התשלום"
+
+#~ msgid "Shipping total (before discounts)"
+#~ msgstr "סך הכל סכום המשלוח (לפני הנחה)"
+
+#~ msgid "Shipping total (after discounts)"
+#~ msgstr "סך הכל סכום המשלוח (אחרי הנחה)"
+
+#~ msgid "Tax"
+#~ msgstr "מע\"מ"
+
+#~ msgid "Post order actions"
+#~ msgstr "פעולות של אחרי הזמנה"
+
+#~ msgid "These will be applied once your order is placed."
+#~ msgstr "הפעולה תבוצע כאשר תבוצע הזמנה"
+
+#~ msgid "Taxes will be added during checkout."
+#~ msgstr "מיסים יוספו בקופה"
+
+#~ msgid "Show results for"
+#~ msgstr "הראה תוצאות ל"
+
+#~ msgid "Refine by"
+#~ msgstr "סנן לפי"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> תוצאה - מראה<strong>"
+#~ "%(start)s</strong> עד<strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> תוצאות - מראה "
+#~ "<strong>%(start)s</strong> עד<strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr[2] ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> תוצאות - מראה "
+#~ "<strong>%(start)s</strong> עד<strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr[3] ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> תוצאות - מראה "
+#~ "<strong>%(start)s</strong> עד<strong>%(end)s</strong>.\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> תוצאה.\n"
+#~ "                "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> תוצאות.\n"
+#~ "                "
+#~ msgstr[2] ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> תוצאות.\n"
+#~ "                "
+#~ msgstr[3] ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> תוצאות.\n"
+#~ "                "
+
+#~ msgid "<strong>0</strong> results."
+#~ msgstr "<strong>0</strong> תוצאות."
+
+#~ msgid "No products found."
+#~ msgstr "לא נמצאו מוצרים"
+
+#~ msgid "Edit this category"
+#~ msgstr "עריכת קטגוריה זו"
+
+#~ msgid "Edit this product"
+#~ msgstr "ערוך מוצר"
+
+#~ msgid "Product Description"
+#~ msgstr "תאור מוצר"
+
+#~ msgid "Product Information"
+#~ msgstr "מידע על המוצר"
+
+#~ msgid "Product Type"
+#~ msgstr "סוג מוצר"
+
+#~ msgid "Price (incl. tax)"
+#~ msgstr "מחיר (כולל מעמ)"
+
+#~ msgid "Availability"
+#~ msgstr "זמינות"
+
+#~ msgid "Number of reviews"
+#~ msgstr "מספר צפיות"
+
+#~ msgid "See all reviews"
+#~ msgstr "ראו את כל הביקורות"
+
+#~ msgid "Customer Reviews"
+#~ msgstr "ביקורת לקוחות"
+
+#~ msgid ""
+#~ "This product does not have any reviews yet -\n"
+#~ "                            <a href=\"%(add_review_url)s#addreview\">be "
+#~ "the first to write one</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "עדיין לא נכתבו ביקורות למוצר זה.\n"
+#~ "כתבו ראשונים על מוצר זה <a href=\"%(add_review_url)s#addreview\">"
+
+#~ msgid "This product does not have any reviews yet"
+#~ msgstr "עדיין לא נכתבו ביקורות על מוצר זה"
+
+#~ msgid "Recommended items"
+#~ msgstr "מוצרים מומלצים"
+
+#~ msgid "Add to basket"
+#~ msgstr "הוסף לסל"
+
+#~ msgid "You have an active stock alert for this product."
+#~ msgstr "קיימת התראת מלאי עבור מוצר זה"
+
+#~ msgid "You can get an email alert when this product is back in stock."
+#~ msgstr "באפשרותך לקבל אימייל כאשר מוצר זה יחזור להיות במלאי"
+
+#~ msgid "Notify me"
+#~ msgstr "הודיעו לי"
+
+#~ msgid "Add to wish list"
+#~ msgstr "הוסיפו לרשימת מתנות"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                            Add to '%(name)s' wish list\n"
+#~ "                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "                                            הוספה ל '%(name)s' רשימת "
+#~ "המשאלות\n"
+#~ "                                        "
+
+#~ msgid "Create a new wishlist"
+#~ msgstr "צור רשימת מתנות חדשה"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <span class=\"pull-left\">Product is in <a href="
+#~ "\"%(url)s\">'%(name)s'</a> wishlist.</span>\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "<span class=\"pull-left\">המוצר נמצא <a href=\"%(url)s\">'%(name)s'</a> "
+#~ "ברשימת מתנות.</span>"
+
+#~ msgid "Removing..."
+#~ msgstr "מסיר..."
+
+#~ msgid "Please login to add products to a wish list."
+#~ msgstr "אנא התחברו לאתר על מנת להוסיף מוצר לרשימת המתנות"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Reviewed by you on %(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "כתבת למוצר זה ביקורת בתאריך %(review_date)s"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Reviewed by <strong>%(name)s</strong> on "
+#~ "%(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "נכתבה ביקורת על ידי <strong>%(name)s</strong> ב- %(review_date)s"
+
+#~ msgid "Is this review helpful?"
+#~ msgstr "האם הסקירה הזו מועילה?"
+
+#~ msgid "Yes"
+#~ msgstr "כן"
+
+#~ msgid "No"
+#~ msgstr "לא"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customer "
+#~ "found this useful\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customers "
+#~ "found this useful\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> מ%(num_votes)s מהלקוחות "
+#~ "מצא/ה זאת כמועיל\n"
+#~ "            "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> מ %(num_votes)s לקוחות מצאו "
+#~ "זאת כמועיל\n"
+#~ "            "
+#~ msgstr[2] ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> מ %(num_votes)s לקוחות מצאו "
+#~ "זאת כמועיל\n"
+#~ "            "
+#~ msgstr[3] ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> מ %(num_votes)s לקוחות מצאו "
+#~ "זאת כמועיל\n"
+#~ "            "
+
+#~ msgid "This review has no votes."
+#~ msgstr "לביקורת אין הצבעות"
+
+#~ msgid "Free"
+#~ msgstr "חינם"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer review\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer reviews\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                    %(num_reviews)s סקירת לקוח\n"
+#~ "                "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "                    %(num_reviews)s סקירות לקוחות\n"
+#~ "                "
+#~ msgstr[2] ""
+#~ "\n"
+#~ "                    %(num_reviews)s סקירות לקוחות\n"
+#~ "                "
+#~ msgstr[3] ""
+#~ "\n"
+#~ "                    %(num_reviews)s סקירות לקוחות\n"
+#~ "                "
+
+#~ msgid "Write a review"
+#~ msgstr "כתבו ביקורת"
+
+#~ msgid "Customer reviews"
+#~ msgstr "ביקורות לקוחות"
+
+#~ msgid "Leave a product review"
+#~ msgstr "השאירו ביקורת מוצר"
+
+#~ msgid "Saving..."
+#~ msgstr "שומר"
+
+#~ msgid "Save review"
+#~ msgstr "שמור ביקורת"
+
+#~ msgid "This product does not have any reviews yet."
+#~ msgstr "עדיין לא נכתבו ביקורות למוצר זה"
+
+#~ msgid "Change"
+#~ msgstr "שנה"
+
+#~ msgid "Contact"
+#~ msgstr "יצירת קשר"
+
+#~ msgid "Phone"
+#~ msgstr "טלפון"
+
+#~ msgid "Payment details to go here"
+#~ msgstr "פרטי תשלום "
+
+#~ msgid "Edit order contents"
+#~ msgstr "עריכת הזמנה"
+
+#~ msgid "Order contents"
+#~ msgstr "תכולת הזמנה"
+
+#~ msgid "Item"
+#~ msgstr "פריט"
+
+#~ msgid "Checkout gateway"
+#~ msgstr "לסיום קניה"
+
+#~ msgid "Who are you?"
+#~ msgstr "מי את/ה?"
+
+#~ msgid "Get a password reminder"
+#~ msgstr "קבלו תזכורות לססמאתכם. "
+
+#~ msgid "Continuing..."
+#~ msgstr "ממשיך..."
+
+#~ msgid "Continue"
+#~ msgstr "המשך"
+
+#~ msgid "1. Shipping address"
+#~ msgstr "1. כתובת למשלוח"
+
+#~ msgid "2. Shipping method"
+#~ msgstr "2. צורת משלוח"
+
+#~ msgid "3. Payment"
+#~ msgstr "3. תשלום"
+
+#~ msgid "4. Preview"
+#~ msgstr "4. תצוגה מקדימה"
+
+#~ msgid "5. Confirmation"
+#~ msgstr "5. אישור"
+
+#~ msgid "Payment details"
+#~ msgstr "פרטי תשלום"
+
+#~ msgid "Enter payment details"
+#~ msgstr "הכנס פרטי תשלום"
+
+#~ msgid ""
+#~ "This page needs implementing within your project.  You may want to use "
+#~ "one of Oscar's payment gateway libraries:"
+#~ msgstr ""
+#~ "הדף צריך להיות מיושם בתוך הפרוייקט. אולי תרצו להשתמש באחת מספריות התשלום "
+#~ "של אוסקר:"
+
+#~ msgid "Order preview"
+#~ msgstr "סיכום הזמנה"
+
+#~ msgid "Preview order"
+#~ msgstr "סיכום הזמנה"
+
+#~ msgid "Place order"
+#~ msgstr "שליחת הזמנה"
+
+#~ msgid "Where should we ship to?"
+#~ msgstr "לאן לשלוח את הזמנתך?"
+
+#~ msgid "An address from your address book?"
+#~ msgstr "כתובת מפנקס הנמענים שלך?"
+
+#~ msgid "Ship to your default shipping address"
+#~ msgstr "כתובת משלוח ברירת מחדל?"
+
+#~ msgid "Ship to this address"
+#~ msgstr "שלחו לכתובת זו"
+
+#~ msgid "Delete"
+#~ msgstr "מחיקה"
+
+#~ msgid "Or a new address?"
+#~ msgstr "או הגדר/י כתובת חדשה?"
+
+#~ msgid "return to basket"
+#~ msgstr "חזרה לסל הקניות"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                This includes a discount of <strong>"
+#~ "%(amount)s</strong> as\n"
+#~ "                                your basket qualifies for the <strong>"
+#~ "%(name)s</strong> offer.\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "כולל הנחה של  <strong>%(amount)s</strong> משום\n"
+#~ "הסל שלך מתאים להצעה <strong>%(name)s</strong>."
+
+#~ msgid "Select option"
+#~ msgstr "בחרו אפשרות"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s: confirmation\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "הזמנה %(number)s: אישור"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Your order has been placed and a confirmation email has been sent "
+#~ "- your order number is\n"
+#~ "        <strong>%(number)s</strong>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "ההזמנה שלך הוזנה ואישור נשלח לאימייל שלך - מספר ההזמנה שלך הוא \n"
+#~ "<strong>%(number)s</strong>."
+
+#~ msgid ""
+#~ "Please make a note of this reference or print this page and quote it in "
+#~ "any communication with us regarding your order."
+#~ msgstr "נא רשמו את מספר ההזמנה וציינו אותו בכל התקשרות בנוגע להזמנתכם."
+
+#~ msgid "No shipping address required."
+#~ msgstr "לא דרושה כתובת משלוח"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s (reference: %(reference)s)\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "הקצאה של %(amount)s מסוג %(type)s (הפנייה: %(reference)s)"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "הקצאה של %(amount)s מסוג  %(type)s"
+
+#~ msgid "No payment was required for this order."
+#~ msgstr "לא נדרש תשלום עבור הזמנה זו"
+
+#~ msgid "Items purchased"
+#~ msgstr "מוצרים שנרכשו"
+
+#~ msgid ""
+#~ "\n"
+#~ "                            Estimated dispatch: <strong>%(date)s</"
+#~ "strong>\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "זמן שילוח משוער: <strong>%(date)s</strong>"
+
+#~ msgid "Shipping charge (before discounts)"
+#~ msgstr "מחיר משלוח (לפני הנחה)"
+
+#~ msgid "Shipping charge (after discounts)"
+#~ msgstr "מחיר משלוח (אחרי הנחה)"
+
+#~ msgid "Shipping charge"
+#~ msgstr "מחיר משלוח"
+
+#~ msgid "Order tax"
+#~ msgstr "מ\"עמ על ההזמנה"
+
+#~ msgid "Tracking your order"
+#~ msgstr "מעקב הזמנה"
+
+#~ msgid "You can track the status of your order"
+#~ msgstr "אתם יכולים לאתר את סטטוס ההזמנה שלכם"
+
+#~ msgid "View order status"
+#~ msgstr "ראו סטטוס הזמנה"
+
+#~ msgid "Print this page"
+#~ msgstr "הדפס דף זה"
+
+#~ msgid "Are you sure you want to delete this address?"
+#~ msgstr "בטוח/ה שברצונך למחוק כתובת זו?"
+
+#~ msgid "Yes!"
+#~ msgstr "כן!"
+
+#~ msgid "Save"
+#~ msgstr "שמור"
+
+#~ msgid "Address book"
+#~ msgstr "ספר כתובות"
+
+#~ msgid "Deleting..."
+#~ msgstr "מוחק..."
+
+#~ msgid "Default shipping address"
+#~ msgstr "כתובת משלוח ברירת מחדל"
+
+#~ msgid "Default billing address"
+#~ msgstr "כתובת חיוב ברירת מחדל"
+
+#~ msgid "Edit"
+#~ msgstr "עריכה"
+
+#~ msgid "Set as default shipping address"
+#~ msgstr "כתובת משלוח ברירת מחדל?"
+
+#~ msgid "Set as default billing address"
+#~ msgstr "קבע ככתובת ברירת מחדל לחיוב"
+
+#~ msgid "There are no addresses in your address book."
+#~ msgstr "לא הוגדרו כתובות"
+
+#~ msgid "You do not have any active alerts for out-of-stock products."
+#~ msgstr "אין התראות על מוצרים שלא במלאי"
+
+#~ msgid "Cancel"
+#~ msgstr "ביטול"
+
+#~ msgid ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> is back in stock\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> נמצא בחזרה במלאי\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "%(title)s is back in stock\n"
+#~ msgstr ""
+#~ "\n"
+#~ "%(title)s שוב במלאי\n"
+
+#~ msgid "Order #%(number)s"
+#~ msgstr "הזמנה #%(number)s"
+
+#~ msgid "Contact number"
+#~ msgstr "מספר טלפון"
+
+#~ msgid "Notes"
+#~ msgstr "הערות"
+
+#~ msgid "Estimated dispatch date"
+#~ msgstr "תאריך משלוח משוער"
+
+#~ msgid "Line price excl. tax"
+#~ msgstr "מספר שורה ללא מיסים"
+
+#~ msgid "Line price incl. tax"
+#~ msgstr "מספר שורה כולל מיסים"
+
+#~ msgid "Basket total (inc. tax)"
+#~ msgstr "סך הכל בסל (כולל מס)"
+
+#~ msgid "Email history"
+#~ msgstr "היסטוריית אימייל"
+
+#~ msgid "Date sent"
+#~ msgstr "תאריך שליחה"
+
+#~ msgid "No emails found"
+#~ msgstr "לא נמצאו הודעות דואר"
+
+#~ msgid "Thanks for using our site!"
+#~ msgstr "תודה שהשתמשת באתר שלנו!"
+
+#~ msgid "The %(name)s team"
+#~ msgstr "צוות %(name)s"
+
+#~ msgid ""
+#~ "You're receiving this email because your email address has been changed "
+#~ "to <strong>%(email)s</strong>."
+#~ msgstr ""
+#~ "קובלת הודעה זו כיון שכתובת הדוא\"ל שלך שונתה ל<strong>%(email)s</strong>."
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately "
+#~ "and correct your email address:"
+#~ msgstr ""
+#~ "אם לא שינית את הססמא שלך, אנא אפס/י את ההסמא מייד ותקנ/י את כתובת הדואר "
+#~ "האלקטרוני שלך:"
+
+#~ msgid ""
+#~ "If it was you who changed the email address, you can ignore this email."
+#~ msgstr ""
+#~ "אם אכן שינית את את כתובת הדואר האלקטרוני שלך, את/ה יכול/ה להתעלם מדואר "
+#~ "אקלטרוני זה.  "
+
+#~ msgid ""
+#~ "You're receiving this email because your email address has been changed "
+#~ "to %(email)s."
+#~ msgstr ""
+#~ "את/ה מקבל/ת דואר זה מכיוון שתיבת הדואר האלקטרוני שונתה ל-  %(email)s."
+
+#~ msgid "Your email address has changed at %(site_name)s."
+#~ msgstr "כתובת הדואר האלקטרוני שלך השתנתה ב%(site_name)s"
+
+#~ msgid "Hello,"
+#~ msgstr "שלום"
+
+#~ msgid ""
+#~ "We are pleased to confirm your order %(order_number)s has been received "
+#~ "and\n"
+#~ "        will be processed shortly."
+#~ msgstr "אנו שמחים לאשר שהזמנתך %(order_number)s התקבלה ותטופל בקרוב"
+
+#~ msgid "Your order contains:"
+#~ msgstr "תכולת הזמנתך:"
+
+#~ msgid "Basket total:"
+#~ msgstr "סכום סל:"
+
+#~ msgid "Shipping:"
+#~ msgstr "משלוח:"
+
+#~ msgid "Order Total:"
+#~ msgstr "סך הכל"
+
+#~ msgid "Shipping address:"
+#~ msgstr "כתובת למשלוח"
+
+#~ msgid ""
+#~ "You can view the status of this order by clicking <a href=\"%(status_url)s"
+#~ "\" title=\"order status\">here</a>"
+#~ msgstr ""
+#~ "תוכלו לצפות בסטטוס ההזמנה אם תקישו <a href=\"%(status_url)s\" title="
+#~ "\"order status\">כאן</a>"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "We are pleased to confirm your order %(order_number)s has been received "
+#~ "and\n"
+#~ "will be processed shortly."
+#~ msgstr ""
+#~ "שלום, \n"
+#~ "\n"
+#~ "הזמנתך מספר %(order_number)s התקבלה והטיפול בה יתחיל בקרוב."
+
+#~ msgid "quantity:"
+#~ msgstr "כמות:"
+
+#~ msgid "price:"
+#~ msgstr "מחיר:"
+
+#~ msgid ""
+#~ "You can view the status of this order at the below URL:\n"
+#~ "%(status_url)s"
+#~ msgstr ""
+#~ "תוכלו לצפות בסטטוס ההזמנה בקישור המופיע מטה:\n"
+#~ "%(status_url)s"
+
+#~ msgid "The team"
+#~ msgstr "הצוות"
+
+#~ msgid "Confirmation of order %(number)s"
+#~ msgstr "אישור הזמנה מס' %(number)s"
+
+#~ msgid ""
+#~ "You're receiving this e-mail because your password has been changed at "
+#~ "%(name)s."
+#~ msgstr "קיבלת הודעת דוא\"ך זו מכיוון שססמתך שונתה ב %(name)s."
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately:"
+#~ msgstr "אם לא שינית את הססמא שלכם, אנא אפסו את הססמא מיד:"
+
+#~ msgid "Otherwise, you can ignore this email."
+#~ msgstr "אחרת, אנא התעלמו מדואר אלקטרוני זה"
+
+#~ msgid ""
+#~ "\n"
+#~ "You're receiving this email because your password has been changed at "
+#~ "%(name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "קיבלת מייל זה מכיוון שססמתך שונתה ב- %(name)s.\n"
+
+#~ msgid "Your password changed at %(site_name)s."
+#~ msgstr "ססמתך שונה ב -%(site_name)s."
+
+#~ msgid ""
+#~ "You're receiving this e-mail because you requested a password reset for "
+#~ "your user account at %(name)s."
+#~ msgstr "קיבלת מייל זה מכיוון שביקשת לאפס ססמא בחשבון %(name)s."
+
+#~ msgid "Please go to the following page and choose a new password:"
+#~ msgstr "אנא כנס/י לדף הבא ובחר/י ססמא חדשה:"
+
+#~ msgid "Resetting your password at %(site_name)s."
+#~ msgstr "מאפס את ססמתך ב-%(site_name)s."
+
+#~ msgid "Dear %(name)s,"
+#~ msgstr "%(name)s יקר,"
+
+#~ msgid ""
+#~ "\n"
+#~ "            We are happy to inform you that our product '%(title)s' is "
+#~ "back in stock:\n"
+#~ "            http://%(site)s%(path)s\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "            אנו שמחים לבשר לך שהמוצר '%(title)s' שוב במלאי:\n"
+#~ "            http://%(site)s%(path)s\n"
+#~ "        "
+
+#~ msgid ""
+#~ "\n"
+#~ "                Beware that the amount of items in stock is limited. Be "
+#~ "quick or someone might get there first.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "יש לשים לב שכמות המוצרים במלאי מוגבלת. יש להזדרז או שמישהו אחר יוכל "
+#~ "להקדימך."
+
+#~ msgid ""
+#~ "\n"
+#~ "            With this email we have disabled your alert automatically and "
+#~ "you will not\n"
+#~ "            receive any further email regarding this product.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "בהודעת דוא\"ך זו חסמנו את האתראות האוטומטיות ולא \n"
+#~ "תקבלו הודעות דוא\"ך נוספות בהקשר למוצר זה."
+
+#~ msgid ""
+#~ "\n"
+#~ "We are happy to inform you that our product '%(title)s' is back in "
+#~ "stock:\n"
+#~ "http://%(site)s%(path)s\n"
+#~ msgstr ""
+#~ "\n"
+#~ "אנו שמחים להודיעך שמוצרנו '%(title)s' נמצא שוב במלאי:\n"
+#~ "http://%(site)s%(path)s\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "Beware that the amount of items in stock is limited. Be quick or someone "
+#~ "might get there first.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "שימו לב כי מספר המוצרים במלאי מוגבל. היו מהירים או שמישהו ירכוש את זה "
+#~ "לפניכם. \n"
+
+#~ msgid ""
+#~ "\n"
+#~ "With this email we have disabled your alert automatically and you will "
+#~ "not\n"
+#~ "receive any further email regarding this product.\n"
+#~ "\n"
+#~ "Thanks for your interest,\n"
+#~ "The %(site_name)s Team\n"
+#~ msgstr ""
+#~ "\n"
+#~ "עם שליחת אימייל זה הפסקנו את ההתראות האוטומטיות שלך ואת/ה לא תקבל/י יותר "
+#~ "אימייל לגבי מוצר זה.\n"
+#~ "\n"
+#~ "תודה על ההתעניינות,\n"
+#~ "צוות  %(site_name)s\n"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "Somebody (hopefully you) has requested an email alert when\n"
+#~ "'%(title)s' is back in stock.  Please click the following link\n"
+#~ "to confirm:\n"
+#~ "http://%(domain)s%(confirm_path)s\n"
+#~ "\n"
+#~ "You can cancel this alert at any time by clicking the following link:\n"
+#~ "http://%(domain)s%(cancel_path)s\n"
+#~ "\n"
+#~ "Thanks for your interest,\n"
+#~ "The %(site)s Team\n"
+#~ msgstr ""
+#~ "שלום,\n"
+#~ "\n"
+#~ "מישהו (בתקווה שאת/ה) ביקשו אתראת דוא\"ל כאשר %(title)s.  המוצר חוזר "
+#~ "למלאי. בבקשה להקליק על הקישור הבא כדי לאשר: \n"
+#~ "thttp://%(domain)s%(confirm_path)s\n"
+#~ "\n"
+#~ "ניתן לבטל בקשת אתראות זו בכל עת ע\"י הקשה על הקישור הבא:\n"
+#~ "http://%(domain)s%(cancel_path)s\n"
+#~ "\n"
+#~ "תודה על התענינותך,\n"
+#~ "ה %(site)s צוות\n"
+
+#~ msgid "Confirmation required for stock alert"
+#~ msgstr "אישור הוא חובה עבור התראת מלאי"
+
+#~ msgid "%(title)s is back in stock"
+#~ msgstr "%(title)s הנו שוב במלאי"
+
+#~ msgid "Thank you for registering."
+#~ msgstr "תודה שנרשמת למערכת החנות."
+
+#~ msgid "Products you recently viewed"
+#~ msgstr "מוצרים שצפיתם בהם לאחרונה"
+
+#~ msgid "Log In"
+#~ msgstr "כניסה"
+
+#~ msgid "I've forgotten my password"
+#~ msgstr "שכחתי סיסמה"
+
+#~ msgid "Logging in..."
+#~ msgstr "מתחבר..."
+
+#~ msgid "Register"
+#~ msgstr "הרשמה"
+
+#~ msgid "Registering..."
+#~ msgstr "מבצע רישום..."
+
+#~ msgid "Notifications inbox"
+#~ msgstr "התראת לתיבת הדואר הנכנס"
+
+#~ msgid "Sender"
+#~ msgstr "שולח"
+
+#~ msgid "Return to notifications inbox"
+#~ msgstr "חזור לתיבת התראות"
+
+#~ msgctxt "noun"
+#~ msgid "Archive"
+#~ msgstr "ארכיון"
+
+#~ msgid "View"
+#~ msgstr "צפה"
+
+#~ msgctxt "verb"
+#~ msgid "Archive"
+#~ msgstr "ארכיון"
+
+#~ msgid "With selected items:"
+#~ msgstr "עם פריטים נבחרים:"
+
+#~ msgid "Archiving..."
+#~ msgstr "מארכב..."
+
+#~ msgid "There are no notifications to display."
+#~ msgstr "אין התראות להצגה."
+
+#~ msgid "Order history"
+#~ msgstr "היסטוריית הזמנות"
+
+#~ msgid "Dispatch date"
+#~ msgstr "תאריך שילוח"
+
+#~ msgid "Re-ordering..."
+#~ msgstr "מזמין מחדש"
+
+#~ msgid "Re-order"
+#~ msgstr "הזמנה מחדש"
+
+#~ msgid "Not available anymore"
+#~ msgstr "לא זמין יותר"
+
+#~ msgid "Basket total (excl. discounts)"
+#~ msgstr "סך הכל בסל (ללא הנחה)"
+
+#~ msgid "Basket total (inc. discounts)"
+#~ msgstr "סך הכל בסל (לאחר הנחה)"
+
+#~ msgid "Shipping total (excl. discounts)"
+#~ msgstr "סך הכל הסכום למשלוח (ללא הנחה)"
+
+#~ msgid "Shipping total (inc. discounts)"
+#~ msgstr "סך הכל הסכום למשלוח (לאחר ההנחה)"
+
+#~ msgid "Shipping total"
+#~ msgstr "סך כל הסכום למשלוח"
+
+#~ msgid "Re-order all items"
+#~ msgstr "הזמן מחדש את כל הפריטים"
+
+#~ msgid "Contact Number"
+#~ msgstr "מספר קשר"
+
+#~ msgid "Shipping Notes"
+#~ msgstr "הערות משלוח"
+
+#~ msgid "Filtering..."
+#~ msgstr "מסנן..."
+
+#~ msgid "Filter results"
+#~ msgstr "תוצאות הסינון"
+
+#~ msgid "Reset"
+#~ msgstr "מאתחל"
+
+#~ msgid "Total inc tax"
+#~ msgstr "סך הכל כולל מס"
+
+#~ msgid "No orders match your search."
+#~ msgstr "אין הזמנות התואמות את החיפוש שלך"
+
+#~ msgid "You haven't placed any orders."
+#~ msgstr "לא נמצאו הזמנות."
+
+#~ msgid "Change password"
+#~ msgstr "שינוי סיסמה"
+
+#~ msgid "Edit profile"
+#~ msgstr "ערוך פרופיל"
+
+#~ msgid "Please confirm your password to delete your profile."
+#~ msgstr "אנא אשר את ססמתך כדי למחוק את הפרופיל שלך"
+
+#~ msgid "Warning"
+#~ msgstr "אזהרה"
+
+#~ msgid ""
+#~ "\n"
+#~ "                This will delete all information about you from the "
+#~ "site.  Deleting your profile cannot be\n"
+#~ "                undone.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "אנחנו נמחק את כל המידע עליך מהאתר. מחיקת פרופיל אינה\n"
+#~ "יכולה להתבצע."
+
+#~ msgid "Delete?"
+#~ msgstr "למחוק?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "האם אתם בטוחים שאתם רוצים למחוק את %(name)s?"
+
+#~ msgid "Remove product"
+#~ msgstr "הסר מוצר"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(product_name)s from "
+#~ "wish list %(wishlist_name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "האם אתם בטוחים שאתם רוצים למחוק את %(product_name)s מרשימת המתנות "
+#~ "%(wishlist_name)s?"
+
+#~ msgid "Action"
+#~ msgstr "פעולה"
+
+#~ msgid "View product"
+#~ msgstr "צפו במוצר"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                            Move to "
+#~ "'%(name)s' wish list\n"
+#~ "                                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "העבר לרשימת מתנות  '%(name)s' "
+
+#~ msgid "Update quantities"
+#~ msgstr "עדכן כמויות"
+
+#~ msgid "Your wish list is empty."
+#~ msgstr "רשימת המתנות שלך ריקה"
+
+#~ msgid "Create"
+#~ msgstr "צרו"
+
+#~ msgid "What should your new wish list be called?"
+#~ msgstr "כיצד לקרוא לרשימת המתנות החדשה?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    After your wishlist is created, <strong>%(title)s</"
+#~ "strong> will be added.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "אחרי שרשימת המתנות תווצר, <strong>%(title)s</strong> יתווסף. "
+
+#~ msgid "Number of products"
+#~ msgstr "מספר מוצרים"
+
+#~ msgid "Wish list settings"
+#~ msgstr "הגדרות רשימת מתנות"
+
+#~ msgid "You don't have any wish lists yet."
+#~ msgstr "אין לכם עדיין רשימת מתנות."
+
+#~ msgid "Create Attribute Option Group"
+#~ msgstr "יצירת קבוצת אפשרויות תכונה"
+
+#~ msgid "Attribute Option Group"
+#~ msgstr "קבוצת אפשרויות תכונה"
+
+#~ msgid "Delete Attribute Option Group?"
+#~ msgstr "ביטול קבוצת אפשרויות תכונה?"
+
+#~ msgid ""
+#~ "Please make sure all Product Attributes are assigned to another Attribute "
+#~ "Option Group before deletion."
+#~ msgstr ""
+#~ "בבקשה לודא שכל תכונות המוצר מיושמות לקבוצת אפשרויות אחרת לפני הביטול"
+
+#~ msgid "Delete Attribute Option Group"
+#~ msgstr "ביטול קבוצת אפשרויות תכונה"
+
+#~ msgid ""
+#~ "Delete Attribute Option Group <strong>%(name)s</strong> - are you sure?"
+#~ msgstr "ביטול קבוצת אפשרויות תכונה <strong>%(name)s</strong> - בטוח/ה?"
+
+#~ msgid "Sections"
+#~ msgstr "חלקים "
+
+#~ msgid "Attribute Option Group details"
+#~ msgstr "פרטי קבוצת אפשרויות תכונה"
+
+#~ msgid "Attribute Options"
+#~ msgstr "אפשרויות תכונה"
+
+#~ msgid "Attribute Option Groups"
+#~ msgstr "קבוצות אפשרויות תכונה"
+
+#~ msgid "Create new Attribute Option Group"
+#~ msgstr "יצירת קבוצת אפשרויות תכונה חדשה"
+
+#~ msgid "No Attribute Option Groups found."
+#~ msgstr "לא נמצאה קבוצת אפשרויות תכונה"
+
+#~ msgid "Edit Attribute Option Group"
+#~ msgstr "עריכת קבוצת אפרויות תכונה"
+
+#~ msgid "Delete category?"
+#~ msgstr "האם למחוק את הקטגוריה?"
+
+#~ msgid "Delete category"
+#~ msgstr "מחק קטגוריה"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <p>Delete category <strong>%(name)s</strong> - are you sure?</"
+#~ "p>\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "<p>מוחק קטגוריה <strong>%(name)s</strong> - האם אתם בטוחים?</p>"
+
+#~ msgid "Create new category"
+#~ msgstr "צור קטגוריה חדשה"
+
+#~ msgid "You are editing:"
+#~ msgstr "אתם עורכים:"
+
+#~ msgid "There are no categories."
+#~ msgstr "אין קטגוריות"
+
+#~ msgid "Edit category"
+#~ msgstr "ערוך קטגוריה"
+
+#~ msgid "Add child category"
+#~ msgstr "הוסף קטגורית בן"
+
+#~ msgid "Edit children"
+#~ msgstr "הוסף בנים"
+
+#~ msgid "View on site"
+#~ msgstr "צפו באתר"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "צור משתנה מוצר  '%(name)s'."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "נוצרה גרסה של '%(parent_name)s'."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "עודכנה גרסאת המוצר של '%(name)s'."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated a variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "עודכנה גרסה של '%(parent_name)s'."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Created product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "צור מוצר  '%(name)s'."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Updated product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "עודכן מוצר '%(name)s'."
+
+#~ msgid "Edit again"
+#~ msgstr "ערוך שוב"
+
+#~ msgid "View it on the site"
+#~ msgstr "צפו באתר"
+
+#~ msgid "Delete product type?"
+#~ msgstr "האם למחוק סוג מוצר זה?"
+
+#~ msgid ""
+#~ "Please make sure all products are assigned to another type before "
+#~ "deletion."
+#~ msgstr "אנא וודאו שכל המוצרים משיוכים לסוג אחר לפני מחיקה."
+
+#~ msgid "Delete product type"
+#~ msgstr "מחק סוג מוצר"
+
+#~ msgid "Delete product type <strong>%(name)s</strong> - are you sure?"
+#~ msgstr "מוחק סוג מוצר <strong>%(name)s</strong> - האם אתם בטוחים?"
+
+#~ msgid "Create product type"
+#~ msgstr "צור סוג מוצר"
+
+#~ msgid "Product Class details"
+#~ msgstr "פרטי סוג מוצר"
+
+#~ msgid "Create new product type"
+#~ msgstr "צור סוג מוצר חדש"
+
+#~ msgid "Product types"
+#~ msgstr "סוגי מוצרים"
+
+#~ msgid "Requires shipping"
+#~ msgstr "דרוש משלוח"
+
+#~ msgid "Track stock?"
+#~ msgstr "עקוב אחר מלאי?"
+
+#~ msgid "Edit product type"
+#~ msgstr "ערוך סוג מוצר"
+
+#~ msgid "There are no product types."
+#~ msgstr "אין סוגי מוצרים"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product variant <strong>%(title)s</strong> - "
+#~ "are you sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "מוחק גרסת מוצר <strong>%(title)s</strong> - האם אתם בטוחים?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product <strong>%(title)s</strong> - are you "
+#~ "sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "מוחק מוצר <strong>%(title)s</strong>  - האם אתם בטוחים?"
+
+#~ msgid "This will also delete the following child products:"
+#~ msgstr "פעולה זו תגרום למחיקה של מוצרים בנים:"
+
+#~ msgid "Create new product"
+#~ msgstr "צור מוצר חדש"
+
+#~ msgid "New Product"
+#~ msgstr "מוצר חדש"
+
+#~ msgid "Search Products"
+#~ msgstr "חפש מוצרים"
+
+#~ msgid "Searching..."
+#~ msgstr "מחפש..."
+
+#~ msgid ""
+#~ "\n"
+#~ "                            You are currently editing a product variant "
+#~ "of\n"
+#~ "                            <a href=\"%(parent_url)s\">%(title)s</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "כרגע אתם עורכים גרסאת מוצר של \n"
+#~ "<a href=\"%(parent_url)s\">%(title)s</a>."
+
+#~ msgid "Product details"
+#~ msgstr "פרטי מוצר"
+
+#~ msgid "Images"
+#~ msgstr "תמונות"
+
+#~ msgid "Stock and pricing"
+#~ msgstr "מלאי ומחירים"
+
+#~ msgid "Upselling"
+#~ msgstr "מוצרים נוספים"
+
+#~ msgid "Product Type:"
+#~ msgstr "סוג מוצר:"
+
+#~ msgid "Upload, change or remove images"
+#~ msgstr "העלו, שנו או הסירו תמונות"
+
+#~ msgid "SKU"
+#~ msgstr "SKU"
+
+#~ msgid "Num in stock"
+#~ msgstr "מספר במלאי"
+
+#~ msgid "Num allocated"
+#~ msgstr "מספר שהוקצו"
+
+#~ msgid "Low stock threshold"
+#~ msgstr "גבול מלאי נמוך"
+
+#~ msgid "Cost price"
+#~ msgstr "מחיר עלות"
+
+#~ msgid "Price (excl tax)"
+#~ msgstr "מחיר (ללא מס)"
+
+#~ msgid "Retail price"
+#~ msgstr "מחיר קמעונאי"
+
+#~ msgid "Add variant"
+#~ msgstr "הוסף גרסה"
+
+#~ msgid "This product does not have any variants."
+#~ msgstr "למוצר זה אין אף גרסה. "
+
+#~ msgid "One can't add variants to this product at this point."
+#~ msgstr "אין אפשרות להוסיף משתנה למוצר זה כרגע."
+
+#~ msgid "This is likely because this product still has stock records."
+#~ msgstr "פעולה זו קרתה כנראה כי המוצר עדיין מופיע ברשימות המלאי. "
+
+#~ msgid "Save and add another variant"
+#~ msgstr "שמור והוסף משתנה אחר"
+
+#~ msgid "Save and continue editing"
+#~ msgstr "שמירה והמשך עריכה"
+
+#~ msgid "All"
+#~ msgstr "הכל"
+
+#~ msgid "Current available stock"
+#~ msgstr "כרגע זמינים במלאי"
+
+#~ msgid "Date alert raised"
+#~ msgstr "תאריך בו עלתה ההארה"
+
+#~ msgid "No stock alerts found."
+#~ msgstr "לא נמצאו התראות מלאי"
+
+#~ msgid "Preview"
+#~ msgstr "תצוגה מקדימה"
+
+#~ msgid "Edit email"
+#~ msgstr "עריכת אימייל"
+
+#~ msgid "Email content"
+#~ msgstr "תוכן האימייל"
+
+#~ msgid "These fields are rendered using Django's template system."
+#~ msgstr "שדות אלו מעובדים על ידי מערכת תבניות של ד'גנגו"
+
+#~ msgid "You can use the following variables:"
+#~ msgstr "ניתן להשתמש במשתנים הבאים:"
+
+#~ msgid "The full name of the user (if they have one)"
+#~ msgstr "השם המלא של המשתמש (אם יש למשתמש אחד)"
+
+#~ msgid "The user's email address"
+#~ msgstr "כתובת הדואר האלקטרוני של המשתמש"
+
+#~ msgid "The name of the site (eg example.com)"
+#~ msgstr "שם האתר (לדוגמא example.com)"
+
+#~ msgid "View a preview of this email using order:"
+#~ msgstr "צפו בתצוגה מקדימה של האימייל על ידי הפקודה:"
+
+#~ msgid "View preview"
+#~ msgstr "צפייה בתצוגה מקדימה"
+
+#~ msgid "or send a preview to:"
+#~ msgstr "או שלח תצוגה מקדימה ל:"
+
+#~ msgid "Sending..."
+#~ msgstr "שולח..."
+
+#~ msgid "Send preview email"
+#~ msgstr "שלח תצוגה מקדימה של אימייל"
+
+#~ msgid "Body text"
+#~ msgstr "גוף הטקסט"
+
+#~ msgid "There are no defined emails to edit."
+#~ msgstr "אין אימיילים מוגדרים לעריכה"
+
+#~ msgid "Your Store Statistics"
+#~ msgstr "סטטיסטיקת חנות"
+
+#~ msgid "Total Orders"
+#~ msgstr "סה\"כ הזמנות"
+
+#~ msgid "New Customers"
+#~ msgstr "לקוחות חדשים"
+
+#~ msgid "Total Customers"
+#~ msgstr "סה\"כ לקוחות"
+
+#~ msgid "Total Products"
+#~ msgstr "סה\"כ מוצרים"
+
+#~ msgid "Latest Orders (last 24 hours)"
+#~ msgstr "הזמנות אחרונות (24 שעות)"
+
+#~ msgid "Orders - Last 24 Hours"
+#~ msgstr "הזמנות - 24 שעות אחרונות"
+
+#~ msgid "Total orders"
+#~ msgstr "סך הכל הזמנות"
+
+#~ msgid "Total lines"
+#~ msgstr "סך הכל שורות"
+
+#~ msgid "Total revenue"
+#~ msgstr "סך הכל רווח"
+
+#~ msgid "Average order costs"
+#~ msgstr "עלויות הזמנה ממוצעות"
+
+#~ msgid "Manage"
+#~ msgstr "נהלו"
+
+#~ msgid "Orders - All Time"
+#~ msgstr "הזמנות - כל הזמנים"
+
+#~ msgid "Total <em>open</em> baskets"
+#~ msgstr "סך הכל סלים <em>פתוחים</em>"
+
+#~ msgid "Total customers"
+#~ msgstr "סך הכל לקוחות"
+
+#~ msgid "New customers"
+#~ msgstr "לקוחות חדשים"
+
+#~ msgid "View Stock Alerts"
+#~ msgstr "צפייה בהתראות מלאי"
+
+#~ msgid "Catalogue and stock"
+#~ msgstr "קטלוג ומלאי"
+
+#~ msgid "Total products"
+#~ msgstr "סך הכל מוצרים"
+
+#~ msgid "<em>Open</em> stock alerts"
+#~ msgstr "<em>פתיחת</em> התראות מלאי"
+
+#~ msgid "<em>Closed</em> stock alerts"
+#~ msgstr "<em>סגירת</em> התראות מלאי"
+
+#~ msgid "Offers, vouchers and promotions"
+#~ msgstr "הצעות, קופונים ומבצעים"
+
+#~ msgid "Active <em>Site</em> Offers"
+#~ msgstr "הצעות  <em>אתר</em> פעילות"
+
+#~ msgid "Active <em>Vouchers</em>"
+#~ msgstr "<em>קופונים</em> פעילים"
+
+#~ msgid "Welcome"
+#~ msgstr "ברוכים הבאים"
+
+#~ msgid "Return to site"
+#~ msgstr "חזרו לאתר"
+
+#~ msgid "Log out"
+#~ msgstr "יציאה"
+
+#~ msgid ""
+#~ "Please enter a correct username and password. Note that both fields may "
+#~ "be case-sensitive."
+#~ msgstr ""
+#~ "בבקשה להקליד משתמש וסיסמה נכונים. יש לשים לב לכך שיתכן ששני הערכים "
+#~ "מחייבים גודל אות מדויק  - case sensitive "
+
+#~ msgid "Login"
+#~ msgstr "כניסה"
+
+#~ msgid "Build a new incentive"
+#~ msgstr "בנו תמריץ חדש"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Ranges can be created and edited from within the <a href="
+#~ "\"%(range_list_url)s\">range dashboard</a>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "טווחים יכולים להווצר ולהערך מה <a href=\"%(range_list_url)s\">לוח בקרת "
+#~ "טווחים</a>"
+
+#~ msgid "...or choose a pre-defined one"
+#~ msgstr "או בחרו אחד מוגדר מראש"
+
+#~ msgid "Continue to step 3"
+#~ msgstr "המשיכו לשלב 3"
+
+#~ msgid "Build a new condition"
+#~ msgstr "בנו תנאי חדש"
+
+#~ msgid "Continue to step 4"
+#~ msgstr "המשיכו לשלב 4"
+
+#~ msgid "Continue to step 2"
+#~ msgstr "המשיכו לשלב 2"
+
+#~ msgid "Delete offer"
+#~ msgstr "מחיקת הנחה"
+
+#~ msgid "Are you sure you want to delete this offer?"
+#~ msgstr "האם אתם בטוחים שאתם רוצים למחוק הצעה זו?"
+
+#~ msgid ""
+#~ "\n"
+#~ "        %(name)s | Offers\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "%(name)s | הצעות"
+
+#~ msgid "Reinstating..."
+#~ msgstr "מציב מחדש..."
+
+#~ msgid "Reinstate offer"
+#~ msgstr "מציב הצעה מחדש"
+
+#~ msgid "Suspending..."
+#~ msgstr "משהה..."
+
+#~ msgid "Suspend offer"
+#~ msgstr "השהה הצעה"
+
+#~ msgid "Offer currently available"
+#~ msgstr "ההצעה זמינה כרגע"
+
+#~ msgid "Offer not available due to restrictions!"
+#~ msgstr "ההצעה אינה זמינה עקב הגבלות!"
+
+#~ msgid "Total cost:"
+#~ msgstr "סה\"כ עלות"
+
+#~ msgid "Number of orders:"
+#~ msgstr "מספר הזמנות"
+
+#~ msgid "Number of uses:"
+#~ msgstr "מספר הפעלות"
+
+#~ msgid "Date created:"
+#~ msgstr "תאריך יצירה"
+
+#~ msgid "Offer details"
+#~ msgstr "הנחות ומבצעים"
+
+#~ msgid "Export to CSV"
+#~ msgstr "יצא ל- CSV"
+
+#~ msgid "Orders that used this offer"
+#~ msgstr "הזמנות שהשתמשו בהצעה זו"
+
+#~ msgid "Create new offer"
+#~ msgstr "יצירת הנחה חדשה"
+
+#~ msgid "Is available?"
+#~ msgstr "האם זמין?"
+
+#~ msgid "Uses"
+#~ msgstr "שימושים"
+
+#~ msgid "Browse"
+#~ msgstr "דפדפו"
+
+#~ msgid "Stats"
+#~ msgstr "סטטיסטיקה"
+
+#~ msgid "No offers found."
+#~ msgstr "לא נמצאו הצעות"
+
+#~ msgid "Steps"
+#~ msgstr "שלבים"
+
+#~ msgid "1. Name and description"
+#~ msgstr "1. שם ותאור"
+
+#~ msgid "2. Incentive"
+#~ msgstr "ניהול לקוחות"
+
+#~ msgid "3. Condition"
+#~ msgstr "3. תנאי"
+
+#~ msgid "4. Restrictions"
+#~ msgstr "4. הגבלות"
+
+#~ msgid "Save this offer"
+#~ msgstr "שמירת הצעה זו"
+
+#~ msgid "Fields marked with * are mandatory."
+#~ msgstr "שדות המסומנים ב-* הם שדות חובה"
+
+#~ msgid "Save changes"
+#~ msgstr "שומר שינויים"
+
+#~ msgid "Offer summary"
+#~ msgstr "תמצית ההצעה"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s - Line #%(id)s\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "הזמנה  %(number)s  - קו #%(id)s"
+
+#~ msgid "Line #%(id)s"
+#~ msgstr "שורה #%(id)s"
+
+#~ msgid "Order #%(number)s - Line #%(id)s"
+#~ msgstr "הזמנה #%(number)s  - שורה  #%(id)s"
+
+#~ msgid "Product Options"
+#~ msgstr "אפשרויות מוצר"
+
+#~ msgid "Partner details"
+#~ msgstr "פרטי שותף"
+
+#~ msgid "Shipping details"
+#~ msgstr "פרטי משלוח"
+
+#~ msgid "Partner reference number"
+#~ msgstr "מספר הפנייה של שותף"
+
+#~ msgid "Partner notes"
+#~ msgstr "הערות שותף"
+
+#~ msgid "Estimate dispatch date"
+#~ msgstr "תאריך יציאה משוער"
+
+#~ msgid "Shipping status"
+#~ msgstr "סטטוס משלוח"
+
+#~ msgid "State"
+#~ msgstr "מצב"
+
+#~ msgid "No shipping events have occurred."
+#~ msgstr "לא אירעו אירועי משלוח"
+
+#~ msgid "Shipping events"
+#~ msgstr "אירועי משלוח"
+
+#~ msgid "Payment events"
+#~ msgstr "אירוע תשלום"
+
+#~ msgid "No payment events have occurred."
+#~ msgstr "לא קרו אירועי תשלום"
+
+#~ msgid "Order %(number)s"
+#~ msgstr "%(number)s הזמנות"
+
+#~ msgid "Customer Information"
+#~ msgstr "פרטי הלקוח"
+
+#~ msgid "Customer checked out as a guest."
+#~ msgstr "לקוחות אשר קנו כאורחים"
+
+#~ msgid "Customer has deleted their account."
+#~ msgstr "לקוחות שמחקו את חשבונם"
+
+#~ msgid "Order information"
+#~ msgstr "מידע על ההזמנה"
+
+#~ msgid "Order Total"
+#~ msgstr "סה\"כ הזמנה"
+
+#~ msgid "Time of purchase"
+#~ msgstr "זמן רכישה"
+
+#~ msgid "Order Details"
+#~ msgstr "פרטי הזמנה"
+
+#~ msgid "Discounts"
+#~ msgstr "הנחות"
+
+#~ msgid "Items ordered"
+#~ msgstr "מספר פריטים בהזמנה"
+
+#~ msgid "Line ID"
+#~ msgstr "מזהה שורה"
+
+#~ msgid "Supplier"
+#~ msgstr "ספק"
+
+#~ msgid "Supplier SKU"
+#~ msgstr "מספר ספק"
+
+#~ msgid "Est. dispatch date"
+#~ msgstr "תאריך שילוח משוער"
+
+#~ msgid "Price excl tax (before discounts)"
+#~ msgstr "מחיר ללא מס (לפני הנחות)"
+
+#~ msgid "Price inc tax (before discounts)"
+#~ msgstr "מחיר כולל מס (לפני הנחות)"
+
+#~ msgid "With selected lines"
+#~ msgstr "עם השורות שנבחרו"
+
+#~ msgid "Change line status to"
+#~ msgstr "שנה שורת סטטוס ל"
+
+#~ msgid "choose new status"
+#~ msgstr "בחר סטטוס חדש"
+
+#~ msgid "Create shipping event"
+#~ msgstr "צור אירוע משלוח"
+
+#~ msgid "choose event type"
+#~ msgstr "בחר סוג אירוע"
+
+#~ msgid "with reference"
+#~ msgstr "עם הפנייה"
+
+#~ msgid "Create payment event"
+#~ msgstr "צור אירוע תשלום"
+
+#~ msgid "with amount"
+#~ msgstr "עם סכום"
+
+#~ msgid "Go!"
+#~ msgstr "קדימה!"
+
+#~ msgid "Change order status"
+#~ msgstr "שנה סטטוס הזמנה"
+
+#~ msgid "Change status"
+#~ msgstr "סטטוס שינוי"
+
+#~ msgid "This order can't have its status changed."
+#~ msgstr "ההזמנה לא יכולה לשנות סטטוס"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                                %(title)s "
+#~ "(quantity %(event_qty)s/%(total_qty)s)\n"
+#~ "                                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "%(title)s (כמות %(event_qty)s/%(total_qty)s)"
+
+#~ msgid "No shipping events."
+#~ msgstr "אין אירועי משלוח"
+
+#~ msgid "Product:"
+#~ msgstr "מוצר:"
+
+#~ msgid "quantity"
+#~ msgstr "כמות"
+
+#~ msgid "No payment events."
+#~ msgstr "אין אירועי תשלום"
+
+#~ msgid "Method name"
+#~ msgstr "שם השיטה"
+
+#~ msgid "Method code"
+#~ msgstr "קוד השיטה"
+
+#~ msgid "Charge (incl tax)"
+#~ msgstr "חיוב (כולל מס)"
+
+#~ msgid "Charge (excl tax)"
+#~ msgstr "חיוב (ללא מס)"
+
+#~ msgid "Payment sources"
+#~ msgstr "מקורות תשלום"
+
+#~ msgid "Allocation"
+#~ msgstr "הקצאה"
+
+#~ msgid "Amount debited"
+#~ msgstr "הסכום שחויב"
+
+#~ msgid "Amount refunded"
+#~ msgstr "הסכום שהוחזר"
+
+#~ msgid "No payment sources found for this order."
+#~ msgstr "לא נמצא מקור תשלום להזמנה זו."
+
+#~ msgid "No discounts were applied to this order."
+#~ msgstr "אין הנחות הזמינות להזמנה זו"
+
+#~ msgid "Admin"
+#~ msgstr "אדמין"
+
+#~ msgid "No notes available."
+#~ msgstr "אין הערות זמינות"
+
+#~ msgid "Save note"
+#~ msgstr "שמור הערה"
+
+#~ msgid "Notes are only editable for 5 minutes after being saved."
+#~ msgstr "ניתן לערוך הערות רק ב-5 הדקות הראושנות אחרי השמירה. "
+
+#~ msgid "Advanced Search"
+#~ msgstr "חיפוש מתקדם"
+
+#~ msgid "Close"
+#~ msgstr "סגירה"
+
+#~ msgid "Order Search Results"
+#~ msgstr "תוצאות חיפוש הזמנות"
+
+#~ msgid "All Orders"
+#~ msgstr "כל ההזמנות"
+
+#~ msgid "Download selected orders as a CSV"
+#~ msgstr "הורדת ההזמנות שנבחרו כ- CSV"
+
+#~ msgid "Deleted"
+#~ msgstr "מוחק"
+
+#~ msgid "Changing..."
+#~ msgstr "משנה"
+
+#~ msgid "No orders found."
+#~ msgstr "לא נמצאו הזמנות"
+
+#~ msgid "Print Packaging Slips"
+#~ msgstr "הדפס תגיות משלוח"
+
+#~ msgid "Mark as"
+#~ msgstr "סמן כ-"
+
+#~ msgid "Change order status to"
+#~ msgstr "שנה סטטוס הזמנה ל-"
+
+#~ msgid "Done"
+#~ msgstr "בוצע"
+
+#~ msgid "Edit shipping address"
+#~ msgstr "עורך את כתובת המשלוח"
+
+#~ msgid "Edit shipping address for order %(order.number)s"
+#~ msgstr "עריכת כתובת משלוח להזמנה -%(order.number)s"
+
+#~ msgid "Update address"
+#~ msgstr "עדכן כתובת"
+
+#~ msgid "Order statistics"
+#~ msgstr "סטטיסטיקה של ההזמנה"
+
+#~ msgid "Filter result"
+#~ msgstr "תוצאת סינון"
+
+#~ msgid "Summary"
+#~ msgstr "סיכום"
+
+#~ msgid "Order status breakdown"
+#~ msgstr "סדר מצב הזמנות"
+
+#~ msgid "Delete page '%(title)s'?"
+#~ msgstr "למחוק דף עם  '%(title)s'?"
+
+#~ msgid "Delete page"
+#~ msgstr "מחיקת דף"
+
+#~ msgid "Delete page <strong>%(title)s</strong> - are you sure?"
+#~ msgstr "מחיקת דף <strong>%(title)s</strong> - האם אתם בטוחים?"
+
+#~ msgid "Create new page"
+#~ msgstr "צור דף חדש"
+
+#~ msgid "No pages found."
+#~ msgstr "לא נמצאו דפים"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Page <strong>%(title)s</strong> saved!\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "דף <strong>%(title)s</strong> נשמר!"
+
+#~ msgid "Oops! We found some errors"
+#~ msgstr "שליחת הטופס נכשלה, אחד או יותר מהשדות שגויים"
+
+#~ msgid "please check the error messages below and try again"
+#~ msgstr "בדקו את הודעות השגיאה ונסו שנית"
+
+#~ msgid "previous"
+#~ msgstr "קודם"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Page %(page_num)s of %(total_pages)s\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                עמוד %(page_num)s מתוך %(total_pages)s\n"
+#~ "            "
+
+#~ msgid "next"
+#~ msgstr "הבא"
+
+#~ msgid ""
+#~ "\n"
+#~ "User %(user_name)s was unlinked from %(partner_name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "קישור המשתמש %(user_name)s הוסר מ-%(partner_name)s.\n"
+
+#~ msgid "Undo"
+#~ msgstr "בטל"
+
+#~ msgid "Delete partner"
+#~ msgstr "מחק שותף"
+
+#~ msgid "Are you sure you want to delete this partner?"
+#~ msgstr "האם אתם בטוחים שאתם רוצים למחוק שותף זה?"
+
+#~ msgid "Edit the user's details"
+#~ msgstr "ערוך פרטי משתמש"
+
+#~ msgid "No users associated."
+#~ msgstr "אין משתמשים קשורים"
+
+#~ msgid "No address associated."
+#~ msgstr "אין כתובת קשורה"
+
+#~ msgid "Manage partner and users"
+#~ msgstr "ניהול שותפים ומשתמשים"
+
+#~ msgid "Link an existing user"
+#~ msgstr "קשור משתמש קיים"
+
+#~ msgid "Link a new user"
+#~ msgstr "קשר משתמש חדש"
+
+#~ msgid "No partners found."
+#~ msgstr "לא נמצאו שותפים"
+
+#~ msgid "Unlinking..."
+#~ msgstr "מבטל קישור..."
+
+#~ msgid "Unlink user"
+#~ msgstr "בטל קישור ליוזר"
+
+#~ msgid "No users linked."
+#~ msgstr "אין משתמשים קשורים"
+
+#~ msgid "Link a user"
+#~ msgstr "קשר למשתמש"
+
+#~ msgid "Manage users"
+#~ msgstr "ניהול משתמשים"
+
+#~ msgid "Update details"
+#~ msgstr "עדכן פרטים"
+
+#~ msgid ""
+#~ "A partial email address can be entered (eg '@example.com') to match "
+#~ "multiple addresses."
+#~ msgstr ""
+#~ "כתובת אימייל חלקית יכולה להיות מוזנת (לדוגמא '@example.com') כדי להתאים "
+#~ "למספר רב של כתובות "
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                User is already linked to "
+#~ "%(name)s.\n"
+#~ "                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "המשתמש כבר קשור ל- %(name)s."
+
+#~ msgid "Linking..."
+#~ msgstr "מקשר..."
+
+#~ msgid "Link user"
+#~ msgstr "קשר משתמש"
+
+#~ msgid "No users found."
+#~ msgstr "לא נמצאו משתמשים."
+
+#~ msgid "Delete content block '%(name)s'?\""
+#~ msgstr "בטל בלוק תוכן '%(name)s'?\""
+
+#~ msgid "Delete content block"
+#~ msgstr "מחק בלוק תוכן"
+
+#~ msgid ""
+#~ "Delete %(object.type)s content block <strong>%(object.name)s</strong> - "
+#~ "are you sure?"
+#~ msgstr ""
+#~ "מוחק %(object.type)s בלוק תוכן  <strong>%(object.name)s</strong> - האם "
+#~ "אתם בטוחים?"
+
+#~ msgid "Remove promotion from page?"
+#~ msgstr "האם להסיר מבצע מדף זה?"
+
+#~ msgid "Remove promotion"
+#~ msgstr "הסר מבצע"
+
+#~ msgid ""
+#~ "Remove %(object.content_object.type)s content block <strong>%(object."
+#~ "name)s</strong> from page <strong>%(object.page_url)s</strong> - are you "
+#~ "sure?"
+#~ msgstr ""
+#~ "מסיר %(object.content_object.type)s  בלוק תוכן <strong>%(object.name)s</"
+#~ "strong>  מדף <strong>%(object.page_url)s</strong> - האם אתם בטוחים?"
+
+#~ msgid "Content block"
+#~ msgstr "בלוק תוכן"
+
+#~ msgid "Pages displaying this content blocks"
+#~ msgstr "דפים המציגים בלוקי תוכן"
+
+#~ msgid "Position on page"
+#~ msgstr "מיקום בדף"
+
+#~ msgid "View all blocks on this page"
+#~ msgstr "צפו בכל הבלוקים בדף זה"
+
+#~ msgid "Remove from page"
+#~ msgstr "הסר מהדף"
+
+#~ msgid "This promotion is not displayed anywhere at the moment."
+#~ msgstr "מבצע זה אינו מוצג בשום מקום כרגע"
+
+#~ msgid "Add to a page"
+#~ msgstr "הוסף לדף"
+
+#~ msgid "Add to page"
+#~ msgstr "הוסף לדף"
+
+#~ msgid "Content blocks for page %(page_url)s"
+#~ msgstr "יחידות תוכן בדף '%(page_url)s'"
+
+#~ msgid "Content blocks on page '%(page_url)s'"
+#~ msgstr "יחידות תוכן בדף '%(page_url)s'"
+
+#~ msgid "Edit promotions in position '%(name)s'"
+#~ msgstr "ערוך מבצעים במיקום '%(name)s' "
+
+#~ msgid "Promotion Name"
+#~ msgstr "שם המבצע"
+
+#~ msgid "Change display order"
+#~ msgstr "שנה את סדר התצוגה"
+
+#~ msgid "No promotions in this position."
+#~ msgstr "אין מבצעים במיקום זה"
+
+#~ msgid "Pages with content blocks"
+#~ msgstr "דפים עם בלוקי תוכן"
+
+#~ msgid "View by page"
+#~ msgstr "צפו לפי דף"
+
+#~ msgid "View all content blocks"
+#~ msgstr "צפו בכל בלוקי התוכן"
+
+#~ msgid "View content blocks by page"
+#~ msgstr "צפו בבלוקי תוכן לפי דף"
+
+#~ msgid "Pages with content blocks on them"
+#~ msgstr "דפים עם בלוקי תוכן"
+
+#~ msgid "Number of content blocks"
+#~ msgstr "מסםר בלוקי תוכן"
+
+#~ msgid "No content blocks found."
+#~ msgstr "לא נמצאו בלוקי תוכן"
+
+#~ msgid "Create a new content block"
+#~ msgstr "צור בלוק תוכן חדש"
+
+#~ msgid "Creating..."
+#~ msgstr "יוצר..."
+
+#~ msgid "Create block"
+#~ msgstr "צור בלוק"
+
+#~ msgid "Number of times used"
+#~ msgstr "מספר פעמים שהיה בשימוש"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>File <strong>%(filename)s</strong> processed.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>קובץ <strong>%(filename)s</strong>  מתעדכן.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> product added\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> products added\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> מוצר נוסף\n"
+#~ "            "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> מוצרים נוספו\n"
+#~ "            "
+#~ msgstr[2] ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> מוצרים נוספו\n"
+#~ "            "
+#~ msgstr[3] ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> מוצרים נוספו\n"
+#~ "            "
+
+#~ msgid ""
+#~ "\n"
+#~ "                There was <strong>%(n)s</strong> duplicate product in the "
+#~ "file\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                There were <strong>%(n)s</strong> duplicate products in "
+#~ "the file\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                נמצא <strong>%(n)s</strong> מוצר כפול בקובץ\n"
+#~ "            "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "                נמצאו <strong>%(n)s</strong> מוצרים כפולים בקובץ\n"
+#~ "            "
+#~ msgstr[2] ""
+#~ "\n"
+#~ "                נמצאו <strong>%(n)s</strong> מוצרים כפולים בקובץ\n"
+#~ "            "
+#~ msgstr[3] ""
+#~ "\n"
+#~ "                נמצאו <strong>%(n)s</strong> מוצרים כפולים בקובץ\n"
+#~ "            "
+
+#~ msgid ""
+#~ "\n"
+#~ "                There was <strong>%(n)s</strong> product in the file that "
+#~ "couldn't be found in the catalogue\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                There were <strong>%(n)s</strong> products in the file "
+#~ "that couldn't be found in the catalogue\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                נמצא <strong>%(n)s</strong> מוצר בקובץ שאינו בקטלוג\n"
+#~ "            "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "                נמצאו <strong>%(n)s</strong> מוצרים בקובץ שאינם בקטלוג\n"
+#~ "            "
+#~ msgstr[2] ""
+#~ "\n"
+#~ "                נמצאו <strong>%(n)s</strong> מוצרים בקובץ שאינם בקטלוג\n"
+#~ "            "
+#~ msgstr[3] ""
+#~ "\n"
+#~ "                נמצאו <strong>%(n)s</strong> מוצרים בקובץ שאינם בקטלוג\n"
+#~ "            "
+
+#~ msgid "Edit range metadata"
+#~ msgstr "ערוך טווח מטה-דאטה "
+
+#~ msgid "Return to ranges homepage"
+#~ msgstr "חזור לדף הבית של טווחים"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>Range <strong>%(name)s</strong> saved.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>טווח <strong>%(name)s</strong> נשמר.</p>\n"
+
+#~ msgid "Edit included products"
+#~ msgstr "ערוך מוצרים כלולים"
+
+#~ msgid "Delete range '%(name)s'?"
+#~ msgstr "האם למחוק טווח '%(name)s?"
+
+#~ msgid "Are you sure you want to delete this range?"
+#~ msgstr "האם אתם בטוחים שאתם רוצים למחוק טווח זה?"
+
+#~ msgid "Create new range"
+#~ msgstr "צרו טווח חדש"
+
+#~ msgid "Save and edit products"
+#~ msgstr "שמרו וערכו מוצרים"
+
+#~ msgid "Num products"
+#~ msgstr "מוצרים חדשים"
+
+#~ msgid "Edit products"
+#~ msgstr "עריכת מוצרים"
+
+#~ msgid "No ranges found."
+#~ msgstr "לא נמצאו קבוצות מוצרים"
+
+#~ msgid "Products in range '%(name)s'"
+#~ msgstr "מוצרים בקבוצה %(name)s"
+
+#~ msgid "products"
+#~ msgstr "מוצרים"
+
+#~ msgid ""
+#~ "This range contains all products. To add products manually, please "
+#~ "unselect the 'Includes All Products' option on the edit range page."
+#~ msgstr ""
+#~ "טווח זה כולל את כל המוצרים. בכדי להוסיף מוצרים ידנית אנא הסר את האופציה "
+#~ "'כלול את כל המוצרים' בדף 'ערוך טווח'."
+
+#~ msgid "Add products"
+#~ msgstr "כל המוצרים"
+
+#~ msgid "Running..."
+#~ msgstr "מריץ..."
+
+#~ msgid "Upload history"
+#~ msgstr "העלה היסטוריה"
+
+#~ msgid "Filename"
+#~ msgstr "שם הקובץ"
+
+#~ msgid "New products"
+#~ msgstr "מוצרים חדשים"
+
+#~ msgid "Duplicate products"
+#~ msgstr "מוצרים כפולים"
+
+#~ msgid "Unknown products"
+#~ msgstr "מוצרים לא ידועים"
+
+#~ msgid "Date uploaded"
+#~ msgstr "תאריך העלאה"
+
+#~ msgid "Products in range"
+#~ msgstr "מוצרים בטווח"
+
+#~ msgid "Remove selected products"
+#~ msgstr "הסר ממוצרים נבחרים"
+
+#~ msgid "Is product discountable?"
+#~ msgstr "האם מוצר יכול להיות עם הנחה?"
+
+#~ msgid "Products in Range"
+#~ msgstr "מוצרים בטווח"
+
+#~ msgid "Edit range"
+#~ msgstr "ערוך טווח"
+
+#~ msgid "return to range list"
+#~ msgstr "חזור לרשימת טווח"
+
+#~ msgid "Reporting Dashboard"
+#~ msgstr "לוח בקרת דו\"חות"
+
+#~ msgid "Reporting dashboard"
+#~ msgstr "לוח בקרת דו\"חות"
+
+#~ msgid "Generating..."
+#~ msgstr "מייצר..."
+
+#~ msgid "Generate report"
+#~ msgstr "ייצר דו\"ח"
+
+#~ msgid "No results found."
+#~ msgstr "לא נמצאו תוצאות"
+
+#~ msgid "No vouchers were used in this period"
+#~ msgstr "אף שובר לא היה בשימוש בתקופה זו"
+
+#~ msgid "Delete review '%(title)s'?"
+#~ msgstr "מחק ביקורת  '%(title)s'?"
+
+#~ msgid "Delete review \"%(title)s\"?"
+#~ msgstr "מחק ביקורת  '%(title)s'?"
+
+#~ msgid "Review"
+#~ msgstr "ביקורת"
+
+#~ msgid "Review Search"
+#~ msgstr "חיפוש ביקורת"
+
+#~ msgid "Update status of selected reviews"
+#~ msgstr "עדכן סטטוס על ביקורות נבחרות"
+
+#~ msgctxt "Review title"
+#~ msgid "Title"
+#~ msgstr "כותרת"
+
+#~ msgid "[Product deleted]"
+#~ msgstr "[מוצר נמחק]"
+
+#~ msgid "No reviews found."
+#~ msgstr "לא נמצאו ביקורות"
+
+#~ msgid "Update review"
+#~ msgstr "עדכן ביקורת"
+
+#~ msgid "Review #%(review.id)s"
+#~ msgstr "ביקורת #%(review.id)s"
+
+#~ msgid "Review #%(review_id)s"
+#~ msgstr "בדקו #%(review_id)s"
+
+#~ msgid "Review information"
+#~ msgstr "מידע על הביקורת"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>A weight band has been added to the <strong>%(name)s</strong> "
+#~ "shipping method.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>טווח משקל הוסף ל <strong>%(name)s</strong> שיטת משלוח.</p\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>Weight band deleted from the <strong>%(name)s</strong> shipping "
+#~ "method \n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>טווח המשקל נמחק מ <strong>%(name)s</strong> שיטת משלוח.\n"
+
+#~ msgid "Weight band updated"
+#~ msgstr "טווח המשקל עודכן"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>A shipping method <strong>%(name)s</strong> has been created.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>שיטת משלוח <strong>%(name)s</strong> נוצרה</p>\n"
+#~ "\n"
+#~ "\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been deleted.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>ה <strong>%(name)s</strong> שיטת משלוח נמחקה</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been updated.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>ה <strong>%(name)s</strong> שיטת המשלוח עודכנה.</p>\n"
+
+#~ msgid "Delete weight band?"
+#~ msgstr "למחוק סף משקל?"
+
+#~ msgid "Shipping methods"
+#~ msgstr "שיטות משלוח"
+
+#~ msgid "Weight range (kg)"
+#~ msgstr "טווח משקל (קילוגרם)"
+
+#~ msgid "Are you sure you want to delete this weight band method?"
+#~ msgstr "האם אתם שאתם רוצים את שיטת סף משקל זו?"
+
+#~ msgid "Edit weight band"
+#~ msgstr "ערוך סף משקל"
+
+#~ msgid "Delete shipping method '%(name)s'?"
+#~ msgstr "האם למחוק את שיטת המשלוח '%(name)s'?"
+
+#~ msgid "Are you sure you want to delete this shipping method?"
+#~ msgstr "האם אתם בטוחים שאתם רוצים למחוק שיטת משלוח זו?"
+
+#~ msgid "Applies to countries"
+#~ msgstr "תקף למדינות"
+
+#~ msgid "Default product weight (kg)"
+#~ msgstr "ברירת מחדל של משקל מוצר (קילוגרם)"
+
+#~ msgid "Edit shipping method"
+#~ msgstr "ערוך שיטת משלוח"
+
+#~ msgid "Delete shipping method"
+#~ msgstr "מחק שיטת משלוח"
+
+#~ msgid "Weight bands"
+#~ msgstr "ספי משקל"
+
+#~ msgid "No weight bands have been added yet."
+#~ msgstr "ספי משקל לא הוספו עדיין"
+
+#~ msgid "Add a new weight band"
+#~ msgstr "הוסף סף משקל חדש"
+
+#~ msgid "Add weight band"
+#~ msgstr "הוסף סף משקל"
+
+#~ msgid "Create a new shipping method"
+#~ msgstr "צור שיטת משלוח חדשה"
+
+#~ msgid "Create new shipping charge"
+#~ msgstr "צור חיוב משלוח חדש"
+
+#~ msgid "Number of weight bands"
+#~ msgstr "מספר ספי משקל"
+
+#~ msgid "Default weight (kg)"
+#~ msgstr "משקל ברירת מחדל (קילוגרם)"
+
+#~ msgid "No shipping methods found."
+#~ msgstr "לא נמצאה שיטת משלוח"
+
+#~ msgid "Alert #%(id)s"
+#~ msgstr "התראה #%(id)s"
+
+#~ msgid "Delete alert #%(id)s?"
+#~ msgstr "האם למחוק התראה #%(id)s?"
+
+#~ msgid "Product alert #%(id)s"
+#~ msgstr "התראת מוצר #%(id)s"
+
+#~ msgid "Are you sure that you want to delete this alert?"
+#~ msgstr "האם אתם בטוחים שאתם רוצים למחוק התראה זו?"
+
+#~ msgid "Search product alerts"
+#~ msgstr "חיפוש התראת מוצרים"
+
+#~ msgid "reset"
+#~ msgstr "אתחל"
+
+#~ msgid "Date alert sent"
+#~ msgstr "תאריך שליחת ההתראה"
+
+#~ msgid "(Anonymous)"
+#~ msgstr "(אנונימי)"
+
+#~ msgid "No alerts found."
+#~ msgstr "לא נמצאו התראות"
+
+#~ msgid "Update alert #%(id)s"
+#~ msgstr "עדכן התראה  #%(id)s"
+
+#~ msgid "General"
+#~ msgstr "כללי"
+
+#~ msgid "Yes,No"
+#~ msgstr "כן,לא"
+
+#~ msgid "Superuser"
+#~ msgstr "משתמש על"
+
+#~ msgid "True,False"
+#~ msgstr "אמת,שקר"
+
+#~ msgid "Staff"
+#~ msgstr "צוות"
+
+#~ msgid "Last login"
+#~ msgstr "כניסה אחרונה"
+
+#~ msgid "Date joined"
+#~ msgstr "תאריך הצטרפות"
+
+#~ msgid "Products viewed"
+#~ msgstr "מוצרים שנצפו"
+
+#~ msgid "Number of orders"
+#~ msgstr "מספר הזמנות"
+
+#~ msgid "Number of ordered items"
+#~ msgstr "מספר פריטים מוזמנים"
+
+#~ msgid "Reviews written"
+#~ msgstr "ביקורות כתובות"
+
+#~ msgid "Send password reset email"
+#~ msgstr "שלח איפוס ססמא לדואר האלקטרוני"
+
+#~ msgid "Order Number"
+#~ msgstr "מספר הזמנה"
+
+#~ msgid "Total value"
+#~ msgstr "ערך כולל"
+
+#~ msgid "This customer has not placed any orders yet."
+#~ msgstr "הלקוח/ה עדיין לא הזמינו דבר"
+
+#~ msgid "This customer has not saved any addresses."
+#~ msgstr "הלקוח/ה עדיין לא שמר/ה כתובת"
+
+#~ msgid "Product ID"
+#~ msgstr "מזהה מוצר"
+
+#~ msgid "This customer has not written any reviews yet."
+#~ msgstr "הלקוח/ה עדיין לא כתב/ה ביקורת"
+
+#~ msgid "No customers found."
+#~ msgstr "לא נמצאו לקוחות"
+
+#~ msgid "Bulk Actions"
+#~ msgstr "פעולות כוללניות"
+
+#~ msgid "With selected customers:"
+#~ msgstr "עם לקוחות נבחרים:"
+
+#~ msgid "Make active"
+#~ msgstr "הפכו לפעיל"
+
+#~ msgid "Make inactive"
+#~ msgstr "הפכו ללא פעיל"
+
+#~ msgid "Delete voucher '%(name)s'?"
+#~ msgstr "מחק קופון '%(name)s'?"
+
+#~ msgid "Voucher details"
+#~ msgstr "פרטי הקופון"
+
+#~ msgid "Number of basket additions"
+#~ msgstr "מספר תוספות לסל"
+
+#~ msgid "Recent orders"
+#~ msgstr "הזמנות אחרונות"
+
+#~ msgid "No orders have been placed that use this voucher."
+#~ msgstr "אין הזמנות שמשתמשות בקופון זה"
+
+#~ msgid "Edit voucher"
+#~ msgstr "ערוך קופון"
+
+#~ msgid "Create new voucher"
+#~ msgstr "יצירת קופון חדש"
+
+#~ msgid "Num baskets"
+#~ msgstr "מספר סלים"
+
+#~ msgid "Num orders"
+#~ msgstr "מספר הזמנות"
+
+#~ msgid "Inactive"
+#~ msgstr "לא פעיל"
+
+#~ msgid "No vouchers found."
+#~ msgstr "לא נמצאו קופונים"
+
+#~ msgid "Update voucher set"
+#~ msgstr "עדכון מערך שוברים"
+
+#~ msgid "Download CSV"
+#~ msgstr "הורדת קובץ CSV"
+
+#~ msgid "Voucher set"
+#~ msgstr "מערך שוברים"
+
+#~ msgid "Start"
+#~ msgstr "תחילה"
+
+#~ msgid "End"
+#~ msgstr "סיום"
+
+#~ msgid "Created"
+#~ msgstr "נוצר"
+
+#~ msgid "Create new voucher set"
+#~ msgstr "יצירת מערך שוברים חדש"
+
+#~ msgid "Num"
+#~ msgstr "מספר"
+
+#~ msgid "Popup closing..."
+#~ msgstr "סוגר חלון..."
+
+#~ msgid "Change selected %(model)s"
+#~ msgstr "עדכון נבחר %(model)s"
+
+#~ msgid "Add another %(model)s"
+#~ msgstr "עוד הוספה %(model)s"
+
+#~ msgid "Add"
+#~ msgstr "הוספה"
+
+#~ msgid "Delete selected %(model)s"
+#~ msgstr "ביטול נבחרים %(model)s"
+
+#~ msgid "Sorry!"
+#~ msgstr "מצטערים!"
+
+#~ msgid "Return to previous page"
+#~ msgstr "חזור לדף קודם"
+
+#~ msgid "Go to homepage"
+#~ msgstr "נווט לדף הבית"
+
+#~ msgid "Edit this page"
+#~ msgstr "עריכת דף זה"
+
+#~ msgid "thumbnail"
+#~ msgstr "תמונה ממוזערת"
+
+#~ msgid "Unrecognized image type!"
+#~ msgstr "סוג תמונה לא מזוהה"
+
+#~ msgid "Upload Image"
+#~ msgstr "העלאת תמונה"
+
+#~ msgid "This page is only available to users who aren't logged in."
+#~ msgstr "דף זה זמין רק למשתמשים שאינם מחוברים. "
+
+#~ msgid " This offer is no longer available."
+#~ msgstr "ההצעה לא תקפה יותר"
+
+#~ msgid "What you need to do"
+#~ msgstr "מה עליך לעשות למימוש ההנחה"
+
+#~ msgid "There are no site offers at the moment."
+#~ msgstr "אין מבצעים כרגע"
+
+#~ msgid "Browse products in offer"
+#~ msgstr "צפו במוצרים בהנחה"
+
+#~ msgid "See more"
+#~ msgstr "המשך הצגה"
+
+#~ msgid "Password reset complete"
+#~ msgstr "תהליך איתחול סיסמה הושלם"
+
+#~ msgid "Password reset"
+#~ msgstr "איתחול סיסמה"
+
+#~ msgid "Complete"
+#~ msgstr "הושלם"
+
+#~ msgid "Your password has been set.  You may go ahead and log in now."
+#~ msgstr "ססמאתכם שונתה. כעת אתם יכולים להתחבר לאתר. "
+
+#~ msgid "Log in"
+#~ msgstr "התחברו"
+
+#~ msgid "Enter a new password"
+#~ msgstr "אנא הקלידו ססמא חדשה"
+
+#~ msgid ""
+#~ "Please enter your new password twice so we can verify you typed it in "
+#~ "correctly."
+#~ msgstr ""
+#~ "אנא הכניסו את הססמא החדשה פעמיים כדי שנוכל לאמת שהכנסתם אותה בצורה "
+#~ "הנכונה. "
+
+#~ msgid "Change my password"
+#~ msgstr "שינוי סיסמה"
+
+#~ msgid "Password reset unsuccessful"
+#~ msgstr "איתחול סיסמה נכשל"
+
+#~ msgid ""
+#~ "The password reset link was invalid, possibly because it has already been "
+#~ "used.  Please request a new password reset."
+#~ msgstr ""
+#~ "הקישור לדף איפוס הססמא אינו תקין, כנראה משום שהשתמשתם בו כבר בעבר. אנא "
+#~ "בקשו דף איפוס ססמא חדש."
+
+#~ msgid "Password reset email sent"
+#~ msgstr "הססמא אופסה, אימייל נשלח. "
+
+#~ msgid "Email sent"
+#~ msgstr "דואר אלקטרוני נשלח"
+
+#~ msgid ""
+#~ "\n"
+#~ "        We've e-mailed you instructions for resetting your password. You "
+#~ "should be receiving it shortly.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "שלחנו לכם דואר אלקטרוני עם הוראות כיצד לאפס את הססמא שלכם. הוא יגיע אליכם "
+#~ "בזמן הקרוב."
+
+#~ msgid ""
+#~ "\n"
+#~ "        If you don't receive an email, please make sure you've entered "
+#~ "the address you registered with, and check\n"
+#~ "        your spam folder.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "אם לא קיבלתם דואר אלקטרוני אנא וודאו שהכנסתם את הכתובת עמה נרשמתם לאתר, \n"
+#~ "בנוסף, בדקו את תיקיית הספאם שלכם."
+
+#~ msgid ""
+#~ "Forgotten your password? Enter your e-mail address below, and we'll e-"
+#~ "mail instructions for setting a new one."
+#~ msgstr ""
+#~ "נא להכניס את כתובת האימייל שלך כאן ואנו נשלח אימיילעם קישור ליצירת סיסמה "
+#~ "חדשה."
+
+#~ msgid "Send reset email"
+#~ msgstr "שלח אימייל איתחול סיסמה"
+
+#~ msgid "Refine your search"
+#~ msgstr "שפרו את החיפוש שלכם"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Products matching \"%(q)s\"\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        מוצרים תואמים ל \"%(q)s\"\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Found <strong>%(num_results)s</strong> results, "
+#~ "showing <strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "נמצאו <strong>%(num_results)s</strong> המראות מ <strong>%(start)s</"
+#~ "strong> עד <strong>%(end)s</strong>."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Found <strong>%(num_results)s</strong> result.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    Found <strong>%(num_results)s</strong> results.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                    נמצאה<strong>%(num_results)s</strong> תוצאה.\n"
+#~ "                "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "                    נמצאו<strong>%(num_results)s</strong> תוצאות.\n"
+#~ "                "
+#~ msgstr[2] ""
+#~ "\n"
+#~ "                    נמצאו<strong>%(num_results)s</strong> תוצאות.\n"
+#~ "                "
+#~ msgstr[3] ""
+#~ "\n"
+#~ "                    נמצאו<strong>%(num_results)s</strong> תוצאות.\n"
+#~ "                "
+
+#~ msgid "Found <strong>0</strong> results."
+#~ msgstr "נמצאו <strong>0</strong> תוצאות"
+
+#~ msgid ""
+#~ "\n"
+#~ "                        Did you mean <a href=\"%(search_url)s?q="
+#~ "%(suggestion)s\">\"%(suggestion)s\"</a>?\n"
+#~ "                    "
+#~ msgstr ""
+#~ "\n"
+#~ "האם התכוונת <a href=\"%(search_url)s?q=%(suggestion)s\">\"%(suggestion)s"
+#~ "\"</a>?"
+
+#~ msgid "Back to search results"
+#~ msgstr "חזרה לתוצאות חיפוש"
+
+#~ msgid "You need to select some %ss"
+#~ msgstr "אנא בחרו חלק מ-%ss"

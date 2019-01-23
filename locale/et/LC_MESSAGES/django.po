@@ -1,0 +1,2675 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Alan Kesselmann <alan.kesselmann@gmail.com>, 2014
+# Andres Kepler <kepsic@gmail.com>, 2017
+# Lauri Elias, 2017
+# Alan Kesselmann <alan.kesselmann@gmail.com>, 2014
+# Rivo Laks <rivolaks@gmail.com>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-11 08:36+0000\n"
+"Last-Translator: Oscar Bot <maik.hoepfel@tangentsnowball.com>\n"
+"Language-Team: Estonian (http://www.transifex.com/codeinthehole/django-oscar/"
+"language/et/)\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr "Töölaud"
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr "Kataloog"
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "Tooted"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr "Tootetüübid"
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "Kategooriad"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr "Vahemikud"
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr "Madala varu teavitused"
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr "Valikud"
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr "Täitmine"
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "Tellimused"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr "Statistika"
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr ""
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr "Kliendid"
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr "Varu teavituste päringud"
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr "Pakkumised"
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "Vautšer"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr "Sisu"
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr "Sisu blokid"
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr "Sisu blokid lehe kaupa"
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr "Lehed"
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr "E-kirjade mallid"
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr "Arvustused"
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr "Raportid"
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr "Tüüp"
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr "Hinnang"
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr ""
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr ""
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr ""
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr ""
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr ""
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+#, fuzzy
+#| msgid "Catalogue"
+msgid "Catalan"
+msgstr "Kataloog"
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+msgid "German"
+msgstr ""
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr "Konto"
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr "Logi välja"
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr "Logi sisse või registreeru"
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "Ostukorv"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr ""
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "Kõik tooted"
+
+#~ msgid "Mr"
+#~ msgstr "Hr."
+
+#~ msgid "Miss"
+#~ msgstr "Preili"
+
+#~ msgid "Mrs"
+#~ msgstr "Pr."
+
+#~ msgid "Ms"
+#~ msgstr "Prl."
+
+#~ msgid "Dr"
+#~ msgstr "Dr."
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "Pealkiri"
+
+#~ msgid "First name"
+#~ msgstr "Eesnimi"
+
+#~ msgid "Last name"
+#~ msgstr "Perenimi"
+
+#~ msgid "First line of address"
+#~ msgstr "Esimene aadressirida"
+
+#~ msgid "Second line of address"
+#~ msgstr "Teine aadressirida"
+
+#~ msgid "Third line of address"
+#~ msgstr "Kolmas aadressirida"
+
+#~ msgid "City"
+#~ msgstr "Linn"
+
+#~ msgid "State/County"
+#~ msgstr "Maakond"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "Postiindeks"
+
+#~ msgid "Country"
+#~ msgstr "Riik"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "Otsi teksti - ainult aadressiotsinguks"
+
+#~ msgid "Address"
+#~ msgstr "Aadress"
+
+#~ msgid "Addresses"
+#~ msgstr "Aadressid"
+
+#~ msgid "Addresses in %(country)s require a valid postcode"
+#~ msgstr "%(country)s riigi aadressid peavad olema postiindeksiga"
+
+#~ msgid "The postcode '%(postcode)s' is not valid for %(country)s"
+#~ msgstr "Postiindeks '%(postcode)s' ei ole %(country)s riigis valiidne"
+
+#~ msgid "ISO 3166-1 alpha-2"
+#~ msgstr "ISO 3166-1 alfa-2"
+
+#~ msgid "ISO 3166-1 alpha-3"
+#~ msgstr "ISO 3166-1 alfa-3"
+
+#~ msgid "ISO 3166-1 numeric"
+#~ msgstr "ISO 3166-1 numbriline"
+
+#~ msgid "Country name"
+#~ msgstr "Riigi nimi"
+
+#~ msgid "Official name"
+#~ msgstr "Ametlik nimi"
+
+#~ msgid "Display order"
+#~ msgstr "Kuvamisjärjestus"
+
+#~ msgid "Higher the number, higher the country in the list."
+#~ msgstr "Mida suurem number, seda eespool on riik nimekirjas."
+
+#~ msgid "Is shipping country"
+#~ msgstr "On sihtriik"
+
+#~ msgid "Countries"
+#~ msgstr "Riigid"
+
+#~ msgid "Phone number"
+#~ msgstr "Telefoninumber"
+
+#~ msgid "In case we need to call you about your order"
+#~ msgstr "Juhuks, kui peame teiega tellimusega seoses ühendust võtma"
+
+#~ msgid "Instructions"
+#~ msgstr "Juhised"
+
+#~ msgid "Tell us anything we should know when delivering your order."
+#~ msgstr "Lisainfo, mida peaksime tarnimisel arvesse võtma."
+
+#~ msgid "Shipping address"
+#~ msgstr "Tarneaadress"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "Tarneaadressid"
+
+#~ msgid "User"
+#~ msgstr "Kasutaja"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "Vaikimisi tarneaadress"
+
+#~ msgid "Default billing address?"
+#~ msgstr "Vaikimisi arveaadress"
+
+#~ msgid "Address Hash"
+#~ msgstr "Aadressi võti"
+
+#~ msgid "Date Created"
+#~ msgstr "Loomise kuupäev"
+
+#~ msgid "User address"
+#~ msgstr "Kasutaja aadress"
+
+#~ msgid "User addresses"
+#~ msgstr "Kasutaja aadressid"
+
+#~ msgid "This address is already in your address book"
+#~ msgstr "See aadress on juba teie aadressiraamatus"
+
+#~ msgid "Billing address"
+#~ msgstr "Arve aadress"
+
+#~ msgid "Billing addresses"
+#~ msgstr "Arve aadressid"
+
+#~ msgid "Partner"
+#~ msgstr "Partner"
+
+#~ msgid "Partner address"
+#~ msgstr "Partneri aadress"
+
+#~ msgid "Partner addresses"
+#~ msgstr "Partneri aadressid"
+
+#~ msgid "Product"
+#~ msgstr "Toode"
+
+#~ msgid "Views"
+#~ msgstr "Vaated"
+
+#~ msgid "Basket Additions"
+#~ msgstr "Ostukorvi täiendused"
+
+#~ msgid "Purchases"
+#~ msgstr "Ostud"
+
+#~ msgid "Score"
+#~ msgstr "Tulemus"
+
+#~ msgid "Product record"
+#~ msgstr "Toote salvestis"
+
+#~ msgid "Product records"
+#~ msgstr "Toodete salvestised"
+
+#~ msgid "Record for '%s'"
+#~ msgstr "'%s' salvestis"
+
+#~ msgid "Product Views"
+#~ msgstr "Toote vaated"
+
+#~ msgid "Order Lines"
+#~ msgstr "Tellimuste read"
+
+#~ msgid "Order Items"
+#~ msgstr "Tellimuste osad"
+
+#~ msgid "Total Spent"
+#~ msgstr "Kogukulu"
+
+#~ msgid "Last Order Date"
+#~ msgstr "Viimase tellimuse kuupäev"
+
+#~ msgid "User record"
+#~ msgstr "Kasutaja kirje"
+
+#~ msgid "User records"
+#~ msgstr "Kasutaja kirjed"
+
+#~ msgid "User product view"
+#~ msgstr "Kasutaja toote vaatamine"
+
+#~ msgid "User product views"
+#~ msgstr "Kasutaja toodete vaatamised"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "%(user)s vaatas '%(product)s'"
+
+#~ msgid "Search term"
+#~ msgstr "Otsingusõna"
+
+#~ msgid "User search query"
+#~ msgstr "Kasutaja otsingutermin"
+
+#~ msgid "User search queries"
+#~ msgstr "Kasutaja otsingud"
+
+#~ msgid "%(user)s searched for '%(query)s'"
+#~ msgstr "%(user)s otsis '%(query)s'"
+
+#~ msgid "Analytics"
+#~ msgstr "Analüütika"
+
+#~ msgid "Basket additions"
+#~ msgstr "Ostukorvi lisad"
+
+#~ msgid "Product analytics"
+#~ msgstr "Toote analüütika"
+
+#~ msgid "Name"
+#~ msgstr "Nimi"
+
+#~ msgid "Date registered"
+#~ msgstr "Registreerimiskuupäev"
+
+#~ msgid "Product views"
+#~ msgstr "Toote vaated"
+
+#~ msgid "Order lines"
+#~ msgstr "Tellimuse read"
+
+#~ msgid "Order items"
+#~ msgstr "Tellimuse osad"
+
+#~ msgid "Total spent"
+#~ msgstr "Kogukulu"
+
+#~ msgid "Date of last order"
+#~ msgstr "Viimase tellimuse kuupäev"
+
+#~ msgid "User analytics"
+#~ msgstr "Kasutaja analüütika"
+
+#~ msgid "Owner"
+#~ msgstr "Omanik"
+
+#~ msgid "Open - currently active"
+#~ msgstr "Avatud - hetkel aktiivne"
+
+#~ msgid "Merged - superceded by another basket"
+#~ msgstr "Liidetud - kantud teisele ostukorvile"
+
+#~ msgid "Saved - for items to be purchased later"
+#~ msgstr "Salvestatud - tulevaseks ostuks"
+
+#~ msgid "Frozen - the basket cannot be modified"
+#~ msgstr "Külmutatud - ostukorvi ei saa muuta"
+
+#~ msgid "Submitted - has been ordered at the checkout"
+#~ msgstr "Esitatud - tellitud läbi ostuprotsessi"
+
+#~ msgid "Status"
+#~ msgstr "Staatus"
+
+#~ msgid "Date created"
+#~ msgstr "Loomise kuupäev"
+
+#~ msgid "Date merged"
+#~ msgstr "Liitmise kuupäev"
+
+#~ msgid "Date submitted"
+#~ msgstr "Esitamise kuupäev"
+
+#~ msgid "Baskets"
+#~ msgstr "Ostukorvid"
+
+#~ msgid "%(status)s basket (owner: %(owner)s, lines: %(num_lines)d)"
+#~ msgstr "%(status)s ostukorv (omanik: %(owner)s, ridu: %(num_lines)d)"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order."
+#~ msgstr ""
+#~ "Tehniliste piirangute tõttu ei ole meil võimalik saata rohkem, kui "
+#~ "%(threshold)d asja ühe tellimusega."
+
+#~ msgid "Line Reference"
+#~ msgstr "Rea viide"
+
+#~ msgid "Quantity"
+#~ msgstr "Kogus"
+
+#~ msgid "Currency"
+#~ msgstr "Valuuta"
+
+#~ msgid "Price excl. Tax"
+#~ msgstr "Hind ilma maksuta"
+
+#~ msgid "Price incl. Tax"
+#~ msgstr "Hind maksuga"
+
+#~ msgid "Basket line"
+#~ msgstr "Ostukorvi rida"
+
+#~ msgid "Basket lines"
+#~ msgstr "Ostukorvi read"
+
+#~ msgid ""
+#~ "Basket #%(basket_id)d, Product #%(product_id)d, quantity %(quantity)d"
+#~ msgstr "Ostukorv #%(basket_id)d, toode #%(product_id)d, kogus %(quantity)d"
+
+#~ msgid "You cannot modify a %s basket"
+#~ msgstr "Ei saa muuta %s ostukorvi"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has increased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "Toodete '%(product)s' hind tõusis ostukorvis oleku ajal %(old_price)s'lt "
+#~ "%(new_price)s'le"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has decreased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "Toodete '%(product)s' hind langes ostukorvis oleku ajal %(old_price)s'lt "
+#~ "%(new_price)s'le"
+
+#~ msgid "Line"
+#~ msgstr "Rida"
+
+#~ msgid "Option"
+#~ msgstr "Valik"
+
+#~ msgid "Value"
+#~ msgstr "Hind"
+
+#~ msgid "Line attribute"
+#~ msgstr "Rea tunnus"
+
+#~ msgid "Line attributes"
+#~ msgstr "Rea tunnused"
+
+#~ msgid "Save for Later"
+#~ msgstr "Salvesta hilisemaks"
+
+#~ msgid "Move to Basket"
+#~ msgstr "Pane ostukorvi"
+
+#~ msgid "Code"
+#~ msgstr "Kood"
+
+#~ msgid "Variant"
+#~ msgstr "Variant"
+
+#~ msgid "Please select a valid product"
+#~ msgstr "Palun vali lubatud toode"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order. Your basket currently has %(basket)d "
+#~ "items."
+#~ msgstr ""
+#~ "Tehniliste piirangute tõttu ei ole meil võimalik tarnida rohkem, kui "
+#~ "%(threshold)d ühikud ühe tellimusega. Teie ostukorv sisaldab %(basket)d "
+#~ "ühikut."
+
+#~ msgid ""
+#~ "This product cannot be added to the basket as its currency isn't the same "
+#~ "as other products in your basket"
+#~ msgstr ""
+#~ "Seda toodet ei saa ostukorvi lisada, kuna seal on muus valuutas tooteid "
+#~ "juba ees"
+
+#~ msgid ""
+#~ "We have merged a basket from a previous session. Its contents might have "
+#~ "changed."
+#~ msgstr ""
+#~ "Mestisime ostukorvi eelmisest sessioonist. Ostukorvi sisu võib olla "
+#~ "muutunud."
+
+#~ msgid "User ID"
+#~ msgstr "Kasutaja ID"
+
+#~ msgid "Email"
+#~ msgstr "E-kiri"
+
+#~ msgid "Basket status"
+#~ msgstr "Ostukorvi staatus"
+
+#~ msgid "Num lines"
+#~ msgstr "Ridade arv"
+
+#~ msgid "Num items"
+#~ msgstr "Toodete arv"
+
+#~ msgid "Date of creation"
+#~ msgstr "Loomise kuupäev"
+
+#~ msgid "Time since creation"
+#~ msgstr "Loomisest möödunud aeg"
+
+#~ msgid "Open baskets"
+#~ msgstr "Avatud ostukorvid"
+
+#~ msgid "Time between creation and submission"
+#~ msgstr "Loomise ja esitamise ajavahemik"
+
+#~ msgid "Submitted baskets"
+#~ msgstr "Esitatud ostukorvid"
+
+#~ msgid "You can't save an item for later if you're not logged in!"
+#~ msgstr "Toote salvestamine hilisemaks ei ole võimalik sisse logimata!"
+
+#~ msgid ""
+#~ "Your basket couldn't be updated. Please correct any validation errors "
+#~ "below."
+#~ msgstr ""
+#~ "Ostukorvi ei olnud võimalik uuendada. Palun vaadake üle allolevad "
+#~ "veateated."
+
+#~ msgid "The '%(code)s' voucher has expired"
+#~ msgstr "Vautšer '%(code)s' on aegunud"
+
+#~ msgid "The '%(code)s' voucher is not active"
+#~ msgstr "Vautšer '%(code)s' ei ole aktiivne"
+
+#~ msgid "Your basket does not qualify for a voucher discount"
+#~ msgstr "Teie ostukorv ei kvalifitseeru vautžeri soodustuse saamiseks"
+
+#~ msgid "Voucher '%(code)s' added to basket"
+#~ msgstr "Vautšer '%(code)s' lisati ostukorvi"
+
+#~ msgid "You have already added the '%(code)s' voucher to your basket"
+#~ msgstr "Vautšer '%(code)s' on juba ostukorvi lisatud"
+
+#~ msgid "No voucher found with code '%(code)s'"
+#~ msgstr "'%(code)s' koodiga vautšerit ei ole"
+
+#~ msgid "Please enter a voucher code"
+#~ msgstr "Palun sisesta vautšeri kood"
+
+#~ msgid "Voucher '%s' removed from basket"
+#~ msgstr "Vautšer '%s' eemaldati ostukorvist"
+
+#~ msgid "Slug"
+#~ msgstr "veebiaadressi osa"
+
+#~ msgid "Requires shipping?"
+#~ msgstr "Vajab tarnet?"
+
+#~ msgid "Track stock levels?"
+#~ msgstr "Jälgi varu tasemeid?"
+
+#~ msgid "Product class"
+#~ msgstr "Toote tüüp"
+
+#~ msgid "Product classes"
+#~ msgstr "Tooteklassid"
+
+#~ msgid "Description"
+#~ msgstr "Kirjeldus"
+
+#~ msgid "Image"
+#~ msgstr "Pilt"
+
+#~ msgid "Category"
+#~ msgstr "Kategooria"
+
+#~ msgid "Product category"
+#~ msgstr "Tootekategooria"
+
+#~ msgid "Product categories"
+#~ msgstr "Tootekategooriad"
+
+#~ msgid "Stand-alone product"
+#~ msgstr "Üksiktoode"
+
+#~ msgid "Parent product"
+#~ msgstr "Ülemtoode"
+
+#~ msgid "Child product"
+#~ msgstr "Alamtoode"
+
+#~ msgid "Product structure"
+#~ msgstr "Toote struktuur"
+
+#~ msgid "UPC"
+#~ msgstr "UTK"
+
+#~ msgid ""
+#~ "Universal Product Code (UPC) is an identifier for a product which is not "
+#~ "specific to a particular  supplier. Eg an ISBN for a book."
+#~ msgstr ""
+#~ "Universaalne Toote Kood (UTK) on toote identifikaator, mis ei ole mingi "
+#~ "kindla tootegrupi või tarnija spetsiifiline. Näiteks nagu ISBN kood "
+#~ "raamatu puhul."
+
+#~ msgid ""
+#~ "Only choose a parent product if you're creating a child product.  For "
+#~ "example if this is a size 4 of a particular t-shirt.  Leave blank if this "
+#~ "is a stand-alone product (i.e. there is only one version of this product)."
+#~ msgstr ""
+#~ "Vali ülemtoode ainult siis, kui lood mingit kindlat alamtoodet. Näiteks "
+#~ "mingi T-särgimudeli suurus M või 4. Kui tegu on iseseisva (st. seda on "
+#~ "ainult 1 versioon) tootega, jätke ülemtoote lahter tühjaks."
+
+#~ msgctxt "Product title"
+#~ msgid "Title"
+#~ msgstr "Pealkiri"
+
+#~ msgid "Product type"
+#~ msgstr "Toote tüüp"
+
+#~ msgid "Choose what type of product this is"
+#~ msgstr "Vali toote tüüp"
+
+#~ msgid "Attributes"
+#~ msgstr "Omadused"
+
+#~ msgid ""
+#~ "A product attribute is something that this product may have, such as a "
+#~ "size, as specified by its class"
+#~ msgstr ""
+#~ "Olenevalt toote tüübist võib tal olla erinevaid omadusi, näiteks suurus."
+
+#~ msgid "Product options"
+#~ msgstr "Toote valikud"
+
+#~ msgid ""
+#~ "Options are values that can be associated with a item when it is added to "
+#~ "a customer's basket.  This could be something like a personalised message "
+#~ "to be printed on a T-shirt."
+#~ msgstr ""
+#~ "Valikud on väärtused, mida saab lisada ostukorvis olevale tootele. See "
+#~ "võib näiteks olla personaliseeritud tekst, mis trükitake T-särgile"
+
+#~ msgid "Recommended products"
+#~ msgstr "Soovitatud tooted"
+
+#~ msgid ""
+#~ "These are products that are recommended to accompany the main product."
+#~ msgstr "Neid tooteid soovitatakse koos põhitootega."
+
+#~ msgid "Date updated"
+#~ msgstr "Üleslaadimiskuupäev"
+
+#~ msgid "Is discountable?"
+#~ msgstr "On allahinnatav?"
+
+#~ msgid "This flag indicates if this product can be used in an offer or not"
+#~ msgstr ""
+#~ "See muutuja näitab, kas toodet saab kasutada sooduskampaanias või mitte"
+
+#~ msgid "Your product must have a title."
+#~ msgstr "Tootel peab olema nimetus."
+
+#~ msgid "Your product must have a product class."
+#~ msgstr "Tootel peab olema tooteklass."
+
+#~ msgid "Only child products can have a parent."
+#~ msgstr "Ainult alamtoodetel saab olla ülemtoode."
+
+#~ msgid "A child product needs a parent."
+#~ msgstr "Alamtootel peab olema ülemtoode."
+
+#~ msgid "You can only assign child products to parent products."
+#~ msgstr "Vaid ülemtoodetele saab lisada alamtooteid."
+
+#~ msgid "A child product can't have a product class."
+#~ msgstr "Alamtootel ei saa olla tooteklassi."
+
+#~ msgid "A child product can't have a category assigned."
+#~ msgstr "Alamtootel ei saa olla eraldi kategooriat."
+
+#~ msgid "A child product can't have options."
+#~ msgstr "Alamtootel ei saa olla toote valikuid."
+
+#~ msgid "A parent product can't have stockrecords."
+#~ msgstr "Ülemtootel ei saa olla laoseisu."
+
+#~ msgid "The specified parent product is a child product."
+#~ msgstr "Antud ülemtoode on ise alamtoode."
+
+#~ msgid "One can't add a child product to a product with stock records."
+#~ msgstr "Tootele, millel on laoseis, ei saa lisada alamtooteid."
+
+#~ msgid "Primary product"
+#~ msgstr "Põhitoode"
+
+#~ msgid "Recommended product"
+#~ msgstr "Soovitatud toode"
+
+#~ msgid "Ranking"
+#~ msgstr "Järjestus"
+
+#~ msgid ""
+#~ "Determines order of the products. A product with a higher value will "
+#~ "appear before one with a lower ranking."
+#~ msgstr ""
+#~ "Määrab toodete järjekorra. Suurema väärtusega toodet kuvatakse väiksema "
+#~ "väärtusega toodetest eespool."
+
+#~ msgid "Product recommendation"
+#~ msgstr "Tootesoovitus"
+
+#~ msgid "Product recomendations"
+#~ msgstr "Tootesoovitused"
+
+#~ msgid ""
+#~ "Code can only contain the letters a-z, A-Z, digits, and underscores, and "
+#~ "can't start with a digit."
+#~ msgstr ""
+#~ "Kood võib sisaldada ainult inglise tähti a-z, A-Z, numbreid ja alakriipse "
+#~ "ning ei tohi alata numbriga."
+
+#~ msgid "Text"
+#~ msgstr "Tekst"
+
+#~ msgid "Integer"
+#~ msgstr "Täisarv"
+
+#~ msgid "True / False"
+#~ msgstr "Õige / Väär"
+
+#~ msgid "Float"
+#~ msgstr "Komaga arv"
+
+#~ msgid "Rich Text"
+#~ msgstr "Vormindatud tekst"
+
+#~ msgid "Date"
+#~ msgstr "Kuupäev"
+
+#~ msgid "Entity"
+#~ msgstr "Üksus"
+
+#~ msgid "File"
+#~ msgstr "Fail"
+
+#~ msgid "Option Group"
+#~ msgstr "Valikute grupp"
+
+#~ msgid "Required"
+#~ msgstr "Kohustuslik"
+
+#~ msgid "Product attribute"
+#~ msgstr "Toote tunnus"
+
+#~ msgid "Product attributes"
+#~ msgstr "Toote tunnused"
+
+#~ msgid "Must be str or unicode"
+#~ msgstr "Peab olema string või unikodeeritud string"
+
+#~ msgid "Must be a float"
+#~ msgstr "Peab olema komaga arv"
+
+#~ msgid "Must be an integer"
+#~ msgstr "Peab olema täisarv"
+
+#~ msgid "Must be a date or datetime"
+#~ msgstr "Peab olema kuupäev või kuupäev&kellaaeg"
+
+#~ msgid "Must be a boolean"
+#~ msgstr "Peab olema tõeväärtus"
+
+#~ msgid "Must be a model instance"
+#~ msgstr "Peab olema mudeli instants"
+
+#~ msgid "Must be an AttributeOption model object instance"
+#~ msgstr "Peab olema AttributeOption mudeli instants"
+
+#~ msgid "AttributeOption has not been saved yet"
+#~ msgstr "Omaduse valikut ei ole veel savestatud"
+
+#~ msgid "%(enum)s is not a valid choice for %(attr)s"
+#~ msgstr "%(enum)s ei ole omaduse %(attr)s lubatud valik"
+
+#~ msgid "Must be a file field"
+#~ msgstr "Peab olema failiväli"
+
+#~ msgid "Attribute"
+#~ msgstr "Omadus"
+
+#~ msgid "Boolean"
+#~ msgstr "Tõeväärtus"
+
+#~ msgid "Richtext"
+#~ msgstr "Vormindatud tekst"
+
+#~ msgid "Value option"
+#~ msgstr "Väärtuse valik"
+
+#~ msgid "Product attribute value"
+#~ msgstr "Toote tunnuse väärtus"
+
+#~ msgid "Product attribute values"
+#~ msgstr "Toote tunnuste väärtused"
+
+#~ msgid "Attribute option group"
+#~ msgstr "Tunnuste valikute grupp"
+
+#~ msgid "Attribute option groups"
+#~ msgstr "Tunnuste valikute grupid"
+
+#~ msgid "Group"
+#~ msgstr "Grupp"
+
+#~ msgid "Attribute option"
+#~ msgstr "Omaduse valik"
+
+#~ msgid "Attribute options"
+#~ msgstr "Omaduse valikud"
+
+#~ msgid "Required - a value for this option must be specified"
+#~ msgstr "Kohustuslik - selle valiku väärtus on vaja sisestada"
+
+#~ msgid "Optional - a value for this option can be omitted"
+#~ msgstr "Valikuline - selle väärtuse valimine on valikuline"
+
+#~ msgid "Original"
+#~ msgstr "Originaal"
+
+#~ msgid "Caption"
+#~ msgstr "Pealkiri"
+
+#~ msgid ""
+#~ "An image with a display order of zero will be the primary image for a "
+#~ "product"
+#~ msgstr "Pilti järjestusväärusega 0 kasutatakse selle toote põhipildina"
+
+#~ msgid "Product image"
+#~ msgstr "Tootepilt"
+
+#~ msgid "Product images"
+#~ msgstr "Tootepildid"
+
+#~ msgid "%(obj)s has no attribute named '%(attr)s'"
+#~ msgstr "%(obj)s 'l puudub omadus '%(attr)s'"
+
+#~ msgid "%(attr)s attribute cannot be blank"
+#~ msgstr "Omadus %(attr)s ei saa olla tühi"
+
+#~ msgid "%(attr)s attribute %(err)s"
+#~ msgstr "%(attr)s omaduse %(err)s"
+
+#~ msgctxt "Product review title"
+#~ msgid "Title"
+#~ msgstr "Pealkiri"
+
+#~ msgid "Body"
+#~ msgstr "Sisu"
+
+#~ msgctxt "Anonymous reviewer name"
+#~ msgid "Name"
+#~ msgstr "Nimetus"
+
+#~ msgid "URL"
+#~ msgstr "Aadress"
+
+#~ msgid "Requires moderation"
+#~ msgstr "Vajab ülevaatamist"
+
+#~ msgid "Approved"
+#~ msgstr "Heaks kiidetud"
+
+#~ msgid "Rejected"
+#~ msgstr "Tagasi lükatud"
+
+#~ msgid "Total Votes"
+#~ msgstr "Häälte arv"
+
+#~ msgid "Delta Votes"
+#~ msgstr "Häälte vahe"
+
+#~ msgid "Product review"
+#~ msgstr "Tootearvustus"
+
+#~ msgid "Product reviews"
+#~ msgstr "Tootearvustused"
+
+#~ msgid "Anonymous reviews must include a name and an email"
+#~ msgstr "Anonüümse arvustusega tuleb kaasa panna nimi ja meiliaadress"
+
+#~ msgid "anonymous"
+#~ msgstr "anonüümne"
+
+#~ msgid "Only signed in users can vote"
+#~ msgstr "Ainult sisseloginud kasutajad saavad hääletada"
+
+#~ msgid "Up"
+#~ msgstr "Üles"
+
+#~ msgid "Down"
+#~ msgstr "Alla"
+
+#~ msgid "Delta"
+#~ msgstr "Vahe"
+
+#~ msgid "Vote"
+#~ msgstr "Hääl"
+
+#~ msgid "Votes"
+#~ msgstr "Hääled"
+
+#~ msgid "You cannot vote on your own reviews"
+#~ msgstr "Oma arvustuste hääletamine ei ole lubatud"
+
+#~ msgid "Only signed-in users can vote on reviews"
+#~ msgstr "Ainult sisseloginud kasutajad saavad hinnata arvustusi"
+
+#~ msgid "You can only vote once on a review"
+#~ msgstr "Ühe arvustust saab hinnata 1 korra"
+
+#~ msgid "Catalogue reviews"
+#~ msgstr "Tootearvustused"
+
+#~ msgid "Recency"
+#~ msgstr "Hiljutisus"
+
+#~ msgid "Sort by"
+#~ msgstr "Sorteeri"
+
+#~ msgid "You have already reviewed this product!"
+#~ msgstr "Sa oled juba seda toodet arvustanud"
+
+#~ msgid "You can't leave a review for this product."
+#~ msgstr "Seda toodet ei saa arvustada."
+
+#~ msgid "Thank you for reviewing this product"
+#~ msgstr "Tänan, et arvustasite seda toodet"
+
+#~ msgid "Thanks for voting!"
+#~ msgstr "Täname, et hääletasite"
+
+#~ msgid "%(filename)s is not a valid image (%(error)s)"
+#~ msgstr "%(filename)s ei ole korrektne pilt (%(error)s)"
+
+#~ msgid "%s is not a valid image archive"
+#~ msgstr "%s ei ole korrektne pildi arhiiv"
+
+#~ msgid "The given page number was invalid."
+#~ msgstr "Leheküljenumber ei olnud korrektne."
+
+#~ msgid "Checkout"
+#~ msgstr "Kassa"
+
+#~ msgid "My email address is"
+#~ msgstr "Minu e-maili aadress on"
+
+#~ msgid "I am a new customer and want to checkout as a guest"
+#~ msgstr "Olen uus klient ja tahan sooritada ostu sisse logimata."
+
+#~ msgid ""
+#~ "I am a new customer and want to create an account before checking out"
+#~ msgstr "Olen uus klient ja tahan enne ostu sooritamist registreerida konto."
+
+#~ msgid "I am a returning customer, and my password is"
+#~ msgstr "Mul on juba konto, mu parool on"
+
+#~ msgid "A user with that email address already exists"
+#~ msgstr "Sellise meiliaadressiga kasutaja on juba olemas"
+
+#~ msgid "You need to add some items to your basket to checkout"
+#~ msgstr "Ostu sooritamiseks on vajalik ostukorvis toodete olemasolu"
+
+#~ msgid ""
+#~ "'%(title)s' is no longer available to buy (%(reason)s). Please adjust "
+#~ "your basket to continue"
+#~ msgstr ""
+#~ "'%(title)s' ei ole enam müügis (%(reason)s). Palun uuendage oma ostukorvi"
+
+#~ msgid "Please either sign in or enter your email address"
+#~ msgstr "Palun logi sisse või sisesta oma e-maili aadress"
+
+#~ msgid "Please choose a shipping address"
+#~ msgstr "Palun vali tarne aadress"
+
+#~ msgid ""
+#~ "Your previously chosen shipping address is no longer valid.  Please "
+#~ "choose another one"
+#~ msgstr ""
+#~ "Teie eelnev kohaletoimetamise aadress ei ole enam valiidne. Palun "
+#~ "redigeerige"
+
+#~ msgid "Please choose a shipping method"
+#~ msgstr "Palun vali tarne meetod"
+
+#~ msgid ""
+#~ "Your previously chosen shipping method is no longer valid.  Please choose "
+#~ "another one"
+#~ msgstr ""
+#~ "Teie eelnevalt valitud kohaletoimetamise viis ei ole enam valiidne. Palun "
+#~ "valige mõni muu"
+
+#~ msgid ""
+#~ "Create your account and then you will be redirected back to the checkout "
+#~ "process"
+#~ msgstr "Looge omale konto - teid tuuakse kassalehele tagasi"
+
+#~ msgid "Address saved"
+#~ msgstr "Aadress salvestatud"
+
+#~ msgid "Address deleted"
+#~ msgstr "Aadress kustutatud"
+
+#~ msgid ""
+#~ "Shipping is unavailable for your chosen address - please choose another"
+#~ msgstr "Valitud aadressile kohaletoimetamist ei toimu - palun muutke seda"
+
+#~ msgid "Your submitted shipping method is not permitted"
+#~ msgstr "Sinu valitud tarnemeetod ei ole lubatud"
+
+#~ msgid ""
+#~ "A problem occurred while processing payment for this order - no payment "
+#~ "has been taken.  Please contact customer services if this problem persists"
+#~ msgstr ""
+#~ "Makse teostamisel tekkis viga - raha maha ei võetud. Kui uuesti "
+#~ "proovimisest kasu pole, võtke ühendust meie klienditeenindusega"
+
+#~ msgid "No order found"
+#~ msgstr "Tellimust ei leitud"
+
+#~ msgid "email address"
+#~ msgstr "meiliaadress"
+
+#~ msgid "Staff status"
+#~ msgstr "Personali staatus"
+
+#~ msgid "Designates whether the user can log into this admin site."
+#~ msgstr "Määrab, kas kasutaja saab ligi administreerimisliidesele."
+
+#~ msgid "Active"
+#~ msgstr "Aktiivne"
+
+#~ msgid ""
+#~ "Designates whether this user should be treated as active. Unselect this "
+#~ "instead of deleting accounts."
+#~ msgstr ""
+#~ "Näitab, kas kasutaja on aktiveeritud. Kasutage selle märke pealepanemist "
+#~ "või mahavõtmist kontode kustutamise asemel."
+
+#~ msgid "date joined"
+#~ msgstr "liitumiskuupäev"
+
+#~ msgid "Users"
+#~ msgstr "Kasutajad"
+
+#~ msgid "Subject"
+#~ msgstr "Teema"
+
+#~ msgid "Body Text"
+#~ msgstr "Sisu tekst"
+
+#~ msgid "Body HTML"
+#~ msgstr "Sisu HTML"
+
+#~ msgid "Date Sent"
+#~ msgstr "Saatmise kuupäev"
+
+#~ msgid "Emails"
+#~ msgstr "E-kirjad"
+
+#~ msgid "Email to %(user)s with subject '%(subject)s'"
+#~ msgstr "E-mail %(user)s'le teemaga '%(subject)s'"
+
+#~ msgid "Code used for looking up this event programmatically"
+#~ msgstr "Tootekood otsimiseks"
+
+#~ msgid "This is just used for organisational purposes"
+#~ msgstr "Seda kasutatakse vaid organisatoorsetel eesmärkidel"
+
+#~ msgid "Order related"
+#~ msgstr "Tellmiusega seotu"
+
+#~ msgid "User related"
+#~ msgstr "Kasutajaga seotu"
+
+#~ msgid "Email Subject Template"
+#~ msgstr "E-maili teema maill"
+
+#~ msgid "Email Body Template"
+#~ msgstr "E-maili sisu mall"
+
+#~ msgid "Email Body HTML Template"
+#~ msgstr "E-maili HTML sisu mall"
+
+#~ msgid "HTML template"
+#~ msgstr "HTML mall"
+
+#~ msgid "SMS Template"
+#~ msgstr "SMS mall"
+
+#~ msgid "SMS template"
+#~ msgstr "SMS mall"
+
+#~ msgid "Date Updated"
+#~ msgstr "Uuendamise kuupäev"
+
+#~ msgid "Communication event type"
+#~ msgstr "Kommunikatsioonisündmuse tüüp"
+
+#~ msgid "Communication event types"
+#~ msgstr "Kommunikatsioonisündmuste tüüpid"
+
+#~ msgid "Inbox"
+#~ msgstr "Postkast"
+
+#~ msgid "Archive"
+#~ msgstr "Arhiiv"
+
+#~ msgid "Notification"
+#~ msgstr "Teavitus"
+
+#~ msgid "Notifications"
+#~ msgstr "Teavitused"
+
+#~ msgid "Key"
+#~ msgstr "Võti"
+
+#~ msgid "Not yet confirmed"
+#~ msgstr "Kinnitamata"
+
+#~ msgid "Cancelled"
+#~ msgstr "Tühistatud"
+
+#~ msgid "Closed"
+#~ msgstr "Suletud"
+
+#~ msgid "Date confirmed"
+#~ msgstr "Kinnitamise kuupäev"
+
+#~ msgid "Date cancelled"
+#~ msgstr "Tühistamise kuupäev"
+
+#~ msgid "Date closed"
+#~ msgstr "Sulgemise kuupäev"
+
+#~ msgid "Product alert"
+#~ msgstr "Tooteteavitus"
+
+#~ msgid "Product alerts"
+#~ msgstr "Tooteteavitused"
+
+#~ msgid "Product Alerts"
+#~ msgstr "Tooteteavitused"
+
+#~ msgid "An alert has been created"
+#~ msgstr "Häire on loodud"
+
+#~ msgid "A confirmation email has been sent to %s"
+#~ msgstr "Kinnituse e-kiri on saadetud aadressile %s"
+
+#~ msgid "Your stock alert is now active"
+#~ msgstr "Laoseisu teavitus on nüüd aktiivne"
+
+#~ msgid "Your stock alert cannot be confirmed"
+#~ msgstr "Laoseisu teavitust ei suudetud kinnitada"
+
+#~ msgid "Your stock alert has been cancelled"
+#~ msgstr "Laoseisu teavitus tühistatud"
+
+#~ msgid "Your stock alert cannot be cancelled"
+#~ msgstr "Laoseisu teavitust ei saa tühistada"
+
+#~ msgid "Customer"
+#~ msgstr "Klient"
+
+#~ msgid "Email address"
+#~ msgstr "E-maili aadress"
+
+#~ msgid "Password"
+#~ msgstr "Parool"
+
+#~ msgid "The entered password is not valid!"
+#~ msgstr "Sisestatud parool ei olnud õige!"
+
+#~ msgid "Confirm password"
+#~ msgstr "Parooli kinnitus"
+
+#~ msgid "The two password fields didn't match."
+#~ msgstr "Kahe parooli välja sisu ei kattu"
+
+#~ msgctxt "start date"
+#~ msgid "From"
+#~ msgstr "Kellelt"
+
+#~ msgctxt "end date"
+#~ msgid "To"
+#~ msgstr "Kellele"
+
+#~ msgid "Order number"
+#~ msgstr "Tellimuse number"
+
+#~ msgid "At least one field is required."
+#~ msgstr "Vähemalt üks väli peab olema täidetud."
+
+#~ msgid "All orders"
+#~ msgstr "Kõik tellimused"
+
+#~ msgid ""
+#~ "Orders placed between %(date_from)s and %(date_to)s and order number "
+#~ "containing %(order_number)s"
+#~ msgstr ""
+#~ "Vahemikus %(date_from)s kuni %(date_to)s esitatud tellimused, mille "
+#~ "tellimuse numbris sisaldub %(order_number)s"
+
+#~ msgid "Orders placed between %(date_from)s and %(date_to)s"
+#~ msgstr "%(date_from)s ja %(date_to)s vahel esitatud tellimused"
+
+#~ msgid ""
+#~ "Orders placed since %(date_from)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "Alates %(date_from)s esitatud tellimused, mille tellimuse numbris "
+#~ "sisaldub %(order_number)s"
+
+#~ msgid "Orders placed since %(date_from)s"
+#~ msgstr "Alates %(date_from)s esitatud tellimused"
+
+#~ msgid ""
+#~ "Orders placed until %(date_to)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "Kuni %(date_to)s esitatud tellimused, mille tellimuse numbris sisaldub "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed until %(date_to)s"
+#~ msgstr "Tellimused kuni %(date_to)s"
+
+#~ msgid "Orders with order number containing %(order_number)s"
+#~ msgstr "Tellimused, mis sialdavad %(order_number)s "
+
+#~ msgid "A user with this email address already exists"
+#~ msgstr "Sellise meiliaadressiga kasutaja on juba olemas"
+
+#~ msgid "Send notification to"
+#~ msgstr "Saada teavitus "
+
+#~ msgid "Enter your email"
+#~ msgstr "Sisesta oma e-maili aadress"
+
+#~ msgid "There is already an active stock alert for %s"
+#~ msgstr "%s aktiivne varu teavitus juba eksisteerib"
+
+#~ msgid "You already have an active alert for this product"
+#~ msgstr "Sul juba on sellele tootele aktiivne teavitus"
+
+#~ msgid "%(count)d notification archived"
+#~ msgid_plural "%(count)d notifications archived"
+#~ msgstr[0] "%(count)d teavitus arhiveeriti"
+#~ msgstr[1] "%(count)d teavitust arhiveeriti"
+
+#~ msgid "%(count)d notification deleted"
+#~ msgid_plural "%(count)d notifications deleted"
+#~ msgstr[0] "%(count)d teavitus kustutati"
+#~ msgstr[1] "%(count)d teavitust kustutati"
+
+#~ msgid "Welcome back"
+#~ msgstr "Tere tulemast tagasi"
+
+#~ msgid "Thanks for registering!"
+#~ msgstr "Täname registreerumast!"
+
+#~ msgid "Profile"
+#~ msgstr "Profiil"
+
+#~ msgid "Edit Profile"
+#~ msgstr "Muuda profiili"
+
+#~ msgid "Profile updated"
+#~ msgstr "Profiil uuendatud"
+
+#~ msgid "Delete profile"
+#~ msgstr "Kustuta profiil"
+
+#~ msgid "Your profile has now been deleted. Thanks for using the site."
+#~ msgstr "Teie konto kustutati. Täname kasutamast."
+
+#~ msgid "Change Password"
+#~ msgstr "Muuda parooli"
+
+#~ msgid "Password updated"
+#~ msgstr "Parool on uuendatud"
+
+#~ msgid "Email History"
+#~ msgstr "E-kirjade ajalugu"
+
+#~ msgid "Order History"
+#~ msgstr "Tellimuste ajalugu"
+
+#~ msgid "Order"
+#~ msgstr "Tellimus"
+
+#~ msgid ""
+#~ "All available lines from order %(number)s have been added to your basket"
+#~ msgstr ""
+#~ "All saadaolevad read tellimusest %(number)s on sinu ostukorvi lisatud"
+
+#~ msgid ""
+#~ "It is not possible to re-order order %(number)s as none of its lines are "
+#~ "available to purchase"
+#~ msgstr ""
+#~ "Tellimust %(number)s ei ole võimalik taas-tellida kuna ühtegi tema "
+#~ "ridadest ei ole ostuks saadaval"
+
+#~ msgid "%(qty)d copies of '%(product)s' have been added to your basket"
+#~ msgstr "%(qty)d koopiat tootest '%(product)s' on lisatud sinu ostukorvi"
+
+#~ msgid "'%s' has been added to your basket"
+#~ msgstr "'%s' lisati sinu ostukorvi"
+
+#~ msgid "Address Book"
+#~ msgstr "Aadressiraamat"
+
+#~ msgid "Add a new address"
+#~ msgstr "Lisa uus aadress"
+
+#~ msgid "Address '%s' created"
+#~ msgstr "Aadress '%s' loodud"
+
+#~ msgid "Edit address"
+#~ msgstr "Halda aadressi"
+
+#~ msgid "Address '%s' updated"
+#~ msgstr "Aadress '%s' uuendatud"
+
+#~ msgid "Delete address?"
+#~ msgstr "Kustuta aadress?"
+
+#~ msgid "Address '%s' deleted"
+#~ msgstr "Aadress '%s' kustutatud"
+
+#~ msgid "We do not ship to this country"
+#~ msgstr "Sellesse riiki tarneid ei tehta"
+
+#~ msgid "Wish Lists"
+#~ msgstr "Soovinimekirjad"
+
+#~ msgid "Quantities updated."
+#~ msgstr "Koguseid uuendati."
+
+#~ msgid "Create a new wish list"
+#~ msgstr "Loo uus soovinimekiri"
+
+#~ msgid "The requested product no longer exists"
+#~ msgstr "Nõutud toodet ei ole enam"
+
+#~ msgid "Your wishlist has been created and '%(name)s has been added"
+#~ msgstr "Teile loodi soovinimekiri sisestustega '%(name)s"
+
+#~ msgid "Your wishlist has been created"
+#~ msgstr "Teile loodi soovinimekiri"
+
+#~ msgid "%(title)s has been added to your wishlist"
+#~ msgstr "%(title)s lisati teie soovinimekirja"
+
+#~ msgid "Your '%s' wishlist has been updated"
+#~ msgstr "Soovinimekirja '%s' uuendati"
+
+#~ msgid "Delete %s"
+#~ msgstr "Kustuta %s"
+
+#~ msgid "Your '%s' wish list has been deleted"
+#~ msgstr "Teie soovinimekiri '%s' kustutati"
+
+#~ msgid "'%s' was added to your wish list."
+#~ msgstr "'%s' lisati teie soovinimekirja."
+
+#~ msgid "Remove %s"
+#~ msgstr "Eemalda %s"
+
+#~ msgid "'%(title)s' was removed from your '%(name)s' wish list"
+#~ msgstr "'%(title)s' eemaldati soovinimekirjast '%(name)s'"
+
+#~ msgid "'%(title)s' moved to '%(name)s' wishlist"
+#~ msgstr "'%(title)s' liigutati soovinimekirja '%(name)s'"
+
+#~ msgid "Create a new product of type"
+#~ msgstr "Lisa uus toode tüübist"
+
+#~ msgid "-- Choose type --"
+#~ msgstr "-- Vali tüüp --"
+
+#~ msgid "Product title"
+#~ msgstr "Tootenimetus"
+
+#~ msgid "Select an option group"
+#~ msgstr "Tee valik"
+
+#~ msgid ""
+#~ "At least one stock record must be set to a partner that you're associated "
+#~ "with."
+#~ msgstr "Vähemalt üks laoliikumine peab olema seotud tarnijaga"
+
+#~ msgid "Stand-alone and parent products must have at least one category"
+#~ msgstr "Iseseisval ja vanem-tootel peab olema vähemalt üks katekooria"
+
+#~ msgid "A child product should not have categories"
+#~ msgstr "Alamtootel ei tohi olla kategooriat"
+
+#~ msgid "Title"
+#~ msgstr "Tiitel"
+
+#~ msgid "Variants"
+#~ msgstr "Variandid"
+
+#~ msgid "Stock records"
+#~ msgstr "Laoseisud"
+
+#~ msgid "Actions"
+#~ msgstr "Tegevused"
+
+#~ msgid "Number of child categories"
+#~ msgstr "Alamkategooriate arv"
+
+#~ msgid "%s Category"
+#~ msgid_plural "%s Categories"
+#~ msgstr[0] "%s kategooria"
+#~ msgstr[1] "%s kategooriad"
+
+#~ msgid "Product search results"
+#~ msgstr "Tooteotsingu tulemused"
+
+#~ msgid "Please choose a product type"
+#~ msgstr "Palun valige tootetüüp"
+
+#~ msgid "Create new %(product_class)s product"
+#~ msgstr "Lisage toode klassist %(product_class)s"
+
+#~ msgid "Create new variant of %(parent_product)s"
+#~ msgstr "Lisage variant tootele %(parent_product)s"
+
+#~ msgid "Editing variant of %(parent_product)s"
+#~ msgstr "Muutke toote %(parent_product)s varianti"
+
+#~ msgid "Your submitted data was not valid - please correct the errors below"
+#~ msgstr ""
+#~ "Saadetud andmed ei valideerunud - palun kontrollige allolevaid veateateid"
+
+#~ msgid "Delete product variant?"
+#~ msgstr "Kustuta toote variant?"
+
+#~ msgid "Delete product?"
+#~ msgstr "Kustuta toode?"
+
+#~ msgid "Deleted product variant '%s'"
+#~ msgstr "Toote variant '%s' kustutati"
+
+#~ msgid "Deleted product '%s'"
+#~ msgstr "Toode '%s' kustutati"
+
+#~ msgid "Alerts with status \"%s\""
+#~ msgstr "Teavitused staatusega \"%s\""
+
+#~ msgid "All alerts"
+#~ msgstr "Kõik teavitused"
+
+#~ msgid "Add a new category"
+#~ msgstr "Lisa uus kategooria"
+
+#~ msgid "Category created successfully"
+#~ msgstr "Kategooria edukalt loodud"
+
+#~ msgid "Update category '%s'"
+#~ msgstr "Uuenda kategooriat '%s'"
+
+#~ msgid "Category updated successfully"
+#~ msgstr "Kategooria edukalt uuendatud"
+
+#~ msgid "Category deleted successfully"
+#~ msgstr "Kategooria kustutatud"
+
+#~ msgid "Add a new product type"
+#~ msgstr "Lisa uus tootetüüp"
+
+#~ msgid "Product type created successfully"
+#~ msgstr "Tootetüüp edukalt loodud"
+
+#~ msgid "Update product type '%s'"
+#~ msgstr "Uuenda tootetüüpi '%s'"
+
+#~ msgid "Product type updated successfully"
+#~ msgstr "Tootetüüp edukalt uuendatud"
+
+#~ msgid "Delete product type '%s'"
+#~ msgstr "Kustuta tootetüüp '%s'"
+
+#~ msgid "Unable to delete '%s'"
+#~ msgstr "'%s' ei olnud võimalik kustutada"
+
+#~ msgid "%i products are still assigned to this type"
+#~ msgstr "%i toodet kuulub endiselt selle tüübi alla"
+
+#~ msgid "Product type deleted successfully"
+#~ msgstr "Tootetüüp kustutatud"
+
+#~ msgid "Communications dashboard"
+#~ msgstr "Kliendisuhtluse töölaud"
+
+#~ msgid "Email subject template"
+#~ msgstr "E-kirja pealkirja mall"
+
+#~ msgid "Email body text template"
+#~ msgstr "E-kirja sisuosa tekstiline mall"
+
+#~ msgid "Email body HTML template"
+#~ msgstr "E-kirja sisuosa HTML mall"
+
+#~ msgid "Preview email"
+#~ msgstr "E-kirja eelvaade"
+
+#~ msgid "No order found with this number"
+#~ msgstr "Sellise koodiga tellimust ei leitud"
+
+#~ msgid "Please enter an email address"
+#~ msgstr "Palun sisestage e-posti aadress"
+
+#~ msgid ""
+#~ "The submitted form was not valid, please correct the errors and resubmit"
+#~ msgstr ""
+#~ "Edastatud vorm ei ei olnud korrekte, palun paranda vead ja proovi uuesti."
+
+#~ msgid "Email saved"
+#~ msgstr "E-kiri salvestatud"
+
+#~ msgid "A preview email has been sent to %s"
+#~ msgstr "Ülevaate e-kiri on saadetud aadressile %s"
+
+#~ msgid "Offers dashboard"
+#~ msgstr "Pakkumiste töölaud"
+
+#~ msgid "Start date"
+#~ msgstr "Alguskuupäev"
+
+#~ msgid "End date"
+#~ msgstr "Lõppkuupäev"
+
+#~ msgid "The end date must be after the start date"
+#~ msgstr "Lõppkuupäev peab olema pärast alguskuupäeva"
+
+#~ msgid "Custom condition"
+#~ msgstr "Valikuline tingimus"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom condition"
+#~ msgstr ""
+#~ "Kas teed valiku vahemikust, tüübist või väärtusest VÕI märgi valikuline "
+#~ "tingimus"
+
+#~ msgid "A range is required"
+#~ msgstr "Vahemik on nõutud"
+
+#~ msgid "Custom incentive"
+#~ msgstr "valikuline stiimul"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom incentive"
+#~ msgstr ""
+#~ "Kas teed valiku vahemikust, tüübist või väärtusest VÕI märgi valikuline "
+#~ "stiimul"
+
+#~ msgid "No other options can be set if you are using a custom incentive"
+#~ msgstr "Rohkem valikuid ei ole kui kasutad valikulist stiimulit"
+
+#~ msgid "Offer name"
+#~ msgstr "Pakkumise nimi"
+
+#~ msgid "Is active?"
+#~ msgstr "Aktiivne?"
+
+#~ msgid "Order date"
+#~ msgstr "Tellimuse kuupäev"
+
+#~ msgid "Order total"
+#~ msgstr "Tellimuse summa"
+
+#~ msgid "Cost"
+#~ msgstr "Maksumus"
+
+#~ msgid "All offers"
+#~ msgstr "Kõik pakkumised"
+
+#~ msgid "Offers matching '%s'"
+#~ msgstr "'%s' päringule vastavad pakkumised"
+
+#~ msgid "%s step not complete"
+#~ msgstr "%s. samm ei ole valmis"
+
+#~ msgid "Offer '%s' updated"
+#~ msgstr "Pakkumine '%s' on uuendatud"
+
+#~ msgid "Offer '%s' created!"
+#~ msgstr "Pakkumine '%s' on loodud!"
+
+#~ msgid "Name and description"
+#~ msgstr "Nimi ja kirjeldus"
+
+#~ msgid "Incentive"
+#~ msgstr "Stiimul"
+
+#~ msgid "Restrictions"
+#~ msgstr "Piirangud"
+
+#~ msgid "Offer deleted!"
+#~ msgstr "Pakkumine on kustutatud!"
+
+#~ msgid "Offer is already suspended"
+#~ msgstr "Pakkumine on juba deaktiveeritud"
+
+#~ msgid "Offer suspended"
+#~ msgstr "Pakkumine on deaktiveeritud"
+
+#~ msgid "Offer cannot be reinstated as it is not currently suspended"
+#~ msgstr "Pakkumist ei saa ennsistada kuna see ei ole deaktiveeritud"
+
+#~ msgid "Offer reinstated"
+#~ msgstr "Pakkumine on aktiveeritud"
+
+#~ msgid "Orders dashboard"
+#~ msgstr "Tellimuste töölaud"
+
+#~ msgid "Orders placed since %s"
+#~ msgstr "Tellimused alates %s"
+
+#~ msgid "Orders placed until %s"
+#~ msgstr "Tellimused kuni %s"
+
+#~ msgid "Customer name"
+#~ msgstr "Kliendi nimi"
+
+#~ msgid "Product name"
+#~ msgstr "Toote nimi"
+
+#~ msgid "Partner SKU"
+#~ msgstr "Tarnija kood"
+
+#~ msgid "Date from"
+#~ msgstr "Alates kuupäevast "
+
+#~ msgid "Date to"
+#~ msgstr "Kuni kuupäevani"
+
+#~ msgid "Voucher code"
+#~ msgstr "Kinkekaardi kood"
+
+#~ msgid "Payment method"
+#~ msgstr "Makseviis"
+
+#~ msgid "HTML"
+#~ msgstr "Sisu HTML"
+
+#~ msgid "CSV"
+#~ msgstr "CSV"
+
+#~ msgid "Get results as"
+#~ msgstr "Tulemused kui"
+
+#~ msgid "New order status"
+#~ msgstr "Uue tellimuse staatus"
+
+#~ msgid "Order number starts with \"{order_number}\""
+#~ msgstr "Tellimused, mis algavad \"{order_number}\""
+
+#~ msgid "Customer name matches \"{customer_name}\""
+#~ msgstr "Kliendi nimiele vastab \"{customer_name}\""
+
+#~ msgid "Product name matches \"{product_name}\""
+#~ msgstr "Toote nimele vastab \"{product_name}\""
+
+#~ msgid "Includes an item with UPC \"{upc}\""
+#~ msgstr "Kaastab artikkli  \"{upc}\""
+
+#~ msgid "Confirm Password"
+#~ msgstr "Parooli kinnitus"
+
+#~ msgid "Number of Orders"
+#~ msgstr "Tellimuste arv"
+
+#~ msgid "Conditions"
+#~ msgstr "Tingimused"
+
+#~ msgid "Is public?"
+#~ msgstr "On avalik?"
+
+#~ msgid "Included Products"
+#~ msgstr "Hõlmatud Tooted"
+
+#~ msgid "Excluded Products"
+#~ msgstr "Välistatud Kategooriad"
+
+#~ msgid "Included Categories"
+#~ msgstr "Hõlmatud Kategooriad"
+
+#~ msgid "File Path"
+#~ msgstr "Faili asukoht"
+
+#~ msgid "Size"
+#~ msgstr "Suurus"
+
+#~ msgid "Uploaded By"
+#~ msgstr "Üleslaadija"
+
+#~ msgid "Date Uploaded"
+#~ msgstr "Üleslaadimiskuupäev"
+
+#~ msgid "Error Message"
+#~ msgstr "Veateade"
+
+#~ msgid "Message"
+#~ msgstr "Sõnum"
+
+#~ msgid "Bankcard"
+#~ msgstr "Pangakaart"
+
+#~ msgid "Display Order"
+#~ msgstr "Esitamise järjekord"
+
+#~ msgid "No shipping required"
+#~ msgstr "Tarne pole vajalik"
+
+#~ msgid "This field is required"
+#~ msgstr "See väli on kohustuslik"
+
+#~ msgid "This is not a valid local phone format for %s."
+#~ msgstr "See ei ole korrektne %s numbriformaat."
+
+#~ msgid "This is not a valid local or international phone format."
+#~ msgstr "See ei ole korrektne kohalik ega rahvusvaheline telefoninumber."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <span class=\"pull-left\">Product is in <a href="
+#~ "\"%(url)s\">'%(name)s'</a> wishlist.</span>\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    <span class=\"pull-left\">Toode on <a href=\"%(url)s"
+#~ "\">'%(name)s'</a> soovnimekirjas.</span>\n"
+#~ "                "
+
+#~ msgid "No shipping address required."
+#~ msgstr "Tarneaadress pole vajalik."
+
+#~ msgid "Contact number"
+#~ msgstr "Kontaktnumber"
+
+#~ msgid "Notes"
+#~ msgstr "Märkmed"
+
+#~ msgid "Estimated dispatch date"
+#~ msgstr "Eeldatav teelepanemise aeg"
+
+#~ msgid "Line price excl. tax"
+#~ msgstr "Rea summa maksudeta"
+
+#~ msgid "Line price incl. tax"
+#~ msgstr "Rea summa maksudega"
+
+#~ msgid "Basket total (inc. tax)"
+#~ msgstr "Ostukorvi hind (maksudega)"
+
+#~ msgid "Email history"
+#~ msgstr "E-posti ajalugu"
+
+#~ msgid "Date sent"
+#~ msgstr "Saatmiskuupäev"
+
+#~ msgid "No emails found"
+#~ msgstr "E-kirju ei leitud"
+
+#~ msgid "Thanks for using our site!"
+#~ msgstr "Täname meid kasutamast!"
+
+#~ msgid "The %(name)s team"
+#~ msgstr "%(name)s meeskond"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately "
+#~ "and correct your email address:"
+#~ msgstr ""
+#~ "Kui teie seda ei muutnud, palun lähtestage oma parool nii kiiresti kui "
+#~ "võimalik ja taastage õige e-posti aadress."
+
+#~ msgid ""
+#~ "If it was you who changed the email address, you can ignore this email."
+#~ msgstr ""
+#~ "Kui te seda muudatust soovisite, võite rahulikult antud kirja ignoreerida."
+
+#~ msgid ""
+#~ "You're receiving this email because your email address has been changed "
+#~ "to %(email)s."
+#~ msgstr "Saite selle kirja, kuna teie e-posti aadress muudeti %(email)s-ks."
+
+#~ msgid "Your email address has changed at %(site_name)s."
+#~ msgstr "Teie e-posti aadress saidil %(site_name)s on muutunud."
+
+#~ msgid "Hello,"
+#~ msgstr "Tere,"
+
+#~ msgid "Your order contains:"
+#~ msgstr "Teie tellimus sisaldab:"
+
+#~ msgid "Basket total:"
+#~ msgstr "Ostukorvi summa:"
+
+#~ msgid "Shipping:"
+#~ msgstr "Tarne:"
+
+#~ msgid "Order Total:"
+#~ msgstr "Tellimuse summa:"
+
+#~ msgid "Shipping address:"
+#~ msgstr "Tarneaadress:"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "We are pleased to confirm your order %(order_number)s has been received "
+#~ "and\n"
+#~ "will be processed shortly."
+#~ msgstr ""
+#~ "Tere,\n"
+#~ "\n"
+#~ "Meil on heameel kinnitada et teie tellimus %(order_number)s on vastu "
+#~ "võetud\n"
+#~ "ning töötlemisel."
+
+#~ msgid "quantity:"
+#~ msgstr "kogus:"
+
+#~ msgid "price:"
+#~ msgstr "hind:"
+
+#~ msgid "The team"
+#~ msgstr "Meeskond"
+
+#~ msgid "Confirmation of order %(number)s"
+#~ msgstr "Tellimuse %(number)s kinnitus"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately:"
+#~ msgstr ""
+#~ "Kui teie seda ei teinud, siis palun lähtestage oma parool nii kiiresti "
+#~ "kui võimalik:"
+
+#~ msgid "Otherwise, you can ignore this email."
+#~ msgstr "Vastasel juhul võite seda kirja ignoreerida."
+
+#~ msgid ""
+#~ "\n"
+#~ "You're receiving this email because your password has been changed at "
+#~ "%(name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Saite selle kirja, kuna teie %(name)s parool muudeti.\n"
+
+#~ msgid "Your password changed at %(site_name)s."
+#~ msgstr "Teie parool saidil %(site_name)s on muutunud."
+
+#~ msgid ""
+#~ "You're receiving this e-mail because you requested a password reset for "
+#~ "your user account at %(name)s."
+#~ msgstr "Saite selle kirja kuna soovisite oma %(name)s parooli taastada."
+
+#~ msgid "Please go to the following page and choose a new password:"
+#~ msgstr "Valige omale uus parool järgmisel lehel:"
+
+#~ msgid "Resetting your password at %(site_name)s."
+#~ msgstr "Parooli taastamine saidil %(site_name)s."
+
+#~ msgid "Thank you for registering."
+#~ msgstr "Täname registreerumast."
+
+#~ msgid "Products you recently viewed"
+#~ msgstr "Teie hiljuti vaadatud tooted"
+
+#~ msgid "Log In"
+#~ msgstr "Logi sisse"
+
+#~ msgid "I've forgotten my password"
+#~ msgstr "Unustasin parooli"
+
+#~ msgid "Logging in..."
+#~ msgstr "Login sisse..."
+
+#~ msgid "Register"
+#~ msgstr "Registreeru"
+
+#~ msgid "Registering..."
+#~ msgstr "Registreerin..."
+
+#~ msgid "Notifications inbox"
+#~ msgstr "Teavituste postkast"
+
+#~ msgid "Sender"
+#~ msgstr "Saatja"
+
+#~ msgid "Return to notifications inbox"
+#~ msgstr "Tagasi teavituste postkasti"
+
+#~ msgctxt "noun"
+#~ msgid "Archive"
+#~ msgstr "Arhiiv"
+
+#~ msgid "View"
+#~ msgstr "Vaade"
+
+#~ msgctxt "verb"
+#~ msgid "Archive"
+#~ msgstr "Arhiveeri"
+
+#~ msgid "Archiving..."
+#~ msgstr "Arhiveerin..."
+
+#~ msgid "There are no notifications to display."
+#~ msgstr "Teavitusi ei ole."
+
+#~ msgid "Order history"
+#~ msgstr "Tellimuse ajalugu"
+
+#~ msgid "Dispatch date"
+#~ msgstr "Teelepanemiskuupäev"
+
+#~ msgid "Re-ordering..."
+#~ msgstr "Tellin uuesti..."
+
+#~ msgid "Re-order"
+#~ msgstr "Kordustellimus"
+
+#~ msgid "Not available anymore"
+#~ msgstr "Pole enam saadaval"
+
+#~ msgid "Filtering..."
+#~ msgstr "Filtreerin..."
+
+#~ msgid "Filter results"
+#~ msgstr "Filtreerimistulemused"
+
+#~ msgid "Reset"
+#~ msgstr "Lähtesta"
+
+#~ msgid "Total inc tax"
+#~ msgstr "Summa maksudega"
+
+#~ msgid "No orders match your search."
+#~ msgstr "Otsingule vastavaid tellimusi pole."
+
+#~ msgid "You haven't placed any orders."
+#~ msgstr "Te pole ühtegi tellimust esitanud."
+
+#~ msgid "Change password"
+#~ msgstr "Muuda parooli"
+
+#~ msgid "Edit profile"
+#~ msgstr "Muuda profiili"
+
+#~ msgid "Warning"
+#~ msgstr "Hoiatus"
+
+#~ msgid "Delete?"
+#~ msgstr "Kustuta?"
+
+#~ msgid "Remove product"
+#~ msgstr "Eemalda toode"
+
+#~ msgid "Action"
+#~ msgstr "Tegevus"
+
+#~ msgid "View product"
+#~ msgstr "Vaata toodet"
+
+#~ msgid "Update quantities"
+#~ msgstr "Uuenda koguseid"
+
+#~ msgid "Your wish list is empty."
+#~ msgstr "Sinu soovinimekiri on tühi."
+
+#~ msgid "Create"
+#~ msgstr "Lisa"
+
+#~ msgid "What should your new wish list be called?"
+#~ msgstr "Mis võiks olla teie soovinimekirja pealkiri?"
+
+#~ msgid "Number of products"
+#~ msgstr "Toodete arv"
+
+#~ msgid "Wish list settings"
+#~ msgstr "Soovinimekirja sätted"
+
+#~ msgid "Sections"
+#~ msgstr "Muuda allüksust"
+
+#~ msgid "Delete category?"
+#~ msgstr "Kustuta kategooria?"
+
+#~ msgid "Delete category"
+#~ msgstr "Kustuta kategooria"
+
+#~ msgid "Create new category"
+#~ msgstr "Loo uus kategooria"
+
+#~ msgid "Edit category"
+#~ msgstr "Muuda kategooriat"
+
+#~ msgid "Add child category"
+#~ msgstr "Lisa alamkategooria"
+
+#~ msgid "Edit children"
+#~ msgstr "Muuda alamkategooriaid"
+
+#~ msgid "View on site"
+#~ msgstr "Vaata lehel"
+
+#~ msgid "Edit again"
+#~ msgstr "Muuda uuesti"
+
+#~ msgid "View it on the site"
+#~ msgstr "Vaata lehel"
+
+#~ msgid "Delete product type?"
+#~ msgstr "Kustuta tootetüüp?"
+
+#~ msgid "Delete product type"
+#~ msgstr "Kustuta tootetüüp"
+
+#~ msgid "Create product type"
+#~ msgstr "Lisa tootetüüp"
+
+#~ msgid "Product Class details"
+#~ msgstr "Tooteklassi detailid"
+
+#~ msgid "Create new product type"
+#~ msgstr "Lisa uus tootetüüp"
+
+#~ msgid "Product types"
+#~ msgstr "Tootetüübid"
+
+#~ msgid "Requires shipping"
+#~ msgstr "Tarne vajalik"
+
+#~ msgid "Track stock?"
+#~ msgstr "Jälgi laoseisu?"
+
+#~ msgid "Edit product type"
+#~ msgstr "Muuda tootetüüpi"
+
+#~ msgid "There are no product types."
+#~ msgstr "Tootetüüpe pole"
+
+#~ msgid "Create new product"
+#~ msgstr "Lisa uus toode"
+
+#~ msgid "New Product"
+#~ msgstr "Uus Toode"
+
+#~ msgid "Search Products"
+#~ msgstr "Otsi Tooteid"
+
+#~ msgid "Searching..."
+#~ msgstr "Otsin..."
+
+#~ msgid "Product details"
+#~ msgstr "Toote detailid"
+
+#~ msgid "Images"
+#~ msgstr "Pildid"
+
+#~ msgid "Stock and pricing"
+#~ msgstr "Laoseis ja hinnastamine"
+
+#~ msgid "Product Type:"
+#~ msgstr "Toote Tüüp:"
+
+#~ msgid "Num in stock"
+#~ msgstr "Laoseis"
+
+#~ msgid "Low stock threshold"
+#~ msgstr "Madala laoseisu hoiatuspiir"
+
+#~ msgid "Price (excl tax)"
+#~ msgstr "Hind (maksudeta)"
+
+#~ msgid "Retail price"
+#~ msgstr "Väljamüügihind"
+
+#~ msgid "Add variant"
+#~ msgstr "Lisa variant"
+
+#~ msgid "This product does not have any variants."
+#~ msgstr "Sellele tootel pole erinevaid variante"
+
+#~ msgid "One can't add variants to this product at this point."
+#~ msgstr "Hetkel ei saa sellele tootele erivariante lisada."
+
+#~ msgid "This is likely because this product still has stock records."
+#~ msgstr ""
+#~ "Tõenäoliselt on põhjus selles, et tootel on endiselt kehtiv laoseis."
+
+#~ msgid "Save and add another variant"
+#~ msgstr "Salvesta ja lisa veel üks variant"
+
+#~ msgid "Save and continue editing"
+#~ msgstr "Salvesta ja jätka muutmist"
+
+#~ msgid "All"
+#~ msgstr "Kõik"
+
+#~ msgid "No stock alerts found."
+#~ msgstr "Laoseisu teavitusi ei leitud."
+
+#~ msgid "Preview"
+#~ msgstr "Eelvaade"
+
+#~ msgid "Edit email"
+#~ msgstr "Muuda e-posti aadressi"
+
+#~ msgid "Email content"
+#~ msgstr "E-kirja sisu"
+
+#~ msgid "These fields are rendered using Django's template system."
+#~ msgstr "Neid välju kuvatakse Django mallisüsteemi abil."
+
+#~ msgid "You can use the following variables:"
+#~ msgstr "Võite kasutada järgnevaid muutujaid:"
+
+#~ msgid "The full name of the user (if they have one)"
+#~ msgstr "Kasutaja täisnimi (kui see on määratud)"
+
+#~ msgid "The user's email address"
+#~ msgstr "Kasutaja e-posti aadress"
+
+#~ msgid "View preview"
+#~ msgstr "Vaata eelvaadet"
+
+#~ msgid "or send a preview to:"
+#~ msgstr "või saada eelvaade adressaadile:"
+
+#~ msgid "Sending..."
+#~ msgstr "Saadan..."
+
+#~ msgid "Send preview email"
+#~ msgstr "Saada eelvaate e-kiri"
+
+#~ msgid "Body text"
+#~ msgstr "Sisutekst"
+
+#~ msgid "Your Store Statistics"
+#~ msgstr "Teie E-poe Statistika"
+
+#~ msgid "Total Orders"
+#~ msgstr "Kokku tellimusi"
+
+#~ msgid "New Customers"
+#~ msgstr "Uusi Kliente"
+
+#~ msgid "Total Customers"
+#~ msgstr "Kokku Kliente"
+
+#~ msgid "Total Products"
+#~ msgstr "Kokku Tooteid"
+
+#~ msgid "Latest Orders (last 24 hours)"
+#~ msgstr "Hiljutised Tellimused (viimased 24 tundi)"
+
+#~ msgid "Orders - Last 24 Hours"
+#~ msgstr "Tellimused - Viimased 24 Tundi"
+
+#~ msgid "Total orders"
+#~ msgstr "Kokku tellimusi"
+
+#~ msgid "Total lines"
+#~ msgstr "Kokku ridu"
+
+#~ msgid "Total revenue"
+#~ msgstr "Kokku käivet"
+
+#~ msgid "Average order costs"
+#~ msgstr "Keskmise tellimuse maksumus"
+
+#~ msgid "Manage"
+#~ msgstr "Halda"
+
+#~ msgid "Orders - All Time"
+#~ msgstr "Tellimused - Läbi Aja"
+
+#~ msgid "Total <em>open</em> baskets"
+#~ msgstr "Kokku <em>pooleli</em> ostukorve"
+
+#~ msgid "Total customers"
+#~ msgstr "Kokku kliente"
+
+#~ msgid "New customers"
+#~ msgstr "Uusi kliente"
+
+#~ msgid "View Stock Alerts"
+#~ msgstr "Vaata Laoseisu Hoiatusi"
+
+#~ msgid "Catalogue and stock"
+#~ msgstr "Kataloog ja laoseis"
+
+#~ msgid "Total products"
+#~ msgstr "Kokku tooteid"
+
+#~ msgid "Welcome"
+#~ msgstr "Tere tulemast"
+
+#~ msgid "Return to site"
+#~ msgstr "Naase lehele"
+
+#~ msgid "Log out"
+#~ msgstr "Logi välja"
+
+#~ msgid "Reinstating..."
+#~ msgstr "Taastan..."
+
+#~ msgid "Reinstate offer"
+#~ msgstr "Taasta pakkumine"
+
+#~ msgid "Suspending..."
+#~ msgstr "Tühistan..."
+
+#~ msgid "Suspend offer"
+#~ msgstr "Tühista pakkumine"
+
+#~ msgid "Offer currently available"
+#~ msgstr "Hetkel käimasolev pakkumine"
+
+#~ msgid "Total cost:"
+#~ msgstr "Hind kokku:"
+
+#~ msgid "Number of orders:"
+#~ msgstr "Tellimuste arv:"
+
+#~ msgid "Number of uses:"
+#~ msgstr "Kasutuskordade arv:"
+
+#~ msgid "Date created:"
+#~ msgstr "Loomise kuupäev:"
+
+#~ msgid "Product Options"
+#~ msgstr "Toote valikud"
+
+#~ msgid "Creating..."
+#~ msgstr "Lisan..."
+
+#~ msgid "Edit range"
+#~ msgstr "Muuda vahemikku"
+
+#~ msgid "return to range list"
+#~ msgstr "tagasi vahemike nimistusse"
+
+#~ msgid "Reporting Dashboard"
+#~ msgstr "Raportide Töölaud"
+
+#~ msgid "Reporting dashboard"
+#~ msgstr "Raportide töölaud"
+
+#~ msgid "Generating..."
+#~ msgstr "Genereerin..."
+
+#~ msgid "Generate report"
+#~ msgstr "Genereeri raport"
+
+#~ msgid "No results found."
+#~ msgstr "Tulemusi ei leitud."
+
+#~ msgid "Shipping methods"
+#~ msgstr "Tarnemeetodid"
+
+#~ msgid "Applies to countries"
+#~ msgstr "Kehtib riikidele"
+
+#~ msgid "Default weight (kg)"
+#~ msgstr "Vaikimisi kaal (kg)"
+
+#~ msgid "(Anonymous)"
+#~ msgstr "(Anonüümne)"
+
+#~ msgid "No alerts found."
+#~ msgstr "Teavitusi ei leitud."
+
+#~ msgid "General"
+#~ msgstr "Üldine"
+
+#~ msgid "Yes,No"
+#~ msgstr "Jah,Ei"
+
+#~ msgid "Superuser"
+#~ msgstr "Superkasutaja"
+
+#~ msgid "True,False"
+#~ msgstr "Tõene,Väär"
+
+#~ msgid "Staff"
+#~ msgstr "Personal"
+
+#~ msgid "Last login"
+#~ msgstr "Viimane sisselogimine"
+
+#~ msgid "Date joined"
+#~ msgstr "Liitumiskuupäev"
+
+#~ msgid "Products viewed"
+#~ msgstr "Vaadatud toodete arv"
+
+#~ msgid "Number of orders"
+#~ msgstr "Tellimuste arv"
+
+#~ msgid "Number of ordered items"
+#~ msgstr "Tellitud toodete arv"
+
+#~ msgid "Reviews written"
+#~ msgstr "Kirjutatud arvustusi"
+
+#~ msgid "Send password reset email"
+#~ msgstr "Saada e-kiri parooli lähtestamiseks"
+
+#~ msgid "Order Number"
+#~ msgstr "Tellimuse number"
+
+#~ msgid "Total value"
+#~ msgstr "Koguväärtus"
+
+#~ msgid "This customer has not placed any orders yet."
+#~ msgstr "See klient ei ole veel ühtegi tellimust esitanud."
+
+#~ msgid "This customer has not saved any addresses."
+#~ msgstr "See klient ei ole ühtegi aadressi salvestanud."
+
+#~ msgid "Product ID"
+#~ msgstr "Toote ID"
+
+#~ msgid "This customer has not written any reviews yet."
+#~ msgstr "See klient ei ole veel ühtegi arvustust kirjutanud."
+
+#~ msgid "No customers found."
+#~ msgstr "Kliente ei leitud."
+
+#~ msgid "Bulk Actions"
+#~ msgstr "Hulgitegevused"
+
+#~ msgid "Make active"
+#~ msgstr "Aktiveeri"
+
+#~ msgid "Make inactive"
+#~ msgstr "Desaktiveeri"
+
+#~ msgid "Delete voucher '%(name)s'?"
+#~ msgstr "Kas tõesti kustutan vautšeri '%(name)s'?"
+
+#~ msgid "Voucher details"
+#~ msgstr "Vautšeri detailid"
+
+#~ msgid "Recent orders"
+#~ msgstr "Hiljutised tellimused"
+
+#~ msgid "Edit voucher"
+#~ msgstr "Muuda vautšerit"
+
+#~ msgid "Create new voucher"
+#~ msgstr "Loo uus vautšer"
+
+#~ msgid "Num baskets"
+#~ msgstr "Ostukorvide arv"
+
+#~ msgid "Num orders"
+#~ msgstr "Tellimuste arv"
+
+#~ msgid "Inactive"
+#~ msgstr "Mitteaktiivne"
+
+#~ msgid "No vouchers found."
+#~ msgstr "Vautšereid ei leitud."
+
+#~ msgid "Sorry!"
+#~ msgstr "Vabandame!"
+
+#~ msgid "Return to previous page"
+#~ msgstr "Tagasi eelmisele lehele"
+
+#~ msgid "Go to homepage"
+#~ msgstr "Kodulehele"
+
+#~ msgid "Edit this page"
+#~ msgstr "Muuda seda lehte"
+
+#~ msgid "thumbnail"
+#~ msgstr "pisipilt"
+
+#~ msgid " This offer is no longer available."
+#~ msgstr "See pakkumine on aegunud."
+
+#~ msgid "Complete"
+#~ msgstr "Tehtud"
+
+#~ msgid "Log in"
+#~ msgstr "Logi sisse"
+
+#~ msgid "Enter a new password"
+#~ msgstr "Sisestage uus parool"
+
+#~ msgid ""
+#~ "Please enter your new password twice so we can verify you typed it in "
+#~ "correctly."
+#~ msgstr ""
+#~ "Sisestage uus parool topelt, et saaksime kindlad olla, et kirjutasite "
+#~ "selle õigesti."
+
+#~ msgid "Change my password"
+#~ msgstr "Muuda oma parooli"
+
+#~ msgid "Password reset unsuccessful"
+#~ msgstr "Parooli lähestamine oli edukas"
+
+#~ msgid "Password reset email sent"
+#~ msgstr "E-kiri parooli lähtestamiseks saadetud"
+
+#~ msgid "Email sent"
+#~ msgstr "E-kiri saadetud"
+
+#~ msgid ""
+#~ "\n"
+#~ "        We've e-mailed you instructions for resetting your password. You "
+#~ "should be receiving it shortly.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        Panime juhised parooli lähtestamiseks teele. Peaksite selle iga "
+#~ "hetk kätte saama.\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "        If you don't receive an email, please make sure you've entered "
+#~ "the address you registered with, and check\n"
+#~ "        your spam folder.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        Kui kirja ei saabunud, kontrollige palun, et sisestasite sama e-"
+#~ "posti aadressi, millega registreerisite ja vaadake ka oma "
+#~ "spämmikataloogi.\n"
+#~ "    "
+
+#~ msgid ""
+#~ "Forgotten your password? Enter your e-mail address below, and we'll e-"
+#~ "mail instructions for setting a new one."
+#~ msgstr ""
+#~ "Unustasid parooli? Sisesta oma e-posti aadress, et saaksime saata juhised "
+#~ "paroolivahetuseks."
+
+#~ msgid "Send reset email"
+#~ msgstr "Saada lähtestamisemail"
+
+#~ msgid "Refine your search"
+#~ msgstr "Täpsusta oma otsingut"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Products matching \"%(q)s\"\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        Tooted, mis vastavad \"%(q)s\"-le\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Found <strong>%(num_results)s</strong> results, "
+#~ "showing <strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Leitud <strong>%(num_results)s</strong> tulemust, "
+#~ "näitan vahemikus <strong>%(start)s</strong> kuni <strong>%(end)s</"
+#~ "strong>.\n"
+#~ "                "
+
+#~ msgid "Found <strong>0</strong> results."
+#~ msgstr "Leitud <strong>0</strong> tulemust."
+
+#~ msgid "Back to search results"
+#~ msgstr "Tagasi otsitulemuste juurde"
+
+#~ msgid "You need to select some %ss"
+#~ msgstr "Pead valima mõne %s"

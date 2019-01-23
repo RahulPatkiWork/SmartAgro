@@ -1,0 +1,3586 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Costas Basdekis <costas@basdekis.io>, 2014
+# George Giannoulopoulos <vdotoree@yahoo.gr>, 2014
+# Eleni Lixourioti <inelegr88@gmail.com>, 2013
+# Eleni Lixourioti <inelegr88@gmail.com>, 2013
+# Eleni Lixourioti <inelegr88@gmail.com>, 2013
+# Konstantinos Metaxas <kmetaxas@gmail.com>, 2016-2018
+# George Giannoulopoulos <vdotoree@yahoo.gr>, 2014-2015
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-11 08:36+0000\n"
+"Last-Translator: Oscar Bot <maik.hoepfel@tangentsnowball.com>\n"
+"Language-Team: Greek (Greece) (http://www.transifex.com/codeinthehole/django-"
+"oscar/language/el_GR/)\n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr "Πίνακας ελέγχου"
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr "Κατάλογος"
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "Προϊόντα"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr "Τύποι Προϊόντων"
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr "Σειρές"
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr "Ειδοποιήσεις χαμηλού στοκ"
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr "Επιλογές"
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr "Εκπλήρωση"
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "Παραγγελίες"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr "Στατιστικά"
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr "Συνεργάτες"
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr "Πελάτες"
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr "Αιτήσεις ειδοποιήσεων στοκ"
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr "Προσφορές"
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "Κουπόνια"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr "Περιεχόμενο"
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr "Μπλόκ περιεχομένου"
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr "Μπλόκ περιεχομένου ανά σελίδα"
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr "Σελίδες"
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr "Πρότυπα Email"
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr "Κριτικές"
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr "Αναφορές"
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr "Τύπος"
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr "Βαθμολογία"
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr "Εύρος τιμών"
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr "0 ως 20"
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr "20 με 40"
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr "40 με 60"
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr "60+"
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+#, fuzzy
+#| msgid "Catalogue"
+msgid "Catalan"
+msgstr "Κατάλογος"
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+msgid "German"
+msgstr ""
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr "Λογαριασμός"
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr "Αποσύνδεση"
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr ""
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "Καλάθι"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr "Περιήγηση καταστήματος"
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "Όλα τα προϊόντα"
+
+#~ msgid "Mr"
+#~ msgstr "Κος"
+
+#~ msgid "Miss"
+#~ msgstr "Δεσποινίς"
+
+#~ msgid "Mrs"
+#~ msgstr "Κα"
+
+#~ msgid "Ms"
+#~ msgstr "Κα"
+
+#~ msgid "Dr"
+#~ msgstr "Δρ"
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "Τίτλος"
+
+#~ msgid "First name"
+#~ msgstr "Όνομα"
+
+#~ msgid "Last name"
+#~ msgstr "Επίθετο"
+
+#~ msgid "First line of address"
+#~ msgstr "Πρώτη γραμμή διεύθυνσης"
+
+#~ msgid "Second line of address"
+#~ msgstr "Δεύτερη γραμμή διεύθυνσης"
+
+#~ msgid "Third line of address"
+#~ msgstr "Τρίτη γραμμή διεύθυνσης"
+
+#~ msgid "City"
+#~ msgstr "Πόλη"
+
+#~ msgid "State/County"
+#~ msgstr "Νομός/Διαμέρισμα"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "Ταχυδρομικός κώδικας"
+
+#~ msgid "Country"
+#~ msgstr "Χώρα"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "Φράση αναζήτησης - μόνο για αναζήτηση σε διευθύνσεις"
+
+#~ msgid "Address"
+#~ msgstr "Διεύθυνση"
+
+#~ msgid "Addresses"
+#~ msgstr "Διευθύνσεις"
+
+#~ msgid "Addresses in %(country)s require a valid postcode"
+#~ msgstr ""
+#~ "Διευθύνσεις στην χώρα '%(country)s' απαιτούν έγκυρο ταχυδρομικό κώδικα"
+
+#~ msgid "The postcode '%(postcode)s' is not valid for %(country)s"
+#~ msgstr ""
+#~ "Ο ταχυδρομικός κώδικας '%(postcode)s' δεν είναι έγκυρος, γιατ τη χώρα "
+#~ "'%(country)s'"
+
+#~ msgid "ISO 3166-1 alpha-2"
+#~ msgstr "ISO 3166-1 alpha-2"
+
+#~ msgid "ISO 3166-1 alpha-3"
+#~ msgstr "ISO 3166-1 alpha-3"
+
+#~ msgid "ISO 3166-1 numeric"
+#~ msgstr "ISO 3166-1 numeric"
+
+#~ msgid "Country name"
+#~ msgstr "Όνομα χώρας"
+
+#~ msgid "Official name"
+#~ msgstr "Επίσημο όνομα"
+
+#~ msgid "Display order"
+#~ msgstr "Προβολή Παραγγελίας"
+
+#~ msgid "Higher the number, higher the country in the list."
+#~ msgstr "Όσο πιο μεγάλος ο αριθμός, τόσο πιο ψηλά η χώρα στη λίστα"
+
+#~ msgid "Is shipping country"
+#~ msgstr "Είναι χώρα αποστολής"
+
+#~ msgid "Countries"
+#~ msgstr "Χώρες"
+
+#~ msgid "Phone number"
+#~ msgstr "Τηλέφωνο"
+
+#~ msgid "In case we need to call you about your order"
+#~ msgstr "Σε περίπτωση που χρειαστεί να σας καλέσουμε για την παραγγελία σας"
+
+#~ msgid "Instructions"
+#~ msgstr "Οδηγίες"
+
+#~ msgid "Tell us anything we should know when delivering your order."
+#~ msgstr ""
+#~ "Πείτε μας οτιδήποτε θα πρέπει να ξέρουμε για την παράδοση της παραγγελίας "
+#~ "σας"
+
+#~ msgid "Shipping address"
+#~ msgstr "Διεύθυνση αποστολής"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "Διευθύνσεις αποστολής"
+
+#~ msgid "User"
+#~ msgstr "Χρήστης"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "Προεπιλεγμένη διεύθυνση αποστολής;"
+
+#~ msgid "Default billing address?"
+#~ msgstr "Προεπιλεγμένη διεύθυνση τιμολογίου;"
+
+#~ msgid "Date Created"
+#~ msgstr "Ημερομηνία Δημιουργίας"
+
+#~ msgid "User address"
+#~ msgstr "Διεύθυνση χρήστη"
+
+#~ msgid "User addresses"
+#~ msgstr "Διευθύνσεις χρήστη"
+
+#~ msgid "This address is already in your address book"
+#~ msgstr "Αυτή η διεύθυνση υπάρχει ήδη στο βιβλίο διευθύνσεων σας"
+
+#~ msgid "Billing address"
+#~ msgstr "Διεύθυνση τιμολογίου"
+
+#~ msgid "Billing addresses"
+#~ msgstr "Διευθύνσεις τιμολογίου"
+
+#~ msgid "Partner"
+#~ msgstr "Συνεργάτης"
+
+#~ msgid "Partner address"
+#~ msgstr "Διεύθυνση συνεργάτη"
+
+#~ msgid "Partner addresses"
+#~ msgstr "Διευθύνσεις συνεργάτη"
+
+#~ msgid "Product"
+#~ msgstr "Προϊόν"
+
+#~ msgid "Views"
+#~ msgstr "Προβολές"
+
+#~ msgid "Basket Additions"
+#~ msgstr "Προσθήκες στο Καλάθι"
+
+#~ msgid "Purchases"
+#~ msgstr "Αγορές"
+
+#~ msgid "Score"
+#~ msgstr "Βαθμολογία"
+
+#~ msgid "Product record"
+#~ msgstr "Στοιχεία προϊόντος"
+
+#~ msgid "Product records"
+#~ msgstr "Στοιχεία προϊόντων"
+
+#~ msgid "Record for '%s'"
+#~ msgstr "Στοιχεία για '%s'"
+
+#~ msgid "Product Views"
+#~ msgstr "Προβολές Προϊόντος"
+
+#~ msgid "Order Lines"
+#~ msgstr "Εγγραφές Παραγγελίας"
+
+#~ msgid "Order Items"
+#~ msgstr "Προϊόντα παραγγελίας"
+
+#~ msgid "Total Spent"
+#~ msgstr "Τελικό ποσό που ξοδεύτηκε"
+
+#~ msgid "Last Order Date"
+#~ msgstr "Ημερομηνία Τελευταίας Παραγγελίας"
+
+#~ msgid "User record"
+#~ msgstr "Μητρώο χρήστη"
+
+#~ msgid "User records"
+#~ msgstr "Μητρώα χρηστών"
+
+#~ msgid "User product view"
+#~ msgstr "Προβολή προϊόντως από χρήστη"
+
+#~ msgid "User product views"
+#~ msgstr "Προβολές προϊόντως από χρήστες"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "Ο/Η %(user)s εμφάνισε το προϊόν '%(product)s'"
+
+#~ msgid "Search term"
+#~ msgstr "Όρος αναζήτησης"
+
+#~ msgid "User search query"
+#~ msgstr "Φράση αναζήτησης χρήστη"
+
+#~ msgid "User search queries"
+#~ msgstr "Όροι αναζήτησης χρήστη"
+
+#~ msgid "%(user)s searched for '%(query)s'"
+#~ msgstr "Ο/Η %(user)s έψαξε για '%(query)s'"
+
+#~ msgid "Basket additions"
+#~ msgstr "Προσθήκες στο καλάθι"
+
+#~ msgid "Product analytics"
+#~ msgstr "Analytics προϊόντων"
+
+#~ msgid "Name"
+#~ msgstr "Όνομα"
+
+#~ msgid "Date registered"
+#~ msgstr "Ημερομηνία εγγραφής"
+
+#~ msgid "Product views"
+#~ msgstr "Προβολές προϊόντος"
+
+#~ msgid "Order lines"
+#~ msgstr "Εγγραφές παραγγελίας"
+
+#~ msgid "Order items"
+#~ msgstr "Προϊόντα παραγγελίας"
+
+#~ msgid "Total spent"
+#~ msgstr "Τελικό ποσό που ξοδεύτηκε"
+
+#~ msgid "Date of last order"
+#~ msgstr "Ημερομηνία τελευταίας παραγγελίας"
+
+#~ msgid "User analytics"
+#~ msgstr "Analytics χρηστών"
+
+#~ msgid "Owner"
+#~ msgstr "Ιδιοκτήτης"
+
+#~ msgid "Open - currently active"
+#~ msgstr "Ανοιχτή - ενεργή"
+
+#~ msgid "Merged - superceded by another basket"
+#~ msgstr "Συγχωνεύτηκε - υποκαταστάθηκε από άλλο καλάθι"
+
+#~ msgid "Saved - for items to be purchased later"
+#~ msgstr "Αποθηκεύτηκε - προϊόντα για μετέπειτα παραγγελία"
+
+#~ msgid "Frozen - the basket cannot be modified"
+#~ msgstr "Κλειδωμένο - το καλάθι δε μπορεί να τροποποιηθεί"
+
+#~ msgid "Submitted - has been ordered at the checkout"
+#~ msgstr "Καταχωρημένο - έγινε παραγγελία στο checkout"
+
+#~ msgid "Status"
+#~ msgstr "Κατάσταση"
+
+#~ msgid "Date created"
+#~ msgstr "Ημερομηνία δημιουργίας"
+
+#~ msgid "Date merged"
+#~ msgstr "Ημερομηνία συγχώνευσης"
+
+#~ msgid "Date submitted"
+#~ msgstr "Ημερομηνία καταχώρησης"
+
+#~ msgid "Baskets"
+#~ msgstr "Καλάθια"
+
+#~ msgid "%(status)s basket (owner: %(owner)s, lines: %(num_lines)d)"
+#~ msgstr ""
+#~ "Κατάσταση καλαθιού %(status)s  (ιδιοκτήτης: %(owner)s, εγγραφές: "
+#~ "%(num_lines)d)"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order."
+#~ msgstr ""
+#~ "Λόγω των τεχνικών περιορισμών δεν είμαστε σε θέση να αποστείλουμε "
+#~ "περισσότερα από %(threshold)d αντικείμενα σε μια παραγγελία."
+
+#~ msgid "Line Reference"
+#~ msgstr "Αναφορά Εγγραφής"
+
+#~ msgid "Quantity"
+#~ msgstr "Ποσότητα"
+
+#~ msgid "Currency"
+#~ msgstr "Ισοτιμία"
+
+#~ msgid "Price excl. Tax"
+#~ msgstr "Τιμή χωρίς Φ.Π.Α."
+
+#~ msgid "Price incl. Tax"
+#~ msgstr "Τιμή με Φ.Π.Α."
+
+#~ msgid "Basket line"
+#~ msgstr "Εγγραφή καλαθιού"
+
+#~ msgid "Basket lines"
+#~ msgstr "Εγγραφές καλαθιού"
+
+#~ msgid ""
+#~ "Basket #%(basket_id)d, Product #%(product_id)d, quantity %(quantity)d"
+#~ msgstr ""
+#~ "Καλάθι #%(basket_id)d, προϊόν #%(product_id)d, ποσότητα %(quantity)d"
+
+#~ msgid "You cannot modify a %s basket"
+#~ msgstr "Δεν μπορείτε να τροποποιήσετε ένα  %s καλάθι"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has increased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "Η τιμή του '%(product)s' αυξήθηκε από %(old_price)s σε %(new_price)s από "
+#~ "τότε που το προσθέσατε στο καλάθι σας"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has decreased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "Η τιμή του '%(product)s' μειώθηκε από %(old_price)s σε %(new_price)s από "
+#~ "τότε που το προσθέσατε στο καλάθι σας"
+
+#~ msgid "Line"
+#~ msgstr "Εγγραφή"
+
+#~ msgid "Option"
+#~ msgstr "Επιλογή"
+
+#~ msgid "Value"
+#~ msgstr "Τιμή"
+
+#~ msgid "Line attribute"
+#~ msgstr "Xαρακτηριστικό εγγραφής"
+
+#~ msgid "Line attributes"
+#~ msgstr "Xαρακτηριστικά εγγραφής"
+
+#~ msgid "Save for Later"
+#~ msgstr "Αποθήκευση για αργότερα"
+
+#~ msgid "Move to Basket"
+#~ msgstr "Μεταφορά στο καλάθι"
+
+#~ msgid "Code"
+#~ msgstr "Κωδικός"
+
+#~ msgid "Variant"
+#~ msgstr "Παραλλαγή"
+
+#~ msgid "Please select a valid product"
+#~ msgstr "Παρακαλώ επιλέξτε ένα έγκυρο προϊόν"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order. Your basket currently has %(basket)d "
+#~ "items."
+#~ msgstr ""
+#~ "Λόγω των τεχνικών περιορισμών δεν είμαστε σε θέση να αποστείλουμε "
+#~ "περισσότερα από %(threshold)d αντικείμενα σε μια παραγγελία. Το καλάθι "
+#~ "σας έχει αυτή τη στιγμή %(basket)d αντικείμενα."
+
+#~ msgid ""
+#~ "This product cannot be added to the basket as its currency isn't the same "
+#~ "as other products in your basket"
+#~ msgstr ""
+#~ "Αυτό το προϊόν δεν μπορεί να προστεθεί στο καλάθι σας καθώς η τιμή του "
+#~ "είναι σε διαφορετικό νόμισμα από αυτήν των υπόλοιπων προϊόντων στο καλάθι "
+#~ "σας"
+
+#~ msgid ""
+#~ "We have merged a basket from a previous session. Its contents might have "
+#~ "changed."
+#~ msgstr ""
+#~ "Συγχωνεύσαμε ένα καλάθι από προηγούμενη σύνδεση. Τα περιεχόμενα του ίσως "
+#~ "έχουν αλλάξει."
+
+#~ msgid "User ID"
+#~ msgstr "ID Χρήστη"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Basket status"
+#~ msgstr "Κατάσταση καλαθιού"
+
+#~ msgid "Num lines"
+#~ msgstr "Αριθμός εγγραφών"
+
+#~ msgid "Num items"
+#~ msgstr "Αριθμός αντικειμένων"
+
+#~ msgid "Date of creation"
+#~ msgstr "Ημερομηνία δημιουργίας"
+
+#~ msgid "Time since creation"
+#~ msgstr "Χρόνος απο την δημιουργία"
+
+#~ msgid "Open baskets"
+#~ msgstr "Ανοιχτά καλάθια αγορών"
+
+#~ msgid "Time between creation and submission"
+#~ msgstr "Ενδιάμεσος χρόνος μεταξύ δημιουργίας και αποστολής"
+
+#~ msgid "Submitted baskets"
+#~ msgstr "Αποσταλθέντα καλάθια"
+
+#~ msgid "You can't save an item for later if you're not logged in!"
+#~ msgstr ""
+#~ "Δεν μπορείτε να αποθηκεύσετε ένα στοιχείο για αργότερα αν δεν είστε "
+#~ "συνδεδεμένοι!"
+
+#~ msgid ""
+#~ "Your basket couldn't be updated. Please correct any validation errors "
+#~ "below."
+#~ msgstr "Το καλάθι δεν ενημερώθηκε. Διορθώστε τα παρακάτω λάθη."
+
+#~ msgid "The '%(code)s' voucher has expired"
+#~ msgstr "Το κουπόνι '%(code)s' έχει λήξει"
+
+#~ msgid "The '%(code)s' voucher is not active"
+#~ msgstr "Το κουπόνι '%(code)s' δεν είναι ενεργό"
+
+#~ msgid "Your basket does not qualify for a voucher discount"
+#~ msgstr "Το καλάθι σας δεν πληροί τις προϋποθέσεις για εκπτωτικά κουπόνια"
+
+#~ msgid "Voucher '%(code)s' added to basket"
+#~ msgstr "Το κουπόνι '%(code)s' προσθέθηκε στο καλάθι"
+
+#~ msgid "You have already added the '%(code)s' voucher to your basket"
+#~ msgstr "Έχετε ήδη προσθέσει το κουπόνι '%(code)s' στο καλάθι"
+
+#~ msgid "No voucher found with code '%(code)s'"
+#~ msgstr "Δεν βρέθηκε κουπόνι με κωδικό '%(code)s'"
+
+#~ msgid "Please enter a voucher code"
+#~ msgstr "Παρακαλώ εισάγετε έναν κωδικό κουπονιού"
+
+#~ msgid "Voucher '%s' removed from basket"
+#~ msgstr "Το κουπόνι '%s' αφαιρέθηκε απο το καλάθι αγορών"
+
+#~ msgid "Slug"
+#~ msgstr "Λεκτικό URL (Slug)"
+
+#~ msgid "Requires shipping?"
+#~ msgstr "Απαιτεί μεταφορικά;"
+
+#~ msgid "Track stock levels?"
+#~ msgstr "Παρακολούθηση κατάστασης στοκ;"
+
+#~ msgid "Product class"
+#~ msgstr "Είδος προϊόντος"
+
+#~ msgid "Product classes"
+#~ msgstr "Κλάσεις προϊόντων"
+
+#~ msgid "Description"
+#~ msgstr "Περιγραφή"
+
+#~ msgid "Image"
+#~ msgstr "Εικόνα"
+
+#~ msgid "Category"
+#~ msgstr "Κατηγορία"
+
+#~ msgid "Product category"
+#~ msgstr "Κατηγορία προϊόντος"
+
+#~ msgid "Product categories"
+#~ msgstr "Κατηγορίες προϊότων"
+
+#~ msgid "Stand-alone product"
+#~ msgstr "Αυτόνομο προϊόν"
+
+#~ msgid "Parent product"
+#~ msgstr "Γονικό προϊόν"
+
+#~ msgid "Child product"
+#~ msgstr "Θυγατρικό προϊόν"
+
+#~ msgid "Product structure"
+#~ msgstr "Δομή προϊόντος"
+
+#~ msgid "UPC"
+#~ msgstr "UPC"
+
+#~ msgid ""
+#~ "Universal Product Code (UPC) is an identifier for a product which is not "
+#~ "specific to a particular  supplier. Eg an ISBN for a book."
+#~ msgstr ""
+#~ "Ο Καθολικός Κωδικός Προϊόντος (UPC) είναι ένας κωδικός για ένα προϊόν που "
+#~ "δεν είναι συνδεδεμένος με έναν προμηθευτή, πχ το ISBN για ένα βιβλίο"
+
+#~ msgid ""
+#~ "Only choose a parent product if you're creating a child product.  For "
+#~ "example if this is a size 4 of a particular t-shirt.  Leave blank if this "
+#~ "is a stand-alone product (i.e. there is only one version of this product)."
+#~ msgstr ""
+#~ "Διαλέξτε ένα γονικό προϊόν μόνο αν δημιοργήτε ένα θυγατρικό προϊόν. Για "
+#~ "παράδειγμα, αν αυτό είναι το νούμερο 4 για μια συγκεκριμένη μπλούζα. "
+#~ "Αφήστε κενό αν είναι ένα ανυτόνομο προϊόν (πχ υπάρχει μόνο μια έκδοση "
+#~ "αφτού του προϊόντος)"
+
+#~ msgctxt "Product title"
+#~ msgid "Title"
+#~ msgstr "Τίτλος"
+
+#~ msgid "Product type"
+#~ msgstr "Τύπος προϊόντος"
+
+#~ msgid "Choose what type of product this is"
+#~ msgstr "Επιλέξτε τον τύπο του προϊόντος"
+
+#~ msgid "Attributes"
+#~ msgstr "Xαρακτηριστικά"
+
+#~ msgid ""
+#~ "A product attribute is something that this product may have, such as a "
+#~ "size, as specified by its class"
+#~ msgstr ""
+#~ "Ένα χαρακτηριστικό προϊόντος είναι κάτι που ένα προϊόν ίσως να έχει, όπως "
+#~ "το μέγεθος, όπως προσδιορίζεται από την κλάση του"
+
+#~ msgid "Product options"
+#~ msgstr "Επιλογές προϊόντος"
+
+#~ msgid ""
+#~ "Options are values that can be associated with a item when it is added to "
+#~ "a customer's basket.  This could be something like a personalised message "
+#~ "to be printed on a T-shirt."
+#~ msgstr ""
+#~ "Οι επιλογές είναι οι τιμές που μπορούν να σχετίζονται με ένα στοιχείο "
+#~ "όταν προστίθεται στο καλάθι αγορών του πελάτη. Αυτό θα μπορούσε να είναι "
+#~ "κάτι σαν ένα εξατομικευμένο μήνυμα που θα εκτυπωθεί σε ένα μπλουζάκι."
+
+#~ msgid "Recommended products"
+#~ msgstr "Προτεινόμενα προϊόντα"
+
+#~ msgid ""
+#~ "These are products that are recommended to accompany the main product."
+#~ msgstr "Αυτά είναι τα προτινόμενα προϊόντα για το κύριο προϊόν"
+
+#~ msgid "Date updated"
+#~ msgstr "Ημερομηνία ενημέρωσης"
+
+#~ msgid "Is discountable?"
+#~ msgstr "Μπορεί να έχει έκπτωση;"
+
+#~ msgid "This flag indicates if this product can be used in an offer or not"
+#~ msgstr ""
+#~ "Αυτή η επιλογή καθορίζει αν αυτό το προϊόν μπορεί να χρησιμοποειθεί σε "
+#~ "προσφορά ή όχι"
+
+#~ msgid "Your product must have a title."
+#~ msgstr "Το προϊόν πρέπει να έχει έναν τίτλο."
+
+#~ msgid "Your product must have a product class."
+#~ msgstr "Το προϊόν πρέπει να έχει μιά κλάση προϊόντος."
+
+#~ msgid "Only child products can have a parent."
+#~ msgstr "Μόνο θυγατρικά προϊόντα μπορούν να έχουν γονικό προϊόν."
+
+#~ msgid "A child product needs a parent."
+#~ msgstr "Ένα θυγατρικό προϊόν χρειάζεται ένα γονικό προϊόν."
+
+#~ msgid "You can only assign child products to parent products."
+#~ msgstr "Μπορείτε να καθορίσετε θυγατρικά προϊόντα μόνο σε γονικά προϊόντα."
+
+#~ msgid "A child product can't have a product class."
+#~ msgstr "Ένα θυγατρικό προϊόν δεν μπορεί να έχει κλάση προϊόντος."
+
+#~ msgid "A child product can't have a category assigned."
+#~ msgstr "Ένα θυγατρικό προϊόν δεν μπορεί να έχει κατηγορία."
+
+#~ msgid "A child product can't have options."
+#~ msgstr "Ένα θυγατρικό προϊόν δεν μπορεί να έχει επιλογές."
+
+#~ msgid "A parent product can't have stockrecords."
+#~ msgstr "Ένα γονικό προϊόν δεν μπορεί να έχει καταχώριση στοκ."
+
+#~ msgid "The specified parent product is a child product."
+#~ msgstr "Το συγκεκριμένο γονικό προϊόν είναι θυγατρικό."
+
+#~ msgid "One can't add a child product to a product with stock records."
+#~ msgstr ""
+#~ "Ένα θυγατρικό προϊόν δεν μπορεί να προστεθεί σε προϊόν με καταχώριση στοκ."
+
+#~ msgid "Primary product"
+#~ msgstr "Κύριο προϊόν"
+
+#~ msgid "Recommended product"
+#~ msgstr "Προτεινόμενο προϊόν"
+
+#~ msgid "Ranking"
+#~ msgstr "Κατάταξη"
+
+#~ msgid ""
+#~ "Determines order of the products. A product with a higher value will "
+#~ "appear before one with a lower ranking."
+#~ msgstr ""
+#~ "Καθορίζει τη σειρά εμφάνισης των προϊόντων. Ένα προϊόν με μεγαλύτερη τιμή "
+#~ "θα εμφανιστεί πριν από ένα με μικρότερη κατάταξη."
+
+#~ msgid "Product recommendation"
+#~ msgstr "Προϊόν που προτείνεται"
+
+#~ msgid "Product recomendations"
+#~ msgstr "Προϊόντα που προτείνονται"
+
+#~ msgid ""
+#~ "Code can only contain the letters a-z, A-Z, digits, and underscores, and "
+#~ "can't start with a digit."
+#~ msgstr ""
+#~ "Ο κωδικός μπορεί μόνο να περιέχει τα γράμματα a-z, A-Z, αριθμούς, μείον "
+#~ "και underscore, και δεν μπορεί να ξεκινάει με αριθμό"
+
+#~ msgid "Text"
+#~ msgstr "Κείμενο"
+
+#~ msgid "Integer"
+#~ msgstr "Ακέραιος"
+
+#~ msgid "True / False"
+#~ msgstr "Αληθές / Ψευδές"
+
+#~ msgid "Float"
+#~ msgstr "Δεκαδικός"
+
+#~ msgid "Rich Text"
+#~ msgstr "Εμπλουτισμένο Κείμενο"
+
+#~ msgid "Date"
+#~ msgstr "Ημερομηνία"
+
+#~ msgid "Entity"
+#~ msgstr "Οντότητα"
+
+#~ msgid "File"
+#~ msgstr "Αρχείο"
+
+#~ msgid "Option Group"
+#~ msgstr "Ομάδα Επιλογών"
+
+#~ msgid "Required"
+#~ msgstr "Απαιτείται"
+
+#~ msgid "Product attribute"
+#~ msgstr "Χαρακτηριστικό προϊόντος"
+
+#~ msgid "Product attributes"
+#~ msgstr "Xαρακτηριστικά προϊόντων"
+
+#~ msgid "Must be str or unicode"
+#~ msgstr "Πρέπει να είναι str ή unicode"
+
+#~ msgid "Must be a float"
+#~ msgstr "Πρέπει να είναι δεκαδικός"
+
+#~ msgid "Must be an integer"
+#~ msgstr "Πρέπει να είναι ακέραιος"
+
+#~ msgid "Must be a date or datetime"
+#~ msgstr "Πρέπει να είναι μια ημερομηνία ή ημερομηνία και ώρα"
+
+#~ msgid "Must be a boolean"
+#~ msgstr "Πρέπει να είναι λογική τιμή"
+
+#~ msgid "%(enum)s is not a valid choice for %(attr)s"
+#~ msgstr "Το %(enum)s δεν είναι έγκυρη επιλογή για %(attr)s"
+
+#~ msgid "Must be a file field"
+#~ msgstr "Πρέπει να είναι πεδίο του αρχείου"
+
+#~ msgid "Attribute"
+#~ msgstr "Xαρακτηριστικό"
+
+#~ msgid "Boolean"
+#~ msgstr "Λογική"
+
+#~ msgid "Richtext"
+#~ msgstr "Εμπλουτισμένο κείμενο"
+
+#~ msgid "Value option"
+#~ msgstr "Τιμή επιλογής"
+
+#~ msgid "Product attribute value"
+#~ msgstr "Τιμή χαρακτηριστικού προϊόντος"
+
+#~ msgid "Product attribute values"
+#~ msgstr "Τιμές χαρακτηριστικών προϊόντων"
+
+#~ msgid "Attribute option group"
+#~ msgstr "Γκρουπ επιλογών χαρακτηριστικών"
+
+#~ msgid "Attribute option groups"
+#~ msgstr "Γκρουπ επιλογών χαρακτηριστικών"
+
+#~ msgid "Group"
+#~ msgstr "Ομάδα"
+
+#~ msgid "Attribute option"
+#~ msgstr "Επιλογή χαρακτηριστικού"
+
+#~ msgid "Attribute options"
+#~ msgstr "Επιλογές χαρακτηριστικών"
+
+#~ msgid "Required - a value for this option must be specified"
+#~ msgstr "Υποχρεωτικό - μια τιμή για την επιλογή αυτή πρέπει να καθορίστεί"
+
+#~ msgid "Optional - a value for this option can be omitted"
+#~ msgstr "Προαιρετικό - Η τιμή για την επιλογή αυτή μπορεί να παραλειφθεί"
+
+#~ msgid "Original"
+#~ msgstr "Αυθεντικό"
+
+#~ msgid "Caption"
+#~ msgstr "Λεζάντα"
+
+#~ msgid ""
+#~ "An image with a display order of zero will be the primary image for a "
+#~ "product"
+#~ msgstr ""
+#~ "Μία εικόνα με σειρά εμφάνισης μηδέν θα είναι η κύρια εικόνα για ένα προϊόν"
+
+#~ msgid "Product image"
+#~ msgstr "Εικόνα προϊόντος"
+
+#~ msgid "Product images"
+#~ msgstr "Εικόνες προϊόντος"
+
+#~ msgid "%(obj)s has no attribute named '%(attr)s'"
+#~ msgstr "Το %(obj)s δεν έχει χαρακτηριστικό με το όνομα '%(attr)s'"
+
+#~ msgid "%(attr)s attribute cannot be blank"
+#~ msgstr "Το χαρακτηριστικό '%(attr)s' δεν μπορεί να είναι κενό"
+
+#~ msgid "%(attr)s attribute %(err)s"
+#~ msgstr "%(attr)s χαρακτηριστικό %(err)s"
+
+#~ msgctxt "Product review title"
+#~ msgid "Title"
+#~ msgstr "Τίτλος"
+
+#~ msgid "Body"
+#~ msgstr "Κείμενο"
+
+#~ msgctxt "Anonymous reviewer name"
+#~ msgid "Name"
+#~ msgstr "Όνομα"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Requires moderation"
+#~ msgstr "Απαιτεί διαχειριστή"
+
+#~ msgid "Approved"
+#~ msgstr "Εγκρίθηκε"
+
+#~ msgid "Rejected"
+#~ msgstr "Απορρίπτεται"
+
+#~ msgid "Total Votes"
+#~ msgstr "Σύνολο Ψήφων"
+
+#~ msgid "Delta Votes"
+#~ msgstr "Διαφορά ψήφων"
+
+#~ msgid "Product review"
+#~ msgstr "Αξιολόγηση προϊόντος"
+
+#~ msgid "Product reviews"
+#~ msgstr "Αξιολογήσεις προϊόντος"
+
+#~ msgid "Anonymous reviews must include a name and an email"
+#~ msgstr "Οι ανώνυμες αξιολογήσεις πρέπει να συνοδεύονται με όνομα και email"
+
+#~ msgid "anonymous"
+#~ msgstr "ανώνυμος"
+
+#~ msgid "Only signed in users can vote"
+#~ msgstr "Μόνο συνδεδεμένοι χρήστες μπορούν να ψηφίζουν"
+
+#~ msgid "Up"
+#~ msgstr "Πάνω"
+
+#~ msgid "Down"
+#~ msgstr "Κάτω"
+
+#~ msgid "Delta"
+#~ msgstr "Διαφορά"
+
+#~ msgid "Vote"
+#~ msgstr "Ψήφος"
+
+#~ msgid "Votes"
+#~ msgstr "Ψήφοι"
+
+#~ msgid "You cannot vote on your own reviews"
+#~ msgstr "Δεν μπορείτε να ψηφίσετε για τις δικές σας αξιολογήσεις "
+
+#~ msgid "Only signed-in users can vote on reviews"
+#~ msgstr "Μόνο συνδεδεμένοι χρήστες μπορούν να ψηφίζουν αξιολογήσεις"
+
+#~ msgid "You can only vote once on a review"
+#~ msgstr "Μπορείτε να ψηφίσετε μόνο μία φορά αξιολογήσεις"
+
+#~ msgid "Recency"
+#~ msgstr "Πρόσφατο"
+
+#~ msgid "Sort by"
+#~ msgstr "Ταξινόμηση κατά"
+
+#~ msgid "You have already reviewed this product!"
+#~ msgstr "Έχετε ήδη αξιολόγησεί αυτό το προϊόν!"
+
+#~ msgid "You can't leave a review for this product."
+#~ msgstr "Δεν μπορείτε να αξιολογήσετε αυτό το προϊόν."
+
+#~ msgid "Thank you for reviewing this product"
+#~ msgstr "Σας ευχαριστούμε για την αξιολόγηση του προϊόντος"
+
+#~ msgid "Thanks for voting!"
+#~ msgstr "Σας ευχαριστούμε για την ψηφοφορία!"
+
+#~ msgid "%(filename)s is not a valid image (%(error)s)"
+#~ msgstr ""
+#~ "Το όνομα αρχείου %(filename)s δεν είναι μια έγκυρη εικόνα (%(error)s)"
+
+#~ msgid "%s is not a valid image archive"
+#~ msgstr "%s δεν είναι έγκυρο αρχείο εικόνας"
+
+#~ msgid "The given page number was invalid."
+#~ msgstr "Ο συγκεκριμένος αριθμός σελίδας δεν ήταν έγκυρος."
+
+#~ msgid "Checkout"
+#~ msgstr "Ταμείο"
+
+#~ msgid "My email address is"
+#~ msgstr "Το email μου είναι"
+
+#~ msgid "I am a new customer and want to checkout as a guest"
+#~ msgstr ""
+#~ "Είμαι ένας καινούργιος πελάτης και θέλω να ολοκληρώσω την αγορά ως "
+#~ "επισκέπτης"
+
+#~ msgid ""
+#~ "I am a new customer and want to create an account before checking out"
+#~ msgstr ""
+#~ "Είμαι καινούργιος πελάτης και θέλω να δημιουργήσω ένα λογαριασμό πριν την "
+#~ "ολοκλήρωση της αγοράς"
+
+#~ msgid "I am a returning customer, and my password is"
+#~ msgstr "Είμαι ήδη πελάτης, και ο κωδικός μου είναι"
+
+#~ msgid "You need to add some items to your basket to checkout"
+#~ msgstr ""
+#~ "Θα χρειαστεί να προσθέσετε κάποια στοιχεία στο καλάθι αγορών σας για το "
+#~ "ταμείο"
+
+#~ msgid ""
+#~ "'%(title)s' is no longer available to buy (%(reason)s). Please adjust "
+#~ "your basket to continue"
+#~ msgstr ""
+#~ "Το '%(title)s' δεν είναι πλέον διαθέσιμο για αγορά (%(reason)s). Παρακαλώ "
+#~ "διορθώστε το καλάθι σας για να συνεχίσετε"
+
+#~ msgid "Please either sign in or enter your email address"
+#~ msgstr ""
+#~ "Ένας χρήστης με αυτήν τη διεύθυνση ηλεκτρονικού ταχυδρομείου υπάρχει ήδη"
+
+#~ msgid "Please choose a shipping address"
+#~ msgstr "Παρακαλώ επιλέξτε μια διεύθυνση αποστολής"
+
+#~ msgid ""
+#~ "Your previously chosen shipping address is no longer valid.  Please "
+#~ "choose another one"
+#~ msgstr ""
+#~ "Η προηγούμενα επιλεγμένη διεύθυνση αποστολής δεν είναι πλέον έγκυρη. "
+#~ "Παρακαλώ επιλέξτε μία άλλη"
+
+#~ msgid "Please choose a shipping method"
+#~ msgstr "Παρακαλώ επιλέξτε έναν τρόπο αποστολής"
+
+#~ msgid ""
+#~ "Your previously chosen shipping method is no longer valid.  Please choose "
+#~ "another one"
+#~ msgstr ""
+#~ "Η προηγούμενα επιλεγμένη μέθοδος αποστολής δεν είναι πλέον έγκυρη. "
+#~ "Παρακαλώ διαλέξτε μία άλλη"
+
+#~ msgid ""
+#~ "Create your account and then you will be redirected back to the checkout "
+#~ "process"
+#~ msgstr ""
+#~ "Δημιουργήστε ένα λογαριασμό και θα οδηγηθήτε πίσω στην διαδικασία "
+#~ "ολοκλήρωσης της αγοράς"
+
+#~ msgid "Address saved"
+#~ msgstr "Η διεύθυνση έχει αποθηκευτεί"
+
+#~ msgid "Address deleted"
+#~ msgstr "Η διεύθυνση έχει διαγραφεί"
+
+#~ msgid ""
+#~ "Shipping is unavailable for your chosen address - please choose another"
+#~ msgstr ""
+#~ "Η αποστολή στην επιλεγμένη διεύθυνση δεν είναι διαθέσιμη - παρακαλώ "
+#~ "επιλέξτε μία άλλη"
+
+#~ msgid "Your submitted shipping method is not permitted"
+#~ msgstr "Η μέθοδος αποστολής που υποβάλλατε δεν επιτρέπεται"
+
+#~ msgid ""
+#~ "A problem occurred while processing payment for this order - no payment "
+#~ "has been taken.  Please contact customer services if this problem persists"
+#~ msgstr ""
+#~ "Υπήρξε ένα πρόβλημα κατά τη διάρκεια της διαδικασίας πληρωμής για αυτήν "
+#~ "την παραγγελία - καμία πληρωμή δεν έγινε. Παρακαλώ επικοινωνήστε με την "
+#~ "υποστήριξη πελατών αν αυτό το πρόβλημα εξακολουθεί να συμβαίνει"
+
+#~ msgid "No order found"
+#~ msgstr "Δεν βρέθηκε προσφορά"
+
+#~ msgid "email address"
+#~ msgstr "διεύθυνση email"
+
+#~ msgid "Staff status"
+#~ msgstr "Προσωπικό"
+
+#~ msgid "Designates whether the user can log into this admin site."
+#~ msgstr ""
+#~ "Καθορίζει αν ο χρήστης μπορεί να συνδεθεί σε αυτό το σάιτ διαχείρησης."
+
+#~ msgid "Active"
+#~ msgstr "Ενεργό"
+
+#~ msgid ""
+#~ "Designates whether this user should be treated as active. Unselect this "
+#~ "instead of deleting accounts."
+#~ msgstr ""
+#~ "Καθορίζει αν ο χρήστης είναι ενεργός. Απεπιλέξτε το αντί να διαγράψετε το "
+#~ "λογαριασμό."
+
+#~ msgid "date joined"
+#~ msgstr "ημερομηνία δημιουργία λογαριασμού"
+
+#~ msgid "Users"
+#~ msgstr "Χρήστες"
+
+#~ msgid "Subject"
+#~ msgstr "Θέμα"
+
+#~ msgid "Body Text"
+#~ msgstr "Κείμενο"
+
+#~ msgid "Body HTML"
+#~ msgstr "Κείμενο HTML"
+
+#~ msgid "Date Sent"
+#~ msgstr "Ημερομηνία αποστολής"
+
+#~ msgid "Emails"
+#~ msgstr "Emails"
+
+#~ msgid "This is just used for organisational purposes"
+#~ msgstr "Αυτό χρησιμοποιείται μόνο για οργανωτικούς λόγους"
+
+#~ msgid "Order related"
+#~ msgstr "Σχετικά με παραγγελία"
+
+#~ msgid "User related"
+#~ msgstr "Σχετικά με χρήστη"
+
+#~ msgid "HTML template"
+#~ msgstr "Πρότυπο HTML"
+
+#~ msgid "SMS Template"
+#~ msgstr "Πρότυπο SMS"
+
+#~ msgid "SMS template"
+#~ msgstr "Πρότυπο SMS"
+
+#~ msgid "Date Updated"
+#~ msgstr "Ημερομηνία Ενημέρωσης"
+
+#~ msgid "Inbox"
+#~ msgstr "Εισερχόμενα"
+
+#~ msgid "Archive"
+#~ msgstr "Αρχείο"
+
+#~ msgid "Notification"
+#~ msgstr "Ειδοποίηση"
+
+#~ msgid "Notifications"
+#~ msgstr "Ειδοποιήσεις"
+
+#~ msgid "Key"
+#~ msgstr "Κλειδί"
+
+#~ msgid "Not yet confirmed"
+#~ msgstr "Δεν έχει ακόμη επιβεβαιωθεί "
+
+#~ msgid "Cancelled"
+#~ msgstr "Ακυρωμένα"
+
+#~ msgid "Closed"
+#~ msgstr "Κλειστά"
+
+#~ msgid "Date confirmed"
+#~ msgstr "Ημερομηνιά επιβεβαιώσης"
+
+#~ msgid "Date cancelled"
+#~ msgstr "Ημερομηνιά ακύρωσης"
+
+#~ msgid "Date closed"
+#~ msgstr "Ημερομηνία κλεισίματος"
+
+#~ msgid "Product alerts"
+#~ msgstr "Ειδοποιήσεις προϊόντων"
+
+#~ msgid "Product Alerts"
+#~ msgstr "Ειδοποιήσεις Προϊόντων"
+
+#~ msgid "An alert has been created"
+#~ msgstr "Μια ειδοποίηση έχει δημιουργηθεί"
+
+#~ msgid "A confirmation email has been sent to %s"
+#~ msgstr "Ένα email επιβεβαίωσης έχει σταλεί στο %s"
+
+#~ msgid "Your stock alert is now active"
+#~ msgstr "Η ενημέρωση αποθεμάτος σας είναι τώρα ενεργή"
+
+#~ msgid "Your stock alert cannot be confirmed"
+#~ msgstr "Η ενημέρωση αποθεμάτος σας δεν μπορεί να επιβεβαιωθεί"
+
+#~ msgid "Your stock alert has been cancelled"
+#~ msgstr "Η ενημέρωση αποθεμάτος σας έχει ακυρωθεί"
+
+#~ msgid "Your stock alert cannot be cancelled"
+#~ msgstr "Η ενημέρωση αποθεμάτος σας δεν είναι δυνατό να ακυρωθεί"
+
+#~ msgid "Customer"
+#~ msgstr "Πελάτης"
+
+#~ msgid "Email address"
+#~ msgstr "Διεύθυνση Email"
+
+#~ msgid "Password"
+#~ msgstr "Κωδικός"
+
+#~ msgid "The entered password is not valid!"
+#~ msgstr "Ο κωδικός δεν είναι έγκυρος!"
+
+#~ msgid "Confirm password"
+#~ msgstr "Επιβεβαίωση Κωδικού"
+
+#~ msgid "The two password fields didn't match."
+#~ msgstr "Τα δύο πεδία κωδικού πρόσβασης δεν ταιριάζουν."
+
+#~ msgctxt "start date"
+#~ msgid "From"
+#~ msgstr "Απο"
+
+#~ msgctxt "end date"
+#~ msgid "To"
+#~ msgstr "Προς"
+
+#~ msgid "Order number"
+#~ msgstr "Αριθμός παραγγελίας"
+
+#~ msgid "At least one field is required."
+#~ msgstr "Τουλάχιστον ένα πεδίο είναι απαραίτητο."
+
+#~ msgid "All orders"
+#~ msgstr "Όλες οι παραγγελίες"
+
+#~ msgid ""
+#~ "Orders placed between %(date_from)s and %(date_to)s and order number "
+#~ "containing %(order_number)s"
+#~ msgstr ""
+#~ "Παραγγελίες που έγιναν μεταξύ %(date_from)s και %(date_to)s και ο αριθμός "
+#~ "παραγγελίας να περιέχει %(order_number)s"
+
+#~ msgid "Orders placed between %(date_from)s and %(date_to)s"
+#~ msgstr "Παραγγελίες που έγιναν μεταξύ %(date_from)s και %(date_to)s"
+
+#~ msgid ""
+#~ "Orders placed since %(date_from)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "Παραγγελίες που έγιναν μετά απο %(date_from)s και ο αριθμός παραγγελίας "
+#~ "περιέχει %(order_number)s"
+
+#~ msgid "A user with this email address already exists"
+#~ msgstr ""
+#~ "Υπάρχει ήδη ένας χρήστης με αυτήν τη διεύθυνση ηλεκτρονικού ταχυδρομείου "
+
+#~ msgid "Send notification to"
+#~ msgstr "Αποστολή ειδοποίησης σε"
+
+#~ msgid "Enter your email"
+#~ msgstr "Εισάγετε το email σας"
+
+#~ msgid "You already have an active alert for this product"
+#~ msgstr "Έχετε ήδη ενεργή ειδοποίηση για αυτό το προϊόν."
+
+#~ msgid "Thanks for registering!"
+#~ msgstr "Ευχαριστούμε για την εγγραφή!"
+
+#~ msgid "Profile"
+#~ msgstr "Προφίλ"
+
+#~ msgid "Edit Profile"
+#~ msgstr "Επεξεργασία Προφίλ"
+
+#~ msgid "Profile updated"
+#~ msgstr "Το Προφίλ ενημερώθηκε"
+
+#~ msgid "Delete profile"
+#~ msgstr "Διαγραφή προφίλ"
+
+#~ msgid "Your profile has now been deleted. Thanks for using the site."
+#~ msgstr ""
+#~ "Το προφίλ σας έχει διαγραφεί. Ευχαριστούμε που χρησιμοποιήσατε το site "
+#~ "μας."
+
+#~ msgid "Change Password"
+#~ msgstr "Αλλαγή Κωδικού"
+
+#~ msgid "Password updated"
+#~ msgstr "Ο κωδικός ενημερώθηκε"
+
+#~ msgid "Email History"
+#~ msgstr "Ιστορικό Ηλ. Ταχυδρομείου"
+
+#~ msgid "Order History"
+#~ msgstr "Ιστορικό Παραγγελιών"
+
+#~ msgid "Order"
+#~ msgstr "Παραγγελία"
+
+#~ msgid ""
+#~ "All available lines from order %(number)s have been added to your basket"
+#~ msgstr ""
+#~ "Όλες οι εγγραφές από την παραγγελία αριθ. %(number)s  προστέθηκαν στο "
+#~ "καλάθι σας"
+
+#~ msgid ""
+#~ "It is not possible to re-order order %(number)s as none of its lines are "
+#~ "available to purchase"
+#~ msgstr ""
+#~ "Δεν ήταν δυνατόν να κάνετε ξανά την παραγγελία αριθ. %(number)s καθώς "
+#~ "καμία απ τις εγγραφές της δεν είναι διαθέσιμη προς αγορά"
+
+#~ msgid "'%s' has been added to your basket"
+#~ msgstr "'%s' έχει προστεθεί στο καλάθι αγορών σας"
+
+#~ msgid "Address Book"
+#~ msgstr "Βιβλίο Διευθύνσεων"
+
+#~ msgid "Add a new address"
+#~ msgstr "Προσθήκη νεας διεύθυνσης"
+
+#~ msgid "Address '%s' created"
+#~ msgstr "Η διεύθυνση '%s' δημιουργήθηκε"
+
+#~ msgid "Edit address"
+#~ msgstr "Επεξεργασία διεύθυνσης"
+
+#~ msgid "Address '%s' updated"
+#~ msgstr "Η διεύθυνση '%s' ενημερώθηκε"
+
+#~ msgid "Delete address?"
+#~ msgstr "Να γίνει διαγραφή της διεύθυνσης;"
+
+#~ msgid "Address '%s' deleted"
+#~ msgstr "Η διεύθυνση '%s' διαγράφηκε"
+
+#~ msgid "We do not ship to this country"
+#~ msgstr "Δεν κάνουμε αποστολές στην χώρα σας"
+
+#~ msgid "Wish Lists"
+#~ msgstr "Λίστες Επιθυμιών"
+
+#~ msgid "Quantities updated."
+#~ msgstr "Οι ποσότητες ενημερώθηκαν."
+
+#~ msgid "Create a new wish list"
+#~ msgstr "Δημιουργία νεας λίστας επιθυμιών"
+
+#~ msgid "The requested product no longer exists"
+#~ msgstr "Το προϊόν που ζητήσατε δεν υπάρχει πλέον."
+
+#~ msgid "Your wishlist has been created"
+#~ msgstr "Η λίστα επιθυμιών σας δημιουργήθηκε."
+
+#~ msgid "%(title)s has been added to your wishlist"
+#~ msgstr "%(title)s προστέθηκε στην λίστα επιθυμιών σας"
+
+#~ msgid "Delete %s"
+#~ msgstr "Διαγραφή %s"
+
+#~ msgid "Remove %s"
+#~ msgstr "Αφαίρεση %s"
+
+#~ msgid "Create a new product of type"
+#~ msgstr "Δημιουργία νέου προϊόντος με Τύπο"
+
+#~ msgid "-- Choose type --"
+#~ msgstr "-- Επιλογή τύπου --"
+
+#~ msgid "Product title"
+#~ msgstr "Τίτλος προϊόντος"
+
+#~ msgid "Title"
+#~ msgstr "Τίτλος"
+
+#~ msgid "Variants"
+#~ msgstr "Παραλλαγές"
+
+#~ msgid "Stock records"
+#~ msgstr "Εγγραφές αποθέματος"
+
+#~ msgid "Actions"
+#~ msgstr "Ενέργειες"
+
+#~ msgid "%s Category"
+#~ msgid_plural "%s Categories"
+#~ msgstr[0] "%s Κατηγορία"
+#~ msgstr[1] "%s Κατηγορίες"
+
+#~ msgid "Product search results"
+#~ msgstr "Αποτελέσματα αναζήτησης προϊόντων"
+
+#~ msgid "Create new %(product_class)s product"
+#~ msgstr "Δημιουργία νέου %(product_class)s προϊόντος"
+
+#~ msgid "Delete product?"
+#~ msgstr "Να γίνει διαγραφή προϊόντος;"
+
+#~ msgid "Deleted product '%s'"
+#~ msgstr "Διαγράφηκε το προϊόν '%s'"
+
+#~ msgid "Alerts with status \"%s\""
+#~ msgstr "Ειδοποιήσεις με κατάσταση \"%s\""
+
+#~ msgid "All alerts"
+#~ msgstr "Όλες οι ειδοποιήσεις"
+
+#~ msgid "Add a new category"
+#~ msgstr "Προσθήκη νέας κατηγορίας"
+
+#~ msgid "Category created successfully"
+#~ msgstr "Η κατηγορία δημιουργήθηκε με επιτυχία"
+
+#~ msgid "Update category '%s'"
+#~ msgstr "Ενημέρωση κατηγορίας '%s'"
+
+#~ msgid "Category updated successfully"
+#~ msgstr "Η κατηγορία ενημερώθηκε με επιτυχία"
+
+#~ msgid "Category deleted successfully"
+#~ msgstr "Η κατηγορία διαγράφηκε με επιτυχία"
+
+#~ msgid "Add a new product type"
+#~ msgstr "Δημιουργία νέου Τύπου προϊόντος"
+
+#~ msgid "Product type created successfully"
+#~ msgstr "Ο Τύπος προϊόντος δημιουργήθηκε με επιτυχία"
+
+#~ msgid "Email subject template"
+#~ msgstr "Πρότυπο θέματος email"
+
+#~ msgid "Email body text template"
+#~ msgstr "πρότυπο σώματος κειμένου email"
+
+#~ msgid "Email body HTML template"
+#~ msgstr "πρότυπο σώματος HTML email"
+
+#~ msgid "Preview email"
+#~ msgstr "Προεπισκόπηση email"
+
+#~ msgid "No order found with this number"
+#~ msgstr "Δεν βρέθηκε παραγγελία με αυτόν τον αριθμό "
+
+#~ msgid "Please enter an email address"
+#~ msgstr "Παρακαλώ εισάγετε μια διεύθυνση email"
+
+#~ msgid ""
+#~ "The submitted form was not valid, please correct the errors and resubmit"
+#~ msgstr ""
+#~ "Η αποστολή της φόρμας δεν ήταν έγκυρη, παρακαλούμε διορθώστε τα λάθη και "
+#~ "ξανακάντε αποστολή"
+
+#~ msgid "Email saved"
+#~ msgstr "Το email αποθηκεύτηκε"
+
+#~ msgid "A preview email has been sent to %s"
+#~ msgstr "Ένα email προεπισκόπησης έχει σταλεί στο  %s"
+
+#~ msgid "Start date"
+#~ msgstr "Ημερομηνία έναρξης"
+
+#~ msgid "End date"
+#~ msgstr "Ημερομηνία λήξης"
+
+#~ msgid "Offer name"
+#~ msgstr "Όνομα προσφοράς"
+
+#~ msgid "Is active?"
+#~ msgstr "Είναι ενεργό;"
+
+#~ msgid "Order date"
+#~ msgstr "Ημερομηνία παραγγελίας"
+
+#~ msgid "Order total"
+#~ msgstr "Σύνολο παραγγελίας"
+
+#~ msgid "Cost"
+#~ msgstr "Κόστος"
+
+#~ msgid "All offers"
+#~ msgstr "Όλες οι προσφορές"
+
+#~ msgid "Offers matching '%s'"
+#~ msgstr "Προσφορές που ταιριάζουν με '%s'"
+
+#~ msgid "%s step not complete"
+#~ msgstr "Το βήμα %s δεν έχει ολοκληρωθεί"
+
+#~ msgid "Offer '%s' updated"
+#~ msgstr "Η προσφορά '%s' ενημερώθηκε"
+
+#~ msgid "Offer '%s' created!"
+#~ msgstr "Η προσφορά '%s' δημιουργήθηκε!"
+
+#~ msgid "Name and description"
+#~ msgstr "Όνομα και περιγραφή"
+
+#~ msgid "Restrictions"
+#~ msgstr "Περιορισμοί"
+
+#~ msgid "Offer deleted!"
+#~ msgstr "Η προσφορά '%s' διαγράφηκε!"
+
+#~ msgid "Offer is already suspended"
+#~ msgstr "Η προσφορά έχει ήδη ανασταλεί"
+
+#~ msgid "Offer suspended"
+#~ msgstr "Η προσφορά ανασταλεί"
+
+#~ msgid "Orders placed since %s"
+#~ msgstr "Παραγγελίες που έγιναν απο %s"
+
+#~ msgid "Orders placed until %s"
+#~ msgstr "Παραγγελίες που έγιναν μέχρι %s"
+
+#~ msgid "Customer name"
+#~ msgstr "Όνομα πελάτη"
+
+#~ msgid "Product name"
+#~ msgstr "Όνομα προϊόντος"
+
+#~ msgid "Partner SKU"
+#~ msgstr "SKU Συνεργάτη"
+
+#~ msgid "Date from"
+#~ msgstr "Ημερομηνιά απο"
+
+#~ msgid "Date to"
+#~ msgstr "Ημερομηνιά έως"
+
+#~ msgid "Voucher code"
+#~ msgstr "Κωδικός κουπονιού"
+
+#~ msgid "Payment method"
+#~ msgstr "Τρόπος πληρωμής"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "CSV"
+#~ msgstr "CSV"
+
+#~ msgid "Get results as"
+#~ msgstr "Λήψη αποτελέσματος ως"
+
+#~ msgid "Order value"
+#~ msgstr "Αξία παραγγελίας"
+
+#~ msgid "Date of purchase"
+#~ msgstr "Ημερομηνία αγοράς"
+
+#~ msgid "Number of items"
+#~ msgstr "Αριθμός αντικειμένων"
+
+#~ msgid "Order status"
+#~ msgstr "Κατάσταση παραγγελίας"
+
+#~ msgid "Customer email address"
+#~ msgstr "Διεύθυνση email Πελάτη"
+
+#~ msgid "Deliver to name"
+#~ msgstr "Παράδοση σε"
+
+#~ msgid "Bill to name"
+#~ msgstr "Χρέωση σε"
+
+#~ msgid "The new status '%s' is not valid"
+#~ msgstr "Η νέα κατάσταση '%s' δεν είναι έγκυρη"
+
+#~ msgid "The new status '%s' is not valid for this order"
+#~ msgstr "Η νέα κατάσταση '%s' δεν είναι έγκυρη για αυτή τη παραγγελία"
+
+#~ msgid "Unable to change order status due to payment error: %s"
+#~ msgstr ""
+#~ "Αδυναμία αλλαγής της κατάστασης της παραγγελίας λόγω σφάλματος πληρωμής: "
+#~ "%s"
+
+#~ msgid "Order status changed from '%(old_status)s' to '%(new_status)s'"
+#~ msgstr ""
+#~ "Η κατάσταση της παραγγελίας άλλαξε απο '%(old_status)s' σε "
+#~ "'%(new_status)s'"
+
+#~ msgid "No valid action submitted"
+#~ msgstr "Απεστάλει μη έγκυρη ενέργεια"
+
+#~ msgid "Invalid action"
+#~ msgstr "Μη έγκυρη ενέργεια"
+
+#~ msgid "You must select some lines to act on"
+#~ msgstr ""
+#~ "Πρέπει να επιλέξετε κάποιες εγγραφές για να γίνουν οι ενέργειες σε αυτές"
+
+#~ msgid "Note saved"
+#~ msgstr "Η σημείωση απηθηκεύτηκε"
+
+#~ msgid "Note cannot be deleted"
+#~ msgstr "Η σημείωση δεν είναι δυνατό να διαγραφεί"
+
+#~ msgid "Note deleted"
+#~ msgstr "Η σημείωση έχει διαγραφεί"
+
+#~ msgid "Please choose a valid amount"
+#~ msgstr "Παρακαλώ επιλέξτε ένα έγκυρο ποσό"
+
+#~ msgid "'%(status)s' is not a valid new status for line %(line_id)d"
+#~ msgstr ""
+#~ "'%(status)s' δεν είναι έγκυρη νέα κατάσταση για τη εγγραφή %(line_id)d"
+
+#~ msgid ""
+#~ "Status of line #%(line_id)d changed from '%(old_status)s' to "
+#~ "'%(new_status)s'"
+#~ msgstr ""
+#~ "Η κατάσταση της εγγραφής #%(line_id)d άλλαξε απο '%(old_status)s' σε "
+#~ "'%(new_status)s'"
+
+#~ msgid "The event type '%s' is not valid"
+#~ msgstr "Ο τύπος συμβάντος '%s' δεν είναι έγκυρος"
+
+#~ msgid "%(field)s changed from '%(old_value)s' to '%(new_value)s'"
+#~ msgstr "Το πεδίο %(field)s άλλαξε απο '%(old_value)s' σε '%(new_value)s'"
+
+#~ msgid ""
+#~ "Delivery address updated:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Η διεύθυνση παράδοσης ενημερώθηκε:\n"
+#~ "%s"
+
+#~ msgid "Delivery address updated"
+#~ msgstr "Η διεύθυνση παράδοσης ενημερώθηκε"
+
+#~ msgctxt "Page title"
+#~ msgid "Title"
+#~ msgstr "Τίτλος"
+
+#~ msgid "All pages"
+#~ msgstr "Όλες οι σελίδες"
+
+#~ msgid " with title containing '%s'"
+#~ msgstr "με τον τίτλο να περιέχει '%s'"
+
+#~ msgid "Create New Page"
+#~ msgstr "Δημιουργία Σελίδας"
+
+#~ msgid "Deleted page '%s'"
+#~ msgstr "Έγινε διαγραφή της σελίδας '%s'"
+
+#~ msgctxt "Partner's name"
+#~ msgid "Name"
+#~ msgstr "Όνομα"
+
+#~ msgid "User role"
+#~ msgstr "Ρόλος χρήστη"
+
+#~ msgid "Confirm Password"
+#~ msgstr "Επιβεβαίωση Κωδικού"
+
+#~ msgid "All partners"
+#~ msgstr "Όλες οι συνεργάτες"
+
+#~ msgid "Create new partner"
+#~ msgstr "Δημιουργία νέου  συνεργάτη"
+
+#~ msgid "Create user"
+#~ msgstr "Δημιουργία χρήστη"
+
+#~ msgid "Edit user '%s'"
+#~ msgstr "Επεξεργασία χρήστη  '%s'"
+
+#~ msgid "Promotion type"
+#~ msgstr "Τύπος προώθησης"
+
+#~ msgid "Position"
+#~ msgstr "Θέση"
+
+#~ msgid "Content block removed successfully"
+#~ msgstr "Το μπλοκ περιεχομένου αφαιρεθεί επιτυχώς"
+
+#~ msgid "Content block created successfully"
+#~ msgstr "Το μπλοκ περιεχομένου δημιουργήθηκε με επιτυχία"
+
+#~ msgid "Create a new %s content block"
+#~ msgstr "Δημιουργήστε ένα νέο %s μπλοκ περιεχομένου"
+
+#~ msgid "Update content block"
+#~ msgstr "Ενημέρωση μπλόκ περιεχομένου"
+
+#~ msgid "Content block updated successfully"
+#~ msgstr "Το μπλόκ περιεχομένου ενημερώθηκε με επιτυχία"
+
+#~ msgid "Content block '%(block)s' added to page '%(page)s'"
+#~ msgstr "Το μπλόκ περιεχομένου %(block)s' προσθέθηκε στην σελίδα '%(page)s'"
+
+#~ msgid "No link found to delete"
+#~ msgstr "Δεν βρέθηκε σύνδεσμος για διαγραφή"
+
+#~ msgid "Content block removed from page '%s'"
+#~ msgstr "Το μπλόκ περιεχομένου αφαιρέθηκε απο την σελίδα '%s'"
+
+#~ msgid "Product list promotion updated"
+#~ msgstr "Η προώθηση της λίστας προϊόντων ενημερώθηκε"
+
+#~ msgid "Content block deleted successfully"
+#~ msgstr "Το μπλόκ περιεχομένου διαγράφηκε με επιτυχία "
+
+#~ msgid "Either comma-separated, or one identifier per line"
+#~ msgstr "Είτε διαχωρισμένα με κόμμα, ή ένα αναγνωριστικό ανά γραμμή"
+
+#~ msgid "Create range"
+#~ msgstr "Δημιουργία εύρους"
+
+#~ msgid "Report Type"
+#~ msgstr "Τύπος Αναφοράς"
+
+#~ msgid "Download"
+#~ msgstr "Λήψη"
+
+#~ msgid "You do not have access to this report"
+#~ msgstr "Δεν έχετε πρόσβαση σε αυτή την αναφορά"
+
+#~ msgid "Reviews dashboard"
+#~ msgstr "Πίνακας ελέγχου αξιολογήσεων"
+
+#~ msgid "Keyword"
+#~ msgstr "Λέξη κλειδί"
+
+#~ msgid " created after %s"
+#~ msgstr "δημιουργήθηκε μετά απο %s"
+
+#~ msgid " created before %s"
+#~ msgstr "δημιουργήθηκε πριν απο %s"
+
+#~ msgid " created between %(start_date)s and %(end_date)s"
+#~ msgstr "δημιουργήθηκαν μεταξύ %(start_date)s και %(end_date)s"
+
+#~ msgid "All reviews"
+#~ msgstr "Όλες οι αξιολογήσεις"
+
+#~ msgid " with status matching '%s'"
+#~ msgstr "με κατάσταση να ταιριάζει με '%s'"
+
+#~ msgid " with keyword matching '%s'"
+#~ msgstr "με λέξη-κλειδι να ταιριάζει με '%s'"
+
+#~ msgid " with customer name matching '%s'"
+#~ msgstr "με το όνομα του πελάτη να ταιριάζει με '%s'"
+
+#~ msgid "%d Row"
+#~ msgid_plural "%d Rows"
+#~ msgstr[0] "%d Γραμμή"
+#~ msgstr[1] "%d Γραμμές"
+
+#~ msgctxt "User's name"
+#~ msgid "Name"
+#~ msgstr "Όνομα"
+
+#~ msgid "All users"
+#~ msgstr "Όλοι οι χρήστες"
+
+#~ msgid " with name matching '%s'"
+#~ msgstr "με το όνομα να ταιριάζει με '%s'"
+
+#~ msgid "All Alerts"
+#~ msgstr "Όλες οι ειδοποιήσεις"
+
+#~ msgid "Product alert saved"
+#~ msgstr "Η ειδοποιήση προϊόντος αποθηκεύτηκε"
+
+#~ msgid "Product alert deleted"
+#~ msgstr "Η ειδοποιήση προϊόντος διαγράφηκε"
+
+#~ msgid "Usage"
+#~ msgstr "Χρήση"
+
+#~ msgid "Which products get a discount?"
+#~ msgstr "Ποια προϊόντα έχουν έκπτωση;"
+
+#~ msgid "Discount type"
+#~ msgstr "Είδος έκπτωσης"
+
+#~ msgid "Discount value"
+#~ msgstr "Αξία έκπτωσης"
+
+#~ msgid "The name '%s' is already in use"
+#~ msgstr "Το όνομα '%s' είναι ήδη σε χρήση"
+
+#~ msgid "The code '%s' is already in use"
+#~ msgstr "Ο κωδικός '%s' είναι ήδη σε χρήση"
+
+#~ msgid "The start date must be before the end date"
+#~ msgstr ""
+#~ "Η ημερομηνία έναρξης πρέπει να είναι προγενέστερη της ημερομηνίας λήξης"
+
+#~ msgid "Is Active?"
+#~ msgstr "Είναι Ενεργό;"
+
+#~ msgid "All vouchers"
+#~ msgstr "Όλα τα κουπόνια"
+
+#~ msgid "with name matching '%s'"
+#~ msgstr "με το όνομα να ταιριάζει με '%s'"
+
+#~ msgid "with code '%s'"
+#~ msgstr "με κωδικό '%s'"
+
+#~ msgid "Active vouchers"
+#~ msgstr "Ενεργά κουπόνια"
+
+#~ msgid "Create voucher"
+#~ msgstr "Δημιουργία κουπονιού"
+
+#~ msgid "Offer for voucher '%s'"
+#~ msgstr "Προσφορά για κουπόνι '%s'"
+
+#~ msgid "Voucher created"
+#~ msgstr "Το κουπόνι δημιουργήθηκε"
+
+#~ msgid "Voucher updated"
+#~ msgstr "Το κουπόνι ενημερώθηκε"
+
+#~ msgid "Voucher deleted"
+#~ msgstr "Το κουπόνι έχει διαγραφεί"
+
+#~ msgid "This is displayed within the customer's basket"
+#~ msgstr "Αυτό εμφανίζεται μέσα στο καλάθι του πελάτι"
+
+#~ msgid "Condition"
+#~ msgstr "Συνθήκη"
+
+#~ msgid "Benefit"
+#~ msgstr "Όφελος"
+
+#~ msgid "Priority"
+#~ msgstr "Προτεραιότητα"
+
+#~ msgid "The highest priority offers are applied first"
+#~ msgstr "Οι προσφορές με υψηλότερη προτεραιότητα εφαρμόζονται πρώτα"
+
+#~ msgid "The number of times a single user can use this offer"
+#~ msgstr ""
+#~ "Οι φορές που ένας χρήστης μπορεί να χρησιμοποιήσει αυτή την προσφορά"
+
+#~ msgid ""
+#~ "The number of times this offer can be applied to a basket (and order)"
+#~ msgstr ""
+#~ "Οι φορές που αυτή η προσφορά μπορεί να εφαρμοστεί σε ένα καλάθι (και "
+#~ "παραγγελία)"
+
+#~ msgid "Max discount"
+#~ msgstr "Μέγιστη έκπτωση"
+
+#~ msgid "Total Discount"
+#~ msgstr "Συνολική Έκπτωση"
+
+#~ msgid "Number of applications"
+#~ msgstr "Αριθμός εφαρμογών"
+
+#~ msgid "Number of Orders"
+#~ msgstr "Αριθμός Παραγγελιών"
+
+#~ msgid "Conditional offer"
+#~ msgstr "Προσφορά υπό όρους"
+
+#~ msgid "Conditional offers"
+#~ msgstr "Προσφορές υπό όρους"
+
+#~ msgid "Offer is suspended"
+#~ msgstr "Η προσφορά είναι υπο περιορισμό"
+
+#~ msgid "Limited to 1 use per user"
+#~ msgstr "Περιορίζεται σε 1 χρήση ανά χρήστη"
+
+#~ msgid "Limited to %(total)d uses per user"
+#~ msgstr "Περιορίζεται σε %(total)d χρήσεις ανά χρήστη"
+
+#~ msgid "Limited to 1 use per basket"
+#~ msgstr "Περιορίζεται σε 1 χρήση ανά καλάθι αγορών"
+
+#~ msgid "Limited to %(total)d uses per basket"
+#~ msgstr "Περιορίζεται σε %(total)d χρήσεις ανά καλάθι αγορών"
+
+#~ msgid "Available between %(start)s and %(end)s"
+#~ msgstr "Διαθέσιμο μεταξύ %(start)s και %(end)s"
+
+#~ msgid "Available from %(start)s"
+#~ msgstr "Διαθέσιμο απο %(start)s"
+
+#~ msgid "Available until %(end)s"
+#~ msgstr "Διαθέσιμο μέχρι %(end)s"
+
+#~ msgid "Range"
+#~ msgstr "Εύρος"
+
+#~ msgid "Benefits"
+#~ msgstr "Πλεονεκτήματα"
+
+#~ msgid "Percentage discount cannot be greater than 100"
+#~ msgstr "Ποσοστό έκπτωσης δεν μπορεί να είναι μεγαλύτερο από 100"
+
+#~ msgid "Depends on number of items in basket that are in condition range"
+#~ msgstr ""
+#~ "Εξαρτάται από τον αριθμό των αντικειμένων στο καλάθι, που βρίσκονται μέσα "
+#~ "στο εύρος της συνθήκης"
+
+#~ msgid "Depends on value of items in basket that are in condition range"
+#~ msgstr ""
+#~ "Εξαρτάται από την αξία των αντικειμένων στο καλάθι, που βρίσκονται μέσα "
+#~ "στο εύρος της συνθήκης"
+
+#~ msgid "Conditions"
+#~ msgstr "Συνθήκες"
+
+#~ msgid "Is public?"
+#~ msgstr "Είναι δημόσιο;"
+
+#~ msgid "Includes all products?"
+#~ msgstr "Περιλαμβάνει όλα τα προϊόντα;"
+
+#~ msgid "Included Products"
+#~ msgstr "Συμπεριλαμβανόμενα Προϊόντα"
+
+#~ msgid "Excluded Products"
+#~ msgstr "Μη Συμπεριλαμβανόμενα Προϊόντα"
+
+#~ msgid "Included Categories"
+#~ msgstr "Συμπεριλαμβανόμενες Κατηγορίες"
+
+#~ msgid "File Path"
+#~ msgstr "Διαγρομή Αρχείου"
+
+#~ msgid "Size"
+#~ msgstr "Μέγεθος"
+
+#~ msgid "Error Message"
+#~ msgstr "Μήνυμα σφάλματος"
+
+#~ msgid "Date Processed"
+#~ msgstr "Ημερομηνία Επεξεργασίας"
+
+#~ msgid "Number of New SKUs"
+#~ msgstr "Πλήθος Νεων SKU"
+
+#~ msgid "Number of Unknown SKUs"
+#~ msgstr "Πλήθος Αγνώστων SKU"
+
+#~ msgid "Number of Duplicate SKUs"
+#~ msgstr "Πλήθος Διπλότυπων SKU"
+
+#~ msgid "Offer"
+#~ msgstr "Προσφορά"
+
+#~ msgid "Total discount"
+#~ msgstr "Συνολική έκπτωση"
+
+#~ msgid "Offer performance"
+#~ msgstr "Απόδοση προσφοράς"
+
+#~ msgid "Site"
+#~ msgstr "Ιστοσελίδα"
+
+#~ msgid "Billing Address"
+#~ msgstr "Διεύθυνση χρέωσης"
+
+#~ msgid "Order total (inc. tax)"
+#~ msgstr "Σύνολο με Φ.Π.Α."
+
+#~ msgid "Order total (excl. tax)"
+#~ msgstr "Σύνολο χωρίς Φ.Π.Α."
+
+#~ msgid "Shipping charge (inc. tax)"
+#~ msgstr "Έξοδα αποστολής (με ΦΠΑ)"
+
+#~ msgid "Shipping charge (excl. tax)"
+#~ msgstr "Έξοδα αποστολής (χωρίς ΦΠΑ)"
+
+#~ msgid "Shipping Address"
+#~ msgstr "Διεύθυνση αποστολής"
+
+#~ msgid "Shipping method"
+#~ msgstr "Τρόπος αποστολής"
+
+#~ msgid "Guest email address"
+#~ msgstr "Διεύθυνση email Επισκέπτη"
+
+#~ msgid "In progress"
+#~ msgstr "Σε εξέλιξη"
+
+#~ msgid "Message"
+#~ msgstr "Μήνυμα"
+
+#~ msgid "Order Note"
+#~ msgstr "Σημειώση Παραγγελίας "
+
+#~ msgid "Order Notes"
+#~ msgstr "Σημειώσεις Παραγγελίας "
+
+#~ msgid "Event Type"
+#~ msgstr "Τύπος Συμβάντος"
+
+#~ msgid "Communication Event"
+#~ msgstr "Συμβάν Επικοινωνίας"
+
+#~ msgid "Communication Events"
+#~ msgstr "Συμβάντα Επικοινωνίας"
+
+#~ msgid "Partner name"
+#~ msgstr "Όνομα συνεργάτη"
+
+#~ msgid "Partner reference"
+#~ msgstr "Αναφορά συνεργάτη"
+
+#~ msgid "Partner Notes"
+#~ msgstr "Σημειώσεις συνεργάτη"
+
+#~ msgid "Price (inc. tax)"
+#~ msgstr "Τιμή με Φ.Π.Α."
+
+#~ msgid "Price (excl. tax)"
+#~ msgstr "Τιμή χωρίς Φ.Π.Α."
+
+#~ msgid "Price before discounts (inc. tax)"
+#~ msgstr "Τιμή προ εκπτώσεων (με ΦΠΑ)"
+
+#~ msgid "Price before discounts (excl. tax)"
+#~ msgstr "Τιμή προ εκπτώσεων (χωρίς ΦΠΑ)"
+
+#~ msgid "Unit Cost Price"
+#~ msgstr "Τιμή Κόστους Μονάδας"
+
+#~ msgid "Unit Price (inc. tax)"
+#~ msgstr "Τιμή Μονάδας (με Φ.Π.Α.)"
+
+#~ msgid "Unit Price (excl. tax)"
+#~ msgstr "Τιμή Μονάδας (χωρίς Φ.Π.Α.)"
+
+#~ msgid "Unit Retail Price"
+#~ msgstr "Λιανική Τιμή Μονάδας"
+
+#~ msgid "Estimated Dispatch Date"
+#~ msgstr "Εκτιμώμενη Ημερομηνία Παράδοσης"
+
+#~ msgid "Order Line"
+#~ msgstr "Εγγραφή Παραγγελίας"
+
+#~ msgid "Product '%(name)s', quantity '%(qty)s'"
+#~ msgstr "Προϊόν '%(name)s', ποσότητα '%(qty)s'"
+
+#~ msgid "'%(title)s' is no longer available"
+#~ msgstr "Ο τίτλος '%(title)s' δεν είναι πλέον διαθέσιμος"
+
+#~ msgid "Line Attribute"
+#~ msgstr "Xαρακτηριστικό Εγγραφής"
+
+#~ msgid "Line Attributes"
+#~ msgstr "Xαρακτηριστικά Εγγραφής"
+
+#~ msgid "Shiping (inc. tax)"
+#~ msgstr "Μεταφορικά (με ΦΠΑ)"
+
+#~ msgid "Shipping (excl. tax)"
+#~ msgstr "Μεταφορικά (χωρίς ΦΠΑ)"
+
+#~ msgid "Line Price"
+#~ msgstr "Τιμή Εγγραφής"
+
+#~ msgid "Line Prices"
+#~ msgstr "Τιμές Εγγραφής"
+
+#~ msgid "Line '%(number)s' (quantity %(qty)d) price %(price)s"
+#~ msgstr " Εγγραφή '%(number)s' (ποσότητα %(qty)d) τιμή %(price)s"
+
+#~ msgid "Amount"
+#~ msgstr "Ποσό"
+
+#~ msgid "Reference"
+#~ msgstr "Αναφορά"
+
+#~ msgid "Lines"
+#~ msgstr "Εγγραφές"
+
+#~ msgid "Event"
+#~ msgstr "Συμβάν"
+
+#~ msgid "This could be the dispatch reference, or a tracking number"
+#~ msgstr ""
+#~ "Αυτό θα μπορούσε να είναι η αναφορά αποστολής, ή ένας αριθμός εντοπισμού "
+#~ "(tracking)"
+
+#~ msgid "Order #%(number)s, type %(type)s"
+#~ msgstr "Παραγγελία #%(number)s, τύπος %(type)s"
+
+#~ msgid "Discount category"
+#~ msgstr "Κατηγορία έκπτωσης"
+
+#~ msgid "Offer ID"
+#~ msgstr "ID Παραγγελίας"
+
+#~ msgid "Voucher ID"
+#~ msgstr "ID Κουπονιού"
+
+#~ msgid "Frequency"
+#~ msgstr "Συχνότητα"
+
+#~ msgid "Order Discount"
+#~ msgstr " Έκπτωση Παραγγελίας"
+
+#~ msgid "Order Discounts"
+#~ msgstr " Εκπτώσεις Παραγγελίας"
+
+#~ msgid "Total incl. tax"
+#~ msgstr "Σύνολο με Φ.Π.Α."
+
+#~ msgid "Orders placed"
+#~ msgstr "Παραγγελίες που έγιναν"
+
+#~ msgid "Empty baskets cannot be submitted"
+#~ msgstr "Τα άδεια καλάθια δεν μπορούν να αποσταλούν"
+
+#~ msgid "There is already an order with number %s"
+#~ msgstr "Υπάρχει ήδη μια παραγγελία με τον αριθμό %s"
+
+#~ msgid "Price (retail)"
+#~ msgstr "Τιμή (λιανικής)"
+
+#~ msgid "Cost Price"
+#~ msgstr "Τιμή Κόστους"
+
+#~ msgid "Number in stock"
+#~ msgstr "Αριθμός σε απόθεμα "
+
+#~ msgid "Threshold"
+#~ msgstr "Κατώτατο όριο"
+
+#~ msgid "Open"
+#~ msgstr "Άνοιγμα"
+
+#~ msgid "Stock alerts"
+#~ msgstr "Ειδοποιήσεις αποθέματος"
+
+#~ msgid "Unavailable"
+#~ msgstr "Μη διαθέσιμο"
+
+#~ msgid "Available"
+#~ msgstr "Διαθέσιμο"
+
+#~ msgid "In stock"
+#~ msgstr "Σε απόθεμα"
+
+#~ msgid "In stock (%d available)"
+#~ msgstr "Σε απόθεμα (%d διαθέσιμα)"
+
+#~ msgid "No file path supplied"
+#~ msgstr "Δεν έχει δωθεί διαδρομή αρχείου"
+
+#~ msgid "%s does not exist"
+#~ msgstr "%s δεν υπάρχει"
+
+#~ msgid "%s is not a file"
+#~ msgstr "%s δεν είναι αρχείο"
+
+#~ msgid "%s is not readable"
+#~ msgstr "%s δεν είναι αναγνώσιμο"
+
+#~ msgid "Transaction"
+#~ msgstr "Συναλλαγή"
+
+#~ msgid "Transactions"
+#~ msgstr "Συναλλαγές"
+
+#~ msgid "Label"
+#~ msgstr "Ετικέτα"
+
+#~ msgid "Sources"
+#~ msgstr "Πηγές"
+
+#~ msgid "Card Type"
+#~ msgstr "Τύπος Κάρτας"
+
+#~ msgid "Number"
+#~ msgstr "Αριθμός"
+
+#~ msgid "Expiry Date"
+#~ msgstr "Ημερομηνία Λήξης"
+
+#~ msgid "Partner Reference"
+#~ msgstr "Αναφορά Συνεργάτη"
+
+#~ msgid "Bankcard"
+#~ msgstr "Τραπεζική κάρτα"
+
+#~ msgid "Bankcards"
+#~ msgstr "Τραπεζικές κάρτες"
+
+#~ msgid "Payment"
+#~ msgstr "Πληρωμή"
+
+#~ msgid "Card number"
+#~ msgstr "Αριθμός κάρτας"
+
+#~ msgid "Please enter a valid credit card number."
+#~ msgstr "Παρακαλώ εισάγετε ένα έγκυρο αριθμό πιστωτικής κάρτας."
+
+#~ msgid "Enter a valid month."
+#~ msgstr "Εισάγετε έναν έγκυρο μήνα."
+
+#~ msgid "Enter a valid year."
+#~ msgstr "Εισάγετε ένα έγκυρο έτος."
+
+#~ msgid "Valid to"
+#~ msgstr "Έγκυρο έως"
+
+#~ msgid "The expiration date you entered is in the past."
+#~ msgstr "Η ημερομηνία λήξης που εισαγάγατε είναι στο παρελθόν."
+
+#~ msgid "Valid from"
+#~ msgstr "Έγκυρο απο"
+
+#~ msgid "The starting date you entered is in the future."
+#~ msgstr "Η ημερομηνία έναρξης δώσατε είναι στο μέλλον."
+
+#~ msgid "CCV number"
+#~ msgstr "αριθμός CCV"
+
+#~ msgid "Please enter a 3 or 4 digit number"
+#~ msgstr "Παρακαλώ εισάγετε έναν 3ψήφιο ή 4ψήφιο αριθμό"
+
+#~ msgid ""
+#~ "This is the 3 or 4 digit security number on the back of your bankcard"
+#~ msgstr "Ο 3ψήφιος ή 4ψήφιος αριθμός ασφαλείας στο πίσω μέρος της κάρτα σας"
+
+#~ msgid "American Express cards use a 4 digit security code"
+#~ msgstr ""
+#~ "Οι κάρτες American Express χρησιμοποιούν έναν 4ψήφιο κωδικό ασφαλείας"
+
+#~ msgid "Promotions"
+#~ msgstr "Προωθήσεις"
+
+#~ msgid "Display Order"
+#~ msgstr "Προβολή Παραγγελίας"
+
+#~ msgid "Clicks"
+#~ msgstr "Κλικ"
+
+#~ msgid "Linked Promotion"
+#~ msgstr "Συνδεδεμένη Προώθηση"
+
+#~ msgid "Linked Promotions"
+#~ msgstr "Συνδεδεμένες Προωθήσεις"
+
+#~ msgid "Page URL"
+#~ msgstr "URL Σελίδας"
+
+#~ msgid "Page Promotion"
+#~ msgstr "Προώθηση Σελίδας"
+
+#~ msgid "Page Promotions"
+#~ msgstr "Προωθήσεις Σελίδας"
+
+#~ msgid "Filter"
+#~ msgstr "Φίλτρο"
+
+#~ msgid "Keyword Promotion"
+#~ msgstr "Προώθηση Λέξης κλειδιού"
+
+#~ msgid "Keyword Promotions"
+#~ msgstr "Προωθήσεις Λέξης κλειδιού"
+
+#~ msgid "Keywords"
+#~ msgstr "Λέξεις κλειδιά"
+
+#~ msgid "Promotion"
+#~ msgstr "Προώθηση"
+
+#~ msgid "Display type"
+#~ msgstr "Τύπος προβολής"
+
+#~ msgid "Link URL"
+#~ msgstr "URL Συνδέσμου"
+
+#~ msgctxt "Promotion product list title"
+#~ msgid "Title"
+#~ msgstr "Τίτλος"
+
+#~ msgid "Link text"
+#~ msgstr "Κείμενο συνδέσμου"
+
+#~ msgid "List"
+#~ msgstr "Λίστα"
+
+#~ msgid "Bestselling products"
+#~ msgstr "Προϊόντα με εμπορική επιτυχία"
+
+#~ msgid "Recently added products"
+#~ msgstr "Πρόσφατα καταχωρημένα προϊόντα"
+
+#~ msgid "Method"
+#~ msgstr "Μέθοδος"
+
+#~ msgid "Number of Products"
+#~ msgstr "Αριθμός Προϊόντων"
+
+#~ msgid "Ordered Product List"
+#~ msgstr "Λίστα Προϊόντων που παραγγέλθηκαν"
+
+#~ msgid "Ordered Product Lists"
+#~ msgstr "Λίστες Προϊόντων που παραγγέλθηκαν"
+
+#~ msgctxt "Tabbed block title"
+#~ msgid "Title"
+#~ msgstr "Τίτλος"
+
+#~ msgid "Search"
+#~ msgstr "Αναζήτηση"
+
+#~ msgid "Relevancy"
+#~ msgstr "Σχετικότητα"
+
+#~ msgid "Newest"
+#~ msgstr "Νεώτερα"
+
+#~ msgid "Title A to Z"
+#~ msgstr "Τίτλος Α - Ω"
+
+#~ msgid "Title Z to A"
+#~ msgstr "Τίτλος Ω - Α"
+
+#~ msgid "Shipping Method"
+#~ msgstr "Τρόπος Αποστολής"
+
+#~ msgid "Shipping Methods"
+#~ msgstr "Τρόποι Αποστολής"
+
+#~ msgid "Price per order"
+#~ msgstr "Τιμή ανα παραγγελία"
+
+#~ msgid "Price per item"
+#~ msgstr "Τιμή ανα αντικείμενο"
+
+#~ msgid "Free Shipping"
+#~ msgstr "Δωρεάν μεταφορικά"
+
+#~ msgid "Default Weight"
+#~ msgstr "Προεπιλεγμένο Βάρος"
+
+#~ msgid "Weight-based Shipping Method"
+#~ msgstr "Τρόπος Αποστολής με βάση το βάρος"
+
+#~ msgid "Weight-based Shipping Methods"
+#~ msgstr "Τρόποι Αποστολής με βάση το βάρος"
+
+#~ msgid "Upper Limit"
+#~ msgstr "Ανώτατο Όριο"
+
+#~ msgid "Charge"
+#~ msgstr "Χρέωση"
+
+#~ msgid "Shipping"
+#~ msgstr "Αποστολή"
+
+#~ msgid "Free shipping"
+#~ msgstr "Δωρεάν μεταφορικά"
+
+#~ msgid "No shipping required"
+#~ msgstr "Δεν απαιτείται αποστολή"
+
+#~ msgid "Fixed price shipping"
+#~ msgstr "Μεταφορικά με προκαθορισμένο κόστος"
+
+#~ msgid "Can be used once by one customer"
+#~ msgstr "Μπορεί να χρησιμοποιηθεί μία φορά ανά πελάτη"
+
+#~ msgid "Can only be used once per customer"
+#~ msgstr "Μπορεί να χρησιμοποιηθεί μόνο μία φορά ανά πελάτη"
+
+#~ msgid "Voucher"
+#~ msgstr "Κουπόνι"
+
+#~ msgid "This voucher has already been used"
+#~ msgstr "Αυτό το κουπόνι έχει ήδη χρησιμοποιηθεί"
+
+#~ msgid "This voucher is only available to signed in users"
+#~ msgstr "Αυτό το κουπόνι είναι διαθέσιμo μόνο για εγγεγραμμένους χρήστες"
+
+#~ msgid "You have already used this voucher in a previous order"
+#~ msgstr "Έχετε ήδη χρησιμοποιήσει αυτό το κουπόνι σε προηγούμενη παραγγελία"
+
+#~ msgid "Added to a basket"
+#~ msgstr "Προστέθηκε σε καλάθι"
+
+#~ msgid "Default"
+#~ msgstr "Προεπιλογή"
+
+#~ msgid "Private - Only the owner can see the wish list"
+#~ msgstr "Ιδιωτική - Μόνο ο ιδιοκτήτης μπορεί να δει τη λίστα επιθυμιών"
+
+#~ msgid ""
+#~ "Shared - Only the owner and people with access to the obfuscated link can "
+#~ "see the wish list"
+#~ msgstr ""
+#~ "Κοινό - Μόνο ο ιδιοκτήτης και οι άνθρωποι με πρόσβαση στον κωδικοποιημένο "
+#~ "σύνδεσμο μπορούν να δουν τη λίστα επιθυμιών"
+
+#~ msgid "Public - Everybody can see the wish list"
+#~ msgstr "Δημόσια - Ο καθένας μπορεί να δει τη λίστα επιθυμιών"
+
+#~ msgid "Visibility"
+#~ msgstr "Ορατότητα"
+
+#~ msgid "Wish List"
+#~ msgstr "Λίστα Επιθυμιών"
+
+#~ msgid "Wish list line"
+#~ msgstr "Εγγραφή λίστας επιθυμιών"
+
+#~ msgid "Wishlists"
+#~ msgstr "Λίστες Επιθυμιών"
+
+#~ msgid "Specified page already exists!"
+#~ msgstr "Η συγκεκριμένη σελίδα υπάρχει ήδη!"
+
+#~ msgid "This field is required"
+#~ msgstr "Αυτό το πεδίο είναι υποχρεωτικό"
+
+#~ msgid "This is not a valid international phone format."
+#~ msgstr "Δεν είναι έγγυρη μορφή διεθνούς τηλεφωνικού αριθμού."
+
+#~ msgid "This is not a valid local or international phone format."
+#~ msgstr "Δεν είναι έγγυρη μορφή διεθνούς ή τοπικού τηλεφωνικού αριθμού."
+
+#~ msgid "Check for products that are back in stock and send out alerts"
+#~ msgstr ""
+#~ "Έλεγχος για προϊόντα που είναι ξανά σε απόθεμα και στέλνουν ειδοποιήσεις"
+
+#~ msgid "Page not found"
+#~ msgstr "Η σελίδα δεν βρέθηκε"
+
+#~ msgid "Page not found!"
+#~ msgstr "Η σελίδα δεν βρέθηκε!"
+
+#~ msgid "Server error!"
+#~ msgstr "Σφάλμα διακομιστή!"
+
+#~ msgid "Home"
+#~ msgstr "Αρχική"
+
+#~ msgid "Your basket is now empty"
+#~ msgstr "Το καλάθι σας αυτή τη στιγμή είναι άδειο."
+
+#~ msgid "View basket"
+#~ msgstr "Προβολή καλαθιού"
+
+#~ msgid "Important messages about items in your basket"
+#~ msgstr "Σημαντικά μηνύματα σχετικά με τα στοιχεία του καλαθιού σας"
+
+#~ msgid "Price"
+#~ msgstr "Τιμή"
+
+#~ msgid "Total"
+#~ msgstr "Σύνολο"
+
+#~ msgid "Updating..."
+#~ msgstr "Γίνεται Ενημέρωση..."
+
+#~ msgid "Update"
+#~ msgstr "Ενημέρωση"
+
+#~ msgid "Remove"
+#~ msgstr "Αφαίρεση"
+
+#~ msgid "Add voucher"
+#~ msgstr "Προσθήκη κουπονιού"
+
+#~ msgid "or"
+#~ msgstr "ή"
+
+#~ msgid "cancel"
+#~ msgstr "ακύρωση"
+
+#~ msgid "Totals"
+#~ msgstr "Σύνολα"
+
+#~ msgid "Your basket is empty."
+#~ msgstr "Το καλάθι σας είναι άδειο."
+
+#~ msgid "Continue shopping"
+#~ msgstr "Συνεχίστε τις αγορές σας"
+
+#~ msgid "Items"
+#~ msgstr "Αντικείμενα"
+
+#~ msgid "Move to basket"
+#~ msgstr "Επαναφορά στο καλάθι"
+
+#~ msgid "Qty"
+#~ msgstr "Ποσ."
+
+#~ msgid "Total:"
+#~ msgstr "Σύνολο:"
+
+#~ msgid "Basket total (before discounts)"
+#~ msgstr "Σύνολο καλαθιού (πριν τις εκπτώσεις)"
+
+#~ msgid "Discount"
+#~ msgstr "Έκπτωση"
+
+#~ msgid "Basket total (after discounts)"
+#~ msgstr "Σύνολο καλαθιού (μετά τις εκπτώσεις)"
+
+#~ msgid "Basket total"
+#~ msgstr "Σύνολο καλαθιού"
+
+#~ msgid "Shipping total (before discounts)"
+#~ msgstr "Σύνολο καλαθιού (προ εκπτώσεων)"
+
+#~ msgid "Shipping total (after discounts)"
+#~ msgstr "Σύνολο καλαθιού (μετά εκπτώσεων)"
+
+#~ msgid "Tax"
+#~ msgstr "Φόρος"
+
+#~ msgid "No products found."
+#~ msgstr "Δεν βρέθηκαν προϊόντα."
+
+#~ msgid "Edit this product"
+#~ msgstr "Επεξεργασία προϊόντος"
+
+#~ msgid "Product Description"
+#~ msgstr "Περιγραφή Προϊόντος"
+
+#~ msgid "Product Information"
+#~ msgstr "Πληροφορίες Προϊόντος"
+
+#~ msgid "Product Type"
+#~ msgstr "Τύπος προϊόντος"
+
+#~ msgid "Price (incl. tax)"
+#~ msgstr "Τιμή με Φ.Π.Α."
+
+#~ msgid "Availability"
+#~ msgstr "Διαθεσιμότητα"
+
+#~ msgid "Number of reviews"
+#~ msgstr "Πλήθος αξιολογήσεων"
+
+#~ msgid "See all reviews"
+#~ msgstr "Δείτε όλες τις αξιολογήσεις"
+
+#~ msgid "Customer Reviews"
+#~ msgstr "Αξιολογήσεις Πελατών"
+
+#~ msgid ""
+#~ "This product does not have any reviews yet -\n"
+#~ "                            <a href=\"%(add_review_url)s#addreview\">be "
+#~ "the first to write one</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "Αυτό το προϊόν δεν έχει καμία αξιολόγηση ακόμα -\n"
+#~ "                            <a href=\"%(add_review_url)s#addreview"
+#~ "\">γράψτε την πρώτη</a>.\n"
+#~ "                        "
+
+#~ msgid "This product does not have any reviews yet"
+#~ msgstr "Αυτό το προϊόν δεν έχει καμία αξιολόγηση ακόμα"
+
+#~ msgid "Recommended items"
+#~ msgstr "Προτεινόμενα αντικείμενα"
+
+#~ msgid "Add to basket"
+#~ msgstr "Προσθήκη στο καλάθι"
+
+#~ msgid "Add to wish list"
+#~ msgstr "Προσθήκη στη λίστα επιθυμίων"
+
+#~ msgid "Create a new wishlist"
+#~ msgstr "Δημιουργία νεας λίστας επιθυμιών"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <span class=\"pull-left\">Product is in <a href="
+#~ "\"%(url)s\">'%(name)s'</a> wishlist.</span>\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "<span class=\"pull-left\">Το προϊόν είναι στην <a href=\"%(url)s"
+#~ "\">'%(name)s'</a> λίστα επιθυμιών.</span>"
+
+#~ msgid "Please login to add products to a wish list."
+#~ msgstr ""
+#~ "Παρακαλούμε συνδεθείτε για να προσθέσετε προϊόντα σε μια λίστα επιθυμιών"
+
+#~ msgid "Yes"
+#~ msgstr "Ναί"
+
+#~ msgid "No"
+#~ msgstr "Όχι"
+
+#~ msgid "Free"
+#~ msgstr "Δωρεάν"
+
+#~ msgid "Customer reviews"
+#~ msgstr "Αξιολογήσεις πελατών"
+
+#~ msgid "Leave a product review"
+#~ msgstr "Κάντε μια αξιολόγηση στον προϊόν"
+
+#~ msgid "This product does not have any reviews yet."
+#~ msgstr "Αυτό το προϊόν δεν έχει καμία αξιολόγηση ακόμα."
+
+#~ msgid "Change"
+#~ msgstr "Αλλαγή"
+
+#~ msgid "Contact"
+#~ msgstr "Επικοινωνία"
+
+#~ msgid "Phone"
+#~ msgstr "Τηλέφωνο"
+
+#~ msgid "Order contents"
+#~ msgstr "Περιεχόμενα παραγγελίας"
+
+#~ msgid "Continue"
+#~ msgstr "Συνέχεια"
+
+#~ msgid "1. Shipping address"
+#~ msgstr "1. Διεύθυνση αποστολής"
+
+#~ msgid "2. Shipping method"
+#~ msgstr "2 . Τρόπος αποστολής"
+
+#~ msgid "3. Payment"
+#~ msgstr "3. Πληρωμή"
+
+#~ msgid "Payment details"
+#~ msgstr "Λεπτομέρειες πληρωμής "
+
+#~ msgid "Enter payment details"
+#~ msgstr "Εισάγετε λεπτομέρειες πληρωμής "
+
+#~ msgid "Order preview"
+#~ msgstr "Προεπισκόπιση παραγγελίας"
+
+#~ msgid "Preview order"
+#~ msgstr "Προεπισκόπιση παραγγελίας"
+
+#~ msgid "Place order"
+#~ msgstr "Κάντε παραγγελία"
+
+#~ msgid "Ship to this address"
+#~ msgstr "Αποστολή σε αυτή την διεύθυνση"
+
+#~ msgid "Delete"
+#~ msgstr "Διαγραφή"
+
+#~ msgid "return to basket"
+#~ msgstr "επιστροφή στο καλάθι"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                This includes a discount of <strong>"
+#~ "%(amount)s</strong> as\n"
+#~ "                                your basket qualifies for the <strong>"
+#~ "%(name)s</strong> offer.\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "                                Αυτό συμπεριλαμβάνει έκπτωση <strong>"
+#~ "%(amount)s</strong> καθώς το καλάθι σας πληρεί τις προϋποθέσεις για την "
+#~ "προσφορά <strong>%(name)s</strong>.\n"
+#~ "                            "
+
+#~ msgid "Shipping charge"
+#~ msgstr "Έξοδα Αποστολής"
+
+#~ msgid "Order tax"
+#~ msgstr "Φόροι παραγγελίας"
+
+#~ msgid "Print this page"
+#~ msgstr "Εκτύπωση σελίδας"
+
+#~ msgid "Yes!"
+#~ msgstr "Ναί!"
+
+#~ msgid "Save"
+#~ msgstr "Αποθήκευση"
+
+#~ msgid "Address book"
+#~ msgstr "Βιβλίο διευθύνσεων"
+
+#~ msgid "Default shipping address"
+#~ msgstr "Προεπιλεγμένη διεύθυνση αποστολής:"
+
+#~ msgid "Default billing address"
+#~ msgstr "Προεπιλεγμένη διεύθυνση τιμολογίου:"
+
+#~ msgid "Edit"
+#~ msgstr "Επεξεργασία"
+
+#~ msgid "Set as default shipping address"
+#~ msgstr "Ορισμός ως προεπιλεγμένη διεύθυνση αποστολής"
+
+#~ msgid "Set as default billing address"
+#~ msgstr "Ορισμός ως προεπιλεγμένη διεύθυνση χρέωσης"
+
+#~ msgid "There are no addresses in your address book."
+#~ msgstr "Δεν υπάρχουν διευθύνσεις στο βιβλίο διευθύνσεων σας."
+
+#~ msgid "You do not have any active alerts for out-of-stock products."
+#~ msgstr "Δεν έχετε ενεργές ειδοποιήσεις για προϊόντα με εξαντλημένο απόθεμα."
+
+#~ msgid "Cancel"
+#~ msgstr "Άκυρο"
+
+#~ msgid "Order #%(number)s"
+#~ msgstr "Παραγγελία #%(number)s"
+
+#~ msgid "Notes"
+#~ msgstr "Σημειώσεις"
+
+#~ msgid "Estimated dispatch date"
+#~ msgstr "Εκτιμώμενη Ημερομηνία Αποστολής"
+
+#~ msgid "Line price excl. tax"
+#~ msgstr "Τιμή εγγραφής χωρίς ΦΠΑ"
+
+#~ msgid "Line price incl. tax"
+#~ msgstr "Τιμή εγγραφής με ΦΠΑ"
+
+#~ msgid "Basket total (inc. tax)"
+#~ msgstr "Σύνολο καλαθιού (με Φ.Π.Α.)"
+
+#~ msgid "Email history"
+#~ msgstr "Ιστορικό Ηλ. Ταχυδρομείου"
+
+#~ msgid "Date sent"
+#~ msgstr "Ημερομηνία αποστολής"
+
+#~ msgid "No emails found"
+#~ msgstr "Δεν βρέθηκαν email."
+
+#~ msgid "Thanks for using our site!"
+#~ msgstr "Ευχαριστούμε που χρησιμοποιήσατε την ιστοσελίδα μας!"
+
+#~ msgid "The %(name)s team"
+#~ msgstr "Η ομάδα του %(name)s"
+
+#~ msgid "Your order contains:"
+#~ msgstr "Η παραγγελία σας περιέχει:"
+
+#~ msgid "Basket total:"
+#~ msgstr "Σύνολο καλαθιού:"
+
+#~ msgid "Shipping:"
+#~ msgstr "Μεταφορικά:"
+
+#~ msgid "Order Total:"
+#~ msgstr "Σύνολο Παραγγελίας:"
+
+#~ msgid "Shipping address:"
+#~ msgstr "Διεύθυνση αποστολής:"
+
+#~ msgid "quantity:"
+#~ msgstr "ποσότητα:"
+
+#~ msgid "price:"
+#~ msgstr "τιμή:"
+
+#~ msgid "The team"
+#~ msgstr "Η ομάδα"
+
+#~ msgid "Confirmation of order %(number)s"
+#~ msgstr "Επιβεβαίωση της παραγγελίας %(number)s"
+
+#~ msgid "Dear %(name)s,"
+#~ msgstr "Αγαπητέ/ή %(name)s,"
+
+#~ msgid "Log In"
+#~ msgstr "Σύνδεση"
+
+#~ msgid "Register"
+#~ msgstr "Εγγραφή"
+
+#~ msgid "Sender"
+#~ msgstr "Αποστολέας"
+
+#~ msgctxt "noun"
+#~ msgid "Archive"
+#~ msgstr "Αρχείο"
+
+#~ msgid "View"
+#~ msgstr "Προβολή"
+
+#~ msgctxt "verb"
+#~ msgid "Archive"
+#~ msgstr "Αρχείο"
+
+#~ msgid "Archiving..."
+#~ msgstr "Αρχειοθέτηση..."
+
+#~ msgid "Order history"
+#~ msgstr "Ιστορικό παραγγελιών"
+
+#~ msgid "Not available anymore"
+#~ msgstr "Δεν είναι πλέον διαθέσιμο"
+
+#~ msgid "Basket total (excl. discounts)"
+#~ msgstr "Σύνολο καλαθιού (χωρίς εκπτώσεις)"
+
+#~ msgid "Basket total (inc. discounts)"
+#~ msgstr "Σύνολο καλαθιού (με εκπτώσεις)"
+
+#~ msgid "Shipping total"
+#~ msgstr "Σύνολο εξόδων αποστολής"
+
+#~ msgid "Re-order all items"
+#~ msgstr "Επαναπαραγγελία όλων των στοιχείων"
+
+#~ msgid "Filter results"
+#~ msgstr "Φίλτρο αποτελεσμάτων"
+
+#~ msgid "Reset"
+#~ msgstr "Επαναφορά"
+
+#~ msgid "Total inc tax"
+#~ msgstr "Σύνολο με Φ.Π.Α."
+
+#~ msgid "No orders match your search."
+#~ msgstr "Καμμία παραγγελία δεν ταιριάζει στην αναζήτηση"
+
+#~ msgid "You haven't placed any orders."
+#~ msgstr "Δεν έχετε κάνει παραγγελίες."
+
+#~ msgid "Edit profile"
+#~ msgstr "Επεξεργασία προφίλ"
+
+#~ msgid "Delete?"
+#~ msgstr "Να γίνει διαγραφή;"
+
+#~ msgid "Remove product"
+#~ msgstr "Αφαίρεση προϊόντος "
+
+#~ msgid "Action"
+#~ msgstr "Ενέργεια"
+
+#~ msgid "View product"
+#~ msgstr "Προβολή προϊόντος"
+
+#~ msgid "Update quantities"
+#~ msgstr "Ενημέρωση ποσοτήτων"
+
+#~ msgid "Your wish list is empty."
+#~ msgstr "Η λίστα επιθυμιών σας είναι κενή."
+
+#~ msgid "Create"
+#~ msgstr "Δημιουργία"
+
+#~ msgid "Wish list settings"
+#~ msgstr "Ρυθμίσεις λιστών επιθυμιών"
+
+#~ msgid "You don't have any wish lists yet."
+#~ msgstr "Δεν πάρχουν προς το παρόν λίστες επιθυμιών."
+
+#~ msgid "Sections"
+#~ msgstr "Τομείς"
+
+#~ msgid "Delete category?"
+#~ msgstr "Διαγραφή κατηγορίας;"
+
+#~ msgid "Delete category"
+#~ msgstr "Διαγραφή κατηγορίας"
+
+#~ msgid "There are no categories."
+#~ msgstr "Δεν υπάρχουν κατηγορίες."
+
+#~ msgid "Edit category"
+#~ msgstr "Επεξεργασία κατηγορίας"
+
+#~ msgid "Edit again"
+#~ msgstr "Επεξεργασία ξανά"
+
+#~ msgid "Create new product"
+#~ msgstr "Δημιουργία προϊόντος"
+
+#~ msgid "New Product"
+#~ msgstr "Νεο Προϊόν"
+
+#~ msgid "Search Products"
+#~ msgstr "Αναζήτηση Προϊόντων"
+
+#~ msgid "Searching..."
+#~ msgstr "Αναζήτηση..."
+
+#~ msgid "Product details"
+#~ msgstr "Λεπτομέρειες προϊόντος"
+
+#~ msgid "Images"
+#~ msgstr "Εικόνες"
+
+#~ msgid "Stock and pricing"
+#~ msgstr "Στοκ και τιμοκατάλογος"
+
+#~ msgid "Product Type:"
+#~ msgstr "Τύπος προϊόντος:"
+
+#~ msgid "SKU"
+#~ msgstr "Κωδικός προϊόντος"
+
+#~ msgid "Retail price"
+#~ msgstr "Λιανική τιμή"
+
+#~ msgid "All"
+#~ msgstr "Όλα"
+
+#~ msgid "Preview"
+#~ msgstr "Προεπισκόπιση"
+
+#~ msgid "The name of the site (eg example.com)"
+#~ msgstr "Το όνομα του ιστότοπου (π.χ. example.com)"
+
+#~ msgid "View preview"
+#~ msgstr "Ππροβολή προεπισκόπισης"
+
+#~ msgid "Your Store Statistics"
+#~ msgstr "Στατιστικά του καταστήματος σας"
+
+#~ msgid "Total Orders"
+#~ msgstr "Σύνολο Παραγγελιών"
+
+#~ msgid "New Customers"
+#~ msgstr "Νεοι Πελάτες"
+
+#~ msgid "Total Customers"
+#~ msgstr "Σύνολο Πελάτων"
+
+#~ msgid "Total Products"
+#~ msgstr "Σύνολο Προϊόντων"
+
+#~ msgid "Total orders"
+#~ msgstr "Σύνολο παραγγελίων"
+
+#~ msgid "Total lines"
+#~ msgstr "Σύνολο εγγραφών"
+
+#~ msgid "Total revenue"
+#~ msgstr "Σύνολο εσόδων"
+
+#~ msgid "Manage"
+#~ msgstr "Διαχείριση"
+
+#~ msgid "Total <em>open</em> baskets"
+#~ msgstr "Σύνολο <em>ανοιχτών</em> καλαθιών"
+
+#~ msgid "Total customers"
+#~ msgstr "Σύνολο πελάτων"
+
+#~ msgid "New customers"
+#~ msgstr "Νεοι Πελάτες"
+
+#~ msgid "Total products"
+#~ msgstr "Σύνολο προϊόντων"
+
+#~ msgid "Log out"
+#~ msgstr "Αποσύνδεση"
+
+#~ msgid "Continue to step 3"
+#~ msgstr "Συνέχεια στο βήμα 3"
+
+#~ msgid "Continue to step 4"
+#~ msgstr "Συνέχεια στο βήμα 4"
+
+#~ msgid "Continue to step 2"
+#~ msgstr "Συνέχεια στο βήμα 2"
+
+#~ msgid "Delete offer"
+#~ msgstr "Διαγραφή προσφοράς"
+
+#~ msgid "Total cost:"
+#~ msgstr "Συνολικό κόστος:"
+
+#~ msgid "Number of orders:"
+#~ msgstr "Αριθμός παραγγελιών:"
+
+#~ msgid "Number of uses:"
+#~ msgstr "Αριθμός χρήσεων:"
+
+#~ msgid "Offer details"
+#~ msgstr "Λεπτομέρειες προσφοράς"
+
+#~ msgid "Export to CSV"
+#~ msgstr "Εξαγωγή σε CSV"
+
+#~ msgid "Create new offer"
+#~ msgstr "Δημιουργία νεας προσφοράς"
+
+#~ msgid "Is available?"
+#~ msgstr "Είναι διαθέσιμο;"
+
+#~ msgid "Browse"
+#~ msgstr "Περιήγηση"
+
+#~ msgid "No offers found."
+#~ msgstr "Δεν βρέθηκαν προσφορές."
+
+#~ msgid "Steps"
+#~ msgstr "Βήματα"
+
+#~ msgid "1. Name and description"
+#~ msgstr "1. Όνομα και περιγραφή"
+
+#~ msgid "3. Condition"
+#~ msgstr "3. Συνθήκη"
+
+#~ msgid "4. Restrictions"
+#~ msgstr "4. Περιορισμοί"
+
+#~ msgid "Save this offer"
+#~ msgstr "Αποθήκευση προσφοράς"
+
+#~ msgid "Fields marked with * are mandatory."
+#~ msgstr "Τα πεδία που είναι σημειωμένα με * είναι υποχρεωτικά."
+
+#~ msgid "Save changes"
+#~ msgstr "Αποθήκευση αλλαγών"
+
+#~ msgid "Offer summary"
+#~ msgstr "Περίληψη προσφοράς"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s - Line #%(id)s\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Παραγγελία %(number)s - Εγγραφή #%(id)s"
+
+#~ msgid "Line #%(id)s"
+#~ msgstr "Εγγραφή #%(id)s"
+
+#~ msgid "Order #%(number)s - Line #%(id)s"
+#~ msgstr "Παραγγελία #%(number)s - Εγγραφή #%(id)s"
+
+#~ msgid "Product Options"
+#~ msgstr "Επιλογές προϊόντος"
+
+#~ msgid "Partner details"
+#~ msgstr "Λεπτομέρειες συνεργάτη"
+
+#~ msgid "Shipping details"
+#~ msgstr "Λεπτομέρειες αποστολής"
+
+#~ msgid "Order %(number)s"
+#~ msgstr "Παραγγελία %(number)s"
+
+#~ msgid "Customer Information"
+#~ msgstr "Πληροφορίες Πελάτη"
+
+#~ msgid "Order information"
+#~ msgstr "Πληροφορίες παραγγελίας"
+
+#~ msgid "Order Total"
+#~ msgstr "Σύνολο Παραγγελίας"
+
+#~ msgid "Order Details"
+#~ msgstr "Λεπτομέρειες Παραγγελίας"
+
+#~ msgid "Items ordered"
+#~ msgstr "Αντικείμενα που παραγγέλθηκαν"
+
+#~ msgid "Supplier"
+#~ msgstr "Προμηθευτής"
+
+#~ msgid "Supplier SKU"
+#~ msgstr "SKU Προμηθευτή"
+
+#~ msgid "Est. dispatch date"
+#~ msgstr "Εκτιμώμενη Ημερομηνία Αποστολής"
+
+#~ msgid "choose new status"
+#~ msgstr "επιλέξτε νεα κατάσταση"
+
+#~ msgid "with reference"
+#~ msgstr "με αναφορά"
+
+#~ msgid "with amount"
+#~ msgstr "με ποσό"
+
+#~ msgid "Product:"
+#~ msgstr "Προϊόν:"
+
+#~ msgid "quantity"
+#~ msgstr "ποσότητα"
+
+#~ msgid "Allocation"
+#~ msgstr "Κατανομή"
+
+#~ msgid "Admin"
+#~ msgstr "Διαχειριστής"
+
+#~ msgid "Close"
+#~ msgstr "Κλείσιμο"
+
+#~ msgid "No orders found."
+#~ msgstr "Δεν βρέθηκαν παραγγελίες."
+
+#~ msgid "Done"
+#~ msgstr "Ολοκληρώθηκε"
+
+#~ msgid "Update address"
+#~ msgstr "Ενημέρωση διεύθυνσης"
+
+#~ msgid "Order statistics"
+#~ msgstr "Στατιστικά παραγγελιών"
+
+#~ msgid "Filter result"
+#~ msgstr "Φίλτρο αποτελέσματος"
+
+#~ msgid "Summary"
+#~ msgstr "Περίληψη"
+
+#~ msgid "Delete page '%(title)s'?"
+#~ msgstr "Να γίνει διαγραφή της σελίδας '%(title)s';"
+
+#~ msgid "Delete page"
+#~ msgstr "Διαγραφή σελίδας"
+
+#~ msgid "Delete page <strong>%(title)s</strong> - are you sure?"
+#~ msgstr "Διαγραφή της σελίδας '%(title)s' - είστε σίγουρος/η;"
+
+#~ msgid "No pages found."
+#~ msgstr "Δεν βρέθηκαν σελίδες."
+
+#~ msgid "previous"
+#~ msgstr "προηγούμενο"
+
+#~ msgid "next"
+#~ msgstr "επόμενο"
+
+#~ msgid "Undo"
+#~ msgstr "Αναίρεση"
+
+#~ msgid "Delete partner"
+#~ msgstr "Διαγραφή συνεργάτη "
+
+#~ msgid "Manage users"
+#~ msgstr "Διαχείριση χρηστών"
+
+#~ msgid "No users found."
+#~ msgstr "Δεν βρέθηκαν χρήστες."
+
+#~ msgid "Delete content block"
+#~ msgstr "Διαγραφή μπλόκ περιεχομένου"
+
+#~ msgid "Remove promotion"
+#~ msgstr "Αφαίρεση προώθησης"
+
+#~ msgid "Pages displaying this content blocks"
+#~ msgstr "Σελίδες οι οποίες εμφανίζουν αυτά τα μπλόκ περιεχομένου "
+
+#~ msgid "Position on page"
+#~ msgstr "Θέση στην σελίδα"
+
+#~ msgid "View all blocks on this page"
+#~ msgstr "Δείτε όλα τα μπλόκ στην σελίδα"
+
+#~ msgid "Remove from page"
+#~ msgstr "Αφαίρεση απο την σελίδα"
+
+#~ msgid "Add to a page"
+#~ msgstr "Προσθήκη σε σελίδα"
+
+#~ msgid "Add to page"
+#~ msgstr "Προσθήκη στην σελίδα"
+
+#~ msgid "Content blocks for page %(page_url)s"
+#~ msgstr "Μπλόκ περιεχομένου για την σελίδα %(page_url)s"
+
+#~ msgid "Content blocks on page '%(page_url)s'"
+#~ msgstr "Μπλόκ περιεχομένου στην σελίδα %(page_url)s"
+
+#~ msgid "Promotion Name"
+#~ msgstr "Όνομα Προώθησης"
+
+#~ msgid "View by page"
+#~ msgstr "Προβολή ανα σελίδα"
+
+#~ msgid "View all content blocks"
+#~ msgstr "Προβολή όλων των μπλόκ περιεχομένου"
+
+#~ msgid "Create block"
+#~ msgstr "Δημιουργία μπλόκ"
+
+#~ msgid "Num products"
+#~ msgstr "Αριθμός προϊόντων"
+
+#~ msgid "Edit products"
+#~ msgstr "Επεξεργασία προϊόντων"
+
+#~ msgid "products"
+#~ msgstr "προϊόντα"
+
+#~ msgid "Add products"
+#~ msgstr "Προσθήκη προϊόντων"
+
+#~ msgid "Filename"
+#~ msgstr "Όνομα αρχείου"
+
+#~ msgid "New products"
+#~ msgstr "Νεα προϊόντα"
+
+#~ msgid "Duplicate products"
+#~ msgstr "Διπλότυπα προϊόντα"
+
+#~ msgid "Unknown products"
+#~ msgstr "Άγνωστα προϊόντα"
+
+#~ msgid "Remove selected products"
+#~ msgstr "Αφαίρεση επιλεγμένων προϊόντων "
+
+#~ msgid "Is product discountable?"
+#~ msgstr "Μπορεί το προϊόν να έχει έκπτωση;"
+
+#~ msgid "Generate report"
+#~ msgstr "Δημιουργία αναφοράς"
+
+#~ msgid "No results found."
+#~ msgstr "Δεν βρέθηκαν αποτελέσματα."
+
+#~ msgid "Review"
+#~ msgstr "Κριτική"
+
+#~ msgid "Review Search"
+#~ msgstr "Αναζήτηση Κριτικών"
+
+#~ msgid "Update status of selected reviews"
+#~ msgstr "Ενημερώστε την κατάσταση για τις επιλεγμένες αξιολογήσεις"
+
+#~ msgctxt "Review title"
+#~ msgid "Title"
+#~ msgstr "Τίτλος"
+
+#~ msgid "[Product deleted]"
+#~ msgstr "[Το προϊόν έχει διαγραφεί]"
+
+#~ msgid "No reviews found."
+#~ msgstr "Δεν βρέθηκαν αξιολογήσεις."
+
+#~ msgid "Update review"
+#~ msgstr "Ενημέρωση αξιολόγησης"
+
+#~ msgid "Review #%(review.id)s"
+#~ msgstr "Αξιολόγηση #%(review.id)s"
+
+#~ msgid "Review information"
+#~ msgstr "Πληροφορίες αξιολόγησης"
+
+#~ msgid "Shipping methods"
+#~ msgstr "Τρόποι Αποστολής"
+
+#~ msgid "Edit shipping method"
+#~ msgstr "Επεξεργασία τρόπου αποστολής"
+
+#~ msgid "Delete shipping method"
+#~ msgstr "Διαγραφή τρόπου αποστολής"
+
+#~ msgid "Create a new shipping method"
+#~ msgstr "Δημιουργία νέου τρόπου αποστολής"
+
+#~ msgid "Default weight (kg)"
+#~ msgstr "Προεπιλεγμένο Βάρος (kg)"
+
+#~ msgid "No shipping methods found."
+#~ msgstr "Δεν βρέθηκαν τρόποι αποστολής."
+
+#~ msgid "Alert #%(id)s"
+#~ msgstr "Ειδοποίηση #%(id)s"
+
+#~ msgid "Delete alert #%(id)s?"
+#~ msgstr "Διαγραφή ειδοποίησης  #%(id)s;"
+
+#~ msgid "Product alert #%(id)s"
+#~ msgstr "Ειδοποίηση προϊόντος #%(id)s"
+
+#~ msgid "Search product alerts"
+#~ msgstr "Αναζήτηση στις ειδοποιήσεις προϊόντων"
+
+#~ msgid "No alerts found."
+#~ msgstr "Δεν βρέθηκαν ειδοποιήσεις."
+
+#~ msgid "General"
+#~ msgstr "Γενικά"
+
+#~ msgid "Yes,No"
+#~ msgstr "Ναι,Όχι"
+
+#~ msgid "True,False"
+#~ msgstr "Αληθές,Ψευδές"
+
+#~ msgid "Staff"
+#~ msgstr "Προσωπικό"
+
+#~ msgid "Last login"
+#~ msgstr "Τελευταία σύνδεση"
+
+#~ msgid "Products viewed"
+#~ msgstr "Προβολές προϊόντων"
+
+#~ msgid "Number of orders"
+#~ msgstr "Αριθμός παραγγελιών"
+
+#~ msgid "Number of ordered items"
+#~ msgstr "Αριθμός παραγγελθέντων στοιχείων"
+
+#~ msgid "Reviews written"
+#~ msgstr "Αξιολογήσεις"
+
+#~ msgid "Order Number"
+#~ msgstr "Αριθμός Παραγγελίας"
+
+#~ msgid "Total value"
+#~ msgstr "Συνολική αξία"
+
+#~ msgid "This customer has not placed any orders yet."
+#~ msgstr "Αυτός ο πελάτης κάνει παραγγελίες προς το παρόν."
+
+#~ msgid "This customer has not saved any addresses."
+#~ msgstr "Αυτός ο πελάτης δεν έχει σώσει καμμία διεύνθυνση."
+
+#~ msgid "Product ID"
+#~ msgstr "ID προϊόντος"
+
+#~ msgid "This customer has not written any reviews yet."
+#~ msgstr "Αυτός ο πελάτης δεν έχει γράψει καμία αξιολόγηση ακόμα."
+
+#~ msgid "No customers found."
+#~ msgstr "Δεν βρέθηκαν πελάτες."
+
+#~ msgid "Bulk Actions"
+#~ msgstr "Μαζικές ενέργειες."
+
+#~ msgid "Make active"
+#~ msgstr "Ενεργοποίηση"
+
+#~ msgid "Make inactive"
+#~ msgstr "Απενεργοποίηση"
+
+#~ msgid "Voucher details"
+#~ msgstr "Λεπτομέρειες κουπονιού"
+
+#~ msgid "Number of basket additions"
+#~ msgstr "Πλήθος προσθηκών σε καλάθι"
+
+#~ msgid "Recent orders"
+#~ msgstr "Πρόσφατες παραγγελίες"
+
+#~ msgid "Edit voucher"
+#~ msgstr "Επεξεργασία κουπονιού"
+
+#~ msgid "Create new voucher"
+#~ msgstr "Δημιουργία νέου κουπονιού"
+
+#~ msgid "Num baskets"
+#~ msgstr "Πλήθος καλαθιών"
+
+#~ msgid "Num orders"
+#~ msgstr "Αριθμός παραγγελιών"
+
+#~ msgid "Inactive"
+#~ msgstr "Ανενεργό"
+
+#~ msgid "No vouchers found."
+#~ msgstr "Δεν βρέθηκαν κουπόνια."
+
+#~ msgid "Return to previous page"
+#~ msgstr "Επιστροφή στην προηγούμενη σελίδα"
+
+#~ msgid "Edit this page"
+#~ msgstr "Επεξεργασία σελίδας"
+
+#~ msgid "thumbnail"
+#~ msgstr "μικρογραφία"
+
+#~ msgid "This page is only available to users who aren't logged in."
+#~ msgstr ""
+#~ "Αυτή η σελίδα είναι διαθέσιμη μόνο για τους χρήστες που δεν έχουν εισέλθει"
+
+#~ msgid " This offer is no longer available."
+#~ msgstr "Αυτη η προσφορά δεν είναι πλέον διαθέσιμη."
+
+#~ msgid "Browse products in offer"
+#~ msgstr "Δείτε τα προϊόντα που είναι σε προσφορά"
+
+#~ msgid "See more"
+#~ msgstr "Δείτε περισσότερα"
+
+#~ msgid "Log in"
+#~ msgstr "Σύνδεση"
+
+#~ msgid "Enter a new password"
+#~ msgstr "Εισάγετε έναν νέο κωδικό "
+
+#~ msgid "Change my password"
+#~ msgstr "Αλλαγή του κωδικού μου"
+
+#~ msgid ""
+#~ "\n"
+#~ "        We've e-mailed you instructions for resetting your password. You "
+#~ "should be receiving it shortly.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Σας στείλαμε email με οδηγίες για την επαναφορά του κωδικού. Θα το λάβετε "
+#~ "σύντομα."
+
+#~ msgid ""
+#~ "\n"
+#~ "        If you don't receive an email, please make sure you've entered "
+#~ "the address you registered with, and check\n"
+#~ "        your spam folder.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Αν δεν λάβετε email, παρακαλώ επιβεβαιώστε οτι εισάγατε την διεύθυνση με "
+#~ "την οποία κάνατε εγγραφή, και ελέγξτε τον φάκελο Spam"
+
+#~ msgid ""
+#~ "Forgotten your password? Enter your e-mail address below, and we'll e-"
+#~ "mail instructions for setting a new one."
+#~ msgstr ""
+#~ "Ξεχάσατε τον κωδικό? Εισάγετε την διεύθυνση email παρακάτω, και θα σας "
+#~ "στείλουμε οδηγίες για να εισάγετε νέο κωδικό."
+
+#~ msgid "Found <strong>0</strong> results."
+#~ msgstr "Βρέθηκαν <strong>0</strong> αποτελέσματα."
+
+#~ msgid ""
+#~ "\n"
+#~ "                        Did you mean <a href=\"%(search_url)s?q="
+#~ "%(suggestion)s\">\"%(suggestion)s\"</a>?\n"
+#~ "                    "
+#~ msgstr ""
+#~ "\n"
+#~ "                        Μήπως εννοούσατε <a href=\"%(search_url)s?q="
+#~ "%(suggestion)s\">\"%(suggestion)s\"</a>?\n"
+#~ "                    "
+
+#~ msgid "Back to search results"
+#~ msgstr "Επιστροφή στα αποτελέσματα αναζήτησης"

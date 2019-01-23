@@ -1,0 +1,6199 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Bernardas Alisauskas <bernardas.alisauskas@gmail.com>, 2014
+# EgidijusZ <egidutis2@gmail.com>, 2014
+# EgidijusZ <egidutis2@gmail.com>, 2014-2015
+# Jonas Levinskas <xjonsx@gmail.com>, 2015
+# Matas Dailyda <matas@dailyda.com>, 2017
+# Saulius Žemaitaitis <saulius@zemaitaitis.lt>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-11 08:36+0000\n"
+"Last-Translator: Oscar Bot <maik.hoepfel@tangentsnowball.com>\n"
+"Language-Team: Lithuanian (http://www.transifex.com/codeinthehole/django-"
+"oscar/language/lt/)\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < "
+"11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? "
+"1 : n % 1 != 0 ? 2: 3);\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr "Prietaisų skydas"
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr "Katalogas"
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "Prekės"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr "Prekių tipai"
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "Kategorijos"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr "Ribos"
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr "Mažo kiekio perspėjimai"
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr "Pasirinkimai"
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr "Įvykdymas"
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "Užsakymai"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr "Statistika"
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr "Partneriai"
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr "Klientai"
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr "Sandėlyje mažėjančio kiekio užklausos"
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr "Pasiūlymai"
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "Kuponai"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr "Turinys"
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr "Turinio blokai"
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr "Turinio blokai pagal puslapį"
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr "Puslapiai"
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr "El. laiškų šablonai"
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr "Apžvalgos"
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr "Ataskaitos"
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr "Tipas"
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr "Įvertinimas"
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr "Kainų ribos"
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr "0-20"
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr "20-40"
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr "40-60"
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr "virš 60"
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+#, fuzzy
+#| msgid "Catalogue"
+msgid "Catalan"
+msgstr "Katalogas"
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+#, fuzzy
+#| msgid "Permalink"
+msgid "German"
+msgstr "Pastovi nuoroda"
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr "Pateikiama..."
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr "Eiti"
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr "Vartotojas"
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr "Atsijungti"
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr "Prisijungti arba registruotis"
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "Krepšelis"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+"\n"
+"Viso: %(total)s"
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr "Naršyti parduotuvę"
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "Visos prekės"
+
+#~ msgid "Mr"
+#~ msgstr "Ponas"
+
+#~ msgid "Miss"
+#~ msgstr "Ponia"
+
+#~ msgid "Mrs"
+#~ msgstr "Ponia"
+
+#~ msgid "Ms"
+#~ msgstr "Panelė"
+
+#~ msgid "Dr"
+#~ msgstr "Dr"
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "Pavadinimas"
+
+#~ msgid "First name"
+#~ msgstr "Vardas"
+
+#~ msgid "Last name"
+#~ msgstr "Pavardė"
+
+#~ msgid "First line of address"
+#~ msgstr "Pirmoji adreso eilutė"
+
+#~ msgid "Second line of address"
+#~ msgstr "Antroji adreso eilutė"
+
+#~ msgid "Third line of address"
+#~ msgstr "Trečioji adreso eilutė"
+
+#~ msgid "City"
+#~ msgstr "Miestas"
+
+#~ msgid "State/County"
+#~ msgstr "Valstija / Apskritis"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "Miesto / Pašto kodas"
+
+#~ msgid "Country"
+#~ msgstr "Šalis"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "Ieškoti teksto - naudojamas tik ieškant adreso"
+
+#~ msgid "Address"
+#~ msgstr "Adresas"
+
+#~ msgid "Addresses"
+#~ msgstr "Adresai"
+
+#~ msgid "Addresses in %(country)s require a valid postcode"
+#~ msgstr "Adresas šalyje \"%(country)s\" turi turėti teisingą pašto kodą"
+
+#~ msgid "The postcode '%(postcode)s' is not valid for %(country)s"
+#~ msgstr "Pašto kodas '%(postcode)s' yra neteisingas šalyje %(country)s"
+
+#~ msgid "ISO 3166-1 alpha-2"
+#~ msgstr "ISO 3166-1 alpha-2"
+
+#~ msgid "ISO 3166-1 alpha-3"
+#~ msgstr "ISO 3166-1 alpha-3"
+
+#~ msgid "ISO 3166-1 numeric"
+#~ msgstr "ISO 3166-1 skaitmeninis"
+
+#~ msgid "Country name"
+#~ msgstr "Šalies pavadinimas"
+
+#~ msgid "Official name"
+#~ msgstr "Oficialus pavadinimas"
+
+#~ msgid "Display order"
+#~ msgstr "Atvaizdavimo tvarka"
+
+#~ msgid "Higher the number, higher the country in the list."
+#~ msgstr "Kuo didesnis skaičius, tuo aukščiau šalių sąraše."
+
+#~ msgid "Is shipping country"
+#~ msgstr "Ar pristatymo šalis"
+
+#~ msgid "Countries"
+#~ msgstr "Šalys"
+
+#~ msgid "Phone number"
+#~ msgstr "Telefono numeris"
+
+#~ msgid "In case we need to call you about your order"
+#~ msgstr "Jeigu prireiktų paskambinti jums dėl užsakymo"
+
+#~ msgid "Instructions"
+#~ msgstr "Instrukcijos"
+
+#~ msgid "Tell us anything we should know when delivering your order."
+#~ msgstr "Papasakokite ką turėtume žinoti pristatant jums užsakymą."
+
+#~ msgid "Shipping address"
+#~ msgstr "Pristatymo adresas"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "Pristatymo adresai"
+
+#~ msgid "User"
+#~ msgstr "Vartotojas"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "Numatytasis pristatymo adresas?"
+
+#~ msgid "Default billing address?"
+#~ msgstr "Numatytasis atsiskaitymo adresas?"
+
+#~ msgid "Address Hash"
+#~ msgstr "Adreso identifikatorius"
+
+#~ msgid "Date Created"
+#~ msgstr "Sukūrimo data"
+
+#~ msgid "User address"
+#~ msgstr "Vartotojo adresas"
+
+#~ msgid "User addresses"
+#~ msgstr "Vartotojo adresai"
+
+#~ msgid "This address is already in your address book"
+#~ msgstr "Šis adresas jau yra adresų knygoje"
+
+#~ msgid "Billing address"
+#~ msgstr "Sąskaitos pateikimo adresas"
+
+#~ msgid "Billing addresses"
+#~ msgstr "Sąskaitos pateikimo adresai"
+
+#~ msgid "Partner"
+#~ msgstr "Partneris"
+
+#~ msgid "Partner address"
+#~ msgstr "Partnerio adresas"
+
+#~ msgid "Partner addresses"
+#~ msgstr "Partnerio adresai"
+
+#~ msgid "Product"
+#~ msgstr "Prekė"
+
+#~ msgid "Views"
+#~ msgstr "Peržiūros"
+
+#~ msgid "Basket Additions"
+#~ msgstr "Krepšelio papildymai"
+
+#~ msgid "Purchases"
+#~ msgstr "Pirkimai"
+
+#~ msgid "Score"
+#~ msgstr "Įvertinimas"
+
+#~ msgid "Product record"
+#~ msgstr "Prekės įrašas"
+
+#~ msgid "Product records"
+#~ msgstr "Prekės įrašai"
+
+#~ msgid "Record for '%s'"
+#~ msgstr "Įrašai '%s'"
+
+#~ msgid "Product Views"
+#~ msgstr "Prekės peržiūrų"
+
+#~ msgid "Order Lines"
+#~ msgstr "Užsakymo eilutės"
+
+#~ msgid "Order Items"
+#~ msgstr "Užsakymo vienetai"
+
+#~ msgid "Total Spent"
+#~ msgstr "Viso išleista"
+
+#~ msgid "Last Order Date"
+#~ msgstr "Paskutinio užsakymo data"
+
+#~ msgid "User record"
+#~ msgstr "Vartotojo įrašas"
+
+#~ msgid "User records"
+#~ msgstr "Vartotojo įrašai"
+
+#~ msgid "User product view"
+#~ msgstr "Vartotojo prekės peržiūros"
+
+#~ msgid "User product views"
+#~ msgstr "Vartotojo prekių peržiūros"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "%(user)s peržiūrėjo '%(product)s'"
+
+#~ msgid "Search term"
+#~ msgstr "Paieškos užklausa"
+
+#~ msgid "User search query"
+#~ msgstr "Vartotojo paieškos užklausa"
+
+#~ msgid "User search queries"
+#~ msgstr "Vartotojo paieškos užklausos"
+
+#~ msgid "%(user)s searched for '%(query)s'"
+#~ msgstr "%(user)s ieškojo '%(query)s'"
+
+#~ msgid "Analytics"
+#~ msgstr "Analitikos"
+
+#~ msgid "Basket additions"
+#~ msgstr "Krepšelio papildymai"
+
+#~ msgid "Product analytics"
+#~ msgstr "Prekės analitika"
+
+#~ msgid "Name"
+#~ msgstr "Vardas"
+
+#~ msgid "Date registered"
+#~ msgstr "Registracijos data"
+
+#~ msgid "Product views"
+#~ msgstr "Prekės peržiūros"
+
+#~ msgid "Order lines"
+#~ msgstr "Užsakymo eilutės"
+
+#~ msgid "Order items"
+#~ msgstr "Užsakymo vienetai"
+
+#~ msgid "Total spent"
+#~ msgstr "Viso išleista"
+
+#~ msgid "Date of last order"
+#~ msgstr "Paskutinio užsakymo data"
+
+#~ msgid "User analytics"
+#~ msgstr "Vartotojų analitika"
+
+#~ msgid "Owner"
+#~ msgstr "Savininkas"
+
+#~ msgid "Open - currently active"
+#~ msgstr "Atidarytas - šiuo metu aktyvus"
+
+#~ msgid "Merged - superceded by another basket"
+#~ msgstr "Sujungtas - kertasi su kitu krepšeliu"
+
+#~ msgid "Saved - for items to be purchased later"
+#~ msgstr "Išsaugotas - prekės bus nupirktos vėliau"
+
+#~ msgid "Frozen - the basket cannot be modified"
+#~ msgstr "Užšaldytas - krepšelis negali būti modifikuotas"
+
+#~ msgid "Submitted - has been ordered at the checkout"
+#~ msgstr "Pateiktas - prekės buvo užsakytos"
+
+#~ msgid "Status"
+#~ msgstr "Būsena"
+
+#~ msgid "Date created"
+#~ msgstr "Sukūrimo data"
+
+#~ msgid "Date merged"
+#~ msgstr "Sujungimo data"
+
+#~ msgid "Date submitted"
+#~ msgstr "Pateikimo data"
+
+#~ msgid "Baskets"
+#~ msgstr "Krepšeliai"
+
+#~ msgid "%(status)s basket (owner: %(owner)s, lines: %(num_lines)d)"
+#~ msgstr ""
+#~ "%(status)s krepšelis (savininkas: %(owner)s, eilutės: %(num_lines)d)"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order."
+#~ msgstr ""
+#~ "Dėl techninių apribojimų mes negalime išsiųsti daugiau nei %(threshold)d "
+#~ "prekių vienu užsakymu."
+
+#~ msgid "Line Reference"
+#~ msgstr "Eilutės nuoroda"
+
+#~ msgid "Quantity"
+#~ msgstr "Kiekis "
+
+#~ msgid "Currency"
+#~ msgstr "Valiuta"
+
+#~ msgid "Price excl. Tax"
+#~ msgstr "Kaina be mokesčių"
+
+#~ msgid "Price incl. Tax"
+#~ msgstr "Kaina su mokesčiais"
+
+#~ msgid "Basket line"
+#~ msgstr "Krepšelio eilutė"
+
+#~ msgid "Basket lines"
+#~ msgstr "Krepšelio eilutės"
+
+#~ msgid ""
+#~ "Basket #%(basket_id)d, Product #%(product_id)d, quantity %(quantity)d"
+#~ msgstr ""
+#~ "Krepšelis #%(basket_id)d, Prekė #%(product_id)d, kiekis %(quantity)d"
+
+#~ msgid "You cannot modify a %s basket"
+#~ msgstr "Jūs negalite keisti %s krepšelio"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has increased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "Prekės '%(product)s' kaina buvo pakelta nuo %(old_price)s iki "
+#~ "%(new_price)s kol jūs dėjote ją į krepšelį"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has decreased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "Prekės '%(product)s' kaina buvo sumažinta nuo %(old_price)s iki "
+#~ "%(new_price)s kol jūs dėjote ją į krepšelį"
+
+#~ msgid "Line"
+#~ msgstr "Eilutė"
+
+#~ msgid "Option"
+#~ msgstr "Parinktis"
+
+#~ msgid "Value"
+#~ msgstr "Reikšmė"
+
+#~ msgid "Line attribute"
+#~ msgstr "Eilutės atributas"
+
+#~ msgid "Line attributes"
+#~ msgstr "Eilutės atributai"
+
+#~ msgid "Save for Later"
+#~ msgstr "Išsaugoti vėlesniam laikui"
+
+#~ msgid "Move to Basket"
+#~ msgstr "Perkelti į krepšelį"
+
+#~ msgid "Code"
+#~ msgstr "Kodas"
+
+#~ msgid "Variant"
+#~ msgstr "Variantas"
+
+#~ msgid "Please select a valid product"
+#~ msgstr "Prašome pasirinkti tinkamą prekę"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order. Your basket currently has %(basket)d "
+#~ "items."
+#~ msgstr ""
+#~ "Dėl techninių kliūčių mes negalime išsiųsti daugiau nei %(threshold)d "
+#~ "prekių vienu užsakymu. Jūsų krepšelis šiuo metu turi %(basket)d prekių."
+
+#~ msgid ""
+#~ "This product cannot be added to the basket as its currency isn't the same "
+#~ "as other products in your basket"
+#~ msgstr ""
+#~ "Šis produktas negali būti patalpintas į krepšelį kadangi jis nėra tos "
+#~ "pačios rūšies kaip krepšelyje esantys produktai"
+
+#~ msgid ""
+#~ "We have merged a basket from a previous session. Its contents might have "
+#~ "changed."
+#~ msgstr ""
+#~ "Mes sujungėme krepšelį iš praeitos sesijos. Jo turinys galėjo pakisti."
+
+#~ msgid "User ID"
+#~ msgstr "Vartotojo ID"
+
+#~ msgid "Email"
+#~ msgstr "El. paštas"
+
+#~ msgid "Basket status"
+#~ msgstr "Krepšelio būsena"
+
+#~ msgid "Num lines"
+#~ msgstr "Eilučių skaičius"
+
+#~ msgid "Num items"
+#~ msgstr "Įrašų skaičius"
+
+#~ msgid "Date of creation"
+#~ msgstr "Sukūrimo data"
+
+#~ msgid "Time since creation"
+#~ msgstr "Laikas nuo sukūrimo"
+
+#~ msgid "Open baskets"
+#~ msgstr "Atviri krepšeliai"
+
+#~ msgid "Time between creation and submission"
+#~ msgstr "Laikas tarp sukūrimo ir pateikimo"
+
+#~ msgid "Submitted baskets"
+#~ msgstr "Pateikti krepšeliai"
+
+#~ msgid "You can't save an item for later if you're not logged in!"
+#~ msgstr ""
+#~ "Jūs negalite išsaugoti prekės vėlesniam naudojimui, jei nesate "
+#~ "prisijungęs!"
+
+#~ msgid ""
+#~ "Your basket couldn't be updated. Please correct any validation errors "
+#~ "below."
+#~ msgstr ""
+#~ "Jūsų krepšelis negalėjo būti atnaujintas. Prašome ištaisyti bet kokias "
+#~ "patvirtinimo klaidas esančias žemiau. "
+
+#~ msgid "The '%(code)s' voucher has expired"
+#~ msgstr "'%(code)s' kuponas negalioja"
+
+#~ msgid "The '%(code)s' voucher is not active"
+#~ msgstr "Kuponas '%(code)s' nėra aktyvus"
+
+#~ msgid "Your basket does not qualify for a voucher discount"
+#~ msgstr "Jūsų krepšelis neatitinka kupono nuolaidos"
+
+#~ msgid "Voucher '%(code)s' added to basket"
+#~ msgstr "Kuponas '%(code)s' pridėtas į krepšelį"
+
+#~ msgid "You have already added the '%(code)s' voucher to your basket"
+#~ msgstr "Jūs jau pridėjote '%(code)s' kuponą į krepšelį"
+
+#~ msgid "No voucher found with code '%(code)s'"
+#~ msgstr "Toks kuponas su kodu '%(code)s' nerastas"
+
+#~ msgid "Please enter a voucher code"
+#~ msgstr "Prašome įvesti kupono kodą"
+
+#~ msgid "Voucher '%s' removed from basket"
+#~ msgstr "Kuponas '%s' pašalintas iš krepšelio"
+
+#~ msgid "Slug"
+#~ msgstr "Adreso galūnė"
+
+#~ msgid "Requires shipping?"
+#~ msgstr "Reikalingas pristatymas?"
+
+#~ msgid "Track stock levels?"
+#~ msgstr "Sekti likučių kiekį?"
+
+#~ msgid "Product class"
+#~ msgstr "Prekės klasė"
+
+#~ msgid "Product classes"
+#~ msgstr "Prekės klasės"
+
+#~ msgid "Description"
+#~ msgstr "Apibūdinimas"
+
+#~ msgid "Image"
+#~ msgstr "Paveiksliukas"
+
+#~ msgid "Category"
+#~ msgstr "Kategorija"
+
+#~ msgid "Product category"
+#~ msgstr "Prekės kategorija"
+
+#~ msgid "Product categories"
+#~ msgstr "Prekių kategorijos"
+
+#~ msgid "Stand-alone product"
+#~ msgstr "Savarankiška prekė"
+
+#~ msgid "Parent product"
+#~ msgstr "Pirminė prekė"
+
+#~ msgid "Child product"
+#~ msgstr "Antrinė prekė"
+
+#~ msgid "Product structure"
+#~ msgstr "Prekės struktūra"
+
+#~ msgid "UPC"
+#~ msgstr "Prekės kodas"
+
+#~ msgid ""
+#~ "Universal Product Code (UPC) is an identifier for a product which is not "
+#~ "specific to a particular  supplier. Eg an ISBN for a book."
+#~ msgstr ""
+#~ "Universalus prekės kodas (UPC) nėra skirtas konkrečiam tiekėjui. Pvz. "
+#~ "ISBN skirtas knygai."
+
+#~ msgid ""
+#~ "Only choose a parent product if you're creating a child product.  For "
+#~ "example if this is a size 4 of a particular t-shirt.  Leave blank if this "
+#~ "is a stand-alone product (i.e. there is only one version of this product)."
+#~ msgstr ""
+#~ "Pasirinkite pirminę prekę tik tada jeigu kuriate antrinę prekę. "
+#~ "Pavyzdžiui jeigu tai yra 4-to dydžio marškinėliai. Palikite tuščia jeigu "
+#~ "tai yra pirminė prekė (pvz. yra tik viena prekės versija)"
+
+#~ msgctxt "Product title"
+#~ msgid "Title"
+#~ msgstr "Pavadinimas"
+
+#~ msgid "Product type"
+#~ msgstr "Prekės tipas"
+
+#~ msgid "Choose what type of product this is"
+#~ msgstr "Pasirinkite kokio tipo prekė tai yra"
+
+#~ msgid "Attributes"
+#~ msgstr "Atributai"
+
+#~ msgid ""
+#~ "A product attribute is something that this product may have, such as a "
+#~ "size, as specified by its class"
+#~ msgstr ""
+#~ "Prekės atributas yra tai, ką ši prekė gali turėti, pavyzdžiui dydį, "
+#~ "nurodytą pagal jos klasę"
+
+#~ msgid "Product options"
+#~ msgstr "Prekės parinktys"
+
+#~ msgid ""
+#~ "Options are values that can be associated with a item when it is added to "
+#~ "a customer's basket.  This could be something like a personalised message "
+#~ "to be printed on a T-shirt."
+#~ msgstr ""
+#~ "Parinktys tai yra reikšmės, kurios gali būti asocijuojamos su produktu, "
+#~ "kai jis yra dedamas į vartotojo krepšelį. Tai pavyzdžiui galėtų būti "
+#~ "asmeninis užrašas, kuris bus atspausdintas ant marškinėlių."
+
+#~ msgid "Recommended products"
+#~ msgstr "Rekomenduojamos prekės"
+
+#~ msgid ""
+#~ "These are products that are recommended to accompany the main product."
+#~ msgstr "Šios prekės yra rekomenduojamos kartu su pagrindine preke."
+
+#~ msgid "Date updated"
+#~ msgstr "Atnaujinimo data"
+
+#~ msgid "Is discountable?"
+#~ msgstr "Ar gali būti pritaikyta nuolaida?"
+
+#~ msgid "This flag indicates if this product can be used in an offer or not"
+#~ msgstr ""
+#~ "Ši parinktis nustato ar ši prekė gali būti naudojama kaip pasiūlymas ar ne"
+
+#~ msgid "Your product must have a title."
+#~ msgstr "Jūsų prekė turi turėti pavadinimą."
+
+#~ msgid "Your product must have a product class."
+#~ msgstr "Jūsų prekė turi turėti prekės klasę."
+
+#~ msgid "Only child products can have a parent."
+#~ msgstr "Tik antrinės prekės gali turėti tėvą."
+
+#~ msgid "A child product needs a parent."
+#~ msgstr "Antrinė prekė turi turėti tėvą."
+
+#~ msgid "You can only assign child products to parent products."
+#~ msgstr "Jūs galite priskirti antrines prekes tik prie pirminių prekių."
+
+#~ msgid "A child product can't have a product class."
+#~ msgstr "Antrinė prekė negali turėti prekės klasės."
+
+#~ msgid "A child product can't have a category assigned."
+#~ msgstr "Antrinė prekė negali turėti priskirtos kategorijos."
+
+#~ msgid "A child product can't have options."
+#~ msgstr "Antrinė prekė negali turėti parinkčių."
+
+#~ msgid "A parent product can't have stockrecords."
+#~ msgstr "Pirminė prekė negali turėti likučių apskaitos duomenų."
+
+#~ msgid "The specified parent product is a child product."
+#~ msgstr "Pasirinkta pirminė prekė yra antrinė prekė."
+
+#~ msgid "One can't add a child product to a product with stock records."
+#~ msgstr ""
+#~ "Negalima pridėti antrinės prekės prie prekės su likučių apskaitos "
+#~ "duomenimis."
+
+#~ msgid "Primary product"
+#~ msgstr "Pirminė prekė."
+
+#~ msgid "Recommended product"
+#~ msgstr "Rekomenduojama prekė."
+
+#~ msgid "Ranking"
+#~ msgstr "Reitingas"
+
+#~ msgid ""
+#~ "Determines order of the products. A product with a higher value will "
+#~ "appear before one with a lower ranking."
+#~ msgstr ""
+#~ "Nustato prekių tvarką. Prekė su aukštesne reikšme pasirodys aukščiau "
+#~ "žemesnių reikšmių."
+
+#~ msgid "Product recommendation"
+#~ msgstr "Prekės rekomendacija"
+
+#~ msgid "Product recomendations"
+#~ msgstr "Prekių rekomendacijos"
+
+#~ msgid ""
+#~ "Code can only contain the letters a-z, A-Z, digits, and underscores, and "
+#~ "can't start with a digit."
+#~ msgstr ""
+#~ "Kodas gali būti sudarytas iš raidžių a-z, A-Z, skaičių, ir žemutinių "
+#~ "brūkšnių, ir negali prasidėti skaičiumi."
+
+#~ msgid "Text"
+#~ msgstr "Tekstas"
+
+#~ msgid "Integer"
+#~ msgstr "Sveikasis skaičius"
+
+#~ msgid "True / False"
+#~ msgstr "Taip / Ne"
+
+#~ msgid "Float"
+#~ msgstr "Slankaus kablelio skaičius"
+
+#~ msgid "Rich Text"
+#~ msgstr "Raiškusis tekstas"
+
+#~ msgid "Date"
+#~ msgstr "Data"
+
+#~ msgid "Entity"
+#~ msgstr "Subjektas"
+
+#~ msgid "File"
+#~ msgstr "Byla"
+
+#~ msgid "Option Group"
+#~ msgstr "Parinkčių grupė"
+
+#~ msgid "Required"
+#~ msgstr "Būtinas"
+
+#~ msgid "Product attribute"
+#~ msgstr "Prekės atributas"
+
+#~ msgid "Product attributes"
+#~ msgstr "Prekės atributai"
+
+#~ msgid "Must be str or unicode"
+#~ msgstr "Turi būti tekstas arba unikodas"
+
+#~ msgid "Must be a float"
+#~ msgstr "Turi būti slankaus kablelio skaičius"
+
+#~ msgid "Must be an integer"
+#~ msgstr "Turi būti sveikasis skaičius"
+
+#~ msgid "Must be a date or datetime"
+#~ msgstr "Turi būti data arba data su laiku"
+
+#~ msgid "Must be a boolean"
+#~ msgstr "Turi būti loginio tipo reikšmė"
+
+#~ msgid "Must be a model instance"
+#~ msgstr "Turi būti modelio elementas"
+
+#~ msgid "Must be an AttributeOption model object instance"
+#~ msgstr "Turi būti AttributeOption modelio objekto elementas"
+
+#~ msgid "AttributeOption has not been saved yet"
+#~ msgstr "AttributeOption dar nebuvo išsaugotas"
+
+#~ msgid "%(enum)s is not a valid choice for %(attr)s"
+#~ msgstr "%(enum)s yra netinkamas pasirinkimas atributui %(attr)s"
+
+#~ msgid "Must be a file field"
+#~ msgstr "Turi būti bylos laukas"
+
+#~ msgid "Attribute"
+#~ msgstr "Atributas"
+
+#~ msgid "Boolean"
+#~ msgstr "Loginė reikšmė"
+
+#~ msgid "Richtext"
+#~ msgstr "Tekstas"
+
+#~ msgid "Value option"
+#~ msgstr "Vertės parinktis"
+
+#~ msgid "Product attribute value"
+#~ msgstr "Prekės atributo reikšmė"
+
+#~ msgid "Product attribute values"
+#~ msgstr "Prekės atributo reikšmės"
+
+#~ msgid "Attribute option group"
+#~ msgstr "Atributų parinkčių grupė"
+
+#~ msgid "Attribute option groups"
+#~ msgstr "Atributo parinkčių grupės"
+
+#~ msgid "Group"
+#~ msgstr "Grupė"
+
+#~ msgid "Attribute option"
+#~ msgstr "Atributo parinktis"
+
+#~ msgid "Attribute options"
+#~ msgstr "Atributo parinktys"
+
+#~ msgid "Required - a value for this option must be specified"
+#~ msgstr "Būtina - reikšmė šiai parinkčiai turi būti nurodyta"
+
+#~ msgid "Optional - a value for this option can be omitted"
+#~ msgstr "Nebūtinas - reikšmė šiai parinkčiai gali būti nenurodyta"
+
+#~ msgid "Original"
+#~ msgstr "Originalus"
+
+#~ msgid "Caption"
+#~ msgstr "Antraštė"
+
+#~ msgid ""
+#~ "An image with a display order of zero will be the primary image for a "
+#~ "product"
+#~ msgstr ""
+#~ "Paveiksliukas su nuline rikiavimo reikšme bus pirminis prekės "
+#~ "paveiksliukas."
+
+#~ msgid "Product image"
+#~ msgstr "Prekės paveiksliukas"
+
+#~ msgid "Product images"
+#~ msgstr "Prekės paveiksliukai"
+
+#~ msgid "%(obj)s has no attribute named '%(attr)s'"
+#~ msgstr "%(obj)s neturi atributo '%(attr)s'"
+
+#~ msgid "%(attr)s attribute cannot be blank"
+#~ msgstr "%(attr)s atributas negali būti tuščias"
+
+#~ msgid "%(attr)s attribute %(err)s"
+#~ msgstr "%(attr)s atributas %(err)s"
+
+#~ msgctxt "Product review title"
+#~ msgid "Title"
+#~ msgstr "Pavadinimas"
+
+#~ msgid "Body"
+#~ msgstr "Turinys"
+
+#~ msgctxt "Anonymous reviewer name"
+#~ msgid "Name"
+#~ msgstr "Vardas"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Requires moderation"
+#~ msgstr "Reikalauja patikrinimo"
+
+#~ msgid "Approved"
+#~ msgstr "Patvirtinta"
+
+#~ msgid "Rejected"
+#~ msgstr "Atmesta"
+
+#~ msgid "Total Votes"
+#~ msgstr "Viso balsų"
+
+#~ msgid "Delta Votes"
+#~ msgstr "Delta balsai"
+
+#~ msgid "Product review"
+#~ msgstr "Prekės apžvalga"
+
+#~ msgid "Product reviews"
+#~ msgstr "Prekės apžvalgos"
+
+#~ msgid "Anonymous reviews must include a name and an email"
+#~ msgstr "Anoniminės apžvalgos turi turėti pavadinimą ir el. pašto adresą"
+
+#~ msgid "anonymous"
+#~ msgstr "anoniminis"
+
+#~ msgid "Only signed in users can vote"
+#~ msgstr "Tik prisijungę vartotojai gali balsuoti"
+
+#~ msgid "Up"
+#~ msgstr "Aukščiau"
+
+#~ msgid "Down"
+#~ msgstr "Žemiau"
+
+#~ msgid "Delta"
+#~ msgstr "Delta"
+
+#~ msgid "Vote"
+#~ msgstr "Balsavimas"
+
+#~ msgid "Votes"
+#~ msgstr "Balsavimai"
+
+#~ msgid "You cannot vote on your own reviews"
+#~ msgstr "Jūs negalite balsuoti savo apžvalgose"
+
+#~ msgid "Only signed-in users can vote on reviews"
+#~ msgstr "Tik prisijungę vartotojai gali balsuoti apžvalgose"
+
+#~ msgid "You can only vote once on a review"
+#~ msgstr "Jūs galite skirti tik vieną balsą apžvalgai"
+
+#~ msgid "Catalogue reviews"
+#~ msgstr "Katalogo apžvalgos"
+
+#~ msgid "Recency"
+#~ msgstr "Dažnumas"
+
+#~ msgid "Sort by"
+#~ msgstr "Rikiuoti pagal"
+
+#~ msgid "You have already reviewed this product!"
+#~ msgstr "Jūs jau parašėt apžvalgą apie šią prekę!"
+
+#~ msgid "You can't leave a review for this product."
+#~ msgstr "Jūs negalite palikti apžvalgos apie šią prekę."
+
+#~ msgid "Thank you for reviewing this product"
+#~ msgstr "Dėkojame už šios prekės apžvalgą"
+
+#~ msgid "Thanks for voting!"
+#~ msgstr "Dėkojame už balsavimą!"
+
+#~ msgid "%(filename)s is not a valid image (%(error)s)"
+#~ msgstr "%(filename)s nėra teisingas paveiksliukas (%(error)s)"
+
+#~ msgid "%s is not a valid image archive"
+#~ msgstr "%s nėra teisingas paveiksliukų archyvas"
+
+#~ msgid "The given page number was invalid."
+#~ msgstr "Suteiktas puslapio numeris yra klaidingas."
+
+#~ msgid "Checkout"
+#~ msgstr "Pirkti"
+
+#~ msgid "My email address is"
+#~ msgstr "Mano elektroninio pašto adresas"
+
+#~ msgid "I am a new customer and want to checkout as a guest"
+#~ msgstr "Aš esu naujas klientas ir noriu tęsti kaip svečias"
+
+#~ msgid ""
+#~ "I am a new customer and want to create an account before checking out"
+#~ msgstr "Aš esu naujas klientas ir noriu užsiregistruoti prieš atsiskaitymą."
+
+#~ msgid "I am a returning customer, and my password is"
+#~ msgstr "Aš esu užsiregistravęs klientas ir mano slaptažodis yra"
+
+#~ msgid "A user with that email address already exists"
+#~ msgstr "Vartotojas su tokiu el. pašto adresu jau egzistuoja"
+
+#~ msgid "You need to add some items to your basket to checkout"
+#~ msgstr "Įdėkite prekių į krepšelį prieš atsiskaitymą"
+
+#~ msgid ""
+#~ "'%(title)s' is no longer available to buy (%(reason)s). Please adjust "
+#~ "your basket to continue"
+#~ msgstr ""
+#~ "'%(title)s' nėra parduodamas dėl (%(reason)s). Prašome pataisyti krepšelį "
+#~ "kad galėtumėte tęsti."
+
+#~ msgid "Please either sign in or enter your email address"
+#~ msgstr "Prisijunkite arba įveskite el. pašto adresą"
+
+#~ msgid "Please choose a shipping address"
+#~ msgstr "Pasirinkite pristatymo adresą"
+
+#~ msgid ""
+#~ "Your previously chosen shipping address is no longer valid.  Please "
+#~ "choose another one"
+#~ msgstr ""
+#~ "Jūsų pasirinktas pristatymo adresas yra klaidingas. Pasirinkite kitą."
+
+#~ msgid "Please choose a shipping method"
+#~ msgstr "Pasirinkite pristatymo būdą"
+
+#~ msgid ""
+#~ "Your previously chosen shipping method is no longer valid.  Please choose "
+#~ "another one"
+#~ msgstr ""
+#~ "Jūsų pasirinktas pristatymo būdas daigiau nebegalimas. Pasirinkite kitą."
+
+#~ msgid ""
+#~ "Create your account and then you will be redirected back to the checkout "
+#~ "process"
+#~ msgstr ""
+#~ "Užsiregistruokite ir tada jūs būsite perkelti į atsiskaitymo puslapį"
+
+#~ msgid "Address saved"
+#~ msgstr "Adresas išsaugotas"
+
+#~ msgid "Address deleted"
+#~ msgstr "Adresas ištrintas"
+
+#~ msgid ""
+#~ "Shipping is unavailable for your chosen address - please choose another"
+#~ msgstr ""
+#~ "Pristatymas yra negalimas į jūsų pasirinktą adresą - pasirinkite kitą"
+
+#~ msgid "Your submitted shipping method is not permitted"
+#~ msgstr "Jūsų pasirinktas pristatymo būdas nėra galimas."
+
+#~ msgid ""
+#~ "A problem occurred while processing payment for this order - no payment "
+#~ "has been taken.  Please contact customer services if this problem persists"
+#~ msgstr ""
+#~ "Iškilo problema apdorojant šio užsakymo apmokėjimą - joks užmokestis "
+#~ "nebuvo nuskaitytas. Prašome susisiekti su klientu aptarnavimo skyriumi "
+#~ "jei ši problema kartojasi"
+
+#~ msgid "No order found"
+#~ msgstr "Nerasti jokie užsakymai"
+
+#~ msgid "email address"
+#~ msgstr "Elektroninio pašto adresas"
+
+#~ msgid "Staff status"
+#~ msgstr "Personalo būsena"
+
+#~ msgid "Designates whether the user can log into this admin site."
+#~ msgstr ""
+#~ "Paskiria ar vartotojas gali prisijungti į šį administravimo puslapį."
+
+#~ msgid "Active"
+#~ msgstr "Aktyvus"
+
+#~ msgid ""
+#~ "Designates whether this user should be treated as active. Unselect this "
+#~ "instead of deleting accounts."
+#~ msgstr ""
+#~ "Paskiria ar šis vartotojas turi būti traktuojamas kaip aktyvus. "
+#~ "Atžymėkite tai vietoj vartotojo pašalinimo."
+
+#~ msgid "date joined"
+#~ msgstr "prisijungimo data"
+
+#~ msgid "Users"
+#~ msgstr "Vartotojai"
+
+#~ msgid "Subject"
+#~ msgstr "Tema"
+
+#~ msgid "Body Text"
+#~ msgstr "Turinys"
+
+#~ msgid "Body HTML"
+#~ msgstr "HTML turinys"
+
+#~ msgid "Date Sent"
+#~ msgstr "Išsiuntimo data"
+
+#~ msgid "Emails"
+#~ msgstr "El. laiškai"
+
+#~ msgid "Email to %(user)s with subject '%(subject)s'"
+#~ msgstr "Išsiųsti el. laišką vartotojui %(user)s su tema '%(subject)s'"
+
+#~ msgid "Code used for looking up this event programmatically"
+#~ msgstr "Kodas naudojamas ieškant šio įvykio programatiškai"
+
+#~ msgid "This is just used for organisational purposes"
+#~ msgstr "Tai naudojama organizaciniais tikslais"
+
+#~ msgid "Order related"
+#~ msgstr "Susiję su užsakymais"
+
+#~ msgid "User related"
+#~ msgstr "Susiję su vartotojais"
+
+#~ msgid "Email Subject Template"
+#~ msgstr "El. laiško temos šablonas"
+
+#~ msgid "Email Body Template"
+#~ msgstr "El. laiško turinio šablonas"
+
+#~ msgid "Email Body HTML Template"
+#~ msgstr "El. laiško turinio HTML šablonas"
+
+#~ msgid "HTML template"
+#~ msgstr "HTML šablonas"
+
+#~ msgid "SMS Template"
+#~ msgstr "SMS šablonas"
+
+#~ msgid "SMS template"
+#~ msgstr "SMS šablonas"
+
+#~ msgid "Date Updated"
+#~ msgstr "Atnaujinimo data"
+
+#~ msgid "Communication event type"
+#~ msgstr "Susisiekimo įvykio tipas"
+
+#~ msgid "Communication event types"
+#~ msgstr "Susisiekimo įvykių tipai"
+
+#~ msgid "Inbox"
+#~ msgstr "Pašto dėžutė"
+
+#~ msgid "Archive"
+#~ msgstr "Archyvas"
+
+#~ msgid "Notification"
+#~ msgstr "Pranešimas"
+
+#~ msgid "Notifications"
+#~ msgstr "Pranešimai"
+
+#~ msgid "Key"
+#~ msgstr "Raktas"
+
+#~ msgid "Not yet confirmed"
+#~ msgstr "Dar nepatvirtinta"
+
+#~ msgid "Cancelled"
+#~ msgstr "Atšauktas"
+
+#~ msgid "Closed"
+#~ msgstr "Uždarytas"
+
+#~ msgid "Date confirmed"
+#~ msgstr "Patvirtinimo data"
+
+#~ msgid "Date cancelled"
+#~ msgstr "Atšaukimo data"
+
+#~ msgid "Date closed"
+#~ msgstr "Uždarymo data"
+
+#~ msgid "Product alert"
+#~ msgstr "Prekės įspėjimas"
+
+#~ msgid "Product alerts"
+#~ msgstr "Prekės įspėjimai"
+
+#~ msgid "Product Alerts"
+#~ msgstr "Prekės įspėjimai"
+
+#~ msgid "An alert has been created"
+#~ msgstr "Perspėjimas buvo sukurtas"
+
+#~ msgid "A confirmation email has been sent to %s"
+#~ msgstr "Patvirtinimo laiškas buvo išsiųstas į %s"
+
+#~ msgid "Your stock alert is now active"
+#~ msgstr "Jūsų įspėjimas apie likučius yra aktyvus"
+
+#~ msgid "Your stock alert cannot be confirmed"
+#~ msgstr "Jūsų įspėjimas apie likučius negali būti patvirtintas"
+
+#~ msgid "Your stock alert has been cancelled"
+#~ msgstr "Jūsų įspėjimas apie likučius buvo atšauktas"
+
+#~ msgid "Your stock alert cannot be cancelled"
+#~ msgstr "Jūsų įspėjimas apie likučius negali būti atšauktas"
+
+#~ msgid "Customer"
+#~ msgstr "Vartotojas"
+
+#~ msgid "Email address"
+#~ msgstr "El. pašto adresas"
+
+#~ msgid "Password"
+#~ msgstr "Slaptažodis"
+
+#~ msgid "The entered password is not valid!"
+#~ msgstr "Įvestas slaptažodis nėra tinkamas!"
+
+#~ msgid "Confirm password"
+#~ msgstr "Patvirtinti slaptažodį"
+
+#~ msgid "The two password fields didn't match."
+#~ msgstr "Abu slaptažodžio laukai nesutampa."
+
+#~ msgctxt "start date"
+#~ msgid "From"
+#~ msgstr "Nuo"
+
+#~ msgctxt "end date"
+#~ msgid "To"
+#~ msgstr "Iki"
+
+#~ msgid "Order number"
+#~ msgstr "Užsakymo numeris"
+
+#~ msgid "At least one field is required."
+#~ msgstr "Bent vienas laukas yra privalomas."
+
+#~ msgid "All orders"
+#~ msgstr "Visi užsakymai"
+
+#~ msgid ""
+#~ "Orders placed between %(date_from)s and %(date_to)s and order number "
+#~ "containing %(order_number)s"
+#~ msgstr ""
+#~ "Pateikti užsakymai tarp %(date_from)s ir %(date_to)s ir užsakymų numeris "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed between %(date_from)s and %(date_to)s"
+#~ msgstr "Pateikti užsakymai tarp %(date_from)s ir %(date_to)s"
+
+#~ msgid ""
+#~ "Orders placed since %(date_from)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "Pateikti užsakymai nuo %(date_from)s ir užsakymų numeris %(order_number)s"
+
+#~ msgid "Orders placed since %(date_from)s"
+#~ msgstr "Pateikti užsakymai nuo %(date_from)s"
+
+#~ msgid ""
+#~ "Orders placed until %(date_to)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "Pateikti užsakymai iki %(date_to)s ir užsakymų numeris %(order_number)s"
+
+#~ msgid "Orders placed until %(date_to)s"
+#~ msgstr "Pateikti užsakymai iki %(date_to)s"
+
+#~ msgid "Orders with order number containing %(order_number)s"
+#~ msgstr "Užsakymai su užsakymų numeriu %(order_number)s"
+
+#~ msgid "A user with this email address already exists"
+#~ msgstr "Vartotojas su tokiu el. pašto adresu jau egzistuoja"
+
+#~ msgid "Send notification to"
+#~ msgstr "Siųsti pranešimą"
+
+#~ msgid "Enter your email"
+#~ msgstr "Įveskite savo elektroninio pašto adresą"
+
+#~ msgid "There is already an active stock alert for %s"
+#~ msgstr "%s jau turi aktyvų likučių perspėjimą"
+
+#~ msgid "You already have an active alert for this product"
+#~ msgstr "Jūs jau turite aktyvų perspėjimą šiai prekei"
+
+#~ msgid "%(count)d notification archived"
+#~ msgid_plural "%(count)d notifications archived"
+#~ msgstr[0] "%(count)d pranešimas archyvuotas"
+#~ msgstr[1] "%(count)d pranešimai archyvuoti"
+#~ msgstr[2] "%(count)d pranešimų archyvuota"
+#~ msgstr[3] "%(count)d pranešimų archyvuota"
+
+#~ msgid "%(count)d notification deleted"
+#~ msgid_plural "%(count)d notifications deleted"
+#~ msgstr[0] "%(count)d pranešimas ištrintas"
+#~ msgstr[1] "%(count)d pranešimai ištrinti"
+#~ msgstr[2] "%(count)d pranešimų ištrinta"
+#~ msgstr[3] "%(count)d pranešimų ištrinta"
+
+#~ msgid "Welcome back"
+#~ msgstr "Sveiki sugrįžę"
+
+#~ msgid "Thanks for registering!"
+#~ msgstr "Dėkojame už registraciją!"
+
+#~ msgid "Profile"
+#~ msgstr "Profilis"
+
+#~ msgid "Edit Profile"
+#~ msgstr "Redaguoti profilį"
+
+#~ msgid "Profile updated"
+#~ msgstr "Profilis atnaujintas"
+
+#~ msgid "Delete profile"
+#~ msgstr "Ištrinti profilį"
+
+#~ msgid "Your profile has now been deleted. Thanks for using the site."
+#~ msgstr "Jūsų profilis buvo ištrintas. Dėkojame kad naudojotės mūsų svetaine"
+
+#~ msgid "Change Password"
+#~ msgstr "Pakeisti slaptažodį"
+
+#~ msgid "Password updated"
+#~ msgstr "Slaptažodis atnaujintas"
+
+#~ msgid "Email History"
+#~ msgstr "El. laiškų istorija"
+
+#~ msgid "Order History"
+#~ msgstr "Užsakymų istorija"
+
+#~ msgid "Order"
+#~ msgstr "Užsakymas"
+
+#~ msgid ""
+#~ "All available lines from order %(number)s have been added to your basket"
+#~ msgstr ""
+#~ "Visos galimos eilutės iš užsakymo %(number)s buvo pridėtos į jūsų krepšelį"
+
+#~ msgid ""
+#~ "It is not possible to re-order order %(number)s as none of its lines are "
+#~ "available to purchase"
+#~ msgstr ""
+#~ "Neįmanoma iš naujo užsakyti užsakymo %(number)s nes nei viena jo eilutė "
+#~ "neprieinama pirkimui"
+
+#~ msgid "%(qty)d copies of '%(product)s' have been added to your basket"
+#~ msgstr "%(qty)d '%(product)s' kopijos buvo pridėto į jūsų krepšelį"
+
+#~ msgid "'%s' has been added to your basket"
+#~ msgstr "'%s' buvo pridėtas į jūsų krepšelį"
+
+#~ msgid "Address Book"
+#~ msgstr "Adresų knyga"
+
+#~ msgid "Add a new address"
+#~ msgstr "Pridėti naują adresą"
+
+#~ msgid "Address '%s' created"
+#~ msgstr "Adresas  '%s' sukurtas"
+
+#~ msgid "Edit address"
+#~ msgstr "Redaguoti adresą"
+
+#~ msgid "Address '%s' updated"
+#~ msgstr "Adresas  '%s' atnaujintas"
+
+#~ msgid "Delete address?"
+#~ msgstr "Ištrinti adresą?"
+
+#~ msgid "Address '%s' deleted"
+#~ msgstr "Adresas '%s' ištrintas"
+
+#~ msgid "We do not ship to this country"
+#~ msgstr "Pristatymas į šią šalį nėra galimas"
+
+#~ msgid "Wish Lists"
+#~ msgstr "Pageidavimų sąrašas"
+
+#~ msgid "Quantities updated."
+#~ msgstr "Kiekiai atnaujinti."
+
+#~ msgid "Create a new wish list"
+#~ msgstr "Sukurti naują pageidavimų sąrašą"
+
+#~ msgid "The requested product no longer exists"
+#~ msgstr "Prekė nebe egzistuoja"
+
+#~ msgid "Your wishlist has been created and '%(name)s has been added"
+#~ msgstr "Jūsų pageidavimų sąrašas buvo sukurtas ir '%(name)s  buvo pridėtas"
+
+#~ msgid "Your wishlist has been created"
+#~ msgstr "Jūsų pageidavimų sąrašas buvo sukurtas"
+
+#~ msgid "%(title)s has been added to your wishlist"
+#~ msgstr "%(title)s buvo pridėti į jūsų pageidavimų sąrašą"
+
+#~ msgid "Your '%s' wishlist has been updated"
+#~ msgstr "Jūsų '%s' pageidavimų sąrašas buvo atnaujintas"
+
+#~ msgid "Delete %s"
+#~ msgstr "Ištrinti %s"
+
+#~ msgid "Your '%s' wish list has been deleted"
+#~ msgstr "Jūsų '%s' pageidavimų sąrašas buvo ištrintas"
+
+#~ msgid "'%s' was added to your wish list."
+#~ msgstr "'%s' buvo pridėtas į jūsų pageidavimų sąrašą."
+
+#~ msgid "Remove %s"
+#~ msgstr "Pašalinti %s"
+
+#~ msgid "'%(title)s' was removed from your '%(name)s' wish list"
+#~ msgstr "'%(title)s' buvo pašalinti iš jūsų '%(name)s' pageidavimų sąrašo"
+
+#~ msgid "'%(title)s' moved to '%(name)s' wishlist"
+#~ msgstr "'%(title)s' perkelti į '%(name)s' pageidavimų sąrašą"
+
+#~ msgid "Create a new product of type"
+#~ msgstr "Sukurti naują prekės tipą"
+
+#~ msgid "-- Choose type --"
+#~ msgstr "-- Pasirinkite tipą --"
+
+#~ msgid "Product title"
+#~ msgstr "Prekės pavadinimas"
+
+#~ msgid "Select an option group"
+#~ msgstr "Pasirinkite parinkčių grupę"
+
+#~ msgid ""
+#~ "At least one stock record must be set to a partner that you're associated "
+#~ "with."
+#~ msgstr ""
+#~ "Bent vienas sandėlio įrašas turi būti nustatytas partneriui su kurio "
+#~ "esate susieti."
+
+#~ msgid "Stand-alone and parent products must have at least one category"
+#~ msgstr "Savarankiška ir pirminė prekė turi turėti bent vieną kategoriją"
+
+#~ msgid "A child product should not have categories"
+#~ msgstr "Antrinė prekė neturi turėti kategorijų"
+
+#~ msgid "Title"
+#~ msgstr "Pavadinimas"
+
+#~ msgid "Variants"
+#~ msgstr "Variantai"
+
+#~ msgid "Stock records"
+#~ msgstr "Likučių kiekiai"
+
+#~ msgid "Actions"
+#~ msgstr "Veiksmai"
+
+#~ msgid "Number of child categories"
+#~ msgstr "Vidinių kategorijų kiekis"
+
+#~ msgid "%s Category"
+#~ msgid_plural "%s Categories"
+#~ msgstr[0] "%s kategorija"
+#~ msgstr[1] "%s kategorijos"
+#~ msgstr[2] "%s kategorijų"
+#~ msgstr[3] "%s kategorijų"
+
+#~ msgid "Product search results"
+#~ msgstr "Prekės paieškos rezultatai"
+
+#~ msgid "Please choose a product type"
+#~ msgstr "Pasirinkite prekės tipą"
+
+#~ msgid "Create new %(product_class)s product"
+#~ msgstr "Sukurti naują %(product_class)s prekę"
+
+#~ msgid "Create new variant of %(parent_product)s"
+#~ msgstr "Sukurti naują %(parent_product)s variantą"
+
+#~ msgid "Editing variant of %(parent_product)s"
+#~ msgstr "Keisti %(parent_product)s variantą"
+
+#~ msgid "Your submitted data was not valid - please correct the errors below"
+#~ msgstr ""
+#~ "Įvesti neteisingi duomenys - prašome pataisykite žemiau parodytas klaidas"
+
+#~ msgid "Delete product variant?"
+#~ msgstr "Ištrinti prekės variantą?"
+
+#~ msgid "Delete product?"
+#~ msgstr "Ištrinti prekę?"
+
+#~ msgid "Deleted product variant '%s'"
+#~ msgstr "Ištrintas prekės variantas '%s'"
+
+#~ msgid "Deleted product '%s'"
+#~ msgstr "Ištrinta prekė '%s'"
+
+#~ msgid "Alerts with status \"%s\""
+#~ msgstr "Perspėjimai su būsena \"%s\""
+
+#~ msgid "All alerts"
+#~ msgstr "Visi perspėjimai"
+
+#~ msgid "Add a new category"
+#~ msgstr "Pridėti naują kategoriją"
+
+#~ msgid "Category created successfully"
+#~ msgstr "Kategorija sukurta sėkmingai"
+
+#~ msgid "Update category '%s'"
+#~ msgstr "Atnaujinti kategoriją '%s'"
+
+#~ msgid "Category updated successfully"
+#~ msgstr "Kategorija sėkmingai atnaujinta"
+
+#~ msgid "Category deleted successfully"
+#~ msgstr "Kategorija sėkmingai ištrinta"
+
+#~ msgid "Add a new product type"
+#~ msgstr "Pridėti naują prekės tipą"
+
+#~ msgid "Product type created successfully"
+#~ msgstr "Prekės tipas sukurtas sėkmingai"
+
+#~ msgid "Update product type '%s'"
+#~ msgstr "Atnaujinti prekės tipą '%s'"
+
+#~ msgid "Product type updated successfully"
+#~ msgstr "Prekės tipas atnaujintas sėkmingai"
+
+#~ msgid "Delete product type '%s'"
+#~ msgstr "Ištrinti prekės tipą '%s'"
+
+#~ msgid "Unable to delete '%s'"
+#~ msgstr "Nepavyko ištrinti '%s'"
+
+#~ msgid "%i products are still assigned to this type"
+#~ msgstr "%i prekės vis dar priskirtos šiam tipui"
+
+#~ msgid "Product type deleted successfully"
+#~ msgstr "Prekės tipas sėkmingai ištrintas"
+
+#~ msgid "Communications dashboard"
+#~ msgstr "Komunikacijų prietaisų skydas"
+
+#~ msgid "Email subject template"
+#~ msgstr "El. laiško temos šablonas"
+
+#~ msgid "Email body text template"
+#~ msgstr "El. laiško turinio teksto šablonas"
+
+#~ msgid "Email body HTML template"
+#~ msgstr "El. laiško turinio HTML šablonas"
+
+#~ msgid "Preview email"
+#~ msgstr "Peržiūrėti el. laišką"
+
+#~ msgid "No order found with this number"
+#~ msgstr "Užsakymas su šiuo numeriu nerastas"
+
+#~ msgid "Please enter an email address"
+#~ msgstr "Įveskite elektroninio pašto adresą"
+
+#~ msgid ""
+#~ "The submitted form was not valid, please correct the errors and resubmit"
+#~ msgstr ""
+#~ "Pateikta forma buvo nekorektiška, prašome ištaisyti klaidas ir pateikti "
+#~ "ją dar kartą"
+
+#~ msgid "Email saved"
+#~ msgstr "El. laiškas išsaugotas"
+
+#~ msgid "A preview email has been sent to %s"
+#~ msgstr "Peržiūros el. laiškas buvo išsiųstas %s"
+
+#~ msgid "Offers dashboard"
+#~ msgstr "Pasiūlymų prietaisų skydas"
+
+#~ msgid "Start date"
+#~ msgstr "Pradžios data"
+
+#~ msgid "End date"
+#~ msgstr "Pabaigos data"
+
+#~ msgid "The end date must be after the start date"
+#~ msgstr "Pabaigos data turi būti po pradžios datos"
+
+#~ msgid "Custom condition"
+#~ msgstr "Specifinė sąlyga"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom condition"
+#~ msgstr ""
+#~ "Prašome pasirinkti ribas, tipą arba reikšme arba pasirinkti specifinę "
+#~ "sąlyga"
+
+#~ msgid "A range is required"
+#~ msgstr "Privalomos ribos"
+
+#~ msgid "Custom incentive"
+#~ msgstr "Specifinis paskatinimas"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom incentive"
+#~ msgstr ""
+#~ "Prašome pasirinkti ribas, tipą arba reikšme arba pasirinkti specifinį "
+#~ "paskatinimą"
+
+#~ msgid "No other options can be set if you are using a custom incentive"
+#~ msgstr ""
+#~ "Jokia kita parinktis negali būti nustatyta jei jūs naudojate specifinį "
+#~ "paskatinimą"
+
+#~ msgid "Offer name"
+#~ msgstr "Pasiūlymo pavadinimas"
+
+#~ msgid "Is active?"
+#~ msgstr "Yra aktyvus?"
+
+#~ msgid "Order date"
+#~ msgstr "Užsakymo data"
+
+#~ msgid "Order total"
+#~ msgstr "Užsakymo suma"
+
+#~ msgid "Cost"
+#~ msgstr "Kaina"
+
+#~ msgid "All offers"
+#~ msgstr "Visi pasiūlymai"
+
+#~ msgid "Offers matching '%s'"
+#~ msgstr "Pasiūlymai atitinkantys '%s'"
+
+#~ msgid "%s step not complete"
+#~ msgstr "%s žingsnis nebaigtas"
+
+#~ msgid "Offer '%s' updated"
+#~ msgstr "Pasiūlymas '%s' atnaujintas"
+
+#~ msgid "Offer '%s' created!"
+#~ msgstr "Pasiūlymas '%s' sukurtas!"
+
+#~ msgid "Name and description"
+#~ msgstr "Pavadinimas ir aprašymas"
+
+#~ msgid "Incentive"
+#~ msgstr "Paskatinimas"
+
+#~ msgid "Restrictions"
+#~ msgstr "Apribojimai"
+
+#~ msgid "Offer deleted!"
+#~ msgstr "Pasiūlymas ištrintas!"
+
+#~ msgid "Offer is already suspended"
+#~ msgstr "Pasiūlymas jau nebegalioja."
+
+#~ msgid "Offer suspended"
+#~ msgstr "Pasiūlymas nebegalioja"
+
+#~ msgid "Offer cannot be reinstated as it is not currently suspended"
+#~ msgstr "Pasiūlymas negali būti sugrąžintas nes jis yra galiojantis"
+
+#~ msgid "Offer reinstated"
+#~ msgstr "Pasiūlymas sugrąžintas"
+
+#~ msgid "Orders dashboard"
+#~ msgstr "Užsakymų prietaisų skydas"
+
+#~ msgid "Orders placed since %s"
+#~ msgstr "Užsakymai pateikti nuo %s"
+
+#~ msgid "Orders placed until %s"
+#~ msgstr "Užsakymai pateikti iki %s"
+
+#~ msgid "Customer name"
+#~ msgstr "Kliento vardas"
+
+#~ msgid "Product name"
+#~ msgstr "Prekės pavadinimas"
+
+#~ msgid "Partner SKU"
+#~ msgstr "Partnerio kodas"
+
+#~ msgid "Date from"
+#~ msgstr "Nuo datos"
+
+#~ msgid "Date to"
+#~ msgstr "Iki datos"
+
+#~ msgid "Voucher code"
+#~ msgstr "Kupono kodas"
+
+#~ msgid "Payment method"
+#~ msgstr "Mokėjimo būdas"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "CSV"
+#~ msgstr "CSV"
+
+#~ msgid "Get results as"
+#~ msgstr "Gauti rezultatus kaip"
+
+#~ msgid "New order status"
+#~ msgstr "Nauja užsakymo būsena"
+
+#~ msgid "Order number starts with \"{order_number}\""
+#~ msgstr "Užsakymo numeris prasideda nuo \"{order_number}\""
+
+#~ msgid "Customer name matches \"{customer_name}\""
+#~ msgstr "Kliento vardas atitinka \"{customer_name}\""
+
+#~ msgid "Product name matches \"{product_name}\""
+#~ msgstr "Prekės pavadinimas atitinka \"{product_name}\""
+
+#~ msgid "Includes an item with UPC \"{upc}\""
+#~ msgstr "Turi prekę su prekės kodu \"{upc}\""
+
+#~ msgid "Includes an item with partner SKU \"{partner_sku}\""
+#~ msgstr "Turi prekę su partnerio kodu \"{partner_sku}\""
+
+#~ msgid "Placed between {start_date} and {end_date}"
+#~ msgstr "Pateikti tarp {start_date} ir {end_date}"
+
+#~ msgid "Placed after {start_date}"
+#~ msgstr "Pateikti po {start_date}"
+
+#~ msgid "Placed before {end_date}"
+#~ msgstr "Pateikti prieš {end_date}"
+
+#~ msgid "Used voucher code \"{voucher_code}\""
+#~ msgstr "Panaudotas kupono kodas \"{voucher_code}\""
+
+#~ msgid "Paid using {payment_method}"
+#~ msgstr "Sumokėta naudojant {payment_method}"
+
+#~ msgid "Order status is {order_status}"
+#~ msgstr "Užsakymo būsena {order_status}"
+
+#~ msgid "Order value"
+#~ msgstr "Užsakymo vertė"
+
+#~ msgid "Date of purchase"
+#~ msgstr "Pirkimo data"
+
+#~ msgid "Number of items"
+#~ msgstr "Prekių kiekis"
+
+#~ msgid "Order status"
+#~ msgstr "Užsakymo būsena"
+
+#~ msgid "Customer email address"
+#~ msgstr "Kliento el. pašto adresas"
+
+#~ msgid "Deliver to name"
+#~ msgstr "Pristatyti vardu"
+
+#~ msgid "Bill to name"
+#~ msgstr "Išrašyti sąskaitą vardu"
+
+#~ msgid "The new status '%s' is not valid"
+#~ msgstr "Nauja būsena '%s' negalima"
+
+#~ msgid "The new status '%s' is not valid for this order"
+#~ msgstr "Nauja būsena '%s' šiam užsakymui negalima"
+
+#~ msgid "Unable to change order status due to payment error: %s"
+#~ msgstr "Negalima pakeisti užsakymo būsenos dėl apmokėjimo klaidos: %s"
+
+#~ msgid "Order status changed from '%(old_status)s' to '%(new_status)s'"
+#~ msgstr "Užsakymo būsena pakeista iš '%(old_status)s' į '%(new_status)s'"
+
+#~ msgid "No valid action submitted"
+#~ msgstr "Nepateikta tinkamų veiksmų"
+
+#~ msgid "Invalid action"
+#~ msgstr "Neteisingas veiksmas"
+
+#~ msgid "You must select some lines to act on"
+#~ msgstr "Pasirinkite eilučių, kurioms norite atlikti veiksmus"
+
+#~ msgid "Invalid lines requested"
+#~ msgstr "Užklaustos neteisingos eilutės"
+
+#~ msgid "The entered quantity for line #%s is not valid"
+#~ msgstr "Įvestas kiekis eilutei #%s neteisingas"
+
+#~ msgid ""
+#~ "The entered quantity for line #%(line_id)s should not be higher than "
+#~ "%(quantity)s"
+#~ msgstr ""
+#~ "Įvestas kiekis eilutei #%(line_id)s negali būti didesnis nei %(quantity)s"
+
+#~ msgid "Note saved"
+#~ msgstr "Neišsaugota"
+
+#~ msgid "Note cannot be deleted"
+#~ msgstr "Pastaba negali būti pašalinta"
+
+#~ msgid "Note deleted"
+#~ msgstr "Pastaba pašalinta"
+
+#~ msgid "Invalid form submission"
+#~ msgstr "Netinkamas formos pateikimas"
+
+#~ msgid ""
+#~ "Unable to change order status as the requested new status is not valid"
+#~ msgstr ""
+#~ "Negalima pakeisti užsakymo būsenos nes pasirinkta nauja būsena netinkama"
+
+#~ msgid "Please choose a valid amount"
+#~ msgstr "Pasirinkite tinkamą kiekį"
+
+#~ msgid "'%(status)s' is not a valid new status for line %(line_id)d"
+#~ msgstr "'%(status)s' yra netinkama nauja būsena eilutei %(line_id)d"
+
+#~ msgid ""
+#~ "Status of line #%(line_id)d changed from '%(old_status)s' to "
+#~ "'%(new_status)s'"
+#~ msgstr ""
+#~ "Eilutės #%(line_id)d būsena pakeista iš '%(old_status)s' į "
+#~ "'%(new_status)s'"
+
+#~ msgid "The event type '%s' is not valid"
+#~ msgstr "Įvykio tipas '%s' negalimas"
+
+#~ msgid "Unable to create shipping event: %s"
+#~ msgstr "Negalima sukurti pristatymo įvykio: %s"
+
+#~ msgid "Unable to create shipping event due to payment error: %s"
+#~ msgstr "Negalima sukurti pristatymo įvykio dėl apmokėjimo klaidos: %s"
+
+#~ msgid "Shipping event created"
+#~ msgstr "Pristatymo įvykis sukurtas"
+
+#~ msgid "Unable to create payment event due to payment error: %s"
+#~ msgstr "Negalima sukurti apmokėjimo įvykio dėl apmokėjimo klaidos: %s"
+
+#~ msgid "Unable to create payment event: %s"
+#~ msgstr "Negalima sukurti apmokėjimo įvykio: %s"
+
+#~ msgid "Payment event created"
+#~ msgstr "Apmokėjimo įvykis sukurtas"
+
+#~ msgid "%(field)s changed from '%(old_value)s' to '%(new_value)s'"
+#~ msgstr "%(field)s pakeista iš '%(old_value)s' į '%(new_value)s'"
+
+#~ msgid ""
+#~ "Delivery address updated:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Pristatymo adresas atnaujintas:\n"
+#~ "%s"
+
+#~ msgid "Delivery address updated"
+#~ msgstr "Pristatymo adresas atnaujintas"
+
+#~ msgid "Pages dashboard"
+#~ msgstr "Puslapių prietaisų skydas"
+
+#~ msgctxt "Page title"
+#~ msgid "Title"
+#~ msgstr "Pavadinimas"
+
+#~ msgid "Example: '/about/contact/'."
+#~ msgstr "Pvz: '/about/contact/'."
+
+#~ msgid "All pages"
+#~ msgstr "Visi puslapiai"
+
+#~ msgid " with title containing '%s'"
+#~ msgstr "su pavadinimu turinčiu '%s'"
+
+#~ msgid "Create New Page"
+#~ msgstr "Sukurt naują puslapį"
+
+#~ msgid "Deleted page '%s'"
+#~ msgstr "Ištrintas puslapis '%s'"
+
+#~ msgid "Partners dashboard"
+#~ msgstr "Partnerių prietaisų skydas"
+
+#~ msgctxt "Partner's name"
+#~ msgid "Name"
+#~ msgstr "Vardas"
+
+#~ msgid "Full dashboard access"
+#~ msgstr "Pilnas prietaisų skydo pasiekiamumas"
+
+#~ msgid "Limited dashboard access"
+#~ msgstr "Apribotas prietaisų skydo pasiekiamumas"
+
+#~ msgid "User role"
+#~ msgstr "Vartotojo rolė"
+
+#~ msgid "Confirm Password"
+#~ msgstr "Patvirtinti slaptažodį"
+
+#~ msgid "All partners"
+#~ msgstr "Visi partneriai"
+
+#~ msgid "Partners matching '%s'"
+#~ msgstr "Partneriai atitinkantys '%s'"
+
+#~ msgid "Create new partner"
+#~ msgstr "Sukurti naują partnerį"
+
+#~ msgid "Partner '%s' was created successfully."
+#~ msgstr "Partneris '%s' buvo sėkmingai sukurtas"
+
+#~ msgid "Partner '%s' was updated successfully."
+#~ msgstr "Partneris '%s' buvo sėkmingai atnaujintas"
+
+#~ msgid "Partner '%s' was deleted successfully."
+#~ msgstr "Partneris '%s' buvo sėkmingai ištrintas"
+
+#~ msgid "Create user"
+#~ msgstr "Sukurti vartotoją"
+
+#~ msgid "User '%s' was created successfully."
+#~ msgstr "Vartotojas '%s' buvo sėkmingai sukurtas."
+
+#~ msgid "User '%(name)s' was linked to '%(partner_name)s'"
+#~ msgstr "Vartotojas '%(name)s' buvo susietas su '%(partner_name)s'"
+
+#~ msgid "User '%(name)s' is already linked to '%(partner_name)s'"
+#~ msgstr "Vartotojas '%(name)s' jau yra susietas su '%(partner_name)s'"
+
+#~ msgid "User '%(name)s' is not linked to '%(partner_name)s'"
+#~ msgstr "Vartotojas '%(name)s' nėra susietas su '%(partner_name)s'"
+
+#~ msgid "Edit user '%s'"
+#~ msgstr "Redaguoti vartotoją '%s'"
+
+#~ msgid "User '%s' was updated successfully."
+#~ msgstr "Vartotojas '%s' buvo sėkmingai atnaujintas."
+
+#~ msgid "Promotions dashboard"
+#~ msgstr "Reklamų prietaisų skydas"
+
+#~ msgid "Promotion type"
+#~ msgstr "Reklamos tipas"
+
+#~ msgid "Position"
+#~ msgstr "Pozicija"
+
+#~ msgid "Where in the page this content block will appear"
+#~ msgstr "Kur puslapyje bus atvaizduojamas šis turinio blokas"
+
+#~ msgid "Content blocks can only be linked to internal URLs"
+#~ msgstr "Turinio blokas gali būti susietas tik su vidiniais URLs"
+
+#~ msgid "Content block removed successfully"
+#~ msgstr "Turinio blokas sėkmingai pašalintas"
+
+#~ msgid "Content block created successfully"
+#~ msgstr "Turinio blokas sėkmingai sukurtas"
+
+#~ msgid "Create a new %s content block"
+#~ msgstr "Sukurti naują %s turinio bloką"
+
+#~ msgid "Product list content block created"
+#~ msgstr "Sukurtas prekių sąrašo turinio blokas"
+
+#~ msgid "Update content block"
+#~ msgstr "Atnaujinti turinio bloką"
+
+#~ msgid "Content block updated successfully"
+#~ msgstr "Turinio blokas sėkmingai atnaujintas"
+
+#~ msgid "Content block '%(block)s' added to page '%(page)s'"
+#~ msgstr "Turinio blokas '%(block)s' pridėtas į puslapį '%(page)s'"
+
+#~ msgid "No link found to delete"
+#~ msgstr "Nerasta jokia nuoroda kuri galėtų būti ištrinta"
+
+#~ msgid "Content block removed from page '%s'"
+#~ msgstr "Turinio blokas pašalintas iš puslapio '%s'"
+
+#~ msgid "Product list promotion updated"
+#~ msgstr "Prekių sąrašo reklama atnaujinta"
+
+#~ msgid "Content block deleted successfully"
+#~ msgstr "Turinio blokas sėkmingai ištrintas"
+
+#~ msgid "Ranges dashboard"
+#~ msgstr "Ribų prietaisų skydas"
+
+#~ msgid "Product SKUs or UPCs"
+#~ msgstr "Prekės kodai arba universalūs prekės kodai"
+
+#~ msgid "You can paste in a selection of SKUs or UPCs"
+#~ msgstr "Galite įterpti prekės kodų arba universalių prekės kodų rinkinį "
+
+#~ msgid "File of SKUs or UPCs"
+#~ msgstr "Prekės kodų arba universalių prekės kodų byla"
+
+#~ msgid "Either comma-separated, or one identifier per line"
+#~ msgstr "Arba kableliu atskirta, arba vienas identifikatorius eilutėje"
+
+#~ msgid "You must submit either a list of SKU/UPCs or a file"
+#~ msgstr ""
+#~ "Turite pateikti prekės kodų/universalių prekės kodų sąrašą arba byla"
+
+#~ msgid "The products with SKUs or UPCs matching %s are already in this range"
+#~ msgstr ""
+#~ "Prekės su prekės kodais arba universaliai prekės kodais atitinkančiais %s "
+#~ "jau yra šiose ribose"
+
+#~ msgid "No products exist with a SKU or UPC matching %s"
+#~ msgstr ""
+#~ "Nėra jokių prekių su prekės kodu arba universaliu prekės kodu "
+#~ "atitinkančiu %s"
+
+#~ msgid "Create range"
+#~ msgstr "Sukurti ribas"
+
+#~ msgid "Range deleted"
+#~ msgstr "Ribos ištrintos"
+
+#~ msgid "Removed %d product from range"
+#~ msgid_plural "Removed %d products from range"
+#~ msgstr[0] "Pašalinta %d prekė iš ribų"
+#~ msgstr[1] "Pašalinta %d prekės ir ribų"
+#~ msgstr[2] "Pašalinta %d prekių iš ribų"
+#~ msgstr[3] "Pašalinta %d prekių iš ribų"
+
+#~ msgid "%d product added to range"
+#~ msgid_plural "%d products added to range"
+#~ msgstr[0] "%d prekė pridėta į ribas"
+#~ msgstr[1] "%d prekės pridėtos į ribas"
+#~ msgstr[2] "%d prekių pridėta ir ribas"
+#~ msgstr[3] "%d prekių pridėta ir ribas"
+
+#~ msgid "No product(s) were found with SKU or UPC matching %s"
+#~ msgstr ""
+#~ "Jokia prekė(s) nebuvo rasto su prekės kodu arba universaliu prekės kodu "
+#~ "atitinkančiu %s"
+
+#~ msgid "Reports dashboard"
+#~ msgstr "Ataskaitų prietaisų skydas"
+
+#~ msgid "Report Type"
+#~ msgstr "Ataskaitos tipas"
+
+#~ msgid "Only the offer and order reports use the selected date range"
+#~ msgstr "Tik pasiūlymų ir užsakymų ataskaitos naudoja pasirinktas datų ribas"
+
+#~ msgid "The report is inclusive of this date"
+#~ msgstr "Į ataskaitą ši data patenka "
+
+#~ msgid "Download"
+#~ msgstr "Parsisiųsti"
+
+#~ msgid "Your start date must be before your end date"
+#~ msgstr "Jūsų pradžios data turi būti prieš jūsų pabaigos datą"
+
+#~ msgid "%(report_filter)s between %(start_date)s and %(end_date)s"
+#~ msgstr "%(report_filter)s tarp %(start_date)s ir %(end_date)s"
+
+#~ msgid "You do not have access to this report"
+#~ msgstr "Jūs neturi priėjimo prie šios ataskaitos"
+
+#~ msgid "Reviews dashboard"
+#~ msgstr "Apžvalgų prietaisų skydas"
+
+#~ msgid "Keyword"
+#~ msgstr "Raktažodis"
+
+#~ msgid "to"
+#~ msgstr "į"
+
+#~ msgid ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+#~ msgstr ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+
+#~ msgid " created after %s"
+#~ msgstr "sukurta po %s"
+
+#~ msgid " created before %s"
+#~ msgstr "sukurta prieš %s"
+
+#~ msgid " created between %(start_date)s and %(end_date)s"
+#~ msgstr "sukurta tarp %(start_date)s ir %(end_date)s"
+
+#~ msgid "All reviews"
+#~ msgstr "Visos apžvalgos"
+
+#~ msgid " with status matching '%s'"
+#~ msgstr "su būsena atitinkančia '%s'"
+
+#~ msgid " with keyword matching '%s'"
+#~ msgstr "su raktažodžiu atitinkančiu '%s'"
+
+#~ msgid " with customer name matching '%s'"
+#~ msgstr "su kliento vardu atitinkančiu '%s'"
+
+#~ msgid "Shipping dashboard"
+#~ msgstr "Pristatymo prietaisų skydas"
+
+#~ msgid "%d Row"
+#~ msgid_plural "%d Rows"
+#~ msgstr[0] "%d eilutė"
+#~ msgstr[1] "%d eilutės"
+#~ msgstr[2] "%d eilučių"
+#~ msgstr[3] "%d eilučių"
+
+#~ msgid "Users dashboard"
+#~ msgstr "Vartotoju prietaisų skydas"
+
+#~ msgctxt "User's name"
+#~ msgid "Name"
+#~ msgstr "Vardas"
+
+#~ msgid "%(main_filter)s %(email_filter)s %(name_filter)s"
+#~ msgstr "%(main_filter)s %(email_filter)s %(name_filter)s"
+
+#~ msgid "All users"
+#~ msgstr "Visi vartotojai"
+
+#~ msgid " with email matching '%s'"
+#~ msgstr "su el. paštu atitinkančiu '%s'"
+
+#~ msgid " with name matching '%s'"
+#~ msgstr "su vardu atitinkančiu '%s'"
+
+#~ msgid "Users' status successfully changed"
+#~ msgstr "Vartotojų būsena sėkmingai pakeista"
+
+#~ msgid "A password reset email has been sent"
+#~ msgstr "Slaptažodžio atkūrimo el. laiškas buvo išsiųstas"
+
+#~ msgid "All Alerts"
+#~ msgstr "Visi perspėjimai"
+
+#~ msgid " with customer email matching '%s'"
+#~ msgstr "su kliento el. pašto adresu atitinkančiu '%s'"
+
+#~ msgid "Product alert saved"
+#~ msgstr "Prekės įspėjimas išsaugodas"
+
+#~ msgid "Product alert deleted"
+#~ msgstr "Prekės įspėjimas ištrintas"
+
+#~ msgid "Vouchers dashboard"
+#~ msgstr "Kuponų prietaisų skydas"
+
+#~ msgid "Start datetime"
+#~ msgstr "Pradžios data/laikas"
+
+#~ msgid "End datetime"
+#~ msgstr "Pabaigos data/laikas"
+
+#~ msgid "Usage"
+#~ msgstr "Naudojimas"
+
+#~ msgid "Which products get a discount?"
+#~ msgstr "Kurios prekės turi turėti nuolaidas?"
+
+#~ msgid "Percentage off of products in range"
+#~ msgstr "Procentas prekių šiose ribose"
+
+#~ msgid "Fixed amount off of products in range"
+#~ msgstr "Fiksuotas prekių kiekis šiose ribose"
+
+#~ msgid "Discount is a percentage off of the shipping cost"
+#~ msgstr "Nuolaida yra procentinė išraiška nuo pristatymo kainos"
+
+#~ msgid "Discount is a fixed amount of the shipping cost"
+#~ msgstr "Nuolaida yra fiksuota suma nuo pristatymo kainos"
+
+#~ msgid "Get shipping for a fixed price"
+#~ msgstr "Gauti pristatymą už fiksuota kainą"
+
+#~ msgid "Discount type"
+#~ msgstr "Nuolaidos tipas"
+
+#~ msgid "Discount value"
+#~ msgstr "Nuolaidos vertė"
+
+#~ msgid "The name '%s' is already in use"
+#~ msgstr "Vardas '%s' jau naudojamas"
+
+#~ msgid "The code '%s' is already in use"
+#~ msgstr "Kodas '%s' jau naudojamas"
+
+#~ msgid "The start date must be before the end date"
+#~ msgstr "Pradžios data turi būti prieš pabaigos datą"
+
+#~ msgid "Is Active?"
+#~ msgstr "Yra aktyvus?"
+
+#~ msgid "%(main_filter)s %(name_filter)s %(code_filter)s"
+#~ msgstr "%(main_filter)s %(name_filter)s %(code_filter)s"
+
+#~ msgid "All vouchers"
+#~ msgstr "Visi kuponai"
+
+#~ msgid "with name matching '%s'"
+#~ msgstr "su vardu atitinkančiu '%s'"
+
+#~ msgid "with code '%s'"
+#~ msgstr "su kodu '%s'"
+
+#~ msgid "Active vouchers"
+#~ msgstr "Aktyvūs kuponai"
+
+#~ msgid "Create voucher"
+#~ msgstr "Sukurti kuponą"
+
+#~ msgid "Offer for voucher '%s'"
+#~ msgstr "Pasiūlymas kuponui '%s'"
+
+#~ msgid "Voucher created"
+#~ msgstr "Kuponas sukurtas"
+
+#~ msgid "Voucher updated"
+#~ msgstr "Kuponas atnaujintas"
+
+#~ msgid "Voucher deleted"
+#~ msgstr "Kuponas ištrintas"
+
+#~ msgid "This is displayed within the customer's basket"
+#~ msgstr "Tai atvaizduojama kliento krepšelyje"
+
+#~ msgid "This is displayed on the offer browsing page"
+#~ msgstr "Tai atvaizduojama pasiūlymų puslapyje"
+
+#~ msgid "Site offer - available to all users"
+#~ msgstr "Tinklalapio pasiūlymas - galimas kiekvienam vartotojui"
+
+#~ msgid ""
+#~ "Voucher offer - only available after entering the appropriate voucher code"
+#~ msgstr "Kupono pasiūlymas - galimas tik suvedus teisinga kupono kodą"
+
+#~ msgid "User offer - available to certain types of user"
+#~ msgstr "Pasiūlymas vartotojui - galimas tam tikrų tipų vartotojams"
+
+#~ msgid ""
+#~ "Session offer - temporary offer, available for a user for the duration of "
+#~ "their session"
+#~ msgstr ""
+#~ "Sesijos pasiūlymas - laikinas pasiūlymas galimas vartotojui, jo sesijos "
+#~ "periodui"
+
+#~ msgid "Condition"
+#~ msgstr "Sąlygos"
+
+#~ msgid "Benefit"
+#~ msgstr "Nauda"
+
+#~ msgid "Priority"
+#~ msgstr "Prioritetas"
+
+#~ msgid "The highest priority offers are applied first"
+#~ msgstr "Aukščiausio prioriteto pasiūlymai pritaikomi pirmi"
+
+#~ msgid "Max global applications"
+#~ msgstr "Maksimalios globalios paraiškos"
+
+#~ msgid "The number of times this offer can be used before it is unavailable"
+#~ msgstr ""
+#~ "Kartai kiek šis pasiūlymas gali būti panaudotas kol tampa nebegaliojančiu"
+
+#~ msgid "Max user applications"
+#~ msgstr "Maksimalios vartotojų paraiškos"
+
+#~ msgid "The number of times a single user can use this offer"
+#~ msgstr "Kartai kiek vienas vartotojas gali pasinaudoti šiuo pasiūlymu"
+
+#~ msgid "Max basket applications"
+#~ msgstr "Maksimalios krepšelio paraiškos"
+
+#~ msgid ""
+#~ "The number of times this offer can be applied to a basket (and order)"
+#~ msgstr ""
+#~ "Kartai kiek šis pasiūlymas gali būti pritaikytas krepšeliui (ir užsakymui)"
+
+#~ msgid "Max discount"
+#~ msgstr "Didžiausia nuolaida"
+
+#~ msgid ""
+#~ "When an offer has given more discount to orders than this threshold, then "
+#~ "the offer becomes unavailable"
+#~ msgstr ""
+#~ "Kai pasiūlymas suteikia daugiau nuolaidų užsakymui nei ši riba, "
+#~ "pasiūlymas tampa nebegaliojančiu"
+
+#~ msgid "Total Discount"
+#~ msgstr "Nuolaidų suma"
+
+#~ msgid "Number of applications"
+#~ msgstr "Paraiškų kiekis"
+
+#~ msgid "Number of Orders"
+#~ msgstr "Užsakymų skaičius"
+
+#~ msgid "URL redirect (optional)"
+#~ msgstr "URL peradresavimas (nebūtina)"
+
+#~ msgid "Conditional offer"
+#~ msgstr "Sąlygotas pasiūlymas"
+
+#~ msgid "Conditional offers"
+#~ msgstr "Sąlygoti pasiūlymai"
+
+#~ msgid "End date should be later than start date"
+#~ msgstr "Pabaigos data turi būti vėliau nei pradžios data"
+
+#~ msgid "Offer is suspended"
+#~ msgstr "Pasiūlymas nebegalioja"
+
+#~ msgid "Limited to %(total)d uses (%(remainder)d remaining)"
+#~ msgstr "Ribota iki %(total)d panaudojimų (liko %(remainder)d)"
+
+#~ msgid "Limited to 1 use per user"
+#~ msgstr "Ribota iki 1 panaudojimo vienam vartotojui"
+
+#~ msgid "Limited to %(total)d uses per user"
+#~ msgstr "Ribota iki %(total)d panaudojimų vienam vartotojui"
+
+#~ msgid "Limited to 1 use per basket"
+#~ msgstr "Ribota iki 1 panaudojimo vienam krepšeliui"
+
+#~ msgid "Limited to %(total)d uses per basket"
+#~ msgstr "Ribota iki %(total)d panaudojimų vienam krepšeliui"
+
+#~ msgid "Available between %(start)s and %(end)s"
+#~ msgstr "Galioja tarp %(start)s ir %(end)s"
+
+#~ msgid "Available from %(start)s"
+#~ msgstr "Galioja nuo %(start)s"
+
+#~ msgid "Available until %(end)s"
+#~ msgstr "Galioja iki %(end)s"
+
+#~ msgid "Limited to a cost of %(max)s"
+#~ msgstr "Ribota iki %(max)s kainos"
+
+#~ msgid "Range"
+#~ msgstr "Ribos"
+
+#~ msgid "Discount is a percentage off of the product's value"
+#~ msgstr "Nuolaida yra procentinė išraiška nuo prekės kainos"
+
+#~ msgid "Discount is a fixed amount off of the product's value"
+#~ msgstr "Nuolaida yra fiksuota suma nuo prekės kainos"
+
+#~ msgid "Discount is to give the cheapest product for free"
+#~ msgstr "Nuolaida suteikiama pigiausiai prekei nemokamai"
+
+#~ msgid "Get the products that meet the condition for a fixed price"
+#~ msgstr "Gauti prekes kurios atitinka fiksuotos kainos sąlygą"
+
+#~ msgid "Max Affected Items"
+#~ msgstr "Maksimalus paveiktų prekių kiekis"
+
+#~ msgid ""
+#~ "Set this to prevent the discount consuming all items within the range "
+#~ "that are in the basket."
+#~ msgstr ""
+#~ "Pasirinkite tai kad užkirsti kelią nuolaidai paveikti visas prekes "
+#~ "esančias ribose kurios yra krepšelyje."
+
+#~ msgid "Custom class"
+#~ msgstr "Specifinė klasė"
+
+#~ msgid "Benefits"
+#~ msgstr "Naudos"
+
+#~ msgid "Multibuy benefits require a product range"
+#~ msgstr "Daugybinio pirkimo naudos reikalauja prekės ribų"
+
+#~ msgid "Multibuy benefits don't require a value"
+#~ msgstr "Daugybinio pirkimo naudos nereikalauja reikšmės"
+
+#~ msgid "Multibuy benefits don't require a 'max affected items' attribute"
+#~ msgstr ""
+#~ "Daugybinės naudos nereikalauja 'maksimalus paveiktų prekių kiekis' "
+#~ "atributo"
+
+#~ msgid "Percentage benefits require a product range"
+#~ msgstr "Procentinės išraiškos naudos reikalauja prekės ribų"
+
+#~ msgid "Percentage discount cannot be greater than 100"
+#~ msgstr "Procentinės išraiškos nuolaida negali būti didesnė nei 100"
+
+#~ msgid "A discount value is required"
+#~ msgstr "Reikalinga nuolaidos reikšmė"
+
+#~ msgid ""
+#~ "No range should be selected as this benefit does not apply to products"
+#~ msgstr ""
+#~ "Jokios ribos neturi būti pasirinktos nes ši nauda netinka jokioms prekėms"
+
+#~ msgid "Shipping discounts don't require a 'max affected items' attribute"
+#~ msgstr ""
+#~ "Pristatymo nuolaidos nereikalauja 'maksimalus paveiktų prekių kiekis' "
+#~ "atributo"
+
+#~ msgid ""
+#~ "No range should be selected as the condition range will be used instead."
+#~ msgstr ""
+#~ "Jokios ribos neturi būti pasirinktos nes bus naudojamos sąlygų ribos."
+
+#~ msgid "Fixed discount benefits require a product range"
+#~ msgstr "Fiksuotos nuolaidos naudos reikalauja prekės ribų"
+
+#~ msgid "Fixed discount benefits require a value"
+#~ msgstr "Fiksuotos nuolaidos naudos reikalauja reikšmės"
+
+#~ msgid "Depends on number of items in basket that are in condition range"
+#~ msgstr "Priklauso nuo prekių kiekio krepšelyje kurios yra sąlygos ribose"
+
+#~ msgid "Depends on value of items in basket that are in condition range"
+#~ msgstr "Priklauso nuo prekių kainų krepšelyje kurios yra sąlygos ribose"
+
+#~ msgid ""
+#~ "Needs to contain a set number of DISTINCT items from the condition range"
+#~ msgstr "Turi turėti nustatyta kiekį ATSKIRŲ prekių iš sąlygos ribų"
+
+#~ msgid "Conditions"
+#~ msgstr "Sąlygos"
+
+#~ msgid "Is public?"
+#~ msgstr "Yra vieša?"
+
+#~ msgid "Public ranges have a customer-facing page"
+#~ msgstr "Viešos ribos turi kliento matomą puslapį"
+
+#~ msgid "Includes all products?"
+#~ msgstr "Įtraukia visas prekes?"
+
+#~ msgid "Included Products"
+#~ msgstr "Įtrauktos prekės"
+
+#~ msgid "Excluded Products"
+#~ msgstr "Neįtrauktos prekės"
+
+#~ msgid "Included Categories"
+#~ msgstr "Įtrauktos kategorijos"
+
+#~ msgid "File Path"
+#~ msgstr "Bylos kelias"
+
+#~ msgid "Size"
+#~ msgstr "Dydis"
+
+#~ msgid "Uploaded By"
+#~ msgstr "Įkelta"
+
+#~ msgid "Date Uploaded"
+#~ msgstr "Įkėlimo data"
+
+#~ msgid "Error Message"
+#~ msgstr "Klaidos žinutė"
+
+#~ msgid "Date Processed"
+#~ msgstr "Apdorojimo data"
+
+#~ msgid "Number of New SKUs"
+#~ msgstr "Naujų prekės kodų kiekis"
+
+#~ msgid "Number of Unknown SKUs"
+#~ msgstr "Nežinomų prekės kodų kiekis"
+
+#~ msgid "Number of Duplicate SKUs"
+#~ msgstr "Pasikartojančių prekės kodų kiekis"
+
+#~ msgid "Range Product Uploaded File"
+#~ msgstr "Prekių ribų įkelta byla"
+
+#~ msgid "Range Product Uploaded Files"
+#~ msgstr "Prekių ribų įkeltos bylos"
+
+#~ msgid "%(value)s%% discount on %(range)s"
+#~ msgstr "%(value)s%% nuolaida taikoma %(range)s"
+
+#~ msgid "Percentage discount benefit"
+#~ msgstr "Procentinės išraiškos nuolaidos nauda"
+
+#~ msgid "Percentage discount benefits"
+#~ msgstr "Procentinės išraiškos nuolaidos naudos"
+
+#~ msgid "%(value)s discount on %(range)s"
+#~ msgstr "%(value)s nuolaida taikoma %(range)s"
+
+#~ msgid "Absolute discount benefit"
+#~ msgstr "Absoliuti nuolaidos nauda"
+
+#~ msgid "Absolute discount benefits"
+#~ msgstr "Absoliučios nuolaidos naudos"
+
+#~ msgid "The products that meet the condition are sold for %(amount)s"
+#~ msgstr "Prekės kurios atitinka sąlygą yra parduodamos už %(amount)s"
+
+#~ msgid "Fixed price benefit"
+#~ msgstr "Fiksuotos kainos nauda"
+
+#~ msgid "Fixed price benefits"
+#~ msgstr "Fiksuotos kainos naudos"
+
+#~ msgid "Cheapest product from %(range)s is free"
+#~ msgstr "Pigiausia prekė iš  %(range)s yra nemokama"
+
+#~ msgid "Multibuy discount benefit"
+#~ msgstr "Daugybinio pirkimo nuolaidos nauda"
+
+#~ msgid "Multibuy discount benefits"
+#~ msgstr "Daugybinio prikimo nuolaidos naudos"
+
+#~ msgid "%(amount)s off shipping cost"
+#~ msgstr "%(amount)s nuo pristatymo kainos"
+
+#~ msgid "Shipping absolute discount benefit"
+#~ msgstr "Pristatymo absoliučios nuolaidos nauda"
+
+#~ msgid "Shipping absolute discount benefits"
+#~ msgstr "Pristatymo absoliučios nuolaidos naudos"
+
+#~ msgid "Get shipping for %(amount)s"
+#~ msgstr "Gauti pristatymą už %(amount)s"
+
+#~ msgid "Fixed price shipping benefit"
+#~ msgstr "Fiksuotos kainos pristatymo nauda"
+
+#~ msgid "Fixed price shipping benefits"
+#~ msgstr "Fiksuotos kainos pristatymo naudos"
+
+#~ msgid "%(value)s%% off of shipping cost"
+#~ msgstr "%(value)s%% nuo pristatymo kainos"
+
+#~ msgid "Shipping percentage discount benefit"
+#~ msgstr "Pristatymo procentinės išraiškos nuolaidos nauda"
+
+#~ msgid "Shipping percentage discount benefits"
+#~ msgstr "Pristatymo procentinės išraiškos nuolaidos naudos"
+
+#~ msgid "Basket includes %(count)d item(s) from %(range)s"
+#~ msgstr "Krepšelis įtraukia %(count)d prekę(s) iš %(range)s"
+
+#~ msgid "Count condition"
+#~ msgstr "Kiekio sąlyga"
+
+#~ msgid "Count conditions"
+#~ msgstr "Kiekio sąlygos"
+
+#~ msgid "Buy %(delta)d more product from %(range)s"
+#~ msgid_plural "Buy %(delta)d more products from %(range)s"
+#~ msgstr[0] "Pirkti dar %(delta)d prekę iš %(range)s"
+#~ msgstr[1] "Pirkti dar %(delta)d prekes iš %(range)s"
+#~ msgstr[2] "Pirkti dar %(delta)d prekių iš %(range)s"
+#~ msgstr[3] "Pirkti dar %(delta)d prekių iš %(range)s"
+
+#~ msgid "Basket includes %(count)d distinct item(s) from %(range)s"
+#~ msgstr "Krepšelis įtraukia %(count)d atskirą prekę(s) iš %(range)s"
+
+#~ msgid "Coverage Condition"
+#~ msgstr "Padengimo sąlyga"
+
+#~ msgid "Coverage Conditions"
+#~ msgstr "Padengimo sąlygos"
+
+#~ msgid "Basket includes %(amount)s from %(range)s"
+#~ msgstr "Krepšelis įtraukia %(amount)s iš %(range)s"
+
+#~ msgid "Value condition"
+#~ msgstr "Vertės sąlyga"
+
+#~ msgid "Value conditions"
+#~ msgstr "Vertės sąlygos"
+
+#~ msgid "Spend %(value)s more from %(range)s"
+#~ msgstr "Išleisti %(value)s daugiau iš %(range)s"
+
+#~ msgid "Offer"
+#~ msgstr "Pasiūlymas"
+
+#~ msgid "Total discount"
+#~ msgstr "Nuolaidų suma"
+
+#~ msgid "Offer performance"
+#~ msgstr "Pasiūlymo efektyvumas"
+
+#~ msgid "Site"
+#~ msgstr "Tinklalapis"
+
+#~ msgid "Billing Address"
+#~ msgstr "Sąskaitos pateikimo adresas"
+
+#~ msgid "Order total (inc. tax)"
+#~ msgstr "Užsakymo suma (su PVM)"
+
+#~ msgid "Order total (excl. tax)"
+#~ msgstr "Užsakymo suma (be PVM)"
+
+#~ msgid "Shipping charge (inc. tax)"
+#~ msgstr "Pristatymo kaina (su PVM)"
+
+#~ msgid "Shipping charge (excl. tax)"
+#~ msgstr "Pristatymo kaina (be PVM)"
+
+#~ msgid "Shipping Address"
+#~ msgstr "Pristatymo adresas"
+
+#~ msgid "Shipping method"
+#~ msgstr "Pristatymo būdas"
+
+#~ msgid "Guest email address"
+#~ msgstr "Svečio el.pašto adresas"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status for order %(number)s (current "
+#~ "status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s' nėra tinkama būsena užsakymui %(number)s (dabartinė "
+#~ "būsena: '%(status)s')"
+
+#~ msgid "In progress"
+#~ msgstr "Progrese"
+
+#~ msgid "Note Type"
+#~ msgstr "Pastabos tipas"
+
+#~ msgid "Message"
+#~ msgstr "Žinutė"
+
+#~ msgid "Order Note"
+#~ msgstr "Užsakymo pastaba"
+
+#~ msgid "Order Notes"
+#~ msgstr "Užsakymo pastabos"
+
+#~ msgid "Event Type"
+#~ msgstr "Įvykio tipas"
+
+#~ msgid "Communication Event"
+#~ msgstr "Susisiekimo įvykis"
+
+#~ msgid "Communication Events"
+#~ msgstr "Susisiekimo įvykiai"
+
+#~ msgid "'%(type)s' event for order #%(number)s"
+#~ msgstr "#%(number)s užsakymo įvykis '%(type)s'"
+
+#~ msgid "Partner name"
+#~ msgstr "Partnerio pavadinimas"
+
+#~ msgid "Partner reference"
+#~ msgstr "Partnerio paminėjimas"
+
+#~ msgid "This is the item number that the partner uses within their system"
+#~ msgstr "Tai prekės numeris kuri partneris naudoja savo sistemoje"
+
+#~ msgid "Partner Notes"
+#~ msgstr "Partnerio pastabos"
+
+#~ msgid "Stock record"
+#~ msgstr "Likučių kiekis"
+
+#~ msgid "Price (inc. tax)"
+#~ msgstr "Kaina (su PVM)"
+
+#~ msgid "Price (excl. tax)"
+#~ msgstr "Kaina (be PVM)"
+
+#~ msgid "Price before discounts (inc. tax)"
+#~ msgstr "Kaina prieš nuolaidas (su PVM)"
+
+#~ msgid "Price before discounts (excl. tax)"
+#~ msgstr "Kaina prieš nuolaidas (be PVM)"
+
+#~ msgid "Unit Cost Price"
+#~ msgstr "Vieneto savikaina"
+
+#~ msgid "Unit Price (inc. tax)"
+#~ msgstr "Vieneto kaina (su PVM)"
+
+#~ msgid "Unit Price (excl. tax)"
+#~ msgstr "Vieneto kaina (be PVM)"
+
+#~ msgid "Unit Retail Price"
+#~ msgstr "Vieneto mažmeninė kaina"
+
+#~ msgid "Estimated Dispatch Date"
+#~ msgstr "Numatomas išsiuntimo data"
+
+#~ msgid "Order Line"
+#~ msgstr "Užsakymo eilutė"
+
+#~ msgid "<missing product>"
+#~ msgstr "<prekė nerasta>"
+
+#~ msgid "Product '%(name)s', quantity '%(qty)s'"
+#~ msgstr "Prekė '%(name)s', kiekis '%(qty)s'"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status (current status: '%(status)s')"
+#~ msgstr "'%(new_status)s' netinkama būsena (dabartinė būsena: '%(status)s')"
+
+#~ msgid "'%(title)s' is no longer available"
+#~ msgstr "'%(title)s' daigiau nebepasiekiama"
+
+#~ msgid "Line Attribute"
+#~ msgstr "Eilutės atributas"
+
+#~ msgid "Line Attributes"
+#~ msgstr "Eilutės atributai"
+
+#~ msgid "Shiping (inc. tax)"
+#~ msgstr "Pristatymas (su PVM)"
+
+#~ msgid "Shipping (excl. tax)"
+#~ msgstr "Pristatymas (be PVM)"
+
+#~ msgid "Line Price"
+#~ msgstr "Eilutės kaina"
+
+#~ msgid "Line Prices"
+#~ msgstr "Eilutės kainos"
+
+#~ msgid "Line '%(number)s' (quantity %(qty)d) price %(price)s"
+#~ msgstr "Eilutė '%(number)s' (kiekis %(qty)d) kaina %(price)s"
+
+#~ msgid "Payment Event Type"
+#~ msgstr "Apmokėjimo įvykio tipas"
+
+#~ msgid "Payment Event Types"
+#~ msgstr "Apmokėjimo įvykio tipai"
+
+#~ msgid "Amount"
+#~ msgstr "Kiekis"
+
+#~ msgid "Reference"
+#~ msgstr "Paminėjimas"
+
+#~ msgid "Lines"
+#~ msgstr "Eilutės"
+
+#~ msgid "Payment Event"
+#~ msgstr "Apmokėjimo įvykis"
+
+#~ msgid "Payment Events"
+#~ msgstr "Apmokėjimo įvykiai"
+
+#~ msgid "Payment event for order %s"
+#~ msgstr "Apmokėjimo įvykis užsakymui %s"
+
+#~ msgid "Event"
+#~ msgstr "Įvykis"
+
+#~ msgid "Payment Event Quantity"
+#~ msgstr "Apmokėjimo įvykio kiekis"
+
+#~ msgid "Payment Event Quantities"
+#~ msgstr "Apmokėjimo įvykio kiekiai"
+
+#~ msgid "Event notes"
+#~ msgstr "Įvykio pastabos"
+
+#~ msgid "This could be the dispatch reference, or a tracking number"
+#~ msgstr "Tai galėtų būti išsiuntimo paminėjimas, arba siuntos sekimo numeris"
+
+#~ msgid "Shipping Event"
+#~ msgstr "Pristatymo įvykis"
+
+#~ msgid "Shipping Events"
+#~ msgstr "Pristatymo įvykiai"
+
+#~ msgid "Order #%(number)s, type %(type)s"
+#~ msgstr "Užsakymas #%(number)s, tipas %(type)s"
+
+#~ msgid "Shipping Event Quantity"
+#~ msgstr "Pristatymo įvykio kiekis"
+
+#~ msgid "Shipping Event Quantities"
+#~ msgstr "Pristatymo įvykio kiekiai"
+
+#~ msgid "%(product)s - quantity %(qty)d"
+#~ msgstr "%(product)s - kiekis %(qty)d"
+
+#~ msgid "Shipping Event Type"
+#~ msgstr "Pristatymo įvykio tipas"
+
+#~ msgid "Shipping Event Types"
+#~ msgstr "Pristatymo įvykio tipai"
+
+#~ msgid "Discount category"
+#~ msgstr "Nuolaidos kategorija"
+
+#~ msgid "Offer ID"
+#~ msgstr "Pasiūlymo ID"
+
+#~ msgid "Voucher ID"
+#~ msgstr "Kupono ID"
+
+#~ msgid "Frequency"
+#~ msgstr "Dažnumas"
+
+#~ msgid "Order Discount"
+#~ msgstr "Užsakymo nuolaida"
+
+#~ msgid "Order Discounts"
+#~ msgstr "Užsakymo nuolaidos"
+
+#~ msgid "Discount of %(amount)r from order %(order)s"
+#~ msgstr "%(amount)r nuolaida užsakymui %(order)s"
+
+#~ msgid "The selected quantity for line #%(line_id)s is too large"
+#~ msgstr "Kiekis pasirinktas eilutei #%(line_id)s yra per didelis"
+
+#~ msgid "Total incl. tax"
+#~ msgstr "Suma su PVM"
+
+#~ msgid "Date placed"
+#~ msgstr "Pateikimo data"
+
+#~ msgid "Orders placed"
+#~ msgstr "Pateikti užsakymai"
+
+#~ msgid "Empty baskets cannot be submitted"
+#~ msgstr "Tušti krepšeliai negali būti pateikti"
+
+#~ msgid "There is already an order with number %s"
+#~ msgstr "Jau yra užsakymas su numeriu %s"
+
+#~ msgid "Fulfillment partner"
+#~ msgstr "Įvykdymo partneris"
+
+#~ msgid "Fulfillment partners"
+#~ msgstr "Įvykdymo partneriai"
+
+#~ msgid "Price (retail)"
+#~ msgstr "Kaina (didmeninė)"
+
+#~ msgid "Cost Price"
+#~ msgstr "Savikaina"
+
+#~ msgid "Number in stock"
+#~ msgstr "Kiekis sandėlyje"
+
+#~ msgid "Number allocated"
+#~ msgstr "Priskirtas kiekis"
+
+#~ msgid "Low Stock Threshold"
+#~ msgstr "Mažo kiekio riba"
+
+#~ msgid "Invalid stock consumption request"
+#~ msgstr "Netinkama sandėlio panaudojimo užklausa"
+
+#~ msgid "Stock Record"
+#~ msgstr "Likučių kiekis"
+
+#~ msgid "Threshold"
+#~ msgstr "Riba"
+
+#~ msgid "Open"
+#~ msgstr "Atidarytas"
+
+#~ msgid "Date Closed"
+#~ msgstr "Uždarymo data"
+
+#~ msgid "<stockalert for \"%(stock)s\" status %(status)s>"
+#~ msgstr "<likučių perspėjimas \"%(stock)s\" būsena %(status)s>"
+
+#~ msgid "Stock alert"
+#~ msgstr "Perspėjimas apie likučius"
+
+#~ msgid "Stock alerts"
+#~ msgstr "Perspėjimai apie likučius"
+
+#~ msgid "unavailable"
+#~ msgstr "nepasiekiama"
+
+#~ msgid "Unavailable"
+#~ msgstr "Nepasiekiama"
+
+#~ msgid "Available"
+#~ msgstr "Pasiekiama"
+
+#~ msgid "no stock available"
+#~ msgstr "Nėra sandėlyje"
+
+#~ msgid "a maximum of %(max)d can be bought"
+#~ msgstr "galima įsigyti daugiausiai %(max)d"
+
+#~ msgid "In stock"
+#~ msgstr "Yra sandėlyje"
+
+#~ msgid "In stock (%d available)"
+#~ msgstr "Yra sandėlyje (%d)"
+
+#~ msgid "No file path supplied"
+#~ msgstr "Nepateiktas joks bylos kelias"
+
+#~ msgid "%s does not exist"
+#~ msgstr "%s neegzistuoja"
+
+#~ msgid "%s is not a file"
+#~ msgstr "%s nėra byla"
+
+#~ msgid "%s is not readable"
+#~ msgstr "%s negali būti nuskaitytas"
+
+#~ msgid "Source"
+#~ msgstr "Šaltinis"
+
+#~ msgid "%(type)s of %(amount).2f"
+#~ msgstr "%(type)s iš %(amount).2f"
+
+#~ msgid "Transaction"
+#~ msgstr "Transakcija"
+
+#~ msgid "Transactions"
+#~ msgstr "Transakcijos"
+
+#~ msgid "Source Type"
+#~ msgstr "Šaltinio tipas"
+
+#~ msgid "Amount Allocated"
+#~ msgstr "Rezervuota suma"
+
+#~ msgid "Amount Debited"
+#~ msgstr "Suma įrašyta į debetą"
+
+#~ msgid "Amount Refunded"
+#~ msgstr "Grąžinta suma"
+
+#~ msgid "Label"
+#~ msgstr "Etiketė"
+
+#~ msgid "Sources"
+#~ msgstr "Šaltiniai"
+
+#~ msgid "Allocation of %(amount)s from type %(type)s"
+#~ msgstr "Rezervuota %(amount)s iš tipo %(type)s"
+
+#~ msgid " (reference: %s)"
+#~ msgstr "(paminėjimas: %s)"
+
+#~ msgid "This is used within forms to identify this source type"
+#~ msgstr "Tai naudojama formose kad atpažinti šaltinio tipą"
+
+#~ msgid "Source Types"
+#~ msgstr "Šaltinio tipai"
+
+#~ msgid "Card Type"
+#~ msgstr "Kortelės tipas"
+
+#~ msgid "Number"
+#~ msgstr "Numeris"
+
+#~ msgid "Expiry Date"
+#~ msgstr "Galiojimo pabaigos data"
+
+#~ msgid "Partner Reference"
+#~ msgstr "Partnerio paminėjimas"
+
+#~ msgid "%(card_type)s %(number)s (Expires: %(expiry)s)"
+#~ msgstr "%(card_type)s %(number)s (Baigia galioti: %(expiry)s)"
+
+#~ msgid "Bankcard"
+#~ msgstr "Bako kortelė"
+
+#~ msgid "Bankcards"
+#~ msgstr "Bako kortelės"
+
+#~ msgid "Payment"
+#~ msgstr "Mokėjimas"
+
+#~ msgid "Card number"
+#~ msgstr "Kortelės numeris"
+
+#~ msgid "Please enter a valid credit card number."
+#~ msgstr "Prašome suvesti tinkamą kortelės numerį."
+
+#~ msgid "%s cards are not accepted."
+#~ msgstr "%s kortelės nėra priimamos"
+
+#~ msgid "Enter a valid month."
+#~ msgstr "Įveskite teisingą mėnesį."
+
+#~ msgid "Enter a valid year."
+#~ msgstr "Įveskite teisingus metus."
+
+#~ msgid "Valid to"
+#~ msgstr "Galioja iki"
+
+#~ msgid "The expiration date you entered is in the past."
+#~ msgstr "Galiojimo pabaigos data kurią suvedėte yra praeityje."
+
+#~ msgid "Valid from"
+#~ msgstr "Galioja nuo"
+
+#~ msgid "The starting date you entered is in the future."
+#~ msgstr "Pradžios data kurią suvedėte yra ateityje."
+
+#~ msgid "CCV number"
+#~ msgstr "CCV numeris"
+
+#~ msgid "Please enter a 3 or 4 digit number"
+#~ msgstr "Prašome įvest 3 arba 4 skaitmenų numerį"
+
+#~ msgid ""
+#~ "This is the 3 or 4 digit security number on the back of your bankcard"
+#~ msgstr ""
+#~ "Tai yra 3 arba 4 skaitmenų apsaugos numeris parašytas galinėje bako "
+#~ "kortelės pusėje"
+
+#~ msgid "American Express cards use a 4 digit security code"
+#~ msgstr "American Express kortelės naudoja 4 skaičių apsaugos kodą"
+
+#~ msgid "Promotions"
+#~ msgstr "Reklamos"
+
+#~ msgid "Display Order"
+#~ msgstr "Atvaizdavimo tvarka"
+
+#~ msgid "Clicks"
+#~ msgstr "Paspaudimai"
+
+#~ msgid "Linked Promotion"
+#~ msgstr "Susieta reklama"
+
+#~ msgid "Linked Promotions"
+#~ msgstr "Susietos reklamos"
+
+#~ msgid "Page URL"
+#~ msgstr "Puslapio URL"
+
+#~ msgid "Page Promotion"
+#~ msgstr "Puslapio reklamavimas"
+
+#~ msgid "Page Promotions"
+#~ msgstr "Puslapių reklamavimas"
+
+#~ msgid "Filter"
+#~ msgstr "Filtras"
+
+#~ msgid "Keyword Promotion"
+#~ msgstr "Raktažodžio reklamavimas"
+
+#~ msgid "Keyword Promotions"
+#~ msgstr "Rakatažodžių reklamavimas"
+
+#~ msgid "Keywords"
+#~ msgstr "Raktažodžiai"
+
+#~ msgid "Promotion"
+#~ msgstr "Reklama"
+
+#~ msgid "Display type"
+#~ msgstr "Atvaizdavimo tipas"
+
+#~ msgid ""
+#~ "This can be used to have different types of HTML blocks (eg different "
+#~ "widths)"
+#~ msgstr ""
+#~ "Tai gali būti naudojama jei reikia turėti skirtingų tipo HTML blokus "
+#~ "(pvz. skirtingų pločių)"
+
+#~ msgid "Raw HTML"
+#~ msgstr "Grynas HTML"
+
+#~ msgid "Link URL"
+#~ msgstr "Nuorodos URL"
+
+#~ msgid "This is where this promotion links to"
+#~ msgstr "Ši reklama nukreipia čia"
+
+#~ msgid ""
+#~ "Choose the Image content blocks that this block will use. (You may need "
+#~ "to create some first)."
+#~ msgstr ""
+#~ "Pasirinkite paveiksliukų turinio blokus kuriuos naudos šis blokas. (Jums "
+#~ "gali prireikti pirma juos sukurti)."
+
+#~ msgid "Multi Image"
+#~ msgstr "Multi paveiksliukas"
+
+#~ msgid "Multi Images"
+#~ msgstr "Multi paveiksliukai"
+
+#~ msgid "Single product"
+#~ msgstr "Viena prekė"
+
+#~ msgctxt "Promotion product list title"
+#~ msgid "Title"
+#~ msgstr "Pavadinimas"
+
+#~ msgid "Link text"
+#~ msgstr "Nuorodos tekstas"
+
+#~ msgid "Product list"
+#~ msgstr "Prekių sąrašas"
+
+#~ msgid "Product lists"
+#~ msgstr "Prekių sąrašai"
+
+#~ msgid "Hand Picked Product List"
+#~ msgstr "Rankomis atrinktas prekių sąrašas"
+
+#~ msgid "Hand Picked Product Lists"
+#~ msgstr "Rankomis atrinkti prekių sąrašai"
+
+#~ msgid "List"
+#~ msgstr "Sąrašas"
+
+#~ msgid "Ordered product"
+#~ msgstr "Užsakyta prekė"
+
+#~ msgid "Bestselling products"
+#~ msgstr "Geriausiai parduodamos prekės"
+
+#~ msgid "Recently added products"
+#~ msgstr "Neseniai pridėtos prekės"
+
+#~ msgid "Method"
+#~ msgstr "Būdas"
+
+#~ msgid "Number of Products"
+#~ msgstr "Prekių skaičius"
+
+#~ msgid "Automatic product list"
+#~ msgstr "Automatinis prekių sąrašas"
+
+#~ msgid "Automatic product lists"
+#~ msgstr "Automatiniai prekių sąrašai"
+
+#~ msgid "Tabbed Block"
+#~ msgstr "Blokas su skyriais"
+
+#~ msgid "Ordered Product List"
+#~ msgstr "Surūšiuotas prekių sąrašas"
+
+#~ msgid "Ordered Product Lists"
+#~ msgstr "Surūšiuoti prekių sąrašai"
+
+#~ msgctxt "Tabbed block title"
+#~ msgid "Title"
+#~ msgstr "Pavadinimas"
+
+#~ msgid "Tabbed Blocks"
+#~ msgstr "Blokai su skyriais"
+
+#~ msgid "Search"
+#~ msgstr "Paieška"
+
+#~ msgid "Relevancy"
+#~ msgstr "Atitikimas"
+
+#~ msgid "Customer rating"
+#~ msgstr "Įvertinimas"
+
+#~ msgid "Newest"
+#~ msgstr "Naujausias"
+
+#~ msgid "Price high to low"
+#~ msgstr "Brangiausi viršuje"
+
+#~ msgid "Price low to high"
+#~ msgstr "Pigiausi viršuje"
+
+#~ msgid "Title A to Z"
+#~ msgstr "Pavadinimas A - Z"
+
+#~ msgid "Title Z to A"
+#~ msgstr "Pavadinimas Z - A"
+
+#~ msgid "Page is not 'last', nor can it be converted to an int."
+#~ msgstr ""
+#~ "Puslapis nėra 'paskutinis', ir negali būti pakeista į sveiką skaičių."
+
+#~ msgid "Shipping Method"
+#~ msgstr "Pristatymo būdas"
+
+#~ msgid "Shipping Methods"
+#~ msgstr "Pristatymo būdai"
+
+#~ msgid "Price per order"
+#~ msgstr "Užsakymo kaina"
+
+#~ msgid "Price per item"
+#~ msgstr "Vieneto kaina"
+
+#~ msgid "Free Shipping"
+#~ msgstr "Nemokamas pristatymas"
+
+#~ msgid "Order and Item Charge"
+#~ msgstr "Užsakymo ir vieneto mokestis"
+
+#~ msgid "Order and Item Charges"
+#~ msgstr "Užsakymo ir vieneto mokesčiai"
+
+#~ msgid "Default Weight"
+#~ msgstr "Numatytasis svoris"
+
+#~ msgid "Default product weight in kg when no weight attribute is defined"
+#~ msgstr ""
+#~ "Numatytasis prekės svoris kilogramais kai joks svorio atributas nesuvestas"
+
+#~ msgid "Weight-based Shipping Method"
+#~ msgstr "Svoriu paremtas pristatymo būdas"
+
+#~ msgid "Weight-based Shipping Methods"
+#~ msgstr "Svoriu paremti pristatymo būdai"
+
+#~ msgid "Upper Limit"
+#~ msgstr "Viršutinis limitas"
+
+#~ msgid ""
+#~ "Enter upper limit of this weight band in kg. The lower limit will be "
+#~ "determined by the other weight bands."
+#~ msgstr ""
+#~ "Įveskite viršutinį limitą kilogramais šiai svorio grupei. Žemutinis "
+#~ "limitas bus nustatytas pagal kitas svorio grupes."
+
+#~ msgid "Charge"
+#~ msgstr "Mokestis"
+
+#~ msgid "Weight Band"
+#~ msgstr "Svorio grupė"
+
+#~ msgid "Weight Bands"
+#~ msgstr "Svorio grupės"
+
+#~ msgid "Charge for weights up to %s kg"
+#~ msgstr "Apmokestinti svorius nuo %s kg"
+
+#~ msgid "Shipping"
+#~ msgstr "Pristatymas"
+
+#~ msgid "Free shipping"
+#~ msgstr "Nemokamas pristatymas"
+
+#~ msgid "No shipping required"
+#~ msgstr "Pristatymas nereikalingas"
+
+#~ msgid "Fixed price shipping"
+#~ msgstr "Fiksuotos kainos pristatymas"
+
+#~ msgid "You need to define some shipping methods"
+#~ msgstr "Jums reikia įvesti kelis pristatymo būdus"
+
+#~ msgid ""
+#~ "This will be shown in the checkout and basket once the voucher is entered"
+#~ msgstr "Tai bus rodoma perkant ir krepšelyje kai kuponas suvestas"
+
+#~ msgid "Case insensitive / No spaces allowed"
+#~ msgstr "Atsižvelgiama į didžiąsias, mažąsias raides / Tarpai neleidžiami"
+
+#~ msgid "Can be used once by one customer"
+#~ msgstr "Gali būti panaudota vieną kartą vieno kliento"
+
+#~ msgid "Can be used multiple times by multiple customers"
+#~ msgstr "Gali būti panaudota daug kartų kelių klientų"
+
+#~ msgid "Can only be used once per customer"
+#~ msgstr "Gali būti panaudota tik vieną kartą kiekvieno kliento"
+
+#~ msgid "Times added to basket"
+#~ msgstr "Kartų pridėta į krepšelį"
+
+#~ msgid "Times on orders"
+#~ msgstr "Kartų užsakymuose"
+
+#~ msgid "Voucher"
+#~ msgstr "Kuponas"
+
+#~ msgid "This voucher has already been used"
+#~ msgstr "Šis kuponas jau buvo panaudotas"
+
+#~ msgid "This voucher is only available to signed in users"
+#~ msgstr "Šis kuponas galioja tik prisijungusiems vartotojams"
+
+#~ msgid "You have already used this voucher in a previous order"
+#~ msgstr "Jūs jau panaudojote ši kuponą buvusiame užsakyme"
+
+#~ msgid "Voucher Application"
+#~ msgstr "Kupono paraiška"
+
+#~ msgid "Voucher Applications"
+#~ msgstr "Kuponu paraiškos"
+
+#~ msgid "'%(voucher)s' used by '%(user)s'"
+#~ msgstr "'%(voucher)s' panaudoti '%(user)s'"
+
+#~ msgid "Added to a basket"
+#~ msgstr "Pridėta į krepšelį"
+
+#~ msgid "Used in an order"
+#~ msgstr "Panaudota užsakyme"
+
+#~ msgid "Voucher performance"
+#~ msgstr "Kupono parametrai"
+
+#~ msgid "Default"
+#~ msgstr "Numatytasis"
+
+#~ msgid "Private - Only the owner can see the wish list"
+#~ msgstr "Privatu - tik savininkas gali matyti pageidavimų sąrašą"
+
+#~ msgid ""
+#~ "Shared - Only the owner and people with access to the obfuscated link can "
+#~ "see the wish list"
+#~ msgstr ""
+#~ "Dalinamasi - tik savininkas ir žmonės turintys priėjimą prie įslaptintos "
+#~ "nuorodos gali matyti pageidavimų sąrašą"
+
+#~ msgid "Public - Everybody can see the wish list"
+#~ msgstr "Vieša - visi gali matyti pageidavimų sąrašą"
+
+#~ msgid "Visibility"
+#~ msgstr "Matomumas"
+
+#~ msgid "Wish List"
+#~ msgstr "Pageidavimų sąrašas"
+
+#~ msgid "Wish list line"
+#~ msgstr "Pageidavimų sąrašo eilutė"
+
+#~ msgid "Wishlists"
+#~ msgstr "Pageidavimų sąrašai"
+
+#~ msgid "The URL \"%s\" does not exist"
+#~ msgstr "URL \"%s\" neegzistuoja"
+
+#~ msgid "Specified page already exists!"
+#~ msgstr "Parinktas puslapis jau egzistuoja!"
+
+#~ msgid "This field is required"
+#~ msgstr "Šis laukas būtinas"
+
+#~ msgid "This field is invalid as its value is forbidden"
+#~ msgstr "Šis laukos neteisingas nes jo reikšmė draudžiama"
+
+#~ msgid "This is not a valid international phone format."
+#~ msgstr "Netinkamas tarptautinio telefono numerio formatas."
+
+#~ msgid "This is not a valid local phone format for %s."
+#~ msgstr "Netinkamas vietinio telefono numerio formatas %s."
+
+#~ msgid "This is not a valid local or international phone format."
+#~ msgstr "Netinkamas tarptautinio ar vietinio telefono numerio formatas."
+
+#~ msgid "Check for products that are back in stock and send out alerts"
+#~ msgstr "Ieškoti prekių kurios vėl yra sandėlyje ir išsiųsti perspėjimus"
+
+#~ msgid "Permission denied!"
+#~ msgstr "Leidimas nesuteiktas!"
+
+#~ msgid "We're sorry but you are not permitted to access this page."
+#~ msgstr "Atsiprašome bet jūs neturi leidimo pasiekti šio puslapio."
+
+#~ msgid "Page not found"
+#~ msgstr "Puslapis nerastas"
+
+#~ msgid "Page not found!"
+#~ msgstr "Puslapis nerastas!"
+
+#~ msgid "We're sorry but the page you are looking for can't be found."
+#~ msgstr "Atsiprašome, bet puslapis kurio ieškote nerastas."
+
+#~ msgid "Server error!"
+#~ msgstr "Serverio klaida!"
+
+#~ msgid ""
+#~ "We're sorry but something went terribly wrong and we've been unable to "
+#~ "generate the page you requested."
+#~ msgstr ""
+#~ "Atsiprašome bet kažkas nutiko ir mes negalime sugeneruoti puslapio kurio "
+#~ "prašėte."
+
+#~ msgid ""
+#~ "This incident has been logged and will be addressed by an engineer as "
+#~ "soon as possible."
+#~ msgstr ""
+#~ "Šis incidentas buvo užregistruotas ir bus kuo greičiau peržiūrėtas "
+#~ "inžinieriaus."
+
+#~ msgid "Home"
+#~ msgstr "Namai"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(title)s</strong> has been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> buvo pridėtas į jūsų krepšelį.\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(quantity)s</strong> copies of <strong>%(title)s</strong>\n"
+#~ "    have been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(quantity)s</strong> <strong>%(title)s</strong> kopijų buvo "
+#~ "pridėta į jūsų krepšelį.\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been moved back to your basket.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> buvo vėl įkelti į jūsų krepšelį.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been saved for later\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> buvo išsaugotas vėlesniam naudojimui\n"
+
+#~ msgid "Your basket is now empty"
+#~ msgstr "Jūsų krepšelis dabar tuščias"
+
+#~ msgid ""
+#~ "\n"
+#~ "            Your basket total is now <strong>%(total)s</strong>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Jūsų krepšelio suma yra <strong>%(total)s</strong>\n"
+#~ "            "
+
+#~ msgid "View basket"
+#~ msgstr "Peržiūrėti krepšelį"
+
+#~ msgid "Checkout now"
+#~ msgstr "Pirkti dabar"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket now qualifies for the \n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Jūsų krepšelis pretenduoja\n"
+#~ "<strong>%(name)s</strong> pasiūlymui.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket no longer qualifies for the\n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Jūsų krepšelis nebepretenduoja\n"
+#~ "<strong>%(name)s</strong> pasiūlymui.\n"
+
+#~ msgid "Important messages about items in your basket"
+#~ msgstr "Svarbios žinutės apie prekes jūsų krepšelyje"
+
+#~ msgid "You could be missing out on offers!"
+#~ msgstr "Nepraleiskite pasiūlymų!"
+
+#~ msgid ""
+#~ "\n"
+#~ "                <div class=\"warning\">%(message)s to qualify for the <a "
+#~ "href=\"%(url)s\">%(offer_name)s</a> special offer</div>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "<div class=\"warning\">%(message)s kad pretenduotumėte <a href=\"%(url)s"
+#~ "\">%(offer_name)s</a> specialiam pasiūlymui</div>\n"
+#~ "            "
+
+#~ msgid "Items to buy now"
+#~ msgstr "Prekės, kurias pirkti dabar"
+
+#~ msgid "Price"
+#~ msgstr "Kaina"
+
+#~ msgid "Total"
+#~ msgstr "Suma"
+
+#~ msgid "Updating..."
+#~ msgstr "Atnaujinama..."
+
+#~ msgid "Update"
+#~ msgstr "Atnaujinti"
+
+#~ msgid "Remove"
+#~ msgstr "Pašalinti"
+
+#~ msgid "Save for later"
+#~ msgstr "Išsaugoti vėlesniam laikui"
+
+#~ msgid "Voucher/promo code"
+#~ msgstr "Kupono/reklaminis kodas"
+
+#~ msgid "I have a voucher code..."
+#~ msgstr "Aš turiu kupono kodą..."
+
+#~ msgid "Adding..."
+#~ msgstr "Pridedama..."
+
+#~ msgid "Add voucher"
+#~ msgstr "Pridėti kuponą"
+
+#~ msgid "or"
+#~ msgstr "arba"
+
+#~ msgid "cancel"
+#~ msgstr "atšaukti"
+
+#~ msgid "Totals"
+#~ msgstr "Suma"
+
+#~ msgid "Proceed to checkout"
+#~ msgstr "Užsakyti"
+
+#~ msgid "Your basket is empty."
+#~ msgstr "Jūsų krepšelis yra tuščias"
+
+#~ msgid "Continue shopping"
+#~ msgstr "Tęsti apsipirkimą"
+
+#~ msgid "Items to buy later"
+#~ msgstr "Prekės, kurias pirkti vėliau"
+
+#~ msgid "Items"
+#~ msgstr "Prekės"
+
+#~ msgid "Move to basket"
+#~ msgstr "Perkelti į krepšelį"
+
+#~ msgid "Qty"
+#~ msgstr "Kiekis"
+
+#~ msgid "Total:"
+#~ msgstr "Suma:"
+
+#~ msgid "Basket total (before discounts)"
+#~ msgstr "Krepšelio suma (prieš nuolaidas)"
+
+#~ msgid "Discount"
+#~ msgstr "Nuolaida"
+
+#~ msgid "Basket total (after discounts)"
+#~ msgstr "Krepšelio suma (su nuolaidom)"
+
+#~ msgid "Basket total"
+#~ msgstr "Krepšelio suma"
+
+#~ msgid "Alternative shipping methods can be chosen during checkout"
+#~ msgstr ""
+#~ "Alternatyvus prekės siuntimo būdai gali būti pasirinkti atsiskaitymo "
+#~ "puslapyje"
+
+#~ msgid "Shipping total (before discounts)"
+#~ msgstr "Pristatymo suma (prieš nuolaidas)"
+
+#~ msgid "Shipping total (after discounts)"
+#~ msgstr "Pristatymo suma (po nuolaidų)"
+
+#~ msgid "Tax"
+#~ msgstr "Mokestis"
+
+#~ msgid "Post order actions"
+#~ msgstr "Siūsti užsakymo nurodymus"
+
+#~ msgid "These will be applied once your order is placed."
+#~ msgstr "Tai bus pritaikyta kai jūsų užsakymas bus pateiktas."
+
+#~ msgid "Taxes will be added during checkout."
+#~ msgstr "Mokesčiai bus pridėti per apmokėjimą."
+
+#~ msgid "Show results for"
+#~ msgstr "Rodyti rezultatus"
+
+#~ msgid "Refine by"
+#~ msgstr "Tobulinti pagal"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> rezultatas - rodomas <strong>%(start)s</"
+#~ "strong> iki <strong>%(end)s</strong>."
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> rezultatai - rodoma <strong>%(start)s</"
+#~ "strong> iki <strong>%(end)s</strong>."
+#~ msgstr[2] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> rezultatų - rodoma <strong>%(start)s</"
+#~ "strong> iki <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr[3] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> rezultatų - rodoma <strong>%(start)s</"
+#~ "strong> iki <strong>%(end)s</strong>.\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> rezultatas."
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> rezultatai."
+#~ msgstr[2] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> rezultatų.\n"
+#~ "                "
+#~ msgstr[3] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> rezultatų.\n"
+#~ "                "
+
+#~ msgid "<strong>0</strong> results."
+#~ msgstr "<strong>0</strong> rezultatų."
+
+#~ msgid "No products found."
+#~ msgstr "Nerasta jokių prekių."
+
+#~ msgid "Edit this product"
+#~ msgstr "Redaguoti šią prekę"
+
+#~ msgid "Product Description"
+#~ msgstr "Prekės apibūdinimas"
+
+#~ msgid "Product Information"
+#~ msgstr "Prekės informacija"
+
+#~ msgid "Product Type"
+#~ msgstr "Prekės tipas"
+
+#~ msgid "Price (incl. tax)"
+#~ msgstr "Kaina (su PVM)"
+
+#~ msgid "Availability"
+#~ msgstr "Pasiekiamumas"
+
+#~ msgid "Number of reviews"
+#~ msgstr "Apžvalgų kiekis"
+
+#~ msgid "See all reviews"
+#~ msgstr "Žiūrėti visas apžvalgas"
+
+#~ msgid "Customer Reviews"
+#~ msgstr "Klientų apžvalgos"
+
+#~ msgid ""
+#~ "This product does not have any reviews yet -\n"
+#~ "                            <a href=\"%(add_review_url)s#addreview\">be "
+#~ "the first to write one</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "Ši prekė kol kas neturi apžvalgų -\n"
+#~ "<a href=\"%(add_review_url)s#addreview\">būkite pirmasis parašęs "
+#~ "apžvalgą</a>."
+
+#~ msgid "This product does not have any reviews yet"
+#~ msgstr "Ši prekė kol kas neturi jokių apžvalgų"
+
+#~ msgid "Recommended items"
+#~ msgstr "Rekomenduojamos prekės"
+
+#~ msgid "Add to basket"
+#~ msgstr "Pridėti į krepšelį"
+
+#~ msgid "You have an active stock alert for this product."
+#~ msgstr "Jūs turite aktyvų likučio pranešima šiai prekei."
+
+#~ msgid "You can get an email alert when this product is back in stock."
+#~ msgstr ""
+#~ "Jūs galite gauti el. pašto pranešima kai ši prekė vėl bus sandėlyje."
+
+#~ msgid "Notify me"
+#~ msgstr "Pranešti man"
+
+#~ msgid "Add to wish list"
+#~ msgstr "Pridėti į pageidavimų sąrašą"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                            Add to '%(name)s' wish list\n"
+#~ "                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Pridėti į '%(name)s' pageidavimų sąrašą\n"
+#~ "                                        "
+
+#~ msgid "Create a new wishlist"
+#~ msgstr "Sukurti naują pageidavimų sąrašą"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <span class=\"pull-left\">Product is in <a href="
+#~ "\"%(url)s\">'%(name)s'</a> wishlist.</span>\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "<span class=\"pull-left\">Prekė yra <a href=\"%(url)s\">'%(name)s'</a> "
+#~ "pageidavimų sąraše.</span>\n"
+#~ "                "
+
+#~ msgid "Removing..."
+#~ msgstr "Šalinama..."
+
+#~ msgid "Please login to add products to a wish list."
+#~ msgstr ""
+#~ "Prašome prisijungti kad galėtumėte įkelti prekes į pageidavimų sąrašą."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Reviewed by you on %(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "%(review_date)s jūsų parašyta apžvalga"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Reviewed by <strong>%(name)s</strong> on "
+#~ "%(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "%(review_date)s <strong>%(name)s</strong> parašyta apžvalga"
+
+#~ msgid "Is this review helpful?"
+#~ msgstr "Ar ši apžvalga padėjo?"
+
+#~ msgid "Yes"
+#~ msgstr "Taip"
+
+#~ msgid "No"
+#~ msgstr "Ne"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customer "
+#~ "found this useful\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customers "
+#~ "found this useful\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(num_up_votes)s</strong> iš %(num_votes)s klientų tai pagelbėjo"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(num_up_votes)s</strong> iš %(num_votes)s klientams tai pagelbėjo"
+#~ msgstr[2] ""
+#~ "\n"
+#~ "<strong>%(num_up_votes)s</strong> iš %(num_votes)s klientų tai pagelbėjo"
+#~ msgstr[3] ""
+#~ "\n"
+#~ "<strong>%(num_up_votes)s</strong> iš %(num_votes)s klientų tai pagelbėjo"
+
+#~ msgid "This review has no votes."
+#~ msgstr "Ši apžvalga neturi balsų."
+
+#~ msgid "Free"
+#~ msgstr "Nemokamas"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer review\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer reviews\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "%(num_reviews)s kliento apžvalga"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "%(num_reviews)s klientų apžvalgos"
+#~ msgstr[2] ""
+#~ "\n"
+#~ "%(num_reviews)s klientų apžvalgos"
+#~ msgstr[3] ""
+#~ "\n"
+#~ "%(num_reviews)s klientų apžvalgos"
+
+#~ msgid "Write a review"
+#~ msgstr "Rašyti apžvalgą"
+
+#~ msgid "Customer reviews"
+#~ msgstr "Klientų apžvalgos"
+
+#~ msgid "Leave a product review"
+#~ msgstr "Palikti prekės apžvalgą"
+
+#~ msgid "Saving..."
+#~ msgstr "Saugoma..."
+
+#~ msgid "Save review"
+#~ msgstr "Išsaugoti apžvalgą"
+
+#~ msgid "This product does not have any reviews yet."
+#~ msgstr "Ši prekė kol kas neturi jokių apžvalgų."
+
+#~ msgid "Change"
+#~ msgstr "Keisti"
+
+#~ msgid "Contact"
+#~ msgstr "Kontaktas"
+
+#~ msgid "Phone"
+#~ msgstr "Telefonas"
+
+#~ msgid "Payment details to go here"
+#~ msgstr "Apmokėjimo detalės čia"
+
+#~ msgid "Edit order contents"
+#~ msgstr "Redaguoti užsakymo turinį"
+
+#~ msgid "Order contents"
+#~ msgstr "Užsakymo turinys"
+
+#~ msgid "Item"
+#~ msgstr "Prekė"
+
+#~ msgid "Checkout gateway"
+#~ msgstr "Pirkimo vartai"
+
+#~ msgid "Who are you?"
+#~ msgstr "Kas jūs esate?"
+
+#~ msgid "Get a password reminder"
+#~ msgstr "Gauti slaptažodžio priminimą"
+
+#~ msgid "Continuing..."
+#~ msgstr "Tęsiama"
+
+#~ msgid "Continue"
+#~ msgstr "Tęsti"
+
+#~ msgid "1. Shipping address"
+#~ msgstr "1. Pristatymo adresas"
+
+#~ msgid "2. Shipping method"
+#~ msgstr "2. Pristatymo būdas"
+
+#~ msgid "3. Payment"
+#~ msgstr "3. Apmokėjimas"
+
+#~ msgid "4. Preview"
+#~ msgstr "4. Peržiūra"
+
+#~ msgid "5. Confirmation"
+#~ msgstr "5. Patvirtinimas"
+
+#~ msgid "Payment details"
+#~ msgstr "Apmokėjimo detalės"
+
+#~ msgid "Enter payment details"
+#~ msgstr "Įveskite apmokėjimo detales"
+
+#~ msgid ""
+#~ "This page needs implementing within your project.  You may want to use "
+#~ "one of Oscar's payment gateway libraries:"
+#~ msgstr ""
+#~ "Šis puslapis jūsų projekte reikalauja implementacijos. Jūs galite naudoti "
+#~ "vieną iš Oscar atsiskaitymo vartų bibliotekų:"
+
+#~ msgid "Order preview"
+#~ msgstr "Užsakymo peržiūra"
+
+#~ msgid "Preview order"
+#~ msgstr "Peržiūrėti užsakymą"
+
+#~ msgid "Place order"
+#~ msgstr "Pateikti užsakymą"
+
+#~ msgid "Where should we ship to?"
+#~ msgstr "Kur turėtume išsiųsti?"
+
+#~ msgid "An address from your address book?"
+#~ msgstr "Adresas iš jūsų adresų knygos?"
+
+#~ msgid "Ship to your default shipping address"
+#~ msgstr "Siųsti į numatytąjį pristatymo adresą"
+
+#~ msgid "Ship to this address"
+#~ msgstr "Siųsti šiuo adresu"
+
+#~ msgid "Delete"
+#~ msgstr "Ištrinti"
+
+#~ msgid "Or a new address?"
+#~ msgstr "Ar naujas adresas?"
+
+#~ msgid "return to basket"
+#~ msgstr "grįžti į krepšelį"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                This includes a discount of <strong>"
+#~ "%(amount)s</strong> as\n"
+#~ "                                your basket qualifies for the <strong>"
+#~ "%(name)s</strong> offer.\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "Tai įskaito <strong>%(amount)s</strong> nuolaidą lyg\n"
+#~ "jūsų krepšelis pretenduotų <strong>%(name)s</strong> pasiūlymui."
+
+#~ msgid "Select option"
+#~ msgstr "Pasirinkite parinktį"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s: confirmation\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Užsakymo %(number)s: patvirtinimas"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Your order has been placed and a confirmation email has been sent "
+#~ "- your order number is\n"
+#~ "        <strong>%(number)s</strong>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "Jūsų užsakymas buvo pateiktas ir patvirtinimo el. laiškas išsiųstas - "
+#~ "jūsų užsakymo numeris yra\n"
+#~ "<strong>%(number)s</strong>."
+
+#~ msgid ""
+#~ "Please make a note of this reference or print this page and quote it in "
+#~ "any communication with us regarding your order."
+#~ msgstr ""
+#~ "Prašome pasižymėti šią informaciją arba atsispausdinti ši puslapį ir "
+#~ "remtis juo susisiekiant su mumis dėl savo užsakymo."
+
+#~ msgid "No shipping address required."
+#~ msgstr "Pristatymo adresas nereikalingas."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s (reference: %(reference)s)\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "%(amount)s nuskaitymas iš %(type)s tipo (nurodymas: %(reference)s)"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "%(amount)s nuskaitymas iš %(type)s tipo"
+
+#~ msgid "No payment was required for this order."
+#~ msgstr "Šiam užsakymui nebuvo reikalingas apmokėjimas."
+
+#~ msgid "Items purchased"
+#~ msgstr "Nupirkti vienetai"
+
+#~ msgid ""
+#~ "\n"
+#~ "                            Estimated dispatch: <strong>%(date)s</"
+#~ "strong>\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Numatomas išsiuntimas: <strong>%(date)s</strong>"
+
+#~ msgid "Shipping charge (before discounts)"
+#~ msgstr "Pristatymo kaina (prieš nuolaidas)"
+
+#~ msgid "Shipping charge (after discounts)"
+#~ msgstr "Pristatymo kaina (po nuolaidų)"
+
+#~ msgid "Shipping charge"
+#~ msgstr "Pristatymo kaina"
+
+#~ msgid "Order tax"
+#~ msgstr "Užsakymo mokestis"
+
+#~ msgid "Tracking your order"
+#~ msgstr "Užsakymo sekimas"
+
+#~ msgid "You can track the status of your order"
+#~ msgstr "Galite sekti savo užsakymo būseną"
+
+#~ msgid "View order status"
+#~ msgstr "Žiūrėti užsakymo būseną"
+
+#~ msgid "Print this page"
+#~ msgstr "Atspausdinti šį puslapį"
+
+#~ msgid "Are you sure you want to delete this address?"
+#~ msgstr "Ar tikrai norite ištrinti šį adresą?"
+
+#~ msgid "Yes!"
+#~ msgstr "Taip!"
+
+#~ msgid "Save"
+#~ msgstr "Išsaugoti"
+
+#~ msgid "Address book"
+#~ msgstr "Adresų knyga"
+
+#~ msgid "Deleting..."
+#~ msgstr "Trinama..."
+
+#~ msgid "Default shipping address"
+#~ msgstr "Numatytasis pristatymo adresas"
+
+#~ msgid "Default billing address"
+#~ msgstr "Numatytasis atsiskaitymo adresas"
+
+#~ msgid "Edit"
+#~ msgstr "Redaguoti"
+
+#~ msgid "Set as default shipping address"
+#~ msgstr "Nustatyti kaip numatytąjį pristatymo adresą"
+
+#~ msgid "Set as default billing address"
+#~ msgstr "Nustatyti kaip numatytąjį atsiskaitymo adresą"
+
+#~ msgid "There are no addresses in your address book."
+#~ msgstr "Nėra jokių adresų jūsų adresų knygoje."
+
+#~ msgid "You do not have any active alerts for out-of-stock products."
+#~ msgstr "Jūs neturite aktyvių perspėjimų sandėlyje neturimoms prekėms."
+
+#~ msgid "Cancel"
+#~ msgstr "Atšaukti"
+
+#~ msgid ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> is back in stock\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> vėl yra sandėlyje\n"
+
+#~ msgid "Order #%(number)s"
+#~ msgstr "Užsakymas # %(number)s"
+
+#~ msgid "Contact number"
+#~ msgstr "Kontaktinis telefonas"
+
+#~ msgid "Notes"
+#~ msgstr "Pastabos"
+
+#~ msgid "Estimated dispatch date"
+#~ msgstr "Numatoma išsiuntimo data"
+
+#~ msgid "Line price excl. tax"
+#~ msgstr "Eilutės kaina be PVM"
+
+#~ msgid "Line price incl. tax"
+#~ msgstr "Eilutės kaina su PVM"
+
+#~ msgid "Basket total (inc. tax)"
+#~ msgstr "Krepšelio suma (su PVM)"
+
+#~ msgid "Email history"
+#~ msgstr "Elektroninio pašto istorija"
+
+#~ msgid "Date sent"
+#~ msgstr "Išsiuntimo data"
+
+#~ msgid "No emails found"
+#~ msgstr "Nerasta jokių laiškų "
+
+#~ msgid "Thanks for using our site!"
+#~ msgstr "Ačiū kad naudojatės mūsų tinklalapiu!"
+
+#~ msgid "The %(name)s team"
+#~ msgstr "%(name)s komanda"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately "
+#~ "and correct your email address:"
+#~ msgstr ""
+#~ "Jei jūs jo nekeitėte, prašome kuo greičiau nustatyti iš naujo savo "
+#~ "slaptažodį ir pataisyti savo el. pašto adresą:"
+
+#~ msgid ""
+#~ "If it was you who changed the email address, you can ignore this email."
+#~ msgstr "Jei jūs nekeitėte el. pašto adreso, galite ignoruoti šį el. laišką."
+
+#~ msgid ""
+#~ "You're receiving this email because your email address has been changed "
+#~ "to %(email)s."
+#~ msgstr ""
+#~ "Jūs gavote šį el. laišką nes jūsų el. pašto adresas buvo pakeistas į "
+#~ "%(email)s."
+
+#~ msgid "Your email address has changed at %(site_name)s."
+#~ msgstr "Jūsų el. pašto adresas buvo pakeistas %(site_name)s tinklalapyje."
+
+#~ msgid "Hello,"
+#~ msgstr "Sveiki,"
+
+#~ msgid "Your order contains:"
+#~ msgstr "Jūsų užsakyme yra:"
+
+#~ msgid "Basket total:"
+#~ msgstr "Krepšelio suma:"
+
+#~ msgid "Shipping:"
+#~ msgstr "Pristatymas:"
+
+#~ msgid "Order Total:"
+#~ msgstr "Užsakymo suma:"
+
+#~ msgid "Shipping address:"
+#~ msgstr "Pristatymo adresas:"
+
+#~ msgid ""
+#~ "You can view the status of this order by clicking <a href=\"%(status_url)s"
+#~ "\" title=\"order status\">here</a>"
+#~ msgstr ""
+#~ "Jūs galite patikrinti šio užsakymo būseną paspaudę <a href="
+#~ "\"%(status_url)s\" title=\"order status\">čia</a>"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "We are pleased to confirm your order %(order_number)s has been received "
+#~ "and\n"
+#~ "will be processed shortly."
+#~ msgstr ""
+#~ "Sveiki,\n"
+#~ "\n"
+#~ "Mes džiaugiamės galėdami patvirtinti jūsų užsakymą %(order_number)s.\n"
+#~ "Greitu metu jis bus apdorotas."
+
+#~ msgid "quantity:"
+#~ msgstr "kiekis:"
+
+#~ msgid "price:"
+#~ msgstr "kaina:"
+
+#~ msgid ""
+#~ "You can view the status of this order at the below URL:\n"
+#~ "%(status_url)s"
+#~ msgstr ""
+#~ "Jūs galite patikrinti šio užsakymo būseną žemiau pateiktu URL:\n"
+#~ "%(status_url)s"
+
+#~ msgid "The team"
+#~ msgstr "Komanda"
+
+#~ msgid "Confirmation of order %(number)s"
+#~ msgstr "Užsakymo %(number)s patvirtinimas"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately:"
+#~ msgstr ""
+#~ "Jei jūs jo nekeitėte, prašome kuo greičiau nustatyti iš naujo savo "
+#~ "slaptažodį."
+
+#~ msgid "Otherwise, you can ignore this email."
+#~ msgstr "Kitu atveju, galite ignoruoti šį el. laišką."
+
+#~ msgid ""
+#~ "\n"
+#~ "You're receiving this email because your password has been changed at "
+#~ "%(name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Jūs gavote šį el. laišką nes jūsų slaptažodis buvo pakeistas - %(name)s.\n"
+
+#~ msgid "Your password changed at %(site_name)s."
+#~ msgstr "%(site_name)s tinklalapyje buvo pakeistas jūsų slaptažodis."
+
+#~ msgid ""
+#~ "You're receiving this e-mail because you requested a password reset for "
+#~ "your user account at %(name)s."
+#~ msgstr ""
+#~ "Jūs gavote šį el. laišką nes jūs užsakėte slaptažodžio atkūrimą savo "
+#~ "vartotojui - %(name)s."
+
+#~ msgid "Please go to the following page and choose a new password:"
+#~ msgstr "Prašome eiti į pateiktą puslapį ir pasirinkti naują slaptažodį:"
+
+#~ msgid "Resetting your password at %(site_name)s."
+#~ msgstr "Atstatomas slaptažodis tinklalapyje %(site_name)s."
+
+#~ msgid "Dear %(name)s,"
+#~ msgstr "Mieli %(name)s,"
+
+#~ msgid ""
+#~ "\n"
+#~ "Beware that the amount of items in stock is limited. Be quick or someone "
+#~ "might get there first.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Atkreipkite dėmesį jog prekių kiekis sandėlyje yra ribotas. Paskubėkite, "
+#~ "arba prekių gali nelikti.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "With this email we have disabled your alert automatically and you will "
+#~ "not\n"
+#~ "receive any further email regarding this product.\n"
+#~ "\n"
+#~ "Thanks for your interest,\n"
+#~ "The %(site_name)s Team\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Su šiuo el. laišku mes išjungėme perspėjimus ir jūs\n"
+#~ "nebegausite daugiau el. laiškų susijusių su šiuo produktu.\n"
+#~ "\n"
+#~ "Dėkojame už susidomėjimą,\n"
+#~ "%(site_name)s komanda\n"
+
+#~ msgid "Confirmation required for stock alert"
+#~ msgstr "Likučių perspėjimui reikalingas patvirtinimas"
+
+#~ msgid "Thank you for registering."
+#~ msgstr "Dėkojame už registraciją."
+
+#~ msgid "Products you recently viewed"
+#~ msgstr "Prekės kurias neseniai peržiūrėjote"
+
+#~ msgid "Log In"
+#~ msgstr "Prisijungti"
+
+#~ msgid "I've forgotten my password"
+#~ msgstr "Aš pamiršau savo slaptažodį"
+
+#~ msgid "Logging in..."
+#~ msgstr "Prisijungiama..."
+
+#~ msgid "Register"
+#~ msgstr "Registruotis"
+
+#~ msgid "Registering..."
+#~ msgstr "Registruojama..."
+
+#~ msgid "Notifications inbox"
+#~ msgstr "Pranešimų dėžutė"
+
+#~ msgid "Sender"
+#~ msgstr "Siuntėjas"
+
+#~ msgid "Return to notifications inbox"
+#~ msgstr "Grįžti į panėšimų dėžutę"
+
+#~ msgctxt "noun"
+#~ msgid "Archive"
+#~ msgstr "Archyvas"
+
+#~ msgid "View"
+#~ msgstr "Žiūrėti"
+
+#~ msgctxt "verb"
+#~ msgid "Archive"
+#~ msgstr "Archyvas"
+
+#~ msgid "With selected items:"
+#~ msgstr "Su pasirinktomis prekėmis:"
+
+#~ msgid "Archiving..."
+#~ msgstr "Archyvuojama..."
+
+#~ msgid "There are no notifications to display."
+#~ msgstr "Nėra jokių pranešimų kuriuos būtų galima atvaizduoti"
+
+#~ msgid "Order history"
+#~ msgstr "Užsakymų istorija"
+
+#~ msgid "Dispatch date"
+#~ msgstr "Išsiuntimo data"
+
+#~ msgid "Re-ordering..."
+#~ msgstr "Užsakoma iš naujo..."
+
+#~ msgid "Re-order"
+#~ msgstr "Užsakyti iš naujo"
+
+#~ msgid "Not available anymore"
+#~ msgstr "Daugiau nebėra"
+
+#~ msgid "Basket total (excl. discounts)"
+#~ msgstr "Krepšelio suma (be nuolaidų)"
+
+#~ msgid "Basket total (inc. discounts)"
+#~ msgstr "Krepšelio suma (su nuolaidom)"
+
+#~ msgid "Shipping total (excl. discounts)"
+#~ msgstr "Pristatymo suma (be nuolaidų)"
+
+#~ msgid "Shipping total (inc. discounts)"
+#~ msgstr "Pristatymo suma (su nuolaidų)"
+
+#~ msgid "Shipping total"
+#~ msgstr "Pristatymo suma"
+
+#~ msgid "Re-order all items"
+#~ msgstr "Iš naujo užsakyti visas prekes"
+
+#~ msgid "Contact Number"
+#~ msgstr "Kontaktinis telefonas"
+
+#~ msgid "Shipping Notes"
+#~ msgstr "Pristatymo pastabos"
+
+#~ msgid "Filtering..."
+#~ msgstr "Filtruojama..."
+
+#~ msgid "Filter results"
+#~ msgstr "Filtruoti rezultatus"
+
+#~ msgid "Reset"
+#~ msgstr "Atstatyti į pradinę būseną"
+
+#~ msgid "Total inc tax"
+#~ msgstr "Suma su PVM"
+
+#~ msgid "No orders match your search."
+#~ msgstr "Jokie užsakymai neatitinka jūsų paieškos."
+
+#~ msgid "You haven't placed any orders."
+#~ msgstr "Jūs nepateikėte jokių užsakymų."
+
+#~ msgid "Change password"
+#~ msgstr "Keisti slaptažodį"
+
+#~ msgid "Edit profile"
+#~ msgstr "Redaguoti profilį"
+
+#~ msgid "Please confirm your password to delete your profile."
+#~ msgstr "Prašome patvirtinti savo slaptažodį, kad ištrintumėte savo profilį."
+
+#~ msgid "Warning"
+#~ msgstr "Įspėjimas"
+
+#~ msgid ""
+#~ "\n"
+#~ "                This will delete all information about you from the "
+#~ "site.  Deleting your profile cannot be\n"
+#~ "                undone.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Tai ištrins visą informaciją apie jus iš šio tinklalapio. Profilio "
+#~ "pašalinimas negali būti\n"
+#~ "anuliuotas."
+
+#~ msgid "Delete?"
+#~ msgstr "Ištrinti?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Ar tikrai norite ištrinti %(name)s?"
+
+#~ msgid "Remove product"
+#~ msgstr "Pašalinti prekę"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(product_name)s from "
+#~ "wish list %(wishlist_name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Ar tikrai norite ištrinti %(product_name)s iš pageidavimų sąrašo  "
+#~ "%(wishlist_name)s?"
+
+#~ msgid "Action"
+#~ msgstr "Veiksmas"
+
+#~ msgid "View product"
+#~ msgstr "Peržiūrėti prekę"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                            Move to "
+#~ "'%(name)s' wish list\n"
+#~ "                                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Perkelti į '%(name)s' pageidavimų sąrašą"
+
+#~ msgid "Update quantities"
+#~ msgstr "Atnaujinti kiekius"
+
+#~ msgid "Your wish list is empty."
+#~ msgstr "Jūsų pageidavimų sąrašas yra tuščias."
+
+#~ msgid "Create"
+#~ msgstr "Sukurti"
+
+#~ msgid "What should your new wish list be called?"
+#~ msgstr "Kaip turėtų vadintis jūsų naujas pageidavimų sąrašas?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    After your wishlist is created, <strong>%(title)s</"
+#~ "strong> will be added.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Kai jūsų pageidavimų sąrašas bus sukurtas, <strong>%(title)s</strong> bus "
+#~ "pridėtas."
+
+#~ msgid "Number of products"
+#~ msgstr "Prekių kiekis"
+
+#~ msgid "Wish list settings"
+#~ msgstr "Pageidavimų sąrašo nustatymai"
+
+#~ msgid "You don't have any wish lists yet."
+#~ msgstr "Jūs kol kas neturite pageidavimų sąrašo."
+
+#~ msgid "Sections"
+#~ msgstr "Skyriai"
+
+#~ msgid "Delete category?"
+#~ msgstr "Ištrinti kategoriją?"
+
+#~ msgid "Delete category"
+#~ msgstr "Ištrinti kategoriją"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <p>Delete category <strong>%(name)s</strong> - are you sure?</"
+#~ "p>\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Ištrinti kategoriją <strong>%(name)s</strong> - ar esate tikri?</p>"
+
+#~ msgid "Create new category"
+#~ msgstr "Sukurti naują kategoriją"
+
+#~ msgid "You are editing:"
+#~ msgstr "Jūs redaguojate:"
+
+#~ msgid "There are no categories."
+#~ msgstr "Nėra kategorijų"
+
+#~ msgid "Edit category"
+#~ msgstr "Redaguoti kategoriją"
+
+#~ msgid "Add child category"
+#~ msgstr "Pridėti vidinę kategoriją"
+
+#~ msgid "Edit children"
+#~ msgstr "Redaguoti vidinį"
+
+#~ msgid "View on site"
+#~ msgstr "Žiūrėti tinklalapyje"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Sukurtas prekės variantas '%(name)s'."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Sukurtas '%(parent_name)s' variantas."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Atnaujintas prekės variantas '%(name)s'."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated a variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Atnaujintas '%(parent_name)s' variantas."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Created product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Sukurta prekė '%(name)s'."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Updated product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Atnaujinta prekė '%(name)s'."
+
+#~ msgid "Edit again"
+#~ msgstr "Redaguoti dar kartą"
+
+#~ msgid "View it on the site"
+#~ msgstr "Peržiūrėti tai tinklalapyje"
+
+#~ msgid "Delete product type?"
+#~ msgstr "Ištrinti prekės tipą?"
+
+#~ msgid ""
+#~ "Please make sure all products are assigned to another type before "
+#~ "deletion."
+#~ msgstr ""
+#~ "Prašome įsitikinti jog visos prekės yra priskirtos prie kito tipo prie "
+#~ "ištrinant."
+
+#~ msgid "Delete product type"
+#~ msgstr "Ištrinti prekės tipą"
+
+#~ msgid "Delete product type <strong>%(name)s</strong> - are you sure?"
+#~ msgstr "Ištrinti prekės tipą <strong>%(name)s</strong> - ar esate tikri?"
+
+#~ msgid "Create product type"
+#~ msgstr "Sukurti prekės tipą"
+
+#~ msgid "Product Class details"
+#~ msgstr "Prekės klasės detalės"
+
+#~ msgid "Create new product type"
+#~ msgstr "Sukurti naują prekės tipą"
+
+#~ msgid "Product types"
+#~ msgstr "Prekės tipai"
+
+#~ msgid "Requires shipping"
+#~ msgstr "Reikalauja pristatymo"
+
+#~ msgid "Track stock?"
+#~ msgstr "Sekti likučių kiekį?"
+
+#~ msgid "Edit product type"
+#~ msgstr "Redaguoti prekės tipą"
+
+#~ msgid "There are no product types."
+#~ msgstr "Nėra jokių prekės tipų."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product variant <strong>%(title)s</strong> - "
+#~ "are you sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Ištrinti prekės variantą <strong>%(title)s</strong> - ar esate tikri?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product <strong>%(title)s</strong> - are you "
+#~ "sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Ištrinti prekę <strong>%(title)s</strong> - ar esate tikri?"
+
+#~ msgid "This will also delete the following child products:"
+#~ msgstr "Tai taip pat ištrins sekančias antrines prekes:"
+
+#~ msgid "Create new product"
+#~ msgstr "Sukurti naują prekę"
+
+#~ msgid "New Product"
+#~ msgstr "Nauja prekė"
+
+#~ msgid "Search Products"
+#~ msgstr "Ieškoti prekių"
+
+#~ msgid "Searching..."
+#~ msgstr "Ieškoma..."
+
+#~ msgid ""
+#~ "\n"
+#~ "                            You are currently editing a product variant "
+#~ "of\n"
+#~ "                            <a href=\"%(parent_url)s\">%(title)s</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Šiuo metu redaguojate prekės <a href=\"%(parent_url)s\">%(title)s</a>\n"
+#~ "variantą."
+
+#~ msgid "Product details"
+#~ msgstr "Prekės apibūdinimas"
+
+#~ msgid "Images"
+#~ msgstr "Paveiksliukai"
+
+#~ msgid "Stock and pricing"
+#~ msgstr "Likutis ir įkainiai"
+
+#~ msgid "Upselling"
+#~ msgstr "Pardavimas"
+
+#~ msgid "Product Type:"
+#~ msgstr "Prekės tipas:"
+
+#~ msgid "Upload, change or remove images"
+#~ msgstr "Įkelti, pakeisti arba ištrinti paveiksliukus"
+
+#~ msgid "SKU"
+#~ msgstr "Prekės kodas"
+
+#~ msgid "Num in stock"
+#~ msgstr "Kiekis sandėlyje"
+
+#~ msgid "Num allocated"
+#~ msgstr "Rezervuotas kiekis"
+
+#~ msgid "Low stock threshold"
+#~ msgstr "Mažo likučio riba"
+
+#~ msgid "Cost price"
+#~ msgstr "Savikaina"
+
+#~ msgid "Price (excl tax)"
+#~ msgstr "Kaina (be PVM)"
+
+#~ msgid "Retail price"
+#~ msgstr "Didmeninė kaina"
+
+#~ msgid "Add variant"
+#~ msgstr "Pridėti variantą"
+
+#~ msgid "This product does not have any variants."
+#~ msgstr "Ši prekė neturi jokių variantų."
+
+#~ msgid "One can't add variants to this product at this point."
+#~ msgstr "Šiuo metu šiai prekei negalima pridėti variantų."
+
+#~ msgid "This is likely because this product still has stock records."
+#~ msgstr "Taip gali būti dėl to kad ši prekė vis dar turi sandėlio įrašus."
+
+#~ msgid "Save and add another variant"
+#~ msgstr "Išsaugoti ir pridėti kitą variantą"
+
+#~ msgid "Save and continue editing"
+#~ msgstr "Išsaugoti ir tęsti redagavimą"
+
+#~ msgid "All"
+#~ msgstr "Visi"
+
+#~ msgid "Current available stock"
+#~ msgstr "Dabartinis sandėlio likutis"
+
+#~ msgid "Date alert raised"
+#~ msgstr "Pranešimo sukūrimo data"
+
+#~ msgid "No stock alerts found."
+#~ msgstr "Nerasti jokie sandėlio likučio pranešimai."
+
+#~ msgid "Preview"
+#~ msgstr "Peržiūra"
+
+#~ msgid "Edit email"
+#~ msgstr "Redaguoti elektroninį paštą"
+
+#~ msgid "Email content"
+#~ msgstr "Elektroninio pašto turinys"
+
+#~ msgid "These fields are rendered using Django's template system."
+#~ msgstr "Šie laukai yra atvaizduojami naudojat Django šablonų sistemą."
+
+#~ msgid "You can use the following variables:"
+#~ msgstr "Galite naudoti sekančius kintamuosius:"
+
+#~ msgid "The full name of the user (if they have one)"
+#~ msgstr "Pilnas vartotojo vardas (jei toks yra)"
+
+#~ msgid "The user's email address"
+#~ msgstr "Vartotojo el. pašto adresas"
+
+#~ msgid "The name of the site (eg example.com)"
+#~ msgstr "Tinklalapio pavadinimas (pvz. example.com)"
+
+#~ msgid "View a preview of this email using order:"
+#~ msgstr "Peržiūrėti šį el. laišką naudojant tvarką:"
+
+#~ msgid "View preview"
+#~ msgstr "Peržiūrėti"
+
+#~ msgid "or send a preview to:"
+#~ msgstr "arba siųsti peržiūrą:"
+
+#~ msgid "Sending..."
+#~ msgstr "Siunčiama..."
+
+#~ msgid "Send preview email"
+#~ msgstr "Siųsti el. laišką peržiūrai"
+
+#~ msgid "Body text"
+#~ msgstr "Pagrindinis tekstas"
+
+#~ msgid "There are no defined emails to edit."
+#~ msgstr "Nėra jokių suvestų el. laiškų kuriuos būtų galima redaguoti."
+
+#~ msgid "Your Store Statistics"
+#~ msgstr "Jūsų parduotuvės statistika"
+
+#~ msgid "Total Orders"
+#~ msgstr "Viso užsakymų"
+
+#~ msgid "New Customers"
+#~ msgstr "Nauji klientai"
+
+#~ msgid "Total Customers"
+#~ msgstr "Viso klientų"
+
+#~ msgid "Total Products"
+#~ msgstr "Viso prekių"
+
+#~ msgid "Latest Orders (last 24 hours)"
+#~ msgstr "Paskutiniai užsakymai (paskutinės 24 valandos)"
+
+#~ msgid "Orders - Last 24 Hours"
+#~ msgstr "Užsakymai - per paskutines 24 valandas"
+
+#~ msgid "Total orders"
+#~ msgstr "Viso užsakymų"
+
+#~ msgid "Total lines"
+#~ msgstr "Viso eilutės"
+
+#~ msgid "Total revenue"
+#~ msgstr "Viso pelno"
+
+#~ msgid "Average order costs"
+#~ msgstr "Vidutinė užsakymo kaina"
+
+#~ msgid "Manage"
+#~ msgstr "Tvarkyti"
+
+#~ msgid "Orders - All Time"
+#~ msgstr "Užsakymai - viso laikotarpio"
+
+#~ msgid "Total <em>open</em> baskets"
+#~ msgstr "Viso <em>atvirų</em> krepšelių"
+
+#~ msgid "Total customers"
+#~ msgstr "Viso klientų"
+
+#~ msgid "New customers"
+#~ msgstr "Nauji klientai"
+
+#~ msgid "View Stock Alerts"
+#~ msgstr "Peržiūrėti sandėlio likučių perspėjimus"
+
+#~ msgid "Catalogue and stock"
+#~ msgstr "Katalogas ir sandėlio likučiai"
+
+#~ msgid "Total products"
+#~ msgstr "Viso prekių"
+
+#~ msgid "<em>Open</em> stock alerts"
+#~ msgstr "<em>Atviri</em> sandėlio likučių perspėjimai"
+
+#~ msgid "<em>Closed</em> stock alerts"
+#~ msgstr "<em>Uždaryti</em> sandėlio likučių perspėjimai"
+
+#~ msgid "Offers, vouchers and promotions"
+#~ msgstr "Pasiūlymai, kuponai ir reklamos"
+
+#~ msgid "Active <em>Site</em> Offers"
+#~ msgstr "Aktyvūs <em>tinklalapio</em> pasiūlymai"
+
+#~ msgid "Active <em>Vouchers</em>"
+#~ msgstr "Aktyvūs <em>kuponai</em>"
+
+#~ msgid "Welcome"
+#~ msgstr "Sveiki"
+
+#~ msgid "Return to site"
+#~ msgstr "Grįžti į tinklalapį"
+
+#~ msgid "Log out"
+#~ msgstr "Atsijungti"
+
+#~ msgid "Build a new incentive"
+#~ msgstr "Sukurti nauja paskatinimą"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Ranges can be created and edited from within the <a href="
+#~ "\"%(range_list_url)s\">range dashboard</a>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "Ribos gali būti sukurtos ir redaguojamos iš<a href=\"%(range_list_url)s"
+#~ "\">ribų prietaisų skydo</a>."
+
+#~ msgid "...or choose a pre-defined one"
+#~ msgstr "...arba rinktis jau nustatytą"
+
+#~ msgid "Continue to step 3"
+#~ msgstr "Eiti į 3 žingsnį"
+
+#~ msgid "Build a new condition"
+#~ msgstr "Sukurti naują sąlygą"
+
+#~ msgid "Continue to step 4"
+#~ msgstr "Eiti į 4 žingsnį"
+
+#~ msgid "Continue to step 2"
+#~ msgstr "Eiti į 2 žingsnį"
+
+#~ msgid "Delete offer"
+#~ msgstr "Ištrinti pasiūlymą"
+
+#~ msgid "Are you sure you want to delete this offer?"
+#~ msgstr "Ar tikrai norite ištrinti šį pasiūlymą?"
+
+#~ msgid ""
+#~ "\n"
+#~ "        %(name)s | Offers\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ " %(name)s | Pasiūlymai"
+
+#~ msgid "Reinstating..."
+#~ msgstr "Atkuriama..."
+
+#~ msgid "Reinstate offer"
+#~ msgstr "Atkurti pasiūlymą"
+
+#~ msgid "Suspending..."
+#~ msgstr "Nutraukiama..."
+
+#~ msgid "Suspend offer"
+#~ msgstr "Nutraukti pasiūlymą"
+
+#~ msgid "Offer currently available"
+#~ msgstr "Pasiūlymas dabar galioja"
+
+#~ msgid "Offer not available due to restrictions!"
+#~ msgstr "Pasiūlymas negalioja dėl apribojimų!"
+
+#~ msgid "Total cost:"
+#~ msgstr "Bendra suma:"
+
+#~ msgid "Number of orders:"
+#~ msgstr "Užsakymų kiekis:"
+
+#~ msgid "Number of uses:"
+#~ msgstr "Panaudojimų kiekis:"
+
+#~ msgid "Date created:"
+#~ msgstr "Sukūrimo data:"
+
+#~ msgid "Offer details"
+#~ msgstr "Pasiūlymo detalės"
+
+#~ msgid "Export to CSV"
+#~ msgstr "Eksportuoti į CSV"
+
+#~ msgid "Orders that used this offer"
+#~ msgstr "Užsakymai kurie panaudojo šį pasiūlymą"
+
+#~ msgid "Create new offer"
+#~ msgstr "Sukurti naują pasiūlymą"
+
+#~ msgid "Is available?"
+#~ msgstr "Yra pasiekiamas?"
+
+#~ msgid "Uses"
+#~ msgstr "Panaudojimai"
+
+#~ msgid "Browse"
+#~ msgstr "Naršyti"
+
+#~ msgid "Stats"
+#~ msgstr "Statistika"
+
+#~ msgid "No offers found."
+#~ msgstr "Nerasta jokių pasiūlymų."
+
+#~ msgid "Steps"
+#~ msgstr "Žingsniai"
+
+#~ msgid "1. Name and description"
+#~ msgstr "1. Pavadinimas ir apibūdinimas"
+
+#~ msgid "2. Incentive"
+#~ msgstr "2. Paskatinimas"
+
+#~ msgid "3. Condition"
+#~ msgstr "3. Sąlygos"
+
+#~ msgid "4. Restrictions"
+#~ msgstr "4. Apribojimai"
+
+#~ msgid "Save this offer"
+#~ msgstr "Išsaugoti šį pasiūlymą"
+
+#~ msgid "Fields marked with * are mandatory."
+#~ msgstr "Laukai pažymėti su * yra privalomi."
+
+#~ msgid "Save changes"
+#~ msgstr "Išsaugoti pakeitimus"
+
+#~ msgid "Offer summary"
+#~ msgstr "Pasiūlymo suvestinė"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s - Line #%(id)s\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Užsakymas %(number)s - Eilutė #%(id)s"
+
+#~ msgid "Line #%(id)s"
+#~ msgstr "Eilutė #%(id)s"
+
+#~ msgid "Order #%(number)s - Line #%(id)s"
+#~ msgstr "Užsakymas #%(number)s - Eilutė #%(id)s"
+
+#~ msgid "Product Options"
+#~ msgstr "Prekės parinktys"
+
+#~ msgid "Partner details"
+#~ msgstr "Partnerio detalės"
+
+#~ msgid "Shipping details"
+#~ msgstr "Pristatymo detalės"
+
+#~ msgid "Partner reference number"
+#~ msgstr "Partnerio paminėjimo numeris"
+
+#~ msgid "Partner notes"
+#~ msgstr "Partnerio pastatbos"
+
+#~ msgid "Estimate dispatch date"
+#~ msgstr "Numatoma išsiuntimo data"
+
+#~ msgid "Shipping status"
+#~ msgstr "Pristatymo būsena"
+
+#~ msgid "State"
+#~ msgstr "Būsena"
+
+#~ msgid "No shipping events have occurred."
+#~ msgstr "Nėra pristatymo įvykių."
+
+#~ msgid "Shipping events"
+#~ msgstr "Pristatymo įvykiai"
+
+#~ msgid "Payment events"
+#~ msgstr "Apmokėjimo įvykiai"
+
+#~ msgid "No payment events have occurred."
+#~ msgstr "Nėra apmokėjimo įvykių."
+
+#~ msgid "Order %(number)s"
+#~ msgstr "Užsakymas %(number)s"
+
+#~ msgid "Customer Information"
+#~ msgstr "Kliento informacija"
+
+#~ msgid "Customer checked out as a guest."
+#~ msgstr "Klientas pirko kaip svečias."
+
+#~ msgid "Customer has deleted their account."
+#~ msgstr "Klientas ištrynė savo paskyrą."
+
+#~ msgid "Order information"
+#~ msgstr "Užsakymo informacija"
+
+#~ msgid "Order Total"
+#~ msgstr "Užsakymo suma"
+
+#~ msgid "Time of purchase"
+#~ msgstr "Pirkimo laikas"
+
+#~ msgid "Order Details"
+#~ msgstr "Užsakymo detalės"
+
+#~ msgid "Discounts"
+#~ msgstr "Nuolaidos"
+
+#~ msgid "Items ordered"
+#~ msgstr "Užsakytos prekės"
+
+#~ msgid "Line ID"
+#~ msgstr "Eilutės ID"
+
+#~ msgid "Supplier"
+#~ msgstr "Tiekėjas"
+
+#~ msgid "Supplier SKU"
+#~ msgstr "Tiekėjo kodas"
+
+#~ msgid "Est. dispatch date"
+#~ msgstr "Numatoma išsiuntimo data"
+
+#~ msgid "Price excl tax (before discounts)"
+#~ msgstr "Kaina be PVM (prieš nuolaidas)"
+
+#~ msgid "Price inc tax (before discounts)"
+#~ msgstr "Kaina su PVM (prieš nuolaidas)"
+
+#~ msgid "With selected lines"
+#~ msgstr "Su pasirinktomis eilutėmis"
+
+#~ msgid "Change line status to"
+#~ msgstr "Pakeisti eilutės būsena į"
+
+#~ msgid "choose new status"
+#~ msgstr "pasirinkti naują būseną"
+
+#~ msgid "Create shipping event"
+#~ msgstr "Sukurti pristatymo įvykį"
+
+#~ msgid "choose event type"
+#~ msgstr "pasirinkti įvykio tipą"
+
+#~ msgid "with reference"
+#~ msgstr "su nuoroda"
+
+#~ msgid "Create payment event"
+#~ msgstr "Sukurti apmokėjimo įvykį"
+
+#~ msgid "with amount"
+#~ msgstr "su suma"
+
+#~ msgid "Go!"
+#~ msgstr "Pirmyn!"
+
+#~ msgid "Change order status"
+#~ msgstr "Keisti užsakymo būseną"
+
+#~ msgid "Change status"
+#~ msgstr "Keisti būseną"
+
+#~ msgid "This order can't have its status changed."
+#~ msgstr "Šio užsakymo būsena negali būti pakeista"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                                %(title)s "
+#~ "(quantity %(event_qty)s/%(total_qty)s)\n"
+#~ "                                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "%(title)s (kiekis %(event_qty)s/%(total_qty)s)\n"
+#~ "                                                            "
+
+#~ msgid "No shipping events."
+#~ msgstr "Nėra pristatymo įvykių."
+
+#~ msgid "Product:"
+#~ msgstr "Prekė:"
+
+#~ msgid "quantity"
+#~ msgstr "kiekis"
+
+#~ msgid "No payment events."
+#~ msgstr "Nėra apmokėjimo įvykių."
+
+#~ msgid "Method name"
+#~ msgstr "Būdo pavadinimas"
+
+#~ msgid "Method code"
+#~ msgstr "Būdo kodas"
+
+#~ msgid "Charge (incl tax)"
+#~ msgstr "Priemoka (su PVM)"
+
+#~ msgid "Charge (excl tax)"
+#~ msgstr "Priemoka (be PVM)"
+
+#~ msgid "Payment sources"
+#~ msgstr "Apmokėjimo šaltiniai"
+
+#~ msgid "Allocation"
+#~ msgstr "Paskyrimas"
+
+#~ msgid "Amount debited"
+#~ msgstr "Suma įrašyta į debetą"
+
+#~ msgid "Amount refunded"
+#~ msgstr "Grąžinta suma"
+
+#~ msgid "No payment sources found for this order."
+#~ msgstr "Šiam užsakymui nerasti jokie apmokėjimo šaltiniai."
+
+#~ msgid "No discounts were applied to this order."
+#~ msgstr "Šiam užsakymui nepritaikytos jokios nuolaidos."
+
+#~ msgid "Admin"
+#~ msgstr "Administratorius"
+
+#~ msgid "No notes available."
+#~ msgstr "Nėra pastabų."
+
+#~ msgid "Save note"
+#~ msgstr "Išsaugoti pastabą"
+
+#~ msgid "Notes are only editable for 5 minutes after being saved."
+#~ msgstr "Pastabas koreguoti galima tik 5 minutės po išsaugojimo."
+
+#~ msgid "Advanced Search"
+#~ msgstr "Išplėstinė paieška"
+
+#~ msgid "Close"
+#~ msgstr "Uždaryti"
+
+#~ msgid "Order Search Results"
+#~ msgstr "Užsakymo paieškos rezultatai"
+
+#~ msgid "All Orders"
+#~ msgstr "Visi užsakymai"
+
+#~ msgid "Download selected orders as a CSV"
+#~ msgstr "Parsiųsti pasirinktus užsakymus kaip CSV"
+
+#~ msgid "Deleted"
+#~ msgstr "Ištrintas"
+
+#~ msgid "Changing..."
+#~ msgstr "Keičiama..."
+
+#~ msgid "No orders found."
+#~ msgstr "Nerasta jokių užsakymų."
+
+#~ msgid "Print Packaging Slips"
+#~ msgstr "Spausdinti pakavimo duomenis"
+
+#~ msgid "Mark as"
+#~ msgstr "Pažymėti kaip"
+
+#~ msgid "Change order status to"
+#~ msgstr "Pakeisti užsakymo būsena į"
+
+#~ msgid "Done"
+#~ msgstr "Baigta"
+
+#~ msgid "Edit shipping address"
+#~ msgstr "Keisti siuntimo adresą"
+
+#~ msgid "Edit shipping address for order %(order.number)s"
+#~ msgstr "Keisti siuntimo adresą užsakymui %(order.number)s"
+
+#~ msgid "Update address"
+#~ msgstr "Atnaujinti adresą"
+
+#~ msgid "Order statistics"
+#~ msgstr "Užsakymų statistika"
+
+#~ msgid "Filter result"
+#~ msgstr "Filtruoti rezultatą"
+
+#~ msgid "Summary"
+#~ msgstr "Santrauka"
+
+#~ msgid "Order status breakdown"
+#~ msgstr "Užsakymų būsenų santrauka"
+
+#~ msgid "Delete page '%(title)s'?"
+#~ msgstr "Pašalinti puslapį '%(title)s'?"
+
+#~ msgid "Delete page"
+#~ msgstr "Pašalinti puslapį"
+
+#~ msgid "Delete page <strong>%(title)s</strong> - are you sure?"
+#~ msgstr "Pašalinti puslapį <strong>%(title)s</strong> - ar esate tikri?"
+
+#~ msgid "Create new page"
+#~ msgstr "Sukurt naują puslapį"
+
+#~ msgid "No pages found."
+#~ msgstr "Nerasti jokie puslapiai."
+
+#~ msgid ""
+#~ "\n"
+#~ "        Page <strong>%(title)s</strong> saved!\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Puslapis <strong>%(title)s</strong> išsaugotas!"
+
+#~ msgid "Oops! We found some errors"
+#~ msgstr "Oops! Mes radome keletą problemų"
+
+#~ msgid "please check the error messages below and try again"
+#~ msgstr ""
+#~ "prašome patikrinti žemiau esančias klaidų žinutes ir bandyti dar kartą"
+
+#~ msgid "previous"
+#~ msgstr "ankstesnis"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Page %(page_num)s of %(total_pages)s\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Puslapis %(page_num)s iš %(total_pages)s"
+
+#~ msgid "next"
+#~ msgstr "kitas"
+
+#~ msgid ""
+#~ "\n"
+#~ "User %(user_name)s was unlinked from %(partner_name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Vartotojas %(user_name)s buvo atskirtas nuo %(partner_name)s.\n"
+
+#~ msgid "Undo"
+#~ msgstr "Anuliuoti"
+
+#~ msgid "Delete partner"
+#~ msgstr "Ištrinti partnerį"
+
+#~ msgid "Are you sure you want to delete this partner?"
+#~ msgstr "Ar tikrai norite pašalinti ši partnerį?"
+
+#~ msgid "Edit the user's details"
+#~ msgstr "Keisti vartotojo duomenis"
+
+#~ msgid "No users associated."
+#~ msgstr "Nėra priskirtų vartotojų."
+
+#~ msgid "No address associated."
+#~ msgstr "Nėra priskirtų adresų."
+
+#~ msgid "Manage partner and users"
+#~ msgstr "Tvarkyti partnerius ir vartotojus"
+
+#~ msgid "Link an existing user"
+#~ msgstr "Priskirti egzistuojantį vartotoją"
+
+#~ msgid "Link a new user"
+#~ msgstr "Priskirti naują vartotoją"
+
+#~ msgid "No partners found."
+#~ msgstr "Nerasti jokie partneriai."
+
+#~ msgid "Unlinking..."
+#~ msgstr "Atskiriama..."
+
+#~ msgid "Unlink user"
+#~ msgstr "Atskirti vartotoją"
+
+#~ msgid "No users linked."
+#~ msgstr "Nėra priskirtų vartotojų"
+
+#~ msgid "Link a user"
+#~ msgstr "Priskirti vartotoją"
+
+#~ msgid "Manage users"
+#~ msgstr "Tvarkyti vartotojus"
+
+#~ msgid "Update details"
+#~ msgstr "Atnaujinti duomenis"
+
+#~ msgid ""
+#~ "A partial email address can be entered (eg '@example.com') to match "
+#~ "multiple addresses."
+#~ msgstr ""
+#~ "Gali būti įvestas dalinis el. pašto adresas (pvz. '@example.com') norint "
+#~ "rasti kelis adresus."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                User is already linked to "
+#~ "%(name)s.\n"
+#~ "                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "Vartotojas jau yra priskirtas prie %(name)s."
+
+#~ msgid "Linking..."
+#~ msgstr "Priskiriama..."
+
+#~ msgid "Link user"
+#~ msgstr "Priskirti vartotoją"
+
+#~ msgid "No users found."
+#~ msgstr "Nerasti jokie vartotojai."
+
+#~ msgid "Delete content block '%(name)s'?\""
+#~ msgstr "Pašalinti turinio bloką '%(name)s'?\""
+
+#~ msgid "Delete content block"
+#~ msgstr "Pašalinti turinio bloką"
+
+#~ msgid ""
+#~ "Delete %(object.type)s content block <strong>%(object.name)s</strong> - "
+#~ "are you sure?"
+#~ msgstr ""
+#~ "Ištrinti %(object.type)s turinio bloką <strong>%(object.name)s</strong> - "
+#~ "ar esate tikri?"
+
+#~ msgid "Remove promotion from page?"
+#~ msgstr "Pašalinti reklamą iš puslapio?"
+
+#~ msgid "Remove promotion"
+#~ msgstr "Pašalinti reklamą"
+
+#~ msgid ""
+#~ "Remove %(object.content_object.type)s content block <strong>%(object."
+#~ "name)s</strong> from page <strong>%(object.page_url)s</strong> - are you "
+#~ "sure?"
+#~ msgstr ""
+#~ "Pašalinti %(object.content_object.type)s turinio bloką <strong>%(object."
+#~ "name)s</strong> iš puslapio <strong>%(object.page_url)s</strong> - ar "
+#~ "esate tikri?"
+
+#~ msgid "Content block"
+#~ msgstr "Turinio blokas"
+
+#~ msgid "Pages displaying this content blocks"
+#~ msgstr "Puslapiai atvaizduojantys šį turinio bloką"
+
+#~ msgid "Position on page"
+#~ msgstr "Pozicija puslapyje"
+
+#~ msgid "View all blocks on this page"
+#~ msgstr "Peržiūrėti visus blokus šiame puslapyje"
+
+#~ msgid "Remove from page"
+#~ msgstr "Pašalinti iš puslapio"
+
+#~ msgid "This promotion is not displayed anywhere at the moment."
+#~ msgstr "Ši reklama kol kas niekur neatvaizduojama."
+
+#~ msgid "Add to a page"
+#~ msgstr "Pridėti į puslapį"
+
+#~ msgid "Add to page"
+#~ msgstr "Pridėti į puslapį"
+
+#~ msgid "Content blocks for page %(page_url)s"
+#~ msgstr "Turinio blokai puslapiui %(page_url)s"
+
+#~ msgid "Content blocks on page '%(page_url)s'"
+#~ msgstr "Turinio blokai puslapyje '%(page_url)s'"
+
+#~ msgid "Edit promotions in position '%(name)s'"
+#~ msgstr "Redaguoti reklamas pozicijoje '%(name)s'"
+
+#~ msgid "Promotion Name"
+#~ msgstr "Reklamos pavadinimas"
+
+#~ msgid "Change display order"
+#~ msgstr "Keisti atvaizdavimo tvarką"
+
+#~ msgid "No promotions in this position."
+#~ msgstr "Jokių reklamų šioje pozicijoje."
+
+#~ msgid "Pages with content blocks"
+#~ msgstr "Puslapiai su turinio blokais"
+
+#~ msgid "View by page"
+#~ msgstr "Žiūrėti pagal puslapį"
+
+#~ msgid "View all content blocks"
+#~ msgstr "Peržiūrėti visus turinio blokus"
+
+#~ msgid "View content blocks by page"
+#~ msgstr "Peržiūrėti turinio blokus pagal puslapius"
+
+#~ msgid "Pages with content blocks on them"
+#~ msgstr "Puslapiai su turinio blokais"
+
+#~ msgid "Number of content blocks"
+#~ msgstr "Turinio blokų kiekis"
+
+#~ msgid "No content blocks found."
+#~ msgstr "Nerasti jokie turinio blokai."
+
+#~ msgid "Create a new content block"
+#~ msgstr "Sukurti naują turinio bloką"
+
+#~ msgid "Creating..."
+#~ msgstr "Kuriama..."
+
+#~ msgid "Create block"
+#~ msgstr "Sukurti bloką"
+
+#~ msgid "Number of times used"
+#~ msgstr "Panaudota kartų"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>File <strong>%(filename)s</strong> processed.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Byla <strong>%(filename)s</strong> apdorota.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> product added\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> products added\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "pridėta <strong>%(n)s</strong> prekė"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "pridėta <strong>%(n)s</strong> prekės"
+#~ msgstr[2] ""
+#~ "\n"
+#~ "pridėta <strong>%(n)s</strong> prekių"
+#~ msgstr[3] ""
+#~ "\n"
+#~ "pridėta <strong>%(n)s</strong> prekių"
+
+#~ msgid ""
+#~ "\n"
+#~ "                There was <strong>%(n)s</strong> duplicate product in the "
+#~ "file\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                There were <strong>%(n)s</strong> duplicate products in "
+#~ "the file\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "Buvo <strong>%(n)s</strong> prekės dublikatas byloje"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "Buvo <strong>%(n)s</strong> prekės dublikatai byloje"
+#~ msgstr[2] ""
+#~ "\n"
+#~ "Buvo <strong>%(n)s</strong> prekės dublikatų byloje"
+#~ msgstr[3] ""
+#~ "\n"
+#~ "Buvo <strong>%(n)s</strong> prekės dublikatų byloje"
+
+#~ msgid ""
+#~ "\n"
+#~ "                There was <strong>%(n)s</strong> product in the file that "
+#~ "couldn't be found in the catalogue\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                There were <strong>%(n)s</strong> products in the file "
+#~ "that couldn't be found in the catalogue\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "Buvo <strong>%(n)s</strong> prekė byloje, kuri nebuvo rasta kataloge"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "Buvo <strong>%(n)s</strong> prekės byloje, kurios nebuvo rastos kataloge"
+#~ msgstr[2] ""
+#~ "\n"
+#~ "Buvo <strong>%(n)s</strong> prekių byloje, kurios nebuvo rastos kataloge"
+#~ msgstr[3] ""
+#~ "\n"
+#~ "Buvo <strong>%(n)s</strong> prekių byloje, kurios nebuvo rastos kataloge"
+
+#~ msgid "Edit range metadata"
+#~ msgstr "Redaguoti ribų meta duomenis"
+
+#~ msgid "Return to ranges homepage"
+#~ msgstr "Grįžti į ribų pradinį puslapį"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>Range <strong>%(name)s</strong> saved.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Ribos <strong>%(name)s</strong> išsaugotos.</p>\n"
+
+#~ msgid "Edit included products"
+#~ msgstr "Redaguoti įtrauktas prekes"
+
+#~ msgid "Delete range '%(name)s'?"
+#~ msgstr "Ištrinti ribas '%(name)s'?"
+
+#~ msgid "Are you sure you want to delete this range?"
+#~ msgstr "Ar tikrai norite ištrinti šias ribas?"
+
+#~ msgid "Create new range"
+#~ msgstr "Sukurti naujas ribas"
+
+#~ msgid "Save and edit products"
+#~ msgstr "Išsaugoti ir redaguoti prekes"
+
+#~ msgid "Num products"
+#~ msgstr "Prekių kiekis"
+
+#~ msgid "Edit products"
+#~ msgstr "Redaguoti prekes"
+
+#~ msgid "No ranges found."
+#~ msgstr "Nerastos jokios ribos."
+
+#~ msgid "Products in range '%(name)s'"
+#~ msgstr "Prekės ribose '%(name)s'"
+
+#~ msgid "products"
+#~ msgstr "prekės"
+
+#~ msgid ""
+#~ "This range contains all products. To add products manually, please "
+#~ "unselect the 'Includes All Products' option on the edit range page."
+#~ msgstr ""
+#~ "Šioms ribos priklauso visi produktai. Kad pridėti produktus rankiniu "
+#~ "būdu, prašome atžymėti 'Apima visas prekes' opciją ribų redagavimo "
+#~ "puslapyje."
+
+#~ msgid "Add products"
+#~ msgstr "Pridėti prekes"
+
+#~ msgid "Running..."
+#~ msgstr "Dirba..."
+
+#~ msgid "Upload history"
+#~ msgstr "Įkėlimų istorija"
+
+#~ msgid "Filename"
+#~ msgstr "Bylos pavadinimas"
+
+#~ msgid "New products"
+#~ msgstr "Naujos prekės"
+
+#~ msgid "Duplicate products"
+#~ msgstr "Vienodos prekės"
+
+#~ msgid "Unknown products"
+#~ msgstr "Nežinomos prekės"
+
+#~ msgid "Date uploaded"
+#~ msgstr "Įkėlimo data"
+
+#~ msgid "Products in range"
+#~ msgstr "Prekės ribose"
+
+#~ msgid "Remove selected products"
+#~ msgstr "Pašalinti pasirinktas prekes"
+
+#~ msgid "Is product discountable?"
+#~ msgstr "Ar ši prekė gali turėti nuolaidą?"
+
+#~ msgid "Products in Range"
+#~ msgstr "Prekės ribose"
+
+#~ msgid "Edit range"
+#~ msgstr "Redaguoti ribas"
+
+#~ msgid "return to range list"
+#~ msgstr "grįžti į ribų sąrašą"
+
+#~ msgid "Reporting Dashboard"
+#~ msgstr "Ataskaitų prietaisų skydas"
+
+#~ msgid "Reporting dashboard"
+#~ msgstr "Ataskaitų prietaisų skydas"
+
+#~ msgid "Generating..."
+#~ msgstr "Generuojama..."
+
+#~ msgid "Generate report"
+#~ msgstr "Generuoti ataskaitą"
+
+#~ msgid "No results found."
+#~ msgstr "Nerasta jokių rezultatų."
+
+#~ msgid "No vouchers were used in this period"
+#~ msgstr "Jokie kuponai nebuvo panaudoti šiuo periodu"
+
+#~ msgid "Delete review '%(title)s'?"
+#~ msgstr "Ištrinti apžvalgą '%(title)s'?"
+
+#~ msgid "Delete review \"%(title)s\"?"
+#~ msgstr "Ištrinti apžvalgą \"%(title)s\"?"
+
+#~ msgid "Review"
+#~ msgstr "Apžvalga"
+
+#~ msgid "Review Search"
+#~ msgstr "Apžvalgos paieška"
+
+#~ msgid "Update status of selected reviews"
+#~ msgstr "Atnaujinti pasirinktų apžvalgų būseną"
+
+#~ msgctxt "Review title"
+#~ msgid "Title"
+#~ msgstr "Pavadinimas"
+
+#~ msgid "[Product deleted]"
+#~ msgstr "[Prekė ištrinta]"
+
+#~ msgid "No reviews found."
+#~ msgstr "Nerasta jokių apžvalgų."
+
+#~ msgid "Update review"
+#~ msgstr "Atnaujinti apžvalgą"
+
+#~ msgid "Review #%(review.id)s"
+#~ msgstr "Apžvalga #%(review.id)s"
+
+#~ msgid "Review information"
+#~ msgstr "Apžvalgos informacija"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>A weight band has been added to the <strong>%(name)s</strong> "
+#~ "shipping method.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Svorių grupė buvo pridėta į <strong>%(name)s</strong>pristatymo būdą.</"
+#~ "p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>Weight band deleted from the <strong>%(name)s</strong> shipping "
+#~ "method \n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Svorių grupė buvo pašalinta iš <strong>%(name)s</strong>pristatymo "
+#~ "būdo.</p>\n"
+
+#~ msgid "Weight band updated"
+#~ msgstr "Svorio grupė atnaujinta"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>A shipping method <strong>%(name)s</strong> has been created.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Pristatymo būdas <strong>%(name)s</strong> buvo sukurtas.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been deleted.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Pristatymo būdas <strong>%(name)s</strong> buvo ištrintas.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been updated.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Pristatymo būdas <strong>%(name)s</strong> buvo atnaujintas.</p>\n"
+
+#~ msgid "Delete weight band?"
+#~ msgstr "Ištrinti svorio grupę?"
+
+#~ msgid "Shipping methods"
+#~ msgstr "Pristatymo būdai"
+
+#~ msgid "Weight range (kg)"
+#~ msgstr "Svorio ribos (kg)"
+
+#~ msgid "Are you sure you want to delete this weight band method?"
+#~ msgstr "Ar tikrai norite ištrinti šį svorių grupės būdą?"
+
+#~ msgid "Edit weight band"
+#~ msgstr "Redaguoti svorio grupę"
+
+#~ msgid "Delete shipping method '%(name)s'?"
+#~ msgstr "Ištrinti pristatymo būdą '%(name)s'?"
+
+#~ msgid "Are you sure you want to delete this shipping method?"
+#~ msgstr "Ar tikrai norite ištrinti šį pristatymo būdą?"
+
+#~ msgid "Applies to countries"
+#~ msgstr "Taikoma šalims"
+
+#~ msgid "Default product weight (kg)"
+#~ msgstr "Numatytasis prekės svoris (kg)"
+
+#~ msgid "Edit shipping method"
+#~ msgstr "Redaguoti pristatymo būdą"
+
+#~ msgid "Delete shipping method"
+#~ msgstr "Ištrinti pristatymo būdą"
+
+#~ msgid "Weight bands"
+#~ msgstr "Svorio grupės"
+
+#~ msgid "No weight bands have been added yet."
+#~ msgstr "Nebuvo pridėtos jokios svorio grupės."
+
+#~ msgid "Add a new weight band"
+#~ msgstr "Pridėti naują svorio grupę"
+
+#~ msgid "Add weight band"
+#~ msgstr "Pridėti svorio grupę"
+
+#~ msgid "Create a new shipping method"
+#~ msgstr "Sukurti naują pristatymo būdą"
+
+#~ msgid "Create new shipping charge"
+#~ msgstr "Sukurti naują pristatymo mokestį"
+
+#~ msgid "Number of weight bands"
+#~ msgstr "Svorio grupių kiekis"
+
+#~ msgid "Default weight (kg)"
+#~ msgstr "Numatytasis svoris (kg)"
+
+#~ msgid "No shipping methods found."
+#~ msgstr "Nerasti jokie pristatymo būdai."
+
+#~ msgid "Alert #%(id)s"
+#~ msgstr "Perspėjimas #%(id)s"
+
+#~ msgid "Delete alert #%(id)s?"
+#~ msgstr "Ištrinti perspėjimą #%(id)s?"
+
+#~ msgid "Product alert #%(id)s"
+#~ msgstr "Prekės perspėjimas #%(id)s"
+
+#~ msgid "Are you sure that you want to delete this alert?"
+#~ msgstr "Ar tikrai norite ištrinti šį perspėjimą?"
+
+#~ msgid "Search product alerts"
+#~ msgstr "Prekių perspėjimų paieška"
+
+#~ msgid "reset"
+#~ msgstr "atstatyti"
+
+#~ msgid "Date alert sent"
+#~ msgstr "Perspėjimo išsiuntimo data"
+
+#~ msgid "(Anonymous)"
+#~ msgstr "(Anoniminis)"
+
+#~ msgid "No alerts found."
+#~ msgstr "Nerasti jokie perspėjimai."
+
+#~ msgid "Update alert #%(id)s"
+#~ msgstr "Atnaujinti perspėjimą #%(id)s"
+
+#~ msgid "General"
+#~ msgstr "Bedras"
+
+#~ msgid "Yes,No"
+#~ msgstr "Taip,Ne"
+
+#~ msgid "Superuser"
+#~ msgstr "Super vartotojas"
+
+#~ msgid "True,False"
+#~ msgstr "Taip,Ne"
+
+#~ msgid "Staff"
+#~ msgstr "Personalas"
+
+#~ msgid "Last login"
+#~ msgstr "Paskutinis prisijungimas"
+
+#~ msgid "Date joined"
+#~ msgstr "Prisijungimo data"
+
+#~ msgid "Products viewed"
+#~ msgstr "Peržiūrėta prekių"
+
+#~ msgid "Number of orders"
+#~ msgstr "Užsakymų kiekis"
+
+#~ msgid "Number of ordered items"
+#~ msgstr "Užsakytų prekių kiekis"
+
+#~ msgid "Reviews written"
+#~ msgstr "Parašyta apžvalgų"
+
+#~ msgid "Send password reset email"
+#~ msgstr "Siųsti slaptažodžio atkūrimo elektroninį laišką"
+
+#~ msgid "Order Number"
+#~ msgstr "Užsakymo numeris"
+
+#~ msgid "Total value"
+#~ msgstr "Bendra suma"
+
+#~ msgid "This customer has not placed any orders yet."
+#~ msgstr "Šis klientas dar nepateikė jokių užsakymų."
+
+#~ msgid "This customer has not saved any addresses."
+#~ msgstr "Šis klientas dar neišsaugojo jokių adresų."
+
+#~ msgid "Product ID"
+#~ msgstr "Prekės ID"
+
+#~ msgid "This customer has not written any reviews yet."
+#~ msgstr "Šis klientas dar neparašė jokių apžvalgų."
+
+#~ msgid "No customers found."
+#~ msgstr "Nerasta jokių klientų."
+
+#~ msgid "Bulk Actions"
+#~ msgstr "Masiniai veiksmai"
+
+#~ msgid "With selected customers:"
+#~ msgstr "Su pasirinktais klientais:"
+
+#~ msgid "Make active"
+#~ msgstr "Padaryti aktyviu"
+
+#~ msgid "Make inactive"
+#~ msgstr "Padaryti neaktyviu"
+
+#~ msgid "Delete voucher '%(name)s'?"
+#~ msgstr "Ištrinti kuponą '%(name)s'?"
+
+#~ msgid "Voucher details"
+#~ msgstr "Kupono detalės"
+
+#~ msgid "Number of basket additions"
+#~ msgstr "Krepšelio papildymų kiekis"
+
+#~ msgid "Recent orders"
+#~ msgstr "Paskutiniai užsakymai"
+
+#~ msgid "No orders have been placed that use this voucher."
+#~ msgstr "Nėra jokių užsakymų kurie naudotų šį kuponą."
+
+#~ msgid "Edit voucher"
+#~ msgstr "Redaguoti kuponą"
+
+#~ msgid "Create new voucher"
+#~ msgstr "Sukurti naują kuponą"
+
+#~ msgid "Num baskets"
+#~ msgstr "Krepšelių skaičius"
+
+#~ msgid "Num orders"
+#~ msgstr "Užsakymų skaičius"
+
+#~ msgid "Inactive"
+#~ msgstr "Neaktyvus"
+
+#~ msgid "No vouchers found."
+#~ msgstr "Nerasti jokie kuponai."
+
+#~ msgid "Sorry!"
+#~ msgstr "Atsiprašome!"
+
+#~ msgid "Return to previous page"
+#~ msgstr "Grįžti į buvusį puslapį"
+
+#~ msgid "Go to homepage"
+#~ msgstr "Grįžti į pradinį puslapį"
+
+#~ msgid "Edit this page"
+#~ msgstr "Redaguoti šį puslapį"
+
+#~ msgid "thumbnail"
+#~ msgstr "miniatiūra"
+
+#~ msgid "Unrecognized image type!"
+#~ msgstr "Neatpažintas paveiksliuko tipas!"
+
+#~ msgid "Upload Image"
+#~ msgstr "Įkelti paveiksliuką"
+
+#~ msgid "This page is only available to users who aren't logged in."
+#~ msgstr "Šis puslapis pasiekiamas tik vartotojams kurie nėra prisijungę."
+
+#~ msgid " This offer is no longer available."
+#~ msgstr "Šis pasiūlymas jau nebegalioja."
+
+#~ msgid "What you need to do"
+#~ msgstr "Ką jums reikia padaryti"
+
+#~ msgid "There are no site offers at the moment."
+#~ msgstr "Šiuo metu nėra jokių pasiūlymų."
+
+#~ msgid "Browse products in offer"
+#~ msgstr "Žiūrėti produktus su pasiūlymais"
+
+#~ msgid "See more"
+#~ msgstr "Pamatyti daugiau"
+
+#~ msgid "Password reset complete"
+#~ msgstr "Slaptažodžio atkūrimas baigtas"
+
+#~ msgid "Password reset"
+#~ msgstr "Slaptažodžio atkūrimas"
+
+#~ msgid "Complete"
+#~ msgstr "Baigta"
+
+#~ msgid "Your password has been set.  You may go ahead and log in now."
+#~ msgstr "Jūsų slaptažodis buvo nustatytas. Dabar galite prisijungti."
+
+#~ msgid "Log in"
+#~ msgstr "Prisijungti"
+
+#~ msgid "Enter a new password"
+#~ msgstr "Įveskite naują slaptažodį"
+
+#~ msgid ""
+#~ "Please enter your new password twice so we can verify you typed it in "
+#~ "correctly."
+#~ msgstr ""
+#~ "Prašome įvesti savo naują slaptažodį du kartus, kad galėtume patvirtinti "
+#~ "jog jį suvedėte teisingai."
+
+#~ msgid "Change my password"
+#~ msgstr "Pakeisti mano slaptažodį:"
+
+#~ msgid "Password reset unsuccessful"
+#~ msgstr "Slaptažodžio atkūrimas nepavyko"
+
+#~ msgid ""
+#~ "The password reset link was invalid, possibly because it has already been "
+#~ "used.  Please request a new password reset."
+#~ msgstr ""
+#~ "Slaptažodžio atkūrimo nuoroda buvo neteisinga, galimai dėl to kad jau "
+#~ "buvo panaudota. Prašome užsakyti naują slaptažodžio atkūrimą."
+
+#~ msgid "Password reset email sent"
+#~ msgstr "Slaptažodžio atkūrimo elektroninis laiškas išsiųstas"
+
+#~ msgid "Email sent"
+#~ msgstr "Elektroninis laiškas išsiųstas"
+
+#~ msgid ""
+#~ "\n"
+#~ "        We've e-mailed you instructions for resetting your password. You "
+#~ "should be receiving it shortly.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "El. paštu išsiuntėme jums instrukcijas kaip atkurti slaptažodį. Ne už "
+#~ "ilgo turėtumėte jį gauti."
+
+#~ msgid ""
+#~ "\n"
+#~ "        If you don't receive an email, please make sure you've entered "
+#~ "the address you registered with, and check\n"
+#~ "        your spam folder.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Jei negaunate el. laiško, prašome patikrinti ar suvedėte tą el. pašto "
+#~ "adresą su kurio registravotės, ir patikrinti\n"
+#~ "brukalo aplanką."
+
+#~ msgid ""
+#~ "Forgotten your password? Enter your e-mail address below, and we'll e-"
+#~ "mail instructions for setting a new one."
+#~ msgstr ""
+#~ "Pamiršote slaptažodį? Įveskite savo el. pašto adresą žemiau, ir mes el. "
+#~ "paštu išsiųsime jums instrukcijas kaip pakeisti slaptažodį."
+
+#~ msgid "Send reset email"
+#~ msgstr "Siųsti atkūrimo elektronini laišką"
+
+#~ msgid "Refine your search"
+#~ msgstr "Patikslinkite savo paiešką"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Products matching \"%(q)s\"\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Prekės atitinkančios \"%(q)s\""
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Found <strong>%(num_results)s</strong> results, "
+#~ "showing <strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Rasta <strong>%(num_results)s</strong> rezultatų, rodoma <strong>"
+#~ "%(start)s</strong> iš <strong>%(end)s</strong>."
+
+#~ msgid "Found <strong>0</strong> results."
+#~ msgstr "Rasta <strong>0</strong> rezultatų."
+
+#~ msgid ""
+#~ "\n"
+#~ "                        Did you mean <a href=\"%(search_url)s?q="
+#~ "%(suggestion)s\">\"%(suggestion)s\"</a>?\n"
+#~ "                    "
+#~ msgstr ""
+#~ "\n"
+#~ "Ar turėjote omenyje <a href=\"%(search_url)s?q=%(suggestion)s\">"
+#~ "\"%(suggestion)s\"</a>?"
+
+#~ msgid "Back to search results"
+#~ msgstr "Grįžti į paieškos rezultatus"
+
+#~ msgid "You need to select some %ss"
+#~ msgstr "Jums reikia pasirinkti keletą %ss"

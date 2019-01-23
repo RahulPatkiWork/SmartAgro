@@ -1,0 +1,6017 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Eduard <eduardpopovic@gmail.com>, 2013
+# Eduard <eduardpopovic@gmail.com>, 2013,2016
+# Róbert Čerňanský <openhs@users.sourceforge.net>, 2013
+# Tomas <harco123@gmail.com>, 2013-2015
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-11 08:36+0000\n"
+"Last-Translator: Oscar Bot <maik.hoepfel@tangentsnowball.com>\n"
+"Language-Team: Slovak (http://www.transifex.com/codeinthehole/django-oscar/"
+"language/sk/)\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n == 1 ? 0 : n % 1 == 0 && n "
+">= 2 && n <= 4 ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr "Panel"
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr "Katalóg"
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "Produkty"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr "druhy výrobkov"
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "Kategórie"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr "Výbery"
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr "Upozornenia na nízky stav zásob"
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr "Možnosti"
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr "Zmluvný partner"
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "Objednávky"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr "Štatistiky"
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr "obchodní partneri"
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr "Zákazníci"
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr "Upozornenia na stav zásob"
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr "Ponuky"
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "Kupóny"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr "Obsah"
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr "Obsahové bloky"
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr "Obsahové bloky podľa stránok"
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr "Stránky"
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr "Šablóny emailov"
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr "Recenzie"
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr "Zostavy"
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr "Typ"
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr "Hodnotenie"
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr "cenová skupina"
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr "od 0 do 20"
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr "20 do 40"
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr "40 do 60"
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr "60+"
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+#, fuzzy
+#| msgid "Catalogue"
+msgid "Catalan"
+msgstr "Katalóg"
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+#, fuzzy
+#| msgid "Permalink"
+msgid "German"
+msgstr "Trvalý odkaz"
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr "Odosielam..."
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr "Prejsť"
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr "Účet"
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr "Odhlásiť"
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr "Prihlásiť alebo zaregistrovať sa"
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "Košík"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+"\n"
+"Spolu: %(total)s"
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr "Prechádzať obchod"
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "Všetky produkty"
+
+#~ msgid "Mr"
+#~ msgstr "pán"
+
+#~ msgid "Miss"
+#~ msgstr "slečna"
+
+#~ msgid "Mrs"
+#~ msgstr "pani"
+
+#~ msgid "Ms"
+#~ msgstr "slečna"
+
+#~ msgid "Dr"
+#~ msgstr "Dr"
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "Názov"
+
+#~ msgid "First name"
+#~ msgstr "Meno"
+
+#~ msgid "Last name"
+#~ msgstr "Priezvisko"
+
+#~ msgid "First line of address"
+#~ msgstr "Prvý riadok adresy"
+
+#~ msgid "Second line of address"
+#~ msgstr "Druhý riadok adresy"
+
+#~ msgid "Third line of address"
+#~ msgstr "Tretí riadok adresy"
+
+#~ msgid "City"
+#~ msgstr "Mesto"
+
+#~ msgid "State/County"
+#~ msgstr "Okres"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "PSČ"
+
+#~ msgid "Country"
+#~ msgstr "Krajina"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "Vyhľadávací text - používaný iba pre vyľadávanie adries"
+
+#~ msgid "Address"
+#~ msgstr "Adresa"
+
+#~ msgid "Addresses"
+#~ msgstr "Adresy"
+
+#~ msgid "Addresses in %(country)s require a valid postcode"
+#~ msgstr "Adresy krajín %(country)s vyžadujú platné poštové smerovacie číslo"
+
+#~ msgid "The postcode '%(postcode)s' is not valid for %(country)s"
+#~ msgstr ""
+#~ "Poštové smerovacie číslo '%(postcode)s' nie je platné pre %(country)s"
+
+#~ msgid "ISO 3166-1 alpha-2"
+#~ msgstr "ISO 3166-1 verzia-2"
+
+#~ msgid "ISO 3166-1 alpha-3"
+#~ msgstr "ISO 3166-1 verzia-3"
+
+#~ msgid "ISO 3166-1 numeric"
+#~ msgstr "ISO 3166-1 číselný"
+
+#~ msgid "Country name"
+#~ msgstr "Meno krajiny"
+
+#~ msgid "Official name"
+#~ msgstr "Skutočné meno"
+
+#~ msgid "Display order"
+#~ msgstr "Poradie zobrazenia"
+
+#~ msgid "Higher the number, higher the country in the list."
+#~ msgstr "Vyššia hodnota, vyššia pozícia v zozname."
+
+#~ msgid "Is shipping country"
+#~ msgstr "Do krajiny sa doručuje"
+
+#~ msgid "Countries"
+#~ msgstr "Krajiny"
+
+#~ msgid "Phone number"
+#~ msgstr "Telefónne číslo"
+
+#~ msgid "In case we need to call you about your order"
+#~ msgstr "V prípade zmeny Vám zavoláme ohľadom Vašej objednávky"
+
+#~ msgid "Instructions"
+#~ msgstr "Inštrukcie"
+
+#~ msgid "Tell us anything we should know when delivering your order."
+#~ msgstr "Čo by sme mali vedieť pri doručení Vašej objednávky. "
+
+#~ msgid "Shipping address"
+#~ msgstr "Dodacia adresa"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "Dodacie adresy"
+
+#~ msgid "User"
+#~ msgstr "Používateľ"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "Predvolená dodacia adresa?"
+
+#~ msgid "Default billing address?"
+#~ msgstr "Predvolená účtovná adresa?"
+
+#~ msgid "Address Hash"
+#~ msgstr "adresa hash"
+
+#~ msgid "Date Created"
+#~ msgstr "Dátum vytvorenia"
+
+#~ msgid "User address"
+#~ msgstr "Používateľská adresa"
+
+#~ msgid "User addresses"
+#~ msgstr "Používateľské adresy"
+
+#~ msgid "This address is already in your address book"
+#~ msgstr "Adresa sa už nachádza vo vašom adresári"
+
+#~ msgid "Billing address"
+#~ msgstr "Účtovná adresa"
+
+#~ msgid "Billing addresses"
+#~ msgstr "Účtovné adresy"
+
+#~ msgid "Partner"
+#~ msgstr "Obch. partner"
+
+#~ msgid "Partner address"
+#~ msgstr "Adresa partnera"
+
+#~ msgid "Partner addresses"
+#~ msgstr "Adresy partnerov"
+
+#~ msgid "Product"
+#~ msgstr "Produkt"
+
+#~ msgid "Views"
+#~ msgstr "Zobrazenia"
+
+#~ msgid "Basket Additions"
+#~ msgstr "Pridania do košíka"
+
+#~ msgid "Purchases"
+#~ msgstr "Nákupy"
+
+#~ msgid "Score"
+#~ msgstr "Skóre"
+
+#~ msgid "Product record"
+#~ msgstr "Záznam produktu"
+
+#~ msgid "Product records"
+#~ msgstr "Záznamy produktu"
+
+#~ msgid "Record for '%s'"
+#~ msgstr "Záznam pre '%s'"
+
+#~ msgid "Product Views"
+#~ msgstr "Zobrazenia produktu"
+
+#~ msgid "Order Lines"
+#~ msgstr "Riadky objednávok"
+
+#~ msgid "Order Items"
+#~ msgstr "Objednané položky"
+
+#~ msgid "Total Spent"
+#~ msgstr "Minuté celkom"
+
+#~ msgid "Last Order Date"
+#~ msgstr "Dátum poslednej objednávky"
+
+#~ msgid "User record"
+#~ msgstr "Záznam užívateľa"
+
+#~ msgid "User records"
+#~ msgstr "Záznamy užívateľa"
+
+#~ msgid "User product view"
+#~ msgstr "Zobrazenie produktu užívateľovi"
+
+#~ msgid "User product views"
+#~ msgstr "Zobrazenia produktu užívateľovi"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "%(user)s si zobrazil '%(product)s'"
+
+#~ msgid "Search term"
+#~ msgstr "Hľadaný výraz"
+
+#~ msgid "User search query"
+#~ msgstr "užívateľ vyhľadávajúci výraz"
+
+#~ msgid "User search queries"
+#~ msgstr "Užívateľský hľadané otázky"
+
+#~ msgid "%(user)s searched for '%(query)s'"
+#~ msgstr "%(user)s hľadal pre '%(query)s'"
+
+#~ msgid "Analytics"
+#~ msgstr "Analytika"
+
+#~ msgid "Basket additions"
+#~ msgstr "Pridania do košíka"
+
+#~ msgid "Product analytics"
+#~ msgstr "Produktová analytika"
+
+#~ msgid "Name"
+#~ msgstr "Meno"
+
+#~ msgid "Date registered"
+#~ msgstr "Dátum registrácie"
+
+#~ msgid "Product views"
+#~ msgstr "Zobrazenia produktov"
+
+#~ msgid "Order lines"
+#~ msgstr "Riadky objednávok"
+
+#~ msgid "Order items"
+#~ msgstr "Objednané položky"
+
+#~ msgid "Total spent"
+#~ msgstr "Minuté celkom"
+
+#~ msgid "Date of last order"
+#~ msgstr "Dátum poslednej objednávky"
+
+#~ msgid "User analytics"
+#~ msgstr "Analytika používateľov"
+
+#~ msgid "Owner"
+#~ msgstr "Vlastník"
+
+#~ msgid "Open - currently active"
+#~ msgstr "Otvorený - teraz aktívny"
+
+#~ msgid "Merged - superceded by another basket"
+#~ msgstr "Zlúčený - nahradený iným košíkom"
+
+#~ msgid "Saved - for items to be purchased later"
+#~ msgstr "Uložený - pre položky odložené na neskoršie zakúpenie"
+
+#~ msgid "Frozen - the basket cannot be modified"
+#~ msgstr "Zmrazený - košík nemôže byt modifikovaný"
+
+#~ msgid "Submitted - has been ordered at the checkout"
+#~ msgstr "Odovzdaný - bol zaradený do pokladne"
+
+#~ msgid "Status"
+#~ msgstr "Stav"
+
+#~ msgid "Date created"
+#~ msgstr "Dátum vytvorenia"
+
+#~ msgid "Date merged"
+#~ msgstr "Dátum zlúčenia"
+
+#~ msgid "Date submitted"
+#~ msgstr "Dátum odovzdania"
+
+#~ msgid "Baskets"
+#~ msgstr "Košíky"
+
+#~ msgid "%(status)s basket (owner: %(owner)s, lines: %(num_lines)d)"
+#~ msgstr "%(status)s košík (vlastník: %(owner)s, riadky: %(num_lines)d)"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order."
+#~ msgstr ""
+#~ "Kvôli technickým obmedzeniam nie sme schopní zaslať viac ako "
+#~ "%(threshold)d\n"
+#~ "položiek v jednej objednávke."
+
+#~ msgid "Line Reference"
+#~ msgstr "Referencia na riadok"
+
+#~ msgid "Quantity"
+#~ msgstr "Množstvo"
+
+#~ msgid "Currency"
+#~ msgstr "Mena"
+
+#~ msgid "Price excl. Tax"
+#~ msgstr "Cena bez DPH"
+
+#~ msgid "Price incl. Tax"
+#~ msgstr "Cena s DPH"
+
+#~ msgid "Basket line"
+#~ msgstr "Riadok košíku"
+
+#~ msgid "Basket lines"
+#~ msgstr "Riadky košíku"
+
+#~ msgid ""
+#~ "Basket #%(basket_id)d, Product #%(product_id)d, quantity %(quantity)d"
+#~ msgstr "Košik #%(basket_id)d, Produkt #%(product_id)d, Počet %(quantity)d"
+
+#~ msgid "You cannot modify a %s basket"
+#~ msgstr "Nemôžete meniť %s košík"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has increased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "Cena sa '%(product)s' zvýšila od %(old_price)s  do %(new_price)s  odkedy "
+#~ "ste ju pridali do Vášho košíka. "
+
+#~ msgid ""
+#~ "The price of '%(product)s' has decreased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "Cena  '%(product)s' sa znížila od %(old_price)s do %(new_price)s odkedy "
+#~ "ste ju pridali do Vášho košíka"
+
+#~ msgid "Line"
+#~ msgstr "Riadok"
+
+#~ msgid "Option"
+#~ msgstr "Voľba"
+
+#~ msgid "Value"
+#~ msgstr "Hodnota"
+
+#~ msgid "Line attribute"
+#~ msgstr "Atribút riadku"
+
+#~ msgid "Line attributes"
+#~ msgstr "Atribúty riadku"
+
+#~ msgid "Save for Later"
+#~ msgstr "Uchovať na neskôr"
+
+#~ msgid "Move to Basket"
+#~ msgstr "Presunúť do košíka"
+
+#~ msgid "Code"
+#~ msgstr "Kód"
+
+#~ msgid "Variant"
+#~ msgstr "Varianta"
+
+#~ msgid "Please select a valid product"
+#~ msgstr "Vyberte prosím platný produkt"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order. Your basket currently has %(basket)d "
+#~ "items."
+#~ msgstr ""
+#~ "Kvôli technickým obmedzeniam nie sme schopní zaslať viac ako "
+#~ "%(threshold)d \n"
+#~ "položiek v jednej objednávke.  Váš košík momentálne obsahuje %(basket)d "
+#~ "položiek."
+
+#~ msgid ""
+#~ "This product cannot be added to the basket as its currency isn't the same "
+#~ "as other products in your basket"
+#~ msgstr ""
+#~ "Tento produkt nemôže byť pridaný do košíka nakoľko jeho mena nie je "
+#~ "zhodná s ostatnými produktmi v košíku"
+
+#~ msgid ""
+#~ "We have merged a basket from a previous session. Its contents might have "
+#~ "changed."
+#~ msgstr ""
+#~ "Spojili sme košík s Vaším posledným prihlásením. Obsah košíka sa možno "
+#~ "zmenil."
+
+#~ msgid "User ID"
+#~ msgstr "ID používateľa"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Basket status"
+#~ msgstr "Stav košíka"
+
+#~ msgid "Num lines"
+#~ msgstr "Poč. riadkov"
+
+#~ msgid "Num items"
+#~ msgstr "Poč. položiek"
+
+#~ msgid "Date of creation"
+#~ msgstr "Dátum vytvorenia"
+
+#~ msgid "Time since creation"
+#~ msgstr "Čas od vytvorenia"
+
+#~ msgid "Open baskets"
+#~ msgstr "Otvorene kosiky"
+
+#~ msgid "Time between creation and submission"
+#~ msgstr "Čas medzi vytvorením a odovzdaním."
+
+#~ msgid "Submitted baskets"
+#~ msgstr "Odovzdane kosiky"
+
+#~ msgid "You can't save an item for later if you're not logged in!"
+#~ msgstr "Nemôžete uchovať položku, ak nie ste prihlásený"
+
+#~ msgid ""
+#~ "Your basket couldn't be updated. Please correct any validation errors "
+#~ "below."
+#~ msgstr ""
+#~ "Vaše predložené údaje neboli platné - prosím, opravte chyby uvedené nižšie"
+
+#~ msgid "The '%(code)s' voucher has expired"
+#~ msgstr "Kupón '%(code)s' vypršal"
+
+#~ msgid "The '%(code)s' voucher is not active"
+#~ msgstr "Kupón '%(code)s' nie je aktívny"
+
+#~ msgid "Your basket does not qualify for a voucher discount"
+#~ msgstr "Váš košík nespĺňa požiadavky na uplatnenie zľavového kupónu"
+
+#~ msgid "Voucher '%(code)s' added to basket"
+#~ msgstr "Kupón '%(code)s' bol pridaný do košíka"
+
+#~ msgid "You have already added the '%(code)s' voucher to your basket"
+#~ msgstr "Kupón '%(code)s' už ste do košíka pridali"
+
+#~ msgid "No voucher found with code '%(code)s'"
+#~ msgstr "Kupón s kódom '%(code)s' nebol nájdený"
+
+#~ msgid "Please enter a voucher code"
+#~ msgstr "Zadajte prosím kód kupónu"
+
+#~ msgid "Voucher '%s' removed from basket"
+#~ msgstr "Kupón '%s' bol odobraný z košíka"
+
+#~ msgid "Slug"
+#~ msgstr "Hovno"
+
+#~ msgid "Requires shipping?"
+#~ msgstr "Vyžaduje zaslanie?"
+
+#~ msgid "Track stock levels?"
+#~ msgstr "Sledovať stav zásob"
+
+#~ msgid "Product class"
+#~ msgstr "Trieda produktu"
+
+#~ msgid "Product classes"
+#~ msgstr "Trieda produktu"
+
+#~ msgid "Description"
+#~ msgstr "Popis"
+
+#~ msgid "Image"
+#~ msgstr "Obrázok"
+
+#~ msgid "Category"
+#~ msgstr "Kategória"
+
+#~ msgid "Product category"
+#~ msgstr "Kategória produktu"
+
+#~ msgid "Product categories"
+#~ msgstr "Kategórie produktu"
+
+#~ msgid "Stand-alone product"
+#~ msgstr "Samostatný produkt"
+
+#~ msgid "Parent product"
+#~ msgstr "Nadradený produkt"
+
+#~ msgid "Child product"
+#~ msgstr "Detský výrobok"
+
+#~ msgid "Product structure"
+#~ msgstr "Atribút produktu"
+
+#~ msgid "UPC"
+#~ msgstr "Kód produktu (UPC)"
+
+#~ msgid ""
+#~ "Universal Product Code (UPC) is an identifier for a product which is not "
+#~ "specific to a particular  supplier. Eg an ISBN for a book."
+#~ msgstr ""
+#~ "Univerzálny kód produktu (UPC) je identifikátor produktu, ktorý\n"
+#~ "nie je špecifický pre konkrétneho výrobcu.  Napr. ISBN pre knihu."
+
+#~ msgid ""
+#~ "Only choose a parent product if you're creating a child product.  For "
+#~ "example if this is a size 4 of a particular t-shirt.  Leave blank if this "
+#~ "is a stand-alone product (i.e. there is only one version of this product)."
+#~ msgstr ""
+#~ "Rodičovský produkt vyberte iba v prípade, že toto je \"varianta\" "
+#~ "kanonického \n"
+#~ "katalógu.  Napr. ak toto je veľkosť 4 nejakého konkrétneho trička.  "
+#~ "Nechajte \n"
+#~ "prázdne, ak je toto KANONICKÝ PRODUKT (teda existuje len jedna verzia "
+#~ "tohto \n"
+#~ "produktu)."
+
+#~ msgctxt "Product title"
+#~ msgid "Title"
+#~ msgstr "Názov"
+
+#~ msgid "Product type"
+#~ msgstr "druh výrobku"
+
+#~ msgid "Choose what type of product this is"
+#~ msgstr "Vyberte akého typu je tento produkt"
+
+#~ msgid "Attributes"
+#~ msgstr "Atribúty"
+
+#~ msgid ""
+#~ "A product attribute is something that this product may have, such as a "
+#~ "size, as specified by its class"
+#~ msgstr ""
+#~ "Atribút produktu je niečo, čo tento produkt MUSÍ mať (ako napr. \n"
+#~ "veľkosť), podľa toho, ako je to špecifikované jeho triedou"
+
+#~ msgid "Product options"
+#~ msgstr "Možnosti produktu"
+
+#~ msgid ""
+#~ "Options are values that can be associated with a item when it is added to "
+#~ "a customer's basket.  This could be something like a personalised message "
+#~ "to be printed on a T-shirt."
+#~ msgstr ""
+#~ "Možnosti sú hodnoty, ktoré môžu byť pridružené k položke, keď je pridaná "
+#~ "do \n"
+#~ "košíka zákazníka.  Môže to byť niečo ako osobná správa, ktorá má byť \n"
+#~ "vytlačená na tričko."
+
+#~ msgid "Recommended products"
+#~ msgstr "Odporúčané produkty"
+
+#~ msgid ""
+#~ "These are products that are recommended to accompany the main product."
+#~ msgstr ""
+#~ "Toto sú produkty, ktoré sú odporúčané na použitie spoločne s hlavným "
+#~ "produktom."
+
+#~ msgid "Date updated"
+#~ msgstr "Dátum aktualizácie"
+
+#~ msgid "Is discountable?"
+#~ msgstr "Je zlacnený? "
+
+#~ msgid "This flag indicates if this product can be used in an offer or not"
+#~ msgstr ""
+#~ "Tento príznak označuje, či tento výrobok môže byť použitý v ponuke, alebo "
+#~ "nie"
+
+#~ msgid "Your product must have a title."
+#~ msgstr "Váš produkt musí mať názov."
+
+#~ msgid "Your product must have a product class."
+#~ msgstr "Váš produkt musí byť zaradený do triedy."
+
+#~ msgid "Only child products can have a parent."
+#~ msgstr "Len podradený produkt môže mať nadradenú položku."
+
+#~ msgid "A child product needs a parent."
+#~ msgstr "Podradený produkt potrebuje hlavný."
+
+#~ msgid "You can only assign child products to parent products."
+#~ msgstr "Priradiť je možné len podradený produkt k hlavnému."
+
+#~ msgid "A child product can't have a product class."
+#~ msgstr "Podradený produkt nemôže byť zaradený do kategórie."
+
+#~ msgid "A child product can't have a category assigned."
+#~ msgstr "Podradený produkt nemôže mať priradenú kategóriu."
+
+#~ msgid "A child product can't have options."
+#~ msgstr "Podradený produkt nemôže mať možnosti."
+
+#~ msgid "A parent product can't have stockrecords."
+#~ msgstr "Nadradený produkt nemôže mať záznamy."
+
+#~ msgid "The specified parent product is a child product."
+#~ msgstr "3pecifikovaný nadradený produkt je už podradený produkt."
+
+#~ msgid "One can't add a child product to a product with stock records."
+#~ msgstr ""
+#~ "Nie je možné pridať podradený produkt k produktu so záznamom predaja."
+
+#~ msgid "Primary product"
+#~ msgstr "Primárny produkt."
+
+#~ msgid "Recommended product"
+#~ msgstr "Odporúčaný produkt."
+
+#~ msgid "Ranking"
+#~ msgstr "Ohodnotenie"
+
+#~ msgid ""
+#~ "Determines order of the products. A product with a higher value will "
+#~ "appear before one with a lower ranking."
+#~ msgstr ""
+#~ "Určiť poradie produktov. Produkt s vyššou hodnotou sa bude zobrazovať "
+#~ "pred produktmi s nižším hodnotením."
+
+#~ msgid "Product recommendation"
+#~ msgstr "Odporúčanie produktu"
+
+#~ msgid "Product recomendations"
+#~ msgstr "Odporúčania produktu"
+
+#~ msgid ""
+#~ "Code can only contain the letters a-z, A-Z, digits, and underscores, and "
+#~ "can't start with a digit."
+#~ msgstr ""
+#~ "Kód môže obsahovať iba písmená a-z, A-Z, číslice a znaky podčiarknutia, a "
+#~ "nemôže začínať číslicou"
+
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#~ msgid "Integer"
+#~ msgstr "Číslo"
+
+#~ msgid "True / False"
+#~ msgstr "Pravda / Nepravda"
+
+#~ msgid "Float"
+#~ msgstr "Číslo"
+
+#~ msgid "Rich Text"
+#~ msgstr "Tučný text"
+
+#~ msgid "Date"
+#~ msgstr "Dátum"
+
+#~ msgid "Entity"
+#~ msgstr "Entita"
+
+#~ msgid "File"
+#~ msgstr "Súbor"
+
+#~ msgid "Option Group"
+#~ msgstr "Voľba skupiny"
+
+#~ msgid "Required"
+#~ msgstr "Povinný"
+
+#~ msgid "Product attribute"
+#~ msgstr "Atribúty produktu"
+
+#~ msgid "Product attributes"
+#~ msgstr "Atribúty produktu"
+
+#~ msgid "Must be str or unicode"
+#~ msgstr "Musí byť str alebo unikod"
+
+#~ msgid "Must be a float"
+#~ msgstr "Musí byť desatinné čislo"
+
+#~ msgid "Must be an integer"
+#~ msgstr "Musí byť celé číslo"
+
+#~ msgid "Must be a date or datetime"
+#~ msgstr "Musí byť dátum"
+
+#~ msgid "Must be a boolean"
+#~ msgstr "Musí byť boolovské číslo"
+
+#~ msgid "Must be a model instance"
+#~ msgstr "Musí byť inštancia modelu"
+
+#~ msgid "Must be an AttributeOption model object instance"
+#~ msgstr "Musí byť AttributeOption objektový model inštancie"
+
+#~ msgid "AttributeOption has not been saved yet"
+#~ msgstr "Atribút Voľba ešte nebol uložený"
+
+#~ msgid "%(enum)s is not a valid choice for %(attr)s"
+#~ msgstr "%(enum)s nie je platný výber pre %(attr)s"
+
+#~ msgid "Must be a file field"
+#~ msgstr "Pole musí byť typu \"súbor\""
+
+#~ msgid "Attribute"
+#~ msgstr "Atribút"
+
+#~ msgid "Boolean"
+#~ msgstr "Boolean"
+
+#~ msgid "Richtext"
+#~ msgstr "Richtext"
+
+#~ msgid "Value option"
+#~ msgstr "Možnosť hodnoty"
+
+#~ msgid "Product attribute value"
+#~ msgstr "Hodnota atribútov produktu"
+
+#~ msgid "Product attribute values"
+#~ msgstr "Hodnota atribútov produktu"
+
+#~ msgid "Attribute option group"
+#~ msgstr "Skupina možností atribút"
+
+#~ msgid "Attribute option groups"
+#~ msgstr "Skupiny možností atribút"
+
+#~ msgid "Group"
+#~ msgstr "Skupina"
+
+#~ msgid "Attribute option"
+#~ msgstr "Nastavenie atribútu"
+
+#~ msgid "Attribute options"
+#~ msgstr "Možnosť atribút"
+
+#~ msgid "Required - a value for this option must be specified"
+#~ msgstr "Povinná - hodnota pre túto voľbu musí byť špecifikovaná"
+
+#~ msgid "Optional - a value for this option can be omitted"
+#~ msgstr "Nepovinná - hodnota pre túto voľbu môže byť vynechaná"
+
+#~ msgid "Original"
+#~ msgstr "Originál"
+
+#~ msgid "Caption"
+#~ msgstr "Popisok"
+
+#~ msgid ""
+#~ "An image with a display order of zero will be the primary image for a "
+#~ "product"
+#~ msgstr "Obrázok s nulovým poradím zobrazenia bude primárny obrázok produktu"
+
+#~ msgid "Product image"
+#~ msgstr "Obrázok produktu"
+
+#~ msgid "Product images"
+#~ msgstr "Obrázky produktu"
+
+#~ msgid "%(obj)s has no attribute named '%(attr)s'"
+#~ msgstr "%(obj)s namé atribút s názvom '%(attr)s'"
+
+#~ msgid "%(attr)s attribute cannot be blank"
+#~ msgstr "%(attr)s atribút nemôže byť prázdny"
+
+#~ msgid "%(attr)s attribute %(err)s"
+#~ msgstr "%(attr)s atribút %(err)s"
+
+#~ msgctxt "Product review title"
+#~ msgid "Title"
+#~ msgstr "Názov"
+
+#~ msgid "Body"
+#~ msgstr "Telo"
+
+#~ msgctxt "Anonymous reviewer name"
+#~ msgid "Name"
+#~ msgstr "Meno"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Requires moderation"
+#~ msgstr "Vyžaduje moderovanie"
+
+#~ msgid "Approved"
+#~ msgstr "Schválené"
+
+#~ msgid "Rejected"
+#~ msgstr "Odmietnuté"
+
+#~ msgid "Total Votes"
+#~ msgstr "Hlasov celkom"
+
+#~ msgid "Delta Votes"
+#~ msgstr "Rozdiel hlasov"
+
+#~ msgid "Product review"
+#~ msgstr "recenzia k produktu"
+
+#~ msgid "Product reviews"
+#~ msgstr "recenzie produktov"
+
+#~ msgid "Anonymous reviews must include a name and an email"
+#~ msgstr "anonymná recenzia musí mať meno a e-mail"
+
+#~ msgid "anonymous"
+#~ msgstr "anonym"
+
+#~ msgid "Only signed in users can vote"
+#~ msgstr "Len prihlásený užívatelia môžu hlasovať"
+
+#~ msgid "Up"
+#~ msgstr "Hore"
+
+#~ msgid "Down"
+#~ msgstr "Dolu"
+
+#~ msgid "Delta"
+#~ msgstr "Rozdiel"
+
+#~ msgid "Vote"
+#~ msgstr "Hlas"
+
+#~ msgid "Votes"
+#~ msgstr "Hlasy"
+
+#~ msgid "You cannot vote on your own reviews"
+#~ msgstr "Nemôžete voliť vo vlastných recenziách"
+
+#~ msgid "Only signed-in users can vote on reviews"
+#~ msgstr "Iba prihlásený užívatelia môžu voliť v recenziách"
+
+#~ msgid "You can only vote once on a review"
+#~ msgstr "Môžete voliť iba raz v recenzii"
+
+#~ msgid "Catalogue reviews"
+#~ msgstr "Recenzie katalógu"
+
+#~ msgid "Recency"
+#~ msgstr "Čerstvosti"
+
+#~ msgid "Sort by"
+#~ msgstr "Zoradiť podľa"
+
+#~ msgid "You have already reviewed this product!"
+#~ msgstr "Tento produkt ste už recenzovali!"
+
+#~ msgid "You can't leave a review for this product."
+#~ msgstr "Nie je možné pridať recenziu pre tento produkt."
+
+#~ msgid "Thank you for reviewing this product"
+#~ msgstr "Ďakujeme za recenziu tohto produktu"
+
+#~ msgid "Thanks for voting!"
+#~ msgstr "Ďakujeme za hlas!"
+
+#~ msgid "%(filename)s is not a valid image (%(error)s)"
+#~ msgstr "%(filename)s nie je platný obrázok (%(error)s)"
+
+#~ msgid "%s is not a valid image archive"
+#~ msgstr "%s nie je platný archív obrázku"
+
+#~ msgid "The given page number was invalid."
+#~ msgstr "Zadané číslo strany je neplatné."
+
+#~ msgid "Checkout"
+#~ msgstr "Do pokladne"
+
+#~ msgid "My email address is"
+#~ msgstr "Môj email-ová adresa je"
+
+#~ msgid "I am a new customer and want to checkout as a guest"
+#~ msgstr "Som nový zákazník a chcem platiť ako hosť"
+
+#~ msgid ""
+#~ "I am a new customer and want to create an account before checking out"
+#~ msgstr "Som nový zákazník a chcem vytvoriť účet pred odhlásením sa"
+
+#~ msgid "I am a returning customer, and my password is"
+#~ msgstr "Som opätovný zákazník a moje heslo je"
+
+#~ msgid "A user with that email address already exists"
+#~ msgstr "Užívateľ s touto e-mailovou adresou už existuje"
+
+#~ msgid "You need to add some items to your basket to checkout"
+#~ msgstr ""
+#~ "Než vôjdete do pokladne, musíte najskôr pridať nejaké produkty do košíka"
+
+#~ msgid ""
+#~ "'%(title)s' is no longer available to buy (%(reason)s). Please adjust "
+#~ "your basket to continue"
+#~ msgstr ""
+#~ "'%(title)s' je už k dispozícii na kúpu (%(reason)s). Upravte Váš košík, "
+#~ "pre pokračovanie "
+
+#~ msgid "Please either sign in or enter your email address"
+#~ msgstr "Buď sa prihláste alebo zadajte vašu email-ovú adresu, prosím"
+
+#~ msgid "Please choose a shipping address"
+#~ msgstr "Vyberte prosím dodaciu adresu"
+
+#~ msgid ""
+#~ "Your previously chosen shipping address is no longer valid.  Please "
+#~ "choose another one"
+#~ msgstr ""
+#~ "Vaša predošlá zvolená adresa pre doručenie už nie je platná. Prosím, "
+#~ "zvoľte inú"
+
+#~ msgid "Please choose a shipping method"
+#~ msgstr "Vyberte prosím iný spôsob prepravy"
+
+#~ msgid ""
+#~ "Your previously chosen shipping method is no longer valid.  Please choose "
+#~ "another one"
+#~ msgstr ""
+#~ "Predošlá Vami zvolený metóda doručenia už viac nie je platná. Prosím, "
+#~ "zvoľte inú"
+
+#~ msgid ""
+#~ "Create your account and then you will be redirected back to the checkout "
+#~ "process"
+#~ msgstr ""
+#~ "Vytvorte si svoj účet, a potom budete presmerovaný späť do platobného "
+#~ "procesu za tovar"
+
+#~ msgid "Address saved"
+#~ msgstr "Adresa uložená"
+
+#~ msgid "Address deleted"
+#~ msgstr "Adresa vymazaná"
+
+#~ msgid ""
+#~ "Shipping is unavailable for your chosen address - please choose another"
+#~ msgstr "Na túto adresu nie je doručenie možné, vyberte prosím inú."
+
+#~ msgid "Your submitted shipping method is not permitted"
+#~ msgstr "Spôsob prepravy, ktorý ste zadali nie je povolený"
+
+#~ msgid ""
+#~ "A problem occurred while processing payment for this order - no payment "
+#~ "has been taken.  Please contact customer services if this problem persists"
+#~ msgstr ""
+#~ "Vyskytol sa problém pri spracovaní platby pre túto objednávku - nebola "
+#~ "prijatá\n"
+#~ "žiadna platba.  Skúste znovu a ak bude problém pretrvávať, kontaktujte\n"
+#~ "zákaznícky servis"
+
+#~ msgid "No order found"
+#~ msgstr "Nebola nájdená žiadna objednávka"
+
+#~ msgid "email address"
+#~ msgstr "Email-ová adresa"
+
+#~ msgid "Staff status"
+#~ msgstr "status zamestnanca"
+
+#~ msgid "Designates whether the user can log into this admin site."
+#~ msgstr "Označuje, či sa používateľ môže prihlásiť do tohto správcu webu."
+
+#~ msgid "Active"
+#~ msgstr "Aktívne"
+
+#~ msgid ""
+#~ "Designates whether this user should be treated as active. Unselect this "
+#~ "instead of deleting accounts."
+#~ msgstr ""
+#~ "Určuje, či používateľ by mal vystupovať ako aktívny. Zrušiť toto namiesto "
+#~ "mazania účtov."
+
+#~ msgid "date joined"
+#~ msgstr "zaregistrovaný dňa"
+
+#~ msgid "Users"
+#~ msgstr "Používatelia"
+
+#~ msgid "Subject"
+#~ msgstr "Predmet"
+
+#~ msgid "Body Text"
+#~ msgstr "Textové telo"
+
+#~ msgid "Body HTML"
+#~ msgstr "HTML telo"
+
+#~ msgid "Date Sent"
+#~ msgstr "Dátum odoslania"
+
+#~ msgid "Emails"
+#~ msgstr "Email-y"
+
+#~ msgid "Email to %(user)s with subject '%(subject)s'"
+#~ msgstr "Email používateľovi %(user)s s predmetom '%(subject)s'"
+
+#~ msgid "Code used for looking up this event programmatically"
+#~ msgstr "Kód použitý na vyhľadanie tejto udalosti programovo"
+
+#~ msgid "This is just used for organisational purposes"
+#~ msgstr "Používane iba pre organizačné účely"
+
+#~ msgid "Order related"
+#~ msgstr "Vzťahujúci sa k objednávke"
+
+#~ msgid "User related"
+#~ msgstr "Vzťahujúci sa k používateľovi"
+
+#~ msgid "Email Subject Template"
+#~ msgstr "Šablóna predmetu správy"
+
+#~ msgid "Email Body Template"
+#~ msgstr "Šablóna tela správy"
+
+#~ msgid "Email Body HTML Template"
+#~ msgstr "Šablóna HTML tela správy"
+
+#~ msgid "HTML template"
+#~ msgstr "HTML šablóna"
+
+#~ msgid "SMS Template"
+#~ msgstr "SMS šablóna"
+
+#~ msgid "SMS template"
+#~ msgstr "SMS šablóna"
+
+#~ msgid "Date Updated"
+#~ msgstr "Dátum aktualizácie"
+
+#~ msgid "Communication event type"
+#~ msgstr "Typ komunikačnej udalosti"
+
+#~ msgid "Communication event types"
+#~ msgstr "Typy komunikačnéj udalosti"
+
+#~ msgid "Inbox"
+#~ msgstr "e-mail"
+
+#~ msgid "Archive"
+#~ msgstr "Archív"
+
+#~ msgid "Notification"
+#~ msgstr "Oznámenie"
+
+#~ msgid "Notifications"
+#~ msgstr "Oznámenia"
+
+#~ msgid "Key"
+#~ msgstr "Kľúč"
+
+#~ msgid "Not yet confirmed"
+#~ msgstr "Zatiaľ nepotvrdené"
+
+#~ msgid "Cancelled"
+#~ msgstr "Zrušené"
+
+#~ msgid "Closed"
+#~ msgstr "Uzatvorené"
+
+#~ msgid "Date confirmed"
+#~ msgstr "Dátum potvrdenia"
+
+#~ msgid "Date cancelled"
+#~ msgstr "Dátum zrušenia"
+
+#~ msgid "Date closed"
+#~ msgstr "Dátum uzatvorenia"
+
+#~ msgid "Product alert"
+#~ msgstr "Upozornenie produktu"
+
+#~ msgid "Product alerts"
+#~ msgstr "Produktové upozornenia"
+
+#~ msgid "Product Alerts"
+#~ msgstr "Upozornenia produktu"
+
+#~ msgid "An alert has been created"
+#~ msgstr "Upozornenie bolo vytvorené"
+
+#~ msgid "A confirmation email has been sent to %s"
+#~ msgstr "Na %s bol poslaný potvrdzovací email"
+
+#~ msgid "Your stock alert is now active"
+#~ msgstr "Váše upozornenie na stav zásob je teraz aktívne"
+
+#~ msgid "Your stock alert cannot be confirmed"
+#~ msgstr "Vaše upozornenie na stav zásob nemôže byť potvrdené"
+
+#~ msgid "Your stock alert has been cancelled"
+#~ msgstr "Vaše upozornenie na stav zásob bolo zrušené"
+
+#~ msgid "Your stock alert cannot be cancelled"
+#~ msgstr "Vaše upozornenie na stav zásob nemôže byť zrušené"
+
+#~ msgid "Customer"
+#~ msgstr "Zákazník"
+
+#~ msgid "Email address"
+#~ msgstr "Email-ová adresa"
+
+#~ msgid "Password"
+#~ msgstr "Heslo"
+
+#~ msgid "The entered password is not valid!"
+#~ msgstr "zadané heslo nie je platné!"
+
+#~ msgid "Confirm password"
+#~ msgstr "Potvrdenie hesla"
+
+#~ msgid "The two password fields didn't match."
+#~ msgstr "Dve zadané heslá sa nezhodujú"
+
+#~ msgctxt "start date"
+#~ msgid "From"
+#~ msgstr "od"
+
+#~ msgctxt "end date"
+#~ msgid "To"
+#~ msgstr "do"
+
+#~ msgid "Order number"
+#~ msgstr "Číslo objednávky"
+
+#~ msgid "At least one field is required."
+#~ msgstr "Aspoň jedno pole je povinné."
+
+#~ msgid "All orders"
+#~ msgstr "Všetky ostatné"
+
+#~ msgid ""
+#~ "Orders placed between %(date_from)s and %(date_to)s and order number "
+#~ "containing %(order_number)s"
+#~ msgstr ""
+#~ "Objednávky podané medzi %(date_from)s a %(date_to)s  číslo objednávky "
+#~ "obsahujúce %(order_number)s"
+
+#~ msgid "Orders placed between %(date_from)s and %(date_to)s"
+#~ msgstr "Objednávky podané medzi %(date_from)s a %(date_to)s"
+
+#~ msgid ""
+#~ "Orders placed since %(date_from)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "Objednávky podané od %(date_from)s a číslo objednávky obsahujce "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed since %(date_from)s"
+#~ msgstr "Objednávky podané od %(date_from)s"
+
+#~ msgid ""
+#~ "Orders placed until %(date_to)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "Objednávky podané do %(date_to)s a číslo objednávky obsahujúce "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed until %(date_to)s"
+#~ msgstr "Objednávky podané do  %(date_to)s"
+
+#~ msgid "Orders with order number containing %(order_number)s"
+#~ msgstr "Objednávky s číslom obsahujúce %(order_number)s"
+
+#~ msgid "A user with this email address already exists"
+#~ msgstr "Používateľ s touto email-ovou adresou už existuje"
+
+#~ msgid "Send notification to"
+#~ msgstr "Posielať oznámenia na"
+
+#~ msgid "Enter your email"
+#~ msgstr "Vložte svoj email"
+
+#~ msgid "There is already an active stock alert for %s"
+#~ msgstr "Pre %s už existuje aktívne upozornenie na stav zásob"
+
+#~ msgid "You already have an active alert for this product"
+#~ msgstr "Pre tento produkt už máte aktívne upozornenie"
+
+#~ msgid "%(count)d notification archived"
+#~ msgid_plural "%(count)d notifications archived"
+#~ msgstr[0] "%(count)d oznámenie archivované"
+#~ msgstr[1] "%(count)d oznámenia archivované"
+#~ msgstr[2] "%(count)d oznámení archivovaných"
+#~ msgstr[3] "%(count)d oznámení archivovaných"
+
+#~ msgid "%(count)d notification deleted"
+#~ msgid_plural "%(count)d notifications deleted"
+#~ msgstr[0] "%(count)d oznámenie vymazané"
+#~ msgstr[1] "%(count)d oznámenia vymazané"
+#~ msgstr[2] "%(count)d oznámení vymazaných"
+#~ msgstr[3] "%(count)d oznámení vymazaných"
+
+#~ msgid "Welcome back"
+#~ msgstr "Vitajte späť"
+
+#~ msgid "Thanks for registering!"
+#~ msgstr "Ďakujeme Vám za registráciu!"
+
+#~ msgid "Profile"
+#~ msgstr "Profil"
+
+#~ msgid "Edit Profile"
+#~ msgstr "Upraviť profil"
+
+#~ msgid "Profile updated"
+#~ msgstr "profil aktualizovaný"
+
+#~ msgid "Delete profile"
+#~ msgstr "odstrániť profil"
+
+#~ msgid "Your profile has now been deleted. Thanks for using the site."
+#~ msgstr "Váš profil bol vymazaný. Ďakujeme za použitie stránky."
+
+#~ msgid "Change Password"
+#~ msgstr "Zmeniť heslo"
+
+#~ msgid "Password updated"
+#~ msgstr "Heslo zaktualizované"
+
+#~ msgid "Email History"
+#~ msgstr "História email-ov"
+
+#~ msgid "Order History"
+#~ msgstr "História objednávok"
+
+#~ msgid "Order"
+#~ msgstr "Objednávka"
+
+#~ msgid ""
+#~ "All available lines from order %(number)s have been added to your basket"
+#~ msgstr ""
+#~ "Všetky dostupné riadky z objednávky %(number)s boli pridané do košíka"
+
+#~ msgid ""
+#~ "It is not possible to re-order order %(number)s as none of its lines are "
+#~ "available to purchase"
+#~ msgstr ""
+#~ "Nie je možné opätovne objednať objednávku %(number)s keďže žiadna z jej "
+#~ "liniek nie je k dispozícii na nákup"
+
+#~ msgid "%(qty)d copies of '%(product)s' have been added to your basket"
+#~ msgstr "%(qty)d kópií produktu '%(product)s' bolo pridaných do košíka"
+
+#~ msgid "'%s' has been added to your basket"
+#~ msgstr "Produkt '%s' bol pridaný do košíka"
+
+#~ msgid "Address Book"
+#~ msgstr "Adresár"
+
+#~ msgid "Add a new address"
+#~ msgstr "Pridaj novú adresu"
+
+#~ msgid "Address '%s' created"
+#~ msgstr "Adresa '%s'  vytvorená"
+
+#~ msgid "Edit address"
+#~ msgstr "Upraviť adresu"
+
+#~ msgid "Address '%s' updated"
+#~ msgstr "Adresa '%s' aktualizovaná"
+
+#~ msgid "Delete address?"
+#~ msgstr "Vymazať adresu?"
+
+#~ msgid "Address '%s' deleted"
+#~ msgstr "Adresa '%s'  vymazaná"
+
+#~ msgid "We do not ship to this country"
+#~ msgstr "Nechceme dopravovať do tejto krajiny"
+
+#~ msgid "Wish Lists"
+#~ msgstr "Zoznamy"
+
+#~ msgid "Quantities updated."
+#~ msgstr "Množstvá aktualizované. "
+
+#~ msgid "Create a new wish list"
+#~ msgstr "Vytvoriť nový zoznam"
+
+#~ msgid "The requested product no longer exists"
+#~ msgstr "Požadovaný produkt už neexistuje. "
+
+#~ msgid "Your wishlist has been created and '%(name)s has been added"
+#~ msgstr "Váš zoznam bol vytvorený a '%(name)s pridaný"
+
+#~ msgid "Your wishlist has been created"
+#~ msgstr "Váš zoznam bol vytvorený"
+
+#~ msgid "%(title)s has been added to your wishlist"
+#~ msgstr "%(title)s bol pridaný do vášho zoznamu"
+
+#~ msgid "Your '%s' wishlist has been updated"
+#~ msgstr "Váš '%s' zoznam bol aktualizovaný"
+
+#~ msgid "Delete %s"
+#~ msgstr "Vymazať %s"
+
+#~ msgid "Your '%s' wish list has been deleted"
+#~ msgstr "Váš '%s' zoznam bol vymazaný"
+
+#~ msgid "'%s' was added to your wish list."
+#~ msgstr "'%s'  bolo pridané do vášho zoznamu."
+
+#~ msgid "Remove %s"
+#~ msgstr "Odstrániť %s"
+
+#~ msgid "'%(title)s' was removed from your '%(name)s' wish list"
+#~ msgstr "'%(title)s' bol odstránený z vášho '%(name)s' zoznamu"
+
+#~ msgid "'%(title)s' moved to '%(name)s' wishlist"
+#~ msgstr "'%(title)s'  bol presunutý do '%(name)s' zoznamu"
+
+#~ msgid "Create a new product of type"
+#~ msgstr "Vytvorenie nového produkt typu"
+
+#~ msgid "-- Choose type --"
+#~ msgstr "-- vybrať druh --"
+
+#~ msgid "Product title"
+#~ msgstr "Názov produktu"
+
+#~ msgid "Select an option group"
+#~ msgstr "Vyberte voľbu skupiny"
+
+#~ msgid ""
+#~ "At least one stock record must be set to a partner that you're associated "
+#~ "with."
+#~ msgstr ""
+#~ "Aspoň jedna evidencia sa musí spraviť s partnerom s ktorým obchodujete. "
+
+#~ msgid "Stand-alone and parent products must have at least one category"
+#~ msgstr "Samostatné a nadradené produkty musia mať aspoň jednu kategóriu"
+
+#~ msgid "A child product should not have categories"
+#~ msgstr "Podradený produkt by nemal mať kategóriu"
+
+#~ msgid "Title"
+#~ msgstr "Názov"
+
+#~ msgid "Variants"
+#~ msgstr "Varianty"
+
+#~ msgid "Stock records"
+#~ msgstr "Stavy zásob"
+
+#~ msgid "Actions"
+#~ msgstr "Akcie"
+
+#~ msgid "Number of child categories"
+#~ msgstr "Počet podkategórií"
+
+#~ msgid "Product search results"
+#~ msgstr "Výsledky hľadania produktu"
+
+#~ msgid "Please choose a product type"
+#~ msgstr "prosím, vyberte typ produktu"
+
+#~ msgid "Create new %(product_class)s product"
+#~ msgstr "Vytvorte novú %(product_class)s produktov"
+
+#~ msgid "Create new variant of %(parent_product)s"
+#~ msgstr "Vytvorenie nového variantu %(parent_product)s"
+
+#~ msgid "Editing variant of %(parent_product)s"
+#~ msgstr "Editácia variantu %(parent_product)s"
+
+#~ msgid "Your submitted data was not valid - please correct the errors below"
+#~ msgstr ""
+#~ "Vaše predložené údaje neboli platné - prosím, opravte chyby uvedené nižšie"
+
+#~ msgid "Delete product variant?"
+#~ msgstr "Vymazať variantu produktu?"
+
+#~ msgid "Delete product?"
+#~ msgstr "Vymazať produkt?"
+
+#~ msgid "Deleted product variant '%s'"
+#~ msgstr "Vymazať variantu produktu '%s'"
+
+#~ msgid "Deleted product '%s'"
+#~ msgstr "Vymazaný produkt '%s'"
+
+#~ msgid "Alerts with status \"%s\""
+#~ msgstr "Upozornenia so stavom \"%s\""
+
+#~ msgid "All alerts"
+#~ msgstr "Všetky upozornenia"
+
+#~ msgid "Add a new category"
+#~ msgstr "Pridaj novú kategóriu"
+
+#~ msgid "Category created successfully"
+#~ msgstr "Kategória bola úspešne vytvorená"
+
+#~ msgid "Update category '%s'"
+#~ msgstr "Zaktualizuj kategóriu '%s'"
+
+#~ msgid "Category updated successfully"
+#~ msgstr "Kategória úspešne zaktualizovaná"
+
+#~ msgid "Category deleted successfully"
+#~ msgstr "Kategória úspešne vymazaná"
+
+#~ msgid "Add a new product type"
+#~ msgstr "pridať nový druh výrobku"
+
+#~ msgid "Product type created successfully"
+#~ msgstr "druh produktu bol úspešne vytvorený"
+
+#~ msgid "Update product type '%s'"
+#~ msgstr "aktualizácia druhu výrobku '%s'"
+
+#~ msgid "Product type updated successfully"
+#~ msgstr "Druh produktu úspešne aktualizovaný"
+
+#~ msgid "Delete product type '%s'"
+#~ msgstr "vymazať druh produktu '%s' "
+
+#~ msgid "Unable to delete '%s'"
+#~ msgstr "nemožno zmazať '%s'"
+
+#~ msgid "%i products are still assigned to this type"
+#~ msgstr "%i produkty sú stále priradené k tomuto typu"
+
+#~ msgid "Product type deleted successfully"
+#~ msgstr "druh produktu úspešne vymazaný"
+
+#~ msgid "Communications dashboard"
+#~ msgstr "Komunikácie panela"
+
+#~ msgid "Email subject template"
+#~ msgstr "Šablóna predmetu správy"
+
+#~ msgid "Email body text template"
+#~ msgstr "Šablóna tela správy"
+
+#~ msgid "Email body HTML template"
+#~ msgstr "Šablóna HTML tela správy"
+
+#~ msgid "Preview email"
+#~ msgstr "Náhľad emailu"
+
+#~ msgid "No order found with this number"
+#~ msgstr "Nebola nájdená objednávka s týmto číslom"
+
+#~ msgid "Please enter an email address"
+#~ msgstr "Prosím vložte email-ovú adresu"
+
+#~ msgid ""
+#~ "The submitted form was not valid, please correct the errors and resubmit"
+#~ msgstr ""
+#~ "Odoslaný formulár nie je validný, prosím opravte chyby a odošlite znovu"
+
+#~ msgid "Email saved"
+#~ msgstr "Email uložený"
+
+#~ msgid "A preview email has been sent to %s"
+#~ msgstr "Na %s bol poslaný nahliadnuty email"
+
+#~ msgid "Offers dashboard"
+#~ msgstr "Panel ponúk"
+
+#~ msgid "Start date"
+#~ msgstr "Počiatočný dátum"
+
+#~ msgid "End date"
+#~ msgstr "Koncový dátum"
+
+#~ msgid "The end date must be after the start date"
+#~ msgstr "Koncový dátum musí byť neskôr než počiatočný dátum"
+
+#~ msgid "Custom condition"
+#~ msgstr "Zákaznícka podmienka"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom condition"
+#~ msgstr ""
+#~ "Prosím, buď vyberte rozsah, typ a hodnotu ALEBO vyberte vlastnú podmienku"
+
+#~ msgid "A range is required"
+#~ msgstr "Je potrebný výber produktov"
+
+#~ msgid "Custom incentive"
+#~ msgstr "Vlastný podnet"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom incentive"
+#~ msgstr ""
+#~ "prosím, vyberte buď rozsah, typ a hodnotu alebo vyberte vlastný motív"
+
+#~ msgid "No other options can be set if you are using a custom incentive"
+#~ msgstr "ak používate vlastný motív, nemôžete nastaviť žiadne iné možnosti"
+
+#~ msgid "Offer name"
+#~ msgstr "Meno ponuky"
+
+#~ msgid "Is active?"
+#~ msgstr "Je aktívna"
+
+#~ msgid "Order date"
+#~ msgstr "Dátum objednávky"
+
+#~ msgid "Order total"
+#~ msgstr "Objednávka celkom"
+
+#~ msgid "Cost"
+#~ msgstr "Náklady"
+
+#~ msgid "All offers"
+#~ msgstr "Všetky ponuky"
+
+#~ msgid "Offers matching '%s'"
+#~ msgstr "Ponuky vyhovujúce '%s'"
+
+#~ msgid "%s step not complete"
+#~ msgstr "Krok %s nie je dokončený"
+
+#~ msgid "Offer '%s' updated"
+#~ msgstr "Ponuka '%s' zaktualizovaná"
+
+#~ msgid "Offer '%s' created!"
+#~ msgstr "Ponuka '%s' vytvorená"
+
+#~ msgid "Name and description"
+#~ msgstr "Názov a popis"
+
+#~ msgid "Incentive"
+#~ msgstr "Podnet"
+
+#~ msgid "Restrictions"
+#~ msgstr "Obmedzenie"
+
+#~ msgid "Offer deleted!"
+#~ msgstr "Ponuka vymazaná!"
+
+#~ msgid "Offer is already suspended"
+#~ msgstr "Ponuka je už pozastavená"
+
+#~ msgid "Offer suspended"
+#~ msgstr "Ponuka pozastavená"
+
+#~ msgid "Offer cannot be reinstated as it is not currently suspended"
+#~ msgstr ""
+#~ "Ponuku nie je možné obnoviť, pretože nie je v súčasnosti pozastavená"
+
+#~ msgid "Offer reinstated"
+#~ msgstr "Ponuka obnovená"
+
+#~ msgid "Orders dashboard"
+#~ msgstr "Panel objednávok"
+
+#~ msgid "Orders placed since %s"
+#~ msgstr "Objednávky podané od %s"
+
+#~ msgid "Orders placed until %s"
+#~ msgstr "Objednávky podané do %s"
+
+#~ msgid "Customer name"
+#~ msgstr "Meno zákazníka"
+
+#~ msgid "Product name"
+#~ msgstr "Meno produktu"
+
+#~ msgid "Partner SKU"
+#~ msgstr "SKU obch. partnera"
+
+#~ msgid "Date from"
+#~ msgstr "Dátum od"
+
+#~ msgid "Date to"
+#~ msgstr "Dátum to"
+
+#~ msgid "Voucher code"
+#~ msgstr "Kód kupónu"
+
+#~ msgid "Payment method"
+#~ msgstr "Spôsob platby"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "CSV"
+#~ msgstr "CSV"
+
+#~ msgid "Get results as"
+#~ msgstr "Stiahni výsledky ako"
+
+#~ msgid "New order status"
+#~ msgstr "Nový stav objednávky"
+
+#~ msgid "Order number starts with \"{order_number}\""
+#~ msgstr "Objednávky s číslom začínajúcim \"{order_number}\""
+
+#~ msgid "Customer name matches \"{customer_name}\""
+#~ msgstr "Meno zákazníka sa zhoduje s \"{customer_name}\""
+
+#~ msgid "Product name matches \"{product_name}\""
+#~ msgstr "Názov produktu sa zhoduje s \"{product_name}\""
+
+#~ msgid "Includes an item with UPC \"{upc}\""
+#~ msgstr "Vrátane položky s UPC \"{upc}\""
+
+#~ msgid "Includes an item with partner SKU \"{partner_sku}\""
+#~ msgstr " Vrátane položky s SKU \"{partner_sku}\""
+
+#~ msgid "Placed between {start_date} and {end_date}"
+#~ msgstr " Podané medzi {start_date} a {end_date}"
+
+#~ msgid "Placed after {start_date}"
+#~ msgstr "Podané po {start_date}"
+
+#~ msgid "Placed before {end_date}"
+#~ msgstr "Podané pred {end_date}"
+
+#~ msgid "Used voucher code \"{voucher_code}\""
+#~ msgstr "Použitý kód kupónu \"{voucher_code}\""
+
+#~ msgid "Paid using {payment_method}"
+#~ msgstr "Zaplatené použitím {payment_method}"
+
+#~ msgid "Order status is {order_status}"
+#~ msgstr "Stav objednávky {order_status}"
+
+#~ msgid "Order value"
+#~ msgstr "Hodnota objednávky"
+
+#~ msgid "Date of purchase"
+#~ msgstr "Dátum nákupu"
+
+#~ msgid "Number of items"
+#~ msgstr "Počet položiek"
+
+#~ msgid "Order status"
+#~ msgstr "Stav objednávky"
+
+#~ msgid "Customer email address"
+#~ msgstr "Email-ová adresa zákazníka"
+
+#~ msgid "Deliver to name"
+#~ msgstr "Doručiť na meno"
+
+#~ msgid "Bill to name"
+#~ msgstr "Vyúčtovať na meno"
+
+#~ msgid "The new status '%s' is not valid"
+#~ msgstr "Nový stav '%s' nie je platný"
+
+#~ msgid "The new status '%s' is not valid for this order"
+#~ msgstr "Nový stav '%s' nie je platný pre túto objednávku"
+
+#~ msgid "Unable to change order status due to payment error: %s"
+#~ msgstr "Nie je možné zmeniť stav objednávky kvôli chybe pri platbe: %s"
+
+#~ msgid "Order status changed from '%(old_status)s' to '%(new_status)s'"
+#~ msgstr "Stav objednávky zmenený z '%(old_status)s' na '%(new_status)s'"
+
+#~ msgid "No valid action submitted"
+#~ msgstr "Nebola zadaná žiadna platná akcia"
+
+#~ msgid "Invalid action"
+#~ msgstr "Neplatná akcia"
+
+#~ msgid "You must select some lines to act on"
+#~ msgstr "Musíte vybrať nejaké riadky, na ktorých má prebehnúť akcia"
+
+#~ msgid "Invalid lines requested"
+#~ msgstr "Vyžadujú sa neplatné riadky"
+
+#~ msgid "The entered quantity for line #%s is not valid"
+#~ msgstr "Zadané množstvo pre riadky #%s nie je platné"
+
+#~ msgid ""
+#~ "The entered quantity for line #%(line_id)s should not be higher than "
+#~ "%(quantity)s"
+#~ msgstr ""
+#~ "Zadané množstvo pre riadky #%(line_id)s by nemalo byť vyššie než "
+#~ "%(quantity)s"
+
+#~ msgid "Note saved"
+#~ msgstr "Poznámka uložená"
+
+#~ msgid "Note cannot be deleted"
+#~ msgstr "Poznámka nemôže byť vymazaná"
+
+#~ msgid "Note deleted"
+#~ msgstr "Poznámka vymazaná"
+
+#~ msgid "Invalid form submission"
+#~ msgstr "Neplatné odoslanie formulára"
+
+#~ msgid ""
+#~ "Unable to change order status as the requested new status is not valid"
+#~ msgstr "Nie je možné zmeniť stav kedže pozadovaný nový stav nie je platný"
+
+#~ msgid "Please choose a valid amount"
+#~ msgstr "Vyberte prosím platnú čiastku"
+
+#~ msgid "'%(status)s' is not a valid new status for line %(line_id)d"
+#~ msgstr "'%(status)s' nie je platný nový stav pre riadok %(line_id)d"
+
+#~ msgid ""
+#~ "Status of line #%(line_id)d changed from '%(old_status)s' to "
+#~ "'%(new_status)s'"
+#~ msgstr ""
+#~ "Stav riadku č. %(line_id)d bol zmenený z '%(old_status)s' na "
+#~ "'%(new_status)s'"
+
+#~ msgid "The event type '%s' is not valid"
+#~ msgstr "Typ udalosti '%s' nie je validný"
+
+#~ msgid "Unable to create shipping event: %s"
+#~ msgstr "Nie je možné vytvoriť udalosť doručenia: %s"
+
+#~ msgid "Unable to create shipping event due to payment error: %s"
+#~ msgstr "Nie je možné vytvoriť udalosť doručenia kvôli chybe platby: %s"
+
+#~ msgid "Shipping event created"
+#~ msgstr "Udalosť doručenia vytvorená"
+
+#~ msgid "Unable to create payment event due to payment error: %s"
+#~ msgstr "Nie je možné uskutočniť platbu kvôli chybe: %s"
+
+#~ msgid "Unable to create payment event: %s"
+#~ msgstr "Nie je možné vytvoriť platbu: %s"
+
+#~ msgid "Payment event created"
+#~ msgstr "Platobná udalosť vytvorená"
+
+#~ msgid "%(field)s changed from '%(old_value)s' to '%(new_value)s'"
+#~ msgstr "Pole %(field)s sa zmenilo z '%(old_value)s' na '%(new_value)s'"
+
+#~ msgid ""
+#~ "Delivery address updated:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Adresa doručenia zaktualizovaná:\n"
+#~ "%s"
+
+#~ msgid "Delivery address updated"
+#~ msgstr "Adresa doručenia zaktualizovaná"
+
+#~ msgid "Pages dashboard"
+#~ msgstr "Panel stránok"
+
+#~ msgctxt "Page title"
+#~ msgid "Title"
+#~ msgstr "Názov"
+
+#~ msgid "Example: '/about/contact/'."
+#~ msgstr "Príklad: '/o/contakt/'."
+
+#~ msgid "All pages"
+#~ msgstr "Všetky stránky"
+
+#~ msgid " with title containing '%s'"
+#~ msgstr " s názvom obsahujúcim '%s'"
+
+#~ msgid "Create New Page"
+#~ msgstr "Vytvor novú stránku"
+
+#~ msgid "Deleted page '%s'"
+#~ msgstr "Vymazaná stránka '%s'"
+
+#~ msgid "Partners dashboard"
+#~ msgstr "Panel partnerov"
+
+#~ msgctxt "Partner's name"
+#~ msgid "Name"
+#~ msgstr "Meno"
+
+#~ msgid "Full dashboard access"
+#~ msgstr "Úplný prístup k správe panelu"
+
+#~ msgid "Limited dashboard access"
+#~ msgstr "Obmedzený prístup do administrátorského panelu"
+
+#~ msgid "User role"
+#~ msgstr "funkcia užívateľa"
+
+#~ msgid "Confirm Password"
+#~ msgstr "Potvrďte heslo"
+
+#~ msgid "All partners"
+#~ msgstr "Všetci partneri"
+
+#~ msgid "Partners matching '%s'"
+#~ msgstr "nfajnfaôkjsbôaa '%s'"
+
+#~ msgid "Create new partner"
+#~ msgstr "Vytvoriť partnerstvo"
+
+#~ msgid "Partner '%s' was created successfully."
+#~ msgstr "Partner '%s' bol úspešne vytvorený.  "
+
+#~ msgid "Partner '%s' was updated successfully."
+#~ msgstr "Partner '%s'  bol úspešne  aktualizovaný."
+
+#~ msgid "Partner '%s' was deleted successfully."
+#~ msgstr "Partner '%s' bol úspešne vymazaný. "
+
+#~ msgid "Create user"
+#~ msgstr "vytvoriť používateľa"
+
+#~ msgid "User '%s' was created successfully."
+#~ msgstr "Používateľ '%s' bol úspešne vytvorený."
+
+#~ msgid "User '%(name)s' was linked to '%(partner_name)s'"
+#~ msgstr "Používateľ '%(name)s'  bol pripojený k '%(partner_name)s'"
+
+#~ msgid "User '%(name)s' is already linked to '%(partner_name)s'"
+#~ msgstr "Používateľ '%(name)s' je už pripojený k '%(partner_name)s'"
+
+#~ msgid "User '%(name)s' is not linked to '%(partner_name)s'"
+#~ msgstr "Používateľ '%(name)s' nie je pripojený k  '%(partner_name)s'"
+
+#~ msgid "Edit user '%s'"
+#~ msgstr "Upraviť užívateľa '%s'"
+
+#~ msgid "User '%s' was updated successfully."
+#~ msgstr "Používateľ  '%s' bol úspešne aktualizovaný. "
+
+#~ msgid "Promotions dashboard"
+#~ msgstr "Panel propagácii"
+
+#~ msgid "Promotion type"
+#~ msgstr "Typ propagácie"
+
+#~ msgid "Position"
+#~ msgstr "Pozícia"
+
+#~ msgid "Where in the page this content block will appear"
+#~ msgstr "Kde na stránke sa tento obsahový blok objaví"
+
+#~ msgid "Content blocks can only be linked to internal URLs"
+#~ msgstr "Obsah blokov môže byť iba spojený s vnútornými URLs"
+
+#~ msgid "Content block removed successfully"
+#~ msgstr "Obsahový blok úspešne odstránený"
+
+#~ msgid "Content block created successfully"
+#~ msgstr "Obsahový blok úspešne vytvorený"
+
+#~ msgid "Create a new %s content block"
+#~ msgstr "Vytvorenie nového obsahového blok typu %s"
+
+#~ msgid "Product list content block created"
+#~ msgstr "Obsahový blok produktový list bol vytvorený"
+
+#~ msgid "Update content block"
+#~ msgstr "Zaktualizuj obsahový blok"
+
+#~ msgid "Content block updated successfully"
+#~ msgstr "Propagácia úspešne zaktualizovaná"
+
+#~ msgid "Content block '%(block)s' added to page '%(page)s'"
+#~ msgstr "Obsahový blok '%(block)s' pridaný na stránku '%(page)s'"
+
+#~ msgid "No link found to delete"
+#~ msgstr "Nebol nájdený žiadny link na vymazanie"
+
+#~ msgid "Content block removed from page '%s'"
+#~ msgstr "Propagácia odstránená zo stránky '%s'"
+
+#~ msgid "Product list promotion updated"
+#~ msgstr "Zoznam produktov na propagáciu zaktualizovaný"
+
+#~ msgid "Content block deleted successfully"
+#~ msgstr "Propagácia úspešne vymazaná"
+
+#~ msgid "Ranges dashboard"
+#~ msgstr "Panel rozsahov"
+
+#~ msgid "Product SKUs or UPCs"
+#~ msgstr "SKU alebo UPC identifikátory produktu"
+
+#~ msgid "You can paste in a selection of SKUs or UPCs"
+#~ msgstr "Môžete vložiť výber SKU alebo UPC identifikátorov"
+
+#~ msgid "File of SKUs or UPCs"
+#~ msgstr "Súbor SKU alebo UPC identifikátorov"
+
+#~ msgid "Either comma-separated, or one identifier per line"
+#~ msgstr "Buď čiarkou oddelené alebo jeden identifikátor na riadok"
+
+#~ msgid "You must submit either a list of SKU/UPCs or a file"
+#~ msgstr "Musíte vložiť buď zoznam SKU/UPC alebo súbor"
+
+#~ msgid "The products with SKUs or UPCs matching %s are already in this range"
+#~ msgstr "Produkty s SKU alebo UPC vyhovujúcimi %s už sú v tomto výbere"
+
+#~ msgid "No products exist with a SKU or UPC matching %s"
+#~ msgstr "Neexistujú žiadne produkty s SKU alebo UPC vyhovujúcim %s"
+
+#~ msgid "Create range"
+#~ msgstr "Vytvor výber"
+
+#~ msgid "Range deleted"
+#~ msgstr "Výber vymazaný"
+
+#~ msgid "Removed %d product from range"
+#~ msgid_plural "Removed %d products from range"
+#~ msgstr[0] "Odobraný %d produkt z výberu"
+#~ msgstr[1] "Odobrané %d produkty z výberu"
+#~ msgstr[2] "Odobraných %d produktov z výberu"
+#~ msgstr[3] "Odobraných %d produktov z výberu"
+
+#~ msgid "%d product added to range"
+#~ msgid_plural "%d products added to range"
+#~ msgstr[0] "%d produkt pridaný do výberu"
+#~ msgstr[1] "%d produkty pridané do výberu"
+#~ msgstr[2] "%d produktov pridaných do výberu"
+#~ msgstr[3] "%d produktov pridaných do výberu"
+
+#~ msgid "No product(s) were found with SKU or UPC matching %s"
+#~ msgstr "Neexistujú žiadne produkty s SKU alebo UPC vyhovujúcim %s"
+
+#~ msgid "Reports dashboard"
+#~ msgstr "Panel hlásení"
+
+#~ msgid "Report Type"
+#~ msgstr "Typ zostavy"
+
+#~ msgid "Only the offer and order reports use the selected date range"
+#~ msgstr "Iba zostavy ponúk a objednávok používajú vybratý rozsah dátumov"
+
+#~ msgid "The report is inclusive of this date"
+#~ msgstr "Zostava je vrátane tohto dátumu"
+
+#~ msgid "Download"
+#~ msgstr "Stiahnúť"
+
+#~ msgid "Your start date must be before your end date"
+#~ msgstr "Váš počiatočný dátum musí byť pre vašim koncovým dátumom"
+
+#~ msgid "%(report_filter)s between %(start_date)s and %(end_date)s"
+#~ msgstr "%(report_filter)s medzi %(start_date)s a %(end_date)s"
+
+#~ msgid "You do not have access to this report"
+#~ msgstr "Nemáte prístup k tejto zostave"
+
+#~ msgid "Reviews dashboard"
+#~ msgstr "Panel recenzií"
+
+#~ msgid "Keyword"
+#~ msgstr "Kľúčové slovo"
+
+#~ msgid "to"
+#~ msgstr "na"
+
+#~ msgid ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+#~ msgstr ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+
+#~ msgid " created after %s"
+#~ msgstr " vytvorené po %s"
+
+#~ msgid " created before %s"
+#~ msgstr " vytvorené pred %s"
+
+#~ msgid " created between %(start_date)s and %(end_date)s"
+#~ msgstr "vytvorené medzi %(start_date)s a %(end_date)s"
+
+#~ msgid "All reviews"
+#~ msgstr "Všetky recenzie"
+
+#~ msgid " with status matching '%s'"
+#~ msgstr "so stavom vyhovujúcim '%s'"
+
+#~ msgid " with keyword matching '%s'"
+#~ msgstr "s kľúčovým slovom vyhovujúcim '%s'"
+
+#~ msgid " with customer name matching '%s'"
+#~ msgstr " s menom zákazníka vyhovujúcim '%s'"
+
+#~ msgid "Shipping dashboard"
+#~ msgstr "Panel doručení"
+
+#~ msgid "Users dashboard"
+#~ msgstr "Panel používateľov"
+
+#~ msgctxt "User's name"
+#~ msgid "Name"
+#~ msgstr "Meno"
+
+#~ msgid "%(main_filter)s %(email_filter)s %(name_filter)s"
+#~ msgstr "%(main_filter)s %(email_filter)s %(name_filter)s"
+
+#~ msgid "All users"
+#~ msgstr "Všetci používatelia"
+
+#~ msgid " with email matching '%s'"
+#~ msgstr " s email-om vyhovujúcim '%s'"
+
+#~ msgid " with name matching '%s'"
+#~ msgstr " s menom vyhovujúcim '%s'"
+
+#~ msgid "Users' status successfully changed"
+#~ msgstr "Stav používateľa úspešne zmenený"
+
+#~ msgid "A password reset email has been sent"
+#~ msgstr "Na vynulovanie hesla bol poslaný e-mail"
+
+#~ msgid "All Alerts"
+#~ msgstr "Všetky upozornenia"
+
+#~ msgid " with customer email matching '%s'"
+#~ msgstr " s email-om zákazníka vyhovujúcim '%s'"
+
+#~ msgid "Product alert saved"
+#~ msgstr "Produktové upozornenie uložené"
+
+#~ msgid "Product alert deleted"
+#~ msgstr "Produktové upozornenie vymazané"
+
+#~ msgid "Vouchers dashboard"
+#~ msgstr "Panel poukážok"
+
+#~ msgid "Start datetime"
+#~ msgstr "začiatok evidencie "
+
+#~ msgid "End datetime"
+#~ msgstr "koniec evidencie"
+
+#~ msgid "Usage"
+#~ msgstr "Použitie"
+
+#~ msgid "Which products get a discount?"
+#~ msgstr "Ktoré produkty budú zľavnené?"
+
+#~ msgid "Percentage off of products in range"
+#~ msgstr "Percentuálne množstvo z produktov vo výbere"
+
+#~ msgid "Fixed amount off of products in range"
+#~ msgstr "Fixné množstvo z produktov vo výbere"
+
+#~ msgid "Discount is a percentage off of the shipping cost"
+#~ msgstr "Zľava je percento z prepravných nákladov"
+
+#~ msgid "Discount is a fixed amount of the shipping cost"
+#~ msgstr "Zľava je fixná čiastka z prepravných nákladov"
+
+#~ msgid "Get shipping for a fixed price"
+#~ msgstr "Stála cena dopravy"
+
+#~ msgid "Discount type"
+#~ msgstr "Typ zľavy"
+
+#~ msgid "Discount value"
+#~ msgstr "Hodnota zľavy"
+
+#~ msgid "The name '%s' is already in use"
+#~ msgstr "Meno '%s' je už použité"
+
+#~ msgid "The code '%s' is already in use"
+#~ msgstr "Kód '%s' je už použitý"
+
+#~ msgid "The start date must be before the end date"
+#~ msgstr "Počiatočný dátum musí byť pre koncovým dátumom"
+
+#~ msgid "Is Active?"
+#~ msgstr "Je aktívny?"
+
+#~ msgid "%(main_filter)s %(name_filter)s %(code_filter)s"
+#~ msgstr "%(main_filter)s %(name_filter)s %(code_filter)s"
+
+#~ msgid "All vouchers"
+#~ msgstr "Všetky kupóny"
+
+#~ msgid "with name matching '%s'"
+#~ msgstr "s menom vyhovujúcim '%s'"
+
+#~ msgid "with code '%s'"
+#~ msgstr "s kódom '%s'"
+
+#~ msgid "Active vouchers"
+#~ msgstr "Aktívne kupóny"
+
+#~ msgid "Create voucher"
+#~ msgstr "Vytvor kupón"
+
+#~ msgid "Offer for voucher '%s'"
+#~ msgstr "Ponuka pre kupón '%s'"
+
+#~ msgid "Voucher created"
+#~ msgstr "Kupón vytvorený"
+
+#~ msgid "Voucher updated"
+#~ msgstr "Kupón zaktualizovaný"
+
+#~ msgid "Voucher deleted"
+#~ msgstr "Kupón vymazaný"
+
+#~ msgid "This is displayed within the customer's basket"
+#~ msgstr "Toto je zobrazené v košíku zákazníka"
+
+#~ msgid "This is displayed on the offer browsing page"
+#~ msgstr "Toto je zobrazené na stránke ponuky"
+
+#~ msgid "Site offer - available to all users"
+#~ msgstr "Ponuka stránky - prístupná všetkým používateľom"
+
+#~ msgid ""
+#~ "Voucher offer - only available after entering the appropriate voucher code"
+#~ msgstr ""
+#~ "Kupónová ponuka - prístupná iba po zadaní príslušného kupónového kódu"
+
+#~ msgid "User offer - available to certain types of user"
+#~ msgstr "Používateľská ponuka - prístupná iba určitým typom používateľov"
+
+#~ msgid ""
+#~ "Session offer - temporary offer, available for a user for the duration of "
+#~ "their session"
+#~ msgstr ""
+#~ "Relačná ponuka - dočasná ponuka, prístupná pre používateľa počas trvania "
+#~ "jeho relácie"
+
+#~ msgid "Condition"
+#~ msgstr "Podmienka"
+
+#~ msgid "Benefit"
+#~ msgstr "Benefit"
+
+#~ msgid "Priority"
+#~ msgstr "Priorita"
+
+#~ msgid "The highest priority offers are applied first"
+#~ msgstr "Ponuky s najvyššou prioritou sú použité ako prvé"
+
+#~ msgid "Max global applications"
+#~ msgstr "Maximálne všeobecné aplikácie"
+
+#~ msgid "The number of times this offer can be used before it is unavailable"
+#~ msgstr ""
+#~ "Počet prípadov, koľkokrát táto ponuka môže byť použitá predtým, než je k "
+#~ "dispozícii"
+
+#~ msgid "Max user applications"
+#~ msgstr "Maximálne užívateľské aplikácie"
+
+#~ msgid "The number of times a single user can use this offer"
+#~ msgstr "Počet prípadov, keď jeden užívateľ môže používať túto ponuku "
+
+#~ msgid "Max basket applications"
+#~ msgstr "maximum aplikácií nákupného košíka"
+
+#~ msgid ""
+#~ "The number of times this offer can be applied to a basket (and order)"
+#~ msgstr ""
+#~ "Počet prípadov, koľkokrát táto ponuka môže byť umiestnená do koša (a do "
+#~ "objednávky)"
+
+#~ msgid "Max discount"
+#~ msgstr "Maximálna zľava"
+
+#~ msgid ""
+#~ "When an offer has given more discount to orders than this threshold, then "
+#~ "the offer becomes unavailable"
+#~ msgstr ""
+#~ "Ak ponuka poskytla vyššiu zľavu na objednávky, ako je ich hraničná "
+#~ "hodnota, potom sa ponuka stáva nedostupnou"
+
+#~ msgid "Total Discount"
+#~ msgstr "Celková zľava"
+
+#~ msgid "Number of applications"
+#~ msgstr "Počet aplikácií"
+
+#~ msgid "Number of Orders"
+#~ msgstr "Počet objednávok"
+
+#~ msgid "URL redirect (optional)"
+#~ msgstr "Presmerovanie URL (voliteľné)"
+
+#~ msgid "Conditional offer"
+#~ msgstr "Ponuka je podmienená"
+
+#~ msgid "Conditional offers"
+#~ msgstr "Ponuky sú podmienené"
+
+#~ msgid "End date should be later than start date"
+#~ msgstr "Koncový dátum musí byť neskôr než počiatočný dátum"
+
+#~ msgid "Offer is suspended"
+#~ msgstr "Ponuka pozastavená"
+
+#~ msgid "Limited to %(total)d uses (%(remainder)d remaining)"
+#~ msgstr "Obmedzené na %(total)d použití (%(remainder)d remaining)"
+
+#~ msgid "Limited to 1 use per user"
+#~ msgstr "Obmedzené na 1 použitie na užívateľa"
+
+#~ msgid "Limited to %(total)d uses per user"
+#~ msgstr "Obmedzené na %(total)d použití na užívateľa"
+
+#~ msgid "Limited to 1 use per basket"
+#~ msgstr "Obmedzené na 1 použitie na nákupný košík"
+
+#~ msgid "Limited to %(total)d uses per basket"
+#~ msgstr "Obmedzené na %(total)d použití na nákupný košík"
+
+#~ msgid "Available between %(start)s and %(end)s"
+#~ msgstr "Dostupné medzi %(start)s a %(end)s"
+
+#~ msgid "Available from %(start)s"
+#~ msgstr "Dostupné od %(start)s"
+
+#~ msgid "Available until %(end)s"
+#~ msgstr "Dostupné do %(end)s"
+
+#~ msgid "Limited to a cost of %(max)s"
+#~ msgstr "Obmedzené na náklady %(max)s"
+
+#~ msgid "Range"
+#~ msgstr "Výber"
+
+#~ msgid "Discount is a percentage off of the product's value"
+#~ msgstr "Zľava je percento z hodnoty produktu"
+
+#~ msgid "Discount is a fixed amount off of the product's value"
+#~ msgstr "Zľava je fixná čiastka z hodnoty produktu"
+
+#~ msgid "Discount is to give the cheapest product for free"
+#~ msgstr "Zľava je dať najlacnejší produkt zadarmo"
+
+#~ msgid "Get the products that meet the condition for a fixed price"
+#~ msgstr "Získajte produkty, ktoré spĺňajú podmienky pre stabilnú cenu"
+
+#~ msgid "Max Affected Items"
+#~ msgstr "Maximálne ovplyvnené položky"
+
+#~ msgid ""
+#~ "Set this to prevent the discount consuming all items within the range "
+#~ "that are in the basket."
+#~ msgstr ""
+#~ "Nastaviť to, aby sa zabránilo zľavovému spotrebovaniu všetkých položiek v "
+#~ "rozsahu, ktorý je v nákupnom koši"
+
+#~ msgid "Custom class"
+#~ msgstr "Vlastná trieda"
+
+#~ msgid "Benefits"
+#~ msgstr "Benefity"
+
+#~ msgid "Multibuy benefits require a product range"
+#~ msgstr "Viacnásobné nákupné zľavy vyžadujú výber z produktov vo výbere"
+
+#~ msgid "Multibuy benefits don't require a value"
+#~ msgstr "Viacnásobné nákupné zľavy nevyžadujú hodnotu"
+
+#~ msgid "Multibuy benefits don't require a 'max affected items' attribute"
+#~ msgstr ""
+#~ "Viacnásobné nákupné zľavy nevyžadujú ´maximálne ovplyvnené položky´ "
+#~ "atribút"
+
+#~ msgid "Percentage benefits require a product range"
+#~ msgstr "Percentuálny podiel nákupných zliav si vyžaduje rozsah produktov"
+
+#~ msgid "Percentage discount cannot be greater than 100"
+#~ msgstr "Zľava v percentách nemôže presiahnúť 100"
+
+#~ msgid "A discount value is required"
+#~ msgstr "požadovanie zľavy z ceny"
+
+#~ msgid ""
+#~ "No range should be selected as this benefit does not apply to products"
+#~ msgstr ""
+#~ "Žiadny rozsah by nemal byť vybraný, ak sa táto nákupná zľava nevzťahuje "
+#~ "na výrobky"
+
+#~ msgid "Shipping discounts don't require a 'max affected items' attribute"
+#~ msgstr "Prepravné zľavy nevyžadujú ´maximálne ovplyvnené položky´ atribút"
+
+#~ msgid ""
+#~ "No range should be selected as the condition range will be used instead."
+#~ msgstr ""
+#~ "Žiadny rozsah by nemal byť vybraný, ak namiesto neho bude použitá "
+#~ "podmienka rozsahu"
+
+#~ msgid "Fixed discount benefits require a product range"
+#~ msgstr "Fixná zľava vyžaduje výber z produktov vo výbere"
+
+#~ msgid "Fixed discount benefits require a value"
+#~ msgstr "fixná zľavová ponuka vyžaduje hodnotu"
+
+#~ msgid "Depends on number of items in basket that are in condition range"
+#~ msgstr ""
+#~ "Závisí od počtu položiek v nákupnom koši, ktoré sú v rozsahu podmienok"
+
+#~ msgid "Depends on value of items in basket that are in condition range"
+#~ msgstr ""
+#~ "Závisí od hodnoty položiek v nákupnom koši, ktoré sú v rozsahu podmienok"
+
+#~ msgid ""
+#~ "Needs to contain a set number of DISTINCT items from the condition range"
+#~ msgstr "Musí obsahovať stanovený počet RôZNYCH položiek z rozsahu podmienok"
+
+#~ msgid "Conditions"
+#~ msgstr "Podmienky"
+
+#~ msgid "Is public?"
+#~ msgstr "Je verejný?"
+
+#~ msgid "Public ranges have a customer-facing page"
+#~ msgstr "Verejné sortimenty majú stránku, k dispozícii pre zákazníkov"
+
+#~ msgid "Includes all products?"
+#~ msgstr "Vložiť všetky produtky?"
+
+#~ msgid "Included Products"
+#~ msgstr "Zahrnuté produkty"
+
+#~ msgid "Excluded Products"
+#~ msgstr "Vylúčené produkty"
+
+#~ msgid "Included Categories"
+#~ msgstr "Zahrnuté kategórie"
+
+#~ msgid "File Path"
+#~ msgstr "Cesta k súboru"
+
+#~ msgid "Size"
+#~ msgstr "Veľkosť"
+
+#~ msgid "Uploaded By"
+#~ msgstr "Nahral"
+
+#~ msgid "Date Uploaded"
+#~ msgstr "Dátum nahratia"
+
+#~ msgid "Error Message"
+#~ msgstr "Chybová správa"
+
+#~ msgid "Date Processed"
+#~ msgstr "Dátum spracovania"
+
+#~ msgid "Number of New SKUs"
+#~ msgstr "Počet nových SKU"
+
+#~ msgid "Number of Unknown SKUs"
+#~ msgstr "Počet neznámych SKU"
+
+#~ msgid "Number of Duplicate SKUs"
+#~ msgstr "Počet zduplikovaných SKU"
+
+#~ msgid "Range Product Uploaded File"
+#~ msgstr "Nahrať súbor s rozsahom produktov"
+
+#~ msgid "Range Product Uploaded Files"
+#~ msgstr "Nahrať súbory s rozsahom produktov"
+
+#~ msgid "%(value)s%% discount on %(range)s"
+#~ msgstr "%(value)s%% zľava na  %(range)s"
+
+#~ msgid "Percentage discount benefit"
+#~ msgstr "Zľava v percentách"
+
+#~ msgid "Percentage discount benefits"
+#~ msgstr "Zľava v percentách"
+
+#~ msgid "%(value)s discount on %(range)s"
+#~ msgstr "%(value)s zľava na  %(range)s"
+
+#~ msgid "Absolute discount benefit"
+#~ msgstr "Celková zľava v percentách"
+
+#~ msgid "Absolute discount benefits"
+#~ msgstr "Celkové zľavy v percentách"
+
+#~ msgid "The products that meet the condition are sold for %(amount)s"
+#~ msgstr "Výrobky, ktoré spĺňajú podmienku, sú predávané za %(amount)s"
+
+#~ msgid "Fixed price benefit"
+#~ msgstr "Stále cenové výhody"
+
+#~ msgid "Fixed price benefits"
+#~ msgstr "Stále cenové výhody"
+
+#~ msgid "Cheapest product from %(range)s is free"
+#~ msgstr "Najlacnejší produkt z %(range)s výberu  je zadarmo"
+
+#~ msgid "Multibuy discount benefit"
+#~ msgstr "Zľava pri väčšom množstve nákupu"
+
+#~ msgid "Multibuy discount benefits"
+#~ msgstr "Zľavy pri väčsom množstve nákupu"
+
+#~ msgid "%(amount)s off shipping cost"
+#~ msgstr "%(amount)s prepravných nákladov"
+
+#~ msgid "Shipping absolute discount benefit"
+#~ msgstr "Zľava z ceny dopravy"
+
+#~ msgid "Shipping absolute discount benefits"
+#~ msgstr "Zľavy z ceny dopravy"
+
+#~ msgid "Get shipping for %(amount)s"
+#~ msgstr "Dostať prepravu za %(amount)s "
+
+#~ msgid "Fixed price shipping benefit"
+#~ msgstr "Stála cenová výhoda prepravy"
+
+#~ msgid "Fixed price shipping benefits"
+#~ msgstr "Stále cenové výhody prepravy"
+
+#~ msgid "%(value)s%% off of shipping cost"
+#~ msgstr "%(value)s%% off prepravných nákladov"
+
+#~ msgid "Shipping percentage discount benefit"
+#~ msgstr "Prepravná percentuálna zľavná výhoda"
+
+#~ msgid "Shipping percentage discount benefits"
+#~ msgstr "Prepravná percentuálna zľavná výhoda"
+
+#~ msgid "Basket includes %(count)d item(s) from %(range)s"
+#~ msgstr "Košík obsahuje %(count)d položku/y/iek z výberu %(range)s"
+
+#~ msgid "Count condition"
+#~ msgstr "Stav počítadla"
+
+#~ msgid "Count conditions"
+#~ msgstr "Stav počítadiel"
+
+#~ msgid "Buy %(delta)d more product from %(range)s"
+#~ msgid_plural "Buy %(delta)d more products from %(range)s"
+#~ msgstr[0] "Kúpiť %(delta)d výrobok z %(range)s"
+#~ msgstr[1] "Kúpiť %(delta)d výrobok z %(range)s"
+#~ msgstr[2] "Kúpiť %(delta)d viac výrobkov z %(range)s"
+#~ msgstr[3] "Kúpiť %(delta)d viac výrobkov z %(range)s"
+
+#~ msgid "Basket includes %(count)d distinct item(s) from %(range)s"
+#~ msgstr "Nákupný košík obsahuje %(count)d odlišnú položku(y) od %(range)s"
+
+#~ msgid "Coverage Condition"
+#~ msgstr "rozsah podmienok"
+
+#~ msgid "Coverage Conditions"
+#~ msgstr "rozsah podmienok"
+
+#~ msgid "Basket includes %(amount)s from %(range)s"
+#~ msgstr "Košík obsahuje %(amount)s položky z výberu %(range)s"
+
+#~ msgid "Value condition"
+#~ msgstr "Stav hodnoty"
+
+#~ msgid "Value conditions"
+#~ msgstr "Stav hodnôt"
+
+#~ msgid "Spend %(value)s more from %(range)s"
+#~ msgstr "Vynakladať %(value)s viac z %(range)s"
+
+#~ msgid "Offer"
+#~ msgstr "Ponuka"
+
+#~ msgid "Total discount"
+#~ msgstr "Celková zľava"
+
+#~ msgid "Offer performance"
+#~ msgstr "zmluvná dohoda"
+
+#~ msgid "Site"
+#~ msgstr "Stránka"
+
+#~ msgid "Billing Address"
+#~ msgstr "Účtovná adresa"
+
+#~ msgid "Order total (inc. tax)"
+#~ msgstr "Objednávka celkom (s DPH)"
+
+#~ msgid "Order total (excl. tax)"
+#~ msgstr "Objednávka celkom (bez DPH)"
+
+#~ msgid "Shipping charge (inc. tax)"
+#~ msgstr "Cena za prepravu (s DPH)"
+
+#~ msgid "Shipping charge (excl. tax)"
+#~ msgstr "Cena za prepravu (bez DPH)"
+
+#~ msgid "Shipping Address"
+#~ msgstr "Dodacia adresa"
+
+#~ msgid "Shipping method"
+#~ msgstr "Spôsob prepravy"
+
+#~ msgid "Guest email address"
+#~ msgstr "Hosťovská email-ová adresa"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status for order %(number)s (current "
+#~ "status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s' nie je validný stav pre objednávku %(number)s (terajší "
+#~ "stav: '%(status)s')"
+
+#~ msgid "In progress"
+#~ msgstr "Prebieha"
+
+#~ msgid "Note Type"
+#~ msgstr "Typ poznámky"
+
+#~ msgid "Message"
+#~ msgstr "Správa"
+
+#~ msgid "Order Note"
+#~ msgstr "Poznámka k objednávke"
+
+#~ msgid "Order Notes"
+#~ msgstr "Poznámky k objednávke"
+
+#~ msgid "Event Type"
+#~ msgstr "Typ udalosti"
+
+#~ msgid "Communication Event"
+#~ msgstr "Komunikačná udalosť"
+
+#~ msgid "Communication Events"
+#~ msgstr "Komunikačné udalosti"
+
+#~ msgid "'%(type)s' event for order #%(number)s"
+#~ msgstr "Udalosť '%(type)s' pre objednávku č. %(number)s"
+
+#~ msgid "Partner name"
+#~ msgstr "Meno obch. partnera"
+
+#~ msgid "Partner reference"
+#~ msgstr "Odkaz na obch. partnera"
+
+#~ msgid "This is the item number that the partner uses within their system"
+#~ msgstr "Číslo položky, ktoré používa obch. partner v ich systéme"
+
+#~ msgid "Partner Notes"
+#~ msgstr "Poznámky k obch. partnerovi"
+
+#~ msgid "Stock record"
+#~ msgstr "Stav zásob"
+
+#~ msgid "Price (inc. tax)"
+#~ msgstr "Cena (s DPH)"
+
+#~ msgid "Price (excl. tax)"
+#~ msgstr "Cena (bez DPH)"
+
+#~ msgid "Price before discounts (inc. tax)"
+#~ msgstr "Cena pred zľavami (s DPH)"
+
+#~ msgid "Price before discounts (excl. tax)"
+#~ msgstr "Cena pred zľavami (bez DPH)"
+
+#~ msgid "Unit Cost Price"
+#~ msgstr "Jednotková nákupná cena"
+
+#~ msgid "Unit Price (inc. tax)"
+#~ msgstr "Jednotková cena (s DPH)"
+
+#~ msgid "Unit Price (excl. tax)"
+#~ msgstr "Jednotková cena (bez DPH)"
+
+#~ msgid "Unit Retail Price"
+#~ msgstr "Jednotková maloobchodná cena"
+
+#~ msgid "Estimated Dispatch Date"
+#~ msgstr "Odhadovaný dátum vybavenia"
+
+#~ msgid "Order Line"
+#~ msgstr "Riadok objednávky"
+
+#~ msgid "<missing product>"
+#~ msgstr "<produkt chýba>"
+
+#~ msgid "Product '%(name)s', quantity '%(qty)s'"
+#~ msgstr "Produkt '%(name)s', množstvo '%(qty)s'"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status (current status: '%(status)s')"
+#~ msgstr "Stav '%(new_status)s' nie je validný (súčasný stav: '%(status)s')"
+
+#~ msgid "'%(title)s' is no longer available"
+#~ msgstr "%(title)s Toto označenie už nie je dostupný"
+
+#~ msgid "Line Attribute"
+#~ msgstr "Atribút riadku"
+
+#~ msgid "Line Attributes"
+#~ msgstr "Atribúty riadku"
+
+#~ msgid "Shiping (inc. tax)"
+#~ msgstr "Preprava (s DPH)"
+
+#~ msgid "Shipping (excl. tax)"
+#~ msgstr "Preprava (bez DPH)"
+
+#~ msgid "Line Price"
+#~ msgstr "Cena riadku"
+
+#~ msgid "Line Prices"
+#~ msgstr "Ceny riadku"
+
+#~ msgid "Line '%(number)s' (quantity %(qty)d) price %(price)s"
+#~ msgstr "Riadok '%(number)s' (množstvo %(qty)d) cena %(price)s"
+
+#~ msgid "Payment Event Type"
+#~ msgstr "Typ platobnej udalosti"
+
+#~ msgid "Payment Event Types"
+#~ msgstr "Typy platobnej udalosti"
+
+#~ msgid "Amount"
+#~ msgstr "Množstvo"
+
+#~ msgid "Reference"
+#~ msgstr "Referencia"
+
+#~ msgid "Lines"
+#~ msgstr "Riadky"
+
+#~ msgid "Payment Event"
+#~ msgstr "Platobná udalosť"
+
+#~ msgid "Payment Events"
+#~ msgstr "Platobné udalosti"
+
+#~ msgid "Payment event for order %s"
+#~ msgstr "Platobná udalosť pre objednávku %s"
+
+#~ msgid "Event"
+#~ msgstr "Udalosť"
+
+#~ msgid "Payment Event Quantity"
+#~ msgstr "druh platby za zvolené množstvo"
+
+#~ msgid "Payment Event Quantities"
+#~ msgstr "druh platby za zvolené množstvá"
+
+#~ msgid "Event notes"
+#~ msgstr "Poznámky k udalosti"
+
+#~ msgid "This could be the dispatch reference, or a tracking number"
+#~ msgstr "Môže to byť referencia na vybavenie alebo číslo pre sledovanie"
+
+#~ msgid "Shipping Event"
+#~ msgstr "Udalosť doručenia"
+
+#~ msgid "Shipping Events"
+#~ msgstr "Udalosti doručenia"
+
+#~ msgid "Order #%(number)s, type %(type)s"
+#~ msgstr "Objednávka č. %(number)s, typ %(type)s"
+
+#~ msgid "Shipping Event Quantity"
+#~ msgstr "druh dodania za zvolené množstvo"
+
+#~ msgid "Shipping Event Quantities"
+#~ msgstr "druh dodania za zvolené množstvá"
+
+#~ msgid "%(product)s - quantity %(qty)d"
+#~ msgstr "%(product)s - množstvo %(qty)d"
+
+#~ msgid "Shipping Event Type"
+#~ msgstr "Typ udalosti doručenia"
+
+#~ msgid "Shipping Event Types"
+#~ msgstr "Typy udalostí doručenia"
+
+#~ msgid "Discount category"
+#~ msgstr "Typ zľavy"
+
+#~ msgid "Offer ID"
+#~ msgstr "ID ponuky"
+
+#~ msgid "Voucher ID"
+#~ msgstr "ID kupónu"
+
+#~ msgid "Frequency"
+#~ msgstr "Frekvencia"
+
+#~ msgid "Order Discount"
+#~ msgstr "Zľava z objednávky"
+
+#~ msgid "Order Discounts"
+#~ msgstr "Zľavy z objednávky"
+
+#~ msgid "Discount of %(amount)r from order %(order)s"
+#~ msgstr "Zľava o hodnote %(amount)r z objednávky %(order)s"
+
+#~ msgid "The selected quantity for line #%(line_id)s is too large"
+#~ msgstr "Vybraná množstvo pre spojenie #%(line_id)s je príliš veľké"
+
+#~ msgid "Total incl. tax"
+#~ msgstr "Celkom (s DPH)"
+
+#~ msgid "Date placed"
+#~ msgstr "Dátum podania"
+
+#~ msgid "Orders placed"
+#~ msgstr "Podané objednávky"
+
+#~ msgid "Empty baskets cannot be submitted"
+#~ msgstr "Prázdne košíky nemôžu byť odoslané"
+
+#~ msgid "There is already an order with number %s"
+#~ msgstr "Objednávka s číslom %s už existuje"
+
+#~ msgid "Fulfillment partner"
+#~ msgstr "Zmluvný partner"
+
+#~ msgid "Fulfillment partners"
+#~ msgstr "Zmluvní partneri"
+
+#~ msgid "Price (retail)"
+#~ msgstr "Cena (maloobchodná)"
+
+#~ msgid "Cost Price"
+#~ msgstr "Nákupná cena"
+
+#~ msgid "Number in stock"
+#~ msgstr "Množstvo na sklade"
+
+#~ msgid "Number allocated"
+#~ msgstr "Počet alokovaných"
+
+#~ msgid "Low Stock Threshold"
+#~ msgstr "Spodná hranica zásob"
+
+#~ msgid "Invalid stock consumption request"
+#~ msgstr "Neplatná žiadosť o odber zásob"
+
+#~ msgid "Stock Record"
+#~ msgstr "Stav zásob"
+
+#~ msgid "Threshold"
+#~ msgstr "Hranica"
+
+#~ msgid "Open"
+#~ msgstr "Otvorené"
+
+#~ msgid "Date Closed"
+#~ msgstr "Dátum zatvorenia"
+
+#~ msgid "<stockalert for \"%(stock)s\" status %(status)s>"
+#~ msgstr "<upozornenie na stav zásob pre \"%(stock)s\" stav %(status)s>"
+
+#~ msgid "Stock alert"
+#~ msgstr "Varovanie skladu"
+
+#~ msgid "Stock alerts"
+#~ msgstr "Upozornenia na stav zásob"
+
+#~ msgid "unavailable"
+#~ msgstr "nie je k dispozícii"
+
+#~ msgid "Unavailable"
+#~ msgstr "Nedostupný"
+
+#~ msgid "Available"
+#~ msgstr "Dostupný"
+
+#~ msgid "no stock available"
+#~ msgstr "k dispozícii žiadna fotografia"
+
+#~ msgid "a maximum of %(max)d can be bought"
+#~ msgstr "maximum %(max)d, ktoré môže byť nakúpené"
+
+#~ msgid "In stock"
+#~ msgstr "Na sklade"
+
+#~ msgid "In stock (%d available)"
+#~ msgstr "Na sklade (%d k dispozícii)"
+
+#~ msgid "No file path supplied"
+#~ msgstr "Nebola zadaná cesta k súboru"
+
+#~ msgid "%s does not exist"
+#~ msgstr "%s neexistuje"
+
+#~ msgid "%s is not a file"
+#~ msgstr "%s nie je súbor"
+
+#~ msgid "%s is not readable"
+#~ msgstr "%s nie je možné čítať"
+
+#~ msgid "Source"
+#~ msgstr "Zdroj"
+
+#~ msgid "%(type)s of %(amount).2f"
+#~ msgstr "%(type)s z %(amount).2f                                        "
+
+#~ msgid "Transaction"
+#~ msgstr "Transakcia"
+
+#~ msgid "Transactions"
+#~ msgstr "Transakcie"
+
+#~ msgid "Source Type"
+#~ msgstr "Typ zdroja"
+
+#~ msgid "Amount Allocated"
+#~ msgstr "Poukázané množstvo"
+
+#~ msgid "Amount Debited"
+#~ msgstr "Stiahnuté množstvo"
+
+#~ msgid "Amount Refunded"
+#~ msgstr "Vrátené množstvo"
+
+#~ msgid "Label"
+#~ msgstr "Názov"
+
+#~ msgid "Sources"
+#~ msgstr "Zdroje"
+
+#~ msgid "Allocation of %(amount)s from type %(type)s"
+#~ msgstr "Poukázanie %(amount)s z typu %(type)s"
+
+#~ msgid " (reference: %s)"
+#~ msgstr " (referencia: %s)"
+
+#~ msgid "This is used within forms to identify this source type"
+#~ msgstr "Používané vo formulároch na identifikáciu typu tohto zdroja"
+
+#~ msgid "Source Types"
+#~ msgstr "Typy zdrojov"
+
+#~ msgid "Card Type"
+#~ msgstr "Typ karty"
+
+#~ msgid "Number"
+#~ msgstr "Číslo"
+
+#~ msgid "Expiry Date"
+#~ msgstr "Dátum splatnosti"
+
+#~ msgid "Partner Reference"
+#~ msgstr "Referencia obch. partnera"
+
+#~ msgid "%(card_type)s %(number)s (Expires: %(expiry)s)"
+#~ msgstr "%(card_type)s %(number)s (Stratí platnosť: %(expiry)s)"
+
+#~ msgid "Bankcard"
+#~ msgstr "Banková karta"
+
+#~ msgid "Bankcards"
+#~ msgstr "Bankové karty"
+
+#~ msgid "Payment"
+#~ msgstr "Platba"
+
+#~ msgid "Card number"
+#~ msgstr "Číslo karty"
+
+#~ msgid "Please enter a valid credit card number."
+#~ msgstr "Prosím vložte platné číslo kreditnej karty."
+
+#~ msgid "%s cards are not accepted."
+#~ msgstr "%s karty nie sú akceptované."
+
+#~ msgid "Enter a valid month."
+#~ msgstr "Vložte platný mesiac."
+
+#~ msgid "Enter a valid year."
+#~ msgstr "Vložte platný rok."
+
+#~ msgid "Valid to"
+#~ msgstr "Platí do"
+
+#~ msgid "The expiration date you entered is in the past."
+#~ msgstr "Zadaný dátum vypršania je v minulosti."
+
+#~ msgid "Valid from"
+#~ msgstr "Platní od"
+
+#~ msgid "The starting date you entered is in the future."
+#~ msgstr "Zadaný počiatočný dátum je v budúcnosti"
+
+#~ msgid "CCV number"
+#~ msgstr "CCV číslo"
+
+#~ msgid "Please enter a 3 or 4 digit number"
+#~ msgstr "Prosím vložte 3 alebo 4-cifrové číslo"
+
+#~ msgid ""
+#~ "This is the 3 or 4 digit security number on the back of your bankcard"
+#~ msgstr ""
+#~ "3 alebo 4-miestne bezpečnostné číslo na zadnej strane vašej bankovej karty"
+
+#~ msgid "American Express cards use a 4 digit security code"
+#~ msgstr "Karty American Express majú 4-ro digitálne bezpečnostný kód"
+
+#~ msgid "Promotions"
+#~ msgstr "Propagácie"
+
+#~ msgid "Display Order"
+#~ msgstr "Poradie zobrazenia"
+
+#~ msgid "Clicks"
+#~ msgstr "Kliky"
+
+#~ msgid "Linked Promotion"
+#~ msgstr "sprostredkovaná propagácia"
+
+#~ msgid "Linked Promotions"
+#~ msgstr "sprostredkované propagácie"
+
+#~ msgid "Page URL"
+#~ msgstr "URL stránky"
+
+#~ msgid "Page Promotion"
+#~ msgstr "Stránka propagácie"
+
+#~ msgid "Page Promotions"
+#~ msgstr "Stránka propagácií"
+
+#~ msgid "Filter"
+#~ msgstr "Filter"
+
+#~ msgid "Keyword Promotion"
+#~ msgstr "kľúčové heslo propagácie"
+
+#~ msgid "Keyword Promotions"
+#~ msgstr "kľúčové heslo propagácií"
+
+#~ msgid "Keywords"
+#~ msgstr "Kľúčové slová"
+
+#~ msgid "Promotion"
+#~ msgstr "Propagácia"
+
+#~ msgid "Display type"
+#~ msgstr "Typ zobrazenia"
+
+#~ msgid ""
+#~ "This can be used to have different types of HTML blocks (eg different "
+#~ "widths)"
+#~ msgstr ""
+#~ "Môže byť použité na možnosť mať rôzne typy HTML blokov (napr. rôzne šírky)"
+
+#~ msgid "Raw HTML"
+#~ msgstr "Priame HTML"
+
+#~ msgid "Link URL"
+#~ msgstr "URL odkazu"
+
+#~ msgid "This is where this promotion links to"
+#~ msgstr "Toto je miesto, kde podpora predaja odkazuje na"
+
+#~ msgid ""
+#~ "Choose the Image content blocks that this block will use. (You may need "
+#~ "to create some first)."
+#~ msgstr ""
+#~ "Vyberte obrázkové bloky obsahu, ktorý tento blok bude používať. (Možno "
+#~ "budete musieť vytvoriť niektoré prvýkrát)."
+
+#~ msgid "Multi Image"
+#~ msgstr "Multi-obrázok"
+
+#~ msgid "Multi Images"
+#~ msgstr "Multi-obrázky"
+
+#~ msgid "Single product"
+#~ msgstr "Samostatný produkt"
+
+#~ msgctxt "Promotion product list title"
+#~ msgid "Title"
+#~ msgstr "Názov"
+
+#~ msgid "Link text"
+#~ msgstr "Text odkazu"
+
+#~ msgid "Product list"
+#~ msgstr "Zoznam produktov"
+
+#~ msgid "Product lists"
+#~ msgstr "Zoznamy produktov"
+
+#~ msgid "Hand Picked Product List"
+#~ msgstr "Zoznam ručne vybraných produktov"
+
+#~ msgid "Hand Picked Product Lists"
+#~ msgstr "Zoznamy ručne vybraných produktov"
+
+#~ msgid "List"
+#~ msgstr "Zoznam"
+
+#~ msgid "Ordered product"
+#~ msgstr "Objednaný produkt"
+
+#~ msgid "Bestselling products"
+#~ msgstr "Najpredávanejšie produkty"
+
+#~ msgid "Recently added products"
+#~ msgstr "Nedávno pridné produkty"
+
+#~ msgid "Method"
+#~ msgstr "Spôsob"
+
+#~ msgid "Number of Products"
+#~ msgstr "Počet produktov"
+
+#~ msgid "Automatic product list"
+#~ msgstr "Automatický zoznam produktov"
+
+#~ msgid "Automatic product lists"
+#~ msgstr "Automatické zoznamy produktov"
+
+#~ msgid "Tabbed Block"
+#~ msgstr "Blok záložky"
+
+#~ msgid "Ordered Product List"
+#~ msgstr "Zoznam zoradených produktov"
+
+#~ msgid "Ordered Product Lists"
+#~ msgstr "Zoznamy zoradených produktov"
+
+#~ msgctxt "Tabbed block title"
+#~ msgid "Title"
+#~ msgstr "Názov"
+
+#~ msgid "Tabbed Blocks"
+#~ msgstr "Bloky záložiek"
+
+#~ msgid "Search"
+#~ msgstr "Hľadaj"
+
+#~ msgid "Relevancy"
+#~ msgstr "relevancia"
+
+#~ msgid "Customer rating"
+#~ msgstr "Hodnotenie zákazníkov"
+
+#~ msgid "Newest"
+#~ msgstr "najnovšie"
+
+#~ msgid "Price high to low"
+#~ msgstr "Cena od najvyšše po najnižšiu"
+
+#~ msgid "Price low to high"
+#~ msgstr "Cena od najnižšej po najvyššiu"
+
+#~ msgid "Title A to Z"
+#~ msgstr "názov od A do Z"
+
+#~ msgid "Title Z to A"
+#~ msgstr "názov od Z po A"
+
+#~ msgid "Page is not 'last', nor can it be converted to an int."
+#~ msgstr "Stránka nie je 'posledná', ani nemôže byť konvertovaná."
+
+#~ msgid "Shipping Method"
+#~ msgstr "Spôsob prepravy"
+
+#~ msgid "Shipping Methods"
+#~ msgstr "Spôsoby prepravy"
+
+#~ msgid "Price per order"
+#~ msgstr "Cena na objednávku"
+
+#~ msgid "Price per item"
+#~ msgstr "Cena na položku"
+
+#~ msgid "Free Shipping"
+#~ msgstr "Preprava zdarma"
+
+#~ msgid "Order and Item Charge"
+#~ msgstr "objednávka a položka zaťaženia"
+
+#~ msgid "Order and Item Charges"
+#~ msgstr "objednávka a položka zaťažení"
+
+#~ msgid "Default Weight"
+#~ msgstr "Predvolená hmotnosť"
+
+#~ msgid "Default product weight in kg when no weight attribute is defined"
+#~ msgstr ""
+#~ "Predvolená hmotnosť produktu v kg, ak nie je definovaný atribút hmotnosti"
+
+#~ msgid "Weight-based Shipping Method"
+#~ msgstr "Spôsob prepravy závislý od hmotnosti"
+
+#~ msgid "Weight-based Shipping Methods"
+#~ msgstr "Spôsoby prepravy závislé od hmotnosti"
+
+#~ msgid "Upper Limit"
+#~ msgstr "Horná hranica"
+
+#~ msgid ""
+#~ "Enter upper limit of this weight band in kg. The lower limit will be "
+#~ "determined by the other weight bands."
+#~ msgstr ""
+#~ "Zadajte hornú hmotnostnú hranicu v kg. Spodná hranica bude určená podľa "
+#~ "ostatných hmotností."
+
+#~ msgid "Charge"
+#~ msgstr "Poplatok"
+
+#~ msgid "Weight Band"
+#~ msgstr "Hmotnostné pásmo"
+
+#~ msgid "Weight Bands"
+#~ msgstr "Hmotnostné pásma"
+
+#~ msgid "Charge for weights up to %s kg"
+#~ msgstr "Poplatok za hmotnosť do %s kg"
+
+#~ msgid "Shipping"
+#~ msgstr "Preprava"
+
+#~ msgid "Free shipping"
+#~ msgstr "Preprava zdarma"
+
+#~ msgid "No shipping required"
+#~ msgstr "Preprava nie je potrebná"
+
+#~ msgid "Fixed price shipping"
+#~ msgstr "Pevná cena prepravy"
+
+#~ msgid "You need to define some shipping methods"
+#~ msgstr "Musíte nadefinovať nejaké spôsoby prepravy"
+
+#~ msgid ""
+#~ "This will be shown in the checkout and basket once the voucher is entered"
+#~ msgstr "Bude zobrazené v pokladni a košíku až bude vložený kupón"
+
+#~ msgid "Case insensitive / No spaces allowed"
+#~ msgstr "Nezáleží na veľkých a malých písmenách / bez medzier"
+
+#~ msgid "Can be used once by one customer"
+#~ msgstr "Môže byť použitý len raz jedným zákazníkom"
+
+#~ msgid "Can be used multiple times by multiple customers"
+#~ msgstr "Môže byť použitý viac krát, viacerými zákazníkmi"
+
+#~ msgid "Can only be used once per customer"
+#~ msgstr "Môže byť použitý jeden krát na (každého) zákazníka"
+
+#~ msgid "Times added to basket"
+#~ msgstr "Počet pridaní do košíka"
+
+#~ msgid "Times on orders"
+#~ msgstr "Počet na objednávku"
+
+#~ msgid "Voucher"
+#~ msgstr "Kupón"
+
+#~ msgid "This voucher has already been used"
+#~ msgstr "Kupón už bol použitý"
+
+#~ msgid "This voucher is only available to signed in users"
+#~ msgstr "Kupón je dostupný iba prihláseným používateľom"
+
+#~ msgid "You have already used this voucher in a previous order"
+#~ msgstr "Kupón ste už použili v niektorej z predchádzajúcich objednávok"
+
+#~ msgid "Voucher Application"
+#~ msgstr "záručná doba"
+
+#~ msgid "Voucher Applications"
+#~ msgstr "záručné doby"
+
+#~ msgid "'%(voucher)s' used by '%(user)s'"
+#~ msgstr "'%(voucher)s' použitý '%(user)s'"
+
+#~ msgid "Added to a basket"
+#~ msgstr "Pridaný do košíka"
+
+#~ msgid "Used in an order"
+#~ msgstr "Použitý v objednávke"
+
+#~ msgid "Voucher performance"
+#~ msgstr "Výkon kupónu"
+
+#~ msgid "Default"
+#~ msgstr "omeškanie"
+
+#~ msgid "Private - Only the owner can see the wish list"
+#~ msgstr "Osobné - Iba držiteľ môže vidieť zoznam"
+
+#~ msgid ""
+#~ "Shared - Only the owner and people with access to the obfuscated link can "
+#~ "see the wish list"
+#~ msgstr ""
+#~ "Zdielané - Iba držiteľ a ľudia, ktorí dostali prístup k zakódovanému "
+#~ "linku môžu vidieť zoznam"
+
+#~ msgid "Public - Everybody can see the wish list"
+#~ msgstr "Verejné - Každý môže vidieť zoznam prianí"
+
+#~ msgid "Visibility"
+#~ msgstr "Viditeľnosť"
+
+#~ msgid "Wish List"
+#~ msgstr "Zoznam "
+
+#~ msgid "Wish list line"
+#~ msgstr "Položka zoznamu"
+
+#~ msgid "Wishlists"
+#~ msgstr "Zoznam prianí"
+
+#~ msgid "The URL \"%s\" does not exist"
+#~ msgstr "URL \"%s\"  neexistuje"
+
+#~ msgid "Specified page already exists!"
+#~ msgstr "Špecifikovaná stránka už existuje"
+
+#~ msgid "This field is required"
+#~ msgstr "Toto pole je povinné"
+
+#~ msgid "This field is invalid as its value is forbidden"
+#~ msgstr "Toto pole je chybné, nakoľko hodnota poľa je zakázaná"
+
+#~ msgid "This is not a valid international phone format."
+#~ msgstr "Nie je platný medzinárodný telefónny formát. "
+
+#~ msgid "This is not a valid local phone format for %s."
+#~ msgstr "Nie je platný miestny telefónny formát pre %s."
+
+#~ msgid "This is not a valid local or international phone format."
+#~ msgstr "Nie je platný miestny alebo medzinárodný telefónny formát. "
+
+#~ msgid "Check for products that are back in stock and send out alerts"
+#~ msgstr "Skontrolujte, či výrobky sú späť na sklade a odošlite upozornenia"
+
+#~ msgid "Permission denied!"
+#~ msgstr "Prístup odmietnutý!"
+
+#~ msgid "We're sorry but you are not permitted to access this page."
+#~ msgstr "Je nám to ľúto, ale nemáte povolenie vstúpiť na túto stránku."
+
+#~ msgid "Page not found"
+#~ msgstr "Stránka nebola nájdená"
+
+#~ msgid "Page not found!"
+#~ msgstr "Stránka nebola nájdená!"
+
+#~ msgid "We're sorry but the page you are looking for can't be found."
+#~ msgstr "Je nám to ľúto, ale stránka, ktorú hľadáte sa tu nenachádza."
+
+#~ msgid "Server error!"
+#~ msgstr "Chyba servera!"
+
+#~ msgid ""
+#~ "We're sorry but something went terribly wrong and we've been unable to "
+#~ "generate the page you requested."
+#~ msgstr ""
+#~ "Ľutujeme, niečo sa pokazilo a nie sme schopný generovať vyžiadanú stránku."
+
+#~ msgid ""
+#~ "This incident has been logged and will be addressed by an engineer as "
+#~ "soon as possible."
+#~ msgstr ""
+#~ "Táto udalosť bola zaznamenaná, a akonáhle to bude možné sa ňou bude "
+#~ "zaoberať technik."
+
+#~ msgid "Home"
+#~ msgstr "Domov"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(title)s</strong> has been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    Produkt <strong>%(title)s</strong> bol pridaný do košíka.\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(quantity)s</strong> copies of <strong>%(title)s</strong>\n"
+#~ "    have been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    <strong>%(quantity)s</strong> kópií produktu <strong>%(title)s</"
+#~ "strong>\n"
+#~ "    bolo pridaných do košíka.\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been moved back to your basket.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Produkt <strong>%(title)s</strong> bol presunutý naspäť do košíka.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been saved for later\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Produkt <strong>%(title)s</strong> bol uchovaný na neskôr\n"
+
+#~ msgid "Your basket is now empty"
+#~ msgstr "Váš košík je teraz prázdny"
+
+#~ msgid ""
+#~ "\n"
+#~ "            Your basket total is now <strong>%(total)s</strong>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "        Košík celkom je teraz <strong>%(total)s</strong>.\n"
+#~ "        "
+
+#~ msgid "View basket"
+#~ msgstr "Zobraziť košík"
+
+#~ msgid "Checkout now"
+#~ msgstr "Do pokladne"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket now qualifies for the \n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Váš nákupný košík teraz spĺňa podmienky pre\n"
+#~ "<strong>%(name)s</strong> ponuku.\n"
+#~ "\n"
+#~ "\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket no longer qualifies for the\n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Váš nákupný košík teraz nespĺňa podmienky pre\n"
+#~ "<strong>%(name)s</strong> ponuku.\n"
+#~ "\n"
+
+#~ msgid "Important messages about items in your basket"
+#~ msgstr "Dôležité správy o položkách vo vašom košíku"
+
+#~ msgid "You could be missing out on offers!"
+#~ msgstr "Mohli by ste zmeškať ponuky!"
+
+#~ msgid ""
+#~ "\n"
+#~ "                <div class=\"warning\">%(message)s to qualify for the <a "
+#~ "href=\"%(url)s\">%(offer_name)s</a> special offer</div>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "<div class=\"warning\">%(message)s k produktom pre <a href=\"%(url)s\">"
+#~ "%(offer_name)s</a> špeciálnu ponuku</div>"
+
+#~ msgid "Items to buy now"
+#~ msgstr "Položky k zakúpeniu"
+
+#~ msgid "Price"
+#~ msgstr "Cena"
+
+#~ msgid "Total"
+#~ msgstr "Celkom"
+
+#~ msgid "Updating..."
+#~ msgstr "Aktualizácia..."
+
+#~ msgid "Update"
+#~ msgstr "Aktualizovať"
+
+#~ msgid "Remove"
+#~ msgstr "Odstrániť"
+
+#~ msgid "Save for later"
+#~ msgstr "Uchovať na neskôr"
+
+#~ msgid "Voucher/promo code"
+#~ msgstr "Kód kupónu"
+
+#~ msgid "I have a voucher code..."
+#~ msgstr "Mám kód zľavového kupónu..."
+
+#~ msgid "Adding..."
+#~ msgstr "Pridávanie..."
+
+#~ msgid "Add voucher"
+#~ msgstr "Pridaj kupón"
+
+#~ msgid "or"
+#~ msgstr "alebo"
+
+#~ msgid "cancel"
+#~ msgstr "zrušíť"
+
+#~ msgid "Totals"
+#~ msgstr "Súčty"
+
+#~ msgid "Proceed to checkout"
+#~ msgstr "Pokračovať k pokladni"
+
+#~ msgid "Your basket is empty."
+#~ msgstr "Váš košík je prázdny"
+
+#~ msgid "Continue shopping"
+#~ msgstr "Pokračovať v nákupe"
+
+#~ msgid "Items to buy later"
+#~ msgstr "Položky pre neskorší nákup"
+
+#~ msgid "Items"
+#~ msgstr "Položky"
+
+#~ msgid "Move to basket"
+#~ msgstr "Presunúť do košíka"
+
+#~ msgid "Qty"
+#~ msgstr "Mnž."
+
+#~ msgid "Total:"
+#~ msgstr "Celkom:"
+
+#~ msgid "Basket total (before discounts)"
+#~ msgstr "Košík celkom (pred zľavami)"
+
+#~ msgid "Discount"
+#~ msgstr "Zľava"
+
+#~ msgid "Basket total (after discounts)"
+#~ msgstr "Košík celkom (po zľavách)"
+
+#~ msgid "Basket total"
+#~ msgstr "Košík celkom"
+
+#~ msgid "Alternative shipping methods can be chosen during checkout"
+#~ msgstr "Alternatívne spôsoby doručenia je možné zvoliť počas platenia"
+
+#~ msgid "Shipping total (before discounts)"
+#~ msgstr "Preprava celkom (pred zľavnením)"
+
+#~ msgid "Shipping total (after discounts)"
+#~ msgstr "Preprava celkom (po zľavnení)"
+
+#~ msgid "Tax"
+#~ msgstr "Poplatok"
+
+#~ msgid "Post order actions"
+#~ msgstr "Akcie po ukončení objednávky"
+
+#~ msgid "These will be applied once your order is placed."
+#~ msgstr "Budú aplikované po tom, ako bude vaša objednávka odoslaná."
+
+#~ msgid "Taxes will be added during checkout."
+#~ msgstr "Počas kontroly budú pridané poplatky."
+
+#~ msgid "Show results for"
+#~ msgstr "Zobraziť výsledky pre"
+
+#~ msgid "Refine by"
+#~ msgstr "Triediť podľa"
+
+#~ msgid "<strong>0</strong> results."
+#~ msgstr "<strong>0</strong> výsledkov."
+
+#~ msgid "No products found."
+#~ msgstr "Neboli nájdené žiadne produkty"
+
+#~ msgid "Edit this product"
+#~ msgstr "Upraviť produkt"
+
+#~ msgid "Product Description"
+#~ msgstr "Popis produktu"
+
+#~ msgid "Product Information"
+#~ msgstr "Informácie o produkte"
+
+#~ msgid "Product Type"
+#~ msgstr "druh výrobku"
+
+#~ msgid "Price (incl. tax)"
+#~ msgstr "Cena (s DPH)"
+
+#~ msgid "Availability"
+#~ msgstr "Dostupnosť"
+
+#~ msgid "Number of reviews"
+#~ msgstr "Počet recenzií"
+
+#~ msgid "See all reviews"
+#~ msgstr "Pozrieť všetky recenzie"
+
+#~ msgid "Customer Reviews"
+#~ msgstr "Recenzie od zákazníkov"
+
+#~ msgid ""
+#~ "This product does not have any reviews yet -\n"
+#~ "                            <a href=\"%(add_review_url)s#addreview\">be "
+#~ "the first to write one</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "Tento produkt nemá ešte žiadne hodnotenie -\n"
+#~ "<a href=\"%(add_review_url)s#addreview\">ste prvý, kto ho napísal</a>."
+
+#~ msgid "This product does not have any reviews yet"
+#~ msgstr "Produkt nemá zatiaľ žiadne recenzie"
+
+#~ msgid "Recommended items"
+#~ msgstr "Odporúčané položky"
+
+#~ msgid "Add to basket"
+#~ msgstr "Pridať do košíka"
+
+#~ msgid "You have an active stock alert for this product."
+#~ msgstr "Pre tento produkt už máte aktívne upozornenie na stav zásob"
+
+#~ msgid "You can get an email alert when this product is back in stock."
+#~ msgstr ""
+#~ "Môžete dostať upozornenie email-om, keď bude produkt znovu na sklade."
+
+#~ msgid "Notify me"
+#~ msgstr "Upozorni ma"
+
+#~ msgid "Add to wish list"
+#~ msgstr "Pridať do zoznamu "
+
+#~ msgid ""
+#~ "\n"
+#~ "                                            Add to '%(name)s' wish list\n"
+#~ "                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Pridať do '%(name)s' zoznamu prianí"
+
+#~ msgid "Create a new wishlist"
+#~ msgstr "Vytvoriť nový zoznam"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <span class=\"pull-left\">Product is in <a href="
+#~ "\"%(url)s\">'%(name)s'</a> wishlist.</span>\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "<span class=\"pull-left\"> Produkt je v <a href=\"%(url)s\">'%(name)s'</"
+#~ "a>  liste prianí.</span>"
+
+#~ msgid "Removing..."
+#~ msgstr "Odoberám..."
+
+#~ msgid "Please login to add products to a wish list."
+#~ msgstr "Prosím prihláste sa ak chcete pridať produkty do zoznamu."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Reviewed by you on %(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Ohodnotené Vami na %(review_date)s"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Reviewed by <strong>%(name)s</strong> on "
+#~ "%(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Ohodnotené Vami <strong>%(name)s</strong> na %(review_date)s"
+
+#~ msgid "Is this review helpful?"
+#~ msgstr "Je táto recenzia užitočná?"
+
+#~ msgid "Yes"
+#~ msgstr "Áno"
+
+#~ msgid "No"
+#~ msgstr "Nie"
+
+#~ msgid "This review has no votes."
+#~ msgstr "Recenzia nemá hlasy."
+
+#~ msgid "Free"
+#~ msgstr "Zadarmo"
+
+#~ msgid "Write a review"
+#~ msgstr "Napísať recenziu"
+
+#~ msgid "Customer reviews"
+#~ msgstr "Recenzie od zákazníkov"
+
+#~ msgid "Leave a product review"
+#~ msgstr "Napíšte recenziu produktu"
+
+#~ msgid "Saving..."
+#~ msgstr "Ukladám..."
+
+#~ msgid "Save review"
+#~ msgstr "Prehľad uloženia"
+
+#~ msgid "This product does not have any reviews yet."
+#~ msgstr "Produkt nemá zatiaľ žiadne recenzie."
+
+#~ msgid "Change"
+#~ msgstr "Zmeniť"
+
+#~ msgid "Contact"
+#~ msgstr "Kontakt"
+
+#~ msgid "Phone"
+#~ msgstr "Telefón"
+
+#~ msgid "Payment details to go here"
+#~ msgstr "Detaily platby"
+
+#~ msgid "Edit order contents"
+#~ msgstr "Upraviť obsah objednávky"
+
+#~ msgid "Order contents"
+#~ msgstr "Obsah objednávky"
+
+#~ msgid "Item"
+#~ msgstr "Položka"
+
+#~ msgid "Checkout gateway"
+#~ msgstr "Vstup do pokladne"
+
+#~ msgid "Who are you?"
+#~ msgstr "Kto ste?"
+
+#~ msgid "Get a password reminder"
+#~ msgstr "Zaslať pripomenutie hesla"
+
+#~ msgid "Continuing..."
+#~ msgstr "Pokračovanie..."
+
+#~ msgid "Continue"
+#~ msgstr "Pokračovať"
+
+#~ msgid "1. Shipping address"
+#~ msgstr "1. Dodacia adresa"
+
+#~ msgid "2. Shipping method"
+#~ msgstr "2. Spôsob prepravy"
+
+#~ msgid "3. Payment"
+#~ msgstr "3. Platba"
+
+#~ msgid "4. Preview"
+#~ msgstr "4. Náhľad"
+
+#~ msgid "5. Confirmation"
+#~ msgstr "5. Potvrdenie"
+
+#~ msgid "Payment details"
+#~ msgstr "Detaily platby"
+
+#~ msgid "Enter payment details"
+#~ msgstr "uviesť detaily platby"
+
+#~ msgid ""
+#~ "This page needs implementing within your project.  You may want to use "
+#~ "one of Oscar's payment gateway libraries:"
+#~ msgstr ""
+#~ "Táto stránka vyžaduje implementáciu s Vašim produktom. Budete chcieť "
+#~ "použiť jednu z Oscar-ových platobných knižníc:"
+
+#~ msgid "Order preview"
+#~ msgstr "Náhľad objednávky"
+
+#~ msgid "Preview order"
+#~ msgstr "Predbežná objednávka"
+
+#~ msgid "Place order"
+#~ msgstr "Objednať"
+
+#~ msgid "Where should we ship to?"
+#~ msgstr "Kam doručiť?"
+
+#~ msgid "An address from your address book?"
+#~ msgstr "Adresa z Vášho zoznamu adries?"
+
+#~ msgid "Ship to your default shipping address"
+#~ msgstr "Dopraviť do predvolenej dodacej adresy"
+
+#~ msgid "Ship to this address"
+#~ msgstr "Doručiť na túto adresu"
+
+#~ msgid "Delete"
+#~ msgstr "Vymazať"
+
+#~ msgid "Or a new address?"
+#~ msgstr "Alebo nová adresa?"
+
+#~ msgid "return to basket"
+#~ msgstr "vratiť sa do košíka"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                This includes a discount of <strong>"
+#~ "%(amount)s</strong> as\n"
+#~ "                                your basket qualifies for the <strong>"
+#~ "%(name)s</strong> offer.\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "To zahŕňa zľavu vo výške <strong>%(amount)s</strong> ako\n"
+#~ "je to oprávnené pre ponuku <strong>%(name)s</strong> v nákupnom košíku."
+
+#~ msgid "Select option"
+#~ msgstr "Vyberte možnosť"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s: confirmation\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Potvrdenie objednávky %(number)s:"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Your order has been placed and a confirmation email has been sent "
+#~ "- your order number is\n"
+#~ "        <strong>%(number)s</strong>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "Vaša objednávka je podaná a bol vám zaslaný potvrdzovacý email - číslo "
+#~ "vašej objednávky je\n"
+#~ "<strong>%(number)s</strong>"
+
+#~ msgid ""
+#~ "Please make a note of this reference or print this page and quote it in "
+#~ "any communication with us regarding your order."
+#~ msgstr ""
+#~ "Poznačte si prosím číslo objednávky alebo si vytlačte túto stránku a "
+#~ "používajte ho\n"
+#~ "v akejkoľvek komunikácii s nami ohľadom vašej objednávky."
+
+#~ msgid "No shipping address required."
+#~ msgstr "Nevyžaduje poštovú adresu."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s (reference: %(reference)s)\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "Distribúcia množstva %(amount)s na základe typu %(type)s (odkaz: "
+#~ "%(reference)s)"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "Distribúcia množstva %(amount)s na základe typov %(type)s"
+
+#~ msgid "No payment was required for this order."
+#~ msgstr "Objednávka nevyžaduje platbu."
+
+#~ msgid "Items purchased"
+#~ msgstr "Objednaných položiek"
+
+#~ msgid ""
+#~ "\n"
+#~ "                            Estimated dispatch: <strong>%(date)s</"
+#~ "strong>\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Presný dátum odoslania: <strong>%(date)s</strong>."
+
+#~ msgid "Shipping charge (before discounts)"
+#~ msgstr "Cena za prepravu (pred zľavnením)"
+
+#~ msgid "Shipping charge (after discounts)"
+#~ msgstr "Cena za prepravu (po zľavnení)"
+
+#~ msgid "Shipping charge"
+#~ msgstr "Cena za prepravu"
+
+#~ msgid "Order tax"
+#~ msgstr "Daň z objednávky "
+
+#~ msgid "Tracking your order"
+#~ msgstr "Sledovanie objednávky"
+
+#~ msgid "You can track the status of your order"
+#~ msgstr " Môžete sledovať stav vašej objednávky"
+
+#~ msgid "View order status"
+#~ msgstr "Pozri stav objednávky"
+
+#~ msgid "Print this page"
+#~ msgstr "Vytlačiť túto stránku"
+
+#~ msgid "Are you sure you want to delete this address?"
+#~ msgstr "Ste si istý, že chcete vymazať túto adresu?"
+
+#~ msgid "Yes!"
+#~ msgstr "Áno!"
+
+#~ msgid "Save"
+#~ msgstr "Uložiť"
+
+#~ msgid "Address book"
+#~ msgstr "Adresár"
+
+#~ msgid "Deleting..."
+#~ msgstr "Mazanie..."
+
+#~ msgid "Default shipping address"
+#~ msgstr "Predvolená dodacia adresa"
+
+#~ msgid "Default billing address"
+#~ msgstr "Predvolená účtovná adresa"
+
+#~ msgid "Edit"
+#~ msgstr "Upraviť"
+
+#~ msgid "Set as default shipping address"
+#~ msgstr "Nastaviť ako predvolenú adresu doručenia"
+
+#~ msgid "Set as default billing address"
+#~ msgstr "Nastaviť ako predvolenú fakturačnú adresu"
+
+#~ msgid "There are no addresses in your address book."
+#~ msgstr "V adresári neméňáte žiadne adresy"
+
+#~ msgid "You do not have any active alerts for out-of-stock products."
+#~ msgstr "Nemáte žiadne aktívne upozornenia pre nedostupné produkty"
+
+#~ msgid "Cancel"
+#~ msgstr "Zrušiť"
+
+#~ msgid ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> is back in stock\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> je opäť na sklade\n"
+
+#~ msgid "Order #%(number)s"
+#~ msgstr "Objednávka č. %(number)s"
+
+#~ msgid "Contact number"
+#~ msgstr "Kontaktné číslo"
+
+#~ msgid "Notes"
+#~ msgstr "Poznámky"
+
+#~ msgid "Estimated dispatch date"
+#~ msgstr "Odhadovaný dátum vybavenia"
+
+#~ msgid "Line price excl. tax"
+#~ msgstr "Cena riadku (bez DPH)"
+
+#~ msgid "Line price incl. tax"
+#~ msgstr "Cena riadku (s DPH)"
+
+#~ msgid "Basket total (inc. tax)"
+#~ msgstr "Košík celkom (s DPH)"
+
+#~ msgid "Email history"
+#~ msgstr "História email-ov"
+
+#~ msgid "Date sent"
+#~ msgstr "Dátum odoslania"
+
+#~ msgid "No emails found"
+#~ msgstr "žiadne e-maily sa nenašli"
+
+#~ msgid "Thanks for using our site!"
+#~ msgstr "Ďakujeme, že používate našu stránku!"
+
+#~ msgid "The %(name)s team"
+#~ msgstr "Tím %(name)s"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately "
+#~ "and correct your email address:"
+#~ msgstr ""
+#~ "Ak ste to neboli vy, kto ju zmenil, prosím neodkladne si vynulujte heslo "
+#~ "a\n"
+#~ "opravte vašu emailovú adresu:"
+
+#~ msgid ""
+#~ "If it was you who changed the email address, you can ignore this email."
+#~ msgstr ""
+#~ "Ak ste to boli vy, kto emailovú adresu zmenil, tak môžete tento email "
+#~ "ignorovať."
+
+#~ msgid ""
+#~ "You're receiving this email because your email address has been changed "
+#~ "to %(email)s."
+#~ msgstr ""
+#~ "Obdržali ste tento e-mail, pretože vaša e-mailová adresa bola zmenená na "
+#~ "%(email)s. "
+
+#~ msgid "Your email address has changed at %(site_name)s."
+#~ msgstr "Vaša emailová adresa na stránke %(site_name)s bola zmenená."
+
+#~ msgid "Hello,"
+#~ msgstr "Dobrý deň"
+
+#~ msgid "Your order contains:"
+#~ msgstr "Vaša objednávka obsahuje:"
+
+#~ msgid "Basket total:"
+#~ msgstr "Košík celkom:"
+
+#~ msgid "Shipping:"
+#~ msgstr "Preprava:"
+
+#~ msgid "Order Total:"
+#~ msgstr "Objednávka celkom:"
+
+#~ msgid "Shipping address:"
+#~ msgstr "Dodacia adresa:"
+
+#~ msgid ""
+#~ "You can view the status of this order by clicking <a href=\"%(status_url)s"
+#~ "\" title=\"order status\">here</a>"
+#~ msgstr ""
+#~ "Stav tejto objednávky si môžete pozrieť kliknutím <a href=\"%(status_url)s"
+#~ "\" title=\"stav objednávky\">tu</a>"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "We are pleased to confirm your order %(order_number)s has been received "
+#~ "and\n"
+#~ "will be processed shortly."
+#~ msgstr ""
+#~ "Dobrý deň,\n"
+#~ "\n"
+#~ "s potešením potvrdzujeme, že Vaša objednávka %(order_number)s bola "
+#~ "prijatá\n"
+#~ "a bude čoskoro spracovaná."
+
+#~ msgid "quantity:"
+#~ msgstr "množstvo:"
+
+#~ msgid "price:"
+#~ msgstr "cena:"
+
+#~ msgid ""
+#~ "You can view the status of this order at the below URL:\n"
+#~ "%(status_url)s"
+#~ msgstr ""
+#~ "Stav tejto objednávky si môžete pozrieť na URL adrese nižšie:\n"
+#~ "%(status_url)s\""
+
+#~ msgid "The team"
+#~ msgstr "Tím"
+
+#~ msgid "Confirmation of order %(number)s"
+#~ msgstr "Potvrdenie objednávky %(number)s"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately:"
+#~ msgstr ""
+#~ "Ak ste to neboli vy, kto ho zmenil, tak si prosím neodkladne vaše heslo "
+#~ "vynulujte:"
+
+#~ msgid "Otherwise, you can ignore this email."
+#~ msgstr "V opačnom prípade môžete tento email ignorovať."
+
+#~ msgid ""
+#~ "\n"
+#~ "You're receiving this email because your password has been changed at "
+#~ "%(name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Tento email ste dostali preto, lebo vaše heslo na %(name)s bolo zmenené.\n"
+
+#~ msgid "Your password changed at %(site_name)s."
+#~ msgstr "Vaše heslo na stránke %(site_name)s bolo zmenené."
+
+#~ msgid ""
+#~ "You're receiving this e-mail because you requested a password reset for "
+#~ "your user account at %(name)s."
+#~ msgstr ""
+#~ "Tento email ste dostali pretože ste požiadali o vynulovanie hesla pre "
+#~ "váš\n"
+#~ "používateľský účet na %(name)s."
+
+#~ msgid "Please go to the following page and choose a new password:"
+#~ msgstr "Chďte prosím na nasledovnú stránku a vyberte si nové heslo:"
+
+#~ msgid "Resetting your password at %(site_name)s."
+#~ msgstr "Vynulovanie Vášho hesla na %(site_name)s."
+
+#~ msgid "Dear %(name)s,"
+#~ msgstr "%(name)s,"
+
+#~ msgid ""
+#~ "\n"
+#~ "Beware that the amount of items in stock is limited. Be quick or someone "
+#~ "might get there first.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Majte na pamäti, že počet položiek na sklade je obmedzený.  Buďte rýchly, "
+#~ "lebo Vás môže niekto predbehnúť.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "With this email we have disabled your alert automatically and you will "
+#~ "not\n"
+#~ "receive any further email regarding this product.\n"
+#~ "\n"
+#~ "Thanks for your interest,\n"
+#~ "The %(site_name)s Team\n"
+#~ msgstr ""
+#~ "\n"
+#~ "S týmto emailom sme zároveň automaticky deaktovovali vaše upozornenie a "
+#~ "ďalšie\n"
+#~ "email-y ohľadom tohto produktu už nebudete dostávať.\n"
+#~ "\n"
+#~ "Ďakujeme za Váš záujem,\n"
+#~ "Tím %(site_name)s\n"
+
+#~ msgid "Confirmation required for stock alert"
+#~ msgstr "Upozornenie na stav zásob vyžaduje potvrdenie"
+
+#~ msgid "Thank you for registering."
+#~ msgstr "Ďakujeme Vám za registráciu."
+
+#~ msgid "Products you recently viewed"
+#~ msgstr "Produkty, ktoré ste nedávno videl"
+
+#~ msgid "Log In"
+#~ msgstr "Prihlásiť sa"
+
+#~ msgid "I've forgotten my password"
+#~ msgstr "Zabudol som svoje heslo"
+
+#~ msgid "Logging in..."
+#~ msgstr "prihlasovanie do..."
+
+#~ msgid "Register"
+#~ msgstr "Zaregistrovať"
+
+#~ msgid "Registering..."
+#~ msgstr "Registrujem..."
+
+#~ msgid "Notifications inbox"
+#~ msgstr "Schránka pre oznámenia"
+
+#~ msgid "Sender"
+#~ msgstr "Zasielateľ"
+
+#~ msgid "Return to notifications inbox"
+#~ msgstr "Návrat do doručenej pošty"
+
+#~ msgctxt "noun"
+#~ msgid "Archive"
+#~ msgstr "archivovať"
+
+#~ msgid "View"
+#~ msgstr "Zobraziť"
+
+#~ msgctxt "verb"
+#~ msgid "Archive"
+#~ msgstr "archív"
+
+#~ msgid "With selected items:"
+#~ msgstr "S vybranými položkami:"
+
+#~ msgid "Archiving..."
+#~ msgstr "Archivácia..."
+
+#~ msgid "There are no notifications to display."
+#~ msgstr "Nie sú žiadne oznámenia pre zobrazenie."
+
+#~ msgid "Order history"
+#~ msgstr "História objednávok"
+
+#~ msgid "Dispatch date"
+#~ msgstr "Dátum vybavenia"
+
+#~ msgid "Re-ordering..."
+#~ msgstr "Znovu objednávanie..."
+
+#~ msgid "Re-order"
+#~ msgstr "Objednať znovu"
+
+#~ msgid "Not available anymore"
+#~ msgstr "Nebude už viac dostupný"
+
+#~ msgid "Basket total (excl. discounts)"
+#~ msgstr "Košík celkom (bez zliav)"
+
+#~ msgid "Basket total (inc. discounts)"
+#~ msgstr "Košík celkom (so zľavami)"
+
+#~ msgid "Shipping total (excl. discounts)"
+#~ msgstr "Preprava celkom (bez zliav)"
+
+#~ msgid "Shipping total (inc. discounts)"
+#~ msgstr "Preprava celkom (so zľavami)"
+
+#~ msgid "Shipping total"
+#~ msgstr "Preprava celkom"
+
+#~ msgid "Re-order all items"
+#~ msgstr "Znovu objednať všetky položky"
+
+#~ msgid "Contact Number"
+#~ msgstr "Kontaktné číslo"
+
+#~ msgid "Shipping Notes"
+#~ msgstr "Poznámy k doručeniu"
+
+#~ msgid "Filtering..."
+#~ msgstr "Filtrácia..."
+
+#~ msgid "Filter results"
+#~ msgstr "Filtrovať výsledky"
+
+#~ msgid "Reset"
+#~ msgstr "Vynulovať"
+
+#~ msgid "Total inc tax"
+#~ msgstr "Celkom (s DPH)"
+
+#~ msgid "No orders match your search."
+#~ msgstr "Žiadne objednávky nevyhovujú Vášmu vyhľadávaniu."
+
+#~ msgid "You haven't placed any orders."
+#~ msgstr "Ešte ste nepodali žiadne objednávky."
+
+#~ msgid "Change password"
+#~ msgstr "Zmeniť heslo"
+
+#~ msgid "Edit profile"
+#~ msgstr "Upraviť profil"
+
+#~ msgid "Please confirm your password to delete your profile."
+#~ msgstr "Prosím potvrďte heslom ak chcete zmazať váš profil."
+
+#~ msgid "Warning"
+#~ msgstr "Upozornenie"
+
+#~ msgid ""
+#~ "\n"
+#~ "                This will delete all information about you from the "
+#~ "site.  Deleting your profile cannot be\n"
+#~ "                undone.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Tu vymažete všetky informácie o Vás z webu. Zmazanie Vášho profilu "
+#~ "nemožno vrátiť\n"
+#~ "späť.\n"
+#~ "\n"
+#~ "            "
+
+#~ msgid "Delete?"
+#~ msgstr "Vymazať?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Ste si istý, že chcete vymazať tento  %(name)s? názov? "
+
+#~ msgid "Remove product"
+#~ msgstr "Odstrániť produkt"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(product_name)s from "
+#~ "wish list %(wishlist_name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Ste si istí, že chcete vymazať %(product_name)s zo zoznamu želaní "
+#~ "%(wishlist_name)s?"
+
+#~ msgid "Action"
+#~ msgstr "Akcia"
+
+#~ msgid "View product"
+#~ msgstr "Náhľad produktu"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                            Move to "
+#~ "'%(name)s' wish list\n"
+#~ "                                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "presunúť do '%(name)s' zoznamu"
+
+#~ msgid "Update quantities"
+#~ msgstr "aktualizovať množstvá"
+
+#~ msgid "Your wish list is empty."
+#~ msgstr "Váš požiadavkový list je prázdny."
+
+#~ msgid "Create"
+#~ msgstr "Vytvoriť"
+
+#~ msgid "What should your new wish list be called?"
+#~ msgstr "Ako by sa váš nový zoznam mal volať? "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    After your wishlist is created, <strong>%(title)s</"
+#~ "strong> will be added.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Až po  vytvorený vášho zoznamu, <strong>%(title)s</strong> bude pridaný."
+
+#~ msgid "Number of products"
+#~ msgstr "Počet produktov"
+
+#~ msgid "Wish list settings"
+#~ msgstr "nastavenia zoznamu"
+
+#~ msgid "You don't have any wish lists yet."
+#~ msgstr "Nemáte žiadne zoznamy."
+
+#~ msgid "Sections"
+#~ msgstr "Sekcie"
+
+#~ msgid "Delete category?"
+#~ msgstr "Vymazať kategóriu?"
+
+#~ msgid "Delete category"
+#~ msgstr "Vymazať kategóriu"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <p>Delete category <strong>%(name)s</strong> - are you sure?</"
+#~ "p>\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Vymazať kategóriu <strong>%(name)s</strong> - ste si istí?</p>"
+
+#~ msgid "Create new category"
+#~ msgstr "Vytvoriť novú kategóriu"
+
+#~ msgid "You are editing:"
+#~ msgstr "Upravujete:"
+
+#~ msgid "There are no categories."
+#~ msgstr "Žiadne kategórie"
+
+#~ msgid "Edit category"
+#~ msgstr "Upraviť kategóriu"
+
+#~ msgid "Add child category"
+#~ msgstr "podriadená kategória"
+
+#~ msgid "Edit children"
+#~ msgstr "Upraviť potomkov"
+
+#~ msgid "View on site"
+#~ msgstr "Zobraziť na stránke"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Vytvorený variant produktu '%(name)s'."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Vytvorený vyriant '%(parent_name)s'."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Aktualizovaný variant produktu '%(name)s'."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated a variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Aktualizovaný variant '%(parent_name)s'."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Created product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Vytvorený produkt '%(name)s'."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Updated product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Aktualizovaný produkt '%(name)s'."
+
+#~ msgid "Edit again"
+#~ msgstr "Znovu upraviť"
+
+#~ msgid "View it on the site"
+#~ msgstr "Zobraziť to na stránke"
+
+#~ msgid "Delete product type?"
+#~ msgstr "Vymazať druh výrobku?"
+
+#~ msgid ""
+#~ "Please make sure all products are assigned to another type before "
+#~ "deletion."
+#~ msgstr ""
+#~ "Prosím, uistite sa, že všetky výrobky sú pred zmazaním zaradené do iného "
+#~ "typu."
+
+#~ msgid "Delete product type"
+#~ msgstr "vymazať druh výrobku"
+
+#~ msgid "Delete product type <strong>%(name)s</strong> - are you sure?"
+#~ msgstr "Vymazať druh výrobku <strong>%(name)s</strong>  - ste si istí?"
+
+#~ msgid "Create product type"
+#~ msgstr "vytvoriť druh výrobku"
+
+#~ msgid "Product Class details"
+#~ msgstr "Detail triedy produktu"
+
+#~ msgid "Create new product type"
+#~ msgstr "vytvoriť nový druh výrobku"
+
+#~ msgid "Product types"
+#~ msgstr "Druhy produktov"
+
+#~ msgid "Requires shipping"
+#~ msgstr "vyžaduje sa doprava"
+
+#~ msgid "Track stock?"
+#~ msgstr "Monitorovať vozidlo?"
+
+#~ msgid "Edit product type"
+#~ msgstr "upraviť druh výrobku"
+
+#~ msgid "There are no product types."
+#~ msgstr "Nie sú žiadne druhy výrobkov."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product <strong>%(title)s</strong> - are you "
+#~ "sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Vymazať výrobok <strong>%(title)s</strong> - ste si istí?</p>"
+
+#~ msgid "This will also delete the following child products:"
+#~ msgstr "Týmto zmažete aj nasledujúce podradené produkty:"
+
+#~ msgid "Create new product"
+#~ msgstr "Vytvoriť nový produkt"
+
+#~ msgid "New Product"
+#~ msgstr "Nový produkt"
+
+#~ msgid "Search Products"
+#~ msgstr "Hľadať produkty"
+
+#~ msgid "Searching..."
+#~ msgstr "Hľadanie..."
+
+#~ msgid ""
+#~ "\n"
+#~ "                            You are currently editing a product variant "
+#~ "of\n"
+#~ "                            <a href=\"%(parent_url)s\">%(title)s</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Práve upravujete variant produktu\n"
+#~ "<a href=\"%(parent_url)s\">%(title)s</a>."
+
+#~ msgid "Product details"
+#~ msgstr "Detaily produktu"
+
+#~ msgid "Images"
+#~ msgstr "Obrázky"
+
+#~ msgid "Stock and pricing"
+#~ msgstr "Sklad a cena"
+
+#~ msgid "Upselling"
+#~ msgstr "Nadpredaj"
+
+#~ msgid "Product Type:"
+#~ msgstr "druh výrobku:"
+
+#~ msgid "Upload, change or remove images"
+#~ msgstr "Nahratie, zmena alebo odstránenie obrázkov"
+
+#~ msgid "SKU"
+#~ msgstr "SKU"
+
+#~ msgid "Num in stock"
+#~ msgstr "množstvo na sklade"
+
+#~ msgid "Num allocated"
+#~ msgstr "pridelené množstvo"
+
+#~ msgid "Low stock threshold"
+#~ msgstr "Spodná hranica zásob"
+
+#~ msgid "Cost price"
+#~ msgstr "veľkoobchodná cena"
+
+#~ msgid "Price (excl tax)"
+#~ msgstr "cena (bez DPH)"
+
+#~ msgid "Retail price"
+#~ msgstr "maloobchodná cena"
+
+#~ msgid "Add variant"
+#~ msgstr "Pridať variant"
+
+#~ msgid "This product does not have any variants."
+#~ msgstr "Tento produkt nemá žiadne varianty"
+
+#~ msgid "One can't add variants to this product at this point."
+#~ msgstr "Teraz nie je možné pridať variant k tomuto produktu."
+
+#~ msgid "This is likely because this product still has stock records."
+#~ msgstr "Je to pravdepodobné pretože tento produkt má stále záznam skladu."
+
+#~ msgid "Save and add another variant"
+#~ msgstr "Ulož a pridaj ďalší variant"
+
+#~ msgid "Save and continue editing"
+#~ msgstr "Uložiť a pokračovať v úprave"
+
+#~ msgid "All"
+#~ msgstr "Všetky"
+
+#~ msgid "Current available stock"
+#~ msgstr "Momentálne dostupné zásoby"
+
+#~ msgid "Date alert raised"
+#~ msgstr "Dátum vydania upozornenia"
+
+#~ msgid "No stock alerts found."
+#~ msgstr "Neboli nájdené žiadne upozornenia na stav zásob."
+
+#~ msgid "Preview"
+#~ msgstr "Recenzia"
+
+#~ msgid "Edit email"
+#~ msgstr "Upraviť e-mail"
+
+#~ msgid "Email content"
+#~ msgstr "Obsah email-u"
+
+#~ msgid "These fields are rendered using Django's template system."
+#~ msgstr "Tieto polia sú interpretované šablónovým systémom Django-a"
+
+#~ msgid "You can use the following variables:"
+#~ msgstr "Možete použiť nasledovné premenné:"
+
+#~ msgid "The full name of the user (if they have one)"
+#~ msgstr "Celé meno používateľa (ak ho má vyplnené)"
+
+#~ msgid "The user's email address"
+#~ msgstr "Email-ová adresa používateľa"
+
+#~ msgid "The name of the site (eg example.com)"
+#~ msgstr "Meno webu (napr. example.com)"
+
+#~ msgid "View a preview of this email using order:"
+#~ msgstr "Zobraziť náhľad tohto email-u s objednávkou:"
+
+#~ msgid "View preview"
+#~ msgstr "Zobraziť náhľad"
+
+#~ msgid "or send a preview to:"
+#~ msgstr "alebo poslať náhľad na:"
+
+#~ msgid "Sending..."
+#~ msgstr "Odosielanie..."
+
+#~ msgid "Send preview email"
+#~ msgstr "Poslať náhľad emailu"
+
+#~ msgid "Body text"
+#~ msgstr "Textové telo"
+
+#~ msgid "There are no defined emails to edit."
+#~ msgstr "Nie sú nadefinované žiadne emaily na úpravu"
+
+#~ msgid "Your Store Statistics"
+#~ msgstr "Štatistiky obchodu"
+
+#~ msgid "Total Orders"
+#~ msgstr "Objednávok celkom"
+
+#~ msgid "New Customers"
+#~ msgstr "Nových zákazníkov"
+
+#~ msgid "Total Customers"
+#~ msgstr "Zákazníkov celkom"
+
+#~ msgid "Total Products"
+#~ msgstr "Produktov celkom"
+
+#~ msgid "Latest Orders (last 24 hours)"
+#~ msgstr "Najnovšie objednávky (posledných 24 hodín)"
+
+#~ msgid "Orders - Last 24 Hours"
+#~ msgstr "Objednávky - posledných 24 hodín"
+
+#~ msgid "Total orders"
+#~ msgstr "Objednávky celkom"
+
+#~ msgid "Total lines"
+#~ msgstr "Riadky celkom"
+
+#~ msgid "Total revenue"
+#~ msgstr "Tržba celkom"
+
+#~ msgid "Average order costs"
+#~ msgstr "Priemerná útrata za objednávku"
+
+#~ msgid "Manage"
+#~ msgstr "Spravovať"
+
+#~ msgid "Orders - All Time"
+#~ msgstr "Objednávky - celkové obdobie"
+
+#~ msgid "Total <em>open</em> baskets"
+#~ msgstr "Spolu <em> košík </em>"
+
+#~ msgid "Total customers"
+#~ msgstr "Zákazníkov celkom"
+
+#~ msgid "New customers"
+#~ msgstr "Noví zákazníci"
+
+#~ msgid "View Stock Alerts"
+#~ msgstr "Pozrieť upozornenia na stav zásob"
+
+#~ msgid "Catalogue and stock"
+#~ msgstr "Katalóg a zásoby"
+
+#~ msgid "Total products"
+#~ msgstr "Produkty celkom"
+
+#~ msgid "<em>Open</em> stock alerts"
+#~ msgstr "<em> Otvorené </em> stavy zásob"
+
+#~ msgid "<em>Closed</em> stock alerts"
+#~ msgstr "<em> Uzavreté </em>  stavy zásob"
+
+#~ msgid "Offers, vouchers and promotions"
+#~ msgstr "Ponuky, kupóny a propagácie"
+
+#~ msgid "Active <em>Site</em> Offers"
+#~ msgstr "Aktívne  <em> miesto </em> objednávok"
+
+#~ msgid "Active <em>Vouchers</em>"
+#~ msgstr "Aktívne <em> kupóny </em>"
+
+#~ msgid "Welcome"
+#~ msgstr "Vitajte"
+
+#~ msgid "Return to site"
+#~ msgstr "Návrat na stránku"
+
+#~ msgid "Log out"
+#~ msgstr "Odhlásiť"
+
+#~ msgid "Build a new incentive"
+#~ msgstr "vytvoriť nový motív"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Ranges can be created and edited from within the <a href="
+#~ "\"%(range_list_url)s\">range dashboard</a>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "Rozsahy môžu byť vytvorené a upravovateľné zvnútra <a href="
+#~ "\"%(range_list_url)s\">panela rozsahov</a>."
+
+#~ msgid "...or choose a pre-defined one"
+#~ msgstr "... alebo si vybrať vopred definovaný jeden"
+
+#~ msgid "Continue to step 3"
+#~ msgstr "Pokračujte krokom 3"
+
+#~ msgid "Build a new condition"
+#~ msgstr "Vytvoriť novú podmienku"
+
+#~ msgid "Continue to step 4"
+#~ msgstr "Pokračujte krokom 4"
+
+#~ msgid "Continue to step 2"
+#~ msgstr "Pokračujte krokom 2"
+
+#~ msgid "Delete offer"
+#~ msgstr "Vymazať ponuku"
+
+#~ msgid "Are you sure you want to delete this offer?"
+#~ msgstr "Ste si istý,že chcete vymazať túto ponuku? "
+
+#~ msgid ""
+#~ "\n"
+#~ "        %(name)s | Offers\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "%(name)s | Ponuky"
+
+#~ msgid "Reinstating..."
+#~ msgstr "Reinštalácia..."
+
+#~ msgid "Reinstate offer"
+#~ msgstr "obnoviť ponuku"
+
+#~ msgid "Suspending..."
+#~ msgstr "Pozastavenie..."
+
+#~ msgid "Suspend offer"
+#~ msgstr "Zastaviť ponuku"
+
+#~ msgid "Offer currently available"
+#~ msgstr "Ponuka je práve pridaná"
+
+#~ msgid "Offer not available due to restrictions!"
+#~ msgstr "Ponuka nie je dostupná kvôli obmedzeniu!"
+
+#~ msgid "Total cost:"
+#~ msgstr "celkové náklady"
+
+#~ msgid "Number of orders:"
+#~ msgstr "Počet objednávok"
+
+#~ msgid "Number of uses:"
+#~ msgstr "Počet použitia:"
+
+#~ msgid "Date created:"
+#~ msgstr "Dátum vytvorenia"
+
+#~ msgid "Offer details"
+#~ msgstr "Detaily ponuky"
+
+#~ msgid "Export to CSV"
+#~ msgstr "Export do CSV"
+
+#~ msgid "Orders that used this offer"
+#~ msgstr "objednávky, ktoré využili túto ponuku"
+
+#~ msgid "Create new offer"
+#~ msgstr "Vytvoriť novú ponuku"
+
+#~ msgid "Is available?"
+#~ msgstr "je dostupný?"
+
+#~ msgid "Uses"
+#~ msgstr "Používa"
+
+#~ msgid "Browse"
+#~ msgstr "Prechádzať"
+
+#~ msgid "Stats"
+#~ msgstr "Štatistiky"
+
+#~ msgid "No offers found."
+#~ msgstr "Neboli nájdené žiadne ponuky."
+
+#~ msgid "Steps"
+#~ msgstr "Kroky"
+
+#~ msgid "1. Name and description"
+#~ msgstr "1. Meno a popis"
+
+#~ msgid "2. Incentive"
+#~ msgstr "2. Motív"
+
+#~ msgid "3. Condition"
+#~ msgstr "3. Podmienka"
+
+#~ msgid "4. Restrictions"
+#~ msgstr "4. Obmedzenie"
+
+#~ msgid "Save this offer"
+#~ msgstr "Uložiť tuto ponuku"
+
+#~ msgid "Fields marked with * are mandatory."
+#~ msgstr "polia označené hviezdičkou sú povinné"
+
+#~ msgid "Save changes"
+#~ msgstr "Uložiť zmeny"
+
+#~ msgid "Offer summary"
+#~ msgstr "zhrnutie ponuky"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s - Line #%(id)s\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Poradie %(number)s - Línia #%(id)s"
+
+#~ msgid "Line #%(id)s"
+#~ msgstr "Riadok č. %(id)s"
+
+#~ msgid "Order #%(number)s - Line #%(id)s"
+#~ msgstr "Objednávka č. %(number)s - riadok č. %(id)s"
+
+#~ msgid "Product Options"
+#~ msgstr "Možnosti produktu"
+
+#~ msgid "Partner details"
+#~ msgstr "Detaily obch. partnera"
+
+#~ msgid "Shipping details"
+#~ msgstr "Detaily prepravy"
+
+#~ msgid "Partner reference number"
+#~ msgstr "Referenčné číslo obch. partnera"
+
+#~ msgid "Partner notes"
+#~ msgstr "Poznámky k obch. partnerovi"
+
+#~ msgid "Estimate dispatch date"
+#~ msgstr "Odhadnúť dátum vybavenia"
+
+#~ msgid "Shipping status"
+#~ msgstr "Detaily prepravy"
+
+#~ msgid "State"
+#~ msgstr "Štát"
+
+#~ msgid "No shipping events have occurred."
+#~ msgstr "Žiadne prepravné udalosti neboli uskutočnené."
+
+#~ msgid "Shipping events"
+#~ msgstr "Udalosti doručenia"
+
+#~ msgid "Payment events"
+#~ msgstr "Platobné udalosti"
+
+#~ msgid "No payment events have occurred."
+#~ msgstr "Žiadne platobné udalosti neboli uskutočnené."
+
+#~ msgid "Order %(number)s"
+#~ msgstr "Objednávka %(number)s"
+
+#~ msgid "Customer Information"
+#~ msgstr "Informácie o zákazníkovi"
+
+#~ msgid "Customer checked out as a guest."
+#~ msgstr "Zákazník nakúpil bez registrácie."
+
+#~ msgid "Customer has deleted their account."
+#~ msgstr "Zákazník odstránil účet."
+
+#~ msgid "Order information"
+#~ msgstr "Informácie o objednávke"
+
+#~ msgid "Order Total"
+#~ msgstr "Objednávka celkom"
+
+#~ msgid "Time of purchase"
+#~ msgstr "Čas nákupu"
+
+#~ msgid "Order Details"
+#~ msgstr "Detaily objednávky"
+
+#~ msgid "Discounts"
+#~ msgstr "Zľavy"
+
+#~ msgid "Items ordered"
+#~ msgstr "Objednané položky"
+
+#~ msgid "Line ID"
+#~ msgstr "Riadok ID"
+
+#~ msgid "Supplier"
+#~ msgstr "Dodávateľ"
+
+#~ msgid "Supplier SKU"
+#~ msgstr "SKU dodávateľa"
+
+#~ msgid "Est. dispatch date"
+#~ msgstr "Predpokladaný čas odoslania"
+
+#~ msgid "Price excl tax (before discounts)"
+#~ msgstr "Cena bez DPH (pred zľavami)"
+
+#~ msgid "Price inc tax (before discounts)"
+#~ msgstr "Cena s DPH (pred zľavami)"
+
+#~ msgid "With selected lines"
+#~ msgstr "S vybranými riadkami"
+
+#~ msgid "Change line status to"
+#~ msgstr "Zmeniť stav na"
+
+#~ msgid "choose new status"
+#~ msgstr "vyberte nový stav"
+
+#~ msgid "Create shipping event"
+#~ msgstr "Vytvor udalosť doručenia"
+
+#~ msgid "choose event type"
+#~ msgstr "vyberte typ udalosti"
+
+#~ msgid "with reference"
+#~ msgstr "s referenciou"
+
+#~ msgid "Create payment event"
+#~ msgstr "Vytvor platobnú udalosť"
+
+#~ msgid "with amount"
+#~ msgstr "s čiastkou"
+
+#~ msgid "Go!"
+#~ msgstr "Vykonať!"
+
+#~ msgid "Change order status"
+#~ msgstr "Zmeniť stav objednávky"
+
+#~ msgid "Change status"
+#~ msgstr "Zmeniť stav"
+
+#~ msgid "This order can't have its status changed."
+#~ msgstr "Táto objednávka nemôže mať zmenený stav."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                                %(title)s "
+#~ "(quantity %(event_qty)s/%(total_qty)s)\n"
+#~ "                                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "%(title)s (množstvo %(event_qty)s/%(total_qty)s)"
+
+#~ msgid "No shipping events."
+#~ msgstr "Žiadne udalosti doručenia."
+
+#~ msgid "Product:"
+#~ msgstr "Produkt:"
+
+#~ msgid "quantity"
+#~ msgstr "množstvo"
+
+#~ msgid "No payment events."
+#~ msgstr "Žiadne platobné udalosti."
+
+#~ msgid "Method name"
+#~ msgstr "Meno metódy"
+
+#~ msgid "Method code"
+#~ msgstr "Kód metódy"
+
+#~ msgid "Charge (incl tax)"
+#~ msgstr "Poplatok (s DPH)"
+
+#~ msgid "Charge (excl tax)"
+#~ msgstr "Poplatok (bez DPH)"
+
+#~ msgid "Payment sources"
+#~ msgstr "Platobné zdroje"
+
+#~ msgid "Allocation"
+#~ msgstr "Poukázanie"
+
+#~ msgid "Amount debited"
+#~ msgstr "Stiahnuté množstvo"
+
+#~ msgid "Amount refunded"
+#~ msgstr "Vrátené množstvo"
+
+#~ msgid "No payment sources found for this order."
+#~ msgstr "nedostatok zdrojov platby pre túto objednávku."
+
+#~ msgid "No discounts were applied to this order."
+#~ msgstr "Žiadne zľavy neboli uplatnené pri tejto objednávke."
+
+#~ msgid "Admin"
+#~ msgstr "Správca"
+
+#~ msgid "No notes available."
+#~ msgstr "Nie sú dostupné žiadne poznámky."
+
+#~ msgid "Save note"
+#~ msgstr "uložiť poznámku"
+
+#~ msgid "Notes are only editable for 5 minutes after being saved."
+#~ msgstr "Poznámky možno upravovať počas 5-tich minút po uložení."
+
+#~ msgid "Advanced Search"
+#~ msgstr "Rozšírené hľadanie"
+
+#~ msgid "Close"
+#~ msgstr "Zatvoriť"
+
+#~ msgid "Order Search Results"
+#~ msgstr "Výsledky hľadania objednávok"
+
+#~ msgid "All Orders"
+#~ msgstr "Všetky objednávky"
+
+#~ msgid "Download selected orders as a CSV"
+#~ msgstr "Stiahni vybrané objednávky ako CSV"
+
+#~ msgid "Deleted"
+#~ msgstr "Odstránené"
+
+#~ msgid "Changing..."
+#~ msgstr "Upravujem..."
+
+#~ msgid "No orders found."
+#~ msgstr "Neboli nájdené žiadne objednávky"
+
+#~ msgid "Print Packaging Slips"
+#~ msgstr "Vytačiť lístky na balík"
+
+#~ msgid "Mark as"
+#~ msgstr "Označiť ako"
+
+#~ msgid "Change order status to"
+#~ msgstr "Zmeniť stav objednávky na"
+
+#~ msgid "Done"
+#~ msgstr "Hotovo"
+
+#~ msgid "Edit shipping address"
+#~ msgstr "Úprava dodacej adresy"
+
+#~ msgid "Edit shipping address for order %(order.number)s"
+#~ msgstr "Úprava dodacej adresy pre objednávku %(order.number)s"
+
+#~ msgid "Update address"
+#~ msgstr "Zaktualizuj adresu"
+
+#~ msgid "Order statistics"
+#~ msgstr "Štatistika objednávok"
+
+#~ msgid "Filter result"
+#~ msgstr "Filtrovať výsledky"
+
+#~ msgid "Summary"
+#~ msgstr "Súhrn"
+
+#~ msgid "Order status breakdown"
+#~ msgstr "Rozpis stavov objednávok"
+
+#~ msgid "Delete page '%(title)s'?"
+#~ msgstr "Vymazať stránku '%(title)s'"
+
+#~ msgid "Delete page"
+#~ msgstr "Vymazať stránku"
+
+#~ msgid "Delete page <strong>%(title)s</strong> - are you sure?"
+#~ msgstr "Vymazať stránku <strong>%(title)s</strong> - ste si istý?"
+
+#~ msgid "Create new page"
+#~ msgstr "Vytvoriť novú stránku"
+
+#~ msgid "No pages found."
+#~ msgstr "Neboli nájdené žiadne stránky."
+
+#~ msgid ""
+#~ "\n"
+#~ "        Page <strong>%(title)s</strong> saved!\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Stranka <strong>%(title)s</strong> uložená!"
+
+#~ msgid "Oops! We found some errors"
+#~ msgstr "Nájdené chyby"
+
+#~ msgid "please check the error messages below and try again"
+#~ msgstr "Skontrolujte chybné správy nižšie a skúste to znova"
+
+#~ msgid "previous"
+#~ msgstr "predchádzajúci"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Page %(page_num)s of %(total_pages)s\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Strana  %(page_num)s  z %(total_pages)s celkových strán"
+
+#~ msgid "next"
+#~ msgstr "ďalší"
+
+#~ msgid ""
+#~ "\n"
+#~ "User %(user_name)s was unlinked from %(partner_name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Užívateľ %(user_name)s  bol odpojený od %(partner_name)s.\n"
+
+#~ msgid "Undo"
+#~ msgstr "vrátiť do pôvodného stavu"
+
+#~ msgid "Delete partner"
+#~ msgstr "Zrušiť partnerstvo"
+
+#~ msgid "Are you sure you want to delete this partner?"
+#~ msgstr "Ste si istý, že chcete vymazať tohto partnera? "
+
+#~ msgid "Edit the user's details"
+#~ msgstr "Upraviť používateľské údaje"
+
+#~ msgid "No users associated."
+#~ msgstr "Žiadny pripojení užívatelia."
+
+#~ msgid "No address associated."
+#~ msgstr "žiadna adresa sa nenašla"
+
+#~ msgid "Manage partner and users"
+#~ msgstr "spravujúci partner a užívatelia"
+
+#~ msgid "Link an existing user"
+#~ msgstr "Pripojiť sa k existujúcemu užívateľovi."
+
+#~ msgid "Link a new user"
+#~ msgstr "spojiť sa s novým užívateľom"
+
+#~ msgid "No partners found."
+#~ msgstr "Neboli nájdení žiadny partneri."
+
+#~ msgid "Unlinking..."
+#~ msgstr "Odpájanie..."
+
+#~ msgid "Unlink user"
+#~ msgstr "Odpojiť užívateľa"
+
+#~ msgid "No users linked."
+#~ msgstr "Žiadny pripojení užívatelia."
+
+#~ msgid "Link a user"
+#~ msgstr "spojiť sa s užívateľom"
+
+#~ msgid "Manage users"
+#~ msgstr "spravujúci užívatelia"
+
+#~ msgid "Update details"
+#~ msgstr "Aktualizovať detaily"
+
+#~ msgid ""
+#~ "A partial email address can be entered (eg '@example.com') to match "
+#~ "multiple addresses."
+#~ msgstr ""
+#~ "Čiastočná e-mailová adresa môže byť zapísaná (napr @example.com) k  "
+#~ "viacerým zodpovedajúcim adresám."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                User is already linked to "
+#~ "%(name)s.\n"
+#~ "                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "Používateľ je už pripojený %(name)s."
+
+#~ msgid "Linking..."
+#~ msgstr "Spájanie..."
+
+#~ msgid "Link user"
+#~ msgstr "pripojiť užívateľa"
+
+#~ msgid "No users found."
+#~ msgstr "Neboli nájdení žiadni užívatelia."
+
+#~ msgid "Delete content block '%(name)s'?\""
+#~ msgstr "Vymazať obsahový blok '%(name)s'?"
+
+#~ msgid "Delete content block"
+#~ msgstr "odstrániť obsah bloku"
+
+#~ msgid ""
+#~ "Delete %(object.type)s content block <strong>%(object.name)s</strong> - "
+#~ "are you sure?"
+#~ msgstr ""
+#~ "Vymazať %(object.type)s obsahový blok <strong>%(object.name)s</strong> - "
+#~ "ste si istý?"
+
+#~ msgid "Remove promotion from page?"
+#~ msgstr "Odstrániť propagáciu zo stránky?"
+
+#~ msgid "Remove promotion"
+#~ msgstr "odstrániť propagáciu"
+
+#~ msgid ""
+#~ "Remove %(object.content_object.type)s content block <strong>%(object."
+#~ "name)s</strong> from page <strong>%(object.page_url)s</strong> - are you "
+#~ "sure?"
+#~ msgstr ""
+#~ "Odstrániť %(object.content_object.type)s obsahový blok <strong>%(object."
+#~ "name)s</strong> zo stránky\n"
+#~ "<strong>%(object.page_url)s</strong> - ste si istý?"
+
+#~ msgid "Content block"
+#~ msgstr "Obsahový blok"
+
+#~ msgid "Pages displaying this content blocks"
+#~ msgstr "Stránky zobrazujúce tento obsah blokuje"
+
+#~ msgid "Position on page"
+#~ msgstr "Pozícia na stránke"
+
+#~ msgid "View all blocks on this page"
+#~ msgstr "Zobraz všetky bloky na tejto stránke"
+
+#~ msgid "Remove from page"
+#~ msgstr "Odstráň zo stránky"
+
+#~ msgid "This promotion is not displayed anywhere at the moment."
+#~ msgstr "Propagácia nie je momentálne nikde zobrazená."
+
+#~ msgid "Add to a page"
+#~ msgstr "Pridať na stránku"
+
+#~ msgid "Add to page"
+#~ msgstr "Pridať na stránku"
+
+#~ msgid "Content blocks for page %(page_url)s"
+#~ msgstr "Obsahové bloky pre stránku %(page_url)s"
+
+#~ msgid "Content blocks on page '%(page_url)s'"
+#~ msgstr "Obsahové bloky na stránke '%(page_url)s'"
+
+#~ msgid "Edit promotions in position '%(name)s'"
+#~ msgstr "Upraviť propagácie na pozícii '%(name)s'"
+
+#~ msgid "Promotion Name"
+#~ msgstr "Meno propagácie"
+
+#~ msgid "Change display order"
+#~ msgstr "Zmeniť zobrazené poradie"
+
+#~ msgid "No promotions in this position."
+#~ msgstr "Na tejto pozícií nie sú žiadne propagácie."
+
+#~ msgid "Pages with content blocks"
+#~ msgstr "Stránky s obsahovými blokmi"
+
+#~ msgid "View by page"
+#~ msgstr "Zobrazenie podľa stránok"
+
+#~ msgid "View all content blocks"
+#~ msgstr "Zobraziť všetky obsahové bloky"
+
+#~ msgid "View content blocks by page"
+#~ msgstr "Zobraziť obsahové bloky podľa stránok"
+
+#~ msgid "Pages with content blocks on them"
+#~ msgstr "Stránky, na ktorých je obsahový blok"
+
+#~ msgid "Number of content blocks"
+#~ msgstr "Počet obsahových blokov"
+
+#~ msgid "No content blocks found."
+#~ msgstr "Neboli nájdené žiadne obsahové bloky"
+
+#~ msgid "Create a new content block"
+#~ msgstr "Vytvorenie nového obsahového bloku"
+
+#~ msgid "Creating..."
+#~ msgstr "Vytváranie..."
+
+#~ msgid "Create block"
+#~ msgstr "Vytvoriť blok"
+
+#~ msgid "Number of times used"
+#~ msgstr "Počet použití"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>File <strong>%(filename)s</strong> processed.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Súbor <strong>%(filename)s</strong> spracovaný.</p>\n"
+
+#~ msgid "Edit range metadata"
+#~ msgstr "Upraviť metadáta výberu"
+
+#~ msgid "Return to ranges homepage"
+#~ msgstr "Vrátiť sa na domovskú stránku výberov"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>Range <strong>%(name)s</strong> saved.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Výber <strong>%(name)s</strong> uložený.</p>\n"
+
+#~ msgid "Edit included products"
+#~ msgstr "Editovať zahrnuté produkty"
+
+#~ msgid "Delete range '%(name)s'?"
+#~ msgstr "Vymazať výber '%(name)s'?"
+
+#~ msgid "Are you sure you want to delete this range?"
+#~ msgstr "Naozaj chcete odstrániť tento rozsah?"
+
+#~ msgid "Create new range"
+#~ msgstr "Vytvoriť nový výber"
+
+#~ msgid "Save and edit products"
+#~ msgstr "Uložiť a upraviť produkty"
+
+#~ msgid "Num products"
+#~ msgstr "Poč. produktov"
+
+#~ msgid "Edit products"
+#~ msgstr "Upraviť produkty"
+
+#~ msgid "No ranges found."
+#~ msgstr "Neboli nájdené žiadne výbery."
+
+#~ msgid "Products in range '%(name)s'"
+#~ msgstr "Produkty vo výbere '%(name)s'"
+
+#~ msgid "products"
+#~ msgstr "produkty"
+
+#~ msgid ""
+#~ "This range contains all products. To add products manually, please "
+#~ "unselect the 'Includes All Products' option on the edit range page."
+#~ msgstr ""
+#~ "Tento sortiment zahŕňa všetky produkty. Pridanie produktov ručne, zrušte "
+#~ "výber všetkých produktov na strane úprava rozsahu."
+
+#~ msgid "Add products"
+#~ msgstr "Všetky produkty"
+
+#~ msgid "Running..."
+#~ msgstr "Beží..."
+
+#~ msgid "Upload history"
+#~ msgstr "Nahrať históriu"
+
+#~ msgid "Filename"
+#~ msgstr "Názov súboru"
+
+#~ msgid "New products"
+#~ msgstr "Nové produkty"
+
+#~ msgid "Duplicate products"
+#~ msgstr "Zduplikované produkty"
+
+#~ msgid "Unknown products"
+#~ msgstr "Neznáme produkty"
+
+#~ msgid "Date uploaded"
+#~ msgstr "Dátum nahratia"
+
+#~ msgid "Products in range"
+#~ msgstr "Produkty vo výbere "
+
+#~ msgid "Remove selected products"
+#~ msgstr "Odobrať vybraté produkty"
+
+#~ msgid "Is product discountable?"
+#~ msgstr "Je možné produkt zľavniť?"
+
+#~ msgid "Products in Range"
+#~ msgstr "Produkty vo výbere "
+
+#~ msgid "Edit range"
+#~ msgstr "Upraviť výber"
+
+#~ msgid "return to range list"
+#~ msgstr "vrátiť sa na zoznam výberov"
+
+#~ msgid "Reporting Dashboard"
+#~ msgstr "Panel zostáv"
+
+#~ msgid "Reporting dashboard"
+#~ msgstr "Panel zostáv"
+
+#~ msgid "Generating..."
+#~ msgstr "Generujem..."
+
+#~ msgid "Generate report"
+#~ msgstr "Vytvoriť zostavu"
+
+#~ msgid "No results found."
+#~ msgstr "Neboli nájdené žiadne výsledky."
+
+#~ msgid "No vouchers were used in this period"
+#~ msgstr "V tomto období neboli použité žiadne kupóny"
+
+#~ msgid "Delete review '%(title)s'?"
+#~ msgstr "Vymazať recenziu '%(title)s'?"
+
+#~ msgid "Delete review \"%(title)s\"?"
+#~ msgstr "Vymazať recenziu \"%(title)s\"?"
+
+#~ msgid "Review"
+#~ msgstr "Recenzia"
+
+#~ msgid "Review Search"
+#~ msgstr "Vyhľadávanie v recenziách"
+
+#~ msgid "Update status of selected reviews"
+#~ msgstr "Aktualizácia stavu vybraných recenzií"
+
+#~ msgctxt "Review title"
+#~ msgid "Title"
+#~ msgstr "Názov"
+
+#~ msgid "[Product deleted]"
+#~ msgstr "[ Produkt vymazaný ]"
+
+#~ msgid "No reviews found."
+#~ msgstr "Neboli nájdené žiadne recenzie."
+
+#~ msgid "Update review"
+#~ msgstr "Aktualizovať recenziu"
+
+#~ msgid "Review #%(review.id)s"
+#~ msgstr "Recenzia č. %(review.id)s"
+
+#~ msgid "Review information"
+#~ msgstr "Informácie o recenzii"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>A weight band has been added to the <strong>%(name)s</strong> "
+#~ "shipping method.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Hmotnostné pásmo bolo pridané <strong>%(name)s</strong> spôsobu "
+#~ "prepravy.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>Weight band deleted from the <strong>%(name)s</strong> shipping "
+#~ "method \n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Hmotnostné pásmo bolo vymazané z <strong>%(name)s</strong> metódy "
+#~ "dopravy\n"
+#~ "\n"
+
+#~ msgid "Weight band updated"
+#~ msgstr "Hmotnostné pásmo aktualizované"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>A shipping method <strong>%(name)s</strong> has been created.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Metóda dopravy <strong>%(name)s</strong> bola vytvorená</p>\n"
+#~ "\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been deleted.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p><strong>%(name)s</strong> metóda dopravy bola vymazaná</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been updated.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p><strong>%(name)s</strong> metóda dopravy bola aktualizovaná.</p>\n"
+
+#~ msgid "Delete weight band?"
+#~ msgstr "Vymazať hmotnosť?"
+
+#~ msgid "Shipping methods"
+#~ msgstr "Možnosti doručenia"
+
+#~ msgid "Weight range (kg)"
+#~ msgstr "Rozsah hmotností (kg)"
+
+#~ msgid "Are you sure you want to delete this weight band method?"
+#~ msgstr "Určite chcete vymazať hmotnostný rozsah?"
+
+#~ msgid "Edit weight band"
+#~ msgstr "Hmotnostné pásmo"
+
+#~ msgid "Delete shipping method '%(name)s'?"
+#~ msgstr "Vymazať metódu doručenia '%(name)s'?"
+
+#~ msgid "Are you sure you want to delete this shipping method?"
+#~ msgstr "Určite vymazať túto metódu doručenia?"
+
+#~ msgid "Applies to countries"
+#~ msgstr "Platí pre krajiny"
+
+#~ msgid "Default product weight (kg)"
+#~ msgstr "Predvolená hmotnosť produktu (kg)"
+
+#~ msgid "Edit shipping method"
+#~ msgstr "Upraviť doručovaciu metódu"
+
+#~ msgid "Delete shipping method"
+#~ msgstr "Vymzať doručovaciu metódu"
+
+#~ msgid "Weight bands"
+#~ msgstr "Hmotnostné pásma"
+
+#~ msgid "No weight bands have been added yet."
+#~ msgstr "Zatiaľ neboli pridané žiadne hmotnostné pásma."
+
+#~ msgid "Add a new weight band"
+#~ msgstr "Pridanie nového hmotnostného pásma"
+
+#~ msgid "Add weight band"
+#~ msgstr "Pridať hmotnostné pásmo"
+
+#~ msgid "Create a new shipping method"
+#~ msgstr "Vytvorenie novej doručovacej metódy"
+
+#~ msgid "Create new shipping charge"
+#~ msgstr "Vytvorenie nových poplatkov za doručenie"
+
+#~ msgid "Number of weight bands"
+#~ msgstr "Čislo pre hmotnostné pásmo"
+
+#~ msgid "Default weight (kg)"
+#~ msgstr "Predvolená hmotnosť (kg)"
+
+#~ msgid "No shipping methods found."
+#~ msgstr "Nebol nájdený spôsob prepravy"
+
+#~ msgid "Alert #%(id)s"
+#~ msgstr "Upozornenie č. %(id)s"
+
+#~ msgid "Delete alert #%(id)s?"
+#~ msgstr "Vymazanie upozornenia č. %(id)s?"
+
+#~ msgid "Product alert #%(id)s"
+#~ msgstr "Produktové upozornenie č. %(id)s"
+
+#~ msgid "Are you sure that you want to delete this alert?"
+#~ msgstr "Ste si istý, že chcete vymazať toto upozornenie?"
+
+#~ msgid "Search product alerts"
+#~ msgstr "Vyhľadávanie produktových upozornení"
+
+#~ msgid "reset"
+#~ msgstr "vynulovať"
+
+#~ msgid "Date alert sent"
+#~ msgstr "Dátum odoslania upozornenia"
+
+#~ msgid "(Anonymous)"
+#~ msgstr "(Anonym)"
+
+#~ msgid "No alerts found."
+#~ msgstr "Neboli nájdené žiadne upozornenia."
+
+#~ msgid "Update alert #%(id)s"
+#~ msgstr "Aktualizácia upozornenia č. %(id)s"
+
+#~ msgid "General"
+#~ msgstr "Všeobecné"
+
+#~ msgid "Yes,No"
+#~ msgstr "áno, nie"
+
+#~ msgid "Superuser"
+#~ msgstr "nadriadený užívateľ"
+
+#~ msgid "True,False"
+#~ msgstr "pravda, nepravda"
+
+#~ msgid "Staff"
+#~ msgstr "Personál"
+
+#~ msgid "Last login"
+#~ msgstr "Posledné prihlásenie"
+
+#~ msgid "Date joined"
+#~ msgstr "Dátum pridania"
+
+#~ msgid "Products viewed"
+#~ msgstr "Náhľad produktov"
+
+#~ msgid "Number of orders"
+#~ msgstr "Počet objednávok"
+
+#~ msgid "Number of ordered items"
+#~ msgstr "Počet objednaných položiek"
+
+#~ msgid "Reviews written"
+#~ msgstr "Napísané recenzie"
+
+#~ msgid "Send password reset email"
+#~ msgstr "Poslať email na vynulovanie hesla"
+
+#~ msgid "Order Number"
+#~ msgstr "Číslo objednávky"
+
+#~ msgid "Total value"
+#~ msgstr "Celková hodnota"
+
+#~ msgid "This customer has not placed any orders yet."
+#~ msgstr "Zákazník ešte nepodal žiadne objednávky."
+
+#~ msgid "This customer has not saved any addresses."
+#~ msgstr "Zákazník si neuložil žiadne adresy."
+
+#~ msgid "Product ID"
+#~ msgstr "ID produktu"
+
+#~ msgid "This customer has not written any reviews yet."
+#~ msgstr "Zákazník nenapísal žiadne recenzie."
+
+#~ msgid "No customers found."
+#~ msgstr "Neboli nájdení žiadni zákazníci."
+
+#~ msgid "Bulk Actions"
+#~ msgstr "Hromadné akcie"
+
+#~ msgid "With selected customers:"
+#~ msgstr "S vybratými zákazníkmi:"
+
+#~ msgid "Make active"
+#~ msgstr "Zmeniť na aktívnych"
+
+#~ msgid "Make inactive"
+#~ msgstr "Zmeniť na neaktívnych"
+
+#~ msgid "Delete voucher '%(name)s'?"
+#~ msgstr "Vymazať kupón '%(name)s'?"
+
+#~ msgid "Voucher details"
+#~ msgstr "Detaily kupónu"
+
+#~ msgid "Number of basket additions"
+#~ msgstr "Počet pridaní do košíka"
+
+#~ msgid "Recent orders"
+#~ msgstr "Čerstné objednávky"
+
+#~ msgid "No orders have been placed that use this voucher."
+#~ msgstr "Neboli podané žiadne objednávky, ktoré používajú tento kupón."
+
+#~ msgid "Edit voucher"
+#~ msgstr "Zmeniť kupón"
+
+#~ msgid "Create new voucher"
+#~ msgstr "Vytvoriť nový kupón"
+
+#~ msgid "Num baskets"
+#~ msgstr "Poč. košíkov"
+
+#~ msgid "Num orders"
+#~ msgstr "Poč. objednávok"
+
+#~ msgid "Inactive"
+#~ msgstr "Neaktívny"
+
+#~ msgid "No vouchers found."
+#~ msgstr "Neboli nájdené žiadne kupóny."
+
+#~ msgid "Sorry!"
+#~ msgstr "Prepáčte!"
+
+#~ msgid "Return to previous page"
+#~ msgstr "Vráť sa na predchádzajúcu stránku"
+
+#~ msgid "Go to homepage"
+#~ msgstr "Choď na domovskú stránku"
+
+#~ msgid "Edit this page"
+#~ msgstr "Upraviť túto stránku"
+
+#~ msgid "thumbnail"
+#~ msgstr "miniatúra"
+
+#~ msgid "Unrecognized image type!"
+#~ msgstr "nerozpoznané zobrazenie typu!"
+
+#~ msgid "Upload Image"
+#~ msgstr "Nahrať obrázok"
+
+#~ msgid "This page is only available to users who aren't logged in."
+#~ msgstr "Táto stránka je prístupná iba neprihláseným používateľom."
+
+#~ msgid " This offer is no longer available."
+#~ msgstr "Táto ponuka už nie je dostupná. "
+
+#~ msgid "What you need to do"
+#~ msgstr "Čo potrebujete urobiť"
+
+#~ msgid "There are no site offers at the moment."
+#~ msgstr "Nie sú nadefinované žiadne ponuky stránky."
+
+#~ msgid "Browse products in offer"
+#~ msgstr "Prehľadať produkty v ponuke"
+
+#~ msgid "See more"
+#~ msgstr "Viac"
+
+#~ msgid "Password reset complete"
+#~ msgstr "Vynulovanie hesla dokončené"
+
+#~ msgid "Password reset"
+#~ msgstr "Vynulovanie hesla"
+
+#~ msgid "Complete"
+#~ msgstr "Dokončené"
+
+#~ msgid "Your password has been set.  You may go ahead and log in now."
+#~ msgstr "Vaše heslo bolo nastavené.  Teraz sa môžete prihlásiť."
+
+#~ msgid "Log in"
+#~ msgstr "Prihlásiť"
+
+#~ msgid "Enter a new password"
+#~ msgstr "Vložte nové heslo"
+
+#~ msgid ""
+#~ "Please enter your new password twice so we can verify you typed it in "
+#~ "correctly."
+#~ msgstr ""
+#~ "Vložte prosím svoje nové heslo dva krát, aby sme mohli overiť, že ste ho "
+#~ "napísali\n"
+#~ "správne."
+
+#~ msgid "Change my password"
+#~ msgstr "Zmeniť moje heslo"
+
+#~ msgid "Password reset unsuccessful"
+#~ msgstr "Vynulovanie hesla neúspešné"
+
+#~ msgid ""
+#~ "The password reset link was invalid, possibly because it has already been "
+#~ "used.  Please request a new password reset."
+#~ msgstr ""
+#~ "Odkaz na vynulovanie hesla bol neplatný.  Pravdepodobne preto, že už "
+#~ "bol \n"
+#~ "použitý.  Vyžiadajte si prosím nové vynulovanie hesla."
+
+#~ msgid "Password reset email sent"
+#~ msgstr "Vynulovanie hesla odoslané"
+
+#~ msgid "Email sent"
+#~ msgstr "Odoslať Email"
+
+#~ msgid ""
+#~ "\n"
+#~ "        We've e-mailed you instructions for resetting your password. You "
+#~ "should be receiving it shortly.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Na email, ktorý ste zadali sme Vám poslali inštrukcie na nastavenie vášho "
+#~ "hesla.\n"
+#~ "Mali by ste ich čoskoro dostať."
+
+#~ msgid ""
+#~ "\n"
+#~ "        If you don't receive an email, please make sure you've entered "
+#~ "the address you registered with, and check\n"
+#~ "        your spam folder.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Pokiaľ ste neobdržali žiadny email, skontrolujte, či ste zadali správnu "
+#~ "adresu pri registrácií a zároveň skontrolujte zložku SPAM"
+
+#~ msgid ""
+#~ "Forgotten your password? Enter your e-mail address below, and we'll e-"
+#~ "mail instructions for setting a new one."
+#~ msgstr ""
+#~ "Zabudli ste svoje heslo?  Vložte sem svoj email a my Vám pošleme\n"
+#~ "inštrukcie na nastavenie nového."
+
+#~ msgid "Send reset email"
+#~ msgstr "Pošli email na vynulovanie"
+
+#~ msgid "Refine your search"
+#~ msgstr "spresnite svoje vyhľadávanie"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Products matching \"%(q)s\"\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Zodpovedajúce výrobky \"%(q)s\""
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Found <strong>%(num_results)s</strong> results, "
+#~ "showing <strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Nájdených <strong>%(num_results)s</strong> položiek, zobrazené od <strong>"
+#~ "%(start)s</strong> do <strong>%(end)s</strong> ."
+
+#~ msgid "Found <strong>0</strong> results."
+#~ msgstr "vyhľadať <strong>0</strong> výsledky."
+
+#~ msgid ""
+#~ "\n"
+#~ "                        Did you mean <a href=\"%(search_url)s?q="
+#~ "%(suggestion)s\">\"%(suggestion)s\"</a>?\n"
+#~ "                    "
+#~ msgstr ""
+#~ "\n"
+#~ "Mali ste na mysli <a href=\"%(search_url)s?q=%(suggestion)s\">"
+#~ "\"%(suggestion)s\"</a>?"
+
+#~ msgid "Back to search results"
+#~ msgstr "Späť k  nájdeným výsledkom."
+
+#~ msgid "You need to select some %ss"
+#~ msgstr "Musíte vybrať nejaký/ú/é %ss"

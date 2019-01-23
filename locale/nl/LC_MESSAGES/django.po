@@ -1,0 +1,6232 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# bramd <bram@bramd.nl>, 2013
+# bramd <bram@bramd.nl>, 2013
+# brecht.donckels <brecht.donckels@gmail.com>, 2013
+# brecht.donckels <brecht.donckels@gmail.com>, 2013
+# brecht.donckels <brecht.donckels@gmail.com>, 2013,2016
+# Daniel de Wit <daniel@danieldewit.nl>, 2013
+# Daniel de Wit <daniel@danieldewit.nl>, 2013
+# Erwin Sprengers <sprengee54@gmail.com>, 2013
+# Michael van Tellingen <michaelvantellingen@gmail.com>, 2013-2014
+# Michael van Tellingen <michaelvantellingen@gmail.com>, 2016
+# Michael van Tellingen <michaelvantellingen@gmail.com>, 2013
+# n.keijzers <n.keijzers@lukkien.com>, 2014
+# n.keijzers <n.keijzers@lukkien.com>, 2014
+# René Mulder <inactive+rene_ytec@transifex.com>, 2014-2015
+# René Mulder <inactive+rene_ytec@transifex.com>, 2014
+# Erwin Sprengers <sprengee54@gmail.com>, 2013
+# svanelferen <transifex@elferen.nl>, 2013
+# Tim <tim.claes@me.com>, 2015
+# svanelferen <transifex@elferen.nl>, 2013-2014
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-11 08:36+0000\n"
+"Last-Translator: Oscar Bot <maik.hoepfel@tangentsnowball.com>\n"
+"Language-Team: Dutch (http://www.transifex.com/codeinthehole/django-oscar/"
+"language/nl/)\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr "Catalogus"
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "Producten"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr "Producttypes"
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "Categorieën"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr "Reeks"
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr "Voorraad meldingen"
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr "Opties"
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr "Fulfilment"
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "Bestellingen"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr "Statistieken"
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr "Partners"
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr "Klanten"
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr "Voorraad meldingen"
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr "Aanbiedingen"
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "Vouchers"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr "Inhoud"
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr "Inhoudsblokken"
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr "Bekijk inhoudsblokken per pagina"
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr "Pagina's"
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr "E-mailsjablonen"
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr "Reviews"
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr "Rapporten"
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr "Type"
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr "Waardering"
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr "Prijsbereik"
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr "0 tot 20"
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr "20 tot 40"
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr "40 tot 60"
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr "60+"
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+#, fuzzy
+#| msgid "Catalogue"
+msgid "Catalan"
+msgstr "Catalogus"
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+#, fuzzy
+#| msgid "Permalink"
+msgid "German"
+msgstr "Permalink"
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr "Aan het versturen..."
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr "Verzend"
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr "Account"
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr "Uitloggen"
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr "Inloggen of registreren"
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "Winkelwagen"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+"\n"
+"                        Totaal: %(total)s\n"
+"                    "
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr "Rondkijken in winkel"
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "Alle producten"
+
+#~ msgid "Mr"
+#~ msgstr "Dhr."
+
+#~ msgid "Miss"
+#~ msgstr "Mw."
+
+#~ msgid "Mrs"
+#~ msgstr "Mrs"
+
+#~ msgid "Ms"
+#~ msgstr "Ms"
+
+#~ msgid "Dr"
+#~ msgstr "Dr."
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "First name"
+#~ msgstr "Voornaam"
+
+#~ msgid "Last name"
+#~ msgstr "Achternaam"
+
+#~ msgid "First line of address"
+#~ msgstr "Eerste adresregel"
+
+#~ msgid "Second line of address"
+#~ msgstr "Tweede adresregel"
+
+#~ msgid "Third line of address"
+#~ msgstr "Derde adresregel"
+
+#~ msgid "City"
+#~ msgstr "Stad"
+
+#~ msgid "State/County"
+#~ msgstr "Staat/provincie"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "Postcode"
+
+#~ msgid "Country"
+#~ msgstr "Land"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "Zoektekst - alleen gebruikt voor het zoeken van adressen"
+
+#~ msgid "Address"
+#~ msgstr "Adres"
+
+#~ msgid "Addresses"
+#~ msgstr "Adressen"
+
+#~ msgid "Addresses in %(country)s require a valid postcode"
+#~ msgstr "Adressen in %(country)s dienen een geldige postcode hebben"
+
+#~ msgid "The postcode '%(postcode)s' is not valid for %(country)s"
+#~ msgstr "De postcode '%(postcode)s' is niet geldig voor %(country)s"
+
+#~ msgid "ISO 3166-1 alpha-2"
+#~ msgstr "ISO 3166-1 alpha-2"
+
+#~ msgid "ISO 3166-1 alpha-3"
+#~ msgstr "ISO 3166-1 alpha-3"
+
+#~ msgid "ISO 3166-1 numeric"
+#~ msgstr "ISO 3166-1 numeriek"
+
+#~ msgid "Country name"
+#~ msgstr "Land"
+
+#~ msgid "Official name"
+#~ msgstr "Officiële naam"
+
+#~ msgid "Display order"
+#~ msgstr "Weergave volgorde"
+
+#~ msgid "Higher the number, higher the country in the list."
+#~ msgstr "Hoe hoger het nummer, hoe hoger het land op de lijst staat."
+
+#~ msgid "Is shipping country"
+#~ msgstr "Beschikbaar voor verzending?"
+
+#~ msgid "Countries"
+#~ msgstr "Landen"
+
+#~ msgid "Phone number"
+#~ msgstr "Telefoonnummer"
+
+#~ msgid "In case we need to call you about your order"
+#~ msgstr "Voor het geval we je dienen op te bellen over jouw bestelling"
+
+#~ msgid "Instructions"
+#~ msgstr "Instructies"
+
+#~ msgid "Tell us anything we should know when delivering your order."
+#~ msgstr "Eventuele bijkomende informatie voor het leveren van je bestelling."
+
+#~ msgid "Shipping address"
+#~ msgstr "Afleveradres"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "Afleveradressen"
+
+#~ msgid "User"
+#~ msgstr "Gebruiker"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "Standaard afleveradres?"
+
+#~ msgid "Default billing address?"
+#~ msgstr "Standaard factuuradres?"
+
+#~ msgid "Address Hash"
+#~ msgstr "Adres hash"
+
+#~ msgid "Date Created"
+#~ msgstr "Aangemaakt op"
+
+#~ msgid "User address"
+#~ msgstr "Adres van gebruiker"
+
+#~ msgid "User addresses"
+#~ msgstr "Adressen van gebruiker"
+
+#~ msgid "This address is already in your address book"
+#~ msgstr "Dit adres bestaat al in je adresboek"
+
+#~ msgid "Billing address"
+#~ msgstr "Factuuradres"
+
+#~ msgid "Billing addresses"
+#~ msgstr "Factuuradressen"
+
+#~ msgid "Partner"
+#~ msgstr "Partner"
+
+#~ msgid "Partner address"
+#~ msgstr "Partner adres"
+
+#~ msgid "Partner addresses"
+#~ msgstr "Partner adressen"
+
+#~ msgid "Product"
+#~ msgstr "Product"
+
+#~ msgid "Views"
+#~ msgstr "Weergaven"
+
+#~ msgid "Basket Additions"
+#~ msgstr "Toevoegingen aan winkelwagen"
+
+#~ msgid "Purchases"
+#~ msgstr "Aankopen"
+
+#~ msgid "Score"
+#~ msgstr "Score"
+
+#~ msgid "Product record"
+#~ msgstr "Productrecord"
+
+#~ msgid "Product records"
+#~ msgstr "Productrecords"
+
+#~ msgid "Record for '%s'"
+#~ msgstr "Record for '%s'"
+
+#~ msgid "Product Views"
+#~ msgstr "Productweergaven"
+
+#~ msgid "Order Lines"
+#~ msgstr "Bestellingsregels"
+
+#~ msgid "Order Items"
+#~ msgstr "Bestellingsitems"
+
+#~ msgid "Total Spent"
+#~ msgstr "Totaal uitgegeven"
+
+#~ msgid "Last Order Date"
+#~ msgstr "Besteldatum"
+
+#~ msgid "User record"
+#~ msgstr "Gebruikersrecord"
+
+#~ msgid "User records"
+#~ msgstr "Gebruikersrecords"
+
+#~ msgid "User product view"
+#~ msgstr "Gebruiker productweergaven"
+
+#~ msgid "User product views"
+#~ msgstr "Gebruiker productbeoordeling"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "%(user)s bekeek '%(product)s'"
+
+#~ msgid "Search term"
+#~ msgstr "Zoekterm"
+
+#~ msgid "User search query"
+#~ msgstr "Gebruikers zoekopdracht"
+
+#~ msgid "User search queries"
+#~ msgstr "Gebruiker zoekqueries"
+
+#~ msgid "%(user)s searched for '%(query)s'"
+#~ msgstr "%(user)s zocht naar '%(query)s'"
+
+#~ msgid "Analytics"
+#~ msgstr "Statistieken"
+
+#~ msgid "Basket additions"
+#~ msgstr "Toevoegingen aan winkelwagen"
+
+#~ msgid "Product analytics"
+#~ msgstr "Productstatistieken"
+
+#~ msgid "Name"
+#~ msgstr "Naam"
+
+#~ msgid "Date registered"
+#~ msgstr "Geregistreerd op"
+
+#~ msgid "Product views"
+#~ msgstr "Productweergaven"
+
+#~ msgid "Order lines"
+#~ msgstr "Bestellingregels"
+
+#~ msgid "Order items"
+#~ msgstr "Bestellingsitems"
+
+#~ msgid "Total spent"
+#~ msgstr "Totaal besteed"
+
+#~ msgid "Date of last order"
+#~ msgstr "Datum van laatste bestelling"
+
+#~ msgid "User analytics"
+#~ msgstr "Gebruikersstatistieken"
+
+#~ msgid "Owner"
+#~ msgstr "Eigenaar"
+
+#~ msgid "Open - currently active"
+#~ msgstr "Open - nu actief"
+
+#~ msgid "Merged - superceded by another basket"
+#~ msgstr "Samengevoegd - opgevolgd door een ander winkelwagentje"
+
+#~ msgid "Saved - for items to be purchased later"
+#~ msgstr "Opgeslagen - om items later aan te kopen"
+
+#~ msgid "Frozen - the basket cannot be modified"
+#~ msgstr "Bevroren - de winkelwagen kan niet worden gewijzigd"
+
+#~ msgid "Submitted - has been ordered at the checkout"
+#~ msgstr "Verzonden - is besteld aan de kassa"
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Date created"
+#~ msgstr "Aangemaakt op"
+
+#~ msgid "Date merged"
+#~ msgstr "Samengevoegd op"
+
+#~ msgid "Date submitted"
+#~ msgstr "Verzonden op"
+
+#~ msgid "Baskets"
+#~ msgstr "Winkelwagens"
+
+#~ msgid "%(status)s basket (owner: %(owner)s, lines: %(num_lines)d)"
+#~ msgstr "%(status)s winkelwagen (eigenaar: %(owner)s, regels: %(num_lines)d)"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order."
+#~ msgstr ""
+#~ "Door technische beperkingen kunnen we niet meer dan %(threshold)d items "
+#~ "verzenden in 1 bestelling"
+
+#~ msgid "Line Reference"
+#~ msgstr "Regelreferentie"
+
+#~ msgid "Quantity"
+#~ msgstr "Hoeveelheid"
+
+#~ msgid "Currency"
+#~ msgstr "Valuta"
+
+#~ msgid "Price excl. Tax"
+#~ msgstr "Prijs excl. btw"
+
+#~ msgid "Price incl. Tax"
+#~ msgstr "Prijs incl. btw"
+
+#~ msgid "Basket line"
+#~ msgstr "Regel van winkelwagen"
+
+#~ msgid "Basket lines"
+#~ msgstr "Regels van winkelwagen"
+
+#~ msgid ""
+#~ "Basket #%(basket_id)d, Product #%(product_id)d, quantity %(quantity)d"
+#~ msgstr "Mandje #%(basket_id)d, Product #%(product_id)d, aantal %(quantity)d"
+
+#~ msgid "You cannot modify a %s basket"
+#~ msgstr "Je kan een %s winkelwagen niet wijzigen"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has increased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "De prijs van '%(product)s' is verhoogd van %(old_price)s naar "
+#~ "%(new_price)s sinds toevoeging aan je winkelmand"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has decreased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "De prijs van '%(product)s' is verlaagd van %(old_price)s naar "
+#~ "%(new_price)s sinds toevoeging aan je winkelmand"
+
+#~ msgid "Line"
+#~ msgstr "Regel"
+
+#~ msgid "Option"
+#~ msgstr "Optie"
+
+#~ msgid "Value"
+#~ msgstr "Waarde"
+
+#~ msgid "Line attribute"
+#~ msgstr "Regelattribuut"
+
+#~ msgid "Line attributes"
+#~ msgstr "Regelattributen"
+
+#~ msgid "Save for Later"
+#~ msgstr "Bewaren voor later"
+
+#~ msgid "Move to Basket"
+#~ msgstr "Verplaats naar winkelwagen"
+
+#~ msgid "Code"
+#~ msgstr "Code"
+
+#~ msgid "Variant"
+#~ msgstr "Variant"
+
+#~ msgid "Please select a valid product"
+#~ msgstr "Selecteer een geldig product"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order. Your basket currently has %(basket)d "
+#~ "items."
+#~ msgstr ""
+#~ "Door technische beperkingen kunnen we niet meer dan %(threshold)d items "
+#~ "in een bestelling verzenden. Je mandje heeft nu %(basket)d items."
+
+#~ msgid ""
+#~ "This product cannot be added to the basket as its currency isn't the same "
+#~ "as other products in your basket"
+#~ msgstr ""
+#~ "Dit product kan niet aan de winkelmand worden toegevoegd, aangezien de "
+#~ "munteenheid verschilt van de andere producten reeds aanwezig in je "
+#~ "winkelmand"
+
+#~ msgid ""
+#~ "We have merged a basket from a previous session. Its contents might have "
+#~ "changed."
+#~ msgstr ""
+#~ "We hebben een winkelwagen uit een eerdere sessie samengevoegd. Het kan "
+#~ "zijn dat de inhoud veranderd is."
+
+#~ msgid "User ID"
+#~ msgstr "Gebruiker ID"
+
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid "Basket status"
+#~ msgstr "Status van winkelwagen"
+
+#~ msgid "Num lines"
+#~ msgstr "Aantal regels"
+
+#~ msgid "Num items"
+#~ msgstr "Aantal items"
+
+#~ msgid "Date of creation"
+#~ msgstr "Aangemaakt op"
+
+#~ msgid "Time since creation"
+#~ msgstr "Tijd sinds aanmaken"
+
+#~ msgid "Open baskets"
+#~ msgstr "Openstaande winkelwagens"
+
+#~ msgid "Time between creation and submission"
+#~ msgstr "Tijd tussen aanmaken en verzenden"
+
+#~ msgid "Submitted baskets"
+#~ msgstr "Verzonden winkelwagens"
+
+#~ msgid "You can't save an item for later if you're not logged in!"
+#~ msgstr ""
+#~ "Je kan een item niet voor later bewaren wanneer je niet bent ingelogd!"
+
+#~ msgid ""
+#~ "Your basket couldn't be updated. Please correct any validation errors "
+#~ "below."
+#~ msgstr ""
+#~ "Je winkelwagen kon niet worden bijgewerkt. Corrigeer de onderstaande "
+#~ "validatie fouten."
+
+#~ msgid "The '%(code)s' voucher has expired"
+#~ msgstr "De '%(code)s' voucher is verlopen"
+
+#~ msgid "The '%(code)s' voucher is not active"
+#~ msgstr "De '%(code)s' voucher is niet actief"
+
+#~ msgid "Your basket does not qualify for a voucher discount"
+#~ msgstr ""
+#~ "Je winkelwagen komt niet in aanmerking voor een korting met een voucher"
+
+#~ msgid "Voucher '%(code)s' added to basket"
+#~ msgstr "Voucher '%(code)s' toegevoegd aan winkelwagen"
+
+#~ msgid "You have already added the '%(code)s' voucher to your basket"
+#~ msgstr "je hebt de '%(code)s' voucher reeds aan je winkelwagen toegevoegd"
+
+#~ msgid "No voucher found with code '%(code)s'"
+#~ msgstr "Geen voucher met code '%(code)s' gevonden"
+
+#~ msgid "Please enter a voucher code"
+#~ msgstr "Voer een voucher code in"
+
+#~ msgid "Voucher '%s' removed from basket"
+#~ msgstr "Voucher '%s' verwijderd uit winkelwagen"
+
+#~ msgid "Slug"
+#~ msgstr "Slug"
+
+#~ msgid "Requires shipping?"
+#~ msgstr "Vereist verzending?"
+
+#~ msgid "Track stock levels?"
+#~ msgstr "Voorraadniveau's bijhouden?"
+
+#~ msgid "Product class"
+#~ msgstr "Productklasse"
+
+#~ msgid "Product classes"
+#~ msgstr "Productklassen"
+
+#~ msgid "Description"
+#~ msgstr "Beschrijving"
+
+#~ msgid "Image"
+#~ msgstr "Afbeelding"
+
+#~ msgid "Category"
+#~ msgstr "Categorie"
+
+#~ msgid "Product category"
+#~ msgstr "Productcategorie"
+
+#~ msgid "Product categories"
+#~ msgstr "Productcategorieën"
+
+#~ msgid "Stand-alone product"
+#~ msgstr "Op zichzelf staand product"
+
+#~ msgid "Parent product"
+#~ msgstr "Hoofd product"
+
+#~ msgid "Child product"
+#~ msgstr "Sub product"
+
+#~ msgid "Product structure"
+#~ msgstr "Product structuur"
+
+#~ msgid "UPC"
+#~ msgstr "Product code"
+
+#~ msgid ""
+#~ "Universal Product Code (UPC) is an identifier for a product which is not "
+#~ "specific to a particular  supplier. Eg an ISBN for a book."
+#~ msgstr ""
+#~ "De product code is een identificatie voor een product, niet gekoppeld is "
+#~ "aan een bepaalde leverancier. Vb het ISBN-nummer voor boeken."
+
+#~ msgid ""
+#~ "Only choose a parent product if you're creating a child product.  For "
+#~ "example if this is a size 4 of a particular t-shirt.  Leave blank if this "
+#~ "is a stand-alone product (i.e. there is only one version of this product)."
+#~ msgstr ""
+#~ "Selecteer enkel een hoofd product bij het aanmaken van een sub product. "
+#~ "Bijvoorbeeld maatje 48 van een bepaald hemd. Laat leeg als het een op "
+#~ "zichzelf staand product is (vb. er bestaat slechts 1 versie van het "
+#~ "product)."
+
+#~ msgctxt "Product title"
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "Product type"
+#~ msgstr "Producttype"
+
+#~ msgid "Choose what type of product this is"
+#~ msgstr "Kies het producttype"
+
+#~ msgid "Attributes"
+#~ msgstr "Attributen"
+
+#~ msgid ""
+#~ "A product attribute is something that this product may have, such as a "
+#~ "size, as specified by its class"
+#~ msgstr ""
+#~ "Een productattribuut is een eigenschap dat het product kan hebben, zoals "
+#~ "een grootte, zoals gespecificeerd door de productklasse"
+
+#~ msgid "Product options"
+#~ msgstr "Product opties"
+
+#~ msgid ""
+#~ "Options are values that can be associated with a item when it is added to "
+#~ "a customer's basket.  This could be something like a personalised message "
+#~ "to be printed on a T-shirt."
+#~ msgstr ""
+#~ "Opties zijn waarden die aan een item gekoppeld worden zodra deze aan de "
+#~ "winkelmand worden toegevoegd. Dit kan bijvoorbeeld een persoonlijke "
+#~ "boodschap op een t-shirt zijn."
+
+#~ msgid "Recommended products"
+#~ msgstr "Aanbevolen producten"
+
+#~ msgid ""
+#~ "These are products that are recommended to accompany the main product."
+#~ msgstr ""
+#~ "Dit zijn producten die worden aangeraden om samen te gaan met het "
+#~ "hoofdproduct."
+
+#~ msgid "Date updated"
+#~ msgstr "Bijgewerkt op"
+
+#~ msgid "Is discountable?"
+#~ msgstr "Korting mogelijk?"
+
+#~ msgid "This flag indicates if this product can be used in an offer or not"
+#~ msgstr ""
+#~ "Deze parameter geeft aan of het product gebruikt kan worden in een "
+#~ "aanbieding of niet"
+
+#~ msgid "Your product must have a title."
+#~ msgstr "Je product moet een titel hebben."
+
+#~ msgid "Your product must have a product class."
+#~ msgstr "Je product moet een productklasse hebben."
+
+#~ msgid "Only child products can have a parent."
+#~ msgstr "Enkel sub producten kunnen een hoofdproduct hebben"
+
+#~ msgid "A child product needs a parent."
+#~ msgstr "Een sub product moet een hoofd product hebben"
+
+#~ msgid "You can only assign child products to parent products."
+#~ msgstr "Je kan enkel sub producten toekennen aan hoofd producten."
+
+#~ msgid "A child product can't have a product class."
+#~ msgstr "Een sub product kan geen product klasse hebben."
+
+#~ msgid "A child product can't have a category assigned."
+#~ msgstr "Een sub product kan geen categorie toegekend hebben."
+
+#~ msgid "A child product can't have options."
+#~ msgstr "Een sub product kan geen opties hebben."
+
+#~ msgid "A parent product can't have stockrecords."
+#~ msgstr "Een hoofdproduct kan geen stock records hebben."
+
+#~ msgid "The specified parent product is a child product."
+#~ msgstr "Het gekozen hoofdproduct is een sub product."
+
+#~ msgid "One can't add a child product to a product with stock records."
+#~ msgstr ""
+#~ "Een sub product kan niet aan een hoofdproduct worden toegevoegd dat stock "
+#~ "records heeft."
+
+#~ msgid "Primary product"
+#~ msgstr "Primair product"
+
+#~ msgid "Recommended product"
+#~ msgstr "Aanbevolen product"
+
+#~ msgid "Ranking"
+#~ msgstr "Positie"
+
+#~ msgid ""
+#~ "Determines order of the products. A product with a higher value will "
+#~ "appear before one with a lower ranking."
+#~ msgstr ""
+#~ "Bepaalt de volgorde van de producten. Een product met een hogere waarde "
+#~ "verschijnt voor een product met een lagere waarde."
+
+#~ msgid "Product recommendation"
+#~ msgstr "Productaanbeveling"
+
+#~ msgid "Product recomendations"
+#~ msgstr "Productaanbevelingen"
+
+#~ msgid ""
+#~ "Code can only contain the letters a-z, A-Z, digits, and underscores, and "
+#~ "can't start with a digit."
+#~ msgstr ""
+#~ "Code mag alleen de letters a-z, A-Z, getallen en liggende streepjes "
+#~ "gebruiken. Code mag niet beginnen met een getal."
+
+#~ msgid "Text"
+#~ msgstr "Tekst"
+
+#~ msgid "Integer"
+#~ msgstr "Getal"
+
+#~ msgid "True / False"
+#~ msgstr "Ja / Nee"
+
+#~ msgid "Float"
+#~ msgstr "Float"
+
+#~ msgid "Rich Text"
+#~ msgstr "Tekst met opmaak"
+
+#~ msgid "Date"
+#~ msgstr "Datum"
+
+#~ msgid "Entity"
+#~ msgstr "Entiteit"
+
+#~ msgid "File"
+#~ msgstr "Bestand"
+
+#~ msgid "Option Group"
+#~ msgstr "Optiegroep"
+
+#~ msgid "Required"
+#~ msgstr "Verplicht"
+
+#~ msgid "Product attribute"
+#~ msgstr "Productattribuut"
+
+#~ msgid "Product attributes"
+#~ msgstr "Productattributen"
+
+#~ msgid "Must be str or unicode"
+#~ msgstr "Moet str of unicode zijn"
+
+#~ msgid "Must be a float"
+#~ msgstr "Moet float zijn"
+
+#~ msgid "Must be an integer"
+#~ msgstr "Moet een integer getal zijn"
+
+#~ msgid "Must be a date or datetime"
+#~ msgstr "Moet date of datetime zijn"
+
+#~ msgid "Must be a boolean"
+#~ msgstr "Moet een boolean zijn"
+
+#~ msgid "Must be a model instance"
+#~ msgstr "Moet een model instantie zijn"
+
+#~ msgid "Must be an AttributeOption model object instance"
+#~ msgstr "Moet een instantie zijn van het AttributeOption model"
+
+#~ msgid "AttributeOption has not been saved yet"
+#~ msgstr "AttributeOption is nog niet opgeslagen "
+
+#~ msgid "%(enum)s is not a valid choice for %(attr)s"
+#~ msgstr "%(enum)s is is geen geldige optie voor %(attr)s"
+
+#~ msgid "Must be a file field"
+#~ msgstr "Moet een bestand zijn"
+
+#~ msgid "Attribute"
+#~ msgstr "Attribuut"
+
+#~ msgid "Boolean"
+#~ msgstr "Boolean"
+
+#~ msgid "Richtext"
+#~ msgstr "Tekst met opmaak"
+
+#~ msgid "Value option"
+#~ msgstr "Waarde optie"
+
+#~ msgid "Product attribute value"
+#~ msgstr "Productattribuut waarde"
+
+#~ msgid "Product attribute values"
+#~ msgstr "Productattribuut waarden"
+
+#~ msgid "Attribute option group"
+#~ msgstr "Attribuut optiegroep"
+
+#~ msgid "Attribute option groups"
+#~ msgstr "Attribuut optiegroepen"
+
+#~ msgid "Group"
+#~ msgstr "Groep"
+
+#~ msgid "Attribute option"
+#~ msgstr "Attribuut opties"
+
+#~ msgid "Attribute options"
+#~ msgstr "Attribuut opties"
+
+#~ msgid "Required - a value for this option must be specified"
+#~ msgstr "Verplicht - een waarde voor deze optie moet worden ingevuld"
+
+#~ msgid "Optional - a value for this option can be omitted"
+#~ msgstr "Optioneel - een waarde voor deze optie kan worden weggelaten"
+
+#~ msgid "Original"
+#~ msgstr "Origineel"
+
+#~ msgid "Caption"
+#~ msgstr "Onderschrift"
+
+#~ msgid ""
+#~ "An image with a display order of zero will be the primary image for a "
+#~ "product"
+#~ msgstr ""
+#~ "Een afbeelding met een weergave volgorde van nul zal de primaire "
+#~ "afbeelding voor een product zijn."
+
+#~ msgid "Product image"
+#~ msgstr "Productafbeelding"
+
+#~ msgid "Product images"
+#~ msgstr "Productafbeeldingen"
+
+#~ msgid "%(obj)s has no attribute named '%(attr)s'"
+#~ msgstr "%(obj)s heeft geen attribuut met de naam '%(attr)s'"
+
+#~ msgid "%(attr)s attribute cannot be blank"
+#~ msgstr "%(attr)s attribuut kan niet leeg zijn"
+
+#~ msgid "%(attr)s attribute %(err)s"
+#~ msgstr "%(attr)s attribuut %(err)s"
+
+#~ msgctxt "Product review title"
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "Body"
+#~ msgstr "Body tekst"
+
+#~ msgctxt "Anonymous reviewer name"
+#~ msgid "Name"
+#~ msgstr "Naam"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Requires moderation"
+#~ msgstr "Moderatie vereist"
+
+#~ msgid "Approved"
+#~ msgstr "Goedgekeurd"
+
+#~ msgid "Rejected"
+#~ msgstr "Afgewezen"
+
+#~ msgid "Total Votes"
+#~ msgstr "Aantal stemmen"
+
+#~ msgid "Delta Votes"
+#~ msgstr "Verschil in stemmen"
+
+#~ msgid "Product review"
+#~ msgstr "productbeoordeling"
+
+#~ msgid "Product reviews"
+#~ msgstr "Productbeoordelingen"
+
+#~ msgid "Anonymous reviews must include a name and an email"
+#~ msgstr "Anonieme beoordelingen moeten voorzien zijn van naam en e-mailadres"
+
+#~ msgid "anonymous"
+#~ msgstr "Anoniem"
+
+#~ msgid "Only signed in users can vote"
+#~ msgstr "Alleen aangemelde gebruikers kunnen stemmen"
+
+#~ msgid "Up"
+#~ msgstr "Omhoog"
+
+#~ msgid "Down"
+#~ msgstr "Omlaag"
+
+#~ msgid "Delta"
+#~ msgstr "Verschil"
+
+#~ msgid "Vote"
+#~ msgstr "Stem"
+
+#~ msgid "Votes"
+#~ msgstr "Stemmen"
+
+#~ msgid "You cannot vote on your own reviews"
+#~ msgstr "Je kan niet op je eigen beoordelingen stemmen"
+
+#~ msgid "Only signed-in users can vote on reviews"
+#~ msgstr "Alleen aangemelde gebruikers kunnen stemmen"
+
+#~ msgid "You can only vote once on a review"
+#~ msgstr "Je kan maar 1 keer stemmen per beoordeling"
+
+#~ msgid "Catalogue reviews"
+#~ msgstr "Catalogus beoordelingen"
+
+#~ msgid "Recency"
+#~ msgstr "Recentelijkheid"
+
+#~ msgid "Sort by"
+#~ msgstr "Sorteren op"
+
+#~ msgid "You have already reviewed this product!"
+#~ msgstr "Je hebt dit product reeds beoordeeld!"
+
+#~ msgid "You can't leave a review for this product."
+#~ msgstr "Je kan geen beoordeling achterlaten voor dit product."
+
+#~ msgid "Thank you for reviewing this product"
+#~ msgstr "Bedankt voor het beoordelen van dit product"
+
+#~ msgid "Thanks for voting!"
+#~ msgstr "Bedankt voor het stemmen!"
+
+#~ msgid "%(filename)s is not a valid image (%(error)s)"
+#~ msgstr "%(filename)s is geen geldige afbeelding (%(error)s)"
+
+#~ msgid "%s is not a valid image archive"
+#~ msgstr "%s is geen geldig beeld-archief"
+
+#~ msgid "The given page number was invalid."
+#~ msgstr "Ongeldig pagina nummer."
+
+#~ msgid "Checkout"
+#~ msgstr "Afrekenen"
+
+#~ msgid "My email address is"
+#~ msgstr "Mijn e-mailadres is"
+
+#~ msgid "I am a new customer and want to checkout as a guest"
+#~ msgstr "Ik ben een nieuwe gebruiker en ik wil als gast afrekenen"
+
+#~ msgid ""
+#~ "I am a new customer and want to create an account before checking out"
+#~ msgstr ""
+#~ "Ik ben een nieuwe gebruiker en ik wil een account maken voor ik betaal"
+
+#~ msgid "I am a returning customer, and my password is"
+#~ msgstr "Ik ben een bestaande klant en mijn wachtwoord is"
+
+#~ msgid "A user with that email address already exists"
+#~ msgstr "Er bestaat reeds een gebruiker met dat e-mailadres"
+
+#~ msgid "You need to add some items to your basket to checkout"
+#~ msgstr ""
+#~ "Je moet producten aan je winkelmandje toevoegen vooraleer je kan afrekenen"
+
+#~ msgid ""
+#~ "'%(title)s' is no longer available to buy (%(reason)s). Please adjust "
+#~ "your basket to continue"
+#~ msgstr ""
+#~ "'%(title)s' is niet langer beschikbaar voor verkoop (%(reason)s). Wijzig "
+#~ "je winkelmandje om verder te gaan"
+
+#~ msgid "Please either sign in or enter your email address"
+#~ msgstr "Log in of geef een e-mailadres op"
+
+#~ msgid "Please choose a shipping address"
+#~ msgstr "Gelieve een afleveradres te kiezen"
+
+#~ msgid ""
+#~ "Your previously chosen shipping address is no longer valid.  Please "
+#~ "choose another one"
+#~ msgstr ""
+#~ "Het eerder gekozen verzendadres is niet langer geldig. Selecteer een "
+#~ "ander adres"
+
+#~ msgid "Please choose a shipping method"
+#~ msgstr "Selecteer de verzendmethode a.u.b."
+
+#~ msgid ""
+#~ "Your previously chosen shipping method is no longer valid.  Please choose "
+#~ "another one"
+#~ msgstr ""
+#~ "De eerder gekozen verzendmethode is niet langer geldig. Kies een andere "
+#~ "methode"
+
+#~ msgid ""
+#~ "Create your account and then you will be redirected back to the checkout "
+#~ "process"
+#~ msgstr ""
+#~ "Maak je eigen account aan en je zal terug naar de betaalpagina worden "
+#~ "gestuurd"
+
+#~ msgid "Address saved"
+#~ msgstr "Adres opgeslagen"
+
+#~ msgid "Address deleted"
+#~ msgstr "Adres verwijderd"
+
+#~ msgid ""
+#~ "Shipping is unavailable for your chosen address - please choose another"
+#~ msgstr ""
+#~ "Verzenden is niet beschikbaar voor het door u gekozen adres - kies een "
+#~ "ander"
+
+#~ msgid "Your submitted shipping method is not permitted"
+#~ msgstr "De gekozen verzend methode is niet toegelaten"
+
+#~ msgid ""
+#~ "A problem occurred while processing payment for this order - no payment "
+#~ "has been taken.  Please contact customer services if this problem persists"
+#~ msgstr ""
+#~ "Er is een probleem opgetreden tijdens het verwerken van de betaling voor "
+#~ "deze bestelling - er is geen betaling doorgevoerd. Neem contact op met de "
+#~ "klantenservice als dit probleem zich blijft voordoen"
+
+#~ msgid "No order found"
+#~ msgstr "Geen bestelling gevonden"
+
+#~ msgid "email address"
+#~ msgstr "E-mailadres"
+
+#~ msgid "Staff status"
+#~ msgstr "Personeel status"
+
+#~ msgid "Designates whether the user can log into this admin site."
+#~ msgstr "Geeft aan of de gebruiker kan inloggen op deze admin site."
+
+#~ msgid "Active"
+#~ msgstr "Actief"
+
+#~ msgid ""
+#~ "Designates whether this user should be treated as active. Unselect this "
+#~ "instead of deleting accounts."
+#~ msgstr ""
+#~ "Geeft aan dat de gebruiker al dan niet als actief wordt beschouwd. "
+#~ "Gebruik dit in plaats van het verwijderen van accounts."
+
+#~ msgid "date joined"
+#~ msgstr "datum van aanmelding"
+
+#~ msgid "Users"
+#~ msgstr "Gebruikers"
+
+#~ msgid "Subject"
+#~ msgstr "Onderwerp"
+
+#~ msgid "Body Text"
+#~ msgstr "Body Tekst"
+
+#~ msgid "Body HTML"
+#~ msgstr "Body HTML"
+
+#~ msgid "Date Sent"
+#~ msgstr "Verzenddatum"
+
+#~ msgid "Emails"
+#~ msgstr "Emails"
+
+#~ msgid "Email to %(user)s with subject '%(subject)s'"
+#~ msgstr "Email naar %(user)s met onderwerp '%(subject)s'"
+
+#~ msgid "Code used for looking up this event programmatically"
+#~ msgstr ""
+#~ "Code die gebruikt wordt om deze gebeurtenis programmatisch op te zoeken"
+
+#~ msgid "This is just used for organisational purposes"
+#~ msgstr "Dit is enkel voor organisatorische redenen"
+
+#~ msgid "Order related"
+#~ msgstr "Bestelling gerelateerd"
+
+#~ msgid "User related"
+#~ msgstr "Gebruiker gerelateerd"
+
+#~ msgid "Email Subject Template"
+#~ msgstr "Email Onderwerp Template"
+
+#~ msgid "Email Body Template"
+#~ msgstr "Email Body Template"
+
+#~ msgid "Email Body HTML Template"
+#~ msgstr "Email Body HTML Template"
+
+#~ msgid "HTML template"
+#~ msgstr "HTML template"
+
+#~ msgid "SMS Template"
+#~ msgstr "SMS Template"
+
+#~ msgid "SMS template"
+#~ msgstr "SMS template"
+
+#~ msgid "Date Updated"
+#~ msgstr "Bijgewerkt op"
+
+#~ msgid "Communication event type"
+#~ msgstr "Communicatie event type"
+
+#~ msgid "Communication event types"
+#~ msgstr "Communicatie event types"
+
+#~ msgid "Inbox"
+#~ msgstr "Inbox"
+
+#~ msgid "Archive"
+#~ msgstr "Archiveer"
+
+#~ msgid "Notification"
+#~ msgstr "Notificatie"
+
+#~ msgid "Notifications"
+#~ msgstr "Notificatie"
+
+#~ msgid "Key"
+#~ msgstr "Sleutel"
+
+#~ msgid "Not yet confirmed"
+#~ msgstr "Nog niet bevestigd"
+
+#~ msgid "Cancelled"
+#~ msgstr "Geannuleerd"
+
+#~ msgid "Closed"
+#~ msgstr "Afgesloten"
+
+#~ msgid "Date confirmed"
+#~ msgstr "Bevestigd op"
+
+#~ msgid "Date cancelled"
+#~ msgstr "Geannuleerd op"
+
+#~ msgid "Date closed"
+#~ msgstr "Afgesloten op"
+
+#~ msgid "Product alert"
+#~ msgstr "Product melding"
+
+#~ msgid "Product alerts"
+#~ msgstr "Product meldingen"
+
+#~ msgid "Product Alerts"
+#~ msgstr "Product melding"
+
+#~ msgid "An alert has been created"
+#~ msgstr "Een melding werd aangemaakt"
+
+#~ msgid "A confirmation email has been sent to %s"
+#~ msgstr "Een bevestigingsmail werd verstuurd naar %s"
+
+#~ msgid "Your stock alert is now active"
+#~ msgstr "Je voorraad melding is nu actief"
+
+#~ msgid "Your stock alert cannot be confirmed"
+#~ msgstr "Je voorraad melding kan niet worden bevestigd"
+
+#~ msgid "Your stock alert has been cancelled"
+#~ msgstr "Je voorraad melding werd geannuleerd"
+
+#~ msgid "Your stock alert cannot be cancelled"
+#~ msgstr "Je voorraad melding kan niet worden geannuleerd"
+
+#~ msgid "Customer"
+#~ msgstr "Klant"
+
+#~ msgid "Email address"
+#~ msgstr "E-mailadres"
+
+#~ msgid "Password"
+#~ msgstr "Wachtwoord"
+
+#~ msgid "The entered password is not valid!"
+#~ msgstr "Het ingevoerde wachtwoord is niet geldig!"
+
+#~ msgid "Confirm password"
+#~ msgstr "Bevestig wachtwoord"
+
+#~ msgid "The two password fields didn't match."
+#~ msgstr "De ingegeven wachtwoorden zijn verschillend."
+
+#~ msgctxt "start date"
+#~ msgid "From"
+#~ msgstr "Vanaf"
+
+#~ msgctxt "end date"
+#~ msgid "To"
+#~ msgstr "Tot"
+
+#~ msgid "Order number"
+#~ msgstr "Bestelnummer"
+
+#~ msgid "At least one field is required."
+#~ msgstr "Er is op zijn minst één veld verplicht"
+
+#~ msgid "All orders"
+#~ msgstr "Alle bestellingen"
+
+#~ msgid ""
+#~ "Orders placed between %(date_from)s and %(date_to)s and order number "
+#~ "containing %(order_number)s"
+#~ msgstr ""
+#~ "Bestellingen die geplaatst zijn tussen %(date_from)s en %(date_to)s en "
+#~ "een bestelnummer hebben dat %(order_number)s bevat"
+
+#~ msgid "Orders placed between %(date_from)s and %(date_to)s"
+#~ msgstr "Bestellingen geplaatst tussen %(date_from)s en %(date_to)s"
+
+#~ msgid ""
+#~ "Orders placed since %(date_from)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "Geplaatste bestellingen sinds %(date_from)s en bestelnummers die  "
+#~ "%(order_number)s bevatten"
+
+#~ msgid "Orders placed since %(date_from)s"
+#~ msgstr "Bestellingen geplaatst sinds %(date_from)s"
+
+#~ msgid ""
+#~ "Orders placed until %(date_to)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "Bestellingen geplaatst tot %(date_to)s en bestelnummer bevat "
+#~ "%(order_number)s "
+
+#~ msgid "Orders placed until %(date_to)s"
+#~ msgstr "Bestellingen geplaatst tot %(date_to)s "
+
+#~ msgid "Orders with order number containing %(order_number)s"
+#~ msgstr "Bestellingen met bestelnummer dat %(order_number)s bevat "
+
+#~ msgid "A user with this email address already exists"
+#~ msgstr "Er bestaat reeds een gebruiker met dit e-mailadres."
+
+#~ msgid "Send notification to"
+#~ msgstr "Stuur notificatie naar"
+
+#~ msgid "Enter your email"
+#~ msgstr "Geef je e-mailadres op"
+
+#~ msgid "There is already an active stock alert for %s"
+#~ msgstr "Er bestaan reeds een actief voorraad alarm voor %s"
+
+#~ msgid "You already have an active alert for this product"
+#~ msgstr "Je hebt reeds een actief voorraad alarm voor dit product"
+
+#~ msgid "%(count)d notification archived"
+#~ msgid_plural "%(count)d notifications archived"
+#~ msgstr[0] "%(count)d notificatie gearchiveerd"
+#~ msgstr[1] "%(count)d notificaties gearchiveerd"
+
+#~ msgid "%(count)d notification deleted"
+#~ msgid_plural "%(count)d notifications deleted"
+#~ msgstr[0] "%(count)d notificatie verwijderd"
+#~ msgstr[1] "%(count)d notificaties verwijderd"
+
+#~ msgid "Welcome back"
+#~ msgstr "Welkom terug!"
+
+#~ msgid "Thanks for registering!"
+#~ msgstr "Bedankt om te registreren!"
+
+#~ msgid "Profile"
+#~ msgstr "Profiel"
+
+#~ msgid "Edit Profile"
+#~ msgstr "Wijzig profiel"
+
+#~ msgid "Profile updated"
+#~ msgstr "Profiel bijgewerkt"
+
+#~ msgid "Delete profile"
+#~ msgstr "Verwijder profiel"
+
+#~ msgid "Your profile has now been deleted. Thanks for using the site."
+#~ msgstr ""
+#~ "Je profiel werd verwijderd. Bedankt voor het gebruiken van onze website!"
+
+#~ msgid "Change Password"
+#~ msgstr "Wijzig wachtwoord"
+
+#~ msgid "Password updated"
+#~ msgstr "Wachtwoord bijgewerkt"
+
+#~ msgid "Email History"
+#~ msgstr "Email geschiedenis"
+
+#~ msgid "Order History"
+#~ msgstr "Bestelgeschiedenis"
+
+#~ msgid "Order"
+#~ msgstr "Bestelling"
+
+#~ msgid ""
+#~ "All available lines from order %(number)s have been added to your basket"
+#~ msgstr ""
+#~ "Alle beschikbare regels van bestelling %(number)s zijn aan je mandje "
+#~ "toegevoegd"
+
+#~ msgid ""
+#~ "It is not possible to re-order order %(number)s as none of its lines are "
+#~ "available to purchase"
+#~ msgstr ""
+#~ "Het is niet mogelijk om bestelling %(number)s opnieuw uit te voeren, er "
+#~ "zijn geen regels meer beschikbaar voor aankoop"
+
+#~ msgid "%(qty)d copies of '%(product)s' have been added to your basket"
+#~ msgstr ""
+#~ "%(qty)d kopieën van '%(product)s' werden aan je winkelmandje toegevoegd"
+
+#~ msgid "'%s' has been added to your basket"
+#~ msgstr "'%s' werd aan je winkelmandje toegevoegd"
+
+#~ msgid "Address Book"
+#~ msgstr "Adresboek"
+
+#~ msgid "Add a new address"
+#~ msgstr "Nieuw adres toevoegen"
+
+#~ msgid "Address '%s' created"
+#~ msgstr "Adres '%s' werd aangemaakt"
+
+#~ msgid "Edit address"
+#~ msgstr "Adres wijzigen"
+
+#~ msgid "Address '%s' updated"
+#~ msgstr "Adres '%s' werd bijgewerkt"
+
+#~ msgid "Delete address?"
+#~ msgstr "Verwijder adres?"
+
+#~ msgid "Address '%s' deleted"
+#~ msgstr "Adres '%s' werd verwijderd"
+
+#~ msgid "We do not ship to this country"
+#~ msgstr "Wij verzenden niet naar dit land"
+
+#~ msgid "Wish Lists"
+#~ msgstr "Verlanglijst"
+
+#~ msgid "Quantities updated."
+#~ msgstr "Hoeveelheden aangepast"
+
+#~ msgid "Create a new wish list"
+#~ msgstr "Maak een nieuwe verlanglijst aan"
+
+#~ msgid "The requested product no longer exists"
+#~ msgstr "Het aangevraagde product bestaat niet meer"
+
+#~ msgid "Your wishlist has been created and '%(name)s has been added"
+#~ msgstr "Uw verlanglijst is aangemaakt en '%(name)s werd toegevoegd"
+
+#~ msgid "Your wishlist has been created"
+#~ msgstr "Uw verlanglijst is aangemaakt"
+
+#~ msgid "%(title)s has been added to your wishlist"
+#~ msgstr "%(title)s werd toegevoegd aan je verlanglijst"
+
+#~ msgid "Your '%s' wishlist has been updated"
+#~ msgstr "je '%s' verlanglijst werd bijgewerkt"
+
+#~ msgid "Delete %s"
+#~ msgstr "Verwijder %s"
+
+#~ msgid "Your '%s' wish list has been deleted"
+#~ msgstr "Je '%s' verlanglijst werd verwijderd"
+
+#~ msgid "'%s' was added to your wish list."
+#~ msgstr "'%s' werd toegevoegd aan je verlanglijst"
+
+#~ msgid "Remove %s"
+#~ msgstr "Verwijder %s"
+
+#~ msgid "'%(title)s' was removed from your '%(name)s' wish list"
+#~ msgstr "'%(title)s' werd verwijderd uit je '%(name)s' verlanglijst"
+
+#~ msgid "'%(title)s' moved to '%(name)s' wishlist"
+#~ msgstr "'%(title)s' werd verplaatst naar verlanglijst '%(name)s'"
+
+#~ msgid "Create a new product of type"
+#~ msgstr "Maak een nieuw product aan van type"
+
+#~ msgid "-- Choose type --"
+#~ msgstr "-- Kies type --"
+
+#~ msgid "Product title"
+#~ msgstr "Product titel"
+
+#~ msgid "Select an option group"
+#~ msgstr "Selecteer een optie groep"
+
+#~ msgid ""
+#~ "At least one stock record must be set to a partner that you're associated "
+#~ "with."
+#~ msgstr ""
+#~ "Minstens één stock record moet gekoppeld zijn aan een partner waarmee je "
+#~ "geassocieerd bent."
+
+#~ msgid "Stand-alone and parent products must have at least one category"
+#~ msgstr ""
+#~ "Op zichzelf staande producten en hoofdproducten moeten tenminste één "
+#~ "categorie bezitten"
+
+#~ msgid "A child product should not have categories"
+#~ msgstr "Een sub product kan geen categorieën bezitten"
+
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "Variants"
+#~ msgstr "Varianten"
+
+#~ msgid "Stock records"
+#~ msgstr "Stock records"
+
+#~ msgid "Actions"
+#~ msgstr "Acties"
+
+#~ msgid "Number of child categories"
+#~ msgstr "Aantal subcategorieën"
+
+#~ msgid "%s Category"
+#~ msgid_plural "%s Categories"
+#~ msgstr[0] "%s Categorie"
+#~ msgstr[1] "%s Categorieën"
+
+#~ msgid "Product search results"
+#~ msgstr "Product zoekresultaten"
+
+#~ msgid "Please choose a product type"
+#~ msgstr "Kies een producttype"
+
+#~ msgid "Create new %(product_class)s product"
+#~ msgstr "Creeër nieuw %(product_class)s product"
+
+#~ msgid "Create new variant of %(parent_product)s"
+#~ msgstr "Nieuw subproduct van %(parent_product)s aanmaken"
+
+#~ msgid "Editing variant of %(parent_product)s"
+#~ msgstr "Wijzig subproduct van %(parent_product)s"
+
+#~ msgid "Your submitted data was not valid - please correct the errors below"
+#~ msgstr "Je gegevens zijn ongeldig. Herstel a.u.b. onderstaande fouten "
+
+#~ msgid "Delete product variant?"
+#~ msgstr "Productvariant verwijderen?"
+
+#~ msgid "Delete product?"
+#~ msgstr "Product verwijderen?"
+
+#~ msgid "Deleted product variant '%s'"
+#~ msgstr "Productvariant '%s' werd verwijderd"
+
+#~ msgid "Deleted product '%s'"
+#~ msgstr "Product '%s' werd verwijderd"
+
+#~ msgid "Alerts with status \"%s\""
+#~ msgstr "Meldingen met status \"%s\""
+
+#~ msgid "All alerts"
+#~ msgstr "Alle meldingen"
+
+#~ msgid "Add a new category"
+#~ msgstr "Voeg een nieuwe categorie toe"
+
+#~ msgid "Category created successfully"
+#~ msgstr "Categorie aangemaakt"
+
+#~ msgid "Update category '%s'"
+#~ msgstr "Wijzig categorie '%s'"
+
+#~ msgid "Category updated successfully"
+#~ msgstr "Categorie succesvol bijgewerkt"
+
+#~ msgid "Category deleted successfully"
+#~ msgstr "Categorie verwijderd"
+
+#~ msgid "Add a new product type"
+#~ msgstr "Een nieuw producttype toevoegen"
+
+#~ msgid "Product type created successfully"
+#~ msgstr "Producttype aanmaken gelukt"
+
+#~ msgid "Update product type '%s'"
+#~ msgstr "Producttype '%s' bijwerken"
+
+#~ msgid "Product type updated successfully"
+#~ msgstr "Producttype bijwerken gelukt"
+
+#~ msgid "Delete product type '%s'"
+#~ msgstr "Verwijder producttype '%s'"
+
+#~ msgid "Unable to delete '%s'"
+#~ msgstr "Kan '%s' niet verwijderen"
+
+#~ msgid "%i products are still assigned to this type"
+#~ msgstr "%i producten zijn nog toegekend aan dit type"
+
+#~ msgid "Product type deleted successfully"
+#~ msgstr "Producttype verwijderd"
+
+#~ msgid "Communications dashboard"
+#~ msgstr "Communicatie dashboard"
+
+#~ msgid "Email subject template"
+#~ msgstr "Email onderwerp template"
+
+#~ msgid "Email body text template"
+#~ msgstr "Email body tekst template"
+
+#~ msgid "Email body HTML template"
+#~ msgstr "Email body HTML template"
+
+#~ msgid "Preview email"
+#~ msgstr "Email voorvertonen"
+
+#~ msgid "No order found with this number"
+#~ msgstr "Geen bestelling gevonden met dit nummer"
+
+#~ msgid "Please enter an email address"
+#~ msgstr "Vul a.u.b. een e-mailadres in"
+
+#~ msgid ""
+#~ "The submitted form was not valid, please correct the errors and resubmit"
+#~ msgstr ""
+#~ "Het ingevoerde formulier was ongeldig, corrigeer de foutmeldingen en "
+#~ "probeer opnieuw"
+
+#~ msgid "Email saved"
+#~ msgstr "Email opgeslagen"
+
+#~ msgid "A preview email has been sent to %s"
+#~ msgstr "Een voorbeeld email werd verstuurd naar %s"
+
+#~ msgid "Offers dashboard"
+#~ msgstr "Aanbiedingen dashboard"
+
+#~ msgid "Start date"
+#~ msgstr "Startdatum"
+
+#~ msgid "End date"
+#~ msgstr "Einddatum"
+
+#~ msgid "The end date must be after the start date"
+#~ msgstr "Einddatum dient recenter te zijn dan startdatum"
+
+#~ msgid "Custom condition"
+#~ msgstr "Aangepaste voorwaarde"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom condition"
+#~ msgstr ""
+#~ "Kies aub een reeks, type en waarde OF kies een aangepaste voorwaarde"
+
+#~ msgid "A range is required"
+#~ msgstr "Een reeks is vereist"
+
+#~ msgid "Custom incentive"
+#~ msgstr "Zelf gemaakte motivatie"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom incentive"
+#~ msgstr ""
+#~ "Maak uw keuze uit een reeks, type en waarde OF kies een zelfgemaakte "
+#~ "motivatie"
+
+#~ msgid "No other options can be set if you are using a custom incentive"
+#~ msgstr ""
+#~ "Er kunnen geen andere opties gekozen worden als u gebruik maakt van een "
+#~ "zelf gemaakte motivatie."
+
+#~ msgid "Offer name"
+#~ msgstr "Naam van aanbieding"
+
+#~ msgid "Is active?"
+#~ msgstr "Actief?"
+
+#~ msgid "Order date"
+#~ msgstr "Besteldatum"
+
+#~ msgid "Order total"
+#~ msgstr "Bestelling totaal"
+
+#~ msgid "Cost"
+#~ msgstr "Kosten"
+
+#~ msgid "All offers"
+#~ msgstr "Alle aanbiedingen"
+
+#~ msgid "Offers matching '%s'"
+#~ msgstr "Aanbiedingen die voldoen aan '%s'"
+
+#~ msgid "%s step not complete"
+#~ msgstr "Stap %s niet compleet"
+
+#~ msgid "Offer '%s' updated"
+#~ msgstr "Aanbieding '%s' bijgewerkt"
+
+#~ msgid "Offer '%s' created!"
+#~ msgstr "Aanbieding '%s' aangemaakt!"
+
+#~ msgid "Name and description"
+#~ msgstr "Naam en beschrijving"
+
+#~ msgid "Incentive"
+#~ msgstr "Motivatie"
+
+#~ msgid "Restrictions"
+#~ msgstr "Restricties"
+
+#~ msgid "Offer deleted!"
+#~ msgstr "Aanbieding verwijderd!"
+
+#~ msgid "Offer is already suspended"
+#~ msgstr "Aanbieding reeds stopgezet"
+
+#~ msgid "Offer suspended"
+#~ msgstr "Aanbieding stopgezet"
+
+#~ msgid "Offer cannot be reinstated as it is not currently suspended"
+#~ msgstr ""
+#~ "Aanbieding kan niet heractiveerd worden omdat deze niet is stopgezet"
+
+#~ msgid "Offer reinstated"
+#~ msgstr "Aanbieding heractiveerd"
+
+#~ msgid "Orders dashboard"
+#~ msgstr "Bestellingen dashboard"
+
+#~ msgid "Orders placed since %s"
+#~ msgstr "Bestellingen geplaatst sinds %s"
+
+#~ msgid "Orders placed until %s"
+#~ msgstr "Bestellingen geplaatst tot %s"
+
+#~ msgid "Customer name"
+#~ msgstr "Klant naam"
+
+#~ msgid "Product name"
+#~ msgstr "Product naam"
+
+#~ msgid "Partner SKU"
+#~ msgstr "Partner Referentie Code"
+
+#~ msgid "Date from"
+#~ msgstr "Datum vanaf"
+
+#~ msgid "Date to"
+#~ msgstr "Datum tot"
+
+#~ msgid "Voucher code"
+#~ msgstr "Voucher code"
+
+#~ msgid "Payment method"
+#~ msgstr "Betaalmethode"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "CSV"
+#~ msgstr "CSV"
+
+#~ msgid "Get results as"
+#~ msgstr "Resultaten als"
+
+#~ msgid "New order status"
+#~ msgstr "Nieuwe bestelstatus"
+
+#~ msgid "Order number starts with \"{order_number}\""
+#~ msgstr "Bestelnummer begint met \"{order_number}\""
+
+#~ msgid "Customer name matches \"{customer_name}\""
+#~ msgstr "Klantnaam komt overeen met \"{customer_name}\""
+
+#~ msgid "Product name matches \"{product_name}\""
+#~ msgstr "Productnaam komt overeen met \"{product_name}\""
+
+#~ msgid "Includes an item with UPC \"{upc}\""
+#~ msgstr "Bevat een artikel met UPC \"{upc}\""
+
+#~ msgid "Includes an item with partner SKU \"{partner_sku}\""
+#~ msgstr "Bevat een artikel met partner SKU \"{partner_sku}\""
+
+#~ msgid "Placed between {start_date} and {end_date}"
+#~ msgstr "Geplaatst tussen {start_date} en {end_date}"
+
+#~ msgid "Placed after {start_date}"
+#~ msgstr "Geplaatst na {start_date}"
+
+#~ msgid "Placed before {end_date}"
+#~ msgstr "Geplaatst voor {end_date}"
+
+#~ msgid "Used voucher code \"{voucher_code}\""
+#~ msgstr "Gebruik gemaakt van code \"{voucher_code}\""
+
+#~ msgid "Paid using {payment_method}"
+#~ msgstr "Betaald met {payment_method}"
+
+#~ msgid "Order status is {order_status}"
+#~ msgstr "Status van bestelling is {order_status}"
+
+#~ msgid "Order value"
+#~ msgstr "Bestelling waarde"
+
+#~ msgid "Date of purchase"
+#~ msgstr "Datum van aankoop"
+
+#~ msgid "Number of items"
+#~ msgstr "Aantal items"
+
+#~ msgid "Order status"
+#~ msgstr "Status van bestelling"
+
+#~ msgid "Customer email address"
+#~ msgstr "E-mailadres klant"
+
+#~ msgid "Deliver to name"
+#~ msgstr "Naam bestemmeling"
+
+#~ msgid "Bill to name"
+#~ msgstr "Naam op factuur"
+
+#~ msgid "The new status '%s' is not valid"
+#~ msgstr "De nieuwe status '%s' is niet geldig"
+
+#~ msgid "The new status '%s' is not valid for this order"
+#~ msgstr "De nieuwe status '%s' is niet geldig voor deze bestelling"
+
+#~ msgid "Unable to change order status due to payment error: %s"
+#~ msgstr ""
+#~ "Niet mogelijk om bestelling status aan te passen door betaal error: %s"
+
+#~ msgid "Order status changed from '%(old_status)s' to '%(new_status)s'"
+#~ msgstr ""
+#~ "Status bestelling gewijzigd van '%(old_status)s' naar '%(new_status)s'"
+
+#~ msgid "No valid action submitted"
+#~ msgstr "Geen geldige actie"
+
+#~ msgid "Invalid action"
+#~ msgstr "Ongeldige actie"
+
+#~ msgid "You must select some lines to act on"
+#~ msgstr "Je moet een aantal regels selecteren"
+
+#~ msgid "Invalid lines requested"
+#~ msgstr "Ongeldige regels verzocht"
+
+#~ msgid "The entered quantity for line #%s is not valid"
+#~ msgstr "De ingevoerde hoeveelheid voor regel #%s is niet geldig"
+
+#~ msgid ""
+#~ "The entered quantity for line #%(line_id)s should not be higher than "
+#~ "%(quantity)s"
+#~ msgstr ""
+#~ "De ingevoerde hoeveelheid voor regel #%(line_id)s zou niet hoger moeten "
+#~ "zijn dan %(quantity)s"
+
+#~ msgid "Note saved"
+#~ msgstr "Notitie bewaard"
+
+#~ msgid "Note cannot be deleted"
+#~ msgstr "Notitie kan niet worden verwijderd"
+
+#~ msgid "Note deleted"
+#~ msgstr "Notitie verwijderd"
+
+#~ msgid "Invalid form submission"
+#~ msgstr "Ongeldige formulier invoer"
+
+#~ msgid ""
+#~ "Unable to change order status as the requested new status is not valid"
+#~ msgstr ""
+#~ "Het is niet mogelijk de bestelstatus te wijzigen aangezien de nieuwe "
+#~ "status ongeldig is"
+
+#~ msgid "Please choose a valid amount"
+#~ msgstr "Kies een geldig aantal"
+
+#~ msgid "'%(status)s' is not a valid new status for line %(line_id)d"
+#~ msgstr "'%(status)s' is geen geldige status voor regel %(line_id)d"
+
+#~ msgid ""
+#~ "Status of line #%(line_id)d changed from '%(old_status)s' to "
+#~ "'%(new_status)s'"
+#~ msgstr ""
+#~ "Status van regel #%(line_id)d gewijzigd van '%(old_status)s' naar "
+#~ "'%(new_status)s'"
+
+#~ msgid "The event type '%s' is not valid"
+#~ msgstr "Het event type '%s' is ongeldig"
+
+#~ msgid "Unable to create shipping event: %s"
+#~ msgstr "Niet mogelijk om het verzending moment aan te maken: %s"
+
+#~ msgid "Unable to create shipping event due to payment error: %s"
+#~ msgstr ""
+#~ "Niet mogelijk om het verzending moment aan te maken vanwege een fout met "
+#~ "betaling: %s"
+
+#~ msgid "Shipping event created"
+#~ msgstr "Verzending moment aangemaakt"
+
+#~ msgid "Unable to create payment event due to payment error: %s"
+#~ msgstr ""
+#~ "Niet mogelijk om betalingsgebeurtenis aan te maken vanwege een fout met "
+#~ "betaling: %s"
+
+#~ msgid "Unable to create payment event: %s"
+#~ msgstr "Niet mogelijk om betalingsgebeurtenis %s aan te maken"
+
+#~ msgid "Payment event created"
+#~ msgstr "Betaal event aangemaakt"
+
+#~ msgid "%(field)s changed from '%(old_value)s' to '%(new_value)s'"
+#~ msgstr "%(field)s aangepast van '%(old_value)s' naar '%(new_value)s'"
+
+#~ msgid ""
+#~ "Delivery address updated:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Afleveradres aangepast:\n"
+#~ "%s"
+
+#~ msgid "Delivery address updated"
+#~ msgstr "Afleveradres bijgewerkt"
+
+#~ msgid "Pages dashboard"
+#~ msgstr "Pagina's dashboard"
+
+#~ msgctxt "Page title"
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "Example: '/about/contact/'."
+#~ msgstr "Voorbeeld: '/about/contact/'."
+
+#~ msgid "All pages"
+#~ msgstr "Alle pagina's"
+
+#~ msgid " with title containing '%s'"
+#~ msgstr "met titel welke '%s' bevat"
+
+#~ msgid "Create New Page"
+#~ msgstr "Nieuwe Pagina maken"
+
+#~ msgid "Deleted page '%s'"
+#~ msgstr "Pagina '%s' verwijderd"
+
+#~ msgid "Partners dashboard"
+#~ msgstr "Partners dashboard"
+
+#~ msgctxt "Partner's name"
+#~ msgid "Name"
+#~ msgstr "Naam"
+
+#~ msgid "Full dashboard access"
+#~ msgstr "Volledig toegang tot het dashboard"
+
+#~ msgid "Limited dashboard access"
+#~ msgstr "Gelimiteerde toegang tot het dashboard"
+
+#~ msgid "User role"
+#~ msgstr "Gebruiker role"
+
+#~ msgid "Confirm Password"
+#~ msgstr "Paswoord bevestigen"
+
+#~ msgid "All partners"
+#~ msgstr "Alle partners"
+
+#~ msgid "Partners matching '%s'"
+#~ msgstr "Partners overeenkomend met '%s'"
+
+#~ msgid "Create new partner"
+#~ msgstr "Maak een nieuwe partner aan"
+
+#~ msgid "Partner '%s' was created successfully."
+#~ msgstr "Partner '%s' is aangemaakt"
+
+#~ msgid "Partner '%s' was updated successfully."
+#~ msgstr "Partner '%s' is succesvol bijgewerkt"
+
+#~ msgid "Partner '%s' was deleted successfully."
+#~ msgstr "Partner '%s' is verwijderd"
+
+#~ msgid "Create user"
+#~ msgstr "Maak gebruiker aan"
+
+#~ msgid "User '%s' was created successfully."
+#~ msgstr "Gebruiker '%s' is aangemaakt"
+
+#~ msgid "User '%(name)s' was linked to '%(partner_name)s'"
+#~ msgstr "Gebruiker '%(name)s' is gelinkt aan '%(partner_name)s'"
+
+#~ msgid "User '%(name)s' is already linked to '%(partner_name)s'"
+#~ msgstr "Gebruiker  '%(name)s' is reeds gelinkt aan '%(partner_name)s'"
+
+#~ msgid "User '%(name)s' is not linked to '%(partner_name)s'"
+#~ msgstr "Gebruiker '%(name)s' is niet gelinkt '%(partner_name)s'"
+
+#~ msgid "Edit user '%s'"
+#~ msgstr "Wijzig gebruiker '%s'"
+
+#~ msgid "User '%s' was updated successfully."
+#~ msgstr "Gebruiker '%s' is succesvol bijgewerkt"
+
+#~ msgid "Promotions dashboard"
+#~ msgstr "Promoties dashboard"
+
+#~ msgid "Promotion type"
+#~ msgstr "Promotie soort"
+
+#~ msgid "Position"
+#~ msgstr "Positie"
+
+#~ msgid "Where in the page this content block will appear"
+#~ msgstr "Waar in de pagina dit blok verschijnt"
+
+#~ msgid "Content blocks can only be linked to internal URLs"
+#~ msgstr "Inhoudsblokken kunnen alleen gelinkt worden aan interne URL's"
+
+#~ msgid "Content block removed successfully"
+#~ msgstr "Inhoudsblok verwijderd"
+
+#~ msgid "Content block created successfully"
+#~ msgstr "Inhoudsblok aangemaakt"
+
+#~ msgid "Create a new %s content block"
+#~ msgstr "Nieuwe %s inhoudsblok aanmaken"
+
+#~ msgid "Product list content block created"
+#~ msgstr "Productlijst inhoudsblok aangemaakt"
+
+#~ msgid "Update content block"
+#~ msgstr "Wijzig inhoudsblok"
+
+#~ msgid "Content block updated successfully"
+#~ msgstr "Inhoudsblok succesvol bijgewerkt"
+
+#~ msgid "Content block '%(block)s' added to page '%(page)s'"
+#~ msgstr "Inhoudsblok '%(block)s' toegevoegd aan pagina '%(page)s'"
+
+#~ msgid "No link found to delete"
+#~ msgstr "Geen link gevonden om te verwijderen"
+
+#~ msgid "Content block removed from page '%s'"
+#~ msgstr "Inhoudsblok verwijderd van pagina '%s'"
+
+#~ msgid "Product list promotion updated"
+#~ msgstr "Productlijst promotie bijgewerkt"
+
+#~ msgid "Content block deleted successfully"
+#~ msgstr "Inhoudsblok verwijderd"
+
+#~ msgid "Ranges dashboard"
+#~ msgstr "Reeks dashboard"
+
+#~ msgid "Product SKUs or UPCs"
+#~ msgstr "Partner Referentie Code of Product Code"
+
+#~ msgid "You can paste in a selection of SKUs or UPCs"
+#~ msgstr ""
+#~ "Je kan een selectie van Partner Referentie Codes of Product Codes plakken"
+
+#~ msgid "File of SKUs or UPCs"
+#~ msgstr "Bestand met Partner Referentie Codes of Product Codes"
+
+#~ msgid "Either comma-separated, or one identifier per line"
+#~ msgstr "Komma gescheiden of één item per regel"
+
+#~ msgid "You must submit either a list of SKU/UPCs or a file"
+#~ msgstr ""
+#~ "Je moet of een lijst met Partner Referentie Codes/Product Codes of een "
+#~ "bestand versturen"
+
+#~ msgid "The products with SKUs or UPCs matching %s are already in this range"
+#~ msgstr ""
+#~ "De producten met Partner Referentie Codes of Product Codes welke '%s' "
+#~ "bevatten zitten al in deze reeks"
+
+#~ msgid "No products exist with a SKU or UPC matching %s"
+#~ msgstr ""
+#~ "Er bestaat geen product met een Partner Referentie Code of Product Code "
+#~ "die %s bevat"
+
+#~ msgid "Create range"
+#~ msgstr "Nieuwe reeks aanmaken"
+
+#~ msgid "Range deleted"
+#~ msgstr "Reeks verwijderd"
+
+#~ msgid "Removed %d product from range"
+#~ msgid_plural "Removed %d products from range"
+#~ msgstr[0] "%d product uit het bereik verwijderd"
+#~ msgstr[1] "%d producten uit de reeks verwijderd"
+
+#~ msgid "%d product added to range"
+#~ msgid_plural "%d products added to range"
+#~ msgstr[0] "%d product aan de reeks toegevoegd"
+#~ msgstr[1] "%d producten aan de reeks toegevoegd"
+
+#~ msgid "No product(s) were found with SKU or UPC matching %s"
+#~ msgstr ""
+#~ "Geen product(en) gevonden met Partner Referentie Code of Product Code %s"
+
+#~ msgid "Reports dashboard"
+#~ msgstr "Rapportering dashboard"
+
+#~ msgid "Report Type"
+#~ msgstr "Rapport Type"
+
+#~ msgid "Only the offer and order reports use the selected date range"
+#~ msgstr ""
+#~ "Alleen de aanbod en bestelling rapporten gebruiken het geselecteerde "
+#~ "datumbereik"
+
+#~ msgid "The report is inclusive of this date"
+#~ msgstr "Het rapport is inclusief deze datum"
+
+#~ msgid "Download"
+#~ msgstr "Download"
+
+#~ msgid "Your start date must be before your end date"
+#~ msgstr "Je startdatum moet voor je einddatum zijn"
+
+#~ msgid "%(report_filter)s between %(start_date)s and %(end_date)s"
+#~ msgstr "%(report_filter)s tussen %(start_date)s en %(end_date)s"
+
+#~ msgid "You do not have access to this report"
+#~ msgstr "Je hebt geen toegang tot dit rapport"
+
+#~ msgid "Reviews dashboard"
+#~ msgstr "Beoordelingen dashboard"
+
+#~ msgid "Keyword"
+#~ msgstr "Trefwoord"
+
+#~ msgid "to"
+#~ msgstr "tot"
+
+#~ msgid ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+#~ msgstr ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+
+#~ msgid " created after %s"
+#~ msgstr "aangemaakt na %s"
+
+#~ msgid " created before %s"
+#~ msgstr "aangemaakt voor %s"
+
+#~ msgid " created between %(start_date)s and %(end_date)s"
+#~ msgstr "Aangemaakt tussen %(start_date)s en %(end_date)s"
+
+#~ msgid "All reviews"
+#~ msgstr "Alle beoordelingen"
+
+#~ msgid " with status matching '%s'"
+#~ msgstr "met status gelijk aan '%s'"
+
+#~ msgid " with keyword matching '%s'"
+#~ msgstr "met trefwoord gelijk aan '%s'"
+
+#~ msgid " with customer name matching '%s'"
+#~ msgstr "Naam klant voldoet aan '%s'"
+
+#~ msgid "Shipping dashboard"
+#~ msgstr "Verzending dashboard"
+
+#~ msgid "%d Row"
+#~ msgid_plural "%d Rows"
+#~ msgstr[0] "%d Regel"
+#~ msgstr[1] "%d Regels"
+
+#~ msgid "Users dashboard"
+#~ msgstr "Gebruiker dashboard"
+
+#~ msgctxt "User's name"
+#~ msgid "Name"
+#~ msgstr "Naam"
+
+#~ msgid "%(main_filter)s %(email_filter)s %(name_filter)s"
+#~ msgstr "%(main_filter)s %(email_filter)s %(name_filter)s"
+
+#~ msgid "All users"
+#~ msgstr "Alle gebruikers"
+
+#~ msgid " with email matching '%s'"
+#~ msgstr "met email die voldoet aan '%s'"
+
+#~ msgid " with name matching '%s'"
+#~ msgstr "met naam die voldoet aan '%s'"
+
+#~ msgid "Users' status successfully changed"
+#~ msgstr "Status van gebruiker succesvol gewijzigd"
+
+#~ msgid "A password reset email has been sent"
+#~ msgstr "Een wachtwoord reset e-mail werd verzonden"
+
+#~ msgid "All Alerts"
+#~ msgstr "Alle meldingen"
+
+#~ msgid " with customer email matching '%s'"
+#~ msgstr "met klant e-mail die voldoet aan '%s'"
+
+#~ msgid "Product alert saved"
+#~ msgstr "Product melding bewaard"
+
+#~ msgid "Product alert deleted"
+#~ msgstr "Product melding verwijderd"
+
+#~ msgid "Vouchers dashboard"
+#~ msgstr "Vouchers dashboard"
+
+#~ msgid "Start datetime"
+#~ msgstr "Start datumtijd"
+
+#~ msgid "End datetime"
+#~ msgstr "Einde datumtijd"
+
+#~ msgid "Usage"
+#~ msgstr "Gebruik"
+
+#~ msgid "Which products get a discount?"
+#~ msgstr "Welk product krijgt een korting?"
+
+#~ msgid "Percentage off of products in range"
+#~ msgstr "Percentage korting op producten binnen reeks"
+
+#~ msgid "Fixed amount off of products in range"
+#~ msgstr "Vast bedrag aftrekken van producten binnen een reeks"
+
+#~ msgid "Discount is a percentage off of the shipping cost"
+#~ msgstr "Korting is een percentage van de verzendkosten"
+
+#~ msgid "Discount is a fixed amount of the shipping cost"
+#~ msgstr "Korting is een vast bedrag van de verzendkosten"
+
+#~ msgid "Get shipping for a fixed price"
+#~ msgstr "Verzending voor een vaste prijs"
+
+#~ msgid "Discount type"
+#~ msgstr "Korting soort"
+
+#~ msgid "Discount value"
+#~ msgstr "Korting waarde"
+
+#~ msgid "The name '%s' is already in use"
+#~ msgstr "De naam '%s' is al in gebruikt"
+
+#~ msgid "The code '%s' is already in use"
+#~ msgstr "De code '%s' is al in gebruik"
+
+#~ msgid "The start date must be before the end date"
+#~ msgstr "De startdatum moet voor de einddatum zijn"
+
+#~ msgid "Is Active?"
+#~ msgstr "Actief?"
+
+#~ msgid "%(main_filter)s %(name_filter)s %(code_filter)s"
+#~ msgstr "%(main_filter)s %(name_filter)s %(code_filter)s"
+
+#~ msgid "All vouchers"
+#~ msgstr "Alle vouchers"
+
+#~ msgid "with name matching '%s'"
+#~ msgstr "met naam die voldoet aan '%s'"
+
+#~ msgid "with code '%s'"
+#~ msgstr "met code '%s'"
+
+#~ msgid "Active vouchers"
+#~ msgstr "Actieve vouchers"
+
+#~ msgid "Create voucher"
+#~ msgstr "Voucher aanmaken"
+
+#~ msgid "Offer for voucher '%s'"
+#~ msgstr "Aanbieding voor voucher '%s'"
+
+#~ msgid "Voucher created"
+#~ msgstr "Voucher aangemaakt"
+
+#~ msgid "Voucher updated"
+#~ msgstr "Voucher bijgewerkt"
+
+#~ msgid "Voucher deleted"
+#~ msgstr "Voucher verwijderd"
+
+#~ msgid "This is displayed within the customer's basket"
+#~ msgstr "Dit wordt weergegeven in de winkelmand van de klant"
+
+#~ msgid "This is displayed on the offer browsing page"
+#~ msgstr "Dit word weergegeven op de overzichtpagina voor aanbiedingen"
+
+#~ msgid "Site offer - available to all users"
+#~ msgstr "Website aanbieding - beschikbaar voor alle gebruikers"
+
+#~ msgid ""
+#~ "Voucher offer - only available after entering the appropriate voucher code"
+#~ msgstr ""
+#~ "Voucher aanbieding - alleen beschikbaar na invoeren van de voucher code"
+
+#~ msgid "User offer - available to certain types of user"
+#~ msgstr "Gebruiker aanbieding - alleen beschikbaar voor bepaalde gebruikers"
+
+#~ msgid ""
+#~ "Session offer - temporary offer, available for a user for the duration of "
+#~ "their session"
+#~ msgstr ""
+#~ "Sessie aanbieding - tijdelijke aanbieding, beschikbaar voor een gebruiker "
+#~ "voor de geldigheid van zijn sessie"
+
+#~ msgid "Condition"
+#~ msgstr "Voorwaarde"
+
+#~ msgid "Benefit"
+#~ msgstr "Voordeel"
+
+#~ msgid "Priority"
+#~ msgstr "Prioriteit"
+
+#~ msgid "The highest priority offers are applied first"
+#~ msgstr ""
+#~ "De aanbiedingen worden toegepast op volgorde van prioriteit (hoogste "
+#~ "eerste)"
+
+#~ msgid "Max global applications"
+#~ msgstr "Maximaal aantal globale applicaties"
+
+#~ msgid "The number of times this offer can be used before it is unavailable"
+#~ msgstr ""
+#~ "Aantal keer dat deze aanbieding gebruikt kan worden voor dat deze "
+#~ "onbeschikbaar wordt"
+
+#~ msgid "Max user applications"
+#~ msgstr "Maximaal aantal toepassingen per gebruiker"
+
+#~ msgid "The number of times a single user can use this offer"
+#~ msgstr "Aantal keren dat een gebruiker deze aanbieding kan gebruiken"
+
+#~ msgid "Max basket applications"
+#~ msgstr "Maximaal aantal toepassingen op winkelmandje"
+
+#~ msgid ""
+#~ "The number of times this offer can be applied to a basket (and order)"
+#~ msgstr ""
+#~ "Het aantal keren dat deze aanbieding toegepast kan worden op het "
+#~ "winkelmandje (en bestelling)"
+
+#~ msgid "Max discount"
+#~ msgstr "Maximale korting"
+
+#~ msgid ""
+#~ "When an offer has given more discount to orders than this threshold, then "
+#~ "the offer becomes unavailable"
+#~ msgstr ""
+#~ "Als een aanbieding meer korting heeft dan deze drempel is de aanbieding "
+#~ "niet beschikbaar"
+
+#~ msgid "Total Discount"
+#~ msgstr "Totale korting"
+
+#~ msgid "Number of applications"
+#~ msgstr "Aantal keer toegepast"
+
+#~ msgid "Number of Orders"
+#~ msgstr "Aantal bestellingen"
+
+#~ msgid "URL redirect (optional)"
+#~ msgstr "URL redirect (optioneel)"
+
+#~ msgid "Conditional offer"
+#~ msgstr "Conditionele aanbieding"
+
+#~ msgid "Conditional offers"
+#~ msgstr "Conditionele aanbiedingen"
+
+#~ msgid "End date should be later than start date"
+#~ msgstr "Einddatum moet later zijn dan startdatum"
+
+#~ msgid "Offer is suspended"
+#~ msgstr "Aanbod werd stopgezet"
+
+#~ msgid "Limited to %(total)d uses (%(remainder)d remaining)"
+#~ msgstr "Gelimiteerd tot %(total)d toepassingen (%(remainder)d over)"
+
+#~ msgid "Limited to 1 use per user"
+#~ msgstr "Gelimiteerd tot 1 per gebruiker"
+
+#~ msgid "Limited to %(total)d uses per user"
+#~ msgstr "Gelimiteerd tot %(total)d toepassingen per gebruiker"
+
+#~ msgid "Limited to 1 use per basket"
+#~ msgstr "Gelimiteerd tot 1 keer per winkelmand"
+
+#~ msgid "Limited to %(total)d uses per basket"
+#~ msgstr "Gelimiteerd tot %(total)d toepassingen per winkelmand"
+
+#~ msgid "Available between %(start)s and %(end)s"
+#~ msgstr "Beschikbaar tussen %(start)s en %(end)s"
+
+#~ msgid "Available from %(start)s"
+#~ msgstr "Beschikbaar vanaf %(start)s"
+
+#~ msgid "Available until %(end)s"
+#~ msgstr "Beschikbaar tot %(end)s"
+
+#~ msgid "Limited to a cost of %(max)s"
+#~ msgstr "Gelimiteerd tot maximum %(max)s"
+
+#~ msgid "Range"
+#~ msgstr "Reeks"
+
+#~ msgid "Discount is a percentage off of the product's value"
+#~ msgstr "Korting is een percentage van een productwaarde"
+
+#~ msgid "Discount is a fixed amount off of the product's value"
+#~ msgstr "Korting is een vaste hoeveelheid van de productwaarde"
+
+#~ msgid "Discount is to give the cheapest product for free"
+#~ msgstr "Korting is om het goedkoopste product gratis te geven"
+
+#~ msgid "Get the products that meet the condition for a fixed price"
+#~ msgstr "Alle producten die voldoen aan de vaste prijs korting"
+
+#~ msgid "Max Affected Items"
+#~ msgstr "Max betrokken onderdelen"
+
+#~ msgid ""
+#~ "Set this to prevent the discount consuming all items within the range "
+#~ "that are in the basket."
+#~ msgstr ""
+#~ "Stel dit in om te voorkomen dat de korting wordt toegepast op alle "
+#~ "producten binnen de reeks die in het winkelmandje zitten."
+
+#~ msgid "Custom class"
+#~ msgstr "Aangepaste klasse"
+
+#~ msgid "Benefits"
+#~ msgstr "Voordelen"
+
+#~ msgid "Multibuy benefits require a product range"
+#~ msgstr "Volume voordeel vereist een product reeks"
+
+#~ msgid "Multibuy benefits don't require a value"
+#~ msgstr "Volume voordelen vereisen geen waarde"
+
+#~ msgid "Multibuy benefits don't require a 'max affected items' attribute"
+#~ msgstr ""
+#~ "Volume voordelen vereisen geen 'maximaal betrokken onderdelen' attribuut"
+
+#~ msgid "Percentage benefits require a product range"
+#~ msgstr "Procentuele kortingen vereisen een product reeks"
+
+#~ msgid "Percentage discount cannot be greater than 100"
+#~ msgstr "Kortingspercentage kan niet groter zijn dan 100"
+
+#~ msgid "A discount value is required"
+#~ msgstr "Een korting waarde is verplicht"
+
+#~ msgid ""
+#~ "No range should be selected as this benefit does not apply to products"
+#~ msgstr ""
+#~ "Er hoeft geen reeks geselecteerd te worden aangezien dit voordeel niet "
+#~ "van toepassing is op producten"
+
+#~ msgid "Shipping discounts don't require a 'max affected items' attribute"
+#~ msgstr ""
+#~ "Kortingen op verzendkosten hebben geen 'max beïnvloedde items' attribuut "
+#~ "nodig"
+
+#~ msgid ""
+#~ "No range should be selected as the condition range will be used instead."
+#~ msgstr ""
+#~ "Er hoeft geen reeks geselecteerd te worden aangezien de voorwaarde reeks "
+#~ "zal worden gebruikt."
+
+#~ msgid "Fixed discount benefits require a product range"
+#~ msgstr "Vaste korting voordelen vereisen een product reeks"
+
+#~ msgid "Fixed discount benefits require a value"
+#~ msgstr "Vaste korting voordelen vereisen een waarde"
+
+#~ msgid "Depends on number of items in basket that are in condition range"
+#~ msgstr ""
+#~ "Afhankelijk van het aantal producten in het winkelmandje dat in de "
+#~ "conditionele reeks zit"
+
+#~ msgid "Depends on value of items in basket that are in condition range"
+#~ msgstr ""
+#~ "Afhankelijk van de waarde van de producten in het winkelmandje dat in de "
+#~ "conditionele reeks zit"
+
+#~ msgid ""
+#~ "Needs to contain a set number of DISTINCT items from the condition range"
+#~ msgstr "Heeft een aantal specifieke items nodig uit de conditionele reeks"
+
+#~ msgid "Conditions"
+#~ msgstr "Voorwaarden"
+
+#~ msgid "Is public?"
+#~ msgstr "Openbaar?"
+
+#~ msgid "Public ranges have a customer-facing page"
+#~ msgstr "Openbare reeksen zijn zichtbaar voor de klant"
+
+#~ msgid "Includes all products?"
+#~ msgstr "Inclusief Alle Producten?"
+
+#~ msgid "Included Products"
+#~ msgstr "Inbegrepen producten"
+
+#~ msgid "Excluded Products"
+#~ msgstr "Uitgesloten producten"
+
+#~ msgid "Included Categories"
+#~ msgstr "Inbegrepen categorieën"
+
+#~ msgid "File Path"
+#~ msgstr "Bestandslocatie"
+
+#~ msgid "Size"
+#~ msgstr "Grootte"
+
+#~ msgid "Uploaded By"
+#~ msgstr "Geüpload door"
+
+#~ msgid "Date Uploaded"
+#~ msgstr "Datum geüpload"
+
+#~ msgid "Error Message"
+#~ msgstr "Foutmelding"
+
+#~ msgid "Date Processed"
+#~ msgstr "Verwerkingsdatum"
+
+#~ msgid "Number of New SKUs"
+#~ msgstr "Aantal nieuwe Partner Referentie Codes"
+
+#~ msgid "Number of Unknown SKUs"
+#~ msgstr "Aantal onbekende Partner Referentie Codes"
+
+#~ msgid "Number of Duplicate SKUs"
+#~ msgstr "Aantal dubbele Partner Referentie Codes"
+
+#~ msgid "Range Product Uploaded File"
+#~ msgstr "Product reeks geüpload bestand"
+
+#~ msgid "Range Product Uploaded Files"
+#~ msgstr "Products reeks geüploade bestanden"
+
+#~ msgid "%(value)s%% discount on %(range)s"
+#~ msgstr "%(value)s%% korting op %(range)s"
+
+#~ msgid "Percentage discount benefit"
+#~ msgstr "Procentuele korting voordeel"
+
+#~ msgid "Percentage discount benefits"
+#~ msgstr "Procentuele korting voordelen"
+
+#~ msgid "%(value)s discount on %(range)s"
+#~ msgstr "%(value)s korting op %(range)s"
+
+#~ msgid "Absolute discount benefit"
+#~ msgstr "Absoluut kortingsvoordeel"
+
+#~ msgid "Absolute discount benefits"
+#~ msgstr "Absolute kortingsvoordelen"
+
+#~ msgid "The products that meet the condition are sold for %(amount)s"
+#~ msgstr ""
+#~ "Producten die voldoen aan deze voorwaarde worden verkocht voor %(amount)s"
+
+#~ msgid "Fixed price benefit"
+#~ msgstr "Vaste prijs voordeel"
+
+#~ msgid "Fixed price benefits"
+#~ msgstr "Vaste prijs voordelen"
+
+#~ msgid "Cheapest product from %(range)s is free"
+#~ msgstr "Goedkoopste product van %(range)s is gratis"
+
+#~ msgid "Multibuy discount benefit"
+#~ msgstr "Multibuy kortingsvoordeel"
+
+#~ msgid "Multibuy discount benefits"
+#~ msgstr "Multibuy kortingsvoordeel"
+
+#~ msgid "%(amount)s off shipping cost"
+#~ msgstr "%(amount)s korting op verzendkosten"
+
+#~ msgid "Shipping absolute discount benefit"
+#~ msgstr "Absoluut kortingsvoordeel voor verzending"
+
+#~ msgid "Shipping absolute discount benefits"
+#~ msgstr "Absolute kortingsvoordelen voor verzending"
+
+#~ msgid "Get shipping for %(amount)s"
+#~ msgstr "Verzending voor %(amount)s"
+
+#~ msgid "Fixed price shipping benefit"
+#~ msgstr "Vaste prijs verzending voordeel"
+
+#~ msgid "Fixed price shipping benefits"
+#~ msgstr "Vaste prijs verzending voordeel"
+
+#~ msgid "%(value)s%% off of shipping cost"
+#~ msgstr "%(value)s%% korting op verzendkosten"
+
+#~ msgid "Shipping percentage discount benefit"
+#~ msgstr "Procentuele korting voor verzending"
+
+#~ msgid "Shipping percentage discount benefits"
+#~ msgstr "Procentuele kortingen voor verzending"
+
+#~ msgid "Basket includes %(count)d item(s) from %(range)s"
+#~ msgstr "Winkelmand bevat %(count)d item(s) van %(range)s"
+
+#~ msgid "Count condition"
+#~ msgstr "Tel conditie"
+
+#~ msgid "Count conditions"
+#~ msgstr "Tel condities"
+
+#~ msgid "Buy %(delta)d more product from %(range)s"
+#~ msgid_plural "Buy %(delta)d more products from %(range)s"
+#~ msgstr[0] "Koop %(delta)d extra product van %(range)s"
+#~ msgstr[1] "Koop %(delta)d extra producten van %(range)s"
+
+#~ msgid "Basket includes %(count)d distinct item(s) from %(range)s"
+#~ msgstr "Winkelmandje bevat %(count)d item(s) van %(range)s"
+
+#~ msgid "Coverage Condition"
+#~ msgstr "Dekkingsvoorwaarde"
+
+#~ msgid "Coverage Conditions"
+#~ msgstr "Dekkingsvoorwaarden"
+
+#~ msgid "Basket includes %(amount)s from %(range)s"
+#~ msgstr "Winkelmandje bevat %(amount)s van %(range)s"
+
+#~ msgid "Value condition"
+#~ msgstr "Waarde conditie"
+
+#~ msgid "Value conditions"
+#~ msgstr "Waarde condities"
+
+#~ msgid "Spend %(value)s more from %(range)s"
+#~ msgstr "Besteed %(value)s meer van %(range)s"
+
+#~ msgid "Offer"
+#~ msgstr "Aanbieding"
+
+#~ msgid "Total discount"
+#~ msgstr "Totale korting"
+
+#~ msgid "Offer performance"
+#~ msgstr "Aanbieding prestatie"
+
+#~ msgid "Site"
+#~ msgstr "Website"
+
+#~ msgid "Billing Address"
+#~ msgstr "Factuuradres"
+
+#~ msgid "Order total (inc. tax)"
+#~ msgstr "Totaal bestelling (incl. btw)"
+
+#~ msgid "Order total (excl. tax)"
+#~ msgstr "Totaal bestelling (excl. btw)"
+
+#~ msgid "Shipping charge (inc. tax)"
+#~ msgstr "Verzendkosten (incl. btw)"
+
+#~ msgid "Shipping charge (excl. tax)"
+#~ msgstr "Verzendkosten (excl. btw)"
+
+#~ msgid "Shipping Address"
+#~ msgstr "Verzendadres"
+
+#~ msgid "Shipping method"
+#~ msgstr "Verzendmethode"
+
+#~ msgid "Guest email address"
+#~ msgstr "E-mail adres bezoeker"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status for order %(number)s (current "
+#~ "status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s' is geen geldige status voor bestelling %(number)s "
+#~ "(huidige status: '%(status)s')"
+
+#~ msgid "In progress"
+#~ msgstr "Wordt verwerkt"
+
+#~ msgid "Note Type"
+#~ msgstr "Notitie type"
+
+#~ msgid "Message"
+#~ msgstr "Bericht"
+
+#~ msgid "Order Note"
+#~ msgstr "Bestelling notitie"
+
+#~ msgid "Order Notes"
+#~ msgstr "Bestelling notities"
+
+#~ msgid "Event Type"
+#~ msgstr "Evenement Type"
+
+#~ msgid "Communication Event"
+#~ msgstr "Communicatie event"
+
+#~ msgid "Communication Events"
+#~ msgstr "Communicatie events"
+
+#~ msgid "'%(type)s' event for order #%(number)s"
+#~ msgstr "'%(type)s' event voor bestelling #%(number)s"
+
+#~ msgid "Partner name"
+#~ msgstr "Partner naam"
+
+#~ msgid "Partner reference"
+#~ msgstr "Partner referentie nummer"
+
+#~ msgid "This is the item number that the partner uses within their system"
+#~ msgstr "Dit is de product referentie dat de partner gebruikt "
+
+#~ msgid "Partner Notes"
+#~ msgstr "Partner notities"
+
+#~ msgid "Stock record"
+#~ msgstr "Voorraad record"
+
+#~ msgid "Price (inc. tax)"
+#~ msgstr "Prijs (incl. btw)"
+
+#~ msgid "Price (excl. tax)"
+#~ msgstr "Prijs (excl. btw)"
+
+#~ msgid "Price before discounts (inc. tax)"
+#~ msgstr "Prijs zonder korting (incl. btw)"
+
+#~ msgid "Price before discounts (excl. tax)"
+#~ msgstr "Prijs zonder korting (excl. btw)"
+
+#~ msgid "Unit Cost Price"
+#~ msgstr "Prijs per stuk"
+
+#~ msgid "Unit Price (inc. tax)"
+#~ msgstr "Prijs per stuk (incl. btw)"
+
+#~ msgid "Unit Price (excl. tax)"
+#~ msgstr "Prijs per stuk (excl. btw)"
+
+#~ msgid "Unit Retail Price"
+#~ msgstr "Verkoopprijs per stuk"
+
+#~ msgid "Estimated Dispatch Date"
+#~ msgstr "Geschatte verzenddatum"
+
+#~ msgid "Order Line"
+#~ msgstr "Order regel"
+
+#~ msgid "<missing product>"
+#~ msgstr "<product ontbreekt>"
+
+#~ msgid "Product '%(name)s', quantity '%(qty)s'"
+#~ msgstr "Product '%(name)s', hoeveelheid '%(qty)s'"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status (current status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s' is geen geldige status (huidige status: '%(status)s')"
+
+#~ msgid "'%(title)s' is no longer available"
+#~ msgstr "'%(title)s' bestaat niet meer"
+
+#~ msgid "Line Attribute"
+#~ msgstr "Regelattribuut"
+
+#~ msgid "Line Attributes"
+#~ msgstr "Regelattributen"
+
+#~ msgid "Shiping (inc. tax)"
+#~ msgstr "Verzendkosten (incl. btw)"
+
+#~ msgid "Shipping (excl. tax)"
+#~ msgstr "Verzendkosten (excl. btw)"
+
+#~ msgid "Line Price"
+#~ msgstr "Regel prijs"
+
+#~ msgid "Line Prices"
+#~ msgstr "Regel prijzen"
+
+#~ msgid "Line '%(number)s' (quantity %(qty)d) price %(price)s"
+#~ msgstr "Regel '%(number)s' (hoeveelheid %(qty)d) prijs %(price)s"
+
+#~ msgid "Payment Event Type"
+#~ msgstr "Betaal Event Type"
+
+#~ msgid "Payment Event Types"
+#~ msgstr "Betaal Event Types"
+
+#~ msgid "Amount"
+#~ msgstr "Aantal"
+
+#~ msgid "Reference"
+#~ msgstr "Referentie"
+
+#~ msgid "Lines"
+#~ msgstr "Regels"
+
+#~ msgid "Payment Event"
+#~ msgstr "Betaal Event"
+
+#~ msgid "Payment Events"
+#~ msgstr "Betaal Events"
+
+#~ msgid "Payment event for order %s"
+#~ msgstr "Betaal Event voor bestelling %s"
+
+#~ msgid "Event"
+#~ msgstr "Event"
+
+#~ msgid "Payment Event Quantity"
+#~ msgstr "Betaal Event hoeveelheid"
+
+#~ msgid "Payment Event Quantities"
+#~ msgstr "Betaal Event hoeveelheden"
+
+#~ msgid "Event notes"
+#~ msgstr "Event notities"
+
+#~ msgid "This could be the dispatch reference, or a tracking number"
+#~ msgstr "Dit kan de verzend referentie zijn, of een traceernummer."
+
+#~ msgid "Shipping Event"
+#~ msgstr "Shipping Event"
+
+#~ msgid "Shipping Events"
+#~ msgstr "Shipping Events"
+
+#~ msgid "Order #%(number)s, type %(type)s"
+#~ msgstr "Bestelling #%(number)s, type %(type)s"
+
+#~ msgid "Shipping Event Quantity"
+#~ msgstr "Shipping event hoeveelheid"
+
+#~ msgid "Shipping Event Quantities"
+#~ msgstr "Shipping Event hoeveelheden"
+
+#~ msgid "%(product)s - quantity %(qty)d"
+#~ msgstr "%(product)s - hoeveelheid %(qty)d"
+
+#~ msgid "Shipping Event Type"
+#~ msgstr "Shipping Event Type"
+
+#~ msgid "Shipping Event Types"
+#~ msgstr "Shipping Event Types"
+
+#~ msgid "Discount category"
+#~ msgstr "Kortingscategorie"
+
+#~ msgid "Offer ID"
+#~ msgstr "Aanbieding ID"
+
+#~ msgid "Voucher ID"
+#~ msgstr "Voucher ID"
+
+#~ msgid "Frequency"
+#~ msgstr "Frequentie"
+
+#~ msgid "Order Discount"
+#~ msgstr "Korting op bestelling"
+
+#~ msgid "Order Discounts"
+#~ msgstr "Kortingen op bestelling"
+
+#~ msgid "Discount of %(amount)r from order %(order)s"
+#~ msgstr "Korting van %(amount)r op bestelling %(order)s"
+
+#~ msgid "The selected quantity for line #%(line_id)s is too large"
+#~ msgstr "De geselecteerde hoeveelheid voor regel #%(line_id)s is te groot"
+
+#~ msgid "Total incl. tax"
+#~ msgstr "Totaal incl. btw"
+
+#~ msgid "Date placed"
+#~ msgstr "Datum geplaatst"
+
+#~ msgid "Orders placed"
+#~ msgstr "Bestellingen geplaatst"
+
+#~ msgid "Empty baskets cannot be submitted"
+#~ msgstr "Een lege winkelwagen kan niet worden verwerkt"
+
+#~ msgid "There is already an order with number %s"
+#~ msgstr "Er is reeds een bestelling met nummer %s"
+
+#~ msgid "Fulfillment partner"
+#~ msgstr "Fulfilment partner"
+
+#~ msgid "Fulfillment partners"
+#~ msgstr "Fulfilment partners"
+
+#~ msgid "Price (retail)"
+#~ msgstr "Prijs (retail)"
+
+#~ msgid "Cost Price"
+#~ msgstr "Kostprijs"
+
+#~ msgid "Number in stock"
+#~ msgstr "Aantal op voorraad"
+
+#~ msgid "Number allocated"
+#~ msgstr "Aantal toegewezen"
+
+#~ msgid "Low Stock Threshold"
+#~ msgstr "Drempelwaarde voor lage vooraad"
+
+#~ msgid "Invalid stock consumption request"
+#~ msgstr "Ongeldig voorraadverbruik verzoek"
+
+#~ msgid "Stock Record"
+#~ msgstr "Stock record"
+
+#~ msgid "Threshold"
+#~ msgstr "Drempel"
+
+#~ msgid "Open"
+#~ msgstr "Open"
+
+#~ msgid "Date Closed"
+#~ msgstr "Afgesloten op"
+
+#~ msgid "<stockalert for \"%(stock)s\" status %(status)s>"
+#~ msgstr "<voorraad melding voor \"%(stock)s\" status %(status)s>"
+
+#~ msgid "Stock alert"
+#~ msgstr "Voorraad melding"
+
+#~ msgid "Stock alerts"
+#~ msgstr "Voorraad meldingen"
+
+#~ msgid "unavailable"
+#~ msgstr "niet beschikbaar"
+
+#~ msgid "Unavailable"
+#~ msgstr "Niet beschikbaar"
+
+#~ msgid "Available"
+#~ msgstr "Beschikbaar"
+
+#~ msgid "no stock available"
+#~ msgstr "geen voorraad beschikbaar"
+
+#~ msgid "a maximum of %(max)d can be bought"
+#~ msgstr "er kunnen maximaal %(max)d gekocht worden"
+
+#~ msgid "In stock"
+#~ msgstr "op voorraad"
+
+#~ msgid "In stock (%d available)"
+#~ msgstr "Op voorraad (%d beschikbaar)"
+
+#~ msgid "No file path supplied"
+#~ msgstr "Geen bestandspad gevonden"
+
+#~ msgid "%s does not exist"
+#~ msgstr "%s bestaat niet"
+
+#~ msgid "%s is not a file"
+#~ msgstr "%s is geen bestand"
+
+#~ msgid "%s is not readable"
+#~ msgstr "%s is niet leesbaar"
+
+#~ msgid "Source"
+#~ msgstr "Bron"
+
+#~ msgid "%(type)s of %(amount).2f"
+#~ msgstr "%(type)s van %(amount).2f"
+
+#~ msgid "Transaction"
+#~ msgstr "Transactie"
+
+#~ msgid "Transactions"
+#~ msgstr "Transacties"
+
+#~ msgid "Source Type"
+#~ msgstr "Bron Type"
+
+#~ msgid "Amount Allocated"
+#~ msgstr "Bedrag toegewezen"
+
+#~ msgid "Amount Debited"
+#~ msgstr "Bedrag gedebiteerd"
+
+#~ msgid "Amount Refunded"
+#~ msgstr "Bedrag terugbetaald"
+
+#~ msgid "Label"
+#~ msgstr "Label"
+
+#~ msgid "Sources"
+#~ msgstr "Bronnen"
+
+#~ msgid "Allocation of %(amount)s from type %(type)s"
+#~ msgstr "Toewijzing van %(amount)s van type %(type)s"
+
+#~ msgid " (reference: %s)"
+#~ msgstr "(referentie: %s)"
+
+#~ msgid "This is used within forms to identify this source type"
+#~ msgstr "Dit wordt in formulieren gebruikt om de brontype te identificeren"
+
+#~ msgid "Source Types"
+#~ msgstr "Bron types"
+
+#~ msgid "Card Type"
+#~ msgstr "Kaart Type"
+
+#~ msgid "Number"
+#~ msgstr "Nummer"
+
+#~ msgid "Expiry Date"
+#~ msgstr "Vervaldatum"
+
+#~ msgid "Partner Reference"
+#~ msgstr "Partner Referentie"
+
+#~ msgid "%(card_type)s %(number)s (Expires: %(expiry)s)"
+#~ msgstr "%(card_type)s %(number)s (Vervalt: %(expiry)s)"
+
+#~ msgid "Bankcard"
+#~ msgstr "Bankkaart"
+
+#~ msgid "Bankcards"
+#~ msgstr "Bankkaarten"
+
+#~ msgid "Payment"
+#~ msgstr "Betaling"
+
+#~ msgid "Card number"
+#~ msgstr "Kaart nummer"
+
+#~ msgid "Please enter a valid credit card number."
+#~ msgstr "Voer een geldig credit card nummer in."
+
+#~ msgid "%s cards are not accepted."
+#~ msgstr "%s kaarten worden niet geaccepteerd."
+
+#~ msgid "Enter a valid month."
+#~ msgstr "Voer een geldige maand in."
+
+#~ msgid "Enter a valid year."
+#~ msgstr "Vozr een geldig jaartal in."
+
+#~ msgid "Valid to"
+#~ msgstr "Geldig tot"
+
+#~ msgid "The expiration date you entered is in the past."
+#~ msgstr "De ingevoerde vervaldatum is in het verleden."
+
+#~ msgid "Valid from"
+#~ msgstr "Geldig vanaf"
+
+#~ msgid "The starting date you entered is in the future."
+#~ msgstr "De ingevoerde startdatum is in de toekomst."
+
+#~ msgid "CCV number"
+#~ msgstr "CCV nummer"
+
+#~ msgid "Please enter a 3 or 4 digit number"
+#~ msgstr "Voeg een 3 of 4 cijferig getal in"
+
+#~ msgid ""
+#~ "This is the 3 or 4 digit security number on the back of your bankcard"
+#~ msgstr ""
+#~ "Dit is het 3 of 4 cijferige beveiligingsnummer op de achterkant van uw "
+#~ "bankkaart"
+
+#~ msgid "American Express cards use a 4 digit security code"
+#~ msgstr "American Express kaarten gebruiken een beveilingscode van 4 nummers"
+
+#~ msgid "Promotions"
+#~ msgstr "Promoties"
+
+#~ msgid "Display Order"
+#~ msgstr "Volgorde"
+
+#~ msgid "Clicks"
+#~ msgstr "Kliks"
+
+#~ msgid "Linked Promotion"
+#~ msgstr "Gelinkte promotie"
+
+#~ msgid "Linked Promotions"
+#~ msgstr "Gelinkte promoties"
+
+#~ msgid "Page URL"
+#~ msgstr "Pagina URL"
+
+#~ msgid "Page Promotion"
+#~ msgstr "Pagina promotie"
+
+#~ msgid "Page Promotions"
+#~ msgstr "Pagina Promoties"
+
+#~ msgid "Filter"
+#~ msgstr "Filter"
+
+#~ msgid "Keyword Promotion"
+#~ msgstr "Trefwoord promotie"
+
+#~ msgid "Keyword Promotions"
+#~ msgstr "Trefwoord promoties"
+
+#~ msgid "Keywords"
+#~ msgstr "Sleutelwoorden"
+
+#~ msgid "Promotion"
+#~ msgstr "Promotie"
+
+#~ msgid "Display type"
+#~ msgstr "Volgorde"
+
+#~ msgid ""
+#~ "This can be used to have different types of HTML blocks (eg different "
+#~ "widths)"
+#~ msgstr ""
+#~ "Dit kan gebruikt worden om verschillende HTML blokken te gebruiken (bijv. "
+#~ "verschillende breedtes)"
+
+#~ msgid "Raw HTML"
+#~ msgstr "Ruwe HTML"
+
+#~ msgid "Link URL"
+#~ msgstr "Link URL"
+
+#~ msgid "This is where this promotion links to"
+#~ msgstr "Dit is waar promotie naartoe linkt"
+
+#~ msgid ""
+#~ "Choose the Image content blocks that this block will use. (You may need "
+#~ "to create some first)."
+#~ msgstr ""
+#~ "Kies de Afbeelding inhoudsblokken die dit blok zal gebruiken. (Mogelijk "
+#~ "moet ja er eerst een aanmaken)."
+
+#~ msgid "Multi Image"
+#~ msgstr "Meerdere afbeeldingen"
+
+#~ msgid "Multi Images"
+#~ msgstr "Meerdere afbeeldingen"
+
+#~ msgid "Single product"
+#~ msgstr "Enkel product"
+
+#~ msgctxt "Promotion product list title"
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "Link text"
+#~ msgstr "Link tekst"
+
+#~ msgid "Product list"
+#~ msgstr "Product lijst"
+
+#~ msgid "Product lists"
+#~ msgstr "Product lijsten"
+
+#~ msgid "Hand Picked Product List"
+#~ msgstr "Handmatig samengestelde product lijst"
+
+#~ msgid "Hand Picked Product Lists"
+#~ msgstr "Handmatig samengestelde product lijsten"
+
+#~ msgid "List"
+#~ msgstr "Lijst"
+
+#~ msgid "Ordered product"
+#~ msgstr "Besteld product"
+
+#~ msgid "Bestselling products"
+#~ msgstr "Best verkochte producten"
+
+#~ msgid "Recently added products"
+#~ msgstr "Recentelijk toegevoegde producten"
+
+#~ msgid "Method"
+#~ msgstr "Methode"
+
+#~ msgid "Number of Products"
+#~ msgstr "Aantal producten"
+
+#~ msgid "Automatic product list"
+#~ msgstr "Automatische product lijst"
+
+#~ msgid "Automatic product lists"
+#~ msgstr "Automatische product lijsten"
+
+#~ msgid "Tabbed Block"
+#~ msgstr "Blok met tabbladen"
+
+#~ msgid "Ordered Product List"
+#~ msgstr "Bestelde product lijst"
+
+#~ msgid "Ordered Product Lists"
+#~ msgstr "Bestelde producten lijsten"
+
+#~ msgctxt "Tabbed block title"
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "Tabbed Blocks"
+#~ msgstr "Blokken met tabbladen"
+
+#~ msgid "Search"
+#~ msgstr "Zoek"
+
+#~ msgid "Relevancy"
+#~ msgstr "Relevantie"
+
+#~ msgid "Customer rating"
+#~ msgstr "Klant beoordeling"
+
+#~ msgid "Newest"
+#~ msgstr "Nieuwste"
+
+#~ msgid "Price high to low"
+#~ msgstr "Prijs aflopend"
+
+#~ msgid "Price low to high"
+#~ msgstr "Prijs oplopend"
+
+#~ msgid "Title A to Z"
+#~ msgstr "Titel A tot Z"
+
+#~ msgid "Title Z to A"
+#~ msgstr "Titel Z tot A"
+
+#~ msgid "Page is not 'last', nor can it be converted to an int."
+#~ msgstr "Pagina is niet 'last' en kan niet worden omgezet naar een getal."
+
+#~ msgid "Shipping Method"
+#~ msgstr "Verzend methode"
+
+#~ msgid "Shipping Methods"
+#~ msgstr "Verzend methoden"
+
+#~ msgid "Price per order"
+#~ msgstr "Prijs per bestelling"
+
+#~ msgid "Price per item"
+#~ msgstr "Prijs per stuk"
+
+#~ msgid "Free Shipping"
+#~ msgstr "Gratis verzending"
+
+#~ msgid "Order and Item Charge"
+#~ msgstr "Bestelling en productkosten"
+
+#~ msgid "Order and Item Charges"
+#~ msgstr "Bestelling en productkosten"
+
+#~ msgid "Default Weight"
+#~ msgstr "Standaard gewicht"
+
+#~ msgid "Default product weight in kg when no weight attribute is defined"
+#~ msgstr ""
+#~ "Het standaard productgewicht, in kg, wanneer geen gewicht werd "
+#~ "gedefinieerd"
+
+#~ msgid "Weight-based Shipping Method"
+#~ msgstr "Gewicht gebaseerde verzend methode"
+
+#~ msgid "Weight-based Shipping Methods"
+#~ msgstr "Gewicht gebaseerde verzend methoden"
+
+#~ msgid "Upper Limit"
+#~ msgstr "Bovenlimiet"
+
+#~ msgid ""
+#~ "Enter upper limit of this weight band in kg. The lower limit will be "
+#~ "determined by the other weight bands."
+#~ msgstr ""
+#~ "Voer bovengrens van deze gewichtklasse in, in kg. De ondergrens wordt "
+#~ "bepaald door de andere gewichtklassen."
+
+#~ msgid "Charge"
+#~ msgstr "Kosten"
+
+#~ msgid "Weight Band"
+#~ msgstr "Gewichtklasse"
+
+#~ msgid "Weight Bands"
+#~ msgstr "Gewichtklassen"
+
+#~ msgid "Charge for weights up to %s kg"
+#~ msgstr "Kost voor een gewicht tot %s kg"
+
+#~ msgid "Shipping"
+#~ msgstr "Verzending"
+
+#~ msgid "Free shipping"
+#~ msgstr "Gratis verzending"
+
+#~ msgid "No shipping required"
+#~ msgstr "Geen verzending nodig"
+
+#~ msgid "Fixed price shipping"
+#~ msgstr "Vaste prijs verzending"
+
+#~ msgid "You need to define some shipping methods"
+#~ msgstr "Je moet een aantal verzend methoden definiëren"
+
+#~ msgid ""
+#~ "This will be shown in the checkout and basket once the voucher is entered"
+#~ msgstr ""
+#~ "Dit zal worden getoond tijdens het afrekenen van het winkelmandje zodra "
+#~ "de voucher ingevoerd is"
+
+#~ msgid "Case insensitive / No spaces allowed"
+#~ msgstr "Hoofdlettergevoelig / Geen spaties toegestaan"
+
+#~ msgid "Can be used once by one customer"
+#~ msgstr "Kan maar één keer gebruikt worden door één klant"
+
+#~ msgid "Can be used multiple times by multiple customers"
+#~ msgstr "Kan meerdere keren gebruikt worden door meerdere klanten"
+
+#~ msgid "Can only be used once per customer"
+#~ msgstr "Kan maar één keer gebruikt worden per klant"
+
+#~ msgid "Times added to basket"
+#~ msgstr "Aantal keren aan winkelmandje toegevoegd"
+
+#~ msgid "Times on orders"
+#~ msgstr "Tijden op bestellingen"
+
+#~ msgid "Voucher"
+#~ msgstr "Voucher"
+
+#~ msgid "This voucher has already been used"
+#~ msgstr "Deze voucher is reeds gebruikt"
+
+#~ msgid "This voucher is only available to signed in users"
+#~ msgstr ""
+#~ "Deze voucher is alleen beschikbaar voor gebruikers die ingelogd zijn"
+
+#~ msgid "You have already used this voucher in a previous order"
+#~ msgstr "Deze voucher is al een keer gebruikt voor een eerdere bestelling"
+
+#~ msgid "Voucher Application"
+#~ msgstr "Voucher Applicatie"
+
+#~ msgid "Voucher Applications"
+#~ msgstr "Voucher toepassingen"
+
+#~ msgid "'%(voucher)s' used by '%(user)s'"
+#~ msgstr "'%(voucher)s' gebruikt door '%(user)s'"
+
+#~ msgid "Added to a basket"
+#~ msgstr "Toegevoegd aan winkelmand"
+
+#~ msgid "Used in an order"
+#~ msgstr "Gebruikt in een bestelling"
+
+#~ msgid "Voucher performance"
+#~ msgstr "Voucher prestatie"
+
+#~ msgid "Default"
+#~ msgstr "Standaard"
+
+#~ msgid "Private - Only the owner can see the wish list"
+#~ msgstr "Privé - Alleen de eigenaar kan de verlanglijst zien"
+
+#~ msgid ""
+#~ "Shared - Only the owner and people with access to the obfuscated link can "
+#~ "see the wish list"
+#~ msgstr ""
+#~ "Gedeeld - Alleen de eigenaar en de mensen met toegang kunnen de "
+#~ "verlanglijst zien"
+
+#~ msgid "Public - Everybody can see the wish list"
+#~ msgstr "Publiek - Iedereen kan de verlanglijst zien"
+
+#~ msgid "Visibility"
+#~ msgstr "Zichtbaarheid"
+
+#~ msgid "Wish List"
+#~ msgstr "Verlanglijst"
+
+#~ msgid "Wish list line"
+#~ msgstr "Verlanglijst regel"
+
+#~ msgid "Wishlists"
+#~ msgstr "Verlanglijsten"
+
+#~ msgid "The URL \"%s\" does not exist"
+#~ msgstr "De URL \"%s\" bestaat niet"
+
+#~ msgid "Specified page already exists!"
+#~ msgstr "Gespecificeerde pagina bestaat al!"
+
+#~ msgid "This field is required"
+#~ msgstr "Dit veld is verplicht"
+
+#~ msgid "This field is invalid as its value is forbidden"
+#~ msgstr "Dit veld is ongeldig want zijn waarde is niet toegestaan"
+
+#~ msgid "This is not a valid international phone format."
+#~ msgstr "Dit is geen geldig internationaal telefoonnummer."
+
+#~ msgid "This is not a valid local phone format for %s."
+#~ msgstr "Dit is geen geldig lokaal telefoonnummer optie voor %s"
+
+#~ msgid "This is not a valid local or international phone format."
+#~ msgstr "Dit is geen geldig lokaal of internationaal telefoonnummer."
+
+#~ msgid "Check for products that are back in stock and send out alerts"
+#~ msgstr ""
+#~ "Controleer voor producten die weer op voorraad zijn en stuur vervolgens "
+#~ "meldingen"
+
+#~ msgid "Permission denied!"
+#~ msgstr "Toegang geweigerd!"
+
+#~ msgid "We're sorry but you are not permitted to access this page."
+#~ msgstr "Het spijt ons maar u heeft geen toegang tot deze pagina."
+
+#~ msgid "Page not found"
+#~ msgstr "Pagina niet gevonden"
+
+#~ msgid "Page not found!"
+#~ msgstr "Pagina niet gevonden!"
+
+#~ msgid "We're sorry but the page you are looking for can't be found."
+#~ msgstr ""
+#~ "Het spijt ons, maar de pagina waarnaar u zoekt kan niet worden gevonden."
+
+#~ msgid "Server error!"
+#~ msgstr "Server fout!"
+
+#~ msgid ""
+#~ "We're sorry but something went terribly wrong and we've been unable to "
+#~ "generate the page you requested."
+#~ msgstr "Het spijt ons, er is iets fout gegaan."
+
+#~ msgid ""
+#~ "This incident has been logged and will be addressed by an engineer as "
+#~ "soon as possible."
+#~ msgstr ""
+#~ "Het probleem is gelogd en zal zo snel mogelijk door een technieker worden "
+#~ "aangepakt."
+
+#~ msgid "Home"
+#~ msgstr "Startpagina"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(title)s</strong> has been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> is toegevoegd aan je winkelmand.\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(quantity)s</strong> copies of <strong>%(title)s</strong>\n"
+#~ "    have been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(quantity)s</strong> exemplaren van <strong>%(title)s</strong>\n"
+#~ "zijn toegevoegd aan je winkelmand.\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been moved back to your basket.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> is teruggeplaatst in je winkelmand.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been saved for later\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> is opgeslagen voor later\n"
+
+#~ msgid "Your basket is now empty"
+#~ msgstr "Je winkelmand is leeg"
+
+#~ msgid ""
+#~ "\n"
+#~ "            Your basket total is now <strong>%(total)s</strong>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Uw winkelwagen totaal is nu <strong>%(total)s</strong>\n"
+#~ "            "
+
+#~ msgid "View basket"
+#~ msgstr "Bekijk winkelmand"
+
+#~ msgid "Checkout now"
+#~ msgstr "Nu afrekenen"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket now qualifies for the \n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Uw winkelmandje komt nu in aanmerking voor de aanbieding  \n"
+#~ "<strong>%(name)s</strong>.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket no longer qualifies for the\n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Uw winkelmandje komt niet langer in aanmerking voor de aanbieding \n"
+#~ "<strong>%(name)s</strong>.\n"
+
+#~ msgid "Important messages about items in your basket"
+#~ msgstr "Belangrijke berichten over producten in je winkelmand"
+
+#~ msgid "You could be missing out on offers!"
+#~ msgstr "Je loopt risico om aanbiedingen te missen!"
+
+#~ msgid ""
+#~ "\n"
+#~ "                <div class=\"warning\">%(message)s to qualify for the <a "
+#~ "href=\"%(url)s\">%(offer_name)s</a> special offer</div>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "<div class=\"warning\">%(message)s om in aanmerking te komen voor de "
+#~ "speciale aanbieding  <a href=\"%(url)s\">%(offer_name)s</a></div>\n"
+#~ "            "
+
+#~ msgid "Items to buy now"
+#~ msgstr "Producten om nu te kopen"
+
+#~ msgid "Price"
+#~ msgstr "Prijs"
+
+#~ msgid "Total"
+#~ msgstr "Totaal"
+
+#~ msgid "Updating..."
+#~ msgstr "Aan het bijwerken..."
+
+#~ msgid "Update"
+#~ msgstr "Update"
+
+#~ msgid "Remove"
+#~ msgstr "Verwijder"
+
+#~ msgid "Save for later"
+#~ msgstr "Bewaren voor later"
+
+#~ msgid "Voucher/promo code"
+#~ msgstr "Voucher/promotie code"
+
+#~ msgid "I have a voucher code..."
+#~ msgstr "Ik heb een voucher code..."
+
+#~ msgid "Adding..."
+#~ msgstr "Aan het toevoegen..."
+
+#~ msgid "Add voucher"
+#~ msgstr "Voeg voucher toe"
+
+#~ msgid "or"
+#~ msgstr "of"
+
+#~ msgid "cancel"
+#~ msgstr "annuleren"
+
+#~ msgid "Totals"
+#~ msgstr "Totaal"
+
+#~ msgid "Proceed to checkout"
+#~ msgstr "Naar kassa"
+
+#~ msgid "Your basket is empty."
+#~ msgstr "Je winkelmand is leeg"
+
+#~ msgid "Continue shopping"
+#~ msgstr "Verdergaan met winkelen"
+
+#~ msgid "Items to buy later"
+#~ msgstr "Producten om later te kopen"
+
+#~ msgid "Items"
+#~ msgstr "Items"
+
+#~ msgid "Move to basket"
+#~ msgstr "Verplaats naar winkelwagen"
+
+#~ msgid "Qty"
+#~ msgstr "Aantal"
+
+#~ msgid "Total:"
+#~ msgstr "Totaal:"
+
+#~ msgid "Basket total (before discounts)"
+#~ msgstr "Winkelmand totaal (voor kortingen)"
+
+#~ msgid "Discount"
+#~ msgstr "Korting"
+
+#~ msgid "Basket total (after discounts)"
+#~ msgstr "Winkelmand totaal (na kortingen)"
+
+#~ msgid "Basket total"
+#~ msgstr "Winkelmand totaal"
+
+#~ msgid "Alternative shipping methods can be chosen during checkout"
+#~ msgstr ""
+#~ "Alternatieve verzendmethodes kunnen gekozen worden tijdens het betalen"
+
+#~ msgid "Shipping total (before discounts)"
+#~ msgstr "Totaal verzendkosten (voor kortingen)"
+
+#~ msgid "Shipping total (after discounts)"
+#~ msgstr "Totaal verzendkosten (na kortingen)"
+
+#~ msgid "Tax"
+#~ msgstr "BTW"
+
+#~ msgid "Post order actions"
+#~ msgstr "Acties voor na bestelling"
+
+#~ msgid "These will be applied once your order is placed."
+#~ msgstr "Deze worden toegepast zodra uw bestelling is geplaatst"
+
+#~ msgid "Taxes will be added during checkout."
+#~ msgstr "BTW wordt aangerekend tijdens het betalen."
+
+#~ msgid "Show results for"
+#~ msgstr "Toon resultaten voor"
+
+#~ msgid "Refine by"
+#~ msgstr "Filter"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> resultaat - vertoont <strong>%(start)s</"
+#~ "strong> tot <strong>%(end)s</strong>."
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> resultaten - vertoont <strong>%(start)s</"
+#~ "strong> tot <strong>%(end)s</strong>.\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> resultaat."
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> resultaten.\n"
+#~ "                "
+
+#~ msgid "<strong>0</strong> results."
+#~ msgstr "<strong>0</strong> resultaten."
+
+#~ msgid "No products found."
+#~ msgstr "Geen product gevonden."
+
+#~ msgid "Edit this product"
+#~ msgstr "Wijzig dit product"
+
+#~ msgid "Product Description"
+#~ msgstr "Product Beschrijving"
+
+#~ msgid "Product Information"
+#~ msgstr "Product Informatie"
+
+#~ msgid "Product Type"
+#~ msgstr "Product Type"
+
+#~ msgid "Price (incl. tax)"
+#~ msgstr "Prijs (incl. btw)"
+
+#~ msgid "Availability"
+#~ msgstr "Beschikbaarheid"
+
+#~ msgid "Number of reviews"
+#~ msgstr "Aantal beoordelingen"
+
+#~ msgid "See all reviews"
+#~ msgstr "Bekijk alle beoordelingen"
+
+#~ msgid "Customer Reviews"
+#~ msgstr "Klant beoordelingen"
+
+#~ msgid ""
+#~ "This product does not have any reviews yet -\n"
+#~ "                            <a href=\"%(add_review_url)s#addreview\">be "
+#~ "the first to write one</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "Dit product heeft nog geen beoordelingen -\n"
+#~ "                            <a href=\"%(add_review_url)s#addreview\">wees "
+#~ "de eerste om er een te schrijven</a>.\n"
+#~ "                        "
+
+#~ msgid "This product does not have any reviews yet"
+#~ msgstr "Dit product heeft nog geen beoordelingen"
+
+#~ msgid "Recommended items"
+#~ msgstr "Aanbevolen items"
+
+#~ msgid "Add to basket"
+#~ msgstr "Voeg aan winkelmand toe"
+
+#~ msgid "You have an active stock alert for this product."
+#~ msgstr "Je hebt een actieve voorraad melding voor dit product"
+
+#~ msgid "You can get an email alert when this product is back in stock."
+#~ msgstr ""
+#~ "Ja kan een melding via email ontvangen wanneer we het product weer op "
+#~ "stock hebben"
+
+#~ msgid "Notify me"
+#~ msgstr "Hou me op de hoogte"
+
+#~ msgid "Add to wish list"
+#~ msgstr "Voeg toe aan verlanglijst"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                            Add to '%(name)s' wish list\n"
+#~ "                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Voeg toe aan verlanglijst '%(name)s'\n"
+#~ "\t                                    "
+
+#~ msgid "Create a new wishlist"
+#~ msgstr "Creëer een nieuwe verlanglijst"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <span class=\"pull-left\">Product is in <a href="
+#~ "\"%(url)s\">'%(name)s'</a> wishlist.</span>\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    <span class=\"pull-left\">Dit product staat op het "
+#~ "verlanglijstje <a href=\"%(url)s\">'%(name)s'</a>.</span>\n"
+#~ "                "
+
+#~ msgid "Removing..."
+#~ msgstr "Aan het verwijderen..."
+
+#~ msgid "Please login to add products to a wish list."
+#~ msgstr "Log in om producten aan een verlanglijst toe te voegen."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Reviewed by you on %(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                Door u beoordeeld op %(review_date)s\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Reviewed by <strong>%(name)s</strong> on "
+#~ "%(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Beoordeeld door <strong>%(name)s</strong> op "
+#~ "%(review_date)s\n"
+#~ "                "
+
+#~ msgid "Is this review helpful?"
+#~ msgstr "Is deze beoordeling behulpzaam?"
+
+#~ msgid "Yes"
+#~ msgstr "Ja"
+
+#~ msgid "No"
+#~ msgstr "Nee"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customer "
+#~ "found this useful\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customers "
+#~ "found this useful\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(num_up_votes)s</strong> van %(num_votes)s klant vonden dit "
+#~ "nuttig"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(num_up_votes)s</strong> van %(num_votes)s klanten vonden dit "
+#~ "nuttig\n"
+#~ "            "
+
+#~ msgid "This review has no votes."
+#~ msgstr "De review heeft geen stemmen."
+
+#~ msgid "Free"
+#~ msgstr "Gratis"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer review\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer reviews\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "%(num_reviews)s klantbeoordeling\n"
+#~ "                "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "%(num_reviews)s klantbeoordelingen\n"
+#~ "                "
+
+#~ msgid "Write a review"
+#~ msgstr "Schrijf een review"
+
+#~ msgid "Customer reviews"
+#~ msgstr "Klant beoordelingen"
+
+#~ msgid "Leave a product review"
+#~ msgstr "Laat een productbeoordeling achter"
+
+#~ msgid "Saving..."
+#~ msgstr "Aan het opslaan..."
+
+#~ msgid "Save review"
+#~ msgstr "Bewaar beoordeling"
+
+#~ msgid "This product does not have any reviews yet."
+#~ msgstr "Dit product heeft nog geen beoordelingen."
+
+#~ msgid "Change"
+#~ msgstr "Wijzig"
+
+#~ msgid "Contact"
+#~ msgstr "Contact"
+
+#~ msgid "Phone"
+#~ msgstr "Telefoon"
+
+#~ msgid "Payment details to go here"
+#~ msgstr "Betaling details komen hier"
+
+#~ msgid "Edit order contents"
+#~ msgstr "Wijzig inhoud van bestelling"
+
+#~ msgid "Order contents"
+#~ msgstr "Bestelling inhoud"
+
+#~ msgid "Item"
+#~ msgstr "Item"
+
+#~ msgid "Checkout gateway"
+#~ msgstr "Afrekenportaal"
+
+#~ msgid "Who are you?"
+#~ msgstr "Wie ben je?"
+
+#~ msgid "Get a password reminder"
+#~ msgstr "Ontvang een wachtwoord herinnering"
+
+#~ msgid "Continuing..."
+#~ msgstr "Aan het verder gaan..."
+
+#~ msgid "Continue"
+#~ msgstr "Verder"
+
+#~ msgid "1. Shipping address"
+#~ msgstr "1. Bezorgadres"
+
+#~ msgid "2. Shipping method"
+#~ msgstr "2. Verzendmethode"
+
+#~ msgid "3. Payment"
+#~ msgstr "3. Betaling"
+
+#~ msgid "4. Preview"
+#~ msgstr "4. Preview"
+
+#~ msgid "5. Confirmation"
+#~ msgstr "5. Bevestiging"
+
+#~ msgid "Payment details"
+#~ msgstr "Betalingsgegevens"
+
+#~ msgid "Enter payment details"
+#~ msgstr "Voer betalingsgegevens in"
+
+#~ msgid ""
+#~ "This page needs implementing within your project.  You may want to use "
+#~ "one of Oscar's payment gateway libraries:"
+#~ msgstr ""
+#~ "Deze pagina dient geïmplementeerd te worden binnen je project. Misschien "
+#~ "wilt u gebruik maken van één van Oscar's betalingsportaal bibliotheken:"
+
+#~ msgid "Order preview"
+#~ msgstr "Voorvertoning van bestelling"
+
+#~ msgid "Preview order"
+#~ msgstr "Voorvertoning bestelling"
+
+#~ msgid "Place order"
+#~ msgstr "Plaats bestelling"
+
+#~ msgid "Where should we ship to?"
+#~ msgstr "Waar moeten we het naartoe verzenden?"
+
+#~ msgid "An address from your address book?"
+#~ msgstr "Een adres uit je adresboek?"
+
+#~ msgid "Ship to your default shipping address"
+#~ msgstr "Verzend naar je standaard afleveradres"
+
+#~ msgid "Ship to this address"
+#~ msgstr "Verzend naar dit adres"
+
+#~ msgid "Delete"
+#~ msgstr "Verwijder"
+
+#~ msgid "Or a new address?"
+#~ msgstr "Of een nieuw adres?"
+
+#~ msgid "return to basket"
+#~ msgstr "terug naar winkemand"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                This includes a discount of <strong>"
+#~ "%(amount)s</strong> as\n"
+#~ "                                your basket qualifies for the <strong>"
+#~ "%(name)s</strong> offer.\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "Dit is inclusief een korting van <strong>%(amount)s</strong> aangezien uw "
+#~ "winkelmandje in aanmerking komt voor de aanbieding <strong>'%(name)s'</"
+#~ "strong>.\n"
+#~ "                           "
+
+#~ msgid "Select option"
+#~ msgstr "Selecteer optie"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s: confirmation\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        Bestelling %(number)s: bevestiging\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "        Your order has been placed and a confirmation email has been sent "
+#~ "- your order number is\n"
+#~ "        <strong>%(number)s</strong>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "Je bestelling is geplaatst en er is een bevestiging via email gestuurd. "
+#~ "Het bestelnummer is\n"
+#~ "<strong>%(number)s</strong>"
+
+#~ msgid ""
+#~ "Please make a note of this reference or print this page and quote it in "
+#~ "any communication with us regarding your order."
+#~ msgstr ""
+#~ "Maak a.u.b. aantekening van deze referentie of print deze pagina. Wanneer "
+#~ "je contact met ons wilt opnemen over deze bestelling, kan je dit als "
+#~ "referentie gebruiken."
+
+#~ msgid "No shipping address required."
+#~ msgstr "Een afleveradres is niet nodig."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s (reference: %(reference)s)\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "                                Toewijzing van %(amount)s van type "
+#~ "%(type)s (referentie: %(reference)s)\n"
+#~ "                            "
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "                                Toewijzing van %(amount)s van type "
+#~ "%(type)s\n"
+#~ "                            "
+
+#~ msgid "No payment was required for this order."
+#~ msgstr "Voor deze bestelling is geen betaling vereist."
+
+#~ msgid "Items purchased"
+#~ msgstr "Items gekocht"
+
+#~ msgid ""
+#~ "\n"
+#~ "                            Estimated dispatch: <strong>%(date)s</"
+#~ "strong>\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Verwachtte verzending: <strong>%(date)s</strong>"
+
+#~ msgid "Shipping charge (before discounts)"
+#~ msgstr "Verzendkosten (voor kortingen)"
+
+#~ msgid "Shipping charge (after discounts)"
+#~ msgstr "Verzendkosten (na kortingen)"
+
+#~ msgid "Shipping charge"
+#~ msgstr "Verzendkosten"
+
+#~ msgid "Order tax"
+#~ msgstr "Bestelling BTW"
+
+#~ msgid "Tracking your order"
+#~ msgstr "Volg je bestelling"
+
+#~ msgid "You can track the status of your order"
+#~ msgstr "Je kan de status van je bestelling volgen"
+
+#~ msgid "View order status"
+#~ msgstr "Bekijk order status"
+
+#~ msgid "Print this page"
+#~ msgstr "Print deze pagina"
+
+#~ msgid "Are you sure you want to delete this address?"
+#~ msgstr "Ben je zeker dat je dit adres wilt verwijderen?"
+
+#~ msgid "Yes!"
+#~ msgstr "Ja!"
+
+#~ msgid "Save"
+#~ msgstr "Opslaan"
+
+#~ msgid "Address book"
+#~ msgstr "Adresboek"
+
+#~ msgid "Deleting..."
+#~ msgstr "Aan het verwijderen..."
+
+#~ msgid "Default shipping address"
+#~ msgstr "Standaard afleveradres"
+
+#~ msgid "Default billing address"
+#~ msgstr "Standaard factuuradres"
+
+#~ msgid "Edit"
+#~ msgstr "Wijzig"
+
+#~ msgid "Set as default shipping address"
+#~ msgstr "Instellen als standaard afleveradres"
+
+#~ msgid "Set as default billing address"
+#~ msgstr "Instellen als standaard factuuradres"
+
+#~ msgid "There are no addresses in your address book."
+#~ msgstr "Er zijn geen adressen in je adresboek"
+
+#~ msgid "You do not have any active alerts for out-of-stock products."
+#~ msgstr ""
+#~ "Je hebt geen actieve voorraadmeldingen voor producten die niet op "
+#~ "voorraad zijn."
+
+#~ msgid "Cancel"
+#~ msgstr "Annuleren"
+
+#~ msgid ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> is back in stock\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> is weer op voorraad\n"
+
+#~ msgid "Order #%(number)s"
+#~ msgstr "Bestelling #%(number)s"
+
+#~ msgid "Contact number"
+#~ msgstr "Contact nummer"
+
+#~ msgid "Notes"
+#~ msgstr "Notities"
+
+#~ msgid "Estimated dispatch date"
+#~ msgstr "Geschatte verzenddatum"
+
+#~ msgid "Line price excl. tax"
+#~ msgstr "Regel prijs excl. btw"
+
+#~ msgid "Line price incl. tax"
+#~ msgstr "Regel prijs incl. btw"
+
+#~ msgid "Basket total (inc. tax)"
+#~ msgstr "Winkelmand totaal (incl. btw)"
+
+#~ msgid "Email history"
+#~ msgstr "Email geschiedenis"
+
+#~ msgid "Date sent"
+#~ msgstr "Datum verzonden"
+
+#~ msgid "No emails found"
+#~ msgstr "Geen emails gevonden"
+
+#~ msgid "Thanks for using our site!"
+#~ msgstr "Bedankt voor het bezoek van onze website!"
+
+#~ msgid "The %(name)s team"
+#~ msgstr "Het %(name)s team"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately "
+#~ "and correct your email address:"
+#~ msgstr ""
+#~ "Als jij niet degene was die het wachtwoord veranderd heeft, wijzig je "
+#~ "wachtwoord dan onmiddellijk en corrigeer je emailadres:"
+
+#~ msgid ""
+#~ "If it was you who changed the email address, you can ignore this email."
+#~ msgstr ""
+#~ "Als jij het was die het emailadres heeft veranderd, dan kan je deze email "
+#~ "negeren."
+
+#~ msgid ""
+#~ "You're receiving this email because your email address has been changed "
+#~ "to %(email)s."
+#~ msgstr ""
+#~ "Je ontvangt deze email omdat je emailadres is veranderd naar %(email)s."
+
+#~ msgid "Your email address has changed at %(site_name)s."
+#~ msgstr "Je emailadres is gewijzigd naar %(site_name)s."
+
+#~ msgid "Hello,"
+#~ msgstr "Hallo,"
+
+#~ msgid "Your order contains:"
+#~ msgstr "Je bestelling bevat:"
+
+#~ msgid "Basket total:"
+#~ msgstr "Winkelmand totaal:"
+
+#~ msgid "Shipping:"
+#~ msgstr "Verzending:"
+
+#~ msgid "Order Total:"
+#~ msgstr "Bestelling totaal:"
+
+#~ msgid "Shipping address:"
+#~ msgstr "Afleveradres"
+
+#~ msgid ""
+#~ "You can view the status of this order by clicking <a href=\"%(status_url)s"
+#~ "\" title=\"order status\">here</a>"
+#~ msgstr ""
+#~ "Je kan de status van je bestelling volgen door <a href=\"%(status_url)s\" "
+#~ "title=\"order status\">hier</a> te klikken."
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "We are pleased to confirm your order %(order_number)s has been received "
+#~ "and\n"
+#~ "will be processed shortly."
+#~ msgstr ""
+#~ "Hallo,\n"
+#~ "\n"
+#~ "We zijn blij te bevestigen dat je bestelling %(order_number)s werd "
+#~ "ontvangen en binnenkort verwerkt zal worden."
+
+#~ msgid "quantity:"
+#~ msgstr "aantal:"
+
+#~ msgid "price:"
+#~ msgstr "prijs:"
+
+#~ msgid ""
+#~ "You can view the status of this order at the below URL:\n"
+#~ "%(status_url)s"
+#~ msgstr ""
+#~ "Je kunt de status van de bestelling volgen via de volgende link:\n"
+#~ "%(status_url)s"
+
+#~ msgid "The team"
+#~ msgstr "Het team"
+
+#~ msgid "Confirmation of order %(number)s"
+#~ msgstr "Bevestiging van bestelling %(number)s"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately:"
+#~ msgstr ""
+#~ "Als jij het niet hebt veranderd, zorg er dan voor dat je je wachtwoord "
+#~ "onmiddellijk aanpast:"
+
+#~ msgid "Otherwise, you can ignore this email."
+#~ msgstr "Zoniet kan je deze mail negeren."
+
+#~ msgid ""
+#~ "\n"
+#~ "You're receiving this email because your password has been changed at "
+#~ "%(name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Je ontvangt deze e-mail omdat je wachtwoord op %(name)s is veranderd.\n"
+
+#~ msgid "Your password changed at %(site_name)s."
+#~ msgstr "Je wachtwoord is veranderd bij %(site_name)s."
+
+#~ msgid ""
+#~ "You're receiving this e-mail because you requested a password reset for "
+#~ "your user account at %(name)s."
+#~ msgstr ""
+#~ "Je ontvangt deze email omdat je een wachtwoordwijziging aan hebt gevraagd "
+#~ "voor Je gebruikersaccount bij %(name)s."
+
+#~ msgid "Please go to the following page and choose a new password:"
+#~ msgstr "Ga naar de volgende pagina en kies een nieuw wachtwoord:"
+
+#~ msgid "Resetting your password at %(site_name)s."
+#~ msgstr "Je wachtwoord bij %(site_name)s wordt gereset."
+
+#~ msgid "Dear %(name)s,"
+#~ msgstr "Beste %(name)s,"
+
+#~ msgid ""
+#~ "\n"
+#~ "Beware that the amount of items in stock is limited. Be quick or someone "
+#~ "might get there first.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Hou er rekening mee dat er slechts een beperkte voorraad voor dit product "
+#~ "is. Wees er snel bij voordat iemand anders je voor is.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "With this email we have disabled your alert automatically and you will "
+#~ "not\n"
+#~ "receive any further email regarding this product.\n"
+#~ "\n"
+#~ "Thanks for your interest,\n"
+#~ "The %(site_name)s Team\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Met deze email hebben wij jouw voorraadmelding uitgeschakeld.\n"
+#~ "U ontvangt verder geen emails betreffende dit product.\n"
+#~ "\n"
+#~ "Bedankt voor je interesse,\n"
+#~ "Het %(site_name)s Team\n"
+
+#~ msgid "Confirmation required for stock alert"
+#~ msgstr "Bevestiging vereist voor voorraadmelding"
+
+#~ msgid "Thank you for registering."
+#~ msgstr "Bedankt voor het registreren."
+
+#~ msgid "Products you recently viewed"
+#~ msgstr "Recent bezochte producten"
+
+#~ msgid "Log In"
+#~ msgstr "Inloggen"
+
+#~ msgid "I've forgotten my password"
+#~ msgstr "Ik ben mijn wachtwoord vergeten"
+
+#~ msgid "Logging in..."
+#~ msgstr "Aan het inloggen.."
+
+#~ msgid "Register"
+#~ msgstr "Registreren"
+
+#~ msgid "Registering..."
+#~ msgstr "Aan het registeren..."
+
+#~ msgid "Notifications inbox"
+#~ msgstr "Notificatie inbox"
+
+#~ msgid "Sender"
+#~ msgstr "Verzender"
+
+#~ msgid "Return to notifications inbox"
+#~ msgstr "Ga terug naar notificatie inbox"
+
+#~ msgctxt "noun"
+#~ msgid "Archive"
+#~ msgstr "Archief"
+
+#~ msgid "View"
+#~ msgstr "Bekijk"
+
+#~ msgctxt "verb"
+#~ msgid "Archive"
+#~ msgstr "Archiveer"
+
+#~ msgid "With selected items:"
+#~ msgstr "Met geselecteerde producten:"
+
+#~ msgid "Archiving..."
+#~ msgstr "Aan het archiveren..."
+
+#~ msgid "There are no notifications to display."
+#~ msgstr "Er zijn geen meldingen om weer te geven"
+
+#~ msgid "Order history"
+#~ msgstr "Bestelgeschiedenis"
+
+#~ msgid "Dispatch date"
+#~ msgstr "Verzenddatum"
+
+#~ msgid "Re-ordering..."
+#~ msgstr "Opnieuw aan het bestellen..."
+
+#~ msgid "Re-order"
+#~ msgstr "opnieuw bestellen"
+
+#~ msgid "Not available anymore"
+#~ msgstr "Niet langer beschikbaar"
+
+#~ msgid "Basket total (excl. discounts)"
+#~ msgstr "Winkelmand totaal (excl. kortingen)"
+
+#~ msgid "Basket total (inc. discounts)"
+#~ msgstr "Winkelmand totaal (incl. kortingen)"
+
+#~ msgid "Shipping total (excl. discounts)"
+#~ msgstr "Verzendkosten totaal (excl. kortingen)"
+
+#~ msgid "Shipping total (inc. discounts)"
+#~ msgstr "Verzendkosten totaal (incl. kortingen)"
+
+#~ msgid "Shipping total"
+#~ msgstr "Verzending totaal"
+
+#~ msgid "Re-order all items"
+#~ msgstr "Alle producten opnieuw bestellen"
+
+#~ msgid "Contact Number"
+#~ msgstr "Nummer van contactpersoon"
+
+#~ msgid "Shipping Notes"
+#~ msgstr "Verzend Aantekeningen"
+
+#~ msgid "Filtering..."
+#~ msgstr "Aan het filteren..."
+
+#~ msgid "Filter results"
+#~ msgstr "Filter resultaten"
+
+#~ msgid "Reset"
+#~ msgstr "Herstel"
+
+#~ msgid "Total inc tax"
+#~ msgstr "Totaal incl. btw"
+
+#~ msgid "No orders match your search."
+#~ msgstr "Er zijn geen bestellingen die overeenkomen met deze zoekopdracht."
+
+#~ msgid "You haven't placed any orders."
+#~ msgstr "Je hebt geen bestellingen geplaatst"
+
+#~ msgid "Change password"
+#~ msgstr "Wijzig wachtwoord"
+
+#~ msgid "Edit profile"
+#~ msgstr "Wijzig profiel"
+
+#~ msgid "Please confirm your password to delete your profile."
+#~ msgstr "Bevestig je wachtwoord om je profiel te verwijderen"
+
+#~ msgid "Warning"
+#~ msgstr "Waarschuwing"
+
+#~ msgid ""
+#~ "\n"
+#~ "                This will delete all information about you from the "
+#~ "site.  Deleting your profile cannot be\n"
+#~ "                undone.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Dit zal al je profielinformatie verwijderen van de website. Het "
+#~ "verwijderen van een profiel\n"
+#~ "kan niet worden teruggedraaid."
+
+#~ msgid "Delete?"
+#~ msgstr "Verwijder?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                Ben je zeker dat je %(name)s wilt verwijderen?\n"
+#~ "            "
+
+#~ msgid "Remove product"
+#~ msgstr "Verwijder product"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(product_name)s from "
+#~ "wish list %(wishlist_name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Ben je zeker dat je %(product_name)s wilt verwijderen van verlanglijst "
+#~ "%(wishlist_name)s?\n"
+#~ "            "
+
+#~ msgid "Action"
+#~ msgstr "Actie"
+
+#~ msgid "View product"
+#~ msgstr "Bekijk product"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                            Move to "
+#~ "'%(name)s' wish list\n"
+#~ "                                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Verplaatsen naar verlanglijst '%(name)s'\n"
+#~ "                                                        "
+
+#~ msgid "Update quantities"
+#~ msgstr "Hoeveelheid bijwerken"
+
+#~ msgid "Your wish list is empty."
+#~ msgstr "Je verlanglijst is leeg"
+
+#~ msgid "Create"
+#~ msgstr "Maak"
+
+#~ msgid "What should your new wish list be called?"
+#~ msgstr "Hoe wil je deze nieuwe wenslijst noemen?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    After your wishlist is created, <strong>%(title)s</"
+#~ "strong> will be added.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Nadat je verlanglijst is aangemaakt, zal <strong>%(title)s</strong> "
+#~ "worden toegevoegd.\n"
+#~ "                "
+
+#~ msgid "Number of products"
+#~ msgstr "Aantal producten"
+
+#~ msgid "Wish list settings"
+#~ msgstr "Verlanglijst instellingen"
+
+#~ msgid "You don't have any wish lists yet."
+#~ msgstr "Je hebt nog geen verlanglijsten."
+
+#~ msgid "Sections"
+#~ msgstr "Secties"
+
+#~ msgid "Delete category?"
+#~ msgstr "Verwijder categorie?"
+
+#~ msgid "Delete category"
+#~ msgstr "Verwijder categorie"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <p>Delete category <strong>%(name)s</strong> - are you sure?</"
+#~ "p>\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Verwijder categorie<strong>%(name)s</strong> - Ben je zeker?</p>"
+
+#~ msgid "Create new category"
+#~ msgstr "Nieuwe categorie aanmaken"
+
+#~ msgid "You are editing:"
+#~ msgstr "Je bent aan het wijzigen:"
+
+#~ msgid "There are no categories."
+#~ msgstr "Er zijn geen categorieën"
+
+#~ msgid "Edit category"
+#~ msgstr "Wijzig categorie"
+
+#~ msgid "Add child category"
+#~ msgstr "Een subcategorie toevoegen"
+
+#~ msgid "Edit children"
+#~ msgstr "Subproducten wijzigen"
+
+#~ msgid "View on site"
+#~ msgstr "Bekijk op website"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Product variant '%(name)s' aangemaakt.\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Variant van '%(parent_name)s' aangemaakt.\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Product variant '%(name)s' bijgewerkt.\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated a variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Variant van '%(parent_name)s' bijgewerkt.\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                Created product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Product '%(name)s' aangemaakt."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Updated product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Product '%(name)s' bijgewerkt."
+
+#~ msgid "Edit again"
+#~ msgstr "Opnieuw wijzigen"
+
+#~ msgid "View it on the site"
+#~ msgstr "Bekijk op website"
+
+#~ msgid "Delete product type?"
+#~ msgstr "Product type verwijderen?"
+
+#~ msgid ""
+#~ "Please make sure all products are assigned to another type before "
+#~ "deletion."
+#~ msgstr ""
+#~ "Zorg ervoor dat alle producten toegewezen zijn aan een ander type voordat "
+#~ "je dit type verwijdert."
+
+#~ msgid "Delete product type"
+#~ msgstr "Product type verwijderen"
+
+#~ msgid "Delete product type <strong>%(name)s</strong> - are you sure?"
+#~ msgstr "Product type <strong>%(name)s</strong> verwijderen - ben je zeker?"
+
+#~ msgid "Create product type"
+#~ msgstr "Product type aanmaken"
+
+#~ msgid "Product Class details"
+#~ msgstr "Productklasse details"
+
+#~ msgid "Create new product type"
+#~ msgstr "Nieuw product type aanmaken"
+
+#~ msgid "Product types"
+#~ msgstr "Product types"
+
+#~ msgid "Requires shipping"
+#~ msgstr "Vereist verzending"
+
+#~ msgid "Track stock?"
+#~ msgstr "Voorraad volgen?"
+
+#~ msgid "Edit product type"
+#~ msgstr "Wijzig product type"
+
+#~ msgid "There are no product types."
+#~ msgstr "Er zijn geen product types."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product variant <strong>%(title)s</strong> - "
+#~ "are you sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Verwijder product variant<strong>%(title)s</strong> - ben je zeker?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product <strong>%(title)s</strong> - are you "
+#~ "sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Verwijder Product <strong>%(title)s</strong> - ben je zeker?"
+
+#~ msgid "This will also delete the following child products:"
+#~ msgstr "Dit verwijdert ook volgende subproducten:"
+
+#~ msgid "Create new product"
+#~ msgstr "Nieuw product aanmaken"
+
+#~ msgid "New Product"
+#~ msgstr "Nieuw Product"
+
+#~ msgid "Search Products"
+#~ msgstr "Zoek Producten"
+
+#~ msgid "Searching..."
+#~ msgstr "Aan het zoeken..."
+
+#~ msgid ""
+#~ "\n"
+#~ "                            You are currently editing a product variant "
+#~ "of\n"
+#~ "                            <a href=\"%(parent_url)s\">%(title)s</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Je bent volgend product variant aan het wijzigen:\n"
+#~ "<a href=\"%(parent_url)s\">%(title)s</a> \n"
+#~ "                        "
+
+#~ msgid "Product details"
+#~ msgstr "Product details"
+
+#~ msgid "Images"
+#~ msgstr "Afbeeldingen"
+
+#~ msgid "Stock and pricing"
+#~ msgstr "Voorraad en prijzen"
+
+#~ msgid "Upselling"
+#~ msgstr "Bijverkoop"
+
+#~ msgid "Product Type:"
+#~ msgstr "Product Type:"
+
+#~ msgid "Upload, change or remove images"
+#~ msgstr "Upload, wijzig of verwijder afbeeldingen"
+
+#~ msgid "SKU"
+#~ msgstr "Partner Referentie Code"
+
+#~ msgid "Num in stock"
+#~ msgstr "Aantal op voorraad"
+
+#~ msgid "Num allocated"
+#~ msgstr "Aantal toegewezen"
+
+#~ msgid "Low stock threshold"
+#~ msgstr "Drempel voor te lage stock"
+
+#~ msgid "Cost price"
+#~ msgstr "Kostprijs"
+
+#~ msgid "Price (excl tax)"
+#~ msgstr "Prijs (excl. BTW)"
+
+#~ msgid "Retail price"
+#~ msgstr "Verkoopprijs"
+
+#~ msgid "Add variant"
+#~ msgstr "Variant toevoegen"
+
+#~ msgid "This product does not have any variants."
+#~ msgstr "Dit product heeft geen varianten."
+
+#~ msgid "One can't add variants to this product at this point."
+#~ msgstr "Varianten op dit product kunnen momenteel niet worden aangemaakt."
+
+#~ msgid "This is likely because this product still has stock records."
+#~ msgstr ""
+#~ "Dit komt waarschijnlijk doordat het product nog stock records heeft."
+
+#~ msgid "Save and add another variant"
+#~ msgstr "Opslaan en een nieuwe aanmaken"
+
+#~ msgid "Save and continue editing"
+#~ msgstr "Opslaan en doorgaan met bewerken"
+
+#~ msgid "All"
+#~ msgstr "Alle"
+
+#~ msgid "Current available stock"
+#~ msgstr "Beschikbare stock"
+
+#~ msgid "Date alert raised"
+#~ msgstr "Datum waarop deze melding zich voordeed"
+
+#~ msgid "No stock alerts found."
+#~ msgstr "Geen voorraadmeldingen gevonden"
+
+#~ msgid "Preview"
+#~ msgstr "Voorvertonen"
+
+#~ msgid "Edit email"
+#~ msgstr "Wijzig email"
+
+#~ msgid "Email content"
+#~ msgstr "Email inhoud"
+
+#~ msgid "These fields are rendered using Django's template system."
+#~ msgstr "Deze velden worden gerenderd met Django's template systeem."
+
+#~ msgid "You can use the following variables:"
+#~ msgstr "Je kan volgende variabelen gebruiken:"
+
+#~ msgid "The full name of the user (if they have one)"
+#~ msgstr "Volledige naam van de gebruiker (als ze deze hebben)"
+
+#~ msgid "The user's email address"
+#~ msgstr "Het emailadres van de gebruiker"
+
+#~ msgid "The name of the site (eg example.com)"
+#~ msgstr "De naam van de site (vb. voorbeeld.com)"
+
+#~ msgid "View a preview of this email using order:"
+#~ msgstr "Bekijk een preview van deze email voor bestelling:"
+
+#~ msgid "View preview"
+#~ msgstr "Bekijk voorbeeld"
+
+#~ msgid "or send a preview to:"
+#~ msgstr "Of stuur een preview naar:"
+
+#~ msgid "Sending..."
+#~ msgstr "Aan het verzenden..."
+
+#~ msgid "Send preview email"
+#~ msgstr "Verzend een voorbeeld e-mail"
+
+#~ msgid "Body text"
+#~ msgstr "Body tekst"
+
+#~ msgid "There are no defined emails to edit."
+#~ msgstr "Er zijn geen bestaande emails om aan te passen."
+
+#~ msgid "Your Store Statistics"
+#~ msgstr "Je winkel statistieken"
+
+#~ msgid "Total Orders"
+#~ msgstr "Totaal Bestellingen"
+
+#~ msgid "New Customers"
+#~ msgstr "Nieuwe Klanten"
+
+#~ msgid "Total Customers"
+#~ msgstr "Totaal Klanten"
+
+#~ msgid "Total Products"
+#~ msgstr "Totaal Producten"
+
+#~ msgid "Latest Orders (last 24 hours)"
+#~ msgstr "Laatste bestellingen (voorbije 24u)"
+
+#~ msgid "Orders - Last 24 Hours"
+#~ msgstr "Bestellingen - Voorbije 24u"
+
+#~ msgid "Total orders"
+#~ msgstr "Totaal Bestellingen"
+
+#~ msgid "Total lines"
+#~ msgstr "Totaal aantal regels"
+
+#~ msgid "Total revenue"
+#~ msgstr "Totale omzet"
+
+#~ msgid "Average order costs"
+#~ msgstr "Gemiddelde bestelling prijs"
+
+#~ msgid "Manage"
+#~ msgstr "Beheer"
+
+#~ msgid "Orders - All Time"
+#~ msgstr "Bestellingen - Sinds het begin"
+
+#~ msgid "Total <em>open</em> baskets"
+#~ msgstr "Totaal <em>open</em> winkelmanden"
+
+#~ msgid "Total customers"
+#~ msgstr "Totaal klanten"
+
+#~ msgid "New customers"
+#~ msgstr "Nieuwe klanten"
+
+#~ msgid "View Stock Alerts"
+#~ msgstr "Bekijk voorraadmeldingen"
+
+#~ msgid "Catalogue and stock"
+#~ msgstr "Catalogus en voorraad"
+
+#~ msgid "Total products"
+#~ msgstr "Totaal producten"
+
+#~ msgid "<em>Open</em> stock alerts"
+#~ msgstr "<em>Open</em> voorraadmeldingen"
+
+#~ msgid "<em>Closed</em> stock alerts"
+#~ msgstr "<em>Gesloten</em> voorraadmeldingen"
+
+#~ msgid "Offers, vouchers and promotions"
+#~ msgstr "Aanbiedingen, vouchers en promoties"
+
+#~ msgid "Active <em>Site</em> Offers"
+#~ msgstr "Actieve <em>website</em> aanbiedingen"
+
+#~ msgid "Active <em>Vouchers</em>"
+#~ msgstr "Actieve <em>Vouchers</em>"
+
+#~ msgid "Welcome"
+#~ msgstr "Welkom"
+
+#~ msgid "Return to site"
+#~ msgstr "Terug naar website"
+
+#~ msgid "Log out"
+#~ msgstr "Uitloggen"
+
+#~ msgid "Build a new incentive"
+#~ msgstr "Nieuwe motivatie"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Ranges can be created and edited from within the <a href="
+#~ "\"%(range_list_url)s\">range dashboard</a>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "Reeksen kunnen beheerd worden vanaf <a href=\"%(range_list_url)s\">reeks "
+#~ "dashboard</a>."
+
+#~ msgid "...or choose a pre-defined one"
+#~ msgstr "...of kies een bestaande"
+
+#~ msgid "Continue to step 3"
+#~ msgstr "Verder naar stap 3"
+
+#~ msgid "Build a new condition"
+#~ msgstr "Maak een nieuwe voorwaarde"
+
+#~ msgid "Continue to step 4"
+#~ msgstr "Verder naar stap 4"
+
+#~ msgid "Continue to step 2"
+#~ msgstr "Verder naar stap 2"
+
+#~ msgid "Delete offer"
+#~ msgstr "Verwijder aanbieding"
+
+#~ msgid "Are you sure you want to delete this offer?"
+#~ msgstr "Weet je zeker dat je deze aanbieding wil verwijderen?"
+
+#~ msgid ""
+#~ "\n"
+#~ "        %(name)s | Offers\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "%(name)s | Aanbiedingen"
+
+#~ msgid "Reinstating..."
+#~ msgstr "Opnieuw aan het invoeren..."
+
+#~ msgid "Reinstate offer"
+#~ msgstr "Herstellen van aanbieding"
+
+#~ msgid "Suspending..."
+#~ msgstr "Aan het opschorten..."
+
+#~ msgid "Suspend offer"
+#~ msgstr "Pauzeer aanbieding"
+
+#~ msgid "Offer currently available"
+#~ msgstr "Aanbieding momenteel beschikbaar"
+
+#~ msgid "Offer not available due to restrictions!"
+#~ msgstr "Aanbieding onbeschikbaar omwille van restricties!"
+
+#~ msgid "Total cost:"
+#~ msgstr "Totaal bedrag:"
+
+#~ msgid "Number of orders:"
+#~ msgstr "Aantal bestellingen"
+
+#~ msgid "Number of uses:"
+#~ msgstr "Aantal keer gebruikt:"
+
+#~ msgid "Date created:"
+#~ msgstr "Aangemaakt op:"
+
+#~ msgid "Offer details"
+#~ msgstr "Bestelling details"
+
+#~ msgid "Export to CSV"
+#~ msgstr "Exporteer naar CSV"
+
+#~ msgid "Orders that used this offer"
+#~ msgstr "Bestellingen die deze aanbieding gebruiken"
+
+#~ msgid "Create new offer"
+#~ msgstr "Nieuwe aanbieding aanmaken"
+
+#~ msgid "Is available?"
+#~ msgstr "Is beschikbaar?"
+
+#~ msgid "Uses"
+#~ msgstr "Gebruiken"
+
+#~ msgid "Browse"
+#~ msgstr "Doorbladeren"
+
+#~ msgid "Stats"
+#~ msgstr "Statistieken"
+
+#~ msgid "No offers found."
+#~ msgstr "Geen aanbiedingen gevonden."
+
+#~ msgid "Steps"
+#~ msgstr "Stappen"
+
+#~ msgid "1. Name and description"
+#~ msgstr "1. Naam en beschrijving"
+
+#~ msgid "2. Incentive"
+#~ msgstr "2. Motivatie"
+
+#~ msgid "3. Condition"
+#~ msgstr "3. Voorwaarde"
+
+#~ msgid "4. Restrictions"
+#~ msgstr "4. Restricties"
+
+#~ msgid "Save this offer"
+#~ msgstr "Bewaar deze aanbieding"
+
+#~ msgid "Fields marked with * are mandatory."
+#~ msgstr "Velden gemarkeerd met * zijn verplicht."
+
+#~ msgid "Save changes"
+#~ msgstr "Bewaar wijzigingen"
+
+#~ msgid "Offer summary"
+#~ msgstr "Aanbieding samenvatting"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s - Line #%(id)s\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        Bestelling %(number)s - Regel #%(id)s\n"
+#~ "    "
+
+#~ msgid "Line #%(id)s"
+#~ msgstr "Regel #%(id)s"
+
+#~ msgid "Order #%(number)s - Line #%(id)s"
+#~ msgstr "Bestelling #%(number)s - Regel #%(id)s"
+
+#~ msgid "Product Options"
+#~ msgstr "Product Opties"
+
+#~ msgid "Partner details"
+#~ msgstr "Partner details"
+
+#~ msgid "Shipping details"
+#~ msgstr "Afleveradres"
+
+#~ msgid "Partner reference number"
+#~ msgstr "Partner referentie nummer"
+
+#~ msgid "Partner notes"
+#~ msgstr "Partner notities"
+
+#~ msgid "Estimate dispatch date"
+#~ msgstr "Geschatte verzenddatum"
+
+#~ msgid "Shipping status"
+#~ msgstr "Verzendstatus"
+
+#~ msgid "State"
+#~ msgstr "Status"
+
+#~ msgid "No shipping events have occurred."
+#~ msgstr "Geen verzendstatus beschikbaar."
+
+#~ msgid "Shipping events"
+#~ msgstr "Status verzending"
+
+#~ msgid "Payment events"
+#~ msgstr "Status betaling"
+
+#~ msgid "No payment events have occurred."
+#~ msgstr "Geen status van betaling."
+
+#~ msgid "Order %(number)s"
+#~ msgstr "Bestelling %(number)s"
+
+#~ msgid "Customer Information"
+#~ msgstr "Klant informatie"
+
+#~ msgid "Customer checked out as a guest."
+#~ msgstr "Klant bestelde anoniem"
+
+#~ msgid "Customer has deleted their account."
+#~ msgstr "Klant heeft zijn account verwijderd."
+
+#~ msgid "Order information"
+#~ msgstr "Bestelling informatie"
+
+#~ msgid "Order Total"
+#~ msgstr "Bestelling totaal"
+
+#~ msgid "Time of purchase"
+#~ msgstr "Tijd van aankoop"
+
+#~ msgid "Order Details"
+#~ msgstr "Bestellingsdetails"
+
+#~ msgid "Discounts"
+#~ msgstr "Kortingen"
+
+#~ msgid "Items ordered"
+#~ msgstr "Items besteld"
+
+#~ msgid "Line ID"
+#~ msgstr "Regel ID"
+
+#~ msgid "Supplier"
+#~ msgstr "Leverancier"
+
+#~ msgid "Supplier SKU"
+#~ msgstr "Leverancier Referentie Code"
+
+#~ msgid "Est. dispatch date"
+#~ msgstr "Geschatte verzenddatum"
+
+#~ msgid "Price excl tax (before discounts)"
+#~ msgstr "Prijs excl. btw (voor de korting)"
+
+#~ msgid "Price inc tax (before discounts)"
+#~ msgstr "Prijs incl. btw (voor de korting)"
+
+#~ msgid "With selected lines"
+#~ msgstr "Met geselecteerde lijnen"
+
+#~ msgid "Change line status to"
+#~ msgstr "Wijzig status van regel naar"
+
+#~ msgid "choose new status"
+#~ msgstr "kies nieuwe status"
+
+#~ msgid "Create shipping event"
+#~ msgstr "Maak een verzending status"
+
+#~ msgid "choose event type"
+#~ msgstr "Kies een status type"
+
+#~ msgid "with reference"
+#~ msgstr "Met referentie"
+
+#~ msgid "Create payment event"
+#~ msgstr "Creëer een betaling status"
+
+#~ msgid "with amount"
+#~ msgstr "Met hoeveelheid"
+
+#~ msgid "Go!"
+#~ msgstr "Verzend!"
+
+#~ msgid "Change order status"
+#~ msgstr "Wijzig status van bestelling"
+
+#~ msgid "Change status"
+#~ msgstr "Wijzig status"
+
+#~ msgid "This order can't have its status changed."
+#~ msgstr "De status van deze bestelling kan niet worden gewijzigd."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                                %(title)s "
+#~ "(quantity %(event_qty)s/%(total_qty)s)\n"
+#~ "                                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "%(title)s (quantity %(event_qty)s/%(total_qty)s)\n"
+#~ "                                                            "
+
+#~ msgid "No shipping events."
+#~ msgstr "Er is geen verzending status."
+
+#~ msgid "Product:"
+#~ msgstr "Product:"
+
+#~ msgid "quantity"
+#~ msgstr "hoeveelheid"
+
+#~ msgid "No payment events."
+#~ msgstr "Geen betalingsgegevens"
+
+#~ msgid "Method name"
+#~ msgstr "Methode naam"
+
+#~ msgid "Method code"
+#~ msgstr "Methode code"
+
+#~ msgid "Charge (incl tax)"
+#~ msgstr "Kosten (incl. btw)"
+
+#~ msgid "Charge (excl tax)"
+#~ msgstr "Kosten (excl. btw)"
+
+#~ msgid "Payment sources"
+#~ msgstr "Betaalmethodes"
+
+#~ msgid "Allocation"
+#~ msgstr "Toewijzing"
+
+#~ msgid "Amount debited"
+#~ msgstr "Hoeveel gedebiteerd"
+
+#~ msgid "Amount refunded"
+#~ msgstr "Hoeveelheid terugbetaald"
+
+#~ msgid "No payment sources found for this order."
+#~ msgstr "Geen betaling gevonden voor deze bestelling"
+
+#~ msgid "No discounts were applied to this order."
+#~ msgstr "Er zijn geen kortingen toegepast op deze bestelling."
+
+#~ msgid "Admin"
+#~ msgstr "Beheerder"
+
+#~ msgid "No notes available."
+#~ msgstr "Geen notities beschikbaar."
+
+#~ msgid "Save note"
+#~ msgstr "Bewaar notitie"
+
+#~ msgid "Notes are only editable for 5 minutes after being saved."
+#~ msgstr ""
+#~ "Notities zijn alleen te wijzigen tot 5 minuten nadat ze zijn opgeslagen."
+
+#~ msgid "Advanced Search"
+#~ msgstr "Uitgebreid Zoeken"
+
+#~ msgid "Close"
+#~ msgstr "Sluiten"
+
+#~ msgid "Order Search Results"
+#~ msgstr "Zoekresultaten voor Bestellingen"
+
+#~ msgid "All Orders"
+#~ msgstr "Alle Bestellingen"
+
+#~ msgid "Download selected orders as a CSV"
+#~ msgstr "Download geselecteerde bestellingen als CSV"
+
+#~ msgid "Deleted"
+#~ msgstr "Verwijderd"
+
+#~ msgid "Changing..."
+#~ msgstr "Aan het wijzigen..."
+
+#~ msgid "No orders found."
+#~ msgstr "Geen bestellingen gevonden."
+
+#~ msgid "Print Packaging Slips"
+#~ msgstr "Print pakbonnen"
+
+#~ msgid "Mark as"
+#~ msgstr "Markeer als"
+
+#~ msgid "Change order status to"
+#~ msgstr "Wijzig status bestelling naar"
+
+#~ msgid "Done"
+#~ msgstr "Klaar"
+
+#~ msgid "Edit shipping address"
+#~ msgstr "Wijzig afleveradres"
+
+#~ msgid "Edit shipping address for order %(order.number)s"
+#~ msgstr "Wijzig verzendadres voor bestelling %(order.number)s"
+
+#~ msgid "Update address"
+#~ msgstr "Werk adres bij"
+
+#~ msgid "Order statistics"
+#~ msgstr "Bestelling statistieken"
+
+#~ msgid "Filter result"
+#~ msgstr "Filter resultaat"
+
+#~ msgid "Summary"
+#~ msgstr "Samenvatting"
+
+#~ msgid "Order status breakdown"
+#~ msgstr "Bestelling status overzicht"
+
+#~ msgid "Delete page '%(title)s'?"
+#~ msgstr "Verwijder pagina '%(title)s'"
+
+#~ msgid "Delete page"
+#~ msgstr "Verwijder pagina"
+
+#~ msgid "Delete page <strong>%(title)s</strong> - are you sure?"
+#~ msgstr "Verwijder pagina <strong>%(title)s</strong> - ben je zeker?"
+
+#~ msgid "Create new page"
+#~ msgstr "Maak nieuwe pagina aan"
+
+#~ msgid "No pages found."
+#~ msgstr "Geen pagina's gevonden"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Page <strong>%(title)s</strong> saved!\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Pagina <strong>%(title)s</strong> opgeslagen!\n"
+#~ "    "
+
+#~ msgid "Oops! We found some errors"
+#~ msgstr "Oeps! We hebben enkele fouten gevonden"
+
+#~ msgid "please check the error messages below and try again"
+#~ msgstr "controleer de onderstaande foutmeldingen en probeer opnieuw"
+
+#~ msgid "previous"
+#~ msgstr "vorige"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Page %(page_num)s of %(total_pages)s\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Pagina %(page_num)s van %(total_pages)s\n"
+#~ "            "
+
+#~ msgid "next"
+#~ msgstr "volgende"
+
+#~ msgid ""
+#~ "\n"
+#~ "User %(user_name)s was unlinked from %(partner_name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Gebruiker %(user_name)s is ontkoppeld van %(partner_name)s.\n"
+
+#~ msgid "Undo"
+#~ msgstr "Ongedaan maken"
+
+#~ msgid "Delete partner"
+#~ msgstr "Verwijder partner"
+
+#~ msgid "Are you sure you want to delete this partner?"
+#~ msgstr "Ben je zeker dat je deze partner wilt verwijderen?"
+
+#~ msgid "Edit the user's details"
+#~ msgstr "Verwijder gebruiker details"
+
+#~ msgid "No users associated."
+#~ msgstr "Geen geassocieerde gebruikers."
+
+#~ msgid "No address associated."
+#~ msgstr "Geen geassocieerde adressen."
+
+#~ msgid "Manage partner and users"
+#~ msgstr "Beheer partner en gebruikers"
+
+#~ msgid "Link an existing user"
+#~ msgstr "Verbind een bestaande gebruiker"
+
+#~ msgid "Link a new user"
+#~ msgstr "Verbind een nieuwe gebruiker"
+
+#~ msgid "No partners found."
+#~ msgstr "Geen partners gevonden"
+
+#~ msgid "Unlinking..."
+#~ msgstr "Aan het ontkoppelen..."
+
+#~ msgid "Unlink user"
+#~ msgstr "Gebruiker losbinden"
+
+#~ msgid "No users linked."
+#~ msgstr "Geen gebruikers verbonden."
+
+#~ msgid "Link a user"
+#~ msgstr "Verbind een gebruiker"
+
+#~ msgid "Manage users"
+#~ msgstr "Beheer gebruikers"
+
+#~ msgid "Update details"
+#~ msgstr "Werk details bij"
+
+#~ msgid ""
+#~ "A partial email address can be entered (eg '@example.com') to match "
+#~ "multiple addresses."
+#~ msgstr ""
+#~ "Een gedeeltelijk emailadres kan worden ingevoerd (vb. '@voorbeeld.be') om "
+#~ "meerdere adressen te zoeken."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                User is already linked to "
+#~ "%(name)s.\n"
+#~ "                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "Gebruiker is al gekoppeld aan %(name)s.\n"
+#~ "                                            "
+
+#~ msgid "Linking..."
+#~ msgstr "Aan het koppelen..."
+
+#~ msgid "Link user"
+#~ msgstr "verbind gebruiker"
+
+#~ msgid "No users found."
+#~ msgstr "Geen gebruikers gevonden"
+
+#~ msgid "Delete content block '%(name)s'?\""
+#~ msgstr "Verwijder inhoudsblok '%(name)s'?\""
+
+#~ msgid "Delete content block"
+#~ msgstr "Verwijder inhoudsblok"
+
+#~ msgid ""
+#~ "Delete %(object.type)s content block <strong>%(object.name)s</strong> - "
+#~ "are you sure?"
+#~ msgstr ""
+#~ "Verwijder %(object.type)s inhoudsblok <strong>%(object.name)s</strong> - "
+#~ "ben je zeker?"
+
+#~ msgid "Remove promotion from page?"
+#~ msgstr "Verwijder promotie van pagina?"
+
+#~ msgid "Remove promotion"
+#~ msgstr "Verwijder promotie"
+
+#~ msgid ""
+#~ "Remove %(object.content_object.type)s content block <strong>%(object."
+#~ "name)s</strong> from page <strong>%(object.page_url)s</strong> - are you "
+#~ "sure?"
+#~ msgstr ""
+#~ "Verwijder %(object.content_object.type)s inhoudsblok <strong>%(object."
+#~ "name)s</strong> van pagina <strong>%(object.page_url)s</strong> - ben je "
+#~ "zeker?"
+
+#~ msgid "Content block"
+#~ msgstr "Inhoudsblok"
+
+#~ msgid "Pages displaying this content blocks"
+#~ msgstr "Pagina's die deze inhoudsblokken gebruiken"
+
+#~ msgid "Position on page"
+#~ msgstr "Positie op pagina"
+
+#~ msgid "View all blocks on this page"
+#~ msgstr "Bekijk alle blokken op deze pagina"
+
+#~ msgid "Remove from page"
+#~ msgstr "Verwijder van pagina"
+
+#~ msgid "This promotion is not displayed anywhere at the moment."
+#~ msgstr "Deze promotie wordt momenteel nergens getoond."
+
+#~ msgid "Add to a page"
+#~ msgstr "Voeg toe aan pagina"
+
+#~ msgid "Add to page"
+#~ msgstr "Voeg toe aan pagina"
+
+#~ msgid "Content blocks for page %(page_url)s"
+#~ msgstr "Inhoudsblokken op pagina %(page_url)s"
+
+#~ msgid "Content blocks on page '%(page_url)s'"
+#~ msgstr "Inhoudsblokken op pagina '%(page_url)s'"
+
+#~ msgid "Edit promotions in position '%(name)s'"
+#~ msgstr "Wijzig promoties voor positie '%(name)s'"
+
+#~ msgid "Promotion Name"
+#~ msgstr "Promotie naam"
+
+#~ msgid "Change display order"
+#~ msgstr "Verander weergave volgorde"
+
+#~ msgid "No promotions in this position."
+#~ msgstr "Geen promoties voor deze positie"
+
+#~ msgid "Pages with content blocks"
+#~ msgstr "Pagina's met inhoudsblokken"
+
+#~ msgid "View by page"
+#~ msgstr "Bekijk volgens pagina"
+
+#~ msgid "View all content blocks"
+#~ msgstr "Bekijk alle inhoudsblokken"
+
+#~ msgid "View content blocks by page"
+#~ msgstr "Bekijk inhoudsblokken per pagina"
+
+#~ msgid "Pages with content blocks on them"
+#~ msgstr "Pagina's met inhoudsblokken"
+
+#~ msgid "Number of content blocks"
+#~ msgstr "Aantal inhoudsblokken"
+
+#~ msgid "No content blocks found."
+#~ msgstr "Geen inhoudsblokken gevonden"
+
+#~ msgid "Create a new content block"
+#~ msgstr "Nieuwe inhoudsblok aanmaken"
+
+#~ msgid "Creating..."
+#~ msgstr "Aan het aanmaken..."
+
+#~ msgid "Create block"
+#~ msgstr "Maak een blok aan"
+
+#~ msgid "Number of times used"
+#~ msgstr "Aantal keer gebruikt:"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>File <strong>%(filename)s</strong> processed.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Bestand <strong>%(filename)s</strong> is verwerkt.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> product added\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> products added\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(n)s</strong> product toegevoegd"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(n)s</strong> producten toegevoegd"
+
+#~ msgid ""
+#~ "\n"
+#~ "                There was <strong>%(n)s</strong> duplicate product in the "
+#~ "file\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                There were <strong>%(n)s</strong> duplicate products in "
+#~ "the file\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "Het bestand bevatte <strong>%(n)s</strong> duplicaat van een product"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "Het bestand bevatte <strong>%(n)s</strong> duplicaten van producten"
+
+#~ msgid ""
+#~ "\n"
+#~ "                There was <strong>%(n)s</strong> product in the file that "
+#~ "couldn't be found in the catalogue\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                There were <strong>%(n)s</strong> products in the file "
+#~ "that couldn't be found in the catalogue\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "Het bestand bevatte <strong>%(n)s</strong> product dat niet in de "
+#~ "catalogus kon worden gevonden"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "Het bestand bevatte <strong>%(n)s</strong> producten die niet in de "
+#~ "catalogus konden worden gevonden"
+
+#~ msgid "Edit range metadata"
+#~ msgstr "Wijzig metadata van reeks"
+
+#~ msgid "Return to ranges homepage"
+#~ msgstr "Terug naar de startpagina voor reeksen"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>Range <strong>%(name)s</strong> saved.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Reeks <strong>%(name)s</strong> opgeslagen.</p>\n"
+
+#~ msgid "Edit included products"
+#~ msgstr "Wijzig inbegrepen producten"
+
+#~ msgid "Delete range '%(name)s'?"
+#~ msgstr "Verwijder reeks '%(name)s'?"
+
+#~ msgid "Are you sure you want to delete this range?"
+#~ msgstr "Ben je zeker dat je deze reeks wil verwijderen?"
+
+#~ msgid "Create new range"
+#~ msgstr "Nieuwe reeks aanmaken"
+
+#~ msgid "Save and edit products"
+#~ msgstr "Bewaar en wijzig producten"
+
+#~ msgid "Num products"
+#~ msgstr "Aantal producten"
+
+#~ msgid "Edit products"
+#~ msgstr "Wijzig producten"
+
+#~ msgid "No ranges found."
+#~ msgstr "Geen reeksen gevonden."
+
+#~ msgid "Products in range '%(name)s'"
+#~ msgstr "Producten in reeks '%(name)s'"
+
+#~ msgid "products"
+#~ msgstr "producten"
+
+#~ msgid ""
+#~ "This range contains all products. To add products manually, please "
+#~ "unselect the 'Includes All Products' option on the edit range page."
+#~ msgstr ""
+#~ "Deze reeks bevat alle producten. Om handmatig producten toe te voegen, "
+#~ "ontvink de optie 'Inclusief All Producten' op de pagina 'reeks wijzigen'."
+
+#~ msgid "Add products"
+#~ msgstr "Producten toevoegen"
+
+#~ msgid "Running..."
+#~ msgstr "Verwerken..."
+
+#~ msgid "Upload history"
+#~ msgstr "Upload geschiedenis"
+
+#~ msgid "Filename"
+#~ msgstr "Bestandsnaam"
+
+#~ msgid "New products"
+#~ msgstr "Nieuwe producten"
+
+#~ msgid "Duplicate products"
+#~ msgstr "Duplicaat producten"
+
+#~ msgid "Unknown products"
+#~ msgstr "Onbekende producten"
+
+#~ msgid "Date uploaded"
+#~ msgstr "Datum geüpload"
+
+#~ msgid "Products in range"
+#~ msgstr "Producten in reeks"
+
+#~ msgid "Remove selected products"
+#~ msgstr "Verwijder geselecteerde producten"
+
+#~ msgid "Is product discountable?"
+#~ msgstr "Korting toepasbaar op product?"
+
+#~ msgid "Products in Range"
+#~ msgstr "Producten in reeks"
+
+#~ msgid "Edit range"
+#~ msgstr "Wijzig reeks"
+
+#~ msgid "return to range list"
+#~ msgstr "terug naar reeks overzicht"
+
+#~ msgid "Reporting Dashboard"
+#~ msgstr "Rapporten dashboard"
+
+#~ msgid "Reporting dashboard"
+#~ msgstr "Rapporten dashboard"
+
+#~ msgid "Generating..."
+#~ msgstr "Verwerken..."
+
+#~ msgid "Generate report"
+#~ msgstr "Genereer rapport"
+
+#~ msgid "No results found."
+#~ msgstr "Geen resultaten gevonden."
+
+#~ msgid "No vouchers were used in this period"
+#~ msgstr "Geen vouchers gebruikt in deze periode"
+
+#~ msgid "Delete review '%(title)s'?"
+#~ msgstr "Verwijder beoordeling '%(title)s'?"
+
+#~ msgid "Delete review \"%(title)s\"?"
+#~ msgstr "Verwijder beoordeling \"%(title)s\"?"
+
+#~ msgid "Review"
+#~ msgstr "Review"
+
+#~ msgid "Review Search"
+#~ msgstr "Beoordeling Zoeken"
+
+#~ msgid "Update status of selected reviews"
+#~ msgstr "Update status van geselecteerde beoordelingen"
+
+#~ msgctxt "Review title"
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "[Product deleted]"
+#~ msgstr "[Product verwijderd]"
+
+#~ msgid "No reviews found."
+#~ msgstr "Geen beoordelingen gevonden"
+
+#~ msgid "Update review"
+#~ msgstr "Bewerk beoordeling"
+
+#~ msgid "Review #%(review.id)s"
+#~ msgstr "Beoordeling #%(review.id)s"
+
+#~ msgid "Review information"
+#~ msgstr "Beoordeling informatie"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>A weight band has been added to the <strong>%(name)s</strong> "
+#~ "shipping method.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Er is een gewichtklasse toegevoegd aan de verzendmethode <strong>"
+#~ "%(name)s</strong>.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>Weight band deleted from the <strong>%(name)s</strong> shipping "
+#~ "method \n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Gewichtklasse verwijderd van de verzendmethode <strong>%(name)s</"
+#~ "strong>\n"
+
+#~ msgid "Weight band updated"
+#~ msgstr "Gwichtklasse geüpdatet"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>A shipping method <strong>%(name)s</strong> has been created.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Verzendmethode <strong>%(name)s</strong> is aangemaakt.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been deleted.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>De verzendmethode <strong>%(name)s</strong> is verwijderd.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been updated.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>De verzendmethode <strong>%(name)s</strong> is geüpdatet.</p>\n"
+
+#~ msgid "Delete weight band?"
+#~ msgstr "Gewichtklasse verwijderen?"
+
+#~ msgid "Shipping methods"
+#~ msgstr "Verzendmethodes"
+
+#~ msgid "Weight range (kg)"
+#~ msgstr "Gewicht bereik (kg)"
+
+#~ msgid "Are you sure you want to delete this weight band method?"
+#~ msgstr "Weet u zeker dat u deze gewichtklasse methode wilt verwijderen?"
+
+#~ msgid "Edit weight band"
+#~ msgstr "Wijzig gewichtklasse"
+
+#~ msgid "Delete shipping method '%(name)s'?"
+#~ msgstr "Verwijder verzendmethode '%(name)s'?"
+
+#~ msgid "Are you sure you want to delete this shipping method?"
+#~ msgstr "Weet u zeker dat u deze verzendmethode wilt verwijderen?"
+
+#~ msgid "Applies to countries"
+#~ msgstr "Van toepassing voor landen"
+
+#~ msgid "Default product weight (kg)"
+#~ msgstr "Standaard product gewicht (kg)"
+
+#~ msgid "Edit shipping method"
+#~ msgstr "Wijzig verzendmethode"
+
+#~ msgid "Delete shipping method"
+#~ msgstr "Verwijder verzendmethode"
+
+#~ msgid "Weight bands"
+#~ msgstr "Gewichtklassen"
+
+#~ msgid "No weight bands have been added yet."
+#~ msgstr "Er zijn nog geen gewichtklassen toegevoegd."
+
+#~ msgid "Add a new weight band"
+#~ msgstr "Een nieuwe gewichtklasse toevoegen"
+
+#~ msgid "Add weight band"
+#~ msgstr "Voeg gewichtklasse toe"
+
+#~ msgid "Create a new shipping method"
+#~ msgstr "Maak een nieuwe verzendmethode aan"
+
+#~ msgid "Create new shipping charge"
+#~ msgstr "Maak nieuwe verzend kosten aan"
+
+#~ msgid "Number of weight bands"
+#~ msgstr "Aantal gewichtklassen"
+
+#~ msgid "Default weight (kg)"
+#~ msgstr "Standaard gewicht (kg)"
+
+#~ msgid "No shipping methods found."
+#~ msgstr "Geen verzendmethodes gevonden."
+
+#~ msgid "Alert #%(id)s"
+#~ msgstr "Alert #%(id)s"
+
+#~ msgid "Delete alert #%(id)s?"
+#~ msgstr "Verwijder melding #%(id)s?"
+
+#~ msgid "Product alert #%(id)s"
+#~ msgstr "Product melding #%(id)s"
+
+#~ msgid "Are you sure that you want to delete this alert?"
+#~ msgstr "Ben je zeker dat je deze melding wil verwijderen?"
+
+#~ msgid "Search product alerts"
+#~ msgstr "Zoek naar product meldingen"
+
+#~ msgid "reset"
+#~ msgstr "Herstel"
+
+#~ msgid "Date alert sent"
+#~ msgstr "Datum melding verzonden"
+
+#~ msgid "(Anonymous)"
+#~ msgstr "(Anoniem)"
+
+#~ msgid "No alerts found."
+#~ msgstr "Geen meldingen gevonden."
+
+#~ msgid "Update alert #%(id)s"
+#~ msgstr "Bewerk melding #%(id)s"
+
+#~ msgid "General"
+#~ msgstr "Algemeen"
+
+#~ msgid "Yes,No"
+#~ msgstr "Ja, Nee"
+
+#~ msgid "Superuser"
+#~ msgstr "Superuser"
+
+#~ msgid "True,False"
+#~ msgstr "Ja, Nee"
+
+#~ msgid "Staff"
+#~ msgstr "Personeel"
+
+#~ msgid "Last login"
+#~ msgstr "Laatst ingelogd"
+
+#~ msgid "Date joined"
+#~ msgstr "Datum toegevoegd"
+
+#~ msgid "Products viewed"
+#~ msgstr "Product bekeken"
+
+#~ msgid "Number of orders"
+#~ msgstr "Aantal bestellingen"
+
+#~ msgid "Number of ordered items"
+#~ msgstr "Aantal bestelde producten"
+
+#~ msgid "Reviews written"
+#~ msgstr "Beoordelingen geschreven"
+
+#~ msgid "Send password reset email"
+#~ msgstr "Verzend een wachtwoord reset mail"
+
+#~ msgid "Order Number"
+#~ msgstr "Bestelnummer"
+
+#~ msgid "Total value"
+#~ msgstr "Totale waarde"
+
+#~ msgid "This customer has not placed any orders yet."
+#~ msgstr "Deze klant heeft nog geen bestellingen geplaatst"
+
+#~ msgid "This customer has not saved any addresses."
+#~ msgstr "Deze klant heeft nog geen adres opgegeven."
+
+#~ msgid "Product ID"
+#~ msgstr "Product ID"
+
+#~ msgid "This customer has not written any reviews yet."
+#~ msgstr "Deze klant heeft nog geen beoordelingen geschreven."
+
+#~ msgid "No customers found."
+#~ msgstr "Geen klanten gevonden."
+
+#~ msgid "Bulk Actions"
+#~ msgstr "Bulk acties"
+
+#~ msgid "With selected customers:"
+#~ msgstr "Met geselecteerde klanten:"
+
+#~ msgid "Make active"
+#~ msgstr "Maak actief"
+
+#~ msgid "Make inactive"
+#~ msgstr "Maak inactief"
+
+#~ msgid "Delete voucher '%(name)s'?"
+#~ msgstr "Voucher '%(name)s' verwijderen?"
+
+#~ msgid "Voucher details"
+#~ msgstr "Voucher details"
+
+#~ msgid "Number of basket additions"
+#~ msgstr "Aantal toevoegingen aan winkelmand"
+
+#~ msgid "Recent orders"
+#~ msgstr "Recente bestellingen"
+
+#~ msgid "No orders have been placed that use this voucher."
+#~ msgstr "Geen bestellingen zijn geplaatst met deze voucher"
+
+#~ msgid "Edit voucher"
+#~ msgstr "Voucher wijzigen"
+
+#~ msgid "Create new voucher"
+#~ msgstr "Nieuwe voucher aanmaken"
+
+#~ msgid "Num baskets"
+#~ msgstr "Aantal winkelwagens"
+
+#~ msgid "Num orders"
+#~ msgstr "Aantal bestellingen"
+
+#~ msgid "Inactive"
+#~ msgstr "Inactief"
+
+#~ msgid "No vouchers found."
+#~ msgstr "Geen vouchers gevonden"
+
+#~ msgid "Sorry!"
+#~ msgstr "Sorry!"
+
+#~ msgid "Return to previous page"
+#~ msgstr "Terug naar vorige pagina"
+
+#~ msgid "Go to homepage"
+#~ msgstr "Naar startpagina"
+
+#~ msgid "Edit this page"
+#~ msgstr "Wijzig deze pagina"
+
+#~ msgid "thumbnail"
+#~ msgstr "thumbnail"
+
+#~ msgid "Unrecognized image type!"
+#~ msgstr "Ongeldig afbeelding type!"
+
+#~ msgid "Upload Image"
+#~ msgstr "Upload afbeelding"
+
+#~ msgid "This page is only available to users who aren't logged in."
+#~ msgstr ""
+#~ "Deze pagina is alleen zichtbaar voor gebruikers die niet ingelogd zijn"
+
+#~ msgid " This offer is no longer available."
+#~ msgstr "Deze aanbieding is niet langer geldig."
+
+#~ msgid "What you need to do"
+#~ msgstr "Wat je moet doen"
+
+#~ msgid "There are no site offers at the moment."
+#~ msgstr "Er zijn momenteel geen website aanbiedingen."
+
+#~ msgid "Browse products in offer"
+#~ msgstr "Bekijk producten in aanbieding"
+
+#~ msgid "See more"
+#~ msgstr "Meer bekijken"
+
+#~ msgid "Password reset complete"
+#~ msgstr "wachtwoord herstel compleet"
+
+#~ msgid "Password reset"
+#~ msgstr "Wachtwoord herstel"
+
+#~ msgid "Complete"
+#~ msgstr "Voltooid"
+
+#~ msgid "Your password has been set.  You may go ahead and log in now."
+#~ msgstr "Je wachtwoord is aangemaakt. Je kan nu inloggen."
+
+#~ msgid "Log in"
+#~ msgstr "Inloggen"
+
+#~ msgid "Enter a new password"
+#~ msgstr "Voer een nieuw wachtwoord in"
+
+#~ msgid ""
+#~ "Please enter your new password twice so we can verify you typed it in "
+#~ "correctly."
+#~ msgstr ""
+#~ "Typ je nieuwe wachtwoord nogmaals zodat we kunnen verifiëren dat het goed "
+#~ "werd ingevoerd."
+
+#~ msgid "Change my password"
+#~ msgstr "Wijzig wachtwoord"
+
+#~ msgid "Password reset unsuccessful"
+#~ msgstr "Wachtwoord wijziging mislukt"
+
+#~ msgid ""
+#~ "The password reset link was invalid, possibly because it has already been "
+#~ "used.  Please request a new password reset."
+#~ msgstr ""
+#~ "De link voor het wijzigen van je wachtwoord was ongeldig, mogelijk omdat "
+#~ "de link al eens gebruikt is. Vraag een nieuwe wachtwoord reset aan en "
+#~ "probeer nogmaals."
+
+#~ msgid "Password reset email sent"
+#~ msgstr "Wachtwoord reset email verstuurd"
+
+#~ msgid "Email sent"
+#~ msgstr "Email verstuurd"
+
+#~ msgid ""
+#~ "\n"
+#~ "        We've e-mailed you instructions for resetting your password. You "
+#~ "should be receiving it shortly.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "We hebben instructies voor het veranderen van uw wachtwoord naar je "
+#~ "gemaild. Je zal deze dadelijk ontvangen."
+
+#~ msgid ""
+#~ "\n"
+#~ "        If you don't receive an email, please make sure you've entered "
+#~ "the address you registered with, and check\n"
+#~ "        your spam folder.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Als je geen email ontvangt, controleer dan het ingegeven email adres. "
+#~ "Controleer ook je ongewenste email folder."
+
+#~ msgid ""
+#~ "Forgotten your password? Enter your e-mail address below, and we'll e-"
+#~ "mail instructions for setting a new one."
+#~ msgstr ""
+#~ "Wachtwoord vergeten? Vul hieronder je emailadres in en we zullen je via "
+#~ "email de nodige instructies geven om een nieuw wachtwoord aan te vragen."
+
+#~ msgid "Send reset email"
+#~ msgstr "Verzend wachtwoord reset email"
+
+#~ msgid "Refine your search"
+#~ msgstr "Verfijn je zoekopdracht"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Products matching \"%(q)s\"\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Producten die overeenkomen met  \"%(q)s\"\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Found <strong>%(num_results)s</strong> results, "
+#~ "showing <strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> resultaten gevonden, vertoont <strong>"
+#~ "%(start)s</strong> tot <strong>%(end)s</strong>.\n"
+#~ "                "
+
+#~ msgid "Found <strong>0</strong> results."
+#~ msgstr "<strong>0</strong> resultaten gevonden."
+
+#~ msgid ""
+#~ "\n"
+#~ "                        Did you mean <a href=\"%(search_url)s?q="
+#~ "%(suggestion)s\">\"%(suggestion)s\"</a>?\n"
+#~ "                    "
+#~ msgstr ""
+#~ "\n"
+#~ "Bedoelde je <a href=\"%(search_url)s?q=%(suggestion)s\">\"%(suggestion)s"
+#~ "\"</a>?\n"
+#~ "                    "
+
+#~ msgid "Back to search results"
+#~ msgstr "Terug naar zoekresultaten"
+
+#~ msgid "You need to select some %ss"
+#~ msgstr "U moet %ss selecteren"

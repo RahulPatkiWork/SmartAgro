@@ -1,0 +1,6183 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# john.parton <john.parton.iv@gmail.com>, 2016-2017
+# john.parton <john.parton.iv@gmail.com>, 2016
+# Karambir Nain <nainkarambir@gmail.com>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-11 08:36+0000\n"
+"Last-Translator: Oscar Bot <maik.hoepfel@tangentsnowball.com>\n"
+"Language-Team: English (United States) (http://www.transifex.com/"
+"codeinthehole/django-oscar/language/en_US/)\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr "Catalog"
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "Products"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr "Product Types"
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "Categories"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr "Ranges"
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr "Low stock alerts"
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr "Options"
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr "Fulfilment"
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "Orders"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr "Statistics"
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr "Partners"
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr "Customers"
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr "Stock alert requests"
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr "Offers"
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "Coupons"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr "Content"
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr "Content blocks"
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr "Content blocks by page"
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr "Pages"
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr "Email templates"
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr "Reviews"
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr "Reports"
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr "Type"
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr "Rating"
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr "Price range"
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr "0 to 20"
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr "20 to 40"
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr "40 to 60"
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr "60+"
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+#, fuzzy
+#| msgid "Catalogue"
+msgid "Catalan"
+msgstr "Catalog"
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+#, fuzzy
+#| msgid "Permalink"
+msgid "German"
+msgstr "Permalink"
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr "Submitting..."
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr "Go"
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr "Account"
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr "Logout"
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr "Login or register"
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "Cart"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr "Browse store"
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "All products"
+
+#~ msgid "Mr"
+#~ msgstr "Mr"
+
+#~ msgid "Miss"
+#~ msgstr "Miss"
+
+#~ msgid "Mrs"
+#~ msgstr "Mrs"
+
+#~ msgid "Ms"
+#~ msgstr "Ms"
+
+#~ msgid "Dr"
+#~ msgstr "Dr"
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "Title"
+
+#~ msgid "First name"
+#~ msgstr "First name"
+
+#~ msgid "Last name"
+#~ msgstr "Last name"
+
+#~ msgid "First line of address"
+#~ msgstr "First line of address"
+
+#~ msgid "Second line of address"
+#~ msgstr "Second line of address"
+
+#~ msgid "Third line of address"
+#~ msgstr "Third line of address"
+
+#~ msgid "City"
+#~ msgstr "City"
+
+#~ msgid "State/County"
+#~ msgstr "State/County"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "Post/Zip-code"
+
+#~ msgid "Country"
+#~ msgstr "Country"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "Search text - used only for searching addresses"
+
+#~ msgid "Address"
+#~ msgstr "Address"
+
+#~ msgid "Addresses"
+#~ msgstr "Addresses"
+
+#~ msgid "Addresses in %(country)s require a valid postcode"
+#~ msgstr "Addresses in %(country)s require a valid postcode"
+
+#~ msgid "The postcode '%(postcode)s' is not valid for %(country)s"
+#~ msgstr "The postcode '%(postcode)s' is not valid for %(country)s"
+
+#~ msgid "ISO 3166-1 alpha-2"
+#~ msgstr "ISO 3166-1 alpha-2"
+
+#~ msgid "ISO 3166-1 alpha-3"
+#~ msgstr "ISO 3166-1 alpha-3"
+
+#~ msgid "ISO 3166-1 numeric"
+#~ msgstr "ISO 3166-1 numeric"
+
+#~ msgid "Country name"
+#~ msgstr "Country name"
+
+#~ msgid "Official name"
+#~ msgstr "Official name"
+
+#~ msgid "Display order"
+#~ msgstr "Display order"
+
+#~ msgid "Higher the number, higher the country in the list."
+#~ msgstr "Higher the number, higher the country in the list."
+
+#~ msgid "Is shipping country"
+#~ msgstr "Is shipping country"
+
+#~ msgid "Countries"
+#~ msgstr "Countries"
+
+#~ msgid "Phone number"
+#~ msgstr "Phone number"
+
+#~ msgid "In case we need to call you about your order"
+#~ msgstr "In case we need to call you about your order"
+
+#~ msgid "Instructions"
+#~ msgstr "Instructions"
+
+#~ msgid "Tell us anything we should know when delivering your order."
+#~ msgstr "Tell us anything we should know when delivering your order."
+
+#~ msgid "Shipping address"
+#~ msgstr "Shipping address"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "Shipping addresses"
+
+#~ msgid "User"
+#~ msgstr "User"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "Default shipping address?"
+
+#~ msgid "Default billing address?"
+#~ msgstr "Default billing address?"
+
+#~ msgid "Address Hash"
+#~ msgstr "Address Hash"
+
+#~ msgid "Date Created"
+#~ msgstr "Date Created"
+
+#~ msgid "User address"
+#~ msgstr "User address"
+
+#~ msgid "User addresses"
+#~ msgstr "User addresses"
+
+#~ msgid "This address is already in your address book"
+#~ msgstr "This address is already in your address book"
+
+#~ msgid "Billing address"
+#~ msgstr "Billing address"
+
+#~ msgid "Billing addresses"
+#~ msgstr "Billing addresses"
+
+#~ msgid "Partner"
+#~ msgstr "Partner"
+
+#~ msgid "Partner address"
+#~ msgstr "Partner address"
+
+#~ msgid "Partner addresses"
+#~ msgstr "Partner addresses"
+
+#~ msgid "Product"
+#~ msgstr "Product"
+
+#~ msgid "Views"
+#~ msgstr "Views"
+
+#~ msgid "Basket Additions"
+#~ msgstr "Cart Additions"
+
+#~ msgid "Purchases"
+#~ msgstr "Purchases"
+
+#~ msgid "Score"
+#~ msgstr "Score"
+
+#~ msgid "Product record"
+#~ msgstr "Product record"
+
+#~ msgid "Product records"
+#~ msgstr "Product records"
+
+#~ msgid "Record for '%s'"
+#~ msgstr "Record for '%s'"
+
+#~ msgid "Product Views"
+#~ msgstr "Product Views"
+
+#~ msgid "Order Lines"
+#~ msgstr "Order Lines"
+
+#~ msgid "Order Items"
+#~ msgstr "Order Items"
+
+#~ msgid "Total Spent"
+#~ msgstr "Total Spent"
+
+#~ msgid "Last Order Date"
+#~ msgstr "Last Order Date"
+
+#~ msgid "User record"
+#~ msgstr "User record"
+
+#~ msgid "User records"
+#~ msgstr "User records"
+
+#~ msgid "User product view"
+#~ msgstr "User product view"
+
+#~ msgid "User product views"
+#~ msgstr "User product views"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "%(user)s viewed '%(product)s'"
+
+#~ msgid "Search term"
+#~ msgstr "Search term"
+
+#~ msgid "User search query"
+#~ msgstr "User search query"
+
+#~ msgid "User search queries"
+#~ msgstr "User search queries"
+
+#~ msgid "%(user)s searched for '%(query)s'"
+#~ msgstr "%(user)s searched for '%(query)s'"
+
+#~ msgid "Analytics"
+#~ msgstr "Analytics"
+
+#~ msgid "Basket additions"
+#~ msgstr "Cart additions"
+
+#~ msgid "Product analytics"
+#~ msgstr "Product analytics"
+
+#~ msgid "Name"
+#~ msgstr "Name"
+
+#~ msgid "Date registered"
+#~ msgstr "Date registered"
+
+#~ msgid "Product views"
+#~ msgstr "Product views"
+
+#~ msgid "Order lines"
+#~ msgstr "Order lines"
+
+#~ msgid "Order items"
+#~ msgstr "Order items"
+
+#~ msgid "Total spent"
+#~ msgstr "Total spent"
+
+#~ msgid "Date of last order"
+#~ msgstr "Date of last order"
+
+#~ msgid "User analytics"
+#~ msgstr "User analytics"
+
+#~ msgid "Owner"
+#~ msgstr "Owner"
+
+#~ msgid "Open - currently active"
+#~ msgstr "Open - currently active"
+
+#~ msgid "Merged - superceded by another basket"
+#~ msgstr "Merged - superceded by another cart"
+
+#~ msgid "Saved - for items to be purchased later"
+#~ msgstr "Saved - for items to be purchased later"
+
+#~ msgid "Frozen - the basket cannot be modified"
+#~ msgstr "Frozen - the cart cannot be modified"
+
+#~ msgid "Submitted - has been ordered at the checkout"
+#~ msgstr "Submitted - has been ordered at the checkout"
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Date created"
+#~ msgstr "Date created"
+
+#~ msgid "Date merged"
+#~ msgstr "Date merged"
+
+#~ msgid "Date submitted"
+#~ msgstr "Date submitted"
+
+#~ msgid "Baskets"
+#~ msgstr "Carts"
+
+#~ msgid "%(status)s basket (owner: %(owner)s, lines: %(num_lines)d)"
+#~ msgstr "%(status)s cart (owner: %(owner)s, lines: %(num_lines)d)"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order."
+#~ msgstr ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order."
+
+#~ msgid "Line Reference"
+#~ msgstr "Line Reference"
+
+#~ msgid "Quantity"
+#~ msgstr "Quantity"
+
+#~ msgid "Currency"
+#~ msgstr "Currency"
+
+#~ msgid "Price excl. Tax"
+#~ msgstr "Price excl. Tax"
+
+#~ msgid "Price incl. Tax"
+#~ msgstr "Price incl. Tax"
+
+#~ msgid "Basket line"
+#~ msgstr "Cart line"
+
+#~ msgid "Basket lines"
+#~ msgstr "Cart lines"
+
+#~ msgid ""
+#~ "Basket #%(basket_id)d, Product #%(product_id)d, quantity %(quantity)d"
+#~ msgstr "Cart #%(basket_id)d, Product #%(product_id)d, quantity %(quantity)d"
+
+#~ msgid "You cannot modify a %s basket"
+#~ msgstr "You cannot modify a %s cart"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has increased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "The price of '%(product)s' has increased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your cart"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has decreased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "The price of '%(product)s' has decreased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your cart"
+
+#~ msgid "Line"
+#~ msgstr "Line"
+
+#~ msgid "Option"
+#~ msgstr "Option"
+
+#~ msgid "Value"
+#~ msgstr "Value"
+
+#~ msgid "Line attribute"
+#~ msgstr "Line attribute"
+
+#~ msgid "Line attributes"
+#~ msgstr "Line attributes"
+
+#~ msgid "Save for Later"
+#~ msgstr "Save for Later"
+
+#~ msgid "Move to Basket"
+#~ msgstr "Move to Cart"
+
+#~ msgid "Code"
+#~ msgstr "Code"
+
+#~ msgid "Variant"
+#~ msgstr "Variant"
+
+#~ msgid "Please select a valid product"
+#~ msgstr "Please select a valid product"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order. Your basket currently has %(basket)d "
+#~ "items."
+#~ msgstr ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order. Your cart currently has %(basket)d "
+#~ "items."
+
+#~ msgid ""
+#~ "This product cannot be added to the basket as its currency isn't the same "
+#~ "as other products in your basket"
+#~ msgstr ""
+#~ "This product cannot be added to the basket as its currency isn't the same "
+#~ "as other products in your cart"
+
+#~ msgid ""
+#~ "We have merged a basket from a previous session. Its contents might have "
+#~ "changed."
+#~ msgstr ""
+#~ "We have merged a cart from a previous session. Its contents might have "
+#~ "changed."
+
+#~ msgid "User ID"
+#~ msgstr "User ID"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Basket status"
+#~ msgstr "Cart status"
+
+#~ msgid "Num lines"
+#~ msgstr "Num lines"
+
+#~ msgid "Num items"
+#~ msgstr "Num items"
+
+#~ msgid "Date of creation"
+#~ msgstr "Date of creation"
+
+#~ msgid "Time since creation"
+#~ msgstr "Time since creation"
+
+#~ msgid "Open baskets"
+#~ msgstr "Open carts"
+
+#~ msgid "Time between creation and submission"
+#~ msgstr "Time between creation and submission"
+
+#~ msgid "Submitted baskets"
+#~ msgstr "Submitted carts"
+
+#~ msgid "You can't save an item for later if you're not logged in!"
+#~ msgstr "You can't save an item for later if you're not logged in!"
+
+#~ msgid ""
+#~ "Your basket couldn't be updated. Please correct any validation errors "
+#~ "below."
+#~ msgstr ""
+#~ "Your cart couldn't be updated. Please correct any validation errors below."
+
+#~ msgid "The '%(code)s' voucher has expired"
+#~ msgstr "The '%(code)s' coupon has expired"
+
+#~ msgid "The '%(code)s' voucher is not active"
+#~ msgstr "The '%(code)s' coupon is not active"
+
+#~ msgid "Your basket does not qualify for a voucher discount"
+#~ msgstr "Your cart does not qualify for a coupon discount"
+
+#~ msgid "Voucher '%(code)s' added to basket"
+#~ msgstr "Coupon '%(code)s' added to cart"
+
+#~ msgid "You have already added the '%(code)s' voucher to your basket"
+#~ msgstr "You have already added the '%(code)s' coupon to your cart"
+
+#~ msgid "No voucher found with code '%(code)s'"
+#~ msgstr "No coupon found with code '%(code)s'"
+
+#~ msgid "Please enter a voucher code"
+#~ msgstr "Please enter a coupon code"
+
+#~ msgid "Voucher '%s' removed from basket"
+#~ msgstr "Coupon '%s' removed from basket"
+
+#~ msgid "Slug"
+#~ msgstr "Slug"
+
+#~ msgid "Requires shipping?"
+#~ msgstr "Requires shipping?"
+
+#~ msgid "Track stock levels?"
+#~ msgstr "Track stock levels?"
+
+#~ msgid "Product class"
+#~ msgstr "Product class"
+
+#~ msgid "Product classes"
+#~ msgstr "Product classes"
+
+#~ msgid "Description"
+#~ msgstr "Description"
+
+#~ msgid "Image"
+#~ msgstr "Image"
+
+#~ msgid "Category"
+#~ msgstr "Category"
+
+#~ msgid "Product category"
+#~ msgstr "Product category"
+
+#~ msgid "Product categories"
+#~ msgstr "Product categories"
+
+#~ msgid "Stand-alone product"
+#~ msgstr "Stand-alone product"
+
+#~ msgid "Parent product"
+#~ msgstr "Parent product"
+
+#~ msgid "Child product"
+#~ msgstr "Child product"
+
+#~ msgid "Product structure"
+#~ msgstr "Product structure"
+
+#~ msgid "UPC"
+#~ msgstr "UPC"
+
+#~ msgid ""
+#~ "Universal Product Code (UPC) is an identifier for a product which is not "
+#~ "specific to a particular  supplier. Eg an ISBN for a book."
+#~ msgstr ""
+#~ "Universal Product Code (UPC) is an identifier for a product which is not "
+#~ "specific to a particular  supplier. Eg an ISBN for a book."
+
+#~ msgid ""
+#~ "Only choose a parent product if you're creating a child product.  For "
+#~ "example if this is a size 4 of a particular t-shirt.  Leave blank if this "
+#~ "is a stand-alone product (i.e. there is only one version of this product)."
+#~ msgstr ""
+#~ "Only choose a parent product if you're creating a child product.  For "
+#~ "example if this is a size 4 of a particular t-shirt.  Leave blank if this "
+#~ "is a stand-alone product (i.e. there is only one version of this product)."
+
+#~ msgctxt "Product title"
+#~ msgid "Title"
+#~ msgstr "Title"
+
+#~ msgid "Product type"
+#~ msgstr "Product type"
+
+#~ msgid "Choose what type of product this is"
+#~ msgstr "Choose what type of product this is"
+
+#~ msgid "Attributes"
+#~ msgstr "Attributes"
+
+#~ msgid ""
+#~ "A product attribute is something that this product may have, such as a "
+#~ "size, as specified by its class"
+#~ msgstr ""
+#~ "A product attribute is something that this product may have, such as a "
+#~ "size, as specified by its class"
+
+#~ msgid "Product options"
+#~ msgstr "Product options"
+
+#~ msgid ""
+#~ "Options are values that can be associated with a item when it is added to "
+#~ "a customer's basket.  This could be something like a personalised message "
+#~ "to be printed on a T-shirt."
+#~ msgstr ""
+#~ "Options are values that can be associated with a item when it is added to "
+#~ "a customer's basket.  This could be something like a personalised message "
+#~ "to be printed on a T-shirt."
+
+#~ msgid "Recommended products"
+#~ msgstr "Recommended products"
+
+#~ msgid ""
+#~ "These are products that are recommended to accompany the main product."
+#~ msgstr ""
+#~ "These are products that are recommended to accompany the main product."
+
+#~ msgid "Date updated"
+#~ msgstr "Date updated"
+
+#~ msgid "Is discountable?"
+#~ msgstr "Is discountable?"
+
+#~ msgid "This flag indicates if this product can be used in an offer or not"
+#~ msgstr "This flag indicates if this product can be used in an offer or not"
+
+#~ msgid "Your product must have a title."
+#~ msgstr "Your product must have a title."
+
+#~ msgid "Your product must have a product class."
+#~ msgstr "Your product must have a product class."
+
+#~ msgid "Only child products can have a parent."
+#~ msgstr "Only child products can have a parent."
+
+#~ msgid "A child product needs a parent."
+#~ msgstr "A child product needs a parent."
+
+#~ msgid "You can only assign child products to parent products."
+#~ msgstr "You can only assign child products to parent products."
+
+#~ msgid "A child product can't have a product class."
+#~ msgstr "A child product can't have a product class."
+
+#~ msgid "A child product can't have a category assigned."
+#~ msgstr "A child product can't have a category assigned."
+
+#~ msgid "A child product can't have options."
+#~ msgstr "A child product can't have options."
+
+#~ msgid "A parent product can't have stockrecords."
+#~ msgstr "A parent product can't have stockrecords."
+
+#~ msgid "The specified parent product is a child product."
+#~ msgstr "The specified parent product is a child product."
+
+#~ msgid "One can't add a child product to a product with stock records."
+#~ msgstr "One can't add a child product to a product with stock records."
+
+#~ msgid "Primary product"
+#~ msgstr "Primary product"
+
+#~ msgid "Recommended product"
+#~ msgstr "Recommended product"
+
+#~ msgid "Ranking"
+#~ msgstr "Ranking"
+
+#~ msgid ""
+#~ "Determines order of the products. A product with a higher value will "
+#~ "appear before one with a lower ranking."
+#~ msgstr ""
+#~ "Determines order of the products. A product with a higher value will "
+#~ "appear before one with a lower ranking."
+
+#~ msgid "Product recommendation"
+#~ msgstr "Product recommendation"
+
+#~ msgid "Product recomendations"
+#~ msgstr "Product recomendations"
+
+#~ msgid ""
+#~ "Code can only contain the letters a-z, A-Z, digits, and underscores, and "
+#~ "can't start with a digit."
+#~ msgstr ""
+#~ "Code can only contain the letters a-z, A-Z, digits, and underscores, and "
+#~ "can't start with a digit."
+
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#~ msgid "Integer"
+#~ msgstr "Integer"
+
+#~ msgid "True / False"
+#~ msgstr "True / False"
+
+#~ msgid "Float"
+#~ msgstr "Float"
+
+#~ msgid "Rich Text"
+#~ msgstr "Rich Text"
+
+#~ msgid "Date"
+#~ msgstr "Date"
+
+#~ msgid "Entity"
+#~ msgstr "Entity"
+
+#~ msgid "File"
+#~ msgstr "File"
+
+#~ msgid "Option Group"
+#~ msgstr "Option Group"
+
+#~ msgid "Required"
+#~ msgstr "Required"
+
+#~ msgid "Product attribute"
+#~ msgstr "Product attribute"
+
+#~ msgid "Product attributes"
+#~ msgstr "Product attributes"
+
+#~ msgid "Must be str or unicode"
+#~ msgstr "Must be str or unicode"
+
+#~ msgid "Must be a float"
+#~ msgstr "Must be a float"
+
+#~ msgid "Must be an integer"
+#~ msgstr "Must be an integer"
+
+#~ msgid "Must be a date or datetime"
+#~ msgstr "Must be a date or datetime"
+
+#~ msgid "Must be a boolean"
+#~ msgstr "Must be a boolean"
+
+#~ msgid "Must be a model instance"
+#~ msgstr "Must be a model instance"
+
+#~ msgid "Must be an AttributeOption model object instance"
+#~ msgstr "Must be an AttributeOption model object instance"
+
+#~ msgid "AttributeOption has not been saved yet"
+#~ msgstr "AttributeOption has not been saved yet"
+
+#~ msgid "%(enum)s is not a valid choice for %(attr)s"
+#~ msgstr "%(enum)s is not a valid choice for %(attr)s"
+
+#~ msgid "Must be a file field"
+#~ msgstr "Must be a file field"
+
+#~ msgid "Attribute"
+#~ msgstr "Attribute"
+
+#~ msgid "Boolean"
+#~ msgstr "Boolean"
+
+#~ msgid "Richtext"
+#~ msgstr "Richtext"
+
+#~ msgid "Value option"
+#~ msgstr "Value option"
+
+#~ msgid "Product attribute value"
+#~ msgstr "Product attribute value"
+
+#~ msgid "Product attribute values"
+#~ msgstr "Product attribute values"
+
+#~ msgid "Attribute option group"
+#~ msgstr "Attribute option group"
+
+#~ msgid "Attribute option groups"
+#~ msgstr "Attribute option groups"
+
+#~ msgid "Group"
+#~ msgstr "Group"
+
+#~ msgid "Attribute option"
+#~ msgstr "Attribute option"
+
+#~ msgid "Attribute options"
+#~ msgstr "Attribute options"
+
+#~ msgid "Required - a value for this option must be specified"
+#~ msgstr "Required - a value for this option must be specified"
+
+#~ msgid "Optional - a value for this option can be omitted"
+#~ msgstr "Optional - a value for this option can be omitted"
+
+#~ msgid "Original"
+#~ msgstr "Original"
+
+#~ msgid "Caption"
+#~ msgstr "Caption"
+
+#~ msgid ""
+#~ "An image with a display order of zero will be the primary image for a "
+#~ "product"
+#~ msgstr ""
+#~ "An image with a display order of zero will be the primary image for a "
+#~ "product"
+
+#~ msgid "Product image"
+#~ msgstr "Product image"
+
+#~ msgid "Product images"
+#~ msgstr "Product images"
+
+#~ msgid "%(obj)s has no attribute named '%(attr)s'"
+#~ msgstr "%(obj)s has no attribute named '%(attr)s'"
+
+#~ msgid "%(attr)s attribute cannot be blank"
+#~ msgstr "%(attr)s attribute cannot be blank"
+
+#~ msgid "%(attr)s attribute %(err)s"
+#~ msgstr "%(attr)s attribute %(err)s"
+
+#~ msgctxt "Product review title"
+#~ msgid "Title"
+#~ msgstr "Title"
+
+#~ msgid "Body"
+#~ msgstr "Body"
+
+#~ msgctxt "Anonymous reviewer name"
+#~ msgid "Name"
+#~ msgstr "Name"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Requires moderation"
+#~ msgstr "Requires moderation"
+
+#~ msgid "Approved"
+#~ msgstr "Approved"
+
+#~ msgid "Rejected"
+#~ msgstr "Rejected"
+
+#~ msgid "Total Votes"
+#~ msgstr "Total Votes"
+
+#~ msgid "Delta Votes"
+#~ msgstr "Delta Votes"
+
+#~ msgid "Product review"
+#~ msgstr "Product review"
+
+#~ msgid "Product reviews"
+#~ msgstr "Product reviews"
+
+#~ msgid "Anonymous reviews must include a name and an email"
+#~ msgstr "Anonymous reviews must include a name and an email"
+
+#~ msgid "anonymous"
+#~ msgstr "anonymous"
+
+#~ msgid "Only signed in users can vote"
+#~ msgstr "Only signed in users can vote"
+
+#~ msgid "Up"
+#~ msgstr "Up"
+
+#~ msgid "Down"
+#~ msgstr "Down"
+
+#~ msgid "Delta"
+#~ msgstr "Delta"
+
+#~ msgid "Vote"
+#~ msgstr "Vote"
+
+#~ msgid "Votes"
+#~ msgstr "Votes"
+
+#~ msgid "You cannot vote on your own reviews"
+#~ msgstr "You cannot vote on your own reviews"
+
+#~ msgid "Only signed-in users can vote on reviews"
+#~ msgstr "Only signed-in users can vote on reviews"
+
+#~ msgid "You can only vote once on a review"
+#~ msgstr "You can only vote once on a review"
+
+#~ msgid "Catalogue reviews"
+#~ msgstr "Catalog reviews"
+
+#~ msgid "Recency"
+#~ msgstr "Recency"
+
+#~ msgid "Sort by"
+#~ msgstr "Sort by"
+
+#~ msgid "You have already reviewed this product!"
+#~ msgstr "You have already reviewed this product!"
+
+#~ msgid "You can't leave a review for this product."
+#~ msgstr "You can't leave a review for this product."
+
+#~ msgid "Thank you for reviewing this product"
+#~ msgstr "Thank you for reviewing this product"
+
+#~ msgid "Thanks for voting!"
+#~ msgstr "Thanks for voting!"
+
+#~ msgid "%(filename)s is not a valid image (%(error)s)"
+#~ msgstr "%(filename)s is not a valid image (%(error)s)"
+
+#~ msgid "%s is not a valid image archive"
+#~ msgstr "%s is not a valid image archive"
+
+#~ msgid "The given page number was invalid."
+#~ msgstr "The given page number was invalid."
+
+#~ msgid "Checkout"
+#~ msgstr "Checkout"
+
+#~ msgid "My email address is"
+#~ msgstr "My email address is"
+
+#~ msgid "I am a new customer and want to checkout as a guest"
+#~ msgstr "I am a new customer and want to checkout as a guest"
+
+#~ msgid ""
+#~ "I am a new customer and want to create an account before checking out"
+#~ msgstr ""
+#~ "I am a new customer and want to create an account before checking out"
+
+#~ msgid "I am a returning customer, and my password is"
+#~ msgstr "I am a returning customer, and my password is"
+
+#~ msgid "A user with that email address already exists"
+#~ msgstr "A user with that email address already exists"
+
+#~ msgid "You need to add some items to your basket to checkout"
+#~ msgstr "You need to add some items to your cart to checkout"
+
+#~ msgid ""
+#~ "'%(title)s' is no longer available to buy (%(reason)s). Please adjust "
+#~ "your basket to continue"
+#~ msgstr ""
+#~ "'%(title)s' is no longer available to buy (%(reason)s). Please adjust "
+#~ "your cart to continue"
+
+#~ msgid "Please either sign in or enter your email address"
+#~ msgstr "Please either sign in or enter your email address"
+
+#~ msgid "Please choose a shipping address"
+#~ msgstr "Please choose a shipping address"
+
+#~ msgid ""
+#~ "Your previously chosen shipping address is no longer valid.  Please "
+#~ "choose another one"
+#~ msgstr ""
+#~ "Your previously chosen shipping address is no longer valid.  Please "
+#~ "choose another one"
+
+#~ msgid "Please choose a shipping method"
+#~ msgstr "Please choose a shipping method"
+
+#~ msgid ""
+#~ "Your previously chosen shipping method is no longer valid.  Please choose "
+#~ "another one"
+#~ msgstr ""
+#~ "Your previously chosen shipping method is no longer valid.  Please choose "
+#~ "another one"
+
+#~ msgid ""
+#~ "Create your account and then you will be redirected back to the checkout "
+#~ "process"
+#~ msgstr ""
+#~ "Create your account and then you will be redirected back to the checkout "
+#~ "process"
+
+#~ msgid "Address saved"
+#~ msgstr "Address saved"
+
+#~ msgid "Address deleted"
+#~ msgstr "Address deleted"
+
+#~ msgid ""
+#~ "Shipping is unavailable for your chosen address - please choose another"
+#~ msgstr ""
+#~ "Shipping is unavailable for your chosen address - please choose another"
+
+#~ msgid "Your submitted shipping method is not permitted"
+#~ msgstr "Your submitted shipping method is not permitted"
+
+#~ msgid ""
+#~ "A problem occurred while processing payment for this order - no payment "
+#~ "has been taken.  Please contact customer services if this problem persists"
+#~ msgstr ""
+#~ "A problem occurred while processing payment for this order - no payment "
+#~ "has been taken.  Please contact customer services if this problem persists"
+
+#~ msgid "No order found"
+#~ msgstr "No order found"
+
+#~ msgid "email address"
+#~ msgstr "email address"
+
+#~ msgid "Staff status"
+#~ msgstr "Staff status"
+
+#~ msgid "Designates whether the user can log into this admin site."
+#~ msgstr "Designates whether the user can log into this admin site."
+
+#~ msgid "Active"
+#~ msgstr "Active"
+
+#~ msgid ""
+#~ "Designates whether this user should be treated as active. Unselect this "
+#~ "instead of deleting accounts."
+#~ msgstr ""
+#~ "Designates whether this user should be treated as active. Unselect this "
+#~ "instead of deleting accounts."
+
+#~ msgid "date joined"
+#~ msgstr "date joined"
+
+#~ msgid "Users"
+#~ msgstr "Users"
+
+#~ msgid "Subject"
+#~ msgstr "Subject"
+
+#~ msgid "Body Text"
+#~ msgstr "Body Text"
+
+#~ msgid "Body HTML"
+#~ msgstr "Body HTML"
+
+#~ msgid "Date Sent"
+#~ msgstr "Date Sent"
+
+#~ msgid "Emails"
+#~ msgstr "Emails"
+
+#~ msgid "Email to %(user)s with subject '%(subject)s'"
+#~ msgstr "Email to %(user)s with subject '%(subject)s'"
+
+#~ msgid "Code used for looking up this event programmatically"
+#~ msgstr "Code used for looking up this event programmatically"
+
+#~ msgid "This is just used for organisational purposes"
+#~ msgstr "This is just used for organizational purposes"
+
+#~ msgid "Order related"
+#~ msgstr "Order related"
+
+#~ msgid "User related"
+#~ msgstr "User related"
+
+#~ msgid "Email Subject Template"
+#~ msgstr "Email Subject Template"
+
+#~ msgid "Email Body Template"
+#~ msgstr "Email Body Template"
+
+#~ msgid "Email Body HTML Template"
+#~ msgstr "Email Body HTML Template"
+
+#~ msgid "HTML template"
+#~ msgstr "HTML template"
+
+#~ msgid "SMS Template"
+#~ msgstr "SMS Template"
+
+#~ msgid "SMS template"
+#~ msgstr "SMS template"
+
+#~ msgid "Date Updated"
+#~ msgstr "Date Updated"
+
+#~ msgid "Communication event type"
+#~ msgstr "Communication event type"
+
+#~ msgid "Communication event types"
+#~ msgstr "Communication event types"
+
+#~ msgid "Inbox"
+#~ msgstr "Inbox"
+
+#~ msgid "Archive"
+#~ msgstr "Archive"
+
+#~ msgid "Notification"
+#~ msgstr "Notification"
+
+#~ msgid "Notifications"
+#~ msgstr "Notifications"
+
+#~ msgid "Key"
+#~ msgstr "Key"
+
+#~ msgid "Not yet confirmed"
+#~ msgstr "Not yet confirmed"
+
+#~ msgid "Cancelled"
+#~ msgstr "Cancelled"
+
+#~ msgid "Closed"
+#~ msgstr "Closed"
+
+#~ msgid "Date confirmed"
+#~ msgstr "Date confirmed"
+
+#~ msgid "Date cancelled"
+#~ msgstr "Date cancelled"
+
+#~ msgid "Date closed"
+#~ msgstr "Date closed"
+
+#~ msgid "Product alert"
+#~ msgstr "Product alert"
+
+#~ msgid "Product alerts"
+#~ msgstr "Product alerts"
+
+#~ msgid "Product Alerts"
+#~ msgstr "Product Alerts"
+
+#~ msgid "An alert has been created"
+#~ msgstr "An alert has been created"
+
+#~ msgid "A confirmation email has been sent to %s"
+#~ msgstr "A confirmation email has been sent to %s"
+
+#~ msgid "Your stock alert is now active"
+#~ msgstr "Your stock alert is now active"
+
+#~ msgid "Your stock alert cannot be confirmed"
+#~ msgstr "Your stock alert cannot be confirmed"
+
+#~ msgid "Your stock alert has been cancelled"
+#~ msgstr "Your stock alert has been cancelled"
+
+#~ msgid "Your stock alert cannot be cancelled"
+#~ msgstr "Your stock alert cannot be cancelled"
+
+#~ msgid "Customer"
+#~ msgstr "Customer"
+
+#~ msgid "Email address"
+#~ msgstr "Email address"
+
+#~ msgid "Password"
+#~ msgstr "Password"
+
+#~ msgid "The entered password is not valid!"
+#~ msgstr "The entered password is not valid!"
+
+#~ msgid "Confirm password"
+#~ msgstr "Confirm password"
+
+#~ msgid "The two password fields didn't match."
+#~ msgstr "The two password fields didn't match."
+
+#~ msgctxt "start date"
+#~ msgid "From"
+#~ msgstr "From"
+
+#~ msgctxt "end date"
+#~ msgid "To"
+#~ msgstr "To"
+
+#~ msgid "Order number"
+#~ msgstr "Order number"
+
+#~ msgid "At least one field is required."
+#~ msgstr "At least one field is required."
+
+#~ msgid "All orders"
+#~ msgstr "All orders"
+
+#~ msgid ""
+#~ "Orders placed between %(date_from)s and %(date_to)s and order number "
+#~ "containing %(order_number)s"
+#~ msgstr ""
+#~ "Orders placed between %(date_from)s and %(date_to)s and order number "
+#~ "containing %(order_number)s"
+
+#~ msgid "Orders placed between %(date_from)s and %(date_to)s"
+#~ msgstr "Orders placed between %(date_from)s and %(date_to)s"
+
+#~ msgid ""
+#~ "Orders placed since %(date_from)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "Orders placed since %(date_from)s and order number containing "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed since %(date_from)s"
+#~ msgstr "Orders placed since %(date_from)s"
+
+#~ msgid ""
+#~ "Orders placed until %(date_to)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "Orders placed until %(date_to)s and order number containing "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed until %(date_to)s"
+#~ msgstr "Orders placed until %(date_to)s"
+
+#~ msgid "Orders with order number containing %(order_number)s"
+#~ msgstr "Orders with order number containing %(order_number)s"
+
+#~ msgid "A user with this email address already exists"
+#~ msgstr "A user with this email address already exists"
+
+#~ msgid "Send notification to"
+#~ msgstr "Send notification to"
+
+#~ msgid "Enter your email"
+#~ msgstr "Enter your email"
+
+#~ msgid "There is already an active stock alert for %s"
+#~ msgstr "There is already an active stock alert for %s"
+
+#~ msgid "You already have an active alert for this product"
+#~ msgstr "You already have an active alert for this product"
+
+#~ msgid "%(count)d notification archived"
+#~ msgid_plural "%(count)d notifications archived"
+#~ msgstr[0] "%(count)d notification archived"
+#~ msgstr[1] "%(count)d notifications archived"
+
+#~ msgid "%(count)d notification deleted"
+#~ msgid_plural "%(count)d notifications deleted"
+#~ msgstr[0] "%(count)d notification deleted"
+#~ msgstr[1] "%(count)d notifications deleted"
+
+#~ msgid "Welcome back"
+#~ msgstr "Welcome back"
+
+#~ msgid "Thanks for registering!"
+#~ msgstr "Thanks for registering!"
+
+#~ msgid "Profile"
+#~ msgstr "Profile"
+
+#~ msgid "Edit Profile"
+#~ msgstr "Edit Profile"
+
+#~ msgid "Profile updated"
+#~ msgstr "Profile updated"
+
+#~ msgid "Delete profile"
+#~ msgstr "Delete profile"
+
+#~ msgid "Your profile has now been deleted. Thanks for using the site."
+#~ msgstr "Your profile has now been deleted. Thanks for using the site."
+
+#~ msgid "Change Password"
+#~ msgstr "Change Password"
+
+#~ msgid "Password updated"
+#~ msgstr "Password updated"
+
+#~ msgid "Email History"
+#~ msgstr "Email History"
+
+#~ msgid "Order History"
+#~ msgstr "Order History"
+
+#~ msgid "Order"
+#~ msgstr "Order"
+
+#~ msgid ""
+#~ "All available lines from order %(number)s have been added to your basket"
+#~ msgstr ""
+#~ "All available lines from order %(number)s have been added to your cart"
+
+#~ msgid ""
+#~ "It is not possible to re-order order %(number)s as none of its lines are "
+#~ "available to purchase"
+#~ msgstr ""
+#~ "It is not possible to re-order order %(number)s as none of its lines are "
+#~ "available to purchase"
+
+#~ msgid "%(qty)d copies of '%(product)s' have been added to your basket"
+#~ msgstr "%(qty)d copies of '%(product)s' have been added to your cart"
+
+#~ msgid "'%s' has been added to your basket"
+#~ msgstr "'%s' has been added to your cart"
+
+#~ msgid "Address Book"
+#~ msgstr "Address Book"
+
+#~ msgid "Add a new address"
+#~ msgstr "Add a new address"
+
+#~ msgid "Address '%s' created"
+#~ msgstr "Address '%s' created"
+
+#~ msgid "Edit address"
+#~ msgstr "Edit address"
+
+#~ msgid "Address '%s' updated"
+#~ msgstr "Address '%s' updated"
+
+#~ msgid "Delete address?"
+#~ msgstr "Delete address?"
+
+#~ msgid "Address '%s' deleted"
+#~ msgstr "Address '%s' deleted"
+
+#~ msgid "We do not ship to this country"
+#~ msgstr "We do not ship to this country"
+
+#~ msgid "Wish Lists"
+#~ msgstr "Wish Lists"
+
+#~ msgid "Quantities updated."
+#~ msgstr "Quantities updated."
+
+#~ msgid "Create a new wish list"
+#~ msgstr "Create a new wish list"
+
+#~ msgid "The requested product no longer exists"
+#~ msgstr "The requested product no longer exists"
+
+#~ msgid "Your wishlist has been created and '%(name)s has been added"
+#~ msgstr "Your wishlist has been created and '%(name)s has been added"
+
+#~ msgid "Your wishlist has been created"
+#~ msgstr "Your wishlist has been created"
+
+#~ msgid "%(title)s has been added to your wishlist"
+#~ msgstr "%(title)s has been added to your wishlist"
+
+#~ msgid "Your '%s' wishlist has been updated"
+#~ msgstr "Your '%s' wishlist has been updated"
+
+#~ msgid "Delete %s"
+#~ msgstr "Delete %s"
+
+#~ msgid "Your '%s' wish list has been deleted"
+#~ msgstr "Your '%s' wish list has been deleted"
+
+#~ msgid "'%s' was added to your wish list."
+#~ msgstr "'%s' was added to your wish list."
+
+#~ msgid "Remove %s"
+#~ msgstr "Remove %s"
+
+#~ msgid "'%(title)s' was removed from your '%(name)s' wish list"
+#~ msgstr "'%(title)s' was removed from your '%(name)s' wish list"
+
+#~ msgid "'%(title)s' moved to '%(name)s' wishlist"
+#~ msgstr "'%(title)s' moved to '%(name)s' wishlist"
+
+#~ msgid "Create a new product of type"
+#~ msgstr "Create a new product of type"
+
+#~ msgid "-- Choose type --"
+#~ msgstr "-- Choose type --"
+
+#~ msgid "Product title"
+#~ msgstr "Product title"
+
+#~ msgid "Select an option group"
+#~ msgstr "Select an option group"
+
+#~ msgid ""
+#~ "At least one stock record must be set to a partner that you're associated "
+#~ "with."
+#~ msgstr ""
+#~ "At least one stock record must be set to a partner that you're associated "
+#~ "with."
+
+#~ msgid "Stand-alone and parent products must have at least one category"
+#~ msgstr "Stand-alone and parent products must have at least one category"
+
+#~ msgid "A child product should not have categories"
+#~ msgstr "A child product should not have categories"
+
+#~ msgid "Title"
+#~ msgstr "Title"
+
+#~ msgid "Variants"
+#~ msgstr "Variants"
+
+#~ msgid "Stock records"
+#~ msgstr "Stock records"
+
+#~ msgid "Actions"
+#~ msgstr "Actions"
+
+#~ msgid "Number of child categories"
+#~ msgstr "Number of child categories"
+
+#~ msgid "%s Category"
+#~ msgid_plural "%s Categories"
+#~ msgstr[0] "%s Category"
+#~ msgstr[1] "%s Categories"
+
+#~ msgid "Product search results"
+#~ msgstr "Product search results"
+
+#~ msgid "Please choose a product type"
+#~ msgstr "Please choose a product type"
+
+#~ msgid "Create new %(product_class)s product"
+#~ msgstr "Create new %(product_class)s product"
+
+#~ msgid "Create new variant of %(parent_product)s"
+#~ msgstr "Create new variant of %(parent_product)s"
+
+#~ msgid "Editing variant of %(parent_product)s"
+#~ msgstr "Editing variant of %(parent_product)s"
+
+#~ msgid "Your submitted data was not valid - please correct the errors below"
+#~ msgstr "Your submitted data was not valid - please correct the errors below"
+
+#~ msgid "Delete product variant?"
+#~ msgstr "Delete product variant?"
+
+#~ msgid "Delete product?"
+#~ msgstr "Delete product?"
+
+#~ msgid "Deleted product variant '%s'"
+#~ msgstr "Deleted product variant '%s'"
+
+#~ msgid "Deleted product '%s'"
+#~ msgstr "Deleted product '%s'"
+
+#~ msgid "Alerts with status \"%s\""
+#~ msgstr "Alerts with status \"%s\""
+
+#~ msgid "All alerts"
+#~ msgstr "All alerts"
+
+#~ msgid "Add a new category"
+#~ msgstr "Add a new category"
+
+#~ msgid "Category created successfully"
+#~ msgstr "Category created successfully"
+
+#~ msgid "Update category '%s'"
+#~ msgstr "Update category '%s'"
+
+#~ msgid "Category updated successfully"
+#~ msgstr "Category updated successfully"
+
+#~ msgid "Category deleted successfully"
+#~ msgstr "Category deleted successfully"
+
+#~ msgid "Add a new product type"
+#~ msgstr "Add a new product type"
+
+#~ msgid "Product type created successfully"
+#~ msgstr "Product type created successfully"
+
+#~ msgid "Update product type '%s'"
+#~ msgstr "Update product type '%s'"
+
+#~ msgid "Product type updated successfully"
+#~ msgstr "Product type updated successfully"
+
+#~ msgid "Delete product type '%s'"
+#~ msgstr "Delete product type '%s'"
+
+#~ msgid "Unable to delete '%s'"
+#~ msgstr "Unable to delete '%s'"
+
+#~ msgid "%i products are still assigned to this type"
+#~ msgstr "%i products are still assigned to this type"
+
+#~ msgid "Product type deleted successfully"
+#~ msgstr "Product type deleted successfully"
+
+#~ msgid "Communications dashboard"
+#~ msgstr "Communications dashboard"
+
+#~ msgid "Email subject template"
+#~ msgstr "Email subject template"
+
+#~ msgid "Email body text template"
+#~ msgstr "Email body text template"
+
+#~ msgid "Email body HTML template"
+#~ msgstr "Email body HTML template"
+
+#~ msgid "Preview email"
+#~ msgstr "Preview email"
+
+#~ msgid "No order found with this number"
+#~ msgstr "No order found with this number"
+
+#~ msgid "Please enter an email address"
+#~ msgstr "Please enter an email address"
+
+#~ msgid ""
+#~ "The submitted form was not valid, please correct the errors and resubmit"
+#~ msgstr ""
+#~ "The submitted form was not valid, please correct the errors and resubmit"
+
+#~ msgid "Email saved"
+#~ msgstr "Email saved"
+
+#~ msgid "A preview email has been sent to %s"
+#~ msgstr "A preview email has been sent to %s"
+
+#~ msgid "Offers dashboard"
+#~ msgstr "Offers dashboard"
+
+#~ msgid "Start date"
+#~ msgstr "Start date"
+
+#~ msgid "End date"
+#~ msgstr "End date"
+
+#~ msgid "The end date must be after the start date"
+#~ msgstr "The end date must be after the start date"
+
+#~ msgid "Custom condition"
+#~ msgstr "Custom condition"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom condition"
+#~ msgstr ""
+#~ "Please either choose a range, type and value OR select a custom condition"
+
+#~ msgid "A range is required"
+#~ msgstr "A range is required"
+
+#~ msgid "Custom incentive"
+#~ msgstr "Custom incentive"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom incentive"
+#~ msgstr ""
+#~ "Please either choose a range, type and value OR select a custom incentive"
+
+#~ msgid "No other options can be set if you are using a custom incentive"
+#~ msgstr "No other options can be set if you are using a custom incentive"
+
+#~ msgid "Offer name"
+#~ msgstr "Offer name"
+
+#~ msgid "Is active?"
+#~ msgstr "Is active?"
+
+#~ msgid "Order date"
+#~ msgstr "Order date"
+
+#~ msgid "Order total"
+#~ msgstr "Order total"
+
+#~ msgid "Cost"
+#~ msgstr "Cost"
+
+#~ msgid "All offers"
+#~ msgstr "All offers"
+
+#~ msgid "Offers matching '%s'"
+#~ msgstr "Offers matching '%s'"
+
+#~ msgid "%s step not complete"
+#~ msgstr "%s step not complete"
+
+#~ msgid "Offer '%s' updated"
+#~ msgstr "Offer '%s' updated"
+
+#~ msgid "Offer '%s' created!"
+#~ msgstr "Offer '%s' created!"
+
+#~ msgid "Name and description"
+#~ msgstr "Name and description"
+
+#~ msgid "Incentive"
+#~ msgstr "Incentive"
+
+#~ msgid "Restrictions"
+#~ msgstr "Restrictions"
+
+#~ msgid "Offer deleted!"
+#~ msgstr "Offer deleted!"
+
+#~ msgid "Offer is already suspended"
+#~ msgstr "Offer is already suspended"
+
+#~ msgid "Offer suspended"
+#~ msgstr "Offer suspended"
+
+#~ msgid "Offer cannot be reinstated as it is not currently suspended"
+#~ msgstr "Offer cannot be reinstated as it is not currently suspended"
+
+#~ msgid "Offer reinstated"
+#~ msgstr "Offer reinstated"
+
+#~ msgid "Orders dashboard"
+#~ msgstr "Orders dashboard"
+
+#~ msgid "Orders placed since %s"
+#~ msgstr "Orders placed since %s"
+
+#~ msgid "Orders placed until %s"
+#~ msgstr "Orders placed until %s"
+
+#~ msgid "Customer name"
+#~ msgstr "Customer name"
+
+#~ msgid "Product name"
+#~ msgstr "Product name"
+
+#~ msgid "Partner SKU"
+#~ msgstr "Partner SKU"
+
+#~ msgid "Date from"
+#~ msgstr "Date from"
+
+#~ msgid "Date to"
+#~ msgstr "Date to"
+
+#~ msgid "Voucher code"
+#~ msgstr "Coupon code"
+
+#~ msgid "Payment method"
+#~ msgstr "Payment method"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "CSV"
+#~ msgstr "CSV"
+
+#~ msgid "Get results as"
+#~ msgstr "Get results as"
+
+#~ msgid "New order status"
+#~ msgstr "New order status"
+
+#~ msgid "Order number starts with \"{order_number}\""
+#~ msgstr "Order number starts with \"{order_number}\""
+
+#~ msgid "Customer name matches \"{customer_name}\""
+#~ msgstr "Customer name matches \"{customer_name}\""
+
+#~ msgid "Product name matches \"{product_name}\""
+#~ msgstr "Product name matches \"{product_name}\""
+
+#~ msgid "Includes an item with UPC \"{upc}\""
+#~ msgstr "Includes an item with UPC \"{upc}\""
+
+#~ msgid "Includes an item with partner SKU \"{partner_sku}\""
+#~ msgstr "Includes an item with partner SKU \"{partner_sku}\""
+
+#~ msgid "Placed between {start_date} and {end_date}"
+#~ msgstr "Placed between {start_date} and {end_date}"
+
+#~ msgid "Placed after {start_date}"
+#~ msgstr "Placed after {start_date}"
+
+#~ msgid "Placed before {end_date}"
+#~ msgstr "Placed before {end_date}"
+
+#~ msgid "Used voucher code \"{voucher_code}\""
+#~ msgstr "Used coupon code \"{voucher_code}\""
+
+#~ msgid "Paid using {payment_method}"
+#~ msgstr "Paid using {payment_method}"
+
+#~ msgid "Order status is {order_status}"
+#~ msgstr "Order status is {order_status}"
+
+#~ msgid "Order value"
+#~ msgstr "Order value"
+
+#~ msgid "Date of purchase"
+#~ msgstr "Date of purchase"
+
+#~ msgid "Number of items"
+#~ msgstr "Number of items"
+
+#~ msgid "Order status"
+#~ msgstr "Order status"
+
+#~ msgid "Customer email address"
+#~ msgstr "Customer email address"
+
+#~ msgid "Deliver to name"
+#~ msgstr "Deliver to name"
+
+#~ msgid "Bill to name"
+#~ msgstr "Bill to name"
+
+#~ msgid "The new status '%s' is not valid"
+#~ msgstr "The new status '%s' is not valid"
+
+#~ msgid "The new status '%s' is not valid for this order"
+#~ msgstr "The new status '%s' is not valid for this order"
+
+#~ msgid "Unable to change order status due to payment error: %s"
+#~ msgstr "Unable to change order status due to payment error: %s"
+
+#~ msgid "Order status changed from '%(old_status)s' to '%(new_status)s'"
+#~ msgstr "Order status changed from '%(old_status)s' to '%(new_status)s'"
+
+#~ msgid "No valid action submitted"
+#~ msgstr "No valid action submitted"
+
+#~ msgid "Invalid action"
+#~ msgstr "Invalid action"
+
+#~ msgid "You must select some lines to act on"
+#~ msgstr "You must select some lines to act on"
+
+#~ msgid "Invalid lines requested"
+#~ msgstr "Invalid lines requested"
+
+#~ msgid "The entered quantity for line #%s is not valid"
+#~ msgstr "The entered quantity for line #%s is not valid"
+
+#~ msgid ""
+#~ "The entered quantity for line #%(line_id)s should not be higher than "
+#~ "%(quantity)s"
+#~ msgstr ""
+#~ "The entered quantity for line #%(line_id)s should not be higher than "
+#~ "%(quantity)s"
+
+#~ msgid "Note saved"
+#~ msgstr "Note saved"
+
+#~ msgid "Note cannot be deleted"
+#~ msgstr "Note cannot be deleted"
+
+#~ msgid "Note deleted"
+#~ msgstr "Note deleted"
+
+#~ msgid "Invalid form submission"
+#~ msgstr "Invalid form submission"
+
+#~ msgid ""
+#~ "Unable to change order status as the requested new status is not valid"
+#~ msgstr ""
+#~ "Unable to change order status as the requested new status is not valid"
+
+#~ msgid "Please choose a valid amount"
+#~ msgstr "Please choose a valid amount"
+
+#~ msgid "'%(status)s' is not a valid new status for line %(line_id)d"
+#~ msgstr "'%(status)s' is not a valid new status for line %(line_id)d"
+
+#~ msgid ""
+#~ "Status of line #%(line_id)d changed from '%(old_status)s' to "
+#~ "'%(new_status)s'"
+#~ msgstr ""
+#~ "Status of line #%(line_id)d changed from '%(old_status)s' to "
+#~ "'%(new_status)s'"
+
+#~ msgid "The event type '%s' is not valid"
+#~ msgstr "The event type '%s' is not valid"
+
+#~ msgid "Unable to create shipping event: %s"
+#~ msgstr "Unable to create shipping event: %s"
+
+#~ msgid "Unable to create shipping event due to payment error: %s"
+#~ msgstr "Unable to create shipping event due to payment error: %s"
+
+#~ msgid "Shipping event created"
+#~ msgstr "Shipping event created"
+
+#~ msgid "Unable to create payment event due to payment error: %s"
+#~ msgstr "Unable to create payment event due to payment error: %s"
+
+#~ msgid "Unable to create payment event: %s"
+#~ msgstr "Unable to create payment event: %s"
+
+#~ msgid "Payment event created"
+#~ msgstr "Payment event created"
+
+#~ msgid "%(field)s changed from '%(old_value)s' to '%(new_value)s'"
+#~ msgstr "%(field)s changed from '%(old_value)s' to '%(new_value)s'"
+
+#~ msgid ""
+#~ "Delivery address updated:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Delivery address updated:\n"
+#~ "%s"
+
+#~ msgid "Delivery address updated"
+#~ msgstr "Delivery address updated"
+
+#~ msgid "Pages dashboard"
+#~ msgstr "Pages dashboard"
+
+#~ msgctxt "Page title"
+#~ msgid "Title"
+#~ msgstr "Title"
+
+#~ msgid "Example: '/about/contact/'."
+#~ msgstr "Example: '/about/contact/'."
+
+#~ msgid "All pages"
+#~ msgstr "All pages"
+
+#~ msgid " with title containing '%s'"
+#~ msgstr " with title containing '%s'"
+
+#~ msgid "Create New Page"
+#~ msgstr "Create New Page"
+
+#~ msgid "Deleted page '%s'"
+#~ msgstr "Deleted page '%s'"
+
+#~ msgid "Partners dashboard"
+#~ msgstr "Partners dashboard"
+
+#~ msgctxt "Partner's name"
+#~ msgid "Name"
+#~ msgstr "Name"
+
+#~ msgid "Full dashboard access"
+#~ msgstr "Full dashboard access"
+
+#~ msgid "Limited dashboard access"
+#~ msgstr "Limited dashboard access"
+
+#~ msgid "User role"
+#~ msgstr "User role"
+
+#~ msgid "Confirm Password"
+#~ msgstr "Confirm Password"
+
+#~ msgid "All partners"
+#~ msgstr "All partners"
+
+#~ msgid "Partners matching '%s'"
+#~ msgstr "Partners matching '%s'"
+
+#~ msgid "Create new partner"
+#~ msgstr "Create new partner"
+
+#~ msgid "Partner '%s' was created successfully."
+#~ msgstr "Partner '%s' was created successfully."
+
+#~ msgid "Partner '%s' was updated successfully."
+#~ msgstr "Partner '%s' was updated successfully."
+
+#~ msgid "Partner '%s' was deleted successfully."
+#~ msgstr "Partner '%s' was deleted successfully."
+
+#~ msgid "Create user"
+#~ msgstr "Create user"
+
+#~ msgid "User '%s' was created successfully."
+#~ msgstr "User '%s' was created successfully."
+
+#~ msgid "User '%(name)s' was linked to '%(partner_name)s'"
+#~ msgstr "User '%(name)s' was linked to '%(partner_name)s'"
+
+#~ msgid "User '%(name)s' is already linked to '%(partner_name)s'"
+#~ msgstr "User '%(name)s' is already linked to '%(partner_name)s'"
+
+#~ msgid "User '%(name)s' is not linked to '%(partner_name)s'"
+#~ msgstr "User '%(name)s' is not linked to '%(partner_name)s'"
+
+#~ msgid "Edit user '%s'"
+#~ msgstr "Edit user '%s'"
+
+#~ msgid "User '%s' was updated successfully."
+#~ msgstr "User '%s' was updated successfully."
+
+#~ msgid "Promotions dashboard"
+#~ msgstr "Promotions dashboard"
+
+#~ msgid "Promotion type"
+#~ msgstr "Promotion type"
+
+#~ msgid "Position"
+#~ msgstr "Position"
+
+#~ msgid "Where in the page this content block will appear"
+#~ msgstr "Where in the page this content block will appear"
+
+#~ msgid "Content blocks can only be linked to internal URLs"
+#~ msgstr "Content blocks can only be linked to internal URLs"
+
+#~ msgid "Content block removed successfully"
+#~ msgstr "Content block removed successfully"
+
+#~ msgid "Content block created successfully"
+#~ msgstr "Content block created successfully"
+
+#~ msgid "Create a new %s content block"
+#~ msgstr "Create a new %s content block"
+
+#~ msgid "Product list content block created"
+#~ msgstr "Product list content block created"
+
+#~ msgid "Update content block"
+#~ msgstr "Update content block"
+
+#~ msgid "Content block updated successfully"
+#~ msgstr "Content block updated successfully"
+
+#~ msgid "Content block '%(block)s' added to page '%(page)s'"
+#~ msgstr "Content block '%(block)s' added to page '%(page)s'"
+
+#~ msgid "No link found to delete"
+#~ msgstr "No link found to delete"
+
+#~ msgid "Content block removed from page '%s'"
+#~ msgstr "Content block removed from page '%s'"
+
+#~ msgid "Product list promotion updated"
+#~ msgstr "Product list promotion updated"
+
+#~ msgid "Content block deleted successfully"
+#~ msgstr "Content block deleted successfully"
+
+#~ msgid "Ranges dashboard"
+#~ msgstr "Ranges dashboard"
+
+#~ msgid "Product SKUs or UPCs"
+#~ msgstr "Product SKUs or UPCs"
+
+#~ msgid "You can paste in a selection of SKUs or UPCs"
+#~ msgstr "You can paste in a selection of SKUs or UPCs"
+
+#~ msgid "File of SKUs or UPCs"
+#~ msgstr "File of SKUs or UPCs"
+
+#~ msgid "Either comma-separated, or one identifier per line"
+#~ msgstr "Either comma-separated, or one identifier per line"
+
+#~ msgid "You must submit either a list of SKU/UPCs or a file"
+#~ msgstr "You must submit either a list of SKU/UPCs or a file"
+
+#~ msgid "The products with SKUs or UPCs matching %s are already in this range"
+#~ msgstr ""
+#~ "The products with SKUs or UPCs matching %s are already in this range"
+
+#~ msgid "No products exist with a SKU or UPC matching %s"
+#~ msgstr "No products exist with a SKU or UPC matching %s"
+
+#~ msgid "Create range"
+#~ msgstr "Create range"
+
+#~ msgid "Range deleted"
+#~ msgstr "Range deleted"
+
+#~ msgid "Removed %d product from range"
+#~ msgid_plural "Removed %d products from range"
+#~ msgstr[0] "Removed %d product from range"
+#~ msgstr[1] "Removed %d products from range"
+
+#~ msgid "%d product added to range"
+#~ msgid_plural "%d products added to range"
+#~ msgstr[0] "%d product added to range"
+#~ msgstr[1] "%d products added to range"
+
+#~ msgid "No product(s) were found with SKU or UPC matching %s"
+#~ msgstr "No product(s) were found with SKU or UPC matching %s"
+
+#~ msgid "Reports dashboard"
+#~ msgstr "Reports dashboard"
+
+#~ msgid "Report Type"
+#~ msgstr "Report Type"
+
+#~ msgid "Only the offer and order reports use the selected date range"
+#~ msgstr "Only the offer and order reports use the selected date range"
+
+#~ msgid "The report is inclusive of this date"
+#~ msgstr "The report is inclusive of this date"
+
+#~ msgid "Download"
+#~ msgstr "Download"
+
+#~ msgid "Your start date must be before your end date"
+#~ msgstr "Your start date must be before your end date"
+
+#~ msgid "%(report_filter)s between %(start_date)s and %(end_date)s"
+#~ msgstr "%(report_filter)s between %(start_date)s and %(end_date)s"
+
+#~ msgid "You do not have access to this report"
+#~ msgstr "You do not have access to this report"
+
+#~ msgid "Reviews dashboard"
+#~ msgstr "Reviews dashboard"
+
+#~ msgid "Keyword"
+#~ msgstr "Keyword"
+
+#~ msgid "to"
+#~ msgstr "to"
+
+#~ msgid ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+#~ msgstr ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+
+#~ msgid " created after %s"
+#~ msgstr " created after %s"
+
+#~ msgid " created before %s"
+#~ msgstr " created before %s"
+
+#~ msgid " created between %(start_date)s and %(end_date)s"
+#~ msgstr " created between %(start_date)s and %(end_date)s"
+
+#~ msgid "All reviews"
+#~ msgstr "All reviews"
+
+#~ msgid " with status matching '%s'"
+#~ msgstr " with status matching '%s'"
+
+#~ msgid " with keyword matching '%s'"
+#~ msgstr " with keyword matching '%s'"
+
+#~ msgid " with customer name matching '%s'"
+#~ msgstr " with customer name matching '%s'"
+
+#~ msgid "Shipping dashboard"
+#~ msgstr "Shipping dashboard"
+
+#~ msgid "%d Row"
+#~ msgid_plural "%d Rows"
+#~ msgstr[0] "%d Row"
+#~ msgstr[1] "%d Rows"
+
+#~ msgid "Users dashboard"
+#~ msgstr "Users dashboard"
+
+#~ msgctxt "User's name"
+#~ msgid "Name"
+#~ msgstr "Name"
+
+#~ msgid "%(main_filter)s %(email_filter)s %(name_filter)s"
+#~ msgstr "%(main_filter)s %(email_filter)s %(name_filter)s"
+
+#~ msgid "All users"
+#~ msgstr "All users"
+
+#~ msgid " with email matching '%s'"
+#~ msgstr " with email matching '%s'"
+
+#~ msgid " with name matching '%s'"
+#~ msgstr " with name matching '%s'"
+
+#~ msgid "Users' status successfully changed"
+#~ msgstr "Users' status successfully changed"
+
+#~ msgid "A password reset email has been sent"
+#~ msgstr "A password reset email has been sent"
+
+#~ msgid "All Alerts"
+#~ msgstr "All Alerts"
+
+#~ msgid " with customer email matching '%s'"
+#~ msgstr " with customer email matching '%s'"
+
+#~ msgid "Product alert saved"
+#~ msgstr "Product alert saved"
+
+#~ msgid "Product alert deleted"
+#~ msgstr "Product alert deleted"
+
+#~ msgid "Vouchers dashboard"
+#~ msgstr "Coupons dashboard"
+
+#~ msgid "Start datetime"
+#~ msgstr "Start datetime"
+
+#~ msgid "End datetime"
+#~ msgstr "End datetime"
+
+#~ msgid "Usage"
+#~ msgstr "Usage"
+
+#~ msgid "Which products get a discount?"
+#~ msgstr "Which products get a discount?"
+
+#~ msgid "Percentage off of products in range"
+#~ msgstr "Percentage off of products in range"
+
+#~ msgid "Fixed amount off of products in range"
+#~ msgstr "Fixed amount off of products in range"
+
+#~ msgid "Discount is a percentage off of the shipping cost"
+#~ msgstr "Discount is a percentage off of the shipping cost"
+
+#~ msgid "Discount is a fixed amount of the shipping cost"
+#~ msgstr "Discount is a fixed amount of the shipping cost"
+
+#~ msgid "Get shipping for a fixed price"
+#~ msgstr "Get shipping for a fixed price"
+
+#~ msgid "Discount type"
+#~ msgstr "Discount type"
+
+#~ msgid "Discount value"
+#~ msgstr "Discount value"
+
+#~ msgid "The name '%s' is already in use"
+#~ msgstr "The name '%s' is already in use"
+
+#~ msgid "The code '%s' is already in use"
+#~ msgstr "The code '%s' is already in use"
+
+#~ msgid "The start date must be before the end date"
+#~ msgstr "The start date must be before the end date"
+
+#~ msgid "Is Active?"
+#~ msgstr "Is Active?"
+
+#~ msgid "%(main_filter)s %(name_filter)s %(code_filter)s"
+#~ msgstr "%(main_filter)s %(name_filter)s %(code_filter)s"
+
+#~ msgid "All vouchers"
+#~ msgstr "All coupons"
+
+#~ msgid "with name matching '%s'"
+#~ msgstr "with name matching '%s'"
+
+#~ msgid "with code '%s'"
+#~ msgstr "with code '%s'"
+
+#~ msgid "Active vouchers"
+#~ msgstr "Active coupons"
+
+#~ msgid "Create voucher"
+#~ msgstr "Create coupon"
+
+#~ msgid "Offer for voucher '%s'"
+#~ msgstr "Offer for coupon '%s'"
+
+#~ msgid "Voucher created"
+#~ msgstr "Coupon created"
+
+#~ msgid "Voucher updated"
+#~ msgstr "Coupon updated"
+
+#~ msgid "Voucher deleted"
+#~ msgstr "Coupon deleted"
+
+#~ msgid "This is displayed within the customer's basket"
+#~ msgstr "This is displayed within the customer's cart"
+
+#~ msgid "This is displayed on the offer browsing page"
+#~ msgstr "This is displayed on the offer browsing page"
+
+#~ msgid "Site offer - available to all users"
+#~ msgstr "Site offer - available to all users"
+
+#~ msgid ""
+#~ "Voucher offer - only available after entering the appropriate voucher code"
+#~ msgstr ""
+#~ "Coupon offer - only available after entering the appropriate coupon code"
+
+#~ msgid "User offer - available to certain types of user"
+#~ msgstr "User offer - available to certain types of user"
+
+#~ msgid ""
+#~ "Session offer - temporary offer, available for a user for the duration of "
+#~ "their session"
+#~ msgstr ""
+#~ "Session offer - temporary offer, available for a user for the duration of "
+#~ "their session"
+
+#~ msgid "Condition"
+#~ msgstr "Condition"
+
+#~ msgid "Benefit"
+#~ msgstr "Benefit"
+
+#~ msgid "Priority"
+#~ msgstr "Priority"
+
+#~ msgid "The highest priority offers are applied first"
+#~ msgstr "The highest priority offers are applied first"
+
+#~ msgid "Max global applications"
+#~ msgstr "Max global applications"
+
+#~ msgid "The number of times this offer can be used before it is unavailable"
+#~ msgstr "The number of times this offer can be used before it is unavailable"
+
+#~ msgid "Max user applications"
+#~ msgstr "Max user applications"
+
+#~ msgid "The number of times a single user can use this offer"
+#~ msgstr "The number of times a single user can use this offer"
+
+#~ msgid "Max basket applications"
+#~ msgstr "Max cart applications"
+
+#~ msgid ""
+#~ "The number of times this offer can be applied to a basket (and order)"
+#~ msgstr "The number of times this offer can be applied to a cart (and order)"
+
+#~ msgid "Max discount"
+#~ msgstr "Max discount"
+
+#~ msgid ""
+#~ "When an offer has given more discount to orders than this threshold, then "
+#~ "the offer becomes unavailable"
+#~ msgstr ""
+#~ "When an offer has given more discount to orders than this threshold, then "
+#~ "the offer becomes unavailable"
+
+#~ msgid "Total Discount"
+#~ msgstr "Total Discount"
+
+#~ msgid "Number of applications"
+#~ msgstr "Number of applications"
+
+#~ msgid "Number of Orders"
+#~ msgstr "Number of Orders"
+
+#~ msgid "URL redirect (optional)"
+#~ msgstr "URL redirect (optional)"
+
+#~ msgid "Conditional offer"
+#~ msgstr "Conditional offer"
+
+#~ msgid "Conditional offers"
+#~ msgstr "Conditional offers"
+
+#~ msgid "End date should be later than start date"
+#~ msgstr "End date should be later than start date"
+
+#~ msgid "Offer is suspended"
+#~ msgstr "Offer is suspended"
+
+#~ msgid "Limited to %(total)d uses (%(remainder)d remaining)"
+#~ msgstr "Limited to %(total)d uses (%(remainder)d remaining)"
+
+#~ msgid "Limited to 1 use per user"
+#~ msgstr "Limited to 1 use per user"
+
+#~ msgid "Limited to %(total)d uses per user"
+#~ msgstr "Limited to %(total)d uses per user"
+
+#~ msgid "Limited to 1 use per basket"
+#~ msgstr "Limited to 1 use per cart"
+
+#~ msgid "Limited to %(total)d uses per basket"
+#~ msgstr "Limited to %(total)d uses per cart"
+
+#~ msgid "Available between %(start)s and %(end)s"
+#~ msgstr "Available between %(start)s and %(end)s"
+
+#~ msgid "Available from %(start)s"
+#~ msgstr "Available from %(start)s"
+
+#~ msgid "Available until %(end)s"
+#~ msgstr "Available until %(end)s"
+
+#~ msgid "Limited to a cost of %(max)s"
+#~ msgstr "Limited to a cost of %(max)s"
+
+#~ msgid "Range"
+#~ msgstr "Range"
+
+#~ msgid "Discount is a percentage off of the product's value"
+#~ msgstr "Discount is a percentage off of the product's value"
+
+#~ msgid "Discount is a fixed amount off of the product's value"
+#~ msgstr "Discount is a fixed amount off of the product's value"
+
+#~ msgid "Discount is to give the cheapest product for free"
+#~ msgstr "Discount is to give the cheapest product for free"
+
+#~ msgid "Get the products that meet the condition for a fixed price"
+#~ msgstr "Get the products that meet the condition for a fixed price"
+
+#~ msgid "Max Affected Items"
+#~ msgstr "Max Affected Items"
+
+#~ msgid ""
+#~ "Set this to prevent the discount consuming all items within the range "
+#~ "that are in the basket."
+#~ msgstr ""
+#~ "Set this to prevent the discount consuming all items within the range "
+#~ "that are in the cart."
+
+#~ msgid "Custom class"
+#~ msgstr "Custom class"
+
+#~ msgid "Benefits"
+#~ msgstr "Benefits"
+
+#~ msgid "Multibuy benefits require a product range"
+#~ msgstr "Multibuy benefits require a product range"
+
+#~ msgid "Multibuy benefits don't require a value"
+#~ msgstr "Multibuy benefits don't require a value"
+
+#~ msgid "Multibuy benefits don't require a 'max affected items' attribute"
+#~ msgstr "Multibuy benefits don't require a 'max affected items' attribute"
+
+#~ msgid "Percentage benefits require a product range"
+#~ msgstr "Percentage benefits require a product range"
+
+#~ msgid "Percentage discount cannot be greater than 100"
+#~ msgstr "Percentage discount cannot be greater than 100"
+
+#~ msgid "A discount value is required"
+#~ msgstr "A discount value is required"
+
+#~ msgid ""
+#~ "No range should be selected as this benefit does not apply to products"
+#~ msgstr ""
+#~ "No range should be selected as this benefit does not apply to products"
+
+#~ msgid "Shipping discounts don't require a 'max affected items' attribute"
+#~ msgstr "Shipping discounts don't require a 'max affected items' attribute"
+
+#~ msgid ""
+#~ "No range should be selected as the condition range will be used instead."
+#~ msgstr ""
+#~ "No range should be selected as the condition range will be used instead."
+
+#~ msgid "Fixed discount benefits require a product range"
+#~ msgstr "Fixed discount benefits require a product range"
+
+#~ msgid "Fixed discount benefits require a value"
+#~ msgstr "Fixed discount benefits require a value"
+
+#~ msgid "Depends on number of items in basket that are in condition range"
+#~ msgstr "Depends on number of items in cart that are in condition range"
+
+#~ msgid "Depends on value of items in basket that are in condition range"
+#~ msgstr "Depends on value of items in cart that are in condition range"
+
+#~ msgid ""
+#~ "Needs to contain a set number of DISTINCT items from the condition range"
+#~ msgstr ""
+#~ "Needs to contain a set number of DISTINCT items from the condition range"
+
+#~ msgid "Conditions"
+#~ msgstr "Conditions"
+
+#~ msgid "Is public?"
+#~ msgstr "Is public?"
+
+#~ msgid "Public ranges have a customer-facing page"
+#~ msgstr "Public ranges have a customer-facing page"
+
+#~ msgid "Includes all products?"
+#~ msgstr "Includes all products?"
+
+#~ msgid "Included Products"
+#~ msgstr "Included Products"
+
+#~ msgid "Excluded Products"
+#~ msgstr "Excluded Products"
+
+#~ msgid "Included Categories"
+#~ msgstr "Included Categories"
+
+#~ msgid "File Path"
+#~ msgstr "File Path"
+
+#~ msgid "Size"
+#~ msgstr "Size"
+
+#~ msgid "Uploaded By"
+#~ msgstr "Uploaded By"
+
+#~ msgid "Date Uploaded"
+#~ msgstr "Date Uploaded"
+
+#~ msgid "Error Message"
+#~ msgstr "Error Message"
+
+#~ msgid "Date Processed"
+#~ msgstr "Date Processed"
+
+#~ msgid "Number of New SKUs"
+#~ msgstr "Number of New SKUs"
+
+#~ msgid "Number of Unknown SKUs"
+#~ msgstr "Number of Unknown SKUs"
+
+#~ msgid "Number of Duplicate SKUs"
+#~ msgstr "Number of Duplicate SKUs"
+
+#~ msgid "Range Product Uploaded File"
+#~ msgstr "Range Product Uploaded File"
+
+#~ msgid "Range Product Uploaded Files"
+#~ msgstr "Range Product Uploaded Files"
+
+#~ msgid "%(value)s%% discount on %(range)s"
+#~ msgstr "%(value)s%% discount on %(range)s"
+
+#~ msgid "Percentage discount benefit"
+#~ msgstr "Percentage discount benefit"
+
+#~ msgid "Percentage discount benefits"
+#~ msgstr "Percentage discount benefits"
+
+#~ msgid "%(value)s discount on %(range)s"
+#~ msgstr "%(value)s discount on %(range)s"
+
+#~ msgid "Absolute discount benefit"
+#~ msgstr "Absolute discount benefit"
+
+#~ msgid "Absolute discount benefits"
+#~ msgstr "Absolute discount benefits"
+
+#~ msgid "The products that meet the condition are sold for %(amount)s"
+#~ msgstr "The products that meet the condition are sold for %(amount)s"
+
+#~ msgid "Fixed price benefit"
+#~ msgstr "Fixed price benefit"
+
+#~ msgid "Fixed price benefits"
+#~ msgstr "Fixed price benefits"
+
+#~ msgid "Cheapest product from %(range)s is free"
+#~ msgstr "Cheapest product from %(range)s is free"
+
+#~ msgid "Multibuy discount benefit"
+#~ msgstr "Multibuy discount benefit"
+
+#~ msgid "Multibuy discount benefits"
+#~ msgstr "Multibuy discount benefits"
+
+#~ msgid "%(amount)s off shipping cost"
+#~ msgstr "%(amount)s off shipping cost"
+
+#~ msgid "Shipping absolute discount benefit"
+#~ msgstr "Shipping absolute discount benefit"
+
+#~ msgid "Shipping absolute discount benefits"
+#~ msgstr "Shipping absolute discount benefits"
+
+#~ msgid "Get shipping for %(amount)s"
+#~ msgstr "Get shipping for %(amount)s"
+
+#~ msgid "Fixed price shipping benefit"
+#~ msgstr "Fixed price shipping benefit"
+
+#~ msgid "Fixed price shipping benefits"
+#~ msgstr "Fixed price shipping benefits"
+
+#~ msgid "%(value)s%% off of shipping cost"
+#~ msgstr "%(value)s%% off of shipping cost"
+
+#~ msgid "Shipping percentage discount benefit"
+#~ msgstr "Shipping percentage discount benefit"
+
+#~ msgid "Shipping percentage discount benefits"
+#~ msgstr "Shipping percentage discount benefits"
+
+#~ msgid "Basket includes %(count)d item(s) from %(range)s"
+#~ msgstr "Cart includes %(count)d item(s) from %(range)s"
+
+#~ msgid "Count condition"
+#~ msgstr "Count condition"
+
+#~ msgid "Count conditions"
+#~ msgstr "Count conditions"
+
+#~ msgid "Buy %(delta)d more product from %(range)s"
+#~ msgid_plural "Buy %(delta)d more products from %(range)s"
+#~ msgstr[0] "Buy %(delta)d more product from %(range)s"
+#~ msgstr[1] "Buy %(delta)d more products from %(range)s"
+
+#~ msgid "Basket includes %(count)d distinct item(s) from %(range)s"
+#~ msgstr "Cart includes %(count)d distinct item(s) from %(range)s"
+
+#~ msgid "Coverage Condition"
+#~ msgstr "Coverage Condition"
+
+#~ msgid "Coverage Conditions"
+#~ msgstr "Coverage Conditions"
+
+#~ msgid "Basket includes %(amount)s from %(range)s"
+#~ msgstr "Cart includes %(amount)s from %(range)s"
+
+#~ msgid "Value condition"
+#~ msgstr "Value condition"
+
+#~ msgid "Value conditions"
+#~ msgstr "Value conditions"
+
+#~ msgid "Spend %(value)s more from %(range)s"
+#~ msgstr "Spend %(value)s more from %(range)s"
+
+#~ msgid "Offer"
+#~ msgstr "Offer"
+
+#~ msgid "Total discount"
+#~ msgstr "Total discount"
+
+#~ msgid "Offer performance"
+#~ msgstr "Offer performance"
+
+#~ msgid "Site"
+#~ msgstr "Site"
+
+#~ msgid "Billing Address"
+#~ msgstr "Billing Address"
+
+#~ msgid "Order total (inc. tax)"
+#~ msgstr "Order total (inc. tax)"
+
+#~ msgid "Order total (excl. tax)"
+#~ msgstr "Order total (excl. tax)"
+
+#~ msgid "Shipping charge (inc. tax)"
+#~ msgstr "Shipping charge (inc. tax)"
+
+#~ msgid "Shipping charge (excl. tax)"
+#~ msgstr "Shipping charge (excl. tax)"
+
+#~ msgid "Shipping Address"
+#~ msgstr "Shipping Address"
+
+#~ msgid "Shipping method"
+#~ msgstr "Shipping method"
+
+#~ msgid "Guest email address"
+#~ msgstr "Guest email address"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status for order %(number)s (current "
+#~ "status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s' is not a valid status for order %(number)s (current "
+#~ "status: '%(status)s')"
+
+#~ msgid "In progress"
+#~ msgstr "In progress"
+
+#~ msgid "Note Type"
+#~ msgstr "Note Type"
+
+#~ msgid "Message"
+#~ msgstr "Message"
+
+#~ msgid "Order Note"
+#~ msgstr "Order Note"
+
+#~ msgid "Order Notes"
+#~ msgstr "Order Notes"
+
+#~ msgid "Event Type"
+#~ msgstr "Event Type"
+
+#~ msgid "Communication Event"
+#~ msgstr "Communication Event"
+
+#~ msgid "Communication Events"
+#~ msgstr "Communication Events"
+
+#~ msgid "'%(type)s' event for order #%(number)s"
+#~ msgstr "'%(type)s' event for order #%(number)s"
+
+#~ msgid "Partner name"
+#~ msgstr "Partner name"
+
+#~ msgid "Partner reference"
+#~ msgstr "Partner reference"
+
+#~ msgid "This is the item number that the partner uses within their system"
+#~ msgstr "This is the item number that the partner uses within their system"
+
+#~ msgid "Partner Notes"
+#~ msgstr "Partner Notes"
+
+#~ msgid "Stock record"
+#~ msgstr "Stock record"
+
+#~ msgid "Price (inc. tax)"
+#~ msgstr "Price (inc. tax)"
+
+#~ msgid "Price (excl. tax)"
+#~ msgstr "Price (excl. tax)"
+
+#~ msgid "Price before discounts (inc. tax)"
+#~ msgstr "Price before discounts (inc. tax)"
+
+#~ msgid "Price before discounts (excl. tax)"
+#~ msgstr "Price before discounts (excl. tax)"
+
+#~ msgid "Unit Cost Price"
+#~ msgstr "Unit Cost Price"
+
+#~ msgid "Unit Price (inc. tax)"
+#~ msgstr "Unit Price (inc. tax)"
+
+#~ msgid "Unit Price (excl. tax)"
+#~ msgstr "Unit Price (excl. tax)"
+
+#~ msgid "Unit Retail Price"
+#~ msgstr "Unit Retail Price"
+
+#~ msgid "Estimated Dispatch Date"
+#~ msgstr "Estimated Dispatch Date"
+
+#~ msgid "Order Line"
+#~ msgstr "Order Line"
+
+#~ msgid "<missing product>"
+#~ msgstr "<missing product>"
+
+#~ msgid "Product '%(name)s', quantity '%(qty)s'"
+#~ msgstr "Product '%(name)s', quantity '%(qty)s'"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status (current status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s' is not a valid status (current status: '%(status)s')"
+
+#~ msgid "'%(title)s' is no longer available"
+#~ msgstr "'%(title)s' is no longer available"
+
+#~ msgid "Line Attribute"
+#~ msgstr "Line Attribute"
+
+#~ msgid "Line Attributes"
+#~ msgstr "Line Attributes"
+
+#~ msgid "Shiping (inc. tax)"
+#~ msgstr "Shiping (inc. tax)"
+
+#~ msgid "Shipping (excl. tax)"
+#~ msgstr "Shipping (excl. tax)"
+
+#~ msgid "Line Price"
+#~ msgstr "Line Price"
+
+#~ msgid "Line Prices"
+#~ msgstr "Line Prices"
+
+#~ msgid "Line '%(number)s' (quantity %(qty)d) price %(price)s"
+#~ msgstr "Line '%(number)s' (quantity %(qty)d) price %(price)s"
+
+#~ msgid "Payment Event Type"
+#~ msgstr "Payment Event Type"
+
+#~ msgid "Payment Event Types"
+#~ msgstr "Payment Event Types"
+
+#~ msgid "Amount"
+#~ msgstr "Amount"
+
+#~ msgid "Reference"
+#~ msgstr "Reference"
+
+#~ msgid "Lines"
+#~ msgstr "Lines"
+
+#~ msgid "Payment Event"
+#~ msgstr "Payment Event"
+
+#~ msgid "Payment Events"
+#~ msgstr "Payment Events"
+
+#~ msgid "Payment event for order %s"
+#~ msgstr "Payment event for order %s"
+
+#~ msgid "Event"
+#~ msgstr "Event"
+
+#~ msgid "Payment Event Quantity"
+#~ msgstr "Payment Event Quantity"
+
+#~ msgid "Payment Event Quantities"
+#~ msgstr "Payment Event Quantities"
+
+#~ msgid "Event notes"
+#~ msgstr "Event notes"
+
+#~ msgid "This could be the dispatch reference, or a tracking number"
+#~ msgstr "This could be the dispatch reference, or a tracking number"
+
+#~ msgid "Shipping Event"
+#~ msgstr "Shipping Event"
+
+#~ msgid "Shipping Events"
+#~ msgstr "Shipping Events"
+
+#~ msgid "Order #%(number)s, type %(type)s"
+#~ msgstr "Order #%(number)s, type %(type)s"
+
+#~ msgid "Shipping Event Quantity"
+#~ msgstr "Shipping Event Quantity"
+
+#~ msgid "Shipping Event Quantities"
+#~ msgstr "Shipping Event Quantities"
+
+#~ msgid "%(product)s - quantity %(qty)d"
+#~ msgstr "%(product)s - quantity %(qty)d"
+
+#~ msgid "Shipping Event Type"
+#~ msgstr "Shipping Event Type"
+
+#~ msgid "Shipping Event Types"
+#~ msgstr "Shipping Event Types"
+
+#~ msgid "Discount category"
+#~ msgstr "Discount category"
+
+#~ msgid "Offer ID"
+#~ msgstr "Offer ID"
+
+#~ msgid "Voucher ID"
+#~ msgstr "Coupon ID"
+
+#~ msgid "Frequency"
+#~ msgstr "Frequency"
+
+#~ msgid "Order Discount"
+#~ msgstr "Order Discount"
+
+#~ msgid "Order Discounts"
+#~ msgstr "Order Discounts"
+
+#~ msgid "Discount of %(amount)r from order %(order)s"
+#~ msgstr "Discount of %(amount)r from order %(order)s"
+
+#~ msgid "The selected quantity for line #%(line_id)s is too large"
+#~ msgstr "The selected quantity for line #%(line_id)s is too large"
+
+#~ msgid "Total incl. tax"
+#~ msgstr "Total incl. tax"
+
+#~ msgid "Date placed"
+#~ msgstr "Date placed"
+
+#~ msgid "Orders placed"
+#~ msgstr "Orders placed"
+
+#~ msgid "Empty baskets cannot be submitted"
+#~ msgstr "Empty carts cannot be submitted"
+
+#~ msgid "There is already an order with number %s"
+#~ msgstr "There is already an order with number %s"
+
+#~ msgid "Fulfillment partner"
+#~ msgstr "Fulfillment partner"
+
+#~ msgid "Fulfillment partners"
+#~ msgstr "Fulfillment partners"
+
+#~ msgid "Price (retail)"
+#~ msgstr "Price (retail)"
+
+#~ msgid "Cost Price"
+#~ msgstr "Cost Price"
+
+#~ msgid "Number in stock"
+#~ msgstr "Number in stock"
+
+#~ msgid "Number allocated"
+#~ msgstr "Number allocated"
+
+#~ msgid "Low Stock Threshold"
+#~ msgstr "Low Stock Threshold"
+
+#~ msgid "Invalid stock consumption request"
+#~ msgstr "Invalid stock consumption request"
+
+#~ msgid "Stock Record"
+#~ msgstr "Stock Record"
+
+#~ msgid "Threshold"
+#~ msgstr "Threshold"
+
+#~ msgid "Open"
+#~ msgstr "Open"
+
+#~ msgid "Date Closed"
+#~ msgstr "Date Closed"
+
+#~ msgid "<stockalert for \"%(stock)s\" status %(status)s>"
+#~ msgstr "<stockalert for \"%(stock)s\" status %(status)s>"
+
+#~ msgid "Stock alert"
+#~ msgstr "Stock alert"
+
+#~ msgid "Stock alerts"
+#~ msgstr "Stock alerts"
+
+#~ msgid "unavailable"
+#~ msgstr "unavailable"
+
+#~ msgid "Unavailable"
+#~ msgstr "Unavailable"
+
+#~ msgid "Available"
+#~ msgstr "Available"
+
+#~ msgid "no stock available"
+#~ msgstr "no stock available"
+
+#~ msgid "a maximum of %(max)d can be bought"
+#~ msgstr "a maximum of %(max)d can be bought"
+
+#~ msgid "In stock"
+#~ msgstr "In stock"
+
+#~ msgid "In stock (%d available)"
+#~ msgstr "In stock (%d available)"
+
+#~ msgid "No file path supplied"
+#~ msgstr "No file path supplied"
+
+#~ msgid "%s does not exist"
+#~ msgstr "%s does not exist"
+
+#~ msgid "%s is not a file"
+#~ msgstr "%s is not a file"
+
+#~ msgid "%s is not readable"
+#~ msgstr "%s is not readable"
+
+#~ msgid "Source"
+#~ msgstr "Source"
+
+#~ msgid "%(type)s of %(amount).2f"
+#~ msgstr "%(type)s of %(amount).2f"
+
+#~ msgid "Transaction"
+#~ msgstr "Transaction"
+
+#~ msgid "Transactions"
+#~ msgstr "Transactions"
+
+#~ msgid "Source Type"
+#~ msgstr "Source Type"
+
+#~ msgid "Amount Allocated"
+#~ msgstr "Amount Allocated"
+
+#~ msgid "Amount Debited"
+#~ msgstr "Amount Debited"
+
+#~ msgid "Amount Refunded"
+#~ msgstr "Amount Refunded"
+
+#~ msgid "Label"
+#~ msgstr "Label"
+
+#~ msgid "Sources"
+#~ msgstr "Sources"
+
+#~ msgid "Allocation of %(amount)s from type %(type)s"
+#~ msgstr "Allocation of %(amount)s from type %(type)s"
+
+#~ msgid " (reference: %s)"
+#~ msgstr " (reference: %s)"
+
+#~ msgid "This is used within forms to identify this source type"
+#~ msgstr "This is used within forms to identify this source type"
+
+#~ msgid "Source Types"
+#~ msgstr "Source Types"
+
+#~ msgid "Card Type"
+#~ msgstr "Card Type"
+
+#~ msgid "Number"
+#~ msgstr "Number"
+
+#~ msgid "Expiry Date"
+#~ msgstr "Expiry Date"
+
+#~ msgid "Partner Reference"
+#~ msgstr "Partner Reference"
+
+#~ msgid "%(card_type)s %(number)s (Expires: %(expiry)s)"
+#~ msgstr "%(card_type)s %(number)s (Expires: %(expiry)s)"
+
+#~ msgid "Bankcard"
+#~ msgstr "Bankcard"
+
+#~ msgid "Bankcards"
+#~ msgstr "Bankcards"
+
+#~ msgid "Payment"
+#~ msgstr "Payment"
+
+#~ msgid "Card number"
+#~ msgstr "Card number"
+
+#~ msgid "Please enter a valid credit card number."
+#~ msgstr "Please enter a valid credit card number."
+
+#~ msgid "%s cards are not accepted."
+#~ msgstr "%s cards are not accepted."
+
+#~ msgid "Enter a valid month."
+#~ msgstr "Enter a valid month."
+
+#~ msgid "Enter a valid year."
+#~ msgstr "Enter a valid year."
+
+#~ msgid "Valid to"
+#~ msgstr "Valid to"
+
+#~ msgid "The expiration date you entered is in the past."
+#~ msgstr "The expiration date you entered is in the past."
+
+#~ msgid "Valid from"
+#~ msgstr "Valid from"
+
+#~ msgid "The starting date you entered is in the future."
+#~ msgstr "The starting date you entered is in the future."
+
+#~ msgid "CCV number"
+#~ msgstr "CCV number"
+
+#~ msgid "Please enter a 3 or 4 digit number"
+#~ msgstr "Please enter a 3 or 4 digit number"
+
+#~ msgid ""
+#~ "This is the 3 or 4 digit security number on the back of your bankcard"
+#~ msgstr ""
+#~ "This is the 3 or 4 digit security number on the back of your bankcard"
+
+#~ msgid "American Express cards use a 4 digit security code"
+#~ msgstr "American Express cards use a 4 digit security code"
+
+#~ msgid "Promotions"
+#~ msgstr "Promotions"
+
+#~ msgid "Display Order"
+#~ msgstr "Display Order"
+
+#~ msgid "Clicks"
+#~ msgstr "Clicks"
+
+#~ msgid "Linked Promotion"
+#~ msgstr "Linked Promotion"
+
+#~ msgid "Linked Promotions"
+#~ msgstr "Linked Promotions"
+
+#~ msgid "Page URL"
+#~ msgstr "Page URL"
+
+#~ msgid "Page Promotion"
+#~ msgstr "Page Promotion"
+
+#~ msgid "Page Promotions"
+#~ msgstr "Page Promotions"
+
+#~ msgid "Filter"
+#~ msgstr "Filter"
+
+#~ msgid "Keyword Promotion"
+#~ msgstr "Keyword Promotion"
+
+#~ msgid "Keyword Promotions"
+#~ msgstr "Keyword Promotions"
+
+#~ msgid "Keywords"
+#~ msgstr "Keywords"
+
+#~ msgid "Promotion"
+#~ msgstr "Promotion"
+
+#~ msgid "Display type"
+#~ msgstr "Display type"
+
+#~ msgid ""
+#~ "This can be used to have different types of HTML blocks (eg different "
+#~ "widths)"
+#~ msgstr ""
+#~ "This can be used to have different types of HTML blocks (eg different "
+#~ "widths)"
+
+#~ msgid "Raw HTML"
+#~ msgstr "Raw HTML"
+
+#~ msgid "Link URL"
+#~ msgstr "Link URL"
+
+#~ msgid "This is where this promotion links to"
+#~ msgstr "This is where this promotion links to"
+
+#~ msgid ""
+#~ "Choose the Image content blocks that this block will use. (You may need "
+#~ "to create some first)."
+#~ msgstr ""
+#~ "Choose the Image content blocks that this block will use. (You may need "
+#~ "to create some first)."
+
+#~ msgid "Multi Image"
+#~ msgstr "Multi Image"
+
+#~ msgid "Multi Images"
+#~ msgstr "Multi Images"
+
+#~ msgid "Single product"
+#~ msgstr "Single product"
+
+#~ msgctxt "Promotion product list title"
+#~ msgid "Title"
+#~ msgstr "Title"
+
+#~ msgid "Link text"
+#~ msgstr "Link text"
+
+#~ msgid "Product list"
+#~ msgstr "Product list"
+
+#~ msgid "Product lists"
+#~ msgstr "Product lists"
+
+#~ msgid "Hand Picked Product List"
+#~ msgstr "Hand Picked Product List"
+
+#~ msgid "Hand Picked Product Lists"
+#~ msgstr "Hand Picked Product Lists"
+
+#~ msgid "List"
+#~ msgstr "List"
+
+#~ msgid "Ordered product"
+#~ msgstr "Ordered product"
+
+#~ msgid "Bestselling products"
+#~ msgstr "Bestselling products"
+
+#~ msgid "Recently added products"
+#~ msgstr "Recently added products"
+
+#~ msgid "Method"
+#~ msgstr "Method"
+
+#~ msgid "Number of Products"
+#~ msgstr "Number of Products"
+
+#~ msgid "Automatic product list"
+#~ msgstr "Automatic product list"
+
+#~ msgid "Automatic product lists"
+#~ msgstr "Automatic product lists"
+
+#~ msgid "Tabbed Block"
+#~ msgstr "Tabbed Block"
+
+#~ msgid "Ordered Product List"
+#~ msgstr "Ordered Product List"
+
+#~ msgid "Ordered Product Lists"
+#~ msgstr "Ordered Product Lists"
+
+#~ msgctxt "Tabbed block title"
+#~ msgid "Title"
+#~ msgstr "Title"
+
+#~ msgid "Tabbed Blocks"
+#~ msgstr "Tabbed Blocks"
+
+#~ msgid "Search"
+#~ msgstr "Search"
+
+#~ msgid "Relevancy"
+#~ msgstr "Relevancy"
+
+#~ msgid "Customer rating"
+#~ msgstr "Customer rating"
+
+#~ msgid "Newest"
+#~ msgstr "Newest"
+
+#~ msgid "Price high to low"
+#~ msgstr "Price high to low"
+
+#~ msgid "Price low to high"
+#~ msgstr "Price low to high"
+
+#~ msgid "Title A to Z"
+#~ msgstr "Title A to Z"
+
+#~ msgid "Title Z to A"
+#~ msgstr "Title Z to A"
+
+#~ msgid "Page is not 'last', nor can it be converted to an int."
+#~ msgstr "Page is not 'last', nor can it be converted to an int."
+
+#~ msgid "Shipping Method"
+#~ msgstr "Shipping Method"
+
+#~ msgid "Shipping Methods"
+#~ msgstr "Shipping Methods"
+
+#~ msgid "Price per order"
+#~ msgstr "Price per order"
+
+#~ msgid "Price per item"
+#~ msgstr "Price per item"
+
+#~ msgid "Free Shipping"
+#~ msgstr "Free Shipping"
+
+#~ msgid "Order and Item Charge"
+#~ msgstr "Order and Item Charge"
+
+#~ msgid "Order and Item Charges"
+#~ msgstr "Order and Item Charges"
+
+#~ msgid "Default Weight"
+#~ msgstr "Default Weight"
+
+#~ msgid "Default product weight in kg when no weight attribute is defined"
+#~ msgstr "Default product weight in kg when no weight attribute is defined"
+
+#~ msgid "Weight-based Shipping Method"
+#~ msgstr "Weight-based Shipping Method"
+
+#~ msgid "Weight-based Shipping Methods"
+#~ msgstr "Weight-based Shipping Methods"
+
+#~ msgid "Upper Limit"
+#~ msgstr "Upper Limit"
+
+#~ msgid ""
+#~ "Enter upper limit of this weight band in kg. The lower limit will be "
+#~ "determined by the other weight bands."
+#~ msgstr ""
+#~ "Enter upper limit of this weight band in kg. The lower limit will be "
+#~ "determined by the other weight bands."
+
+#~ msgid "Charge"
+#~ msgstr "Charge"
+
+#~ msgid "Weight Band"
+#~ msgstr "Weight Band"
+
+#~ msgid "Weight Bands"
+#~ msgstr "Weight Bands"
+
+#~ msgid "Charge for weights up to %s kg"
+#~ msgstr "Charge for weights up to %s kg"
+
+#~ msgid "Shipping"
+#~ msgstr "Shipping"
+
+#~ msgid "Free shipping"
+#~ msgstr "Free shipping"
+
+#~ msgid "No shipping required"
+#~ msgstr "No shipping required"
+
+#~ msgid "Fixed price shipping"
+#~ msgstr "Fixed price shipping"
+
+#~ msgid "You need to define some shipping methods"
+#~ msgstr "You need to define some shipping methods"
+
+#~ msgid ""
+#~ "This will be shown in the checkout and basket once the voucher is entered"
+#~ msgstr ""
+#~ "This will be shown in the checkout and basket once the coupon is entered"
+
+#~ msgid "Case insensitive / No spaces allowed"
+#~ msgstr "Case insensitive / No spaces allowed"
+
+#~ msgid "Can be used once by one customer"
+#~ msgstr "Can be used once by one customer"
+
+#~ msgid "Can be used multiple times by multiple customers"
+#~ msgstr "Can be used multiple times by multiple customers"
+
+#~ msgid "Can only be used once per customer"
+#~ msgstr "Can only be used once per customer"
+
+#~ msgid "Times added to basket"
+#~ msgstr "Times added to cart"
+
+#~ msgid "Times on orders"
+#~ msgstr "Times on orders"
+
+#~ msgid "Voucher"
+#~ msgstr "Coupon"
+
+#~ msgid "This voucher has already been used"
+#~ msgstr "This coupon has already been used"
+
+#~ msgid "This voucher is only available to signed in users"
+#~ msgstr "This coupon is only available to signed in users"
+
+#~ msgid "You have already used this voucher in a previous order"
+#~ msgstr "You have already used this coupon in a previous order"
+
+#~ msgid "Voucher Application"
+#~ msgstr "Coupon Application"
+
+#~ msgid "Voucher Applications"
+#~ msgstr "Coupon Applications"
+
+#~ msgid "'%(voucher)s' used by '%(user)s'"
+#~ msgstr "'%(voucher)s' used by '%(user)s'"
+
+#~ msgid "Added to a basket"
+#~ msgstr "Added to a cart"
+
+#~ msgid "Used in an order"
+#~ msgstr "Used in an order"
+
+#~ msgid "Voucher performance"
+#~ msgstr "Coupon performance"
+
+#~ msgid "Default"
+#~ msgstr "Default"
+
+#~ msgid "Private - Only the owner can see the wish list"
+#~ msgstr "Private - Only the owner can see the wish list"
+
+#~ msgid ""
+#~ "Shared - Only the owner and people with access to the obfuscated link can "
+#~ "see the wish list"
+#~ msgstr ""
+#~ "Shared - Only the owner and people with access to the obfuscated link can "
+#~ "see the wish list"
+
+#~ msgid "Public - Everybody can see the wish list"
+#~ msgstr "Public - Everybody can see the wish list"
+
+#~ msgid "Visibility"
+#~ msgstr "Visibility"
+
+#~ msgid "Wish List"
+#~ msgstr "Wish List"
+
+#~ msgid "Wish list line"
+#~ msgstr "Wish list line"
+
+#~ msgid "Wishlists"
+#~ msgstr "Wishlists"
+
+#~ msgid "The URL \"%s\" does not exist"
+#~ msgstr "The URL \"%s\" does not exist"
+
+#~ msgid "Specified page already exists!"
+#~ msgstr "Specified page already exists!"
+
+#~ msgid "This field is required"
+#~ msgstr "This field is required"
+
+#~ msgid "This field is invalid as its value is forbidden"
+#~ msgstr "This field is invalid as its value is forbidden"
+
+#~ msgid "This is not a valid international phone format."
+#~ msgstr "This is not a valid international phone format."
+
+#~ msgid "This is not a valid local phone format for %s."
+#~ msgstr "This is not a valid local phone format for %s."
+
+#~ msgid "This is not a valid local or international phone format."
+#~ msgstr "This is not a valid local or international phone format."
+
+#~ msgid "Check for products that are back in stock and send out alerts"
+#~ msgstr "Check for products that are back in stock and send out alerts"
+
+#~ msgid "Permission denied!"
+#~ msgstr "Permission denied!"
+
+#~ msgid "We're sorry but you are not permitted to access this page."
+#~ msgstr "We're sorry but you are not permitted to access this page."
+
+#~ msgid "Page not found"
+#~ msgstr "Page not found"
+
+#~ msgid "Page not found!"
+#~ msgstr "Page not found!"
+
+#~ msgid "We're sorry but the page you are looking for can't be found."
+#~ msgstr "We're sorry but the page you are looking for can't be found."
+
+#~ msgid "Server error!"
+#~ msgstr "Server error!"
+
+#~ msgid ""
+#~ "We're sorry but something went terribly wrong and we've been unable to "
+#~ "generate the page you requested."
+#~ msgstr ""
+#~ "We're sorry but something went terribly wrong and we've been unable to "
+#~ "generate the page you requested."
+
+#~ msgid ""
+#~ "This incident has been logged and will be addressed by an engineer as "
+#~ "soon as possible."
+#~ msgstr ""
+#~ "This incident has been logged and will be addressed by an engineer as "
+#~ "soon as possible."
+
+#~ msgid "Home"
+#~ msgstr "Home"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(title)s</strong> has been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    <strong>%(title)s</strong> has been added to your cart.\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(quantity)s</strong> copies of <strong>%(title)s</strong>\n"
+#~ "    have been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    <strong>%(quantity)s</strong> copies of <strong>%(title)s</strong>\n"
+#~ "    have been added to your cart.\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been moved back to your basket.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been moved back to your cart.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been saved for later\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been saved for later\n"
+
+#~ msgid "Your basket is now empty"
+#~ msgstr "Your cart is now empty"
+
+#~ msgid ""
+#~ "\n"
+#~ "            Your basket total is now <strong>%(total)s</strong>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "            Your cart total is now <strong>%(total)s</strong>\n"
+#~ "            "
+
+#~ msgid "View basket"
+#~ msgstr "View cart"
+
+#~ msgid "Checkout now"
+#~ msgstr "Checkout now"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket now qualifies for the \n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Your cart now qualifies for the \n"
+#~ "<strong>%(name)s</strong> offer.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket no longer qualifies for the\n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Your cart no longer qualifies for the\n"
+#~ "<strong>%(name)s</strong> offer.\n"
+
+#~ msgid "Important messages about items in your basket"
+#~ msgstr "Important messages about items in your cart"
+
+#~ msgid "You could be missing out on offers!"
+#~ msgstr "You could be missing out on offers!"
+
+#~ msgid ""
+#~ "\n"
+#~ "                <div class=\"warning\">%(message)s to qualify for the <a "
+#~ "href=\"%(url)s\">%(offer_name)s</a> special offer</div>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                <div class=\"warning\">%(message)s to qualify for the <a "
+#~ "href=\"%(url)s\">%(offer_name)s</a> special offer</div>\n"
+#~ "            "
+
+#~ msgid "Items to buy now"
+#~ msgstr "Items to buy now"
+
+#~ msgid "Price"
+#~ msgstr "Price"
+
+#~ msgid "Total"
+#~ msgstr "Total"
+
+#~ msgid "Updating..."
+#~ msgstr "Updating..."
+
+#~ msgid "Update"
+#~ msgstr "Update"
+
+#~ msgid "Remove"
+#~ msgstr "Remove"
+
+#~ msgid "Save for later"
+#~ msgstr "Save for later"
+
+#~ msgid "Voucher/promo code"
+#~ msgstr "Coupon/promo code"
+
+#~ msgid "I have a voucher code..."
+#~ msgstr "I have a coupon code..."
+
+#~ msgid "Adding..."
+#~ msgstr "Adding..."
+
+#~ msgid "Add voucher"
+#~ msgstr "Add coupon"
+
+#~ msgid "or"
+#~ msgstr "or"
+
+#~ msgid "cancel"
+#~ msgstr "cancel"
+
+#~ msgid "Totals"
+#~ msgstr "Totals"
+
+#~ msgid "Proceed to checkout"
+#~ msgstr "Proceed to checkout"
+
+#~ msgid "Your basket is empty."
+#~ msgstr "Your cart is empty."
+
+#~ msgid "Continue shopping"
+#~ msgstr "Continue shopping"
+
+#~ msgid "Items to buy later"
+#~ msgstr "Items to buy later"
+
+#~ msgid "Items"
+#~ msgstr "Items"
+
+#~ msgid "Move to basket"
+#~ msgstr "Move to cart"
+
+#~ msgid "Qty"
+#~ msgstr "Qty"
+
+#~ msgid "Total:"
+#~ msgstr "Total:"
+
+#~ msgid "Basket total (before discounts)"
+#~ msgstr "Cart total (before discounts)"
+
+#~ msgid "Discount"
+#~ msgstr "Discount"
+
+#~ msgid "Basket total (after discounts)"
+#~ msgstr "Cart total (after discounts)"
+
+#~ msgid "Basket total"
+#~ msgstr "Cart total"
+
+#~ msgid "Alternative shipping methods can be chosen during checkout"
+#~ msgstr "Alternative shipping methods can be chosen during checkout"
+
+#~ msgid "Shipping total (before discounts)"
+#~ msgstr "Shipping total (before discounts)"
+
+#~ msgid "Shipping total (after discounts)"
+#~ msgstr "Shipping total (after discounts)"
+
+#~ msgid "Tax"
+#~ msgstr "Tax"
+
+#~ msgid "Post order actions"
+#~ msgstr "Post order actions"
+
+#~ msgid "These will be applied once your order is placed."
+#~ msgstr "These will be applied once your order is placed."
+
+#~ msgid "Taxes will be added during checkout."
+#~ msgstr "Taxes will be added during checkout."
+
+#~ msgid "Show results for"
+#~ msgstr "Show results for"
+
+#~ msgid "Refine by"
+#~ msgstr "Refine by"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result.\n"
+#~ "                "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results.\n"
+#~ "                "
+
+#~ msgid "<strong>0</strong> results."
+#~ msgstr "<strong>0</strong> results."
+
+#~ msgid "No products found."
+#~ msgstr "No products found."
+
+#~ msgid "Edit this product"
+#~ msgstr "Edit this product"
+
+#~ msgid "Product Description"
+#~ msgstr "Product Description"
+
+#~ msgid "Product Information"
+#~ msgstr "Product Information"
+
+#~ msgid "Product Type"
+#~ msgstr "Product Type"
+
+#~ msgid "Price (incl. tax)"
+#~ msgstr "Price (incl. tax)"
+
+#~ msgid "Availability"
+#~ msgstr "Availability"
+
+#~ msgid "Number of reviews"
+#~ msgstr "Number of reviews"
+
+#~ msgid "See all reviews"
+#~ msgstr "See all reviews"
+
+#~ msgid "Customer Reviews"
+#~ msgstr "Customer Reviews"
+
+#~ msgid ""
+#~ "This product does not have any reviews yet -\n"
+#~ "                            <a href=\"%(add_review_url)s#addreview\">be "
+#~ "the first to write one</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "This product does not have any reviews yet -\n"
+#~ "                            <a href=\"%(add_review_url)s#addreview\">be "
+#~ "the first to write one</a>.\n"
+#~ "                        "
+
+#~ msgid "This product does not have any reviews yet"
+#~ msgstr "This product does not have any reviews yet"
+
+#~ msgid "Recommended items"
+#~ msgstr "Recommended items"
+
+#~ msgid "Add to basket"
+#~ msgstr "Add to cart"
+
+#~ msgid "You have an active stock alert for this product."
+#~ msgstr "You have an active stock alert for this product."
+
+#~ msgid "You can get an email alert when this product is back in stock."
+#~ msgstr "You can get an email alert when this product is back in stock."
+
+#~ msgid "Notify me"
+#~ msgstr "Notify me"
+
+#~ msgid "Add to wish list"
+#~ msgstr "Add to wish list"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                            Add to '%(name)s' wish list\n"
+#~ "                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "                                            Add to '%(name)s' wish list\n"
+#~ "                                        "
+
+#~ msgid "Create a new wishlist"
+#~ msgstr "Create a new wishlist"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <span class=\"pull-left\">Product is in <a href="
+#~ "\"%(url)s\">'%(name)s'</a> wishlist.</span>\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    <span class=\"pull-left\">Product is in <a href="
+#~ "\"%(url)s\">'%(name)s'</a> wishlist.</span>\n"
+#~ "                "
+
+#~ msgid "Removing..."
+#~ msgstr "Removing..."
+
+#~ msgid "Please login to add products to a wish list."
+#~ msgstr "Please login to add products to a wish list."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Reviewed by you on %(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                Reviewed by you on %(review_date)s\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Reviewed by <strong>%(name)s</strong> on "
+#~ "%(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Reviewed by <strong>%(name)s</strong> on "
+#~ "%(review_date)s\n"
+#~ "                "
+
+#~ msgid "Is this review helpful?"
+#~ msgstr "Is this review helpful?"
+
+#~ msgid "Yes"
+#~ msgstr "Yes"
+
+#~ msgid "No"
+#~ msgstr "No"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customer "
+#~ "found this useful\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customers "
+#~ "found this useful\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customer "
+#~ "found this useful\n"
+#~ "            "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customers "
+#~ "found this useful\n"
+#~ "            "
+
+#~ msgid "This review has no votes."
+#~ msgstr "This review has no votes."
+
+#~ msgid "Free"
+#~ msgstr "Free"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer review\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer reviews\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer review\n"
+#~ "                "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer reviews\n"
+#~ "                "
+
+#~ msgid "Write a review"
+#~ msgstr "Write a review"
+
+#~ msgid "Customer reviews"
+#~ msgstr "Customer reviews"
+
+#~ msgid "Leave a product review"
+#~ msgstr "Leave a product review"
+
+#~ msgid "Saving..."
+#~ msgstr "Saving..."
+
+#~ msgid "Save review"
+#~ msgstr "Save review"
+
+#~ msgid "This product does not have any reviews yet."
+#~ msgstr "This product does not have any reviews yet."
+
+#~ msgid "Change"
+#~ msgstr "Change"
+
+#~ msgid "Contact"
+#~ msgstr "Contact"
+
+#~ msgid "Phone"
+#~ msgstr "Phone"
+
+#~ msgid "Payment details to go here"
+#~ msgstr "Payment details to go here"
+
+#~ msgid "Edit order contents"
+#~ msgstr "Edit order contents"
+
+#~ msgid "Order contents"
+#~ msgstr "Order contents"
+
+#~ msgid "Item"
+#~ msgstr "Item"
+
+#~ msgid "Checkout gateway"
+#~ msgstr "Checkout gateway"
+
+#~ msgid "Who are you?"
+#~ msgstr "Who are you?"
+
+#~ msgid "Get a password reminder"
+#~ msgstr "Get a password reminder"
+
+#~ msgid "Continuing..."
+#~ msgstr "Continuing..."
+
+#~ msgid "Continue"
+#~ msgstr "Continue"
+
+#~ msgid "1. Shipping address"
+#~ msgstr "1. Shipping address"
+
+#~ msgid "2. Shipping method"
+#~ msgstr "2. Shipping method"
+
+#~ msgid "3. Payment"
+#~ msgstr "3. Payment"
+
+#~ msgid "4. Preview"
+#~ msgstr "4. Preview"
+
+#~ msgid "5. Confirmation"
+#~ msgstr "5. Confirmation"
+
+#~ msgid "Payment details"
+#~ msgstr "Payment details"
+
+#~ msgid "Enter payment details"
+#~ msgstr "Enter payment details"
+
+#~ msgid ""
+#~ "This page needs implementing within your project.  You may want to use "
+#~ "one of Oscar's payment gateway libraries:"
+#~ msgstr ""
+#~ "This page needs implementing within your project.  You may want to use "
+#~ "one of Oscar's payment gateway libraries:"
+
+#~ msgid "Order preview"
+#~ msgstr "Order preview"
+
+#~ msgid "Preview order"
+#~ msgstr "Preview order"
+
+#~ msgid "Place order"
+#~ msgstr "Place order"
+
+#~ msgid "Where should we ship to?"
+#~ msgstr "Where should we ship to?"
+
+#~ msgid "An address from your address book?"
+#~ msgstr "An address from your address book?"
+
+#~ msgid "Ship to your default shipping address"
+#~ msgstr "Ship to your default shipping address"
+
+#~ msgid "Ship to this address"
+#~ msgstr "Ship to this address"
+
+#~ msgid "Delete"
+#~ msgstr "Delete"
+
+#~ msgid "Or a new address?"
+#~ msgstr "Or a new address?"
+
+#~ msgid "return to basket"
+#~ msgstr "return to cart"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                This includes a discount of <strong>"
+#~ "%(amount)s</strong> as\n"
+#~ "                                your basket qualifies for the <strong>"
+#~ "%(name)s</strong> offer.\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "                                This includes a discount of <strong>"
+#~ "%(amount)s</strong> as\n"
+#~ "                                your cart qualifies for the <strong>"
+#~ "%(name)s</strong> offer.\n"
+#~ "                            "
+
+#~ msgid "Select option"
+#~ msgstr "Select option"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s: confirmation\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        Order %(number)s: confirmation\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "        Your order has been placed and a confirmation email has been sent "
+#~ "- your order number is\n"
+#~ "        <strong>%(number)s</strong>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "        Your order has been placed and a confirmation email has been sent "
+#~ "- your order number is\n"
+#~ "        <strong>%(number)s</strong>.\n"
+#~ "        "
+
+#~ msgid ""
+#~ "Please make a note of this reference or print this page and quote it in "
+#~ "any communication with us regarding your order."
+#~ msgstr ""
+#~ "Please make a note of this reference or print this page and quote it in "
+#~ "any communication with us regarding your order."
+
+#~ msgid "No shipping address required."
+#~ msgstr "No shipping address required."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s (reference: %(reference)s)\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s (reference: %(reference)s)\n"
+#~ "                            "
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s\n"
+#~ "                            "
+
+#~ msgid "No payment was required for this order."
+#~ msgstr "No payment was required for this order."
+
+#~ msgid "Items purchased"
+#~ msgstr "Items purchased"
+
+#~ msgid ""
+#~ "\n"
+#~ "                            Estimated dispatch: <strong>%(date)s</"
+#~ "strong>\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "                            Estimated dispatch: <strong>%(date)s</"
+#~ "strong>\n"
+#~ "                        "
+
+#~ msgid "Shipping charge (before discounts)"
+#~ msgstr "Shipping charge (before discounts)"
+
+#~ msgid "Shipping charge (after discounts)"
+#~ msgstr "Shipping charge (after discounts)"
+
+#~ msgid "Shipping charge"
+#~ msgstr "Shipping charge"
+
+#~ msgid "Order tax"
+#~ msgstr "Order tax"
+
+#~ msgid "Tracking your order"
+#~ msgstr "Tracking your order"
+
+#~ msgid "You can track the status of your order"
+#~ msgstr "You can track the status of your order"
+
+#~ msgid "View order status"
+#~ msgstr "View order status"
+
+#~ msgid "Print this page"
+#~ msgstr "Print this page"
+
+#~ msgid "Are you sure you want to delete this address?"
+#~ msgstr "Are you sure you want to delete this address?"
+
+#~ msgid "Yes!"
+#~ msgstr "Yes!"
+
+#~ msgid "Save"
+#~ msgstr "Save"
+
+#~ msgid "Address book"
+#~ msgstr "Address book"
+
+#~ msgid "Deleting..."
+#~ msgstr "Deleting..."
+
+#~ msgid "Default shipping address"
+#~ msgstr "Default shipping address"
+
+#~ msgid "Default billing address"
+#~ msgstr "Default billing address"
+
+#~ msgid "Edit"
+#~ msgstr "Edit"
+
+#~ msgid "Set as default shipping address"
+#~ msgstr "Set as default shipping address"
+
+#~ msgid "Set as default billing address"
+#~ msgstr "Set as default billing address"
+
+#~ msgid "There are no addresses in your address book."
+#~ msgstr "There are no addresses in your address book."
+
+#~ msgid "You do not have any active alerts for out-of-stock products."
+#~ msgstr "You do not have any active alerts for out-of-stock products."
+
+#~ msgid "Cancel"
+#~ msgstr "Cancel"
+
+#~ msgid ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> is back in stock\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> is back in stock\n"
+
+#~ msgid "Order #%(number)s"
+#~ msgstr "Order #%(number)s"
+
+#~ msgid "Contact number"
+#~ msgstr "Contact number"
+
+#~ msgid "Notes"
+#~ msgstr "Notes"
+
+#~ msgid "Estimated dispatch date"
+#~ msgstr "Estimated dispatch date"
+
+#~ msgid "Line price excl. tax"
+#~ msgstr "Line price excl. tax"
+
+#~ msgid "Line price incl. tax"
+#~ msgstr "Line price incl. tax"
+
+#~ msgid "Basket total (inc. tax)"
+#~ msgstr "Cart total (inc. tax)"
+
+#~ msgid "Email history"
+#~ msgstr "Email history"
+
+#~ msgid "Date sent"
+#~ msgstr "Date sent"
+
+#~ msgid "No emails found"
+#~ msgstr "No emails found"
+
+#~ msgid "Thanks for using our site!"
+#~ msgstr "Thanks for using our site!"
+
+#~ msgid "The %(name)s team"
+#~ msgstr "The %(name)s team"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately "
+#~ "and correct your email address:"
+#~ msgstr ""
+#~ "If it wasn't you who changed it, please reset your password immediately "
+#~ "and correct your email address:"
+
+#~ msgid ""
+#~ "If it was you who changed the email address, you can ignore this email."
+#~ msgstr ""
+#~ "If it was you who changed the email address, you can ignore this email."
+
+#~ msgid ""
+#~ "You're receiving this email because your email address has been changed "
+#~ "to %(email)s."
+#~ msgstr ""
+#~ "You're receiving this email because your email address has been changed "
+#~ "to %(email)s."
+
+#~ msgid "Your email address has changed at %(site_name)s."
+#~ msgstr "Your email address has changed at %(site_name)s."
+
+#~ msgid "Hello,"
+#~ msgstr "Hello,"
+
+#~ msgid "Your order contains:"
+#~ msgstr "Your order contains:"
+
+#~ msgid "Basket total:"
+#~ msgstr "Cart total:"
+
+#~ msgid "Shipping:"
+#~ msgstr "Shipping:"
+
+#~ msgid "Order Total:"
+#~ msgstr "Order Total:"
+
+#~ msgid "Shipping address:"
+#~ msgstr "Shipping address:"
+
+#~ msgid ""
+#~ "You can view the status of this order by clicking <a href=\"%(status_url)s"
+#~ "\" title=\"order status\">here</a>"
+#~ msgstr ""
+#~ "You can view the status of this order by clicking <a href=\"%(status_url)s"
+#~ "\" title=\"order status\">here</a>"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "We are pleased to confirm your order %(order_number)s has been received "
+#~ "and\n"
+#~ "will be processed shortly."
+#~ msgstr ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "We are pleased to confirm your order %(order_number)s has been received "
+#~ "and\n"
+#~ "will be processed shortly."
+
+#~ msgid "quantity:"
+#~ msgstr "quantity:"
+
+#~ msgid "price:"
+#~ msgstr "price:"
+
+#~ msgid ""
+#~ "You can view the status of this order at the below URL:\n"
+#~ "%(status_url)s"
+#~ msgstr ""
+#~ "You can view the status of this order at the below URL:\n"
+#~ "%(status_url)s"
+
+#~ msgid "The team"
+#~ msgstr "The team"
+
+#~ msgid "Confirmation of order %(number)s"
+#~ msgstr "Confirmation of order %(number)s"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately:"
+#~ msgstr ""
+#~ "If it wasn't you who changed it, please reset your password immediately:"
+
+#~ msgid "Otherwise, you can ignore this email."
+#~ msgstr "Otherwise, you can ignore this email."
+
+#~ msgid ""
+#~ "\n"
+#~ "You're receiving this email because your password has been changed at "
+#~ "%(name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "You're receiving this email because your password has been changed at "
+#~ "%(name)s.\n"
+
+#~ msgid "Your password changed at %(site_name)s."
+#~ msgstr "Your password changed at %(site_name)s."
+
+#~ msgid ""
+#~ "You're receiving this e-mail because you requested a password reset for "
+#~ "your user account at %(name)s."
+#~ msgstr ""
+#~ "You're receiving this e-mail because you requested a password reset for "
+#~ "your user account at %(name)s."
+
+#~ msgid "Please go to the following page and choose a new password:"
+#~ msgstr "Please go to the following page and choose a new password:"
+
+#~ msgid "Resetting your password at %(site_name)s."
+#~ msgstr "Resetting your password at %(site_name)s."
+
+#~ msgid "Dear %(name)s,"
+#~ msgstr "Dear %(name)s,"
+
+#~ msgid ""
+#~ "\n"
+#~ "Beware that the amount of items in stock is limited. Be quick or someone "
+#~ "might get there first.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Beware that the amount of items in stock is limited. Be quick or someone "
+#~ "might get there first.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "With this email we have disabled your alert automatically and you will "
+#~ "not\n"
+#~ "receive any further email regarding this product.\n"
+#~ "\n"
+#~ "Thanks for your interest,\n"
+#~ "The %(site_name)s Team\n"
+#~ msgstr ""
+#~ "\n"
+#~ "With this email we have disabled your alert automatically and you will "
+#~ "not\n"
+#~ "receive any further email regarding this product.\n"
+#~ "\n"
+#~ "Thanks for your interest,\n"
+#~ "The %(site_name)s Team\n"
+
+#~ msgid "Confirmation required for stock alert"
+#~ msgstr "Confirmation required for stock alert"
+
+#~ msgid "Thank you for registering."
+#~ msgstr "Thank you for registering."
+
+#~ msgid "Products you recently viewed"
+#~ msgstr "Products you recently viewed"
+
+#~ msgid "Log In"
+#~ msgstr "Log In"
+
+#~ msgid "I've forgotten my password"
+#~ msgstr "I've forgotten my password"
+
+#~ msgid "Logging in..."
+#~ msgstr "Logging in..."
+
+#~ msgid "Register"
+#~ msgstr "Register"
+
+#~ msgid "Registering..."
+#~ msgstr "Registering..."
+
+#~ msgid "Notifications inbox"
+#~ msgstr "Notifications inbox"
+
+#~ msgid "Sender"
+#~ msgstr "Sender"
+
+#~ msgid "Return to notifications inbox"
+#~ msgstr "Return to notifications inbox"
+
+#~ msgctxt "noun"
+#~ msgid "Archive"
+#~ msgstr "Archive"
+
+#~ msgid "View"
+#~ msgstr "View"
+
+#~ msgctxt "verb"
+#~ msgid "Archive"
+#~ msgstr "Archive"
+
+#~ msgid "With selected items:"
+#~ msgstr "With selected items:"
+
+#~ msgid "Archiving..."
+#~ msgstr "Archiving..."
+
+#~ msgid "There are no notifications to display."
+#~ msgstr "There are no notifications to display."
+
+#~ msgid "Order history"
+#~ msgstr "Order history"
+
+#~ msgid "Dispatch date"
+#~ msgstr "Dispatch date"
+
+#~ msgid "Re-ordering..."
+#~ msgstr "Re-ordering..."
+
+#~ msgid "Re-order"
+#~ msgstr "Re-order"
+
+#~ msgid "Not available anymore"
+#~ msgstr "Not available anymore"
+
+#~ msgid "Basket total (excl. discounts)"
+#~ msgstr "Cart total (excl. discounts)"
+
+#~ msgid "Basket total (inc. discounts)"
+#~ msgstr "Cart total (inc. discounts)"
+
+#~ msgid "Shipping total (excl. discounts)"
+#~ msgstr "Shipping total (excl. discounts)"
+
+#~ msgid "Shipping total (inc. discounts)"
+#~ msgstr "Shipping total (inc. discounts)"
+
+#~ msgid "Shipping total"
+#~ msgstr "Shipping total"
+
+#~ msgid "Re-order all items"
+#~ msgstr "Re-order all items"
+
+#~ msgid "Contact Number"
+#~ msgstr "Contact Number"
+
+#~ msgid "Shipping Notes"
+#~ msgstr "Shipping Notes"
+
+#~ msgid "Filtering..."
+#~ msgstr "Filtering..."
+
+#~ msgid "Filter results"
+#~ msgstr "Filter results"
+
+#~ msgid "Reset"
+#~ msgstr "Reset"
+
+#~ msgid "Total inc tax"
+#~ msgstr "Total inc tax"
+
+#~ msgid "No orders match your search."
+#~ msgstr "No orders match your search."
+
+#~ msgid "You haven't placed any orders."
+#~ msgstr "You haven't placed any orders."
+
+#~ msgid "Change password"
+#~ msgstr "Change password"
+
+#~ msgid "Edit profile"
+#~ msgstr "Edit profile"
+
+#~ msgid "Please confirm your password to delete your profile."
+#~ msgstr "Please confirm your password to delete your profile."
+
+#~ msgid "Warning"
+#~ msgstr "Warning"
+
+#~ msgid ""
+#~ "\n"
+#~ "                This will delete all information about you from the "
+#~ "site.  Deleting your profile cannot be\n"
+#~ "                undone.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                This will delete all information about you from the "
+#~ "site.  Deleting your profile cannot be\n"
+#~ "                undone.\n"
+#~ "            "
+
+#~ msgid "Delete?"
+#~ msgstr "Delete?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(name)s?\n"
+#~ "            "
+
+#~ msgid "Remove product"
+#~ msgstr "Remove product"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(product_name)s from "
+#~ "wish list %(wishlist_name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(product_name)s from "
+#~ "wish list %(wishlist_name)s?\n"
+#~ "            "
+
+#~ msgid "Action"
+#~ msgstr "Action"
+
+#~ msgid "View product"
+#~ msgstr "View product"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                            Move to "
+#~ "'%(name)s' wish list\n"
+#~ "                                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "                                                            Move to "
+#~ "'%(name)s' wish list\n"
+#~ "                                                        "
+
+#~ msgid "Update quantities"
+#~ msgstr "Update quantities"
+
+#~ msgid "Your wish list is empty."
+#~ msgstr "Your wish list is empty."
+
+#~ msgid "Create"
+#~ msgstr "Create"
+
+#~ msgid "What should your new wish list be called?"
+#~ msgstr "What should your new wish list be called?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    After your wishlist is created, <strong>%(title)s</"
+#~ "strong> will be added.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    After your wishlist is created, <strong>%(title)s</"
+#~ "strong> will be added.\n"
+#~ "                "
+
+#~ msgid "Number of products"
+#~ msgstr "Number of products"
+
+#~ msgid "Wish list settings"
+#~ msgstr "Wish list settings"
+
+#~ msgid "You don't have any wish lists yet."
+#~ msgstr "You don't have any wish lists yet."
+
+#~ msgid "Sections"
+#~ msgstr "Sections"
+
+#~ msgid "Delete category?"
+#~ msgstr "Delete category?"
+
+#~ msgid "Delete category"
+#~ msgstr "Delete category"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <p>Delete category <strong>%(name)s</strong> - are you sure?</"
+#~ "p>\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "            <p>Delete category <strong>%(name)s</strong> - are you sure?</"
+#~ "p>\n"
+#~ "        "
+
+#~ msgid "Create new category"
+#~ msgstr "Create new category"
+
+#~ msgid "You are editing:"
+#~ msgstr "You are editing:"
+
+#~ msgid "There are no categories."
+#~ msgstr "There are no categories."
+
+#~ msgid "Edit category"
+#~ msgstr "Edit category"
+
+#~ msgid "Add child category"
+#~ msgstr "Add child category"
+
+#~ msgid "Edit children"
+#~ msgstr "Edit children"
+
+#~ msgid "View on site"
+#~ msgstr "View on site"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Created product variant '%(name)s'.\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Created variant of '%(parent_name)s'.\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Updated product variant '%(name)s'.\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated a variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Updated a variant of '%(parent_name)s'.\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                Created product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                Created product '%(name)s'.\n"
+#~ "            "
+
+#~ msgid ""
+#~ "\n"
+#~ "                Updated product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                Updated product '%(name)s'.\n"
+#~ "            "
+
+#~ msgid "Edit again"
+#~ msgstr "Edit again"
+
+#~ msgid "View it on the site"
+#~ msgstr "View it on the site"
+
+#~ msgid "Delete product type?"
+#~ msgstr "Delete product type?"
+
+#~ msgid ""
+#~ "Please make sure all products are assigned to another type before "
+#~ "deletion."
+#~ msgstr ""
+#~ "Please make sure all products are assigned to another type before "
+#~ "deletion."
+
+#~ msgid "Delete product type"
+#~ msgstr "Delete product type"
+
+#~ msgid "Delete product type <strong>%(name)s</strong> - are you sure?"
+#~ msgstr "Delete product type <strong>%(name)s</strong> - are you sure?"
+
+#~ msgid "Create product type"
+#~ msgstr "Create product type"
+
+#~ msgid "Product Class details"
+#~ msgstr "Product Class details"
+
+#~ msgid "Create new product type"
+#~ msgstr "Create new product type"
+
+#~ msgid "Product types"
+#~ msgstr "Product types"
+
+#~ msgid "Requires shipping"
+#~ msgstr "Requires shipping"
+
+#~ msgid "Track stock?"
+#~ msgstr "Track stock?"
+
+#~ msgid "Edit product type"
+#~ msgstr "Edit product type"
+
+#~ msgid "There are no product types."
+#~ msgstr "There are no product types."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product variant <strong>%(title)s</strong> - "
+#~ "are you sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Delete product variant <strong>%(title)s</strong> - "
+#~ "are you sure?\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product <strong>%(title)s</strong> - are you "
+#~ "sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Delete product <strong>%(title)s</strong> - are you "
+#~ "sure?\n"
+#~ "                "
+
+#~ msgid "This will also delete the following child products:"
+#~ msgstr "This will also delete the following child products:"
+
+#~ msgid "Create new product"
+#~ msgstr "Create new product"
+
+#~ msgid "New Product"
+#~ msgstr "New Product"
+
+#~ msgid "Search Products"
+#~ msgstr "Search Products"
+
+#~ msgid "Searching..."
+#~ msgstr "Searching..."
+
+#~ msgid ""
+#~ "\n"
+#~ "                            You are currently editing a product variant "
+#~ "of\n"
+#~ "                            <a href=\"%(parent_url)s\">%(title)s</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "                            You are currently editing a product variant "
+#~ "of\n"
+#~ "                            <a href=\"%(parent_url)s\">%(title)s</a>.\n"
+#~ "                        "
+
+#~ msgid "Product details"
+#~ msgstr "Product details"
+
+#~ msgid "Images"
+#~ msgstr "Images"
+
+#~ msgid "Stock and pricing"
+#~ msgstr "Stock and pricing"
+
+#~ msgid "Upselling"
+#~ msgstr "Upselling"
+
+#~ msgid "Product Type:"
+#~ msgstr "Product Type:"
+
+#~ msgid "Upload, change or remove images"
+#~ msgstr "Upload, change or remove images"
+
+#~ msgid "SKU"
+#~ msgstr "SKU"
+
+#~ msgid "Num in stock"
+#~ msgstr "Num in stock"
+
+#~ msgid "Num allocated"
+#~ msgstr "Num allocated"
+
+#~ msgid "Low stock threshold"
+#~ msgstr "Low stock threshold"
+
+#~ msgid "Cost price"
+#~ msgstr "Cost price"
+
+#~ msgid "Price (excl tax)"
+#~ msgstr "Price (excl tax)"
+
+#~ msgid "Retail price"
+#~ msgstr "Retail price"
+
+#~ msgid "Add variant"
+#~ msgstr "Add variant"
+
+#~ msgid "This product does not have any variants."
+#~ msgstr "This product does not have any variants."
+
+#~ msgid "One can't add variants to this product at this point."
+#~ msgstr "One can't add variants to this product at this point."
+
+#~ msgid "This is likely because this product still has stock records."
+#~ msgstr "This is likely because this product still has stock records."
+
+#~ msgid "Save and add another variant"
+#~ msgstr "Save and add another variant"
+
+#~ msgid "Save and continue editing"
+#~ msgstr "Save and continue editing"
+
+#~ msgid "All"
+#~ msgstr "All"
+
+#~ msgid "Current available stock"
+#~ msgstr "Current available stock"
+
+#~ msgid "Date alert raised"
+#~ msgstr "Date alert raised"
+
+#~ msgid "No stock alerts found."
+#~ msgstr "No stock alerts found."
+
+#~ msgid "Preview"
+#~ msgstr "Preview"
+
+#~ msgid "Edit email"
+#~ msgstr "Edit email"
+
+#~ msgid "Email content"
+#~ msgstr "Email content"
+
+#~ msgid "These fields are rendered using Django's template system."
+#~ msgstr "These fields are rendered using Django's template system."
+
+#~ msgid "You can use the following variables:"
+#~ msgstr "You can use the following variables:"
+
+#~ msgid "The full name of the user (if they have one)"
+#~ msgstr "The full name of the user (if they have one)"
+
+#~ msgid "The user's email address"
+#~ msgstr "The user's email address"
+
+#~ msgid "The name of the site (eg example.com)"
+#~ msgstr "The name of the site (eg example.com)"
+
+#~ msgid "View a preview of this email using order:"
+#~ msgstr "View a preview of this email using order:"
+
+#~ msgid "View preview"
+#~ msgstr "View preview"
+
+#~ msgid "or send a preview to:"
+#~ msgstr "or send a preview to:"
+
+#~ msgid "Sending..."
+#~ msgstr "Sending..."
+
+#~ msgid "Send preview email"
+#~ msgstr "Send preview email"
+
+#~ msgid "Body text"
+#~ msgstr "Body text"
+
+#~ msgid "There are no defined emails to edit."
+#~ msgstr "There are no defined emails to edit."
+
+#~ msgid "Your Store Statistics"
+#~ msgstr "Your Store Statistics"
+
+#~ msgid "Total Orders"
+#~ msgstr "Total Orders"
+
+#~ msgid "New Customers"
+#~ msgstr "New Customers"
+
+#~ msgid "Total Customers"
+#~ msgstr "Total Customers"
+
+#~ msgid "Total Products"
+#~ msgstr "Total Products"
+
+#~ msgid "Latest Orders (last 24 hours)"
+#~ msgstr "Latest Orders (last 24 hours)"
+
+#~ msgid "Orders - Last 24 Hours"
+#~ msgstr "Orders - Last 24 Hours"
+
+#~ msgid "Total orders"
+#~ msgstr "Total orders"
+
+#~ msgid "Total lines"
+#~ msgstr "Total lines"
+
+#~ msgid "Total revenue"
+#~ msgstr "Total revenue"
+
+#~ msgid "Average order costs"
+#~ msgstr "Average order costs"
+
+#~ msgid "Manage"
+#~ msgstr "Manage"
+
+#~ msgid "Orders - All Time"
+#~ msgstr "Orders - All Time"
+
+#~ msgid "Total <em>open</em> baskets"
+#~ msgstr "Total <em>open</em> carts"
+
+#~ msgid "Total customers"
+#~ msgstr "Total customers"
+
+#~ msgid "New customers"
+#~ msgstr "New customers"
+
+#~ msgid "View Stock Alerts"
+#~ msgstr "View Stock Alerts"
+
+#~ msgid "Catalogue and stock"
+#~ msgstr "Catalog and stock"
+
+#~ msgid "Total products"
+#~ msgstr "Total products"
+
+#~ msgid "<em>Open</em> stock alerts"
+#~ msgstr "<em>Open</em> stock alerts"
+
+#~ msgid "<em>Closed</em> stock alerts"
+#~ msgstr "<em>Closed</em> stock alerts"
+
+#~ msgid "Offers, vouchers and promotions"
+#~ msgstr "Offers, coupons and promotions"
+
+#~ msgid "Active <em>Site</em> Offers"
+#~ msgstr "Active <em>Site</em> Offers"
+
+#~ msgid "Active <em>Vouchers</em>"
+#~ msgstr "Active <em>Coupons</em>"
+
+#~ msgid "Welcome"
+#~ msgstr "Welcome"
+
+#~ msgid "Return to site"
+#~ msgstr "Return to site"
+
+#~ msgid "Log out"
+#~ msgstr "Log out"
+
+#~ msgid "Build a new incentive"
+#~ msgstr "Build a new incentive"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Ranges can be created and edited from within the <a href="
+#~ "\"%(range_list_url)s\">range dashboard</a>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "        Ranges can be created and edited from within the <a href="
+#~ "\"%(range_list_url)s\">range dashboard</a>.\n"
+#~ "        "
+
+#~ msgid "...or choose a pre-defined one"
+#~ msgstr "...or choose a pre-defined one"
+
+#~ msgid "Continue to step 3"
+#~ msgstr "Continue to step 3"
+
+#~ msgid "Build a new condition"
+#~ msgstr "Build a new condition"
+
+#~ msgid "Continue to step 4"
+#~ msgstr "Continue to step 4"
+
+#~ msgid "Continue to step 2"
+#~ msgstr "Continue to step 2"
+
+#~ msgid "Delete offer"
+#~ msgstr "Delete offer"
+
+#~ msgid "Are you sure you want to delete this offer?"
+#~ msgstr "Are you sure you want to delete this offer?"
+
+#~ msgid ""
+#~ "\n"
+#~ "        %(name)s | Offers\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        %(name)s | Offers\n"
+#~ "    "
+
+#~ msgid "Reinstating..."
+#~ msgstr "Reinstating..."
+
+#~ msgid "Reinstate offer"
+#~ msgstr "Reinstate offer"
+
+#~ msgid "Suspending..."
+#~ msgstr "Suspending..."
+
+#~ msgid "Suspend offer"
+#~ msgstr "Suspend offer"
+
+#~ msgid "Offer currently available"
+#~ msgstr "Offer currently available"
+
+#~ msgid "Offer not available due to restrictions!"
+#~ msgstr "Offer not available due to restrictions!"
+
+#~ msgid "Total cost:"
+#~ msgstr "Total cost:"
+
+#~ msgid "Number of orders:"
+#~ msgstr "Number of orders:"
+
+#~ msgid "Number of uses:"
+#~ msgstr "Number of uses:"
+
+#~ msgid "Date created:"
+#~ msgstr "Date created:"
+
+#~ msgid "Offer details"
+#~ msgstr "Offer details"
+
+#~ msgid "Export to CSV"
+#~ msgstr "Export to CSV"
+
+#~ msgid "Orders that used this offer"
+#~ msgstr "Orders that used this offer"
+
+#~ msgid "Create new offer"
+#~ msgstr "Create new offer"
+
+#~ msgid "Is available?"
+#~ msgstr "Is available?"
+
+#~ msgid "Uses"
+#~ msgstr "Uses"
+
+#~ msgid "Browse"
+#~ msgstr "Browse"
+
+#~ msgid "Stats"
+#~ msgstr "Stats"
+
+#~ msgid "No offers found."
+#~ msgstr "No offers found."
+
+#~ msgid "Steps"
+#~ msgstr "Steps"
+
+#~ msgid "1. Name and description"
+#~ msgstr "1. Name and description"
+
+#~ msgid "2. Incentive"
+#~ msgstr "2. Incentive"
+
+#~ msgid "3. Condition"
+#~ msgstr "3. Condition"
+
+#~ msgid "4. Restrictions"
+#~ msgstr "4. Restrictions"
+
+#~ msgid "Save this offer"
+#~ msgstr "Save this offer"
+
+#~ msgid "Fields marked with * are mandatory."
+#~ msgstr "Fields marked with * are mandatory."
+
+#~ msgid "Save changes"
+#~ msgstr "Save changes"
+
+#~ msgid "Offer summary"
+#~ msgstr "Offer summary"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s - Line #%(id)s\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        Order %(number)s - Line #%(id)s\n"
+#~ "    "
+
+#~ msgid "Line #%(id)s"
+#~ msgstr "Line #%(id)s"
+
+#~ msgid "Order #%(number)s - Line #%(id)s"
+#~ msgstr "Order #%(number)s - Line #%(id)s"
+
+#~ msgid "Product Options"
+#~ msgstr "Product Options"
+
+#~ msgid "Partner details"
+#~ msgstr "Partner details"
+
+#~ msgid "Shipping details"
+#~ msgstr "Shipping details"
+
+#~ msgid "Partner reference number"
+#~ msgstr "Partner reference number"
+
+#~ msgid "Partner notes"
+#~ msgstr "Partner notes"
+
+#~ msgid "Estimate dispatch date"
+#~ msgstr "Estimate dispatch date"
+
+#~ msgid "Shipping status"
+#~ msgstr "Shipping status"
+
+#~ msgid "State"
+#~ msgstr "State"
+
+#~ msgid "No shipping events have occurred."
+#~ msgstr "No shipping events have occurred."
+
+#~ msgid "Shipping events"
+#~ msgstr "Shipping events"
+
+#~ msgid "Payment events"
+#~ msgstr "Payment events"
+
+#~ msgid "No payment events have occurred."
+#~ msgstr "No payment events have occurred."
+
+#~ msgid "Order %(number)s"
+#~ msgstr "Order %(number)s"
+
+#~ msgid "Customer Information"
+#~ msgstr "Customer Information"
+
+#~ msgid "Customer checked out as a guest."
+#~ msgstr "Customer checked out as a guest."
+
+#~ msgid "Customer has deleted their account."
+#~ msgstr "Customer has deleted their account."
+
+#~ msgid "Order information"
+#~ msgstr "Order information"
+
+#~ msgid "Order Total"
+#~ msgstr "Order Total"
+
+#~ msgid "Time of purchase"
+#~ msgstr "Time of purchase"
+
+#~ msgid "Order Details"
+#~ msgstr "Order Details"
+
+#~ msgid "Discounts"
+#~ msgstr "Discounts"
+
+#~ msgid "Items ordered"
+#~ msgstr "Items ordered"
+
+#~ msgid "Line ID"
+#~ msgstr "Line ID"
+
+#~ msgid "Supplier"
+#~ msgstr "Supplier"
+
+#~ msgid "Supplier SKU"
+#~ msgstr "Supplier SKU"
+
+#~ msgid "Est. dispatch date"
+#~ msgstr "Est. dispatch date"
+
+#~ msgid "Price excl tax (before discounts)"
+#~ msgstr "Price excl tax (before discounts)"
+
+#~ msgid "Price inc tax (before discounts)"
+#~ msgstr "Price inc tax (before discounts)"
+
+#~ msgid "With selected lines"
+#~ msgstr "With selected lines"
+
+#~ msgid "Change line status to"
+#~ msgstr "Change line status to"
+
+#~ msgid "choose new status"
+#~ msgstr "choose new status"
+
+#~ msgid "Create shipping event"
+#~ msgstr "Create shipping event"
+
+#~ msgid "choose event type"
+#~ msgstr "choose event type"
+
+#~ msgid "with reference"
+#~ msgstr "with reference"
+
+#~ msgid "Create payment event"
+#~ msgstr "Create payment event"
+
+#~ msgid "with amount"
+#~ msgstr "with amount"
+
+#~ msgid "Go!"
+#~ msgstr "Go!"
+
+#~ msgid "Change order status"
+#~ msgstr "Change order status"
+
+#~ msgid "Change status"
+#~ msgstr "Change status"
+
+#~ msgid "This order can't have its status changed."
+#~ msgstr "This order can't have its status changed."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                                %(title)s "
+#~ "(quantity %(event_qty)s/%(total_qty)s)\n"
+#~ "                                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "                                                                %(title)s "
+#~ "(quantity %(event_qty)s/%(total_qty)s)\n"
+#~ "                                                            "
+
+#~ msgid "No shipping events."
+#~ msgstr "No shipping events."
+
+#~ msgid "Product:"
+#~ msgstr "Product:"
+
+#~ msgid "quantity"
+#~ msgstr "quantity"
+
+#~ msgid "No payment events."
+#~ msgstr "No payment events."
+
+#~ msgid "Method name"
+#~ msgstr "Method name"
+
+#~ msgid "Method code"
+#~ msgstr "Method code"
+
+#~ msgid "Charge (incl tax)"
+#~ msgstr "Charge (incl tax)"
+
+#~ msgid "Charge (excl tax)"
+#~ msgstr "Charge (excl tax)"
+
+#~ msgid "Payment sources"
+#~ msgstr "Payment sources"
+
+#~ msgid "Allocation"
+#~ msgstr "Allocation"
+
+#~ msgid "Amount debited"
+#~ msgstr "Amount debited"
+
+#~ msgid "Amount refunded"
+#~ msgstr "Amount refunded"
+
+#~ msgid "No payment sources found for this order."
+#~ msgstr "No payment sources found for this order."
+
+#~ msgid "No discounts were applied to this order."
+#~ msgstr "No discounts were applied to this order."
+
+#~ msgid "Admin"
+#~ msgstr "Admin"
+
+#~ msgid "No notes available."
+#~ msgstr "No notes available."
+
+#~ msgid "Save note"
+#~ msgstr "Save note"
+
+#~ msgid "Notes are only editable for 5 minutes after being saved."
+#~ msgstr "Notes are only editable for 5 minutes after being saved."
+
+#~ msgid "Advanced Search"
+#~ msgstr "Advanced Search"
+
+#~ msgid "Close"
+#~ msgstr "Close"
+
+#~ msgid "Order Search Results"
+#~ msgstr "Order Search Results"
+
+#~ msgid "All Orders"
+#~ msgstr "All Orders"
+
+#~ msgid "Download selected orders as a CSV"
+#~ msgstr "Download selected orders as a CSV"
+
+#~ msgid "Deleted"
+#~ msgstr "Deleted"
+
+#~ msgid "Changing..."
+#~ msgstr "Changing..."
+
+#~ msgid "No orders found."
+#~ msgstr "No orders found."
+
+#~ msgid "Print Packaging Slips"
+#~ msgstr "Print Packaging Slips"
+
+#~ msgid "Mark as"
+#~ msgstr "Mark as"
+
+#~ msgid "Change order status to"
+#~ msgstr "Change order status to"
+
+#~ msgid "Done"
+#~ msgstr "Done"
+
+#~ msgid "Edit shipping address"
+#~ msgstr "Edit shipping address"
+
+#~ msgid "Edit shipping address for order %(order.number)s"
+#~ msgstr "Edit shipping address for order %(order.number)s"
+
+#~ msgid "Update address"
+#~ msgstr "Update address"
+
+#~ msgid "Order statistics"
+#~ msgstr "Order statistics"
+
+#~ msgid "Filter result"
+#~ msgstr "Filter result"
+
+#~ msgid "Summary"
+#~ msgstr "Summary"
+
+#~ msgid "Order status breakdown"
+#~ msgstr "Order status breakdown"
+
+#~ msgid "Delete page '%(title)s'?"
+#~ msgstr "Delete page '%(title)s'?"
+
+#~ msgid "Delete page"
+#~ msgstr "Delete page"
+
+#~ msgid "Delete page <strong>%(title)s</strong> - are you sure?"
+#~ msgstr "Delete page <strong>%(title)s</strong> - are you sure?"
+
+#~ msgid "Create new page"
+#~ msgstr "Create new page"
+
+#~ msgid "No pages found."
+#~ msgstr "No pages found."
+
+#~ msgid ""
+#~ "\n"
+#~ "        Page <strong>%(title)s</strong> saved!\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        Page <strong>%(title)s</strong> saved!\n"
+#~ "    "
+
+#~ msgid "Oops! We found some errors"
+#~ msgstr "Oops! We found some errors"
+
+#~ msgid "please check the error messages below and try again"
+#~ msgstr "please check the error messages below and try again"
+
+#~ msgid "previous"
+#~ msgstr "previous"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Page %(page_num)s of %(total_pages)s\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                Page %(page_num)s of %(total_pages)s\n"
+#~ "            "
+
+#~ msgid "next"
+#~ msgstr "next"
+
+#~ msgid ""
+#~ "\n"
+#~ "User %(user_name)s was unlinked from %(partner_name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "User %(user_name)s was unlinked from %(partner_name)s.\n"
+
+#~ msgid "Undo"
+#~ msgstr "Undo"
+
+#~ msgid "Delete partner"
+#~ msgstr "Delete partner"
+
+#~ msgid "Are you sure you want to delete this partner?"
+#~ msgstr "Are you sure you want to delete this partner?"
+
+#~ msgid "Edit the user's details"
+#~ msgstr "Edit the user's details"
+
+#~ msgid "No users associated."
+#~ msgstr "No users associated."
+
+#~ msgid "No address associated."
+#~ msgstr "No address associated."
+
+#~ msgid "Manage partner and users"
+#~ msgstr "Manage partner and users"
+
+#~ msgid "Link an existing user"
+#~ msgstr "Link an existing user"
+
+#~ msgid "Link a new user"
+#~ msgstr "Link a new user"
+
+#~ msgid "No partners found."
+#~ msgstr "No partners found."
+
+#~ msgid "Unlinking..."
+#~ msgstr "Unlinking..."
+
+#~ msgid "Unlink user"
+#~ msgstr "Unlink user"
+
+#~ msgid "No users linked."
+#~ msgstr "No users linked."
+
+#~ msgid "Link a user"
+#~ msgstr "Link a user"
+
+#~ msgid "Manage users"
+#~ msgstr "Manage users"
+
+#~ msgid "Update details"
+#~ msgstr "Update details"
+
+#~ msgid ""
+#~ "A partial email address can be entered (eg '@example.com') to match "
+#~ "multiple addresses."
+#~ msgstr ""
+#~ "A partial email address can be entered (eg '@example.com') to match "
+#~ "multiple addresses."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                User is already linked to "
+#~ "%(name)s.\n"
+#~ "                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "                                                User is already linked to "
+#~ "%(name)s.\n"
+#~ "                                            "
+
+#~ msgid "Linking..."
+#~ msgstr "Linking..."
+
+#~ msgid "Link user"
+#~ msgstr "Link user"
+
+#~ msgid "No users found."
+#~ msgstr "No users found."
+
+#~ msgid "Delete content block '%(name)s'?\""
+#~ msgstr "Delete content block '%(name)s'?\""
+
+#~ msgid "Delete content block"
+#~ msgstr "Delete content block"
+
+#~ msgid ""
+#~ "Delete %(object.type)s content block <strong>%(object.name)s</strong> - "
+#~ "are you sure?"
+#~ msgstr ""
+#~ "Delete %(object.type)s content block <strong>%(object.name)s</strong> - "
+#~ "are you sure?"
+
+#~ msgid "Remove promotion from page?"
+#~ msgstr "Remove promotion from page?"
+
+#~ msgid "Remove promotion"
+#~ msgstr "Remove promotion"
+
+#~ msgid ""
+#~ "Remove %(object.content_object.type)s content block <strong>%(object."
+#~ "name)s</strong> from page <strong>%(object.page_url)s</strong> - are you "
+#~ "sure?"
+#~ msgstr ""
+#~ "Remove %(object.content_object.type)s content block <strong>%(object."
+#~ "name)s</strong> from page <strong>%(object.page_url)s</strong> - are you "
+#~ "sure?"
+
+#~ msgid "Content block"
+#~ msgstr "Content block"
+
+#~ msgid "Pages displaying this content blocks"
+#~ msgstr "Pages displaying this content blocks"
+
+#~ msgid "Position on page"
+#~ msgstr "Position on page"
+
+#~ msgid "View all blocks on this page"
+#~ msgstr "View all blocks on this page"
+
+#~ msgid "Remove from page"
+#~ msgstr "Remove from page"
+
+#~ msgid "This promotion is not displayed anywhere at the moment."
+#~ msgstr "This promotion is not displayed anywhere at the moment."
+
+#~ msgid "Add to a page"
+#~ msgstr "Add to a page"
+
+#~ msgid "Add to page"
+#~ msgstr "Add to page"
+
+#~ msgid "Content blocks for page %(page_url)s"
+#~ msgstr "Content blocks for page %(page_url)s"
+
+#~ msgid "Content blocks on page '%(page_url)s'"
+#~ msgstr "Content blocks on page '%(page_url)s'"
+
+#~ msgid "Edit promotions in position '%(name)s'"
+#~ msgstr "Edit promotions in position '%(name)s'"
+
+#~ msgid "Promotion Name"
+#~ msgstr "Promotion Name"
+
+#~ msgid "Change display order"
+#~ msgstr "Change display order"
+
+#~ msgid "No promotions in this position."
+#~ msgstr "No promotions in this position."
+
+#~ msgid "Pages with content blocks"
+#~ msgstr "Pages with content blocks"
+
+#~ msgid "View by page"
+#~ msgstr "View by page"
+
+#~ msgid "View all content blocks"
+#~ msgstr "View all content blocks"
+
+#~ msgid "View content blocks by page"
+#~ msgstr "View content blocks by page"
+
+#~ msgid "Pages with content blocks on them"
+#~ msgstr "Pages with content blocks on them"
+
+#~ msgid "Number of content blocks"
+#~ msgstr "Number of content blocks"
+
+#~ msgid "No content blocks found."
+#~ msgstr "No content blocks found."
+
+#~ msgid "Create a new content block"
+#~ msgstr "Create a new content block"
+
+#~ msgid "Creating..."
+#~ msgstr "Creating..."
+
+#~ msgid "Create block"
+#~ msgstr "Create block"
+
+#~ msgid "Number of times used"
+#~ msgstr "Number of times used"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>File <strong>%(filename)s</strong> processed.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "    <p>File <strong>%(filename)s</strong> processed.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> product added\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> products added\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> product added\n"
+#~ "            "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> products added\n"
+#~ "            "
+
+#~ msgid ""
+#~ "\n"
+#~ "                There was <strong>%(n)s</strong> duplicate product in the "
+#~ "file\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                There were <strong>%(n)s</strong> duplicate products in "
+#~ "the file\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                There was <strong>%(n)s</strong> duplicate product in the "
+#~ "file\n"
+#~ "            "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "                There were <strong>%(n)s</strong> duplicate products in "
+#~ "the file\n"
+#~ "            "
+
+#~ msgid ""
+#~ "\n"
+#~ "                There was <strong>%(n)s</strong> product in the file that "
+#~ "couldn't be found in the catalogue\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                There were <strong>%(n)s</strong> products in the file "
+#~ "that couldn't be found in the catalogue\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                There was <strong>%(n)s</strong> product in the file that "
+#~ "couldn't be found in the catalog\n"
+#~ "            "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "                There were <strong>%(n)s</strong> products in the file "
+#~ "that couldn't be found in the catalog\n"
+#~ "            "
+
+#~ msgid "Edit range metadata"
+#~ msgstr "Edit range metadata"
+
+#~ msgid "Return to ranges homepage"
+#~ msgstr "Return to ranges homepage"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>Range <strong>%(name)s</strong> saved.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Range <strong>%(name)s</strong> saved.</p>\n"
+
+#~ msgid "Edit included products"
+#~ msgstr "Edit included products"
+
+#~ msgid "Delete range '%(name)s'?"
+#~ msgstr "Delete range '%(name)s'?"
+
+#~ msgid "Are you sure you want to delete this range?"
+#~ msgstr "Are you sure you want to delete this range?"
+
+#~ msgid "Create new range"
+#~ msgstr "Create new range"
+
+#~ msgid "Save and edit products"
+#~ msgstr "Save and edit products"
+
+#~ msgid "Num products"
+#~ msgstr "Num products"
+
+#~ msgid "Edit products"
+#~ msgstr "Edit products"
+
+#~ msgid "No ranges found."
+#~ msgstr "No ranges found."
+
+#~ msgid "Products in range '%(name)s'"
+#~ msgstr "Products in range '%(name)s'"
+
+#~ msgid "products"
+#~ msgstr "products"
+
+#~ msgid ""
+#~ "This range contains all products. To add products manually, please "
+#~ "unselect the 'Includes All Products' option on the edit range page."
+#~ msgstr ""
+#~ "This range contains all products. To add products manually, please "
+#~ "unselect the 'Includes All Products' option on the edit range page."
+
+#~ msgid "Add products"
+#~ msgstr "Add products"
+
+#~ msgid "Running..."
+#~ msgstr "Running..."
+
+#~ msgid "Upload history"
+#~ msgstr "Upload history"
+
+#~ msgid "Filename"
+#~ msgstr "Filename"
+
+#~ msgid "New products"
+#~ msgstr "New products"
+
+#~ msgid "Duplicate products"
+#~ msgstr "Duplicate products"
+
+#~ msgid "Unknown products"
+#~ msgstr "Unknown products"
+
+#~ msgid "Date uploaded"
+#~ msgstr "Date uploaded"
+
+#~ msgid "Products in range"
+#~ msgstr "Products in range"
+
+#~ msgid "Remove selected products"
+#~ msgstr "Remove selected products"
+
+#~ msgid "Is product discountable?"
+#~ msgstr "Is product discountable?"
+
+#~ msgid "Products in Range"
+#~ msgstr "Products in Range"
+
+#~ msgid "Edit range"
+#~ msgstr "Edit range"
+
+#~ msgid "return to range list"
+#~ msgstr "return to range list"
+
+#~ msgid "Reporting Dashboard"
+#~ msgstr "Reporting Dashboard"
+
+#~ msgid "Reporting dashboard"
+#~ msgstr "Reporting dashboard"
+
+#~ msgid "Generating..."
+#~ msgstr "Generating..."
+
+#~ msgid "Generate report"
+#~ msgstr "Generate report"
+
+#~ msgid "No results found."
+#~ msgstr "No results found."
+
+#~ msgid "No vouchers were used in this period"
+#~ msgstr "No coupons were used in this period"
+
+#~ msgid "Delete review '%(title)s'?"
+#~ msgstr "Delete review '%(title)s'?"
+
+#~ msgid "Delete review \"%(title)s\"?"
+#~ msgstr "Delete review \"%(title)s\"?"
+
+#~ msgid "Review"
+#~ msgstr "Review"
+
+#~ msgid "Review Search"
+#~ msgstr "Review Search"
+
+#~ msgid "Update status of selected reviews"
+#~ msgstr "Update status of selected reviews"
+
+#~ msgctxt "Review title"
+#~ msgid "Title"
+#~ msgstr "Title"
+
+#~ msgid "[Product deleted]"
+#~ msgstr "[Product deleted]"
+
+#~ msgid "No reviews found."
+#~ msgstr "No reviews found."
+
+#~ msgid "Update review"
+#~ msgstr "Update review"
+
+#~ msgid "Review #%(review.id)s"
+#~ msgstr "Review #%(review.id)s"
+
+#~ msgid "Review information"
+#~ msgstr "Review information"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>A weight band has been added to the <strong>%(name)s</strong> "
+#~ "shipping method.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "    <p>A weight band has been added to the <strong>%(name)s</strong> "
+#~ "shipping method.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>Weight band deleted from the <strong>%(name)s</strong> shipping "
+#~ "method \n"
+#~ msgstr ""
+#~ "\n"
+#~ "    <p>Weight band deleted from the <strong>%(name)s</strong> shipping "
+#~ "method \n"
+
+#~ msgid "Weight band updated"
+#~ msgstr "Weight band updated"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>A shipping method <strong>%(name)s</strong> has been created.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>A shipping method <strong>%(name)s</strong> has been created.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been deleted.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been deleted.</"
+#~ "p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been updated.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been updated.</"
+#~ "p>\n"
+
+#~ msgid "Delete weight band?"
+#~ msgstr "Delete weight band?"
+
+#~ msgid "Shipping methods"
+#~ msgstr "Shipping methods"
+
+#~ msgid "Weight range (kg)"
+#~ msgstr "Weight range (kg)"
+
+#~ msgid "Are you sure you want to delete this weight band method?"
+#~ msgstr "Are you sure you want to delete this weight band method?"
+
+#~ msgid "Edit weight band"
+#~ msgstr "Edit weight band"
+
+#~ msgid "Delete shipping method '%(name)s'?"
+#~ msgstr "Delete shipping method '%(name)s'?"
+
+#~ msgid "Are you sure you want to delete this shipping method?"
+#~ msgstr "Are you sure you want to delete this shipping method?"
+
+#~ msgid "Applies to countries"
+#~ msgstr "Applies to countries"
+
+#~ msgid "Default product weight (kg)"
+#~ msgstr "Default product weight (kg)"
+
+#~ msgid "Edit shipping method"
+#~ msgstr "Edit shipping method"
+
+#~ msgid "Delete shipping method"
+#~ msgstr "Delete shipping method"
+
+#~ msgid "Weight bands"
+#~ msgstr "Weight bands"
+
+#~ msgid "No weight bands have been added yet."
+#~ msgstr "No weight bands have been added yet."
+
+#~ msgid "Add a new weight band"
+#~ msgstr "Add a new weight band"
+
+#~ msgid "Add weight band"
+#~ msgstr "Add weight band"
+
+#~ msgid "Create a new shipping method"
+#~ msgstr "Create a new shipping method"
+
+#~ msgid "Create new shipping charge"
+#~ msgstr "Create new shipping charge"
+
+#~ msgid "Number of weight bands"
+#~ msgstr "Number of weight bands"
+
+#~ msgid "Default weight (kg)"
+#~ msgstr "Default weight (kg)"
+
+#~ msgid "No shipping methods found."
+#~ msgstr "No shipping methods found."
+
+#~ msgid "Alert #%(id)s"
+#~ msgstr "Alert #%(id)s"
+
+#~ msgid "Delete alert #%(id)s?"
+#~ msgstr "Delete alert #%(id)s?"
+
+#~ msgid "Product alert #%(id)s"
+#~ msgstr "Product alert #%(id)s"
+
+#~ msgid "Are you sure that you want to delete this alert?"
+#~ msgstr "Are you sure that you want to delete this alert?"
+
+#~ msgid "Search product alerts"
+#~ msgstr "Search product alerts"
+
+#~ msgid "reset"
+#~ msgstr "reset"
+
+#~ msgid "Date alert sent"
+#~ msgstr "Date alert sent"
+
+#~ msgid "(Anonymous)"
+#~ msgstr "(Anonymous)"
+
+#~ msgid "No alerts found."
+#~ msgstr "No alerts found."
+
+#~ msgid "Update alert #%(id)s"
+#~ msgstr "Update alert #%(id)s"
+
+#~ msgid "General"
+#~ msgstr "General"
+
+#~ msgid "Yes,No"
+#~ msgstr "Yes,No"
+
+#~ msgid "Superuser"
+#~ msgstr "Superuser"
+
+#~ msgid "True,False"
+#~ msgstr "True,False"
+
+#~ msgid "Staff"
+#~ msgstr "Staff"
+
+#~ msgid "Last login"
+#~ msgstr "Last login"
+
+#~ msgid "Date joined"
+#~ msgstr "Date joined"
+
+#~ msgid "Products viewed"
+#~ msgstr "Products viewed"
+
+#~ msgid "Number of orders"
+#~ msgstr "Number of orders"
+
+#~ msgid "Number of ordered items"
+#~ msgstr "Number of ordered items"
+
+#~ msgid "Reviews written"
+#~ msgstr "Reviews written"
+
+#~ msgid "Send password reset email"
+#~ msgstr "Send password reset email"
+
+#~ msgid "Order Number"
+#~ msgstr "Order Number"
+
+#~ msgid "Total value"
+#~ msgstr "Total value"
+
+#~ msgid "This customer has not placed any orders yet."
+#~ msgstr "This customer has not placed any orders yet."
+
+#~ msgid "This customer has not saved any addresses."
+#~ msgstr "This customer has not saved any addresses."
+
+#~ msgid "Product ID"
+#~ msgstr "Product ID"
+
+#~ msgid "This customer has not written any reviews yet."
+#~ msgstr "This customer has not written any reviews yet."
+
+#~ msgid "No customers found."
+#~ msgstr "No customers found."
+
+#~ msgid "Bulk Actions"
+#~ msgstr "Bulk Actions"
+
+#~ msgid "With selected customers:"
+#~ msgstr "With selected customers:"
+
+#~ msgid "Make active"
+#~ msgstr "Make active"
+
+#~ msgid "Make inactive"
+#~ msgstr "Make inactive"
+
+#~ msgid "Delete voucher '%(name)s'?"
+#~ msgstr "Delete coupon '%(name)s'?"
+
+#~ msgid "Voucher details"
+#~ msgstr "Coupon details"
+
+#~ msgid "Number of basket additions"
+#~ msgstr "Number of cart additions"
+
+#~ msgid "Recent orders"
+#~ msgstr "Recent orders"
+
+#~ msgid "No orders have been placed that use this voucher."
+#~ msgstr "No orders have been placed that use this voucher."
+
+#~ msgid "Edit voucher"
+#~ msgstr "Edit coupon"
+
+#~ msgid "Create new voucher"
+#~ msgstr "Create new coupon"
+
+#~ msgid "Num baskets"
+#~ msgstr "Num carts"
+
+#~ msgid "Num orders"
+#~ msgstr "Num orders"
+
+#~ msgid "Inactive"
+#~ msgstr "Inactive"
+
+#~ msgid "No vouchers found."
+#~ msgstr "No coupons found."
+
+#~ msgid "Sorry!"
+#~ msgstr "Sorry!"
+
+#~ msgid "Return to previous page"
+#~ msgstr "Return to previous page"
+
+#~ msgid "Go to homepage"
+#~ msgstr "Go to homepage"
+
+#~ msgid "Edit this page"
+#~ msgstr "Edit this page"
+
+#~ msgid "thumbnail"
+#~ msgstr "thumbnail"
+
+#~ msgid "Unrecognized image type!"
+#~ msgstr "Unrecognized image type!"
+
+#~ msgid "Upload Image"
+#~ msgstr "Upload Image"
+
+#~ msgid "This page is only available to users who aren't logged in."
+#~ msgstr "This page is only available to users who aren't logged in."
+
+#~ msgid " This offer is no longer available."
+#~ msgstr " This offer is no longer available."
+
+#~ msgid "What you need to do"
+#~ msgstr "What you need to do"
+
+#~ msgid "There are no site offers at the moment."
+#~ msgstr "There are no site offers at the moment."
+
+#~ msgid "Browse products in offer"
+#~ msgstr "Browse products in offer"
+
+#~ msgid "See more"
+#~ msgstr "See more"
+
+#~ msgid "Password reset complete"
+#~ msgstr "Password reset complete"
+
+#~ msgid "Password reset"
+#~ msgstr "Password reset"
+
+#~ msgid "Complete"
+#~ msgstr "Complete"
+
+#~ msgid "Your password has been set.  You may go ahead and log in now."
+#~ msgstr "Your password has been set.  You may go ahead and log in now."
+
+#~ msgid "Log in"
+#~ msgstr "Log in"
+
+#~ msgid "Enter a new password"
+#~ msgstr "Enter a new password"
+
+#~ msgid ""
+#~ "Please enter your new password twice so we can verify you typed it in "
+#~ "correctly."
+#~ msgstr ""
+#~ "Please enter your new password twice so we can verify you typed it in "
+#~ "correctly."
+
+#~ msgid "Change my password"
+#~ msgstr "Change my password"
+
+#~ msgid "Password reset unsuccessful"
+#~ msgstr "Password reset unsuccessful"
+
+#~ msgid ""
+#~ "The password reset link was invalid, possibly because it has already been "
+#~ "used.  Please request a new password reset."
+#~ msgstr ""
+#~ "The password reset link was invalid, possibly because it has already been "
+#~ "used.  Please request a new password reset."
+
+#~ msgid "Password reset email sent"
+#~ msgstr "Password reset email sent"
+
+#~ msgid "Email sent"
+#~ msgstr "Email sent"
+
+#~ msgid ""
+#~ "\n"
+#~ "        We've e-mailed you instructions for resetting your password. You "
+#~ "should be receiving it shortly.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        We've e-mailed you instructions for resetting your password. You "
+#~ "should be receiving it shortly.\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "        If you don't receive an email, please make sure you've entered "
+#~ "the address you registered with, and check\n"
+#~ "        your spam folder.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        If you don't receive an email, please make sure you've entered "
+#~ "the address you registered with, and check\n"
+#~ "        your spam folder.\n"
+#~ "    "
+
+#~ msgid ""
+#~ "Forgotten your password? Enter your e-mail address below, and we'll e-"
+#~ "mail instructions for setting a new one."
+#~ msgstr ""
+#~ "Forgotten your password? Enter your e-mail address below, and we'll e-"
+#~ "mail instructions for setting a new one."
+
+#~ msgid "Send reset email"
+#~ msgstr "Send reset email"
+
+#~ msgid "Refine your search"
+#~ msgstr "Refine your search"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Products matching \"%(q)s\"\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        Products matching \"%(q)s\"\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Found <strong>%(num_results)s</strong> results, "
+#~ "showing <strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Found <strong>%(num_results)s</strong> results, "
+#~ "showing <strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+
+#~ msgid "Found <strong>0</strong> results."
+#~ msgstr "Found <strong>0</strong> results."
+
+#~ msgid ""
+#~ "\n"
+#~ "                        Did you mean <a href=\"%(search_url)s?q="
+#~ "%(suggestion)s\">\"%(suggestion)s\"</a>?\n"
+#~ "                    "
+#~ msgstr ""
+#~ "\n"
+#~ "                        Did you mean <a href=\"%(search_url)s?q="
+#~ "%(suggestion)s\">\"%(suggestion)s\"</a>?\n"
+#~ "                    "
+
+#~ msgid "Back to search results"
+#~ msgstr "Back to search results"
+
+#~ msgid "You need to select some %ss"
+#~ msgstr "You need to select some %ss"

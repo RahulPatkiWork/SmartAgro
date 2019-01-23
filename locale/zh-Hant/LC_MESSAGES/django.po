@@ -1,0 +1,1323 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# aiden huang <klein128@gmail.com>, 2016
+# Chen Chun-Chia <ccc.larc@gmail.com>, 2015
+# Cody Liu <monmo.liu@gmail.com>, 2016
+# Donald Zhan <donald.zhan1984@gmail.com>, 2015
+# Kai-Chu Chung <cage.chung@gmail.com>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-11 08:36+0000\n"
+"Last-Translator: Oscar Bot <maik.hoepfel@tangentsnowball.com>\n"
+"Language-Team: Chinese Traditional (http://www.transifex.com/codeinthehole/"
+"django-oscar/language/zh-Hant/)\n"
+"Language: zh-Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr "儀表板"
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr "目錄"
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "商品"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr "商品種類"
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "類別"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr "系列商品"
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr "低庫存提醒"
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr ""
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr ""
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "訂單"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr ""
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr ""
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr ""
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr ""
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr ""
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr ""
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr ""
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr ""
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr ""
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr ""
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr ""
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr ""
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr ""
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr ""
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr ""
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr "價格範圍"
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr ""
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr ""
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr ""
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr ""
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+#, fuzzy
+#| msgid "Catalogue"
+msgid "Catalan"
+msgstr "目錄"
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+msgid "German"
+msgstr ""
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr "登出"
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr ""
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "購物車"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+"\n"
+"全部: %(total)s"
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr "瀏覽商店"
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "所有商品"
+
+#~ msgid "Mr"
+#~ msgstr "先生"
+
+#~ msgid "Miss"
+#~ msgstr "小姐"
+
+#~ msgid "Mrs"
+#~ msgstr "女士"
+
+#~ msgid "Ms"
+#~ msgstr "女士"
+
+#~ msgid "Dr"
+#~ msgstr "博士"
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "職稱"
+
+#~ msgid "First name"
+#~ msgstr "名"
+
+#~ msgid "Last name"
+#~ msgstr "姓"
+
+#~ msgid "First line of address"
+#~ msgstr "第一行地址"
+
+#~ msgid "Second line of address"
+#~ msgstr "第二行地址"
+
+#~ msgid "Third line of address"
+#~ msgstr "第三行地址"
+
+#~ msgid "City"
+#~ msgstr "城市"
+
+#~ msgid "State/County"
+#~ msgstr "省/國家"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "郵遞區號"
+
+#~ msgid "Country"
+#~ msgstr "國家"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "搜尋文字 - 只用在搜尋地址"
+
+#~ msgid "Address"
+#~ msgstr "地址"
+
+#~ msgid "Addresses"
+#~ msgstr "地址"
+
+#~ msgid "Addresses in %(country)s require a valid postcode"
+#~ msgstr "地址在%(country)s 需要一個有效的郵遞區號"
+
+#~ msgid "The postcode '%(postcode)s' is not valid for %(country)s"
+#~ msgstr "在 %(country)s，郵遞區號 '%(postcode)s' 不是有效的"
+
+#~ msgid "ISO 3166-1 alpha-2"
+#~ msgstr "ISO 3166-1 alpha-2"
+
+#~ msgid "ISO 3166-1 alpha-3"
+#~ msgstr "ISO 3166-1 alpha-3"
+
+#~ msgid "ISO 3166-1 numeric"
+#~ msgstr "ISO 3166-1 numeric"
+
+#~ msgid "Country name"
+#~ msgstr "國家"
+
+#~ msgid "Official name"
+#~ msgstr "正式名稱"
+
+#~ msgid "Display order"
+#~ msgstr "顯示順序"
+
+#~ msgid "Higher the number, higher the country in the list."
+#~ msgstr "數字愈多，國家排序愈前面"
+
+#~ msgid "Is shipping country"
+#~ msgstr "是否出貨到這個國家"
+
+#~ msgid "Countries"
+#~ msgstr "國家"
+
+#~ msgid "Phone number"
+#~ msgstr "手機號碼"
+
+#~ msgid "In case we need to call you about your order"
+#~ msgstr "以防訂單問題我們需要打電話給您"
+
+#~ msgid "Instructions"
+#~ msgstr "指示"
+
+#~ msgid "Tell us anything we should know when delivering your order."
+#~ msgstr "當運送您的訂單時，請告訴我們需要知道什麼？"
+
+#~ msgid "Shipping address"
+#~ msgstr "運送地址"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "運送地址"
+
+#~ msgid "User"
+#~ msgstr "使用者"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "預設運送地址"
+
+#~ msgid "Default billing address?"
+#~ msgstr "預設帳單地址"
+
+#~ msgid "Address Hash"
+#~ msgstr "地址 Hash"
+
+#~ msgid "Date Created"
+#~ msgstr "建立日期"
+
+#~ msgid "User address"
+#~ msgstr "使用者地址"
+
+#~ msgid "User addresses"
+#~ msgstr "使用者地址"
+
+#~ msgid "This address is already in your address book"
+#~ msgstr "這個地址已經存在地址簿"
+
+#~ msgid "Billing address"
+#~ msgstr "帳單地址"
+
+#~ msgid "Billing addresses"
+#~ msgstr "帳單地址"
+
+#~ msgid "Partner"
+#~ msgstr "合作夥伴"
+
+#~ msgid "Partner address"
+#~ msgstr "合作夥伴地址"
+
+#~ msgid "Partner addresses"
+#~ msgstr "合作夥伴地址"
+
+#~ msgid "Product"
+#~ msgstr "商品"
+
+#~ msgid "Views"
+#~ msgstr "觀看數"
+
+#~ msgid "Basket Additions"
+#~ msgstr "放到購物車次數"
+
+#~ msgid "Purchases"
+#~ msgstr "購買數"
+
+#~ msgid "Score"
+#~ msgstr "評價"
+
+#~ msgid "Product record"
+#~ msgstr "商品記錄"
+
+#~ msgid "Product records"
+#~ msgstr "商品記錄"
+
+#~ msgid "Record for '%s'"
+#~ msgstr "'%s' 產品"
+
+#~ msgid "Product Views"
+#~ msgstr "產品觀看次數"
+
+#~ msgid "Order Lines"
+#~ msgstr "訂單"
+
+#~ msgid "Total Spent"
+#~ msgstr "總花費"
+
+#~ msgid "Last Order Date"
+#~ msgstr "上一次訂單日期"
+
+#~ msgid "User record"
+#~ msgstr "使用者記錄"
+
+#~ msgid "User records"
+#~ msgstr "使用者記錄"
+
+#~ msgid "User product view"
+#~ msgstr "使用者產品觀看次數"
+
+#~ msgid "User product views"
+#~ msgstr "使用者產品觀看次數"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "%(user)s 看過 %(product)s"
+
+#~ msgid "Search term"
+#~ msgstr "搜尋字"
+
+#~ msgid "Product analytics"
+#~ msgstr "商品分析"
+
+#~ msgid "Saved - for items to be purchased later"
+#~ msgstr "放入暫存清單"
+
+#~ msgid "Baskets"
+#~ msgstr "購物車"
+
+#~ msgid ""
+#~ "Basket #%(basket_id)d, Product #%(product_id)d, quantity %(quantity)d"
+#~ msgstr "購物車 #%(basket_id)d，商品 #%(product_id)d，數量 %(quantity)d"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has increased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "%(product)s 在你加到購物車後，價格從 %(old_price)s 提高為 %(new_price)s"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has decreased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "%(product)s 在你加到購物車後，價格從 %(old_price)s 減少為 %(new_price)s"
+
+#~ msgid "Save for Later"
+#~ msgstr "放入暫存清單"
+
+#~ msgid "Move to Basket"
+#~ msgstr "移到購物車"
+
+#~ msgid "Please select a valid product"
+#~ msgstr "請選擇有效的商品"
+
+#~ msgid ""
+#~ "This product cannot be added to the basket as its currency isn't the same "
+#~ "as other products in your basket"
+#~ msgstr "無法將此商品加入購物車，因為該商品的貨幣單位與購物車內的商品不同"
+
+#~ msgid "Open baskets"
+#~ msgstr "檢視購物車"
+
+#~ msgid "Submitted baskets"
+#~ msgstr "購物車結帳"
+
+#~ msgid "You can't save an item for later if you're not logged in!"
+#~ msgstr "請先登入"
+
+#~ msgid "Category"
+#~ msgstr "類別"
+
+#~ msgid "Product category"
+#~ msgstr "商品類別"
+
+#~ msgid "Product categories"
+#~ msgstr "商品類別"
+
+#~ msgid "Parent product"
+#~ msgstr "父商品"
+
+#~ msgid "Child product"
+#~ msgstr "子商品"
+
+#~ msgid ""
+#~ "Universal Product Code (UPC) is an identifier for a product which is not "
+#~ "specific to a particular  supplier. Eg an ISBN for a book."
+#~ msgstr "通用商品碼 (UPC) 是給未指定供應商的商品的識別碼。例如：書本的 ISBN"
+
+#~ msgid "Recommended products"
+#~ msgstr "推薦商品"
+
+#~ msgid "Your product must have a title."
+#~ msgstr "商品要有名稱"
+
+#~ msgid "A child product can't have a category assigned."
+#~ msgstr "子商品不能指定類別"
+
+#~ msgid "Recommended product"
+#~ msgstr "推薦商品"
+
+#~ msgid "Product recommendation"
+#~ msgstr "商品推薦"
+
+#~ msgid "Product recomendations"
+#~ msgstr "商品推薦"
+
+#~ msgid "Product attribute"
+#~ msgstr "商品屬性"
+
+#~ msgid "Product attributes"
+#~ msgstr "商品屬性"
+
+#~ msgid "Product attribute value"
+#~ msgstr "商品屬性值"
+
+#~ msgid "Product attribute values"
+#~ msgstr "商品屬性值"
+
+#~ msgid "Product image"
+#~ msgstr "商品圖片"
+
+#~ msgid "Product images"
+#~ msgstr "商品圖片"
+
+#~ msgid "Product review"
+#~ msgstr "商品評論"
+
+#~ msgid "Product reviews"
+#~ msgstr "商品評論"
+
+#~ msgid "You have already reviewed this product!"
+#~ msgstr "你已經評論過此商品"
+
+#~ msgid "You can't leave a review for this product."
+#~ msgstr "你不能評論此商品"
+
+#~ msgid "Thank you for reviewing this product"
+#~ msgstr "感謝你評論此商品"
+
+#~ msgid "Please choose a shipping method"
+#~ msgstr "請選擇運送方式"
+
+#~ msgid ""
+#~ "Your previously chosen shipping method is no longer valid.  Please choose "
+#~ "another one"
+#~ msgstr "先前選擇的運送方式已不提供，請選擇新的運送方式"
+
+#~ msgid "Product alert"
+#~ msgstr "商品提醒"
+
+#~ msgid "Product alerts"
+#~ msgstr "商品提醒"
+
+#~ msgid "Product Alerts"
+#~ msgstr "商品提醒"
+
+#~ msgid "An alert has been created"
+#~ msgstr "成功建立提醒"
+
+#~ msgid "Your stock alert is now active"
+#~ msgstr "已啟用庫存提醒"
+
+#~ msgid "Your stock alert cannot be confirmed"
+#~ msgstr "無法確認庫存提醒"
+
+#~ msgid "Your stock alert has been cancelled"
+#~ msgstr "已取消庫存提醒"
+
+#~ msgid "Your stock alert cannot be cancelled"
+#~ msgstr "無法取消庫存提醒"
+
+#~ msgid "There is already an active stock alert for %s"
+#~ msgstr "%s 已啟用庫存提醒"
+
+#~ msgid "You already have an active alert for this product"
+#~ msgstr "你已為此商品啟用提醒"
+
+#~ msgid "%(qty)d copies of '%(product)s' have been added to your basket"
+#~ msgstr "%(qty)d 份 %(product)s 已加入購物車"
+
+#~ msgid "'%s' has been added to your basket"
+#~ msgstr "%s 成功加入購物車"
+
+#~ msgid "The requested product no longer exists"
+#~ msgstr "商品已不存在"
+
+#~ msgid "Product title"
+#~ msgstr "商品名稱"
+
+#~ msgid "A child product should not have categories"
+#~ msgstr "子商品不能指定類別"
+
+#~ msgid "Number of child categories"
+#~ msgstr "子類別數量"
+
+#~ msgid "%s Category"
+#~ msgid_plural "%s Categories"
+#~ msgstr[0] "%s 類別"
+
+#~ msgid "Product search results"
+#~ msgstr "商品搜尋結果"
+
+#~ msgid "Delete product variant?"
+#~ msgstr "刪除商品品項？"
+
+#~ msgid "Delete product?"
+#~ msgstr "刪除商品？"
+
+#~ msgid "Deleted product variant '%s'"
+#~ msgstr "已刪除商品品項「%s」"
+
+#~ msgid "Deleted product '%s'"
+#~ msgstr "已刪除商品「%s」"
+
+#~ msgid "Alerts with status \"%s\""
+#~ msgstr "提醒：「%s」狀態"
+
+#~ msgid "All alerts"
+#~ msgstr "所有提醒"
+
+#~ msgid "Add a new category"
+#~ msgstr "加入新類別"
+
+#~ msgid "Category created successfully"
+#~ msgstr "成功建立類別"
+
+#~ msgid "Update category '%s'"
+#~ msgstr "更新「%s」類別"
+
+#~ msgid "Category updated successfully"
+#~ msgstr "成功更新類別"
+
+#~ msgid "Category deleted successfully"
+#~ msgstr "成功刪除類別"
+
+#~ msgid "Delete product type '%s'"
+#~ msgstr "刪除商品種類「%s」"
+
+#~ msgid "%i products are still assigned to this type"
+#~ msgstr "%i 商品仍被指定為此種類"
+
+#~ msgid "Product type deleted successfully"
+#~ msgstr "成功刪除商品種類"
+
+#~ msgid "Product name"
+#~ msgstr "商品名稱"
+
+#~ msgid "Product name matches \"{product_name}\""
+#~ msgstr "符合「{product_name}」的商品名稱"
+
+#~ msgid "Ranges dashboard"
+#~ msgstr "系列商品儀表板"
+
+#~ msgid "Create range"
+#~ msgstr "建立系列商品"
+
+#~ msgid "Range deleted"
+#~ msgstr "系列商品已刪除"
+
+#~ msgid "Removed %d product from range"
+#~ msgid_plural "Removed %d products from range"
+#~ msgstr[0] "已從系列中刪除 %d 件商品"
+
+#~ msgid "%d product added to range"
+#~ msgid_plural "%d products added to range"
+#~ msgstr[0] "已加入 %d 件商品到系列中"
+
+#~ msgid "All Alerts"
+#~ msgstr "所有提醒"
+
+#~ msgid "Product alert saved"
+#~ msgstr "已儲存商品提醒"
+
+#~ msgid "Product alert deleted"
+#~ msgstr "已刪除商品提醒"
+
+#~ msgid "Number of Orders"
+#~ msgstr "訂單數量"
+
+#~ msgid "Range"
+#~ msgstr "系列商品"
+
+#~ msgid "Includes all products?"
+#~ msgstr "要包含所有商品？"
+
+#~ msgid "Shipping method"
+#~ msgstr "運送方式"
+
+#~ msgid "Stock alert"
+#~ msgstr "庫存提醒"
+
+#~ msgid "Stock alerts"
+#~ msgstr "庫存提醒"
+
+#~ msgid "Shipping Method"
+#~ msgstr "運送方式"
+
+#~ msgid "Shipping Methods"
+#~ msgstr "運送方式"
+
+#~ msgid "Free Shipping"
+#~ msgstr "免運費"
+
+#~ msgid "Shipping"
+#~ msgstr "運送"
+
+#~ msgid "Free shipping"
+#~ msgstr "免運費"
+
+#~ msgid "Added to a basket"
+#~ msgstr "已加入購物車"
+
+#~ msgid "This is not a valid international phone format."
+#~ msgstr "這不是一個有效的國際電話格式"
+
+#~ msgid "This is not a valid local phone format for %s."
+#~ msgstr "這不是一個有效的本地電話格式 %s"
+
+#~ msgid "This is not a valid local or international phone format."
+#~ msgstr "這不是一個有效的國際或本地電話格式"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(title)s</strong> has been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> 成功加入購物車"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(quantity)s</strong> copies of <strong>%(title)s</strong>\n"
+#~ "    have been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(quantity)s</strong> 份 <strong>%(title)s</strong>\n"
+#~ "成功加入購物車"
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been moved back to your basket.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> 已加入購物車\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been saved for later\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> 已放入暫存清單\n"
+
+#~ msgid "Your basket is now empty"
+#~ msgstr "購物車目前沒有商品"
+
+#~ msgid ""
+#~ "\n"
+#~ "            Your basket total is now <strong>%(total)s</strong>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "購物車目前總計 <strong>%(total)s</strong>"
+
+#~ msgid "View basket"
+#~ msgstr "檢視購物車"
+
+#~ msgid "Items to buy now"
+#~ msgstr "購物車商品"
+
+#~ msgid "Save for later"
+#~ msgstr "放入暫存清單"
+
+#~ msgid "Your basket is empty."
+#~ msgstr "購物車沒有商品"
+
+#~ msgid "Items to buy later"
+#~ msgstr "暫存清單"
+
+#~ msgid "Move to basket"
+#~ msgstr "移到購物車"
+
+#~ msgid "Basket total (before discounts)"
+#~ msgstr "總計金額 (折扣前)"
+
+#~ msgid "Basket total (after discounts)"
+#~ msgstr "總計金額 (折扣後)"
+
+#~ msgid "Basket total"
+#~ msgstr "總計金額"
+
+#~ msgid "Add to basket"
+#~ msgstr "加入購物車"
+
+#~ msgid "You have an active stock alert for this product."
+#~ msgstr "你已替此商品啟用庫存提醒"
+
+#~ msgid "You can get an email alert when this product is back in stock."
+#~ msgstr "當商品到貨時，你會收到 email 通知"
+
+#~ msgid "2. Shipping method"
+#~ msgstr "2. 運送方式"
+
+#~ msgid "return to basket"
+#~ msgstr "回到購物車"
+
+#~ msgid "You do not have any active alerts for out-of-stock products."
+#~ msgstr "你沒有啟用任何的商品缺貨提醒"
+
+#~ msgid "Basket total (inc. tax)"
+#~ msgstr "總計金額 (含稅)"
+
+#~ msgid "Basket total:"
+#~ msgstr "總計金額："
+
+#~ msgid "Basket total (excl. discounts)"
+#~ msgstr "總計金額 (不含折扣)"
+
+#~ msgid "Basket total (inc. discounts)"
+#~ msgstr "總計金額 (包含折扣)"
+
+#~ msgid "Delete category?"
+#~ msgstr "是否刪除類別？"
+
+#~ msgid "Delete category"
+#~ msgstr "刪除類別"
+
+#~ msgid "Create new category"
+#~ msgstr "建立新類別"
+
+#~ msgid "There are no categories."
+#~ msgstr "沒有建立類別"
+
+#~ msgid "Edit category"
+#~ msgstr "編輯類別"
+
+#~ msgid "Add child category"
+#~ msgstr "加入子類別"
+
+#~ msgid "Track stock?"
+#~ msgstr "追蹤庫存"
+
+#~ msgid "No stock alerts found."
+#~ msgstr "沒有庫存提醒"
+
+#~ msgid "View Stock Alerts"
+#~ msgstr "檢視庫存提醒"
+
+#~ msgid "<em>Open</em> stock alerts"
+#~ msgstr "<em>啟用</em>的庫存提醒"
+
+#~ msgid "<em>Closed</em> stock alerts"
+#~ msgstr "<em>關閉</em>的庫存提醒"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Ranges can be created and edited from within the <a href="
+#~ "\"%(range_list_url)s\">range dashboard</a>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "在<a href=\"%(range_list_url)s\">系列儀表板</a>中能新增或編輯系列商品"
+
+#~ msgid "Save note"
+#~ msgstr "儲存備註"
+
+#~ msgid "Notes are only editable for 5 minutes after being saved."
+#~ msgstr "備註只能在儲存5分鐘後才可編輯"
+
+#~ msgid "Advanced Search"
+#~ msgstr "進階搜尋"
+
+#~ msgid "Close"
+#~ msgstr "關閉"
+
+#~ msgid "Order Search Results"
+#~ msgstr "訂單搜尋結果"
+
+#~ msgid "All Orders"
+#~ msgstr "全部訂單"
+
+#~ msgid "Download selected orders as a CSV"
+#~ msgstr "下載所選訂單成CSV檔"
+
+#~ msgid "Deleted"
+#~ msgstr "刪除"
+
+#~ msgid "Changing..."
+#~ msgstr "改變…"
+
+#~ msgid "No orders found."
+#~ msgstr "沒有找到訂單"
+
+#~ msgid "Print Packaging Slips"
+#~ msgstr "列印裝箱單號"
+
+#~ msgid "Mark as"
+#~ msgstr "標記成"
+
+#~ msgid "Change order status to"
+#~ msgstr "改變訂單狀態成"
+
+#~ msgid "Done"
+#~ msgstr "完成"
+
+#~ msgid "Edit shipping address"
+#~ msgstr "編輯出貨地址"
+
+#~ msgid "Edit shipping address for order %(order.number)s"
+#~ msgstr "編輯訂單 %(order.number)s 的出貨地址"
+
+#~ msgid "Update address"
+#~ msgstr "更新地址"
+
+#~ msgid "Order statistics"
+#~ msgstr "訂單統計"
+
+#~ msgid "Filter result"
+#~ msgstr "過濾結果"
+
+#~ msgid "Summary"
+#~ msgstr "總結"
+
+#~ msgid "Order status breakdown"
+#~ msgstr "訂單狀態分解"
+
+#~ msgid "Delete page '%(title)s'?"
+#~ msgstr "刪除頁面 '%(title)s'?"
+
+#~ msgid "Delete page"
+#~ msgstr "刪除頁面"
+
+#~ msgid "Delete page <strong>%(title)s</strong> - are you sure?"
+#~ msgstr "確定要刪除 <strong>%(title)s</strong>  頁面？"
+
+#~ msgid "Create new page"
+#~ msgstr "建立新頁面"
+
+#~ msgid "No pages found."
+#~ msgstr "沒有找到頁面"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Page <strong>%(title)s</strong> saved!\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "頁面 <strong>%(title)s</strong> 已儲存!"
+
+#~ msgid "Oops! We found some errors"
+#~ msgstr "糟糕! 我們發現一些錯誤"
+
+#~ msgid "please check the error messages below and try again"
+#~ msgstr "請檢查以下的錯誤訊息並且再試一次"
+
+#~ msgid "previous"
+#~ msgstr "往前"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Page %(page_num)s of %(total_pages)s\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "%(page_num)s 之 %(total_pages)s 頁"
+
+#~ msgid "next"
+#~ msgstr "往後"
+
+#~ msgid ""
+#~ "\n"
+#~ "User %(user_name)s was unlinked from %(partner_name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "使用者 %(user_name)s 從 %(partner_name)s 解除連結.\n"
+
+#~ msgid "Undo"
+#~ msgstr "復原"
+
+#~ msgid "Delete partner"
+#~ msgstr "刪除活動夥伴"
+
+#~ msgid "Are you sure you want to delete this partner?"
+#~ msgstr "你確定要刪除這個活動夥伴?"
+
+#~ msgid "Edit the user's details"
+#~ msgstr "編輯使用者詳細資料"
+
+#~ msgid "No users associated."
+#~ msgstr "沒有使用者關連"
+
+#~ msgid "No address associated."
+#~ msgstr "沒有地址關連"
+
+#~ msgid "Manage partner and users"
+#~ msgstr "管理合作夥伴跟使用者"
+
+#~ msgid "Link an existing user"
+#~ msgstr "連結已存在的使用者"
+
+#~ msgid "Link a new user"
+#~ msgstr "連結一個新的使用者"
+
+#~ msgid "No partners found."
+#~ msgstr "沒有找到合作夥伴"
+
+#~ msgid "Unlinking..."
+#~ msgstr "解除連結中.."
+
+#~ msgid "Unlink user"
+#~ msgstr "解除使用者連結"
+
+#~ msgid "No users linked."
+#~ msgstr "沒有使用者連結"
+
+#~ msgid "Link a user"
+#~ msgstr "連結一個使用者"
+
+#~ msgid "Manage users"
+#~ msgstr "管理使用者"
+
+#~ msgid "Update details"
+#~ msgstr "更新詳細資料"
+
+#~ msgid ""
+#~ "A partial email address can be entered (eg '@example.com') to match "
+#~ "multiple addresses."
+#~ msgstr "可以輸入部份的電子郵件位置 (例如 '@example.com') 來匹配多個位置."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                User is already linked to "
+#~ "%(name)s.\n"
+#~ "                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "使用者已經連結到 %(name)s."
+
+#~ msgid "Linking..."
+#~ msgstr "連結中..."
+
+#~ msgid "Link user"
+#~ msgstr "連結使用者"
+
+#~ msgid "No users found."
+#~ msgstr "沒有找到使用者"
+
+#~ msgid "Delete content block '%(name)s'?\""
+#~ msgstr "確定要刪除內容區塊 '%(name)s'?\""
+
+#~ msgid "Delete content block"
+#~ msgstr "刪除內容區塊"
+
+#~ msgid ""
+#~ "Delete %(object.type)s content block <strong>%(object.name)s</strong> - "
+#~ "are you sure?"
+#~ msgstr ""
+#~ "刪除 %(object.type)s 的內容區塊 <strong>%(object.name)s</strong> - 你確"
+#~ "定？"
+
+#~ msgid "Remove promotion from page?"
+#~ msgstr "從這個頁面移除優惠"
+
+#~ msgid "Remove promotion"
+#~ msgstr "移除優惠"
+
+#~ msgid ""
+#~ "Remove %(object.content_object.type)s content block <strong>%(object."
+#~ "name)s</strong> from page <strong>%(object.page_url)s</strong> - are you "
+#~ "sure?"
+#~ msgstr ""
+#~ "從 <strong>%(object.page_url)s</strong> 移除 %(object.content_object."
+#~ "type)s 內容區塊 <strong>%(object.name)s</strong> - 你確定？"
+
+#~ msgid "Edit range metadata"
+#~ msgstr "編輯系列商品資訊"
+
+#~ msgid "Return to ranges homepage"
+#~ msgstr "回到系列商品主頁"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>Range <strong>%(name)s</strong> saved.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>系列商品 <strong>%(name)s</strong> 已儲存</p>\n"
+
+#~ msgid "Delete range '%(name)s'?"
+#~ msgstr "是否刪除系列商品「%(name)s」？"
+
+#~ msgid "Are you sure you want to delete this range?"
+#~ msgstr "確定要刪除這個系列商品嗎？"
+
+#~ msgid "Create new range"
+#~ msgstr "新增系列商品"
+
+#~ msgid "No ranges found."
+#~ msgstr "沒有系列商品"
+
+#~ msgid "Products in range '%(name)s'"
+#~ msgstr "系列商品「%(name)s」"
+
+#~ msgid ""
+#~ "This range contains all products. To add products manually, please "
+#~ "unselect the 'Includes All Products' option on the edit range page."
+#~ msgstr ""
+#~ "這個系列商品包含所有商品。要手動加入商品，請到系列商品編輯畫面，取消勾選"
+#~ "「包含所有商品」選項。"
+
+#~ msgid "Products in range"
+#~ msgstr "系列商品"
+
+#~ msgid "Products in Range"
+#~ msgstr "系列商品"
+
+#~ msgid "Edit range"
+#~ msgstr "編輯系列商品"
+
+#~ msgid "return to range list"
+#~ msgstr "回到系列商品清單"
+
+#~ msgid "Shipping methods"
+#~ msgstr "運送方式"
+
+#~ msgid "Weight range (kg)"
+#~ msgstr "重量區間 (kg)"
+
+#~ msgid "Delete shipping method '%(name)s'?"
+#~ msgstr "要刪除運送方式「%(name)s」？"
+
+#~ msgid "Are you sure you want to delete this shipping method?"
+#~ msgstr "確定要刪除此運送方式？"
+
+#~ msgid "Edit shipping method"
+#~ msgstr "編輯運送方式"
+
+#~ msgid "Delete shipping method"
+#~ msgstr "刪除運送方式"
+
+#~ msgid "Create a new shipping method"
+#~ msgstr "新增運送方式"
+
+#~ msgid "No shipping methods found."
+#~ msgstr "尚未建立運送方式"
+
+#~ msgid "Alert #%(id)s"
+#~ msgstr "提醒 #%(id)s"
+
+#~ msgid "Delete alert #%(id)s?"
+#~ msgstr "是否刪除 #%(id)s？"
+
+#~ msgid "Product alert #%(id)s"
+#~ msgstr "商品提醒 #%(id)s"
+
+#~ msgid "Are you sure that you want to delete this alert?"
+#~ msgstr "你確定要刪除此提醒嗎？"
+
+#~ msgid "Search product alerts"
+#~ msgstr "搜尋商品提醒"
+
+#~ msgid "Date alert sent"
+#~ msgstr "已送出日期提醒"
+
+#~ msgid "No alerts found."
+#~ msgstr "沒有提醒"
+
+#~ msgid "Update alert #%(id)s"
+#~ msgstr "更新提醒 #%(id)s"
+
+#~ msgid "Upload Image"
+#~ msgstr "上傳圖片"
+
+#~ msgid "See more"
+#~ msgstr "看更多"
+
+#~ msgid "Password reset complete"
+#~ msgstr "密碼重設成功"
+
+#~ msgid "Password reset"
+#~ msgstr "密碼重設"
+
+#~ msgid "Complete"
+#~ msgstr "完成"
+
+#~ msgid "Your password has been set.  You may go ahead and log in now."
+#~ msgstr "您的密碼已設定，請直接登入"
+
+#~ msgid "Log in"
+#~ msgstr "登入"
+
+#~ msgid "Enter a new password"
+#~ msgstr "輸入一個新密碼"
+
+#~ msgid ""
+#~ "Please enter your new password twice so we can verify you typed it in "
+#~ "correctly."
+#~ msgstr "請輸入您的新密碼兩次已確保輸入正確"
+
+#~ msgid "Change my password"
+#~ msgstr "變更我的密碼"
+
+#~ msgid "Password reset unsuccessful"
+#~ msgstr "重設密碼失敗"
+
+#~ msgid ""
+#~ "The password reset link was invalid, possibly because it has already been "
+#~ "used.  Please request a new password reset."
+#~ msgstr "這個重設密碼連結是無效的，可能它已經被使用過，請重新請求密碼變更"
+
+#~ msgid "Password reset email sent"
+#~ msgstr "重設密碼電子郵件已發送"
+
+#~ msgid "Email sent"
+#~ msgstr "電子郵件已傳送"
+
+#~ msgid "Send reset email"
+#~ msgstr "傳送重設電子郵件"
+
+#~ msgid "Refine your search"
+#~ msgstr "重寫您的搜尋"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Products matching \"%(q)s\"\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "產品匹配 \"%(q)s\""
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Found <strong>%(num_results)s</strong> results, "
+#~ "showing <strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "找到 <strong>%(num_results)s</strong> 結果, 顯示 <strong>%(start)s</"
+#~ "strong> 到 <strong>%(end)s</strong>."
+
+#~ msgid "Found <strong>0</strong> results."
+#~ msgstr "找到 <strong>0</strong> 結果."
+
+#~ msgid ""
+#~ "\n"
+#~ "                        Did you mean <a href=\"%(search_url)s?q="
+#~ "%(suggestion)s\">\"%(suggestion)s\"</a>?\n"
+#~ "                    "
+#~ msgstr ""
+#~ "\n"
+#~ "您是指 <a href=\"%(search_url)s?q=%(suggestion)s\">\"%(suggestion)s\"</a>?"
+
+#~ msgid "Back to search results"
+#~ msgstr "回到搜尋結果"
+
+#~ msgid "You need to select some %ss"
+#~ msgstr "你需要選擇一些%ss"

@@ -1,0 +1,2461 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# shavlego kapanadze <shavlego91@gmail.com>, 2016,2018
+# Tekle Kapanadze <tekle.kapanadze.1@gmail.com>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-30 19:40+0000\n"
+"Last-Translator: shavlego kapanadze <shavlego91@gmail.com>\n"
+"Language-Team: Georgian (Georgia) (http://www.transifex.com/codeinthehole/"
+"django-oscar/language/ka_GE/)\n"
+"Language: ka_GE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr "დეშბორდი"
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr "კატალოგი"
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "პროდუქტები"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr "პროდუქტის ტიპები"
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "კატეგორიები"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr ""
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr ""
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr ""
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr ""
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "შეკვეთა"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr ""
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr ""
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr ""
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr ""
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr "შეთავაზებები"
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "ვაუჩერები"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr ""
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr ""
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr ""
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr "გვერდები"
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr ""
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr "მიმოხილვები"
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr "რეპორტები"
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr "ტიპი"
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr "რეიტინგი"
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr ""
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr ""
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr ""
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr ""
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr ""
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+#, fuzzy
+#| msgid "Catalogue"
+msgid "Catalan"
+msgstr "კატალოგი"
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+#, fuzzy
+#| msgid "Permalink"
+msgid "German"
+msgstr "დეტალურად"
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr "მუშავდება..."
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr "პროფილი"
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr "გამოსვლა"
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr "შესვლა"
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "კალათა"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+"\n"
+"სულ: %(total)s"
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr "მაღაზიის დათვალიერება"
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "ყველა წიგნი"
+
+#~ msgid "Mr"
+#~ msgstr "ბატონო"
+
+#~ msgid "Miss"
+#~ msgstr "ქალბატონო"
+
+#~ msgid "Mrs"
+#~ msgstr "ქალბატონო"
+
+#~ msgid "Ms"
+#~ msgstr "ქალბატონო"
+
+#~ msgid "Dr"
+#~ msgstr "ბატონო"
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "სათაური"
+
+#~ msgid "First name"
+#~ msgstr "სახელი"
+
+#~ msgid "Last name"
+#~ msgstr "გვარი"
+
+#~ msgid "First line of address"
+#~ msgstr "მისამართი "
+
+#~ msgid "Second line of address"
+#~ msgstr "ალტერნატიული მისამართი"
+
+#~ msgid "Third line of address"
+#~ msgstr "ალტერნატიული მისამართი 2"
+
+#~ msgid "City"
+#~ msgstr "ქალაქი"
+
+#~ msgid "State/County"
+#~ msgstr "რეგიონი/ქვეყანა"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "საფოსტო ინდექსი/ზიპ კოდი"
+
+#~ msgid "Country"
+#~ msgstr "ქვეყანა"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "საძიებო ტექსტი - მხოლოდ ძიებისთვის გამოსაყენებელი"
+
+#~ msgid "Address"
+#~ msgstr "მისამართი"
+
+#~ msgid "Addresses"
+#~ msgstr "მისამართები"
+
+#~ msgid "Addresses in %(country)s require a valid postcode"
+#~ msgstr " %(country)s მისამართი მოითხოვს მოქმედ საფოსტო ინდექსს "
+
+#~ msgid "The postcode '%(postcode)s' is not valid for %(country)s"
+#~ msgstr "საფოსტო ინდექსი '%(postcode)s' არ არის ვალიდური %(country)s"
+
+#~ msgid "Country name"
+#~ msgstr "ქვეყნის სახელი"
+
+#~ msgid "Official name"
+#~ msgstr "ოფიციალური სახელი"
+
+#~ msgid "Display order"
+#~ msgstr "შეკვეთის ჩვენება"
+
+#~ msgid "Is shipping country"
+#~ msgstr "არის გზავნილის მიღების ქვეყანა"
+
+#~ msgid "Countries"
+#~ msgstr "ქვეყნები"
+
+#~ msgid "Phone number"
+#~ msgstr "ტელეფონის ნომერი"
+
+#~ msgid "In case we need to call you about your order"
+#~ msgstr ""
+#~ "გვჭირდება იმისათვის, რომ შეკვეთა მარტივად მოგაწოდოთ (სარეკლამო მესიჯებს "
+#~ "არ გამოგიგზავნით)"
+
+#~ msgid "Instructions"
+#~ msgstr "დამატებითი კომენტარი"
+
+#~ msgid "Tell us anything we should know when delivering your order."
+#~ msgstr ""
+#~ "რა დამატებითი ინფორმაცია უნდა ვიცოდეთ, რომ შეკვეთა მარტივად მოგაწოდოთ? თუ "
+#~ "ეზოში ავი ძაღლია, წინასწარ გაგვაფრთხილეთ :)"
+
+#~ msgid "Shipping address"
+#~ msgstr "მიწოდების მისამართი"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "მიწოდების მისამართები"
+
+#~ msgid "User"
+#~ msgstr "მომხმარებელი"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "ამანათის მიმღების მისამართი"
+
+#~ msgid "Default billing address?"
+#~ msgstr "ანგარიშის ნომერი"
+
+#~ msgid "Date Created"
+#~ msgstr "შექმნის თარიღი"
+
+#~ msgid "User address"
+#~ msgstr "მომხმარებლის მისამართი"
+
+#~ msgid "User addresses"
+#~ msgstr "მომხმარებლის მისამართები"
+
+#~ msgid "This address is already in your address book"
+#~ msgstr "აღნიშნული მისამართი უკვე დაფიქსირებულია მისამართების წიგნში"
+
+#~ msgid "Billing address"
+#~ msgstr "ანგარიშის ნომერი"
+
+#~ msgid "Billing addresses"
+#~ msgstr "ალტერნატიული ანგარიშის ნომრები"
+
+#~ msgid "Partner"
+#~ msgstr "პარტნიორი"
+
+#~ msgid "Partner address"
+#~ msgstr "პარტნიორის მისამართი"
+
+#~ msgid "Partner addresses"
+#~ msgstr "პარტნიორის ალტერნატული მისამართი"
+
+#~ msgid "Product"
+#~ msgstr "პროდუქტი"
+
+#~ msgid "Views"
+#~ msgstr "ნახვები"
+
+#~ msgid "Basket Additions"
+#~ msgstr "კალათაში დამატება"
+
+#~ msgid "Purchases"
+#~ msgstr "შესყიდვები"
+
+#~ msgid "Score"
+#~ msgstr "შეფასება"
+
+#~ msgid "Product record"
+#~ msgstr "პროდუქტის ანგარში"
+
+#~ msgid "Product records"
+#~ msgstr "პროდუქტის ანგარიშები"
+
+#~ msgid "Record for '%s'"
+#~ msgstr "ანგარიში '%s'სთვის"
+
+#~ msgid "Product Views"
+#~ msgstr "პროდუქტის ნახვები"
+
+#~ msgid "Order Lines"
+#~ msgstr "შეკვეთის ხაზი"
+
+#~ msgid "Order Items"
+#~ msgstr "შეკვეთილი მასალები"
+
+#~ msgid "Total Spent"
+#~ msgstr "სულ დახარჯულია"
+
+#~ msgid "Last Order Date"
+#~ msgstr "ბოლო შეკვეთის თარიღი"
+
+#~ msgid "User record"
+#~ msgstr "მომხმარებლის ანგარიში"
+
+#~ msgid "User records"
+#~ msgstr "მომხმარებლის ანგარიშები"
+
+#~ msgid "User product view"
+#~ msgstr "მომხმარებლის პროდუქტის ნახვა"
+
+#~ msgid "User product views"
+#~ msgstr "მომხმარებლის პროდუქტის ნახვები"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "%(user)s ნახეს '%(product)s'"
+
+#~ msgid "Search term"
+#~ msgstr "საძიებო პერიოდი"
+
+#~ msgid "User search query"
+#~ msgstr "მომხმარებლის გამოკითხვა"
+
+#~ msgid "User search queries"
+#~ msgstr "მომხმარებლის კითხვები"
+
+#~ msgid "%(user)s searched for '%(query)s'"
+#~ msgstr "%(user)s ძიება '%(query)s'"
+
+#~ msgid "Analytics"
+#~ msgstr "სტატისტიკა"
+
+#~ msgid "Basket additions"
+#~ msgstr "კალათის დანამატები"
+
+#~ msgid "Product analytics"
+#~ msgstr "პროდუქტის ანალიზი"
+
+#~ msgid "Name"
+#~ msgstr "სახელი"
+
+#~ msgid "Date registered"
+#~ msgstr "რეგისტრაციის თარიღი"
+
+#~ msgid "Product views"
+#~ msgstr "პროდუქტის ნახვები"
+
+#~ msgid "Order lines"
+#~ msgstr "შეკვეთის ხაზი"
+
+#~ msgid "Order items"
+#~ msgstr "შესაკვეთი ნივთები"
+
+#~ msgid "Total spent"
+#~ msgstr "სულ დანახარჯი"
+
+#~ msgid "Date of last order"
+#~ msgstr "ბოლო შეკვეთის თარიღი"
+
+#~ msgid "User analytics"
+#~ msgstr "მომხმარებლის მონაცემები"
+
+#~ msgid "Owner"
+#~ msgstr "მეპატრონე"
+
+#~ msgid "Open - currently active"
+#~ msgstr "გახსენით - ამჟამად აქტიური"
+
+#~ msgid "Merged - superceded by another basket"
+#~ msgstr "შერჩეულია სხვა კალათის მიერ"
+
+#~ msgid "Saved - for items to be purchased later"
+#~ msgstr "შენახულია - მოგვიანებით შესასყიდთა სიაში"
+
+#~ msgid "Frozen - the basket cannot be modified"
+#~ msgstr "შეჩერებულია - კალათა არ არის მოდიფიცირებული"
+
+#~ msgid "Submitted - has been ordered at the checkout"
+#~ msgstr "წარდგენილია - შეკვეთა გამზადებულია გასაგზავნად"
+
+#~ msgid "Status"
+#~ msgstr "სტატუსი"
+
+#~ msgid "Date created"
+#~ msgstr "შექმნის თარიღი"
+
+#~ msgid "Date merged"
+#~ msgstr "შერჩევის თარიღი"
+
+#~ msgid "Date submitted"
+#~ msgstr "თარიღი"
+
+#~ msgid "Baskets"
+#~ msgstr "კალათები"
+
+#~ msgid "%(status)s basket (owner: %(owner)s, lines: %(num_lines)d)"
+#~ msgstr "%(status)s კალათა (owner: %(owner)s, ველები: %(num_lines)d)"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order."
+#~ msgstr ""
+#~ "ტექნიკური ლიმიტის გამო ჩვენ არ შეგვიძლია ერთდროულად %(threshold)d მეტი "
+#~ "ნივთის შესყიდვის გამოწერა."
+
+#~ msgid "Line Reference"
+#~ msgstr "ველის გადამოწმება"
+
+#~ msgid "Quantity"
+#~ msgstr "რაოდენობა"
+
+#~ msgid "Currency"
+#~ msgstr "ვალუტა"
+
+#~ msgid "Price excl. Tax"
+#~ msgstr "ფასი გადასახადებით"
+
+#~ msgid "Price incl. Tax"
+#~ msgstr "ფასი გადასახადების გარეშე"
+
+#~ msgid "Basket line"
+#~ msgstr "კალათის ველი"
+
+#~ msgid "Basket lines"
+#~ msgstr "კალათის ველები"
+
+#~ msgid ""
+#~ "Basket #%(basket_id)d, Product #%(product_id)d, quantity %(quantity)d"
+#~ msgstr ""
+#~ "კალათა #%(basket_id)d, პროდუქტი #%(product_id)d, რაოდენობა %(quantity)d"
+
+#~ msgid "You cannot modify a %s basket"
+#~ msgstr "არ შეგიძლიათ %s კალათის შეცვლა"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has increased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "კალათაში ჩამატების შემდეგ ამ პროდუქტის/ების ფასი %(product)s გაიზარდა "
+#~ "%(old_price)s-დან %(new_price)s-მდე."
+
+#~ msgid ""
+#~ "The price of '%(product)s' has decreased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "კალათაში ჩამატების შემდეგ ამ პროდუქტის/ების %(product)s ფასი შემცირდა "
+#~ "%(old_price)s-დან %(new_price)s-მდე."
+
+#~ msgid "Line"
+#~ msgstr "ველი"
+
+#~ msgid "Option"
+#~ msgstr "არჩევანი"
+
+#~ msgid "Value"
+#~ msgstr "ღირებულება"
+
+#~ msgid "Line attribute"
+#~ msgstr "ხაზის დამახასიათებელი ნიშანი"
+
+#~ msgid "Line attributes"
+#~ msgstr "ხაზის დამახასიათებელი ნიშნები"
+
+#~ msgid "Save for Later"
+#~ msgstr "სხვა დროს შევიძენ"
+
+#~ msgid "Move to Basket"
+#~ msgstr "კალათაში გადატანა"
+
+#~ msgid "Code"
+#~ msgstr "კოდი"
+
+#~ msgid "Variant"
+#~ msgstr "ვარიანტი"
+
+#~ msgid "Please select a valid product"
+#~ msgstr "გთხოვთ მონიშნოთ ვალიდური პროდუქტი"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order. Your basket currently has %(basket)d "
+#~ "items."
+#~ msgstr ""
+#~ "ტექნიკური შეზღუდვების გამო ჩვენ არ შეგვიძლია ერთდროულად მოვახდინოთ  "
+#~ "%(threshold)d მეტი პროდუქტის შესყიდვის გაფორმება ერთდროულად. თქვენს "
+#~ "კალათაში ამ დროისთვის %(basket)d ნივთია"
+
+#~ msgid ""
+#~ "This product cannot be added to the basket as its currency isn't the same "
+#~ "as other products in your basket"
+#~ msgstr ""
+#~ "ამ პროუქტის კალათში დამატება ამ დროისთვის შეუძლებელია რადგან ის "
+#~ "განსხვავდება კალათში არსებული პროდუქტებისგან"
+
+#~ msgid ""
+#~ "We have merged a basket from a previous session. Its contents might have "
+#~ "changed."
+#~ msgstr ""
+#~ "სესიის დრო ამოიწურა. ამით არაფერი დაშავდება, უბრალოდ კიდევ ერთხელ "
+#~ "გადაამოწმეთ კალათა."
+
+#~ msgid "User ID"
+#~ msgstr "მომხმარებლის ID"
+
+#~ msgid "Email"
+#~ msgstr "ელ-ფოსტა"
+
+#~ msgid "Basket status"
+#~ msgstr "კალათის სტატუსი"
+
+#~ msgid "Num items"
+#~ msgstr "რაოდენობა"
+
+#~ msgid "Date of creation"
+#~ msgstr "შექმნის თარიღი"
+
+#~ msgid "Time since creation"
+#~ msgstr "დრო შექმნიდან"
+
+#~ msgid "Open baskets"
+#~ msgstr "გახსენი კალათები"
+
+#~ msgid "Time between creation and submission"
+#~ msgstr "დრო შექმნასა და არჩევას შორის"
+
+#~ msgid "Submitted baskets"
+#~ msgstr "წარმოდგენილი კალათები"
+
+#~ msgid "You can't save an item for later if you're not logged in!"
+#~ msgstr "წიგნის შესანახად, პირველ რიგში, უნდა გაიაროთ ავტორიზაცია!"
+
+#~ msgid ""
+#~ "Your basket couldn't be updated. Please correct any validation errors "
+#~ "below."
+#~ msgstr "თქვენი კალათა ვერ განახლდა. გთხოვთ შეამოწმოთ შენიშვნების ვალიდურობა"
+
+#~ msgid "The '%(code)s' voucher has expired"
+#~ msgstr " '%(code)s' ვაუჩერი ვადაგასულია"
+
+#~ msgid "The '%(code)s' voucher is not active"
+#~ msgstr "'%(code)s'ვაუჩერი არ არის აქტიური"
+
+#~ msgid "Your basket does not qualify for a voucher discount"
+#~ msgstr "თქვენი კალათა არ სარგებლობს ფასდაკლების ვაუჩერით"
+
+#~ msgid "Voucher '%(code)s' added to basket"
+#~ msgstr " '%(code)s' ვაუჩერი დაემატა კალათას "
+
+#~ msgid "You have already added the '%(code)s' voucher to your basket"
+#~ msgstr "ამ დროისთვის '%(code)s' ვაუჩერი დაემატა თქვენს კალათას"
+
+#~ msgid "No voucher found with code '%(code)s'"
+#~ msgstr "კოდით '%(code)s' ვერცერთი ვაუჩერი ვერ მოინახა"
+
+#~ msgid "Please enter a voucher code"
+#~ msgstr "გთხოვთ შეიყვანოთ ვაუჩერის კოდი"
+
+#~ msgid "Voucher '%s' removed from basket"
+#~ msgstr " '%s' ვაუჩერი ამოღებულია თქვენი კალათიდან"
+
+#~ msgid "Slug"
+#~ msgstr "URL-ის დაბოლოება"
+
+#~ msgid "Requires shipping?"
+#~ msgstr "მიტანას საჭიროებს?"
+
+#~ msgid "Description"
+#~ msgstr "აღწერა"
+
+#~ msgid "Image"
+#~ msgstr "სურათი"
+
+#~ msgid "Category"
+#~ msgstr "კატეგორია"
+
+#~ msgid "Product category"
+#~ msgstr "პროდუქტის კატეგორია"
+
+#~ msgid "Product categories"
+#~ msgstr "პროდუქტის კატეგორიები"
+
+#~ msgctxt "Product title"
+#~ msgid "Title"
+#~ msgstr "სათაური"
+
+#~ msgid "Product type"
+#~ msgstr "პროდუქტის ტიპი"
+
+#~ msgid "Recommended products"
+#~ msgstr "ასევე დაგაინტერესებთ"
+
+#~ msgid "Date updated"
+#~ msgstr "განახლების თარიღი"
+
+#~ msgid "A child product needs a parent."
+#~ msgstr "შვილ კატეგორიას უნდა ჰქონდეს მშობელი კატეგორია"
+
+#~ msgid "Ranking"
+#~ msgstr "შეფასება"
+
+#~ msgid "Text"
+#~ msgstr "ტექსტი"
+
+#~ msgid "Integer"
+#~ msgstr "მთელი რიცხვი"
+
+#~ msgid "Date"
+#~ msgstr "თარიღი"
+
+#~ msgid "File"
+#~ msgstr "ფაილი"
+
+#~ msgid "Required"
+#~ msgstr "შევსება აუცილებელია"
+
+#~ msgid "Must be an integer"
+#~ msgstr "აუცილებლად მთელი რიცხვი უნდა იყოს"
+
+#~ msgid "Boolean"
+#~ msgstr "ასარჩევი"
+
+#~ msgid "Richtext"
+#~ msgstr "ტექსტი"
+
+#~ msgid "Group"
+#~ msgstr "ჯგუფი"
+
+#~ msgid "Product image"
+#~ msgstr "პროდუქტის სურათი"
+
+#~ msgid "Product images"
+#~ msgstr "პროდუქტის სურათები"
+
+#~ msgctxt "Product review title"
+#~ msgid "Title"
+#~ msgstr "სათაური"
+
+#~ msgid "Body"
+#~ msgstr "შინაარსი"
+
+#~ msgctxt "Anonymous reviewer name"
+#~ msgid "Name"
+#~ msgstr "სახელი"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Requires moderation"
+#~ msgstr "ესაჭიროება მოდერაცია"
+
+#~ msgid "Approved"
+#~ msgstr "დადასტურებული"
+
+#~ msgid "Rejected"
+#~ msgstr "უარყოფილი"
+
+#~ msgid "Total Votes"
+#~ msgstr "ჯამური შეფასება"
+
+#~ msgid "Product review"
+#~ msgstr "მიმოხილვა"
+
+#~ msgid "Product reviews"
+#~ msgstr "პროდუქტის მიმოხილვები"
+
+#~ msgid "Anonymous reviews must include a name and an email"
+#~ msgstr ""
+#~ "ანონიმური შეფასების დასატოვებლად იმეილისა და სახელის ჩაწერა აუცილებელია."
+
+#~ msgid "anonymous"
+#~ msgstr "ანონიმური"
+
+#~ msgid "Only signed in users can vote"
+#~ msgstr "მხოლოდ ავტორიზებულ მომხმარებლებს შეუძლიათ ხმის მიცემა."
+
+#~ msgid "Up"
+#~ msgstr "ზემოთ"
+
+#~ msgid "Down"
+#~ msgstr "ქვემოთ"
+
+#~ msgid "Vote"
+#~ msgstr "ხმის მიცემა"
+
+#~ msgid "Votes"
+#~ msgstr "ხმა"
+
+#~ msgid "You cannot vote on your own reviews"
+#~ msgstr "თქვენ არ შეგიძლიათ საკუთარ მიმოხილვაზე ხმის მიცემა."
+
+#~ msgid "Only signed-in users can vote on reviews"
+#~ msgstr "მხოლოდ ავტორიზებულ მომხმარებლებს შეუძლიათ მიმოხილვაზე ხმის მიცემა."
+
+#~ msgid "You can only vote once on a review"
+#~ msgstr "ერთ მიმოხილვაზე მხოლოდ ერთი ხმის მიცემა შეგიძლიათ."
+
+#~ msgid "Catalogue reviews"
+#~ msgstr "კატალოგის მიმოხილვები"
+
+#~ msgid "Recency"
+#~ msgstr "ცოტა ხნის წინ"
+
+#~ msgid "Sort by"
+#~ msgstr "სორტირება"
+
+#~ msgid "You have already reviewed this product!"
+#~ msgstr "თქვენ უკვე დაწერილი გაქვთ ამ წიგნის მიმოხილვა!"
+
+#~ msgid "You can't leave a review for this product."
+#~ msgstr "თქვენ არ შეგიძლიათ მიმოხილვის დაწერა ამ პროდუქტზე."
+
+#~ msgid "Thank you for reviewing this product"
+#~ msgstr ""
+#~ "მადლობა, ბუკინისტური სიტყვა რომ შეგვაწიეთ! ვიმედოვნებთ, რომ თქვენი "
+#~ "მიმოხილვა ბევრს დაეხმარება!"
+
+#~ msgid "Thanks for voting!"
+#~ msgstr "მადლობა შეფასებისთვის!"
+
+#~ msgid "The given page number was invalid."
+#~ msgstr "მოცემული გვერდის ნომერი არასწორია."
+
+#~ msgid "Checkout"
+#~ msgstr "ანგარიშსწორება"
+
+#~ msgid "My email address is"
+#~ msgstr "ჩემი ელ-ფოსტის მისამართი"
+
+#~ msgid "I am a new customer and want to checkout as a guest"
+#~ msgstr ""
+#~ "მე ახალი მომხმარებელი ვარ და მირჩევნია, რომ ანგარიშსწორება სტუმრის "
+#~ "სტატუსით მოვახდინო."
+
+#~ msgid ""
+#~ "I am a new customer and want to create an account before checking out"
+#~ msgstr ""
+#~ "მე ახალი მომხმარებელი ვარ და მირჩევნია, რომ ანგარიშსწორება საიტზე "
+#~ "რეგისტრაციის შემდეგ მოვახდინო."
+
+#~ msgid "I am a returning customer, and my password is"
+#~ msgstr "მე საიტზე უკვე დარეგისტრირებული ვარ, ჩემი პაროლია:"
+
+#~ msgid "A user with that email address already exists"
+#~ msgstr "ეს ელ-ფოსტა უკვე გამოყენებული აქვს სხვა მომხმარებელს."
+
+#~ msgid "You need to add some items to your basket to checkout"
+#~ msgstr ""
+#~ "კალათა ცარიელია. ჩაამატეთ რისი შეძენაც გსურთ, სანამ ანგარიშსწორებას "
+#~ "მოითხოვთ."
+
+#~ msgid ""
+#~ "'%(title)s' is no longer available to buy (%(reason)s). Please adjust "
+#~ "your basket to continue"
+#~ msgstr ""
+#~ " ეს პროდუქტი/ები \"%(title)s\" ამ ეტაპზე ხელმიუწვდომელია (%(reason)s). "
+#~ "ოპერაციის გასაგრძელებლად გთხოვთ განაახლოთ კალათა."
+
+#~ msgid "Please either sign in or enter your email address"
+#~ msgstr "გაიარეთ ავტორიზაცია ან ჩაწერეთ თქვენი ელ-ფოსტის მისამართი."
+
+#~ msgid "Please choose a shipping address"
+#~ msgstr "გთხოვთ აირჩიოთ შეკვეთის მიმღების მისამართი."
+
+#~ msgid ""
+#~ "Your previously chosen shipping address is no longer valid.  Please "
+#~ "choose another one"
+#~ msgstr ""
+#~ "თქვენს მიერ ბოლოს მითითებული მისამართი აღარ არის ვალიდური, გთხოვთ აირჩიოთ/"
+#~ "მიუთითოთ სხვა მისამართი."
+
+#~ msgid "Please choose a shipping method"
+#~ msgstr "მიტანის სერვისი"
+
+#~ msgid ""
+#~ "Your previously chosen shipping method is no longer valid.  Please choose "
+#~ "another one"
+#~ msgstr ""
+#~ "თქვენს მიერ ბოლოს არჩეული მიტანის მეთოდის პირობები შეიცვალა. ამიტომ "
+#~ "გთხოვთ აირჩიოთ თავიდან."
+
+#~ msgid ""
+#~ "Create your account and then you will be redirected back to the checkout "
+#~ "process"
+#~ msgstr ""
+#~ "დარეგისტრირდით, რეგისტრაციის შემდეგ თქვენ ისევ ანგარიშსწორების გვერდზე "
+#~ "გადმომისამართდებით და არ დაგეკარგებათ ეს გვერდი."
+
+#~ msgid "Address saved"
+#~ msgstr "მისამართი შენახულია"
+
+#~ msgid "Address deleted"
+#~ msgstr "მისამართი წაიშალა"
+
+#~ msgid ""
+#~ "Shipping is unavailable for your chosen address - please choose another"
+#~ msgstr "მიტანა შეუძლებელია ამ მისამართზე, გთხოვთ მიუთითოთ სხვა მისამართი."
+
+#~ msgid "Your submitted shipping method is not permitted"
+#~ msgstr "თქვენ მიერ შერჩეული მიტანის მეთოდი არ არის ნებადართული"
+
+#~ msgid ""
+#~ "A problem occurred while processing payment for this order - no payment "
+#~ "has been taken.  Please contact customer services if this problem persists"
+#~ msgstr ""
+#~ "შეკვეთაზე გადახდის დროს დაფიქსირდა შეცდომა - გადახდა არ განხორციელებულა. "
+#~ "გთხოვთ მიმართოთ ტექნიკური მხარდაჭერის ოპერატორს."
+
+#~ msgid "No order found"
+#~ msgstr "შეკვეთა ვერ მოიძებნა"
+
+#~ msgid "email address"
+#~ msgstr "ელ-ფოსტის მისამართი"
+
+#~ msgid "Active"
+#~ msgstr "აქტიური"
+
+#~ msgid "Users"
+#~ msgstr "მომხმარებლები"
+
+#~ msgid "Subject"
+#~ msgstr "დანიშნულება"
+
+#~ msgid "Emails"
+#~ msgstr "ელ-ფოსტები"
+
+#~ msgid "Date Updated"
+#~ msgstr "განახლების თარიღი"
+
+#~ msgid "Inbox"
+#~ msgstr "შემომავალი"
+
+#~ msgid "Archive"
+#~ msgstr "არქივი"
+
+#~ msgid "Notification"
+#~ msgstr "შეტყობინება"
+
+#~ msgid "Notifications"
+#~ msgstr "შეტყობინებები"
+
+#~ msgid "Not yet confirmed"
+#~ msgstr "ჯერ არ დადასტურებულა"
+
+#~ msgid "Cancelled"
+#~ msgstr "უარყოფილი"
+
+#~ msgid "Closed"
+#~ msgstr "დახურული"
+
+#~ msgid "Date confirmed"
+#~ msgstr "დადასტურების დრო"
+
+#~ msgid "Date cancelled"
+#~ msgstr "უარყიფის დრო"
+
+#~ msgid "Date closed"
+#~ msgstr "დახურვის თარიღი"
+
+#~ msgid "Customer"
+#~ msgstr "მომხმარებელი"
+
+#~ msgid "Email address"
+#~ msgstr "ელ-ფოსტის მისამართი"
+
+#~ msgid "Password"
+#~ msgstr "პაროლი"
+
+#~ msgid "The entered password is not valid!"
+#~ msgstr "პაროლი არავალიდურია!"
+
+#~ msgid "Confirm password"
+#~ msgstr "გაიმეორეთ პაროლი"
+
+#~ msgid "The two password fields didn't match."
+#~ msgstr "პირველ და მეორე ველში ჩაწერილი პაროლები არ ემთხვევა ერთმანეთს."
+
+#~ msgctxt "start date"
+#~ msgid "From"
+#~ msgstr "დან"
+
+#~ msgctxt "end date"
+#~ msgid "To"
+#~ msgstr "მდე"
+
+#~ msgid "Order number"
+#~ msgstr "შეკვეთის ნომერი"
+
+#~ msgid "At least one field is required."
+#~ msgstr "ერთი ან ერთზე მეტი ველის შევსება სავალდებულოა."
+
+#~ msgid "All orders"
+#~ msgstr "ყველა შეკვეთა"
+
+#~ msgid ""
+#~ "Orders placed between %(date_from)s and %(date_to)s and order number "
+#~ "containing %(order_number)s"
+#~ msgstr ""
+#~ "განხორციელებული შეკვეთები მოცემული თარიღის მიხედვით %(date_from)s - "
+#~ "%(date_to)s | შეკვეთის ნომერი: %(order_number)s"
+
+#~ msgid "Orders placed between %(date_from)s and %(date_to)s"
+#~ msgstr ""
+#~ "განხორციელებული შეკვეთები მოცემული თარიღის მიხედვით %(date_from)s - "
+#~ "%(date_to)s"
+
+#~ msgid ""
+#~ "Orders placed since %(date_from)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "განხორციელებული შეკვეთები %(date_from)s-თარიღიდან და შეკვეთის ნომერი: "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed since %(date_from)s"
+#~ msgstr "განხორციელებული შეკვეთები ამ თარიღის შემდეგ: %(date_from)s"
+
+#~ msgid ""
+#~ "Orders placed until %(date_to)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "განხორციელებული შეკვეთები %(date_to)s-თარიღამდე და შეკვეთის ნომერი: "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed until %(date_to)s"
+#~ msgstr "განხორციელებული შეკვეთები ამ თარიღამდე: %(date_to)s"
+
+#~ msgid "Orders with order number containing %(order_number)s"
+#~ msgstr "განხორციელებული შეკვეთები ამ ნომრით: %(order_number)s"
+
+#~ msgid "A user with this email address already exists"
+#~ msgstr "მომხმარებელი ამ ელ-ფოსტით უკვე არსებობს"
+
+#~ msgid "Send notification to"
+#~ msgstr "შეტყობინების გაგზავნა"
+
+#~ msgid "Enter your email"
+#~ msgstr "ჩაწერეთ თქვენი ელ-ფოსტა"
+
+#~ msgid "You already have an active alert for this product"
+#~ msgstr "ამ პროდუქტის თაობაზე უკვე გაფრთხილებული ხართ"
+
+#~ msgid "Welcome back"
+#~ msgstr "კეთილი იყოს თქვენი დაბრუნება!"
+
+#~ msgid "Thanks for registering!"
+#~ msgstr "მადლობა რეგისტრაციისთვის!"
+
+#~ msgid "Profile"
+#~ msgstr "პროფილი"
+
+#~ msgid "Edit Profile"
+#~ msgstr "პროფილის რედაქტირება"
+
+#~ msgid "Profile updated"
+#~ msgstr "პროფილი განახლებულია"
+
+#~ msgid "Delete profile"
+#~ msgstr "პროფილის წაშლა"
+
+#~ msgid "Your profile has now been deleted. Thanks for using the site."
+#~ msgstr "თქვენი ანგარიში გაუქმებულია. მადლობა, რო ჩვენი საიტით სარგებლობდით!"
+
+#~ msgid "Change Password"
+#~ msgstr "პაროლის შეცვლა"
+
+#~ msgid "Password updated"
+#~ msgstr "პაროლი განახლებულია"
+
+#~ msgid "Order History"
+#~ msgstr "შეკვეთების ისტორია"
+
+#~ msgid "Order"
+#~ msgstr "შეკვეთა"
+
+#~ msgid ""
+#~ "All available lines from order %(number)s have been added to your basket"
+#~ msgstr ""
+#~ "შეკვეთის (%(number)s) ყველა ხელმისაწვდომი პროდუქტი თავიდან ჩაემატა თქვენს "
+#~ "კალათაში."
+
+#~ msgid ""
+#~ "It is not possible to re-order order %(number)s as none of its lines are "
+#~ "available to purchase"
+#~ msgstr ""
+#~ "შეკვეთის (%(number)s) განმეორება შეუძლებელია, რადგან აღნიშნული პროდუქტები "
+#~ "აღარ არის მარაგში"
+
+#~ msgid "%(qty)d copies of '%(product)s' have been added to your basket"
+#~ msgstr "%(product)s-ის %(qty)d ასლი დაემატა თქვენს კალათას."
+
+#~ msgid "'%s' has been added to your basket"
+#~ msgstr "%s ჩაემატა კალათაში"
+
+#~ msgid "Address Book"
+#~ msgstr "მისამართები"
+
+#~ msgid "Add a new address"
+#~ msgstr "ახალი მისამართის დამატება"
+
+#~ msgid "Address '%s' created"
+#~ msgstr "მისამართი %s შექმნილია"
+
+#~ msgid "Edit address"
+#~ msgstr "მისამართის ჩასწორება"
+
+#~ msgid "Address '%s' updated"
+#~ msgstr "მისამართი %s განახლებულია"
+
+#~ msgid "Delete address?"
+#~ msgstr "გსურთ მისამართის წაშლა?"
+
+#~ msgid "Address '%s' deleted"
+#~ msgstr "მისამართი %s წაიშალა"
+
+#~ msgid "We do not ship to this country"
+#~ msgstr "ამ ქვეყანაში მიტანის სერვისი არ გვაქვს"
+
+#~ msgid "Wish Lists"
+#~ msgstr "ჩანიშნულები"
+
+#~ msgid "Quantities updated."
+#~ msgstr "რაოდენობები განახლებულია."
+
+#~ msgid "Create a new wish list"
+#~ msgstr "ახალი სიის შექმნა"
+
+#~ msgid "The requested product no longer exists"
+#~ msgstr "აღნიშნული პროდუქტი აღარ არის ხელმისაწვდომი"
+
+#~ msgid "Your wishlist has been created and '%(name)s has been added"
+#~ msgstr "%(name)s ჩამატებულია ახალ სიაში"
+
+#~ msgid "Your wishlist has been created"
+#~ msgstr "თქვენი სია შექმნილია"
+
+#~ msgid "%(title)s has been added to your wishlist"
+#~ msgstr "%(title)s შენახულია"
+
+#~ msgid "Your '%s' wishlist has been updated"
+#~ msgstr "\"%s\" განახლებულია"
+
+#~ msgid "Delete %s"
+#~ msgstr "წაშალე %s"
+
+#~ msgid "Your '%s' wish list has been deleted"
+#~ msgstr "\"%s\" წაიშალა"
+
+#~ msgid "'%s' was added to your wish list."
+#~ msgstr "\"%s\" ჩაემატა სიაში"
+
+#~ msgid "Remove %s"
+#~ msgstr "წაშალე %s"
+
+#~ msgid "'%(title)s' was removed from your '%(name)s' wish list"
+#~ msgstr "\"%(title)s\" წაიშალა თქვენი სიიდან \"%(name)s\""
+
+#~ msgid "'%(title)s' moved to '%(name)s' wishlist"
+#~ msgstr "\"%(title)s\" გადავიდა \"%(name)s\" სიაში "
+
+#~ msgid "Product title"
+#~ msgstr "პროდუქტის დასახელება"
+
+#~ msgid "Title"
+#~ msgstr "სათაური"
+
+#~ msgid "Product search results"
+#~ msgstr "ძიების შედეგები"
+
+#~ msgid "Add a new category"
+#~ msgstr "კკატეგორიის დამატება"
+
+#~ msgid "Update category '%s'"
+#~ msgstr "განაახლე კატეოგრია '%s'"
+
+#~ msgid "Category updated successfully"
+#~ msgstr "კატეგორია წარმატებით განახლდა"
+
+#~ msgid "Start date"
+#~ msgstr "დაწყების თარიღი"
+
+#~ msgid "End date"
+#~ msgstr "დასრულების თარიღი"
+
+#~ msgid "Order date"
+#~ msgstr "შეკვეთის თარიღი"
+
+#~ msgid "Order total"
+#~ msgstr "შეკვეთის ჯამური ღირებულება"
+
+#~ msgid "All offers"
+#~ msgstr "ყველა შეთავაზება"
+
+#~ msgid "Offer '%s' updated"
+#~ msgstr "ფასდაკლება '%s' განახლებულია"
+
+#~ msgid "Product name"
+#~ msgstr "პროდუქტის სახელი"
+
+#~ msgid "Date from"
+#~ msgstr "თარიღიდან"
+
+#~ msgid "Date to"
+#~ msgstr "თარიღამდე"
+
+#~ msgid "Voucher code"
+#~ msgstr "ვაუჩერის კოდი"
+
+#~ msgid "Payment method"
+#~ msgstr "გადახდის მეთოდი"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "CSV"
+#~ msgstr "CSV"
+
+#~ msgid "Get results as"
+#~ msgstr "რა ფორმატში გსურთ შედეგების ამოღება?"
+
+#~ msgid "Invalid action"
+#~ msgstr "არასწორი ქმედება"
+
+#~ msgid ""
+#~ "Delivery address updated:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "მიტანის მისამართი განახლებულია:\n"
+#~ "%s"
+
+#~ msgid "Delivery address updated"
+#~ msgstr "მიტანის მისამართი განახლებულია"
+
+#~ msgctxt "Page title"
+#~ msgid "Title"
+#~ msgstr "სათაური"
+
+#~ msgid "All pages"
+#~ msgstr "ყველა გვერდი"
+
+#~ msgid "Create New Page"
+#~ msgstr "ახალი გვერდის შექმნა"
+
+#~ msgctxt "Partner's name"
+#~ msgid "Name"
+#~ msgstr "სახელი"
+
+#~ msgid "Create user"
+#~ msgstr "მომხმარებლის შექმნა"
+
+#~ msgid "Download"
+#~ msgstr "გადმოწერა"
+
+#~ msgctxt "User's name"
+#~ msgid "Name"
+#~ msgstr "სახელი"
+
+#~ msgid "All users"
+#~ msgstr "ყველა მომხმარებელი"
+
+#~ msgid "A password reset email has been sent"
+#~ msgstr "პაროლის განახლების შტყობინება გაგზავნილია იმეილზე"
+
+#~ msgid "Product alert saved"
+#~ msgstr "გაფრთხილება შენახულია"
+
+#~ msgid "Product alert deleted"
+#~ msgstr "გაფრთხილება წაშლილია"
+
+#~ msgid "Vouchers dashboard"
+#~ msgstr "ვაუჩერების დაფა"
+
+#~ msgid "Voucher updated"
+#~ msgstr "ვაუჩერის განახლებულია"
+
+#~ msgid "Voucher deleted"
+#~ msgstr "ვაუჩერი წაშლილია"
+
+#~ msgid "Condition"
+#~ msgstr "მდგომარეობა"
+
+#~ msgid "Total Discount"
+#~ msgstr "ჯამური ფასდაკლება"
+
+#~ msgid "Number of Orders"
+#~ msgstr "შეკვეთების რაოდენობა"
+
+#~ msgid "Conditions"
+#~ msgstr "მდგომარეობა"
+
+#~ msgid "Is public?"
+#~ msgstr "საჯაროა?"
+
+#~ msgid "Size"
+#~ msgstr "ზომა"
+
+#~ msgid "Offer"
+#~ msgstr "შეთავაზება"
+
+#~ msgid "Total discount"
+#~ msgstr "ჯამური ფასდაკლება"
+
+#~ msgid "Order total (inc. tax)"
+#~ msgstr "შეკვეთის ჯამური ღირებულება"
+
+#~ msgid "Order total (excl. tax)"
+#~ msgstr "შეკვეთის ჯამური ღირებულება"
+
+#~ msgid "Shipping method"
+#~ msgstr "მიტანის სერვისი"
+
+#~ msgid "Message"
+#~ msgstr "შეტყობინება"
+
+#~ msgid "Price (excl. tax)"
+#~ msgstr "ფასი"
+
+#~ msgid "Price before discounts (excl. tax)"
+#~ msgstr "თავდაპირველი ფასი"
+
+#~ msgid "Total incl. tax"
+#~ msgstr "სულ"
+
+#~ msgid "Cost Price"
+#~ msgstr "ღირებულება"
+
+#~ msgid "Number in stock"
+#~ msgstr "მარაგის რაოდენობა"
+
+#~ msgid "Stock Record"
+#~ msgstr "მარაგის ჩანაწერი"
+
+#~ msgid "Threshold"
+#~ msgstr "ზღვარი"
+
+#~ msgid "Open"
+#~ msgstr "გაღება"
+
+#~ msgid "unavailable"
+#~ msgstr "მიუწვდომელი"
+
+#~ msgid "Unavailable"
+#~ msgstr "მიუწვდომელი"
+
+#~ msgid "Available"
+#~ msgstr "ხელმისაწვდომი"
+
+#~ msgid "no stock available"
+#~ msgstr "მარაგი არ არის ხელმისაწვდომი"
+
+#~ msgid "In stock"
+#~ msgstr "გაყიდვაშია"
+
+#~ msgid "In stock (%d available)"
+#~ msgstr "გაყიდვაშია (ხელმისაწვდომია %d)"
+
+#~ msgid "%s does not exist"
+#~ msgstr "%s არ არსებობს"
+
+#~ msgid "%s is not a file"
+#~ msgstr "%s არ არის ფაილი"
+
+#~ msgid "%s is not readable"
+#~ msgstr "%s არ არის წაკითხვადი"
+
+#~ msgid "Source"
+#~ msgstr "რესურსი"
+
+#~ msgid "Transaction"
+#~ msgstr "ტრანზაქცია"
+
+#~ msgid "Transactions"
+#~ msgstr "ტრანზაქციები"
+
+#~ msgid "Source Type"
+#~ msgstr "რესურსის ტიპი"
+
+#~ msgid "Sources"
+#~ msgstr "რესურსები"
+
+#~ msgid "Payment"
+#~ msgstr "გადახდა"
+
+#~ msgid "Clicks"
+#~ msgstr "კლიკები"
+
+#~ msgid "Page URL"
+#~ msgstr "გვერდის URL"
+
+#~ msgid "Filter"
+#~ msgstr "ფილტრი"
+
+#~ msgid "Keywords"
+#~ msgstr "საკვანძო სიტყვები"
+
+#~ msgid "Display type"
+#~ msgstr "საჩვენებელი ტიპი"
+
+#~ msgctxt "Promotion product list title"
+#~ msgid "Title"
+#~ msgstr "სათაური"
+
+#~ msgctxt "Tabbed block title"
+#~ msgid "Title"
+#~ msgstr "სათაური"
+
+#~ msgid "Relevancy"
+#~ msgstr "დალაგება"
+
+#~ msgid "Customer rating"
+#~ msgstr "მომხმარებლის შეფასება"
+
+#~ msgid "Price high to low"
+#~ msgstr "ფასი მაღლიდან დაბლისკენ"
+
+#~ msgid "Price low to high"
+#~ msgstr "ფასი დაბლიდან მაღლისკენ"
+
+#~ msgid "Title A to Z"
+#~ msgstr "სათაური ა დან ჰ-მდე"
+
+#~ msgid "Title Z to A"
+#~ msgstr "სათაური ჰ დან ა-მდე"
+
+#~ msgid "Shipping Method"
+#~ msgstr "მიტანის სერვისი"
+
+#~ msgid "Shipping"
+#~ msgstr "მიწოდება"
+
+#~ msgid "Free shipping"
+#~ msgstr "უფასო მიწოდება"
+
+#~ msgid "You have already used this voucher in a previous order"
+#~ msgstr "ეს ვაუჩერი უკვე გამოყენებული გაქვთ"
+
+#~ msgid "Added to a basket"
+#~ msgstr "დაემატა კალათაში"
+
+#~ msgid "Default"
+#~ msgstr "ვგეგმავ წაკითხვას"
+
+#~ msgid "This is not a valid international phone format."
+#~ msgstr "ეს ნომერი არ არსი ვალიდური."
+
+#~ msgid "This is not a valid local or international phone format."
+#~ msgstr "ტელეფონის ნომერი არ არის ვალიდური."
+
+#~ msgid "Server error!"
+#~ msgstr "სერვერული შეცდომა!"
+
+#~ msgid "Home"
+#~ msgstr "მთავარი"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(title)s</strong> has been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> ჩაემატა კალათაში."
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been moved back to your basket.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> დაბრუნდა კალათაში. \n"
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been saved for later\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> შენახულია შემდეგში შესაძენ წიგნებში\n"
+
+#~ msgid "Your basket is now empty"
+#~ msgstr "თქვენი კალათა დაცარიელდა"
+
+#~ msgid ""
+#~ "\n"
+#~ "            Your basket total is now <strong>%(total)s</strong>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "კალათის ჯამური ღირებულება <strong>%(total)s</strong>"
+
+#~ msgid "View basket"
+#~ msgstr "კალათის ნახვა"
+
+#~ msgid "Checkout now"
+#~ msgstr "გადახდა"
+
+#~ msgid "Items to buy now"
+#~ msgstr "წიგნები"
+
+#~ msgid "Price"
+#~ msgstr "ფასი"
+
+#~ msgid "Total"
+#~ msgstr "სულ"
+
+#~ msgid "Updating..."
+#~ msgstr "ახლდება..."
+
+#~ msgid "Update"
+#~ msgstr "განახლება"
+
+#~ msgid "Save for later"
+#~ msgstr "სხვა დროს შევიძენ"
+
+#~ msgid "Voucher/promo code"
+#~ msgstr "ვაუჩერი/პრომო კოდი"
+
+#~ msgid "I have a voucher code..."
+#~ msgstr "ვაუჩერის კოდი მაქვს..."
+
+#~ msgid "Adding..."
+#~ msgstr "ემატება..."
+
+#~ msgid "Add voucher"
+#~ msgstr "ვაუჩერის შემოწმება"
+
+#~ msgid "or"
+#~ msgstr "ან"
+
+#~ msgid "cancel"
+#~ msgstr "გაუქმება"
+
+#~ msgid "Totals"
+#~ msgstr "ღირებულება"
+
+#~ msgid "Proceed to checkout"
+#~ msgstr "შეკვეთის დაწყება"
+
+#~ msgid "Your basket is empty."
+#~ msgstr "კალათა ცარიელია."
+
+#~ msgid "Continue shopping"
+#~ msgstr "მთავარ გვერდზე გადასვლა"
+
+#~ msgid "Items to buy later"
+#~ msgstr "შემდეგში შესაძენი წიგნები"
+
+#~ msgid "Items"
+#~ msgstr "წიგნები"
+
+#~ msgid "Move to basket"
+#~ msgstr "კალათაში გადატანა"
+
+#~ msgid "Qty"
+#~ msgstr "რაოდ."
+
+#~ msgid "Total:"
+#~ msgstr "სულ:"
+
+#~ msgid "Basket total (before discounts)"
+#~ msgstr "კალათის ჯამური ღირებულება (ფასდაკლებამდე)"
+
+#~ msgid "Discount"
+#~ msgstr "ფასდაკლება"
+
+#~ msgid "Basket total (after discounts)"
+#~ msgstr "კალათის ჯამური ღირებულება (ფასდაკლებამდე)"
+
+#~ msgid "Basket total"
+#~ msgstr "კალათის ღირებულება"
+
+#~ msgid "Alternative shipping methods can be chosen during checkout"
+#~ msgstr "მიწოდების სხვა ტიპები შეგიძლიათ აირჩიოთ გადახდის პროცესში."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> წიგნიდან - ნაჩვენებია <strong>%(start)s</"
+#~ "strong>-დან <strong>%(end)s</strong>-ის ჩათვლით."
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> წიგნიდან - ნაჩვენებია <strong>%(start)s</"
+#~ "strong>-დან <strong>%(end)s</strong>-ის ჩათვლით."
+
+#~ msgid "Product Description"
+#~ msgstr "აღწერა"
+
+#~ msgid "Product Information"
+#~ msgstr "დეტალები"
+
+#~ msgid "Price (incl. tax)"
+#~ msgstr "ფასი"
+
+#~ msgid "Availability"
+#~ msgstr "მარაგი"
+
+#~ msgid "Number of reviews"
+#~ msgstr "მიმოხილვების რაოდენობა"
+
+#~ msgid "Customer Reviews"
+#~ msgstr "მიმოხილვები"
+
+#~ msgid ""
+#~ "This product does not have any reviews yet -\n"
+#~ "                            <a href=\"%(add_review_url)s#addreview\">be "
+#~ "the first to write one</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "წიგნს ჯერ არცერთი მიმოხილვა არ აქვს. \n"
+#~ "იცნობ ამ წიგნს? <a href=\"%(add_review_url)s#addreview\">დაგვიტოვე "
+#~ "მიმოხილვა</a>."
+
+#~ msgid "This product does not have any reviews yet"
+#~ msgstr ""
+#~ "იცნობ ამ წიგნს? მაშინ გაგვიზიარე შენი აზრი, დატოვე მიმოხილვა და გახდი "
+#~ "ბუკინისტური კომუნის წევრი."
+
+#~ msgid "Add to basket"
+#~ msgstr "კალათაში დამატება"
+
+#~ msgid "Add to wish list"
+#~ msgstr "სურვილების სიაში დამატება"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                            Add to '%(name)s' wish list\n"
+#~ "                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "ჩაამატეთ სიაში: '%(name)s'"
+
+#~ msgid "Create a new wishlist"
+#~ msgstr "ახალი სიის შექმნა"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <span class=\"pull-left\">Product is in <a href="
+#~ "\"%(url)s\">'%(name)s'</a> wishlist.</span>\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "<span class=\"pull-left\">წიგნი შენახულია სიაში: </span><a href=\"%(url)s"
+#~ "\">'%(name)s'</a>"
+
+#~ msgid "Removing..."
+#~ msgstr "იშლება..."
+
+#~ msgid "Please login to add products to a wish list."
+#~ msgstr "პროდუქტის სურვილების სიაში ჩასამატებლად გთხოვთ გაიაროთ ავტორიზაცია"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Reviewed by you on %(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "განხილულია შენს მიერ %(review_date)s"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Reviewed by <strong>%(name)s</strong> on "
+#~ "%(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "ავტორი: <strong>%(name)s</strong> თარიღი: %(review_date)s"
+
+#~ msgid "Is this review helpful?"
+#~ msgstr "სასარგებლო იყო ეს მიმოხილვა თქვენთვის?"
+
+#~ msgid "Yes"
+#~ msgstr "დიახ"
+
+#~ msgid "No"
+#~ msgstr "არა"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customer "
+#~ "found this useful\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customers "
+#~ "found this useful\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(num_up_votes)s</strong>-დან %(num_votes)s-მა მომხმარებელმა "
+#~ "აღნიშნა, რომ ეს მიმოხილვა სასარგებლოა."
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(num_up_votes)s</strong>-დან %(num_votes)s-მა მომხმარებელმა "
+#~ "აღნიშნა, რომ ეს მიმოხილვა სასარგებლოა."
+
+#~ msgid "This review has no votes."
+#~ msgstr "ეს მიმოხილვა ჯერ არავის შეუფასებია."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer review\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer reviews\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "%(num_reviews)s მიმოხილვა"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "%(num_reviews)s მიმოხილვა"
+
+#~ msgid "Write a review"
+#~ msgstr "დაწერე მიმოხილვა"
+
+#~ msgid "Customer reviews"
+#~ msgstr "მიმოხილვები"
+
+#~ msgid "Leave a product review"
+#~ msgstr "დაგვიტოვეთ მიმოხილვა"
+
+#~ msgid "Saving..."
+#~ msgstr "ინახება..."
+
+#~ msgid "Save review"
+#~ msgstr "შენახვა"
+
+#~ msgid "This product does not have any reviews yet."
+#~ msgstr "ამ წიგნის მიმოხილვა ჯერ არავის დაუწერია."
+
+#~ msgid "Edit order contents"
+#~ msgstr "შკევეთის რედაქტირება"
+
+#~ msgid "Order contents"
+#~ msgstr "შეკვეთილი პროდქუტი/ები"
+
+#~ msgid "Item"
+#~ msgstr "ნივთი"
+
+#~ msgid "Who are you?"
+#~ msgstr "შენ ვინ ხარ?"
+
+#~ msgid "Continue"
+#~ msgstr "გაგრძელება"
+
+#~ msgid "1. Shipping address"
+#~ msgstr "1. მიწოდების მისამართი"
+
+#~ msgid "2. Shipping method"
+#~ msgstr "2. მიწოდების მეთოდი"
+
+#~ msgid "3. Payment"
+#~ msgstr "3. გადახდა"
+
+#~ msgid "4. Preview"
+#~ msgstr "4. შეჯამება"
+
+#~ msgid "5. Confirmation"
+#~ msgstr "5. დადასტურება"
+
+#~ msgid "Payment details"
+#~ msgstr "გადახდის დეტალები"
+
+#~ msgid "Enter payment details"
+#~ msgstr "ჩაწერეთ გადახდის დეტალები"
+
+#~ msgid "Order preview"
+#~ msgstr "შეკვეთის გადახედვა"
+
+#~ msgid "Preview order"
+#~ msgstr "შეკვეთის გადახედვა"
+
+#~ msgid "Place order"
+#~ msgstr "შეკვეთის განთავსება"
+
+#~ msgid "Where should we ship to?"
+#~ msgstr "სად მიგვაქვს შეკვეთა?"
+
+#~ msgid "An address from your address book?"
+#~ msgstr "მისამართს არსებული მისამართებიდან შეარჩევთ?"
+
+#~ msgid "Ship to this address"
+#~ msgstr "გავაგზავნოთ ამ მისამართზე"
+
+#~ msgid "Or a new address?"
+#~ msgstr "თუ ახალ მისამართს დაამატებთ?"
+
+#~ msgid "return to basket"
+#~ msgstr "კალათაში დაბრუნება"
+
+#~ msgid "Select option"
+#~ msgstr "აირჩიეთ პარამეტრები"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s: confirmation\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "თქვენი შეკვეთა #%(number)s წარმატებით გამოიგზავნა!"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Your order has been placed and a confirmation email has been sent "
+#~ "- your order number is\n"
+#~ "        <strong>%(number)s</strong>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "თქვენი შეკვეთა მიღებულია, შეკვეთის ინვოისი გამოგეგზავნათ იმეილზე - თქვენი "
+#~ "შეკვეთის ნომერია:\n"
+#~ " <strong>%(number)s</strong>. "
+
+#~ msgid ""
+#~ "Please make a note of this reference or print this page and quote it in "
+#~ "any communication with us regarding your order."
+#~ msgstr "გმადლობთ!"
+
+#~ msgid "No shipping address required."
+#~ msgstr "მიტანის მისამართის მითითება სავალდებულო არ არის."
+
+#~ msgid "No payment was required for this order."
+#~ msgstr "გადახდა კურიერთან, ნაღდი ანგარიშსწორებით."
+
+#~ msgid "Items purchased"
+#~ msgstr "შეკვეთილი პროდუქტები"
+
+#~ msgid "Shipping charge (before discounts)"
+#~ msgstr "მიტანის ღირებულება (ფასდაკლებამდე)"
+
+#~ msgid "Shipping charge (after discounts)"
+#~ msgstr "მიტანის ღირებულება (ფასდაკლების შემდეგ)"
+
+#~ msgid "Shipping charge"
+#~ msgstr "მიტანის ღირებულება"
+
+#~ msgid "View order status"
+#~ msgstr "შეკვეთის სტატუსის ნახვა"
+
+#~ msgid "Print this page"
+#~ msgstr "აღნიშნული გვერდის დაბეჭდვა"
+
+#~ msgid "Are you sure you want to delete this address?"
+#~ msgstr "ნამდვილად გსრუთ ამ მისამართის წაშლა?"
+
+#~ msgid "Yes!"
+#~ msgstr "დიახ!"
+
+#~ msgid "Save"
+#~ msgstr "შენახვა"
+
+#~ msgid "Address book"
+#~ msgstr "მისამართების წიგნი"
+
+#~ msgid "Deleting..."
+#~ msgstr "იშლება..."
+
+#~ msgid "Default shipping address"
+#~ msgstr "მიტანის დეფოლტ მისამართი"
+
+#~ msgid "Edit"
+#~ msgstr "რედაქტირება"
+
+#~ msgid "Set as default shipping address"
+#~ msgstr "მიტანის დეფოლტ მისამართად მონიშვნა"
+
+#~ msgid "There are no addresses in your address book."
+#~ msgstr "თქვენ ჯერ არ დაგიმატებიათ არცერთი მისამართი."
+
+#~ msgid "Cancel"
+#~ msgstr "გაუქმება"
+
+#~ msgid "Order #%(number)s"
+#~ msgstr "შეკვეთა #%(number)s"
+
+#~ msgid "Line price excl. tax"
+#~ msgstr "ღირებულება"
+
+#~ msgid "Line price incl. tax"
+#~ msgstr "ჯამური ღირებულება"
+
+#~ msgid "Basket total (inc. tax)"
+#~ msgstr "კალათის ღირებულება (გად. ჩათვლით)"
+
+#~ msgid "Thanks for using our site!"
+#~ msgstr "მადლობა, რომ ჩვენი საიტით სარგებლობთ!"
+
+#~ msgid "The %(name)s team"
+#~ msgstr "%(name)s გუნდი"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately "
+#~ "and correct your email address:"
+#~ msgstr ""
+#~ "თუ თქვენ არ შეგიცვლიათ პაროლი, გთხოვთ სასწრაფოდ მოითხოვოთ პაროლის "
+#~ "განახლება."
+
+#~ msgid "Hello,"
+#~ msgstr "მოგესალმებით,"
+
+#~ msgid "Your order contains:"
+#~ msgstr "შეძენილი წიგნები სია:"
+
+#~ msgid "Basket total:"
+#~ msgstr "კალათა ჯამში:"
+
+#~ msgid "Shipping:"
+#~ msgstr "მიტანა:"
+
+#~ msgid "Order Total:"
+#~ msgstr "შეკვეთის ჯამური ღირებულება:"
+
+#~ msgid "Shipping address:"
+#~ msgstr "მიწოდების მისამართი:"
+
+#~ msgid ""
+#~ "You can view the status of this order by clicking <a href=\"%(status_url)s"
+#~ "\" title=\"order status\">here</a>"
+#~ msgstr ""
+#~ "ამ შეკვეთის სტატუსის შესამოწმებლად დააკლიკეთ <a href=\"%(status_url)s\" "
+#~ "title=\"order status\">აქ</a>"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "We are pleased to confirm your order %(order_number)s has been received "
+#~ "and\n"
+#~ "will be processed shortly."
+#~ msgstr ""
+#~ "მოგესალმებით,\n"
+#~ "\n"
+#~ "თქვენი შეკვეთა მიღებულია, შეკვეთის ნომერია:%(order_number)s"
+
+#~ msgid "quantity:"
+#~ msgstr "რაოდენობა:"
+
+#~ msgid "price:"
+#~ msgstr "ფასი:"
+
+#~ msgid ""
+#~ "You can view the status of this order at the below URL:\n"
+#~ "%(status_url)s"
+#~ msgstr ""
+#~ "მ შეკვეთის სტატუსის შესამოწმებლად დააკლიკეთ: \n"
+#~ "%(status_url)s"
+
+#~ msgid "The team"
+#~ msgstr "ბუკინისტების გუნდი"
+
+#~ msgid "Confirmation of order %(number)s"
+#~ msgstr "შეკვეთა #%(number)s მიღებულია"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately:"
+#~ msgstr ""
+#~ "თუ თქვენ არ შეგიცვლიათ პაროლი, გთხოვთ სასწრაფოდ მოითხოვოთ პაროლის "
+#~ "განახლება."
+
+#~ msgid ""
+#~ "\n"
+#~ "You're receiving this email because your password has been changed at "
+#~ "%(name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "ამ წერილს იღებთ იმიტომ, რომ თქვენი პაროლი შეიცვალა საიტზე: %(name)s.\n"
+
+#~ msgid "Your password changed at %(site_name)s."
+#~ msgstr "შენი პაროლი შეიცვალა საიტზე: %(site_name)s"
+
+#~ msgid ""
+#~ "You're receiving this e-mail because you requested a password reset for "
+#~ "your user account at %(name)s."
+#~ msgstr ""
+#~ "ეს წერილი გამოგეგზავნათ, რადგან თქვენ მოითხოვეთ პაროლის აღდგენა საიტზე "
+#~ "%(name)s."
+
+#~ msgid "Resetting your password at %(site_name)s."
+#~ msgstr "პაროლის განახლება საიტზე: %(site_name)s"
+
+#~ msgid "Dear %(name)s,"
+#~ msgstr "ძვირფასო %(name)s,"
+
+#~ msgid "Thank you for registering."
+#~ msgstr "მადლობთ რეგისტრაციისთვის."
+
+#~ msgid "Products you recently viewed"
+#~ msgstr "ბოლოს ნანახი წიგნები"
+
+#~ msgid "Log In"
+#~ msgstr "შესვლა"
+
+#~ msgid "I've forgotten my password"
+#~ msgstr "პაროლი დაგავიწყდა?"
+
+#~ msgid "Logging in..."
+#~ msgstr "ავტორიზაცია..."
+
+#~ msgid "Register"
+#~ msgstr "რეგისტრაცია"
+
+#~ msgid "Registering..."
+#~ msgstr "რეგისტრაცია..."
+
+#~ msgid "Order history"
+#~ msgstr "შეკვეთების ისტორია"
+
+#~ msgid "Re-ordering..."
+#~ msgstr "შეკვეთა მუშავდება..."
+
+#~ msgid "Re-order"
+#~ msgstr "შეუკვეთეთ თავიდან"
+
+#~ msgid "Not available anymore"
+#~ msgstr "ხელმისაწვდომი აღარ არის "
+
+#~ msgid "Basket total (excl. discounts)"
+#~ msgstr "კალათის ჯამური ღირებულება (ფასდაკლების გარეშე)"
+
+#~ msgid "Basket total (inc. discounts)"
+#~ msgstr "კალათის ჯამური ღირებულება (ფასდაკლებით)"
+
+#~ msgid "Shipping total"
+#~ msgstr "მიწოდების ჯამური ღირებულება"
+
+#~ msgid "Re-order all items"
+#~ msgstr "ყველა პროდუქტის თავიდან შეკვეთა"
+
+#~ msgid "Contact Number"
+#~ msgstr "საკონტაქტო ტელეფონის ნომერი"
+
+#~ msgid "Shipping Notes"
+#~ msgstr "შენიშვნები"
+
+#~ msgid "Filter results"
+#~ msgstr "გაფილტვრა"
+
+#~ msgid "Reset"
+#~ msgstr "გასუფთავება"
+
+#~ msgid "Total inc tax"
+#~ msgstr "სულ"
+
+#~ msgid "You haven't placed any orders."
+#~ msgstr "ვერაფერი მოიძებნა."
+
+#~ msgid "Edit profile"
+#~ msgstr "პროფილის რედაქტირება"
+
+#~ msgid "Please confirm your password to delete your profile."
+#~ msgstr "ანგარიშის გასაუქმებლად გთხოვთ ჩაწერეთ თქვენი პაროლი."
+
+#~ msgid "Warning"
+#~ msgstr "გაფრთხილება"
+
+#~ msgid ""
+#~ "\n"
+#~ "                This will delete all information about you from the "
+#~ "site.  Deleting your profile cannot be\n"
+#~ "                undone.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "ამ ბრძანების საფუძველზე თქვენი ანგარიში სრულად გაუქმდება. გაფრთხილებთ, "
+#~ "რომ პროფილის წაშლის შემთხვევაში თქვენი ინფორმაციის აღდგენა შეუძლებელი "
+#~ "იქნება."
+
+#~ msgid "Update quantities"
+#~ msgstr "რაოდენობის განახლება"
+
+#~ msgid "Your wish list is empty."
+#~ msgstr "ამ სიაში ჯერ არაფერია შენახული."
+
+#~ msgid "Create"
+#~ msgstr "შექმნა"
+
+#~ msgid "What should your new wish list be called?"
+#~ msgstr "რა დავარქვათ ახალ სიას?"
+
+#~ msgid "You don't have any wish lists yet."
+#~ msgstr "არაფერი არ არის ჩანიშნული."
+
+#~ msgid "Edit category"
+#~ msgstr "კატეგორიის რედაქტირება"
+
+#~ msgid "Add child category"
+#~ msgstr "შვილი კატეგორიის დამატება"
+
+#~ msgid "Edit children"
+#~ msgstr "რედაქტირება"
+
+#~ msgid "Images"
+#~ msgstr "სურათები"
+
+#~ msgid "Sending..."
+#~ msgstr "იგზავნება..."
+
+#~ msgid "Total Orders"
+#~ msgstr "სულ შეკვეთები"
+
+#~ msgid "Total orders"
+#~ msgstr "სულ შეკვეთები"
+
+#~ msgid "No offers found."
+#~ msgstr "შეთავაზებები ვერ მოიძებნა."
+
+#~ msgid "Steps"
+#~ msgstr "ეტაპები"
+
+#~ msgid "Save this offer"
+#~ msgstr "ამ შეთავაზების შენახვა"
+
+#~ msgid "Save changes"
+#~ msgstr "შენაცვა"
+
+#~ msgid "Order Total"
+#~ msgstr "შეკვეთის ჯამური ღირებულება"
+
+#~ msgid "quantity"
+#~ msgstr "რაოდენობა"
+
+#~ msgid "Save note"
+#~ msgstr "შენახვა"
+
+#~ msgid "Advanced Search"
+#~ msgstr "გაძლიერებული ძიება"
+
+#~ msgid "Close"
+#~ msgstr "დახურვა"
+
+#~ msgid "Order Search Results"
+#~ msgstr "შეკვეთის ძიების შედეგები"
+
+#~ msgid "All Orders"
+#~ msgstr "ყველა შეკვეთა"
+
+#~ msgid "Deleted"
+#~ msgstr "წაშლილია"
+
+#~ msgid "Changing..."
+#~ msgstr "იცვლება..."
+
+#~ msgid "No orders found."
+#~ msgstr "არცერთი შეკვეთა არ არის ნაპოვნი"
+
+#~ msgid "Mark as"
+#~ msgstr "მონიშნე როგორც"
+
+#~ msgid "Change order status to"
+#~ msgstr "შეკვეთის სტატუსის ცვლილება"
+
+#~ msgid "Done"
+#~ msgstr "შესრულებულია"
+
+#~ msgid "Update address"
+#~ msgstr "მისამართის განახლება"
+
+#~ msgid "No pages found."
+#~ msgstr "გვერდები ვერ მოიძებნა."
+
+#~ msgid "Oops! We found some errors"
+#~ msgstr "უი! დაფიქსირდა შეცდომა"
+
+#~ msgid "please check the error messages below and try again"
+#~ msgstr "გთხოვთ შეასწორეთ მითითებული შეცდომა და სცადეთ თავიდან"
+
+#~ msgid "previous"
+#~ msgstr "წინა"
+
+#~ msgid "next"
+#~ msgstr "შემდეგი"
+
+#~ msgid "Undo"
+#~ msgstr "განულება"
+
+#~ msgid "Delete partner"
+#~ msgstr "პარტნიორის გაუქმება"
+
+#~ msgid "Are you sure you want to delete this partner?"
+#~ msgstr "ნამდვილად გსურთ პარტნიორის გაუქმება?"
+
+#~ msgid "Edit the user's details"
+#~ msgstr "მომხმარებლის შესახებ ინფორმაციის რედაქტირება"
+
+#~ msgid "Update details"
+#~ msgstr "დეტალების განახლება"
+
+#~ msgid "Creating..."
+#~ msgstr "იქმნება..."
+
+#~ msgid "No results found."
+#~ msgstr "ვერაფერი მოიძებნა."
+
+#~ msgid "Review"
+#~ msgstr "მიმოხილვა"
+
+#~ msgctxt "Review title"
+#~ msgid "Title"
+#~ msgstr "სათაური"
+
+#~ msgid "[Product deleted]"
+#~ msgstr "[პროდუქტი წაშლილია]"
+
+#~ msgid "No reviews found."
+#~ msgstr "მიმოხილვები ვერ მოიძებნა."
+
+#~ msgid "Update review"
+#~ msgstr "მიმოხილვის განახლება"
+
+#~ msgid "reset"
+#~ msgstr "გასუფთავება"
+
+#~ msgid "(Anonymous)"
+#~ msgstr "(ანონიმი)"
+
+#~ msgid "No alerts found."
+#~ msgstr "გაფრთხილება ვერ მოიძებნა."
+
+#~ msgid "General"
+#~ msgstr "ძირითადი"
+
+#~ msgid "Yes,No"
+#~ msgstr "კი,არა"
+
+#~ msgid "Superuser"
+#~ msgstr "სუპერ მომხმარებელი"
+
+#~ msgid "True,False"
+#~ msgstr "ჭეშმარიტი,მცდარი"
+
+#~ msgid "Staff"
+#~ msgstr "თანამშრომელი"
+
+#~ msgid "Last login"
+#~ msgstr "ბოლო შესვლა"
+
+#~ msgid "Date joined"
+#~ msgstr "გაწევრიანების თარიღი"
+
+#~ msgid "Send password reset email"
+#~ msgstr "დადასტურება"
+
+#~ msgid "Order Number"
+#~ msgstr "შეკვეთის ნომერი"
+
+#~ msgid "Product ID"
+#~ msgstr "პროდუქტის ID"
+
+#~ msgid "No vouchers found."
+#~ msgstr "ვაუჩერი ვერ მოიძებნა."
+
+#~ msgid "Sorry!"
+#~ msgstr "ბოდიში!"
+
+#~ msgid "Return to previous page"
+#~ msgstr "წინა გვერდზე დაბრუნება"
+
+#~ msgid "Go to homepage"
+#~ msgstr "მთავარ გვერდზე გადასვლა"
+
+#~ msgid "Edit this page"
+#~ msgstr "რედაქტირება"
+
+#~ msgid "thumbnail"
+#~ msgstr "სამბნეილი"
+
+#~ msgid "Upload Image"
+#~ msgstr "სურათის ატვირთვა"
+
+#~ msgid "This page is only available to users who aren't logged in."
+#~ msgstr "ეს გვერდი განკუთვნილია მათთვის ვინც არ არის დაავტორიზირებული."
+
+#~ msgid " This offer is no longer available."
+#~ msgstr "ამ შეთავაზებას ვადა გაუვიდა."
+
+#~ msgid "There are no site offers at the moment."
+#~ msgstr "ამ მომენტისთვის არცერთი შეთავაზება არ მოიძებნა."
+
+#~ msgid "Browse products in offer"
+#~ msgstr "მოძებნე წიგნები შეთავაზებებში"
+
+#~ msgid "See more"
+#~ msgstr "იხილეთ მეტი"
+
+#~ msgid "Password reset complete"
+#~ msgstr "პაროლის განახლება დასრულებულია"
+
+#~ msgid "Password reset"
+#~ msgstr "პაროლის განახლება"
+
+#~ msgid "Complete"
+#~ msgstr "დასრულებულია"
+
+#~ msgid "Your password has been set.  You may go ahead and log in now."
+#~ msgstr "თქვენი პაროლი შეცვლილია. თქვენ უკვე შეგიძლია ავტორიზაცია."
+
+#~ msgid "Log in"
+#~ msgstr "შესვლა"
+
+#~ msgid "Enter a new password"
+#~ msgstr "ჩაწერეთ ახალი პაროლი"
+
+#~ msgid ""
+#~ "Please enter your new password twice so we can verify you typed it in "
+#~ "correctly."
+#~ msgstr ""
+#~ "ჩაწერეთ ახალი პაროლი ორივე ველში, პაროლის შექმნისას მექანიკური შეცდომები "
+#~ "რომ გამოვრიცხოთ."
+
+#~ msgid "Change my password"
+#~ msgstr "პაროლის შეცვლა"
+
+#~ msgid "Password reset unsuccessful"
+#~ msgstr "პაროლის განახლება წარუმატებლად დასრულდა"
+
+#~ msgid ""
+#~ "The password reset link was invalid, possibly because it has already been "
+#~ "used.  Please request a new password reset."
+#~ msgstr ""
+#~ "პაროლის გასაახლებელი ბმული არავალიდურია. თავიდან მოითხოვეთ პაროლის "
+#~ "აღდგენა."
+
+#~ msgid "Password reset email sent"
+#~ msgstr "პაროლის აღდგენის ინსტრუქცია გამოგეგზავნათ ელ-ფოსტაზე"
+
+#~ msgid "Email sent"
+#~ msgstr "შეტყობინება გაგზავნილია ელ-ფოსტაზე"
+
+#~ msgid ""
+#~ "\n"
+#~ "        We've e-mailed you instructions for resetting your password. You "
+#~ "should be receiving it shortly.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "პაროლის განახლების ინსტრუქცია უკვე გამოიგზავნა შენ იმეილზე. წესით მალევე "
+#~ "უნდა მოვიდეს."
+
+#~ msgid ""
+#~ "\n"
+#~ "        If you don't receive an email, please make sure you've entered "
+#~ "the address you registered with, and check\n"
+#~ "        your spam folder.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "თუ იმეილი არ მიგიღიათ, გთხოვთ გადაამოწმოთ რომ ნამდვილად ამ ელ-ფოსტით "
+#~ "დარეგისტრირდით საიტზე. ასევე\n"
+#~ "შეამოწმეთ თქვენი იმეილის spam საქაღალდე."
+
+#~ msgid ""
+#~ "Forgotten your password? Enter your e-mail address below, and we'll e-"
+#~ "mail instructions for setting a new one."
+#~ msgstr ""
+#~ "პაროლი დაგავიწყდა? ჩაწერე შენი ელ-ფოსტის მისამართი და იმეილზე "
+#~ "გამოგიგზავნით პაროლის აღდგენის ინტრუქციას."
+
+#~ msgid "Send reset email"
+#~ msgstr "დადასტურება "
+
+#~ msgid "Refine your search"
+#~ msgstr "შეცვალეთ საძიებო ფრაზა"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Products matching \"%(q)s\"\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "ძიების შედეგები \"%(q)s\""
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Found <strong>%(num_results)s</strong> results, "
+#~ "showing <strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "ნაპოვნია <strong>%(num_results)s</strong> წიგნი, ნაჩვენებია <strong>"
+#~ "%(start)s</strong>-დამ <strong>%(end)s</strong>-ის ჩათვლით."
+
+#~ msgid "Found <strong>0</strong> results."
+#~ msgstr "ნაპოვნია <strong>0</strong> წიგნი."
+
+#~ msgid ""
+#~ "\n"
+#~ "                        Did you mean <a href=\"%(search_url)s?q="
+#~ "%(suggestion)s\">\"%(suggestion)s\"</a>?\n"
+#~ "                    "
+#~ msgstr ""
+#~ "\n"
+#~ "<a href=\"%(search_url)s?q=%(suggestion)s\">\"%(suggestion)s\"</a> ხომ არ "
+#~ "იგულისხმეთ?"
+
+#~ msgid "Back to search results"
+#~ msgstr "ძიების შედეგებზე დაბრუნება"
+
+#~ msgid "You need to select some %ss"
+#~ msgstr "საჭიროა მონიშნოთ რამოდენიმე %ss"

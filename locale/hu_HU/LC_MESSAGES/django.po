@@ -1,0 +1,278 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-11 08:36+0000\n"
+"Last-Translator: Oscar Bot <maik.hoepfel@tangentsnowball.com>\n"
+"Language-Team: Hungarian (Hungary) (http://www.transifex.com/codeinthehole/"
+"django-oscar/language/hu_HU/)\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr ""
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr ""
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr ""
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr ""
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr ""
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr ""
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr ""
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr ""
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr ""
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr ""
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr ""
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr ""
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr ""
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr ""
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr ""
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr ""
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr ""
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr ""
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr ""
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr ""
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr ""
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr ""
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr ""
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr ""
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr ""
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr ""
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr ""
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr ""
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr ""
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr ""
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+msgid "Catalan"
+msgstr ""
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+msgid "German"
+msgstr ""
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr ""
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr ""
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr ""
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr ""

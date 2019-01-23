@@ -1,0 +1,6106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# preriasusi <coyotronics@gmail.com>, 2014
+# dewa <joonas.reinikka@gmail.com>, 2014
+# kyyberi <jarkko.moilanen@want3d.fi>, 2014
+# Kemppainen <joonas.kemppainen@outlook.com>, 2014
+# dewa <joonas.reinikka@gmail.com>, 2014
+# Kaarle Ritvanen <kaarle.ritvanen@datakunkku.fi>, 2015
+# Kemppainen <joonas.kemppainen@outlook.com>, 2014
+# kyyberi <jarkko.moilanen@want3d.fi>, 2014
+# preriasusi <coyotronics@gmail.com>, 2014
+# Tumetsu <salmi.tuomas@gmail.com>, 2014
+# Seppo Erviälä <seppo.erviala@iki.fi>, 2016
+# sienikasvusto <teemu.heikkila@pistoke.org>, 2014
+# sienikasvusto <teemu.heikkila@pistoke.org>, 2014
+# Tomi Boehm <tsb358@gmail.com>, 2017
+# Tumetsu <salmi.tuomas@gmail.com>, 2014
+# Ville Jyrkkä, 2014
+# Ville Jyrkkä, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-11 08:36+0000\n"
+"Last-Translator: Oscar Bot <maik.hoepfel@tangentsnowball.com>\n"
+"Language-Team: Finnish (http://www.transifex.com/codeinthehole/django-oscar/"
+"language/fi/)\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr "Kojelauta"
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr "Luettelo"
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "Tuotteet"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr "Tuotetyypit"
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "Luokat"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr "Valikoimat"
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr "Alhaisen varastomäärän hälytykset"
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr "Vaihtoehdot"
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr "Toimeenpano"
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "Tilaukset"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr "Tilastot"
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr "Kumppanit"
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr "Asiakkaat"
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr "Varastohälytyspyynnöt"
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr "Tarjoukset"
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "Kupongit"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr "Sisältö"
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr "Sisältölohkot"
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr "Sivukohtaiset sisältölohkot"
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr "Sivut"
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr "Sähköpostisapluunat"
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr "Arvostelut"
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr "Raportit"
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr "Tyyppi"
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr "Luokitus"
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr "Hintaväli"
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr "0 - 20"
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr "20 - 40"
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr "40  - 60"
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr "60+"
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+#, fuzzy
+#| msgid "Catalogue"
+msgid "Catalan"
+msgstr "Luettelo"
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+#, fuzzy
+#| msgid "Permalink"
+msgid "German"
+msgstr "Pysyvä linkki"
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr "Lähetetään..."
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr "Mene"
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr "Tili"
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr "Kirjaudu ulos"
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr "Kirjaudu tai rekisteröidy"
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "Ostoskori"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+"\n"
+"Yhteensä: %(total)s"
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr "Selaa kauppaa"
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "Kaikki tuotteet"
+
+#~ msgid "Mr"
+#~ msgstr "Herra"
+
+#~ msgid "Miss"
+#~ msgstr "Neiti"
+
+#~ msgid "Mrs"
+#~ msgstr "Rouva"
+
+#~ msgid "Ms"
+#~ msgstr "Neiti"
+
+#~ msgid "Dr"
+#~ msgstr "Tohtori"
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "Otsikko"
+
+#~ msgid "First name"
+#~ msgstr "Etunimi"
+
+#~ msgid "Last name"
+#~ msgstr "Sukunimi"
+
+#~ msgid "First line of address"
+#~ msgstr "Osoite"
+
+#~ msgid "Second line of address"
+#~ msgstr "Osoite (2. rivi)"
+
+#~ msgid "Third line of address"
+#~ msgstr "Osoite (3. rivi)"
+
+#~ msgid "City"
+#~ msgstr "Kaupunki"
+
+#~ msgid "State/County"
+#~ msgstr "Lääni"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "Postinumero"
+
+#~ msgid "Country"
+#~ msgstr "Maa"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "Tekstihaku - vain osoitteiden hakemiseen"
+
+#~ msgid "Address"
+#~ msgstr "Osoite"
+
+#~ msgid "Addresses"
+#~ msgstr "Osoitteet"
+
+#~ msgid "Addresses in %(country)s require a valid postcode"
+#~ msgstr "Osoitteet maassa %(country)s vaativat kelvollisen postinumeron"
+
+#~ msgid "The postcode '%(postcode)s' is not valid for %(country)s"
+#~ msgstr "Postinumero  '%(postcode)s' ei ole kelvollinen maassa %(country)s"
+
+#~ msgid "ISO 3166-1 alpha-2"
+#~ msgstr "ISO 3166-1 alpha-2"
+
+#~ msgid "ISO 3166-1 alpha-3"
+#~ msgstr "ISO 3166-1 alpha-3"
+
+#~ msgid "ISO 3166-1 numeric"
+#~ msgstr "ISO 3166-1 numeric"
+
+#~ msgid "Country name"
+#~ msgstr "Maa"
+
+#~ msgid "Official name"
+#~ msgstr "Virallinen nimi"
+
+#~ msgid "Display order"
+#~ msgstr "Näytä tilaus"
+
+#~ msgid "Higher the number, higher the country in the list."
+#~ msgstr "Mitä korkeampi numero, sitä korkeammalla maa on listassa."
+
+#~ msgid "Is shipping country"
+#~ msgstr "On toimitusmaa"
+
+#~ msgid "Countries"
+#~ msgstr "Maat"
+
+#~ msgid "Phone number"
+#~ msgstr "Puhelinnumero"
+
+#~ msgid "In case we need to call you about your order"
+#~ msgstr "Jos meidän tarvitsee soittaa sinulle tilauksesta"
+
+#~ msgid "Instructions"
+#~ msgstr "Ohjeet"
+
+#~ msgid "Tell us anything we should know when delivering your order."
+#~ msgstr "Lisätietoja toimitukseen."
+
+#~ msgid "Shipping address"
+#~ msgstr "Toimitusosoite"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "Toimitusosoitteet"
+
+#~ msgid "User"
+#~ msgstr "Käyttäjä"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "Oletustoimitusosoite"
+
+#~ msgid "Default billing address?"
+#~ msgstr "Oletuslaskutusosoite"
+
+#~ msgid "Address Hash"
+#~ msgstr "Osoiteruutu"
+
+#~ msgid "Date Created"
+#~ msgstr "Luontipäivämäärä"
+
+#~ msgid "User address"
+#~ msgstr "Käyttäjän osoite"
+
+#~ msgid "User addresses"
+#~ msgstr "Käyttäjän osoitteet"
+
+#~ msgid "This address is already in your address book"
+#~ msgstr "Tämä osoite on jo osoitekirjassasi"
+
+#~ msgid "Billing address"
+#~ msgstr "Laskutusosoite"
+
+#~ msgid "Billing addresses"
+#~ msgstr "Laskutusosoitteet"
+
+#~ msgid "Partner"
+#~ msgstr "Kumppani"
+
+#~ msgid "Partner address"
+#~ msgstr "Kumppanin osoite"
+
+#~ msgid "Partner addresses"
+#~ msgstr "Kumppanien osoitteet"
+
+#~ msgid "Product"
+#~ msgstr "Tuote"
+
+#~ msgid "Views"
+#~ msgstr "Katselukerrat"
+
+#~ msgid "Basket Additions"
+#~ msgstr "Lisäykset ostoskoriin"
+
+#~ msgid "Purchases"
+#~ msgstr "Ostokset"
+
+#~ msgid "Score"
+#~ msgstr "Pisteet"
+
+#~ msgid "Product record"
+#~ msgstr "Tuoterekisteri"
+
+#~ msgid "Product records"
+#~ msgstr "Tuoterekisterit"
+
+#~ msgid "Record for '%s'"
+#~ msgstr "'%s':n tiedot"
+
+#~ msgid "Product Views"
+#~ msgstr "Tuotteen katselukerrat"
+
+#~ msgid "Order Lines"
+#~ msgstr "Tilausrivit"
+
+#~ msgid "Order Items"
+#~ msgstr "Tilauksen tuotteet"
+
+#~ msgid "Total Spent"
+#~ msgstr "Kulutettu yhteensä"
+
+#~ msgid "Last Order Date"
+#~ msgstr "Viimeinen tilauspäivä"
+
+#~ msgid "User record"
+#~ msgstr "Käyttäjätapahtuma"
+
+#~ msgid "User records"
+#~ msgstr "Käytäjätapahtumat"
+
+#~ msgid "User product view"
+#~ msgstr "Käyttäjän tuotenäkymä"
+
+#~ msgid "User product views"
+#~ msgstr "Käyttäjän tuotenäkymät"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "%(user)s katselemat '%(product)s'"
+
+#~ msgid "Search term"
+#~ msgstr "Hakulauseke"
+
+#~ msgid "User search query"
+#~ msgstr "Käyttäjän tekemät haut"
+
+#~ msgid "User search queries"
+#~ msgstr "Käyttäjän tekemät haut"
+
+#~ msgid "%(user)s searched for '%(query)s'"
+#~ msgstr "%(user)s haki hakusanoilla '%(query)s'"
+
+#~ msgid "Analytics"
+#~ msgstr "Analytiikka"
+
+#~ msgid "Basket additions"
+#~ msgstr "Lisäykset ostoskoriin"
+
+#~ msgid "Product analytics"
+#~ msgstr "Tuotetilastot"
+
+#~ msgid "Name"
+#~ msgstr "Nimi"
+
+#~ msgid "Date registered"
+#~ msgstr "Rekisteröintipäivämäärä"
+
+#~ msgid "Product views"
+#~ msgstr "Tuotteen katselukerrat"
+
+#~ msgid "Order lines"
+#~ msgstr "Tilausrivit"
+
+#~ msgid "Order items"
+#~ msgstr "Tilauksen tuotteet"
+
+#~ msgid "Total spent"
+#~ msgstr "Kokonaiskulutus"
+
+#~ msgid "Date of last order"
+#~ msgstr "Viimeisimmän tilauksen päivämäärä"
+
+#~ msgid "User analytics"
+#~ msgstr "Käyttäjätilastot"
+
+#~ msgid "Owner"
+#~ msgstr "Omistaja"
+
+#~ msgid "Open - currently active"
+#~ msgstr "Avoin - aktiivinen"
+
+#~ msgid "Merged - superceded by another basket"
+#~ msgstr "Yhdistetty - korvattu toisella ostoskorilla"
+
+#~ msgid "Saved - for items to be purchased later"
+#~ msgstr "Tallennettu - ostettavaksi myöhemmin"
+
+#~ msgid "Frozen - the basket cannot be modified"
+#~ msgstr "Jäädytetty - ostoskoria ei voi muokata"
+
+#~ msgid "Submitted - has been ordered at the checkout"
+#~ msgstr "Lähetetty - tilaus suoritettu"
+
+#~ msgid "Status"
+#~ msgstr "Tila"
+
+#~ msgid "Date created"
+#~ msgstr "Luomispäivämäärä"
+
+#~ msgid "Date merged"
+#~ msgstr "Yhdistämispäivämäärä"
+
+#~ msgid "Date submitted"
+#~ msgstr "Hyväksymispäivämäärä"
+
+#~ msgid "Baskets"
+#~ msgstr "Ostoskorit"
+
+#~ msgid "%(status)s basket (owner: %(owner)s, lines: %(num_lines)d)"
+#~ msgstr "%(status)s ostoskori(omistaja: %(owner)s, rivit: %(num_lines)d)"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order."
+#~ msgstr ""
+#~ "Teknisten rajoitteiden vuoksi emme kykene toimittamaan %(threshold)d kpl "
+#~ "enempää tuotteita yhtä tilausta kohden."
+
+#~ msgid "Line Reference"
+#~ msgstr "Tilausviite"
+
+#~ msgid "Quantity"
+#~ msgstr "Määrä"
+
+#~ msgid "Currency"
+#~ msgstr "Valuutta"
+
+#~ msgid "Price excl. Tax"
+#~ msgstr "Veroton hinta"
+
+#~ msgid "Price incl. Tax"
+#~ msgstr "Verollinen hinta"
+
+#~ msgid "Basket line"
+#~ msgstr "Ostosrivi"
+
+#~ msgid "Basket lines"
+#~ msgstr "Ostosrivit"
+
+#~ msgid ""
+#~ "Basket #%(basket_id)d, Product #%(product_id)d, quantity %(quantity)d"
+#~ msgstr "Kori #%(basket_id)d, Tuote #%(product_id)d, määrä %(quantity)d"
+
+#~ msgid "You cannot modify a %s basket"
+#~ msgstr "Et voi muokata %s:n koria"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has increased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "Tuotteen '%(product)s' hinta on noussut koriin lisäämisen jälkeen (vanha "
+#~ "hinta: %(old_price)s, uusi hinta: %(new_price)s)."
+
+#~ msgid ""
+#~ "The price of '%(product)s' has decreased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "Tuotteen '%(product)s' hinta on laskenut koriin lisäämisen jälkeen (vanha "
+#~ "hinta: %(old_price)s, uusi hinta: %(new_price)s)."
+
+#~ msgid "Line"
+#~ msgstr "Rivi"
+
+#~ msgid "Option"
+#~ msgstr "Vaihtoehto"
+
+#~ msgid "Value"
+#~ msgstr "Arvo"
+
+#~ msgid "Line attribute"
+#~ msgstr "Tilausmääre"
+
+#~ msgid "Line attributes"
+#~ msgstr "Tilausmääreet"
+
+#~ msgid "Save for Later"
+#~ msgstr "Tallenna myöhemmäksi"
+
+#~ msgid "Move to Basket"
+#~ msgstr "Siirrä ostoskoriin"
+
+#~ msgid "Code"
+#~ msgstr "Koodi"
+
+#~ msgid "Variant"
+#~ msgstr "Muunnos"
+
+#~ msgid "Please select a valid product"
+#~ msgstr "Ole hyvä ja valitse soveltuva tuote"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order. Your basket currently has %(basket)d "
+#~ "items."
+#~ msgstr ""
+#~ "Teknisten rajoitteiden vuoksi emme kykene toimittamaan %(threshold)d kpl "
+#~ "enempää tuotteita yhtä tilausta kohden. Ostoskorissasi on tällä hetkellä "
+#~ "%(basket)d tuotetta."
+
+#~ msgid ""
+#~ "This product cannot be added to the basket as its currency isn't the same "
+#~ "as other products in your basket"
+#~ msgstr ""
+#~ "Tätä tuotetta ei voida lisätä koriin, koska sen valuutta ei ole sama kuin "
+#~ "muiden korin tuotteiden"
+
+#~ msgid ""
+#~ "We have merged a basket from a previous session. Its contents might have "
+#~ "changed."
+#~ msgstr ""
+#~ "Palautimme ostoskorisi aiemmalta käynniltä. Ostoskorin sisältö on voinut "
+#~ "muuttua."
+
+#~ msgid "User ID"
+#~ msgstr "Käyttäjätunniste"
+
+#~ msgid "Email"
+#~ msgstr "Sähköposti"
+
+#~ msgid "Basket status"
+#~ msgstr "Ostoskorin tila"
+
+#~ msgid "Num lines"
+#~ msgstr "Rivien lkm"
+
+#~ msgid "Num items"
+#~ msgstr "Tuotteiden lkm"
+
+#~ msgid "Date of creation"
+#~ msgstr "Luomispäivämäärä"
+
+#~ msgid "Time since creation"
+#~ msgstr "Aikaa luomisesta"
+
+#~ msgid "Open baskets"
+#~ msgstr "Avoimet ostoskorit"
+
+#~ msgid "Time between creation and submission"
+#~ msgstr "Luomisen ja vahvistamisen välinen aika"
+
+#~ msgid "Submitted baskets"
+#~ msgstr "Tehdyt tilaukset"
+
+#~ msgid "You can't save an item for later if you're not logged in!"
+#~ msgstr ""
+#~ "Et voi tallentaa tuotetta myöhempää käyttöä varten, jos et ole "
+#~ "kirjautunut sisään!"
+
+#~ msgid ""
+#~ "Your basket couldn't be updated. Please correct any validation errors "
+#~ "below."
+#~ msgstr "Ostoskorin päivitys ei onnistunut. Korjaa alla mainitut virheet."
+
+#~ msgid "The '%(code)s' voucher has expired"
+#~ msgstr "Kuponki '%(code)s' on vanhentunut"
+
+#~ msgid "The '%(code)s' voucher is not active"
+#~ msgstr "Kuponki '%(code)s' on vanhentunut"
+
+#~ msgid "Your basket does not qualify for a voucher discount"
+#~ msgstr "Ostoskorisi ei kelpaa kuponkialennukseen"
+
+#~ msgid "Voucher '%(code)s' added to basket"
+#~ msgstr "Kuponki '%(code)s' lisätty ostoskoriin"
+
+#~ msgid "You have already added the '%(code)s' voucher to your basket"
+#~ msgstr "Olet jo lisännyt kupongin '%(code)s' ostoskoriin"
+
+#~ msgid "No voucher found with code '%(code)s'"
+#~ msgstr "Kuponkia koodilla '%(code)s' ei löytynyt"
+
+#~ msgid "Please enter a voucher code"
+#~ msgstr "Kirjoita kupongin koodi"
+
+#~ msgid "Voucher '%s' removed from basket"
+#~ msgstr "Kuponki '%s' on poistettu ostoskorista"
+
+#~ msgid "Slug"
+#~ msgstr "Lyhenne"
+
+#~ msgid "Requires shipping?"
+#~ msgstr "Tarvitsee toimituksen?"
+
+#~ msgid "Track stock levels?"
+#~ msgstr "Seuraa varastoarvoja?"
+
+#~ msgid "Product class"
+#~ msgstr "Tuoteluokka"
+
+#~ msgid "Product classes"
+#~ msgstr "Tuoteluokat"
+
+#~ msgid "Description"
+#~ msgstr "Kuvaus"
+
+#~ msgid "Image"
+#~ msgstr "Kuva"
+
+#~ msgid "Category"
+#~ msgstr "Luokka"
+
+#~ msgid "Product category"
+#~ msgstr "Tuotekategoria"
+
+#~ msgid "Product categories"
+#~ msgstr "Tuotekategoriat"
+
+#~ msgid "Stand-alone product"
+#~ msgstr "Erillinen tuote"
+
+#~ msgid "Parent product"
+#~ msgstr "Emotuote"
+
+#~ msgid "Child product"
+#~ msgstr "Alituote"
+
+#~ msgid "Product structure"
+#~ msgstr "Tuoterakenne"
+
+#~ msgid "UPC"
+#~ msgstr "UPC"
+
+#~ msgid ""
+#~ "Universal Product Code (UPC) is an identifier for a product which is not "
+#~ "specific to a particular  supplier. Eg an ISBN for a book."
+#~ msgstr ""
+#~ "Universal Product Code (UPC) on tuotetunniste, joka ei ole sidottu "
+#~ "mihinkään tiettyyn toimittajaan,  kuten esim. ISBN kirjoille."
+
+#~ msgid ""
+#~ "Only choose a parent product if you're creating a child product.  For "
+#~ "example if this is a size 4 of a particular t-shirt.  Leave blank if this "
+#~ "is a stand-alone product (i.e. there is only one version of this product)."
+#~ msgstr ""
+#~ "Valitse emotuote vain, jos olet luomassa alituotetta; esimerkiksi jos "
+#~ "tämä on t-paita kokoa 4. Jätä tyhjäksi, jos on vain yksi versio tästä "
+#~ "tuotteesta."
+
+#~ msgctxt "Product title"
+#~ msgid "Title"
+#~ msgstr "Otsikko"
+
+#~ msgid "Product type"
+#~ msgstr "Tuotetyyppi"
+
+#~ msgid "Choose what type of product this is"
+#~ msgstr "Valitse tyyppi tälle tuotteelle"
+
+#~ msgid "Attributes"
+#~ msgstr "Määreet"
+
+#~ msgid ""
+#~ "A product attribute is something that this product may have, such as a "
+#~ "size, as specified by its class"
+#~ msgstr ""
+#~ "Tuotteen määrite on jotain, mitä tuotteella voi luokkansa perusteella "
+#~ "olla, kuten esimerkisi koko."
+
+#~ msgid "Product options"
+#~ msgstr "Tuotevaihtoehdot"
+
+#~ msgid ""
+#~ "Options are values that can be associated with a item when it is added to "
+#~ "a customer's basket.  This could be something like a personalised message "
+#~ "to be printed on a T-shirt."
+#~ msgstr ""
+#~ "Vaihtoehdot ovat määreitä, jotka voidaan liittää tuotteeseen ostoskoriin "
+#~ "lisäämisen yhteydessä, kuten esimerkiksi t-paitaan painettu yksilöllinen "
+#~ "viesti"
+
+#~ msgid "Recommended products"
+#~ msgstr "Suositellut tuotteet"
+
+#~ msgid ""
+#~ "These are products that are recommended to accompany the main product."
+#~ msgstr "Nämä ovat tuotteita, joiden suositellaan seuraavan päätuotetta."
+
+#~ msgid "Date updated"
+#~ msgstr "Päivityspäivä"
+
+#~ msgid "Is discountable?"
+#~ msgstr "Onko alennettavissa?"
+
+#~ msgid "This flag indicates if this product can be used in an offer or not"
+#~ msgstr "Tämä lippu kertoo, jos tuotetta voidaan käyttää tarjouksessa."
+
+#~ msgid "Your product must have a title."
+#~ msgstr "Tuotteella pitää olla otsikko"
+
+#~ msgid "Your product must have a product class."
+#~ msgstr "Tuotteella täytyy olla tuoteluokka."
+
+#~ msgid "Only child products can have a parent."
+#~ msgstr "Vain alituoteilla voi olla emotuote."
+
+#~ msgid "A child product needs a parent."
+#~ msgstr "Alituote tarvitsee emotuotteen."
+
+#~ msgid "You can only assign child products to parent products."
+#~ msgstr "Voit liittää vain alituotteita emotuotteisiin."
+
+#~ msgid "A child product can't have a product class."
+#~ msgstr "Alituotteella ei voi olla tuoteluokkaa"
+
+#~ msgid "A child product can't have a category assigned."
+#~ msgstr "Alituotteella ei voi olla kategoriaa."
+
+#~ msgid "A child product can't have options."
+#~ msgstr "Alituotteella ei voi olla tuotevaihtoehtoja"
+
+#~ msgid "A parent product can't have stockrecords."
+#~ msgstr "Emotuotteella ei voi olla varastokirjanpitoa."
+
+#~ msgid "The specified parent product is a child product."
+#~ msgstr "Määritelty ylätuote on alatuote"
+
+#~ msgid "One can't add a child product to a product with stock records."
+#~ msgstr "Et voi lisätä alatuotetta tuotteeseen, jolla on varastosaldo"
+
+#~ msgid "Primary product"
+#~ msgstr "Ensisijainen tuote"
+
+#~ msgid "Recommended product"
+#~ msgstr "Suositeltu tuote"
+
+#~ msgid "Ranking"
+#~ msgstr "Sijoitus"
+
+#~ msgid ""
+#~ "Determines order of the products. A product with a higher value will "
+#~ "appear before one with a lower ranking."
+#~ msgstr ""
+#~ "Määrää tuotteiden järjestyksen. Tuote, jonka arvo on korkeampi, näytetään "
+#~ "ennen tuottetta, jonka arvo on pienempi."
+
+#~ msgid "Product recommendation"
+#~ msgstr "Tuotesuositus"
+
+#~ msgid "Product recomendations"
+#~ msgstr "Tuotesuositukset"
+
+#~ msgid ""
+#~ "Code can only contain the letters a-z, A-Z, digits, and underscores, and "
+#~ "can't start with a digit."
+#~ msgstr ""
+#~ "Koodi voi sisältää vain kirjaimia a-z, A-Z, numeroita ja alaviivoja eikä "
+#~ "voi alkaa numerolla."
+
+#~ msgid "Text"
+#~ msgstr "Teksti"
+
+#~ msgid "Integer"
+#~ msgstr "Kokonaisluku"
+
+#~ msgid "True / False"
+#~ msgstr "Tosi / Epätosi"
+
+#~ msgid "Float"
+#~ msgstr "Liukuluku"
+
+#~ msgid "Rich Text"
+#~ msgstr "Tyylitelty teksti"
+
+#~ msgid "Date"
+#~ msgstr "Päivämäärä"
+
+#~ msgid "Entity"
+#~ msgstr "Kokonaisuus"
+
+#~ msgid "File"
+#~ msgstr "Tiedosto"
+
+#~ msgid "Option Group"
+#~ msgstr "Vaihtoehtojoukko"
+
+#~ msgid "Required"
+#~ msgstr "Pakollinen"
+
+#~ msgid "Product attribute"
+#~ msgstr "Tuotemääre"
+
+#~ msgid "Product attributes"
+#~ msgstr "Tuotemääreet"
+
+#~ msgid "Must be str or unicode"
+#~ msgstr "Täytyy olla merkkijono"
+
+#~ msgid "Must be a float"
+#~ msgstr "Täytyy olla liukuluku"
+
+#~ msgid "Must be an integer"
+#~ msgstr "Täytyy olla kokonaisluku"
+
+#~ msgid "Must be a date or datetime"
+#~ msgstr "Täytyy olla päivämäärä"
+
+#~ msgid "Must be a boolean"
+#~ msgstr "Täytyy olla totuusarvo"
+
+#~ msgid "Must be a model instance"
+#~ msgstr "Täytyy olla mallin instanssi."
+
+#~ msgid "Must be an AttributeOption model object instance"
+#~ msgstr "Täytyy olla AttributeOption-olion instanssi"
+
+#~ msgid "AttributeOption has not been saved yet"
+#~ msgstr "AttributeOptionia ei ole vielä tallennettu"
+
+#~ msgid "%(enum)s is not a valid choice for %(attr)s"
+#~ msgstr "%(enum)s ei kelpaa valinnaksi määreelle %(attr)s"
+
+#~ msgid "Must be a file field"
+#~ msgstr "Täytyy olla tiedostokenttä"
+
+#~ msgid "Attribute"
+#~ msgstr "Määre"
+
+#~ msgid "Boolean"
+#~ msgstr "Totuusarvo"
+
+#~ msgid "Richtext"
+#~ msgstr "Tyylitelty teksti"
+
+#~ msgid "Value option"
+#~ msgstr "Arvovaihtoehto"
+
+#~ msgid "Product attribute value"
+#~ msgstr "Tuotemääreen arvo"
+
+#~ msgid "Product attribute values"
+#~ msgstr "Tuotemääreiden arvot"
+
+#~ msgid "Attribute option group"
+#~ msgstr "Määrevaihtoehtojen ryhmä"
+
+#~ msgid "Attribute option groups"
+#~ msgstr "Määrevaihtoehtojen ryhmät"
+
+#~ msgid "Group"
+#~ msgstr "Ryhmä"
+
+#~ msgid "Attribute option"
+#~ msgstr "Määrevaihtoehto"
+
+#~ msgid "Attribute options"
+#~ msgstr "Määrevaihtoehdot"
+
+#~ msgid "Required - a value for this option must be specified"
+#~ msgstr "Pakollinen - tämän kentän arvo on määriteltävä"
+
+#~ msgid "Optional - a value for this option can be omitted"
+#~ msgstr "Vaihtoehtoinen - tämä arvo voidaan jättää määrittelemättä"
+
+#~ msgid "Original"
+#~ msgstr "Alkuperäinen"
+
+#~ msgid "Caption"
+#~ msgstr "Seloste"
+
+#~ msgid ""
+#~ "An image with a display order of zero will be the primary image for a "
+#~ "product"
+#~ msgstr "Kuva, jonka näyttöjärjestys on nolla, on tuotteen pääkuva"
+
+#~ msgid "Product image"
+#~ msgstr "Tuotteen kuva"
+
+#~ msgid "Product images"
+#~ msgstr "Tuotteen kuvat"
+
+#~ msgid "%(obj)s has no attribute named '%(attr)s'"
+#~ msgstr "%(obj)s:lla ei ole '%(attr)s'-nimistä määrettä "
+
+#~ msgid "%(attr)s attribute cannot be blank"
+#~ msgstr "Määrite '%(attr)s' ei voi olla tyhjä"
+
+#~ msgid "%(attr)s attribute %(err)s"
+#~ msgstr "%(attr)s määre %(err)s"
+
+#~ msgctxt "Product review title"
+#~ msgid "Title"
+#~ msgstr "Otsikko"
+
+#~ msgid "Body"
+#~ msgstr "Kuvaus"
+
+#~ msgctxt "Anonymous reviewer name"
+#~ msgid "Name"
+#~ msgstr "Nimi"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Requires moderation"
+#~ msgstr "Vaatii moderointia"
+
+#~ msgid "Approved"
+#~ msgstr "Hyväksytty"
+
+#~ msgid "Rejected"
+#~ msgstr "Hylätty"
+
+#~ msgid "Total Votes"
+#~ msgstr "Äänet yhteensä"
+
+#~ msgid "Delta Votes"
+#~ msgstr "Äänten erotus"
+
+#~ msgid "Product review"
+#~ msgstr "Tuotearvio"
+
+#~ msgid "Product reviews"
+#~ msgstr "Tuotearviot"
+
+#~ msgid "Anonymous reviews must include a name and an email"
+#~ msgstr "Nimettömissä arvoisssa on oltava nimi ja sähköposti"
+
+#~ msgid "anonymous"
+#~ msgstr "Nimetön"
+
+#~ msgid "Only signed in users can vote"
+#~ msgstr "Vain kirjautuneet käyttäjät voivat peukuttaa"
+
+#~ msgid "Up"
+#~ msgstr "Ylös"
+
+#~ msgid "Down"
+#~ msgstr "Alas"
+
+#~ msgid "Delta"
+#~ msgstr "Erotus"
+
+#~ msgid "Vote"
+#~ msgstr "Ääni"
+
+#~ msgid "Votes"
+#~ msgstr "Äänet"
+
+#~ msgid "You cannot vote on your own reviews"
+#~ msgstr "Et voi äänestää omia arvostelujasi"
+
+#~ msgid "Only signed-in users can vote on reviews"
+#~ msgstr "Vain kirjaituneet käyttävät voivat peukuttaa arvioita"
+
+#~ msgid "You can only vote once on a review"
+#~ msgstr "Voit äänestää arviota vain kerran"
+
+#~ msgid "Catalogue reviews"
+#~ msgstr "Luetteloarvio"
+
+#~ msgid "Recency"
+#~ msgstr "Viimeaikainen"
+
+#~ msgid "Sort by"
+#~ msgstr "Lajitteluperuste"
+
+#~ msgid "You have already reviewed this product!"
+#~ msgstr "Olet jo arvostellut tämän tuotteen!"
+
+#~ msgid "You can't leave a review for this product."
+#~ msgstr "Et voi jättää arviota tälle tuotteella."
+
+#~ msgid "Thank you for reviewing this product"
+#~ msgstr "Kiitos tuotteen arvostelusta"
+
+#~ msgid "Thanks for voting!"
+#~ msgstr "Kiitos äänestämisestä!"
+
+#~ msgid "%(filename)s is not a valid image (%(error)s)"
+#~ msgstr "%(filename)s ei ole kelvollinen kuva (%(error)s)"
+
+#~ msgid "%s is not a valid image archive"
+#~ msgstr "%s ei ole kelvollinen kuva-arkisto"
+
+#~ msgid "The given page number was invalid."
+#~ msgstr "Virheellinen sivunumero"
+
+#~ msgid "Checkout"
+#~ msgstr "Maksamaan"
+
+#~ msgid "My email address is"
+#~ msgstr "Sähköpostisoitteeni on"
+
+#~ msgid "I am a new customer and want to checkout as a guest"
+#~ msgstr "Olen uusi asiakas ja haluan maksaa vieraana"
+
+#~ msgid ""
+#~ "I am a new customer and want to create an account before checking out"
+#~ msgstr "Olen uusi asiakas ja haluan luoda tilin ennen maksamista"
+
+#~ msgid "I am a returning customer, and my password is"
+#~ msgstr "Olen palaava asiakas, ja salasanani on:"
+
+#~ msgid "A user with that email address already exists"
+#~ msgstr "Tämä sähköpostiosoite on jo käyttäjällä"
+
+#~ msgid "You need to add some items to your basket to checkout"
+#~ msgstr "Sinulla on oltava tuotteita ostoskorissa ennen kassalle siirtymistä"
+
+#~ msgid ""
+#~ "'%(title)s' is no longer available to buy (%(reason)s). Please adjust "
+#~ "your basket to continue"
+#~ msgstr ""
+#~ "'%(title)s' ei ole enää ostettavissa (%(reason)s). Muokkaa koria "
+#~ "jatkaaksesi"
+
+#~ msgid "Please either sign in or enter your email address"
+#~ msgstr "Kirjaudu sisään tai kirjoita sähköpostiosoitteesi"
+
+#~ msgid "Please choose a shipping address"
+#~ msgstr "Valitse toimitusosoite"
+
+#~ msgid ""
+#~ "Your previously chosen shipping address is no longer valid.  Please "
+#~ "choose another one"
+#~ msgstr ""
+#~ "Aiemmin valittu toimitusosoite ei ole enää kevollinen. Valitse uusi."
+
+#~ msgid "Please choose a shipping method"
+#~ msgstr "Valitse toimitustapa"
+
+#~ msgid ""
+#~ "Your previously chosen shipping method is no longer valid.  Please choose "
+#~ "another one"
+#~ msgstr "Aiemmin valittu toimitustapa ei ole enää kelvollinen. Valitse uusi."
+
+#~ msgid ""
+#~ "Create your account and then you will be redirected back to the checkout "
+#~ "process"
+#~ msgstr "Luo itsellesi tili, minkä jälkeen voit jatkaa tilausta."
+
+#~ msgid "Address saved"
+#~ msgstr "Osoite tallennettu"
+
+#~ msgid "Address deleted"
+#~ msgstr "Osoite poistettu"
+
+#~ msgid ""
+#~ "Shipping is unavailable for your chosen address - please choose another"
+#~ msgstr ""
+#~ "Toimitus ei ole saatavana valitsemaasi osoitteeseen – valitse toinen."
+
+#~ msgid "Your submitted shipping method is not permitted"
+#~ msgstr "Valitsemasi toimitustapa ei ole sallittu"
+
+#~ msgid ""
+#~ "A problem occurred while processing payment for this order - no payment "
+#~ "has been taken.  Please contact customer services if this problem persists"
+#~ msgstr ""
+#~ "Onglema maksuprosessissa tälle tuotteelle – maksua ei ole veloitettu. Ota "
+#~ "yhteyttä asiakaspalveluun, jos tämä ongelma jatkuu."
+
+#~ msgid "No order found"
+#~ msgstr "Ei löydetty tilauksia"
+
+#~ msgid "email address"
+#~ msgstr "Sähköpostiosoite"
+
+#~ msgid "Staff status"
+#~ msgstr "Henkilökunnan tila"
+
+#~ msgid "Designates whether the user can log into this admin site."
+#~ msgstr "Määrää, voiko käyttäjä kirjautua hallintasivustolle."
+
+#~ msgid "Active"
+#~ msgstr "Aktiivinen"
+
+#~ msgid ""
+#~ "Designates whether this user should be treated as active. Unselect this "
+#~ "instead of deleting accounts."
+#~ msgstr ""
+#~ "Määrää, onko käyttäjätili aktiivinen. Poista tämä valinta tilin "
+#~ "tuhoamisen sijaan."
+
+#~ msgid "date joined"
+#~ msgstr "Liittymispäivämäärä"
+
+#~ msgid "Users"
+#~ msgstr "Käyttäjät"
+
+#~ msgid "Subject"
+#~ msgstr "Aihe"
+
+#~ msgid "Body Text"
+#~ msgstr "Kuvausteksti"
+
+#~ msgid "Body HTML"
+#~ msgstr "HTML-kuvaus"
+
+#~ msgid "Date Sent"
+#~ msgstr "Lähetyspäivämäärä"
+
+#~ msgid "Emails"
+#~ msgstr "Sähköpostit"
+
+#~ msgid "Email to %(user)s with subject '%(subject)s'"
+#~ msgstr "Sähköposti käyttäjälle %(user)s aiheella '%(subject)s'"
+
+#~ msgid "Code used for looking up this event programmatically"
+#~ msgstr "Koodin tämän tapahtuman koneelliseen etsintään."
+
+#~ msgid "This is just used for organisational purposes"
+#~ msgstr "Tämä on tarpeellinen vain yrityksille ja organisaatioille"
+
+#~ msgid "Order related"
+#~ msgstr "Tilauskohtainen"
+
+#~ msgid "User related"
+#~ msgstr "Käyttäjäkohtainen"
+
+#~ msgid "Email Subject Template"
+#~ msgstr "Sähköpostin otsikon malli"
+
+#~ msgid "Email Body Template"
+#~ msgstr "Sähköpostin rungon malli"
+
+#~ msgid "Email Body HTML Template"
+#~ msgstr "Sähköpostin rungon HTML-malli"
+
+#~ msgid "HTML template"
+#~ msgstr "HTML-malli"
+
+#~ msgid "SMS Template"
+#~ msgstr "SMS-malli"
+
+#~ msgid "SMS template"
+#~ msgstr "SMS-malli"
+
+#~ msgid "Date Updated"
+#~ msgstr "Viimeksi päivitetty"
+
+#~ msgid "Communication event type"
+#~ msgstr "Kommunikaatiotapahtuman tyyppi"
+
+#~ msgid "Communication event types"
+#~ msgstr "Kommunikaatiotapahtumien tyypit"
+
+#~ msgid "Inbox"
+#~ msgstr "Saapuneet"
+
+#~ msgid "Archive"
+#~ msgstr "Arkisto"
+
+#~ msgid "Notification"
+#~ msgstr "Ilmoitus"
+
+#~ msgid "Notifications"
+#~ msgstr "Ilmoitukset"
+
+#~ msgid "Key"
+#~ msgstr "Avain"
+
+#~ msgid "Not yet confirmed"
+#~ msgstr "Ei vielä vahvistettu"
+
+#~ msgid "Cancelled"
+#~ msgstr "Peruutettu"
+
+#~ msgid "Closed"
+#~ msgstr "Suljettu"
+
+#~ msgid "Date confirmed"
+#~ msgstr "Vahvistuspäivämäärä"
+
+#~ msgid "Date cancelled"
+#~ msgstr "Peruutuspäivämäärä"
+
+#~ msgid "Date closed"
+#~ msgstr "Sulkemispäivämäärä"
+
+#~ msgid "Product alert"
+#~ msgstr "Tuotehälytys"
+
+#~ msgid "Product alerts"
+#~ msgstr "Tuotehälytykset"
+
+#~ msgid "Product Alerts"
+#~ msgstr "Tuotehälytykset"
+
+#~ msgid "An alert has been created"
+#~ msgstr "Hälytys luotu"
+
+#~ msgid "A confirmation email has been sent to %s"
+#~ msgstr "Vahvistussähköposti on lähetetty osoitteeseen %s"
+
+#~ msgid "Your stock alert is now active"
+#~ msgstr "Varastohälytyksesi on nyt aktivoitu"
+
+#~ msgid "Your stock alert cannot be confirmed"
+#~ msgstr "Varastohälytystäsi ei voida vahvistaa"
+
+#~ msgid "Your stock alert has been cancelled"
+#~ msgstr "Varastohälytyksesi on peruutettu"
+
+#~ msgid "Your stock alert cannot be cancelled"
+#~ msgstr "Varastohälytystäsi ei voida peruuttaa"
+
+#~ msgid "Customer"
+#~ msgstr "Asiakas"
+
+#~ msgid "Email address"
+#~ msgstr "Sähköpostiosoite"
+
+#~ msgid "Password"
+#~ msgstr "Salasana"
+
+#~ msgid "The entered password is not valid!"
+#~ msgstr "Syötetty salasana ei kelpaa!"
+
+#~ msgid "Confirm password"
+#~ msgstr "Vahvista salasana"
+
+#~ msgid "The two password fields didn't match."
+#~ msgstr "Salasanakentät eivät täsmää."
+
+#~ msgctxt "start date"
+#~ msgid "From"
+#~ msgstr "Keneltä"
+
+#~ msgctxt "end date"
+#~ msgid "To"
+#~ msgstr "Kenelle"
+
+#~ msgid "Order number"
+#~ msgstr "Tilausnumero"
+
+#~ msgid "At least one field is required."
+#~ msgstr "Vähintään yksi kenttä vaaditaan."
+
+#~ msgid "All orders"
+#~ msgstr "Kaikki tilaukset"
+
+#~ msgid ""
+#~ "Orders placed between %(date_from)s and %(date_to)s and order number "
+#~ "containing %(order_number)s"
+#~ msgstr ""
+#~ "Tilaukset väliltä %(date_from)s - %(date_to)s ja tilausnumero sisältää "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed between %(date_from)s and %(date_to)s"
+#~ msgstr "Tilaukset aikavälillä %(date_from)s - %(date_to)s"
+
+#~ msgid ""
+#~ "Orders placed since %(date_from)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "Päivän %(date_from)s jälkeiset tilauksen, joiden tilausnumero sisätää "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed since %(date_from)s"
+#~ msgstr "%(date_from)s jälkeen jätetyt tilaukset"
+
+#~ msgid ""
+#~ "Orders placed until %(date_to)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ " %(date_to)s ennen jätetyt tilaukset, joiten tilausnumero sisältää "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed until %(date_to)s"
+#~ msgstr "Tilaukset ennen %(date_to)s"
+
+#~ msgid "Orders with order number containing %(order_number)s"
+#~ msgstr "Tilaukset joiden tilausnumero sisältää %(order_number)s"
+
+#~ msgid "A user with this email address already exists"
+#~ msgstr "Tämä sähköpostiosoite on jo käytössä"
+
+#~ msgid "Send notification to"
+#~ msgstr "Lähetä muistutus"
+
+#~ msgid "Enter your email"
+#~ msgstr "Kirjoita sähköpostisi"
+
+#~ msgid "There is already an active stock alert for %s"
+#~ msgstr "%s:lla on jo aktiivinen varastohälytys"
+
+#~ msgid "You already have an active alert for this product"
+#~ msgstr "Tälle tuotteelle on jo aktiivinen hälytys olemassa"
+
+#~ msgid "%(count)d notification archived"
+#~ msgid_plural "%(count)d notifications archived"
+#~ msgstr[0] "%(count)d muistutus arkistoitu"
+#~ msgstr[1] "%(count)d kpltta muistutuksia arkistoitu"
+
+#~ msgid "%(count)d notification deleted"
+#~ msgid_plural "%(count)d notifications deleted"
+#~ msgstr[0] "%(count)d muistutus poistettu"
+#~ msgstr[1] "%(count)d kpltta muistutuksia poistettu"
+
+#~ msgid "Welcome back"
+#~ msgstr "Tervetuloa takaisin"
+
+#~ msgid "Thanks for registering!"
+#~ msgstr "Kiitos rekisteröitymisestä!"
+
+#~ msgid "Profile"
+#~ msgstr "Profiili"
+
+#~ msgid "Edit Profile"
+#~ msgstr "Muokkaa profiilia"
+
+#~ msgid "Profile updated"
+#~ msgstr "Profiilipäivitys"
+
+#~ msgid "Delete profile"
+#~ msgstr "Poista profiili"
+
+#~ msgid "Your profile has now been deleted. Thanks for using the site."
+#~ msgstr "Profiilisi on nyt tuhottu. Kiitos, että käytit sivustoa."
+
+#~ msgid "Change Password"
+#~ msgstr "Muuta salasana"
+
+#~ msgid "Password updated"
+#~ msgstr "Salasana päivitetty"
+
+#~ msgid "Email History"
+#~ msgstr "Sähköpostihistoria"
+
+#~ msgid "Order History"
+#~ msgstr "Tilaushistoria"
+
+#~ msgid "Order"
+#~ msgstr "Tilaus"
+
+#~ msgid ""
+#~ "All available lines from order %(number)s have been added to your basket"
+#~ msgstr "Kaikki rivit tilauksesta %(number)s on lisätty ostoskoriisi"
+
+#~ msgid ""
+#~ "It is not possible to re-order order %(number)s as none of its lines are "
+#~ "available to purchase"
+#~ msgstr ""
+#~ "Ei ole mahdollista uudelleentilata tilausta %(number)s koska mikään "
+#~ "riveistä ei ole ostettavissa"
+
+#~ msgid "%(qty)d copies of '%(product)s' have been added to your basket"
+#~ msgstr "%(qty)d kpltta tuotetta '%(product)s' on lisätty ostoskoriisi"
+
+#~ msgid "'%s' has been added to your basket"
+#~ msgstr "'%s' on lisätty ostoskoriisi"
+
+#~ msgid "Address Book"
+#~ msgstr "Osoitekirja"
+
+#~ msgid "Add a new address"
+#~ msgstr "Lisää uusi osoite"
+
+#~ msgid "Address '%s' created"
+#~ msgstr "Osoite '%s' luotu"
+
+#~ msgid "Edit address"
+#~ msgstr "Muokkaa osoitetta"
+
+#~ msgid "Address '%s' updated"
+#~ msgstr "Sähköposti '%s' päivitetty"
+
+#~ msgid "Delete address?"
+#~ msgstr "Poista osoite?"
+
+#~ msgid "Address '%s' deleted"
+#~ msgstr "Osoite '%s' tuhottu"
+
+#~ msgid "We do not ship to this country"
+#~ msgstr "Emme toimita tähän maahan."
+
+#~ msgid "Wish Lists"
+#~ msgstr "Toivelistat"
+
+#~ msgid "Quantities updated."
+#~ msgstr "Määrät päivitetty."
+
+#~ msgid "Create a new wish list"
+#~ msgstr "Luo uusi toivelista"
+
+#~ msgid "The requested product no longer exists"
+#~ msgstr "Pyydettyä tuotetta ei enää ole"
+
+#~ msgid "Your wishlist has been created and '%(name)s has been added"
+#~ msgstr "Toivelistasi on luotu, ja siihen on lisätty '%(name)s."
+
+#~ msgid "Your wishlist has been created"
+#~ msgstr "Toivelistasi on luotu"
+
+#~ msgid "%(title)s has been added to your wishlist"
+#~ msgstr "%(title)s on lisätty toivelistaasi"
+
+#~ msgid "Your '%s' wishlist has been updated"
+#~ msgstr "Toivelistasi '%s' on päivitetty"
+
+#~ msgid "Delete %s"
+#~ msgstr "Poista %s"
+
+#~ msgid "Your '%s' wish list has been deleted"
+#~ msgstr "Toivelistasi '%s' on tuhottu"
+
+#~ msgid "'%s' was added to your wish list."
+#~ msgstr "'%s' on lisätty toivelistaasi."
+
+#~ msgid "Remove %s"
+#~ msgstr "Poista %s"
+
+#~ msgid "'%(title)s' was removed from your '%(name)s' wish list"
+#~ msgstr "'%(title)s' poistettu toivelistalta '%(name)s'"
+
+#~ msgid "'%(title)s' moved to '%(name)s' wishlist"
+#~ msgstr "'%(title)s' siirretty toivelistalle '%(name)s'"
+
+#~ msgid "Create a new product of type"
+#~ msgstr "Luo uusi tuotetyyppi"
+
+#~ msgid "-- Choose type --"
+#~ msgstr "-- Valitse tyyppi --"
+
+#~ msgid "Product title"
+#~ msgstr "Tuotteen otsikko"
+
+#~ msgid "Select an option group"
+#~ msgstr "Valitse vaihtoehtoryhmä"
+
+#~ msgid ""
+#~ "At least one stock record must be set to a partner that you're associated "
+#~ "with."
+#~ msgstr "Varastosaldo täytyy asettaa ainakin yhden toimittajan osalta."
+
+#~ msgid "Stand-alone and parent products must have at least one category"
+#~ msgstr "Yksittäis- ja emotuoteilla täytyy olla vähintään yksi kategoria."
+
+#~ msgid "A child product should not have categories"
+#~ msgstr "Alituotteella ei pitäisi olla kategorioita."
+
+#~ msgid "Title"
+#~ msgstr "Otsikko"
+
+#~ msgid "Variants"
+#~ msgstr "Muunnokset"
+
+#~ msgid "Stock records"
+#~ msgstr "Varastokirjanpito"
+
+#~ msgid "Actions"
+#~ msgstr "Toiminnot"
+
+#~ msgid "Number of child categories"
+#~ msgstr "Alikategorioiden määrä"
+
+#~ msgid "%s Category"
+#~ msgid_plural "%s Categories"
+#~ msgstr[0] "%s kategoria"
+#~ msgstr[1] "%s kategoriaa"
+
+#~ msgid "Product search results"
+#~ msgstr "Tuotehaun tulokset"
+
+#~ msgid "Please choose a product type"
+#~ msgstr "Valitset tuotetyyppi"
+
+#~ msgid "Create new %(product_class)s product"
+#~ msgstr "Luo uusi luokan %(product_class)s tuote"
+
+#~ msgid "Create new variant of %(parent_product)s"
+#~ msgstr "Luo uusi muunnos tuotteelle %(parent_product)s"
+
+#~ msgid "Editing variant of %(parent_product)s"
+#~ msgstr "Muokataan tuotteen %(parent_product)s muunnosta"
+
+#~ msgid "Your submitted data was not valid - please correct the errors below"
+#~ msgstr ""
+#~ "Antamasi data ei ollut kelvollista - ole hyvä, ja korjaa alla olevat "
+#~ "virheet."
+
+#~ msgid "Delete product variant?"
+#~ msgstr "Poista tuotemuunnos?"
+
+#~ msgid "Delete product?"
+#~ msgstr "Poista tuote?"
+
+#~ msgid "Deleted product variant '%s'"
+#~ msgstr "Poistettu tuotemuunnos '%s'"
+
+#~ msgid "Deleted product '%s'"
+#~ msgstr "Tuote '%s' poistettu"
+
+#~ msgid "Alerts with status \"%s\""
+#~ msgstr "Tilassa \"%s\" olevat hälytykset"
+
+#~ msgid "All alerts"
+#~ msgstr "Kaikki hälytykset"
+
+#~ msgid "Add a new category"
+#~ msgstr "Lisää uusi kategoria"
+
+#~ msgid "Category created successfully"
+#~ msgstr "Kategorian luonti onnistui"
+
+#~ msgid "Update category '%s'"
+#~ msgstr "Päivitä kategoria '%s'"
+
+#~ msgid "Category updated successfully"
+#~ msgstr "Kategorian päivitys onnistui"
+
+#~ msgid "Category deleted successfully"
+#~ msgstr "Kategorian poisto onnistui"
+
+#~ msgid "Add a new product type"
+#~ msgstr "Lisää uusi tuotetyyppi"
+
+#~ msgid "Product type created successfully"
+#~ msgstr "Tuotetyypin luonti onnistui"
+
+#~ msgid "Update product type '%s'"
+#~ msgstr "Päivitä tuotetyyppi '%s'"
+
+#~ msgid "Product type updated successfully"
+#~ msgstr "Tuotetyypin päivitys onnistui"
+
+#~ msgid "Delete product type '%s'"
+#~ msgstr "Tuhoa tuotetyyppi '%s'"
+
+#~ msgid "Unable to delete '%s'"
+#~ msgstr "Ei voida poistaa: %s"
+
+#~ msgid "%i products are still assigned to this type"
+#~ msgstr "%i tuotetta yhä liitetty tähän tyyppiin"
+
+#~ msgid "Product type deleted successfully"
+#~ msgstr "Tuotetyypin tuhuominen onnistui"
+
+#~ msgid "Communications dashboard"
+#~ msgstr "Viestinnän kojelauta"
+
+#~ msgid "Email subject template"
+#~ msgstr "Sähköpostiotsikon malli"
+
+#~ msgid "Email body text template"
+#~ msgstr "Sähköpostirungon malli"
+
+#~ msgid "Email body HTML template"
+#~ msgstr "Sähköpostirungon HTML-malli"
+
+#~ msgid "Preview email"
+#~ msgstr "Esikatsele sähköposti"
+
+#~ msgid "No order found with this number"
+#~ msgstr "Tällä numerolla ei löydetty tilausta"
+
+#~ msgid "Please enter an email address"
+#~ msgstr "Kirjoita sähköpostiosoite"
+
+#~ msgid ""
+#~ "The submitted form was not valid, please correct the errors and resubmit"
+#~ msgstr ""
+#~ "Lähetettyä lomaketta ei kelpuutettu, korjaa virheet ja lähetä uudelleen"
+
+#~ msgid "Email saved"
+#~ msgstr "Sähköposti tallennettu"
+
+#~ msgid "A preview email has been sent to %s"
+#~ msgstr "Esikatseltu sähköposti on lähetetty osoitteeseen %s"
+
+#~ msgid "Offers dashboard"
+#~ msgstr "Tarjousten kojelauta"
+
+#~ msgid "Start date"
+#~ msgstr "Aloituspäivämäärä"
+
+#~ msgid "End date"
+#~ msgstr "Lopetuspäivämäärä"
+
+#~ msgid "The end date must be after the start date"
+#~ msgstr "Päättymispäivän oltava aloituspäivän jälkeen"
+
+#~ msgid "Custom condition"
+#~ msgstr "Erityisehto"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom condition"
+#~ msgstr "Valitse valikoima, tyyppi ja arvo TAI valitse erityisehto"
+
+#~ msgid "A range is required"
+#~ msgstr "Valikoima vaaditaan"
+
+#~ msgid "Custom incentive"
+#~ msgstr "Erilliskannustin"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom incentive"
+#~ msgstr "Valitse valikoima, tyyppi ja arvo TAI valitse erilliskannustin"
+
+#~ msgid "No other options can be set if you are using a custom incentive"
+#~ msgstr "Muita valintoja ei voi asettaa, jos käytät erilliskannustinta."
+
+#~ msgid "Offer name"
+#~ msgstr "Tarjouksen nimi"
+
+#~ msgid "Is active?"
+#~ msgstr "On aktiivinen?"
+
+#~ msgid "Order date"
+#~ msgstr "Tilauspäivämäärä"
+
+#~ msgid "Order total"
+#~ msgstr "Tilauksen kokonaissumma"
+
+#~ msgid "Cost"
+#~ msgstr "Kustannus"
+
+#~ msgid "All offers"
+#~ msgstr "Kaikki tarjoukset"
+
+#~ msgid "Offers matching '%s'"
+#~ msgstr "Merkkijonoon '%s' täsmäävät tilaukset"
+
+#~ msgid "%s step not complete"
+#~ msgstr "%s askel ei ole valmis"
+
+#~ msgid "Offer '%s' updated"
+#~ msgstr "Tarjous '%s' päivitetty"
+
+#~ msgid "Offer '%s' created!"
+#~ msgstr "Tarjous '%s' luotu!"
+
+#~ msgid "Name and description"
+#~ msgstr "Nimi ja kuvaus"
+
+#~ msgid "Incentive"
+#~ msgstr "Houkutin"
+
+#~ msgid "Restrictions"
+#~ msgstr "Rajoitteet"
+
+#~ msgid "Offer deleted!"
+#~ msgstr "Tarjous poistettu!"
+
+#~ msgid "Offer is already suspended"
+#~ msgstr "Tarjous on jo keskeytetty"
+
+#~ msgid "Offer suspended"
+#~ msgstr "Tarjous keskeytetty"
+
+#~ msgid "Offer cannot be reinstated as it is not currently suspended"
+#~ msgstr "Tarjousta ei voi uudelleenluoda, koska sitä ei ole keskeytetty"
+
+#~ msgid "Offer reinstated"
+#~ msgstr "Tarjous uudelleenluotu"
+
+#~ msgid "Orders dashboard"
+#~ msgstr "Tilausten kojelauta"
+
+#~ msgid "Orders placed since %s"
+#~ msgstr "Tilaukset %s lähtien"
+
+#~ msgid "Orders placed until %s"
+#~ msgstr "Tilaukset %s mennessä"
+
+#~ msgid "Customer name"
+#~ msgstr "Asiakkaan nimi"
+
+#~ msgid "Product name"
+#~ msgstr "Tuotteen nimi"
+
+#~ msgid "Partner SKU"
+#~ msgstr "Kumppanin SKU"
+
+#~ msgid "Date from"
+#~ msgstr "Alkaen"
+
+#~ msgid "Date to"
+#~ msgstr "Päättyen"
+
+#~ msgid "Voucher code"
+#~ msgstr "Kupongin koodi"
+
+#~ msgid "Payment method"
+#~ msgstr "Maksutapa"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "CSV"
+#~ msgstr "CSV"
+
+#~ msgid "Get results as"
+#~ msgstr "Anna tulokset muodossa"
+
+#~ msgid "New order status"
+#~ msgstr "Uusi tila tilaukselle"
+
+#~ msgid "Order number starts with \"{order_number}\""
+#~ msgstr "Tilausnumero alkaa \"{order_number}\""
+
+#~ msgid "Customer name matches \"{customer_name}\""
+#~ msgstr "Asiakkaan nimessä on \"{customer_name}\""
+
+#~ msgid "Product name matches \"{product_name}\""
+#~ msgstr "Tuotteen nimessä on \"{product_name}\""
+
+#~ msgid "Includes an item with UPC \"{upc}\""
+#~ msgstr "Sisältää tuotteen, jonka UPC on \"{upc}\""
+
+#~ msgid "Includes an item with partner SKU \"{partner_sku}\""
+#~ msgstr "Sisältää tuotteen, jonka toimittajakoodi on \"{partner_sku}\""
+
+#~ msgid "Placed between {start_date} and {end_date}"
+#~ msgstr "Tilattu {start_date} ja {end_date} välisenä aikana"
+
+#~ msgid "Placed after {start_date}"
+#~ msgstr "Tilattu {start_date} jälkeen"
+
+#~ msgid "Placed before {end_date}"
+#~ msgstr "Tilattu ennen {end_date}"
+
+#~ msgid "Used voucher code \"{voucher_code}\""
+#~ msgstr "Käytetty kuponkikoodia \"{voucher_code}\""
+
+#~ msgid "Paid using {payment_method}"
+#~ msgstr "Maksettu tavalla: {payment_method}"
+
+#~ msgid "Order status is {order_status}"
+#~ msgstr "Tilauksen tila on {order_status}"
+
+#~ msgid "Order value"
+#~ msgstr "Tilauksen arvo"
+
+#~ msgid "Date of purchase"
+#~ msgstr "Ostopäivämäärä"
+
+#~ msgid "Number of items"
+#~ msgstr "Tuotteiden lukumäärä"
+
+#~ msgid "Order status"
+#~ msgstr "Tilauksen tila"
+
+#~ msgid "Customer email address"
+#~ msgstr "Asiakkaan sähköpostiosoite"
+
+#~ msgid "Deliver to name"
+#~ msgstr "Toimitus nimellä"
+
+#~ msgid "Bill to name"
+#~ msgstr "Laskutus nimellä"
+
+#~ msgid "The new status '%s' is not valid"
+#~ msgstr "Uusi tila '%s' ei ole sallittu"
+
+#~ msgid "The new status '%s' is not valid for this order"
+#~ msgstr "Uusi tila '%s' ei ole kelvollinen tälle tilaukselle"
+
+#~ msgid "Unable to change order status due to payment error: %s"
+#~ msgstr "Tilauksen tilaa ei voida muuttaa maksuvirheen: %s vuoksi"
+
+#~ msgid "Order status changed from '%(old_status)s' to '%(new_status)s'"
+#~ msgstr "Tilaus muutettu tilasta '%(old_status)s' tilaan '%(new_status)s'"
+
+#~ msgid "No valid action submitted"
+#~ msgstr "Ei tehtyjä muutoksia"
+
+#~ msgid "Invalid action"
+#~ msgstr "Virheellinen toiminto"
+
+#~ msgid "You must select some lines to act on"
+#~ msgstr "Valitse rivit, joille toiminto suoritetaan"
+
+#~ msgid "Invalid lines requested"
+#~ msgstr "Virheellisiä rivejä pyydetty"
+
+#~ msgid "The entered quantity for line #%s is not valid"
+#~ msgstr "Syötetty määrä riville #%s on virheellinen"
+
+#~ msgid ""
+#~ "The entered quantity for line #%(line_id)s should not be higher than "
+#~ "%(quantity)s"
+#~ msgstr ""
+#~ "Syötetty määrä riville #%(line_id)s ei pitäis olla korkeampi kuin "
+#~ "%(quantity)s"
+
+#~ msgid "Note saved"
+#~ msgstr "Muistiinpano tallennettu"
+
+#~ msgid "Note cannot be deleted"
+#~ msgstr "Muistiinpanoa ei voi poistaa"
+
+#~ msgid "Note deleted"
+#~ msgstr "Muistiinpano poistettu"
+
+#~ msgid "Invalid form submission"
+#~ msgstr "Virheellinen lomakkeen palautus"
+
+#~ msgid ""
+#~ "Unable to change order status as the requested new status is not valid"
+#~ msgstr ""
+#~ "Tilauksen tilaa ei voitu muuttaa, koska pyydetty uusi tila on virheellinen"
+
+#~ msgid "Please choose a valid amount"
+#~ msgstr "Valitse kelvollinen määrä"
+
+#~ msgid "'%(status)s' is not a valid new status for line %(line_id)d"
+#~ msgstr "'%(status)s' ei ole sallittu uusi tila riville %(line_id)d"
+
+#~ msgid ""
+#~ "Status of line #%(line_id)d changed from '%(old_status)s' to "
+#~ "'%(new_status)s'"
+#~ msgstr ""
+#~ "Rivi %(line_id)d muutettu tilasta '%(old_status)s' tilaan '%(new_status)s'"
+
+#~ msgid "The event type '%s' is not valid"
+#~ msgstr "Tapahtumatyyppi '%s' ei ole sallittu"
+
+#~ msgid "Unable to create shipping event: %s"
+#~ msgstr "Toimitustapahtumaa %s ei voida luoda"
+
+#~ msgid "Unable to create shipping event due to payment error: %s"
+#~ msgstr "Toimitustapahtumaa ei voida luoda maksuvirheen vuoksi: %s"
+
+#~ msgid "Shipping event created"
+#~ msgstr "Toimitustapahtuma luotu"
+
+#~ msgid "Unable to create payment event due to payment error: %s"
+#~ msgstr "Maksutapahtuman luonti epäonnistui virheen vuoksi: %s"
+
+#~ msgid "Unable to create payment event: %s"
+#~ msgstr "Maksutapahtumaa %s ei voida luoda."
+
+#~ msgid "Payment event created"
+#~ msgstr "Maksutapahtuma luotu"
+
+#~ msgid "%(field)s changed from '%(old_value)s' to '%(new_value)s'"
+#~ msgstr "%(field)s muutettu '%(old_value)s':sta to '%(new_value)s':een"
+
+#~ msgid ""
+#~ "Delivery address updated:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Toimitusosoite päivitetty:\n"
+#~ "%s"
+
+#~ msgid "Delivery address updated"
+#~ msgstr "Toimitusosoite päivitetty"
+
+#~ msgid "Pages dashboard"
+#~ msgstr "Sivujen kojelauta"
+
+#~ msgctxt "Page title"
+#~ msgid "Title"
+#~ msgstr "Otsikko"
+
+#~ msgid "Example: '/about/contact/'."
+#~ msgstr "Esimerkki: '/tietoja/otayhteytta/'."
+
+#~ msgid "All pages"
+#~ msgstr "Kaikki sivut"
+
+#~ msgid " with title containing '%s'"
+#~ msgstr "sisältää otsikon '%s'"
+
+#~ msgid "Create New Page"
+#~ msgstr "Luo uusi sivu"
+
+#~ msgid "Deleted page '%s'"
+#~ msgstr "Sivu '%s' poistettu"
+
+#~ msgid "Partners dashboard"
+#~ msgstr "Kumppanien hallinta"
+
+#~ msgctxt "Partner's name"
+#~ msgid "Name"
+#~ msgstr "Nimi"
+
+#~ msgid "Full dashboard access"
+#~ msgstr "Täydet oikeudet kojelautaan"
+
+#~ msgid "Limited dashboard access"
+#~ msgstr "Rajoitettu oikeus kojelautaan"
+
+#~ msgid "User role"
+#~ msgstr "Käyttäjärooli"
+
+#~ msgid "Confirm Password"
+#~ msgstr "Vahvista salasana"
+
+#~ msgid "All partners"
+#~ msgstr "Kaikki kumppanit"
+
+#~ msgid "Partners matching '%s'"
+#~ msgstr "Kumppanit joiden nimessä on '%s'"
+
+#~ msgid "Create new partner"
+#~ msgstr "Luo uusi kumppani"
+
+#~ msgid "Partner '%s' was created successfully."
+#~ msgstr "Kumppanin '%s' luonti onnistui."
+
+#~ msgid "Partner '%s' was updated successfully."
+#~ msgstr "Kumppanin '%s' päivitys onnistui."
+
+#~ msgid "Partner '%s' was deleted successfully."
+#~ msgstr "kumppanin '%s' poistaminen onnistui."
+
+#~ msgid "Create user"
+#~ msgstr "Luo käyttäjä"
+
+#~ msgid "User '%s' was created successfully."
+#~ msgstr "Käyttäjän '%s' luonti onnistui."
+
+#~ msgid "User '%(name)s' was linked to '%(partner_name)s'"
+#~ msgstr "Käyttäjä '%(name)s' liitettiin kumppaniin '%(partner_name)s'"
+
+#~ msgid "User '%(name)s' is already linked to '%(partner_name)s'"
+#~ msgstr "Käyttäjä '%(name)s' on jo liitetty kumppaniin '%(partner_name)s'"
+
+#~ msgid "User '%(name)s' is not linked to '%(partner_name)s'"
+#~ msgstr "Käyttäjää '%(name)s' ei ole liitetty kumppaniin '%(partner_name)s'"
+
+#~ msgid "Edit user '%s'"
+#~ msgstr "Muokkaa käyttäjää '%s'"
+
+#~ msgid "User '%s' was updated successfully."
+#~ msgstr "Käyttäjän '%s' päivitys onnistui"
+
+#~ msgid "Promotions dashboard"
+#~ msgstr "Kampanjoiden kojelauta"
+
+#~ msgid "Promotion type"
+#~ msgstr "Kampanjan tyyppi"
+
+#~ msgid "Position"
+#~ msgstr "Sijainti"
+
+#~ msgid "Where in the page this content block will appear"
+#~ msgstr "Mihin tämä sisältölohko ilmestyy sivulla"
+
+#~ msgid "Content blocks can only be linked to internal URLs"
+#~ msgstr "Sisältölohkot voidaan liittää vain sisäiseen URLiin."
+
+#~ msgid "Content block removed successfully"
+#~ msgstr "Sisältölohko poistettu onnistuneesti"
+
+#~ msgid "Content block created successfully"
+#~ msgstr "Sisältölohko luotu onnistuneesti"
+
+#~ msgid "Create a new %s content block"
+#~ msgstr "Luo uusi %s sisältölohko"
+
+#~ msgid "Product list content block created"
+#~ msgstr "Tuotelistan sisältölohko luotu"
+
+#~ msgid "Update content block"
+#~ msgstr "Päivitä sisältölohko"
+
+#~ msgid "Content block updated successfully"
+#~ msgstr "Sisältölohko päivitetty"
+
+#~ msgid "Content block '%(block)s' added to page '%(page)s'"
+#~ msgstr "Sisältölohko '%(block)s' lisätty sivulle '%(page)s'"
+
+#~ msgid "No link found to delete"
+#~ msgstr "Poistettavaa linkkiä ei löytynyt"
+
+#~ msgid "Content block removed from page '%s'"
+#~ msgstr "Sisältölohko poistettu sivulta '%s'"
+
+#~ msgid "Product list promotion updated"
+#~ msgstr "Tuotelistauksen kampanja päivitetty"
+
+#~ msgid "Content block deleted successfully"
+#~ msgstr "Sisältölohko poistettu onnistuneesti"
+
+#~ msgid "Ranges dashboard"
+#~ msgstr "Tuotevalikoimien kojelauta"
+
+#~ msgid "Product SKUs or UPCs"
+#~ msgstr "Tuotteen tuotekoodit tai UPC:t"
+
+#~ msgid "You can paste in a selection of SKUs or UPCs"
+#~ msgstr "Voit liittää tuotekoodeja ja UPC:tä"
+
+#~ msgid "File of SKUs or UPCs"
+#~ msgstr "Tiedosto tuotekoodeja ja UPC:tä"
+
+#~ msgid "Either comma-separated, or one identifier per line"
+#~ msgstr "Erottelu pilkulla, tai yksi tunniste per rivi."
+
+#~ msgid "You must submit either a list of SKU/UPCs or a file"
+#~ msgstr "Voit antaa joko listan tuotekoodeja/UPC:tä tai tiedoston"
+
+#~ msgid "The products with SKUs or UPCs matching %s are already in this range"
+#~ msgstr "Tuotteet, '%s' tuotekoodeilla tai UPC:llä ovat jo valikoimassa  "
+
+#~ msgid "No products exist with a SKU or UPC matching %s"
+#~ msgstr "Ei löydy tuotteita, joiden tuotekoodi tai UPC olisi sama kuin %s"
+
+#~ msgid "Create range"
+#~ msgstr "Luo valikoima"
+
+#~ msgid "Range deleted"
+#~ msgstr "Valikoima poistettu"
+
+#~ msgid "Removed %d product from range"
+#~ msgid_plural "Removed %d products from range"
+#~ msgstr[0] "Poistettua %d tuote valimoimasta"
+#~ msgstr[1] "Poistettu %d tuotetta valikoimasta"
+
+#~ msgid "%d product added to range"
+#~ msgid_plural "%d products added to range"
+#~ msgstr[0] "%d tuote lisätty valikoimaan"
+#~ msgstr[1] "%d tuotetta lisätty valikoimaan"
+
+#~ msgid "No product(s) were found with SKU or UPC matching %s"
+#~ msgstr ""
+#~ "Ei löydy tuottetta/tuotteita, jonka/joiden tuotekoodi tai UPC olisi sama "
+#~ "kuin %s"
+
+#~ msgid "Reports dashboard"
+#~ msgstr "Raportoinnin kojelauta"
+
+#~ msgid "Report Type"
+#~ msgstr "Raporttityyppi"
+
+#~ msgid "Only the offer and order reports use the selected date range"
+#~ msgstr "Vain tarjous- ja tuoteraportit käyttävät valittua päiväysväliä"
+
+#~ msgid "The report is inclusive of this date"
+#~ msgstr "Raportti on täydellinen tältä päiväykseltä"
+
+#~ msgid "Download"
+#~ msgstr "Lataa"
+
+#~ msgid "Your start date must be before your end date"
+#~ msgstr "Aloituspäivämäärän täytyy olla ennen päättymispäivämäärää"
+
+#~ msgid "%(report_filter)s between %(start_date)s and %(end_date)s"
+#~ msgstr "%(report_filter)s %(start_date)s:n ja  %(end_date)s:n väliltä"
+
+#~ msgid "You do not have access to this report"
+#~ msgstr "Sinulla ei ole oikeuksia tähän raporttiin"
+
+#~ msgid "Reviews dashboard"
+#~ msgstr "Arvioiden kojelauta"
+
+#~ msgid "Keyword"
+#~ msgstr "Avainsana"
+
+#~ msgid "to"
+#~ msgstr "-"
+
+#~ msgid ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+#~ msgstr ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+
+#~ msgid " created after %s"
+#~ msgstr "Luotu %s jälkeen"
+
+#~ msgid " created before %s"
+#~ msgstr "luotu ennen %s"
+
+#~ msgid " created between %(start_date)s and %(end_date)s"
+#~ msgstr "luotu %(start_date)s:n ja %(end_date)s:n välissä"
+
+#~ msgid "All reviews"
+#~ msgstr "Kaikki arviot"
+
+#~ msgid " with status matching '%s'"
+#~ msgstr "'%s' vastaavalla statuksella"
+
+#~ msgid " with keyword matching '%s'"
+#~ msgstr "'%s' vastaavalla hakusanalla"
+
+#~ msgid " with customer name matching '%s'"
+#~ msgstr "asiakkaan nimen täsmätessä '%s'"
+
+#~ msgid "Shipping dashboard"
+#~ msgstr "Toimituskojelauta"
+
+#~ msgid "%d Row"
+#~ msgid_plural "%d Rows"
+#~ msgstr[0] "%d rivi"
+#~ msgstr[1] "%d riviä"
+
+#~ msgid "Users dashboard"
+#~ msgstr "Käyttäjähallinnan kojelauta"
+
+#~ msgctxt "User's name"
+#~ msgid "Name"
+#~ msgstr "Nimi"
+
+#~ msgid "%(main_filter)s %(email_filter)s %(name_filter)s"
+#~ msgstr "%(main_filter)s %(email_filter)s %(name_filter)s"
+
+#~ msgid "All users"
+#~ msgstr "Kaikki käyttäjät"
+
+#~ msgid " with email matching '%s'"
+#~ msgstr "joiden sähköpostiosoitteessa on '%s'"
+
+#~ msgid " with name matching '%s'"
+#~ msgstr "joiden nimessä on '%s'"
+
+#~ msgid "Users' status successfully changed"
+#~ msgstr "Käyttäjän tila vaihdettu onnistuneesti"
+
+#~ msgid "A password reset email has been sent"
+#~ msgstr "Salasanan uusimissähköposti on lähetetty"
+
+#~ msgid "All Alerts"
+#~ msgstr "Kaikki hälytykset"
+
+#~ msgid " with customer email matching '%s'"
+#~ msgstr "'%s' vastaavalla asiakkassähköpostilla"
+
+#~ msgid "Product alert saved"
+#~ msgstr "Tuotehälytys tallennettu"
+
+#~ msgid "Product alert deleted"
+#~ msgstr "Tuotehälytys poistettu"
+
+#~ msgid "Vouchers dashboard"
+#~ msgstr "Kuponkien kojelauta"
+
+#~ msgid "Start datetime"
+#~ msgstr "Alkamisajankohta"
+
+#~ msgid "End datetime"
+#~ msgstr "Päättymisajankohta"
+
+#~ msgid "Usage"
+#~ msgstr "Käyttö"
+
+#~ msgid "Which products get a discount?"
+#~ msgstr "Mitkä tuotteet saa alennuksen?"
+
+#~ msgid "Percentage off of products in range"
+#~ msgstr "Prosenttimääräinen alennus valikoiman tuotteille"
+
+#~ msgid "Fixed amount off of products in range"
+#~ msgstr "Kiinteä alennus valikoiman tuoteille"
+
+#~ msgid "Discount is a percentage off of the shipping cost"
+#~ msgstr "Prosenttimääräinen alennus toimituskuluista"
+
+#~ msgid "Discount is a fixed amount of the shipping cost"
+#~ msgstr "Kiinteä alennus toimituskuluista"
+
+#~ msgid "Get shipping for a fixed price"
+#~ msgstr "Toimitus kiinteään hintaan"
+
+#~ msgid "Discount type"
+#~ msgstr "Alennustyyppi"
+
+#~ msgid "Discount value"
+#~ msgstr "Alennuksen arvo"
+
+#~ msgid "The name '%s' is already in use"
+#~ msgstr "Nimi '%s' on jo käytössä"
+
+#~ msgid "The code '%s' is already in use"
+#~ msgstr "Koodi '%s' on jo käytössä"
+
+#~ msgid "The start date must be before the end date"
+#~ msgstr "Aloituspäivämäärä täytyy olla ennen päättymispäivämäärää"
+
+#~ msgid "Is Active?"
+#~ msgstr "On voimassa?"
+
+#~ msgid "%(main_filter)s %(name_filter)s %(code_filter)s"
+#~ msgstr "%(main_filter)s %(name_filter)s %(code_filter)s"
+
+#~ msgid "All vouchers"
+#~ msgstr "Kaikki kupongit"
+
+#~ msgid "with name matching '%s'"
+#~ msgstr "joiden nimessä on '%s'"
+
+#~ msgid "with code '%s'"
+#~ msgstr "Koodilla '%s'"
+
+#~ msgid "Active vouchers"
+#~ msgstr "Voimassa olevat kupongit"
+
+#~ msgid "Create voucher"
+#~ msgstr "Luo kuponki"
+
+#~ msgid "Offer for voucher '%s'"
+#~ msgstr "Tarjous etukoodille '%s'"
+
+#~ msgid "Voucher created"
+#~ msgstr "Kuponki luotu"
+
+#~ msgid "Voucher updated"
+#~ msgstr "Kuponki päivitetty"
+
+#~ msgid "Voucher deleted"
+#~ msgstr "Kuponki poistettu"
+
+#~ msgid "This is displayed within the customer's basket"
+#~ msgstr "Tämä näytetään asiakkaan korissa"
+
+#~ msgid "This is displayed on the offer browsing page"
+#~ msgstr "Tämä näytetään tarjousten selaussivulla"
+
+#~ msgid "Site offer - available to all users"
+#~ msgstr "Sivustotarjous – kaikkien käyttäjien saatavilla"
+
+#~ msgid ""
+#~ "Voucher offer - only available after entering the appropriate voucher code"
+#~ msgstr "Etukooditarjous – saatavilla kelvollisella koodilla"
+
+#~ msgid "User offer - available to certain types of user"
+#~ msgstr "Käyttäjätarjous – vain tietyntyyppisille käyttäjille"
+
+#~ msgid ""
+#~ "Session offer - temporary offer, available for a user for the duration of "
+#~ "their session"
+#~ msgstr ""
+#~ "Istuntotarjous – tilapäinen tarjous, käyttäjän saatavilla istunnon ajan"
+
+#~ msgid "Condition"
+#~ msgstr "Ehto"
+
+#~ msgid "Benefit"
+#~ msgstr "Etu"
+
+#~ msgid "Priority"
+#~ msgstr "Prioriteetti"
+
+#~ msgid "The highest priority offers are applied first"
+#~ msgstr "Korkeimman prioriteetin tarjoukset käytetään ensin"
+
+#~ msgid "Max global applications"
+#~ msgstr "Maks. globaalit sovellukset"
+
+#~ msgid "The number of times this offer can be used before it is unavailable"
+#~ msgstr ""
+#~ "Montako kertaa tämä tarjous voidaan käyttää ennen kuin otetaan pois "
+#~ "saatavilta"
+
+#~ msgid "Max user applications"
+#~ msgstr "Maximi käyttäjähakemukset"
+
+#~ msgid "The number of times a single user can use this offer"
+#~ msgstr "Kuinka monta kertaa yksittäinen käyttäjä voi käyttää tätä tarjousta"
+
+#~ msgid "Max basket applications"
+#~ msgstr "Maks. korisovellukset"
+
+#~ msgid ""
+#~ "The number of times this offer can be applied to a basket (and order)"
+#~ msgstr "Montako kertaa tämä tarjous voidaan käyttää koriin (ja tilaukseen)"
+
+#~ msgid "Max discount"
+#~ msgstr "Max. alennus"
+
+#~ msgid ""
+#~ "When an offer has given more discount to orders than this threshold, then "
+#~ "the offer becomes unavailable"
+#~ msgstr ""
+#~ "Kun tarjous on tuonut enemmän alennusta tilauksille, kuin tämä raja-"
+#~ "arvon, tarjous tulee arvottomaksi"
+
+#~ msgid "Total Discount"
+#~ msgstr "Kokonaisalennus"
+
+#~ msgid "Number of applications"
+#~ msgstr "Hakemusten määrä"
+
+#~ msgid "Number of Orders"
+#~ msgstr "Tilausten lukumäärä"
+
+#~ msgid "URL redirect (optional)"
+#~ msgstr "URL:n uudelleenohjaus (valinnainen)"
+
+#~ msgid "Conditional offer"
+#~ msgstr "Ehdollinen tarjous"
+
+#~ msgid "Conditional offers"
+#~ msgstr "Ehdolliset tarjoukset"
+
+#~ msgid "End date should be later than start date"
+#~ msgstr "Päättymispäivämäärän on oltava aloituspäivämäärän jälkeen"
+
+#~ msgid "Offer is suspended"
+#~ msgstr "Tarjous on keskeytetty"
+
+#~ msgid "Limited to %(total)d uses (%(remainder)d remaining)"
+#~ msgstr "Rajoitettu %(total)d käyttöön  (%(remainder)d jäljellä)"
+
+#~ msgid "Limited to 1 use per user"
+#~ msgstr "Rajoitettu 1 käyttöön per käyttäjä"
+
+#~ msgid "Limited to %(total)d uses per user"
+#~ msgstr "Rajoitettu %(total)d  käyttöön per käyttäjä"
+
+#~ msgid "Limited to 1 use per basket"
+#~ msgstr "Rajoitettu 1 käyttöön per kori"
+
+#~ msgid "Limited to %(total)d uses per basket"
+#~ msgstr "Rajoitettu %(total)d käyttöön per kori"
+
+#~ msgid "Available between %(start)s and %(end)s"
+#~ msgstr "Saatavilla %(start)s:n ja %(end)s:n välillä"
+
+#~ msgid "Available from %(start)s"
+#~ msgstr "Saatavilla %(start)s alkaen "
+
+#~ msgid "Available until %(end)s"
+#~ msgstr "Saatavilla %(end)s saakka"
+
+#~ msgid "Limited to a cost of %(max)s"
+#~ msgstr "Rajoitettu enimmäiskustannukseen %(max)s"
+
+#~ msgid "Range"
+#~ msgstr "Valikoima"
+
+#~ msgid "Discount is a percentage off of the product's value"
+#~ msgstr "Prosenttimääräinen alennus tuotteen arvosta"
+
+#~ msgid "Discount is a fixed amount off of the product's value"
+#~ msgstr "Kiinteä alennus tuotteen arvosta"
+
+#~ msgid "Discount is to give the cheapest product for free"
+#~ msgstr "Alennus on antaa halvin tuote ilmaiseksi"
+
+#~ msgid "Get the products that meet the condition for a fixed price"
+#~ msgstr "Hae tuotteet, jotka täyttävät kiinteän hinnan ehdot"
+
+#~ msgid "Max Affected Items"
+#~ msgstr "Tuotteiden enimmäismäärä"
+
+#~ msgid ""
+#~ "Set this to prevent the discount consuming all items within the range "
+#~ "that are in the basket."
+#~ msgstr ""
+#~ "Aseta tämä estämää alennuksen kuluminen kaikille tuotteille "
+#~ "tuotevalikoimassa, jotka ovat korissa."
+
+#~ msgid "Custom class"
+#~ msgstr "Mukautettu luokka"
+
+#~ msgid "Benefits"
+#~ msgstr "Edut"
+
+#~ msgid "Multibuy benefits require a product range"
+#~ msgstr "Yhteisostoedut vaativat tuotevalikoiman"
+
+#~ msgid "Multibuy benefits don't require a value"
+#~ msgstr "Yhteisostoedut eivät vaadi arvoa"
+
+#~ msgid "Multibuy benefits don't require a 'max affected items' attribute"
+#~ msgstr "Yhteisostoedut eivät vaadi 'Tuotteiden enimmäismäärä' -määrettä "
+
+#~ msgid "Percentage benefits require a product range"
+#~ msgstr "Prosentteina esitettävät edut vaativat tuotevalikoiman"
+
+#~ msgid "Percentage discount cannot be greater than 100"
+#~ msgstr "Alennusprosentti ei voi olla suurempi kuin 100"
+
+#~ msgid "A discount value is required"
+#~ msgstr "Alennuksen määrä vaaditaan"
+
+#~ msgid ""
+#~ "No range should be selected as this benefit does not apply to products"
+#~ msgstr ""
+#~ "Tuotevalikoimia ei pitäisi olla valittuna, koska tämä etu ei päde "
+#~ "tuotteisiin"
+
+#~ msgid "Shipping discounts don't require a 'max affected items' attribute"
+#~ msgstr ""
+#~ "Toimitusalennukset eivät vaadi 'Tuotteiden enimmäismäärä' -määrettä "
+
+#~ msgid ""
+#~ "No range should be selected as the condition range will be used instead."
+#~ msgstr ""
+#~ "Tuotevalikoimia ei pitäis olla valittuna, koska ehtojen mukaista "
+#~ "valikoimaa käytetään"
+
+#~ msgid "Fixed discount benefits require a product range"
+#~ msgstr "Kiinteä alennus vaatii tuotevalikoiman"
+
+#~ msgid "Fixed discount benefits require a value"
+#~ msgstr "Kiinteät alennusedut vaativat arvon"
+
+#~ msgid "Depends on number of items in basket that are in condition range"
+#~ msgstr "Riippuu tuotteiden määrästä korissa näillä ehtomäärittelyillä"
+
+#~ msgid "Depends on value of items in basket that are in condition range"
+#~ msgstr "Riippuu tuotteiden arvosta korissa näillä ehtomäärittelyillä"
+
+#~ msgid ""
+#~ "Needs to contain a set number of DISTINCT items from the condition range"
+#~ msgstr ""
+#~ "Täytyy sisältää numerosarjan MÄÄRÄTYSTÄ ehtojen mukaisesta tuotteesta "
+
+#~ msgid "Conditions"
+#~ msgstr "Ehdot"
+
+#~ msgid "Is public?"
+#~ msgstr "Onko julkinen?"
+
+#~ msgid "Public ranges have a customer-facing page"
+#~ msgstr "Julkisilla valimoimissa on asiakkaalle näkyvä sivu"
+
+#~ msgid "Includes all products?"
+#~ msgstr "Sisältää kaikki tuotteet?"
+
+#~ msgid "Included Products"
+#~ msgstr "Sisältyvät tuotteet"
+
+#~ msgid "Excluded Products"
+#~ msgstr "Sisältymättömät tuotteet"
+
+#~ msgid "Included Categories"
+#~ msgstr "Sisältyvät kategoriat"
+
+#~ msgid "File Path"
+#~ msgstr "Tiedostopolku"
+
+#~ msgid "Size"
+#~ msgstr "Koko"
+
+#~ msgid "Uploaded By"
+#~ msgstr "Lataaja"
+
+#~ msgid "Date Uploaded"
+#~ msgstr "Latauspäivä"
+
+#~ msgid "Error Message"
+#~ msgstr "Virheilmoitus"
+
+#~ msgid "Date Processed"
+#~ msgstr "Käsittelypäivämäärä"
+
+#~ msgid "Number of New SKUs"
+#~ msgstr "Uuden tuotekoodin numero"
+
+#~ msgid "Number of Unknown SKUs"
+#~ msgstr "Tuntemattoman tuotekoodin mumero"
+
+#~ msgid "Number of Duplicate SKUs"
+#~ msgstr "Päällekkäisten tuotekoodien määrä"
+
+#~ msgid "Range Product Uploaded File"
+#~ msgstr "Valikoima Tuote Ladattu Tiedosto"
+
+#~ msgid "Range Product Uploaded Files"
+#~ msgstr "Valikoima Tuote Ladatut Tiedostot"
+
+#~ msgid "%(value)s%% discount on %(range)s"
+#~ msgstr "%(value)s%% alennusta %(range)s:sta"
+
+#~ msgid "Percentage discount benefit"
+#~ msgstr "Prosenttialennusetu"
+
+#~ msgid "Percentage discount benefits"
+#~ msgstr "Prosenttialennusedut"
+
+#~ msgid "%(value)s discount on %(range)s"
+#~ msgstr "%(value)s alennus %(range)s:sta"
+
+#~ msgid "Absolute discount benefit"
+#~ msgstr "Absoluuttinen alennusetu"
+
+#~ msgid "Absolute discount benefits"
+#~ msgstr "Kokonaisalennusetu"
+
+#~ msgid "The products that meet the condition are sold for %(amount)s"
+#~ msgstr "Vaatimuksen täyttävät tuotteet myydään hintaan %(amount)s"
+
+#~ msgid "Fixed price benefit"
+#~ msgstr "Kiinteä hintaetu"
+
+#~ msgid "Fixed price benefits"
+#~ msgstr "Kiinteät hintaedut"
+
+#~ msgid "Cheapest product from %(range)s is free"
+#~ msgstr "Halvin tuote valikoimasta %(range)s on ilmainen"
+
+#~ msgid "Multibuy discount benefit"
+#~ msgstr "Yhteisoston alennusetu"
+
+#~ msgid "Multibuy discount benefits"
+#~ msgstr "Yhteisoston alennusedut"
+
+#~ msgid "%(amount)s off shipping cost"
+#~ msgstr "%(amount)s pois toimituskuluista"
+
+#~ msgid "Shipping absolute discount benefit"
+#~ msgstr "Kiinteä alennus toimituskuluista"
+
+#~ msgid "Shipping absolute discount benefits"
+#~ msgstr "Kiinteät alennukset toimituskuluista"
+
+#~ msgid "Get shipping for %(amount)s"
+#~ msgstr "Toimitus hintaan %(amount)s"
+
+#~ msgid "Fixed price shipping benefit"
+#~ msgstr "Kiinteähintainen toimitus -etu"
+
+#~ msgid "Fixed price shipping benefits"
+#~ msgstr "Kiinteähintainen toimitus -edut"
+
+#~ msgid "%(value)s%% off of shipping cost"
+#~ msgstr "%(value)s%% pois toimituskukuista"
+
+#~ msgid "Shipping percentage discount benefit"
+#~ msgstr "Toimitusalennusetu prosenteissa"
+
+#~ msgid "Shipping percentage discount benefits"
+#~ msgstr "Toimitusalennusedut prosenteissa"
+
+#~ msgid "Basket includes %(count)d item(s) from %(range)s"
+#~ msgstr "Kori sisältää %(count)d tuotetta valikoimasta '%(range)s'"
+
+#~ msgid "Count condition"
+#~ msgstr "Laskuehto"
+
+#~ msgid "Count conditions"
+#~ msgstr "Laskuehdot"
+
+#~ msgid "Buy %(delta)d more product from %(range)s"
+#~ msgid_plural "Buy %(delta)d more products from %(range)s"
+#~ msgstr[0] "Osta %(delta)d tuote lisää %(range)s :sta"
+#~ msgstr[1] "Osta %(delta)d tuotetta lisää valikoimasta '%(range)s'"
+
+#~ msgid "Basket includes %(count)d distinct item(s) from %(range)s"
+#~ msgstr "Korissa on %(count)d erillistä tuotetta valikoimasta '%(range)s'"
+
+#~ msgid "Coverage Condition"
+#~ msgstr "Kattavuusehto"
+
+#~ msgid "Coverage Conditions"
+#~ msgstr "Kattavuusehdot"
+
+#~ msgid "Basket includes %(amount)s from %(range)s"
+#~ msgstr "Korissa on %(amount)s edestä tuotteita valikoimasta '%(range)s'"
+
+#~ msgid "Value condition"
+#~ msgstr "Arvoehto"
+
+#~ msgid "Value conditions"
+#~ msgstr "Arvoehdot"
+
+#~ msgid "Spend %(value)s more from %(range)s"
+#~ msgstr "Käytä vielä %(value)s valikoiman '%(range)s' tuotteisiin"
+
+#~ msgid "Offer"
+#~ msgstr "Tarjous"
+
+#~ msgid "Total discount"
+#~ msgstr "Kokonaisalennus"
+
+#~ msgid "Offer performance"
+#~ msgstr "Tarjousvaikutus"
+
+#~ msgid "Site"
+#~ msgstr "Sivusto"
+
+#~ msgid "Billing Address"
+#~ msgstr "Laskutusosoite"
+
+#~ msgid "Order total (inc. tax)"
+#~ msgstr "Tilaus yhteensä (sis. verot)"
+
+#~ msgid "Order total (excl. tax)"
+#~ msgstr "Tilaus yhteensä (ilman veroja)"
+
+#~ msgid "Shipping charge (inc. tax)"
+#~ msgstr "Toimituskulut (sis. verot)"
+
+#~ msgid "Shipping charge (excl. tax)"
+#~ msgstr "Toimituskulut (ilman veroja)"
+
+#~ msgid "Shipping Address"
+#~ msgstr "Toimitusosoite"
+
+#~ msgid "Shipping method"
+#~ msgstr "Toimitustapa"
+
+#~ msgid "Guest email address"
+#~ msgstr "Vierailijan sähköposti"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status for order %(number)s (current "
+#~ "status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s' ei ole kelvollinen status tilaukselle %(number)s "
+#~ "(nykyinen status: '%(status)s')"
+
+#~ msgid "In progress"
+#~ msgstr "Työn alla"
+
+#~ msgid "Note Type"
+#~ msgstr "Merkintätyyppi"
+
+#~ msgid "Message"
+#~ msgstr "Viesti"
+
+#~ msgid "Order Note"
+#~ msgstr "Tilausmerkintä"
+
+#~ msgid "Order Notes"
+#~ msgstr "Tilausmerkinnät"
+
+#~ msgid "Event Type"
+#~ msgstr "Tapahtumatyyppi"
+
+#~ msgid "Communication Event"
+#~ msgstr "Viestintätapahtuma"
+
+#~ msgid "Communication Events"
+#~ msgstr "Viestintätapahtumat"
+
+#~ msgid "'%(type)s' event for order #%(number)s"
+#~ msgstr "'%(type)s' tapahtuma tilaukselle #%(number)s"
+
+#~ msgid "Partner name"
+#~ msgstr "Kumppanin nimi"
+
+#~ msgid "Partner reference"
+#~ msgstr "Kumppanin viite"
+
+#~ msgid "This is the item number that the partner uses within their system"
+#~ msgstr "Tätä tuotenumeroa kumppani käyttää järjestelmässään"
+
+#~ msgid "Partner Notes"
+#~ msgstr "Kumppanin huomiot"
+
+#~ msgid "Stock record"
+#~ msgstr "Varastosaldo"
+
+#~ msgid "Price (inc. tax)"
+#~ msgstr "Hinta (verollinen)"
+
+#~ msgid "Price (excl. tax)"
+#~ msgstr "Hinta (veroton)"
+
+#~ msgid "Price before discounts (inc. tax)"
+#~ msgstr "Hinta ennen alennuksia (verollinen)"
+
+#~ msgid "Price before discounts (excl. tax)"
+#~ msgstr "Hinta ennen alennuksia (ilman veroja)"
+
+#~ msgid "Unit Cost Price"
+#~ msgstr "Yksikkökustannuksen hinta"
+
+#~ msgid "Unit Price (inc. tax)"
+#~ msgstr "Kappalehinta (verollinen)"
+
+#~ msgid "Unit Price (excl. tax)"
+#~ msgstr "Yksikön hinta (veroton)"
+
+#~ msgid "Unit Retail Price"
+#~ msgstr "Kappalejälleenmyyntihinta"
+
+#~ msgid "Estimated Dispatch Date"
+#~ msgstr "Arvioitu lähettämispäivämäärä"
+
+#~ msgid "Order Line"
+#~ msgstr "Tilausrivi"
+
+#~ msgid "<missing product>"
+#~ msgstr "<puuttuva tuote>"
+
+#~ msgid "Product '%(name)s', quantity '%(qty)s'"
+#~ msgstr "Tuote '%(name)s', määrä '%(qty)s"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status (current status: '%(status)s')"
+#~ msgstr "'%(new_status)s' ei kelpaa tilaksi (nykyinen tila: '%(status)s')"
+
+#~ msgid "'%(title)s' is no longer available"
+#~ msgstr "'%(title)s' ei ole enää saatavilla"
+
+#~ msgid "Line Attribute"
+#~ msgstr "Rivin määre"
+
+#~ msgid "Line Attributes"
+#~ msgstr "Rivin määreet"
+
+#~ msgid "Shiping (inc. tax)"
+#~ msgstr "Lähetys (verollinen)"
+
+#~ msgid "Shipping (excl. tax)"
+#~ msgstr "Toimitus (ilman veroja)"
+
+#~ msgid "Line Price"
+#~ msgstr "Rivin hinta"
+
+#~ msgid "Line Prices"
+#~ msgstr "Rivin hinnat"
+
+#~ msgid "Line '%(number)s' (quantity %(qty)d) price %(price)s"
+#~ msgstr "Rivi '%(number)s' (määrä %(qty)d) hinta %(price)s"
+
+#~ msgid "Payment Event Type"
+#~ msgstr "Maksutapahtumatyyppi"
+
+#~ msgid "Payment Event Types"
+#~ msgstr "Maksutapahtumatyypit"
+
+#~ msgid "Amount"
+#~ msgstr "Summa"
+
+#~ msgid "Reference"
+#~ msgstr "Viite"
+
+#~ msgid "Lines"
+#~ msgstr "Rivit"
+
+#~ msgid "Payment Event"
+#~ msgstr "Maksutapahtuma"
+
+#~ msgid "Payment Events"
+#~ msgstr "Maksutapahtumat"
+
+#~ msgid "Payment event for order %s"
+#~ msgstr "Maksutapahtuma tilaukselle %s"
+
+#~ msgid "Event"
+#~ msgstr "Tapahtuma"
+
+#~ msgid "Payment Event Quantity"
+#~ msgstr "Maksutapahtuman määrä"
+
+#~ msgid "Payment Event Quantities"
+#~ msgstr "Maksutapahtumamäärät"
+
+#~ msgid "Event notes"
+#~ msgstr "Tapahtuman merkinnät"
+
+#~ msgid "This could be the dispatch reference, or a tracking number"
+#~ msgstr "Tämä voisi olla toimitusviite tai seurantanumero"
+
+#~ msgid "Shipping Event"
+#~ msgstr "Toimitustapahtuma"
+
+#~ msgid "Shipping Events"
+#~ msgstr "Toimitustapahtumat"
+
+#~ msgid "Order #%(number)s, type %(type)s"
+#~ msgstr "Tilaus #%(number)s, tyyppi %(type)s"
+
+#~ msgid "Shipping Event Quantity"
+#~ msgstr "Lähetystapahtumamäärä"
+
+#~ msgid "Shipping Event Quantities"
+#~ msgstr "Lähetystapahtumamäärät"
+
+#~ msgid "%(product)s - quantity %(qty)d"
+#~ msgstr "%(product)s - määrä %(qty)d"
+
+#~ msgid "Shipping Event Type"
+#~ msgstr "Toimitustapahtumatyyppi"
+
+#~ msgid "Shipping Event Types"
+#~ msgstr "Toimitustapahtumatyypit"
+
+#~ msgid "Discount category"
+#~ msgstr "Alennuskategoria"
+
+#~ msgid "Offer ID"
+#~ msgstr "Tarjousksen numero"
+
+#~ msgid "Voucher ID"
+#~ msgstr "Kupongin numero"
+
+#~ msgid "Frequency"
+#~ msgstr "Taajuus"
+
+#~ msgid "Order Discount"
+#~ msgstr "Tilauksen alennus"
+
+#~ msgid "Order Discounts"
+#~ msgstr "Tilauksen alennukset"
+
+#~ msgid "Discount of %(amount)r from order %(order)s"
+#~ msgstr "%(amount)r alennusta tilauksesta %(order)s"
+
+#~ msgid "The selected quantity for line #%(line_id)s is too large"
+#~ msgstr "Valittu määrä riville #%(line_id)s on liian iso"
+
+#~ msgid "Total incl. tax"
+#~ msgstr "Yhteensä veroineen"
+
+#~ msgid "Date placed"
+#~ msgstr "Jättöpäivä"
+
+#~ msgid "Orders placed"
+#~ msgstr "Tilauspäivä"
+
+#~ msgid "Empty baskets cannot be submitted"
+#~ msgstr "Tyhjää koria ei voi jättää käsittelyyn"
+
+#~ msgid "There is already an order with number %s"
+#~ msgstr "Numerolla %s on jo tilaus"
+
+#~ msgid "Fulfillment partner"
+#~ msgstr "Logistiikkakumppani"
+
+#~ msgid "Fulfillment partners"
+#~ msgstr "Logistiikkakumppanit"
+
+#~ msgid "Price (retail)"
+#~ msgstr "Vähittäismyyntihinta"
+
+#~ msgid "Cost Price"
+#~ msgstr "Omakustannushinta"
+
+#~ msgid "Number in stock"
+#~ msgstr "Varastomäärä"
+
+#~ msgid "Number allocated"
+#~ msgstr "Numero muodostettu"
+
+#~ msgid "Low Stock Threshold"
+#~ msgstr "Alhaisen varaston raja-arvo"
+
+#~ msgid "Invalid stock consumption request"
+#~ msgstr "Virheellinen varastopyyntö"
+
+#~ msgid "Stock Record"
+#~ msgstr "Varastokirjanpito"
+
+#~ msgid "Threshold"
+#~ msgstr "Raja-arvo"
+
+#~ msgid "Open"
+#~ msgstr "Avaa"
+
+#~ msgid "Date Closed"
+#~ msgstr "Sulkemispäivä"
+
+#~ msgid "<stockalert for \"%(stock)s\" status %(status)s>"
+#~ msgstr "<Varastohälytys tuotteelle \"%(stock)s\": tila %(status)s>"
+
+#~ msgid "Stock alert"
+#~ msgstr "Varastohälytys"
+
+#~ msgid "Stock alerts"
+#~ msgstr "Varastohälytykset"
+
+#~ msgid "unavailable"
+#~ msgstr "Saatavilla"
+
+#~ msgid "Unavailable"
+#~ msgstr "Ei saatavilla"
+
+#~ msgid "Available"
+#~ msgstr "Saatavilla"
+
+#~ msgid "no stock available"
+#~ msgstr "Loppunut varastosta"
+
+#~ msgid "a maximum of %(max)d can be bought"
+#~ msgstr "Ostettavissa korkeintaan %(max)d"
+
+#~ msgid "In stock"
+#~ msgstr "Varastossa"
+
+#~ msgid "In stock (%d available)"
+#~ msgstr "Varastossa (%d saatavilla)"
+
+#~ msgid "No file path supplied"
+#~ msgstr "Tiedostopolkua ei syötetty"
+
+#~ msgid "%s does not exist"
+#~ msgstr "%s ei löydy"
+
+#~ msgid "%s is not a file"
+#~ msgstr "%s ei ole tiedosto"
+
+#~ msgid "%s is not readable"
+#~ msgstr "%s ei ole luettava"
+
+#~ msgid "Source"
+#~ msgstr "Lähde"
+
+#~ msgid "%(type)s of %(amount).2f"
+#~ msgstr "%(type)s %(amount).2f:sta"
+
+#~ msgid "Transaction"
+#~ msgstr "Tapahtuma"
+
+#~ msgid "Transactions"
+#~ msgstr "Tapahtumat"
+
+#~ msgid "Source Type"
+#~ msgstr "Lähteen tyyppi"
+
+#~ msgid "Amount Allocated"
+#~ msgstr "Varattu summa"
+
+#~ msgid "Amount Debited"
+#~ msgstr "Veloitettu summa"
+
+#~ msgid "Amount Refunded"
+#~ msgstr "Hyvitetty summa"
+
+#~ msgid "Label"
+#~ msgstr "Nimilappu"
+
+#~ msgid "Sources"
+#~ msgstr "Lähteet"
+
+#~ msgid "Allocation of %(amount)s from type %(type)s"
+#~ msgstr "%(amount)s varattu tyypiltä %(type)s"
+
+#~ msgid " (reference: %s)"
+#~ msgstr "(viite: %s)"
+
+#~ msgid "This is used within forms to identify this source type"
+#~ msgstr "Tätä käytetään lomakkeissa tunnistamaan tämä lähteen tyyppi"
+
+#~ msgid "Source Types"
+#~ msgstr "Lähdetyypit"
+
+#~ msgid "Card Type"
+#~ msgstr "Korttityyppi"
+
+#~ msgid "Number"
+#~ msgstr "Numero"
+
+#~ msgid "Expiry Date"
+#~ msgstr "Vanhenemispäivä"
+
+#~ msgid "Partner Reference"
+#~ msgstr "Kumppanin viite"
+
+#~ msgid "%(card_type)s %(number)s (Expires: %(expiry)s)"
+#~ msgstr "%(card_type)s %(number)s (Vanhenee: %(expiry)s)"
+
+#~ msgid "Bankcard"
+#~ msgstr "Pankkikortti"
+
+#~ msgid "Bankcards"
+#~ msgstr "Pankkikortit"
+
+#~ msgid "Payment"
+#~ msgstr "Maksu"
+
+#~ msgid "Card number"
+#~ msgstr "Kortin numero"
+
+#~ msgid "Please enter a valid credit card number."
+#~ msgstr "Syötä luottokorttinumero."
+
+#~ msgid "%s cards are not accepted."
+#~ msgstr "%s kortteja ei hyväksytty."
+
+#~ msgid "Enter a valid month."
+#~ msgstr "Syötä kelvollinen kuukausi."
+
+#~ msgid "Enter a valid year."
+#~ msgstr "Syötä kelvollinen vuosi."
+
+#~ msgid "Valid to"
+#~ msgstr "Voimassa asti"
+
+#~ msgid "The expiration date you entered is in the past."
+#~ msgstr "Päättymispäivä on menneisyydessä."
+
+#~ msgid "Valid from"
+#~ msgstr "Voimassa alkaen"
+
+#~ msgid "The starting date you entered is in the future."
+#~ msgstr "Aloituspäivä on tulevaisuudessa."
+
+#~ msgid "CCV number"
+#~ msgstr "CCV numero"
+
+#~ msgid "Please enter a 3 or 4 digit number"
+#~ msgstr "Syötä 3- tai 4-numeroinen luku"
+
+#~ msgid ""
+#~ "This is the 3 or 4 digit security number on the back of your bankcard"
+#~ msgstr "Tämä on 3- tai 4-numeroinen koodi pankkikorttisi takana"
+
+#~ msgid "American Express cards use a 4 digit security code"
+#~ msgstr ""
+#~ "American Express -kortit käyttävät nelinumeroista turvallisuuskoodia"
+
+#~ msgid "Promotions"
+#~ msgstr "Kampanjat"
+
+#~ msgid "Display Order"
+#~ msgstr "Esittämisjärjestys"
+
+#~ msgid "Clicks"
+#~ msgstr "Klikkaukset"
+
+#~ msgid "Linked Promotion"
+#~ msgstr "Liitetty kampanja"
+
+#~ msgid "Linked Promotions"
+#~ msgstr "Liitetyt kampanjat"
+
+#~ msgid "Page URL"
+#~ msgstr "Sivun URL"
+
+#~ msgid "Page Promotion"
+#~ msgstr "Sivun kampanja"
+
+#~ msgid "Page Promotions"
+#~ msgstr "Sivun kampanjat"
+
+#~ msgid "Filter"
+#~ msgstr "Suodatin"
+
+#~ msgid "Keyword Promotion"
+#~ msgstr "Hakusanakampanja"
+
+#~ msgid "Keyword Promotions"
+#~ msgstr "Hakusanakampanjat"
+
+#~ msgid "Keywords"
+#~ msgstr "Hakusanat"
+
+#~ msgid "Promotion"
+#~ msgstr "Kampanja"
+
+#~ msgid "Display type"
+#~ msgstr "Näyttötyyppi"
+
+#~ msgid ""
+#~ "This can be used to have different types of HTML blocks (eg different "
+#~ "widths)"
+#~ msgstr "Tämän avulla voi olla erityyppisiä HTML-lohkoja (esim. erilevyisiä)"
+
+#~ msgid "Raw HTML"
+#~ msgstr "Raaka HTML"
+
+#~ msgid "Link URL"
+#~ msgstr "Linkki URL"
+
+#~ msgid "This is where this promotion links to"
+#~ msgstr "Kampanja ohjaa tänne"
+
+#~ msgid ""
+#~ "Choose the Image content blocks that this block will use. (You may need "
+#~ "to create some first)."
+#~ msgstr ""
+#~ "Valitse kuvasisältölohkot, joita tämä lohko tulee käyttämään. (Voi olla, "
+#~ "että joudut luomaan joitain ensin)."
+
+#~ msgid "Multi Image"
+#~ msgstr "Usea kuva"
+
+#~ msgid "Multi Images"
+#~ msgstr "Useat kuvat"
+
+#~ msgid "Single product"
+#~ msgstr "Yksittäinen tuote"
+
+#~ msgctxt "Promotion product list title"
+#~ msgid "Title"
+#~ msgstr "Otsikko"
+
+#~ msgid "Link text"
+#~ msgstr "Linkin teksti"
+
+#~ msgid "Product list"
+#~ msgstr "Tuotelista"
+
+#~ msgid "Product lists"
+#~ msgstr "Tuotelistat"
+
+#~ msgid "Hand Picked Product List"
+#~ msgstr "Käsinkerätty tuotelista"
+
+#~ msgid "Hand Picked Product Lists"
+#~ msgstr "Käsinkerätyt tuotelistat"
+
+#~ msgid "List"
+#~ msgstr "Lista"
+
+#~ msgid "Ordered product"
+#~ msgstr "Tilatut tuotteet"
+
+#~ msgid "Bestselling products"
+#~ msgstr "Parhaiten myyvät tuotteet"
+
+#~ msgid "Recently added products"
+#~ msgstr "Lähiaikoina lisätyt tuotteet"
+
+#~ msgid "Method"
+#~ msgstr "Tapa"
+
+#~ msgid "Number of Products"
+#~ msgstr "Tuotteiden määrä"
+
+#~ msgid "Automatic product list"
+#~ msgstr "Automaattinen tuotelista"
+
+#~ msgid "Automatic product lists"
+#~ msgstr "Automaattiset tuotelistat"
+
+#~ msgid "Tabbed Block"
+#~ msgstr "Välilehden lohko"
+
+#~ msgid "Ordered Product List"
+#~ msgstr "Tilattujen tuotteiden lista"
+
+#~ msgid "Ordered Product Lists"
+#~ msgstr "Tilattujen tuotteiden listat"
+
+#~ msgctxt "Tabbed block title"
+#~ msgid "Title"
+#~ msgstr "Otsikko"
+
+#~ msgid "Tabbed Blocks"
+#~ msgstr "Välilehtien lohkot"
+
+#~ msgid "Search"
+#~ msgstr "Haku"
+
+#~ msgid "Relevancy"
+#~ msgstr "Osuvuus"
+
+#~ msgid "Customer rating"
+#~ msgstr "Asiakasarvio"
+
+#~ msgid "Newest"
+#~ msgstr "Uusimmat"
+
+#~ msgid "Price high to low"
+#~ msgstr "Kallein ensin"
+
+#~ msgid "Price low to high"
+#~ msgstr "Halvin ensin"
+
+#~ msgid "Title A to Z"
+#~ msgstr "Otsikko A:sta Ö:hön"
+
+#~ msgid "Title Z to A"
+#~ msgstr "Otsikko Ö:stä A:han"
+
+#~ msgid "Page is not 'last', nor can it be converted to an int."
+#~ msgstr "Sivu ei ole 'last' eikä kokonaisluku."
+
+#~ msgid "Shipping Method"
+#~ msgstr "Toimitustapa"
+
+#~ msgid "Shipping Methods"
+#~ msgstr "Toimitustavat"
+
+#~ msgid "Price per order"
+#~ msgstr "Hinta per tilaus"
+
+#~ msgid "Price per item"
+#~ msgstr "Hinta per tuote"
+
+#~ msgid "Free Shipping"
+#~ msgstr "Ilmainen toimitus"
+
+#~ msgid "Order and Item Charge"
+#~ msgstr "Tilaus- ja tuotelaskutus"
+
+#~ msgid "Order and Item Charges"
+#~ msgstr "Tilaus- ja tuotelaskutukset"
+
+#~ msgid "Default Weight"
+#~ msgstr "Oletuspaino"
+
+#~ msgid "Default product weight in kg when no weight attribute is defined"
+#~ msgstr "Oletuspaino kilogrammoissa, kun painomääritettä ei ole asetettu"
+
+#~ msgid "Weight-based Shipping Method"
+#~ msgstr "Painoperustainen Toimitustapa"
+
+#~ msgid "Weight-based Shipping Methods"
+#~ msgstr "Painoperustaiset Toimitustavat"
+
+#~ msgid "Upper Limit"
+#~ msgstr "Yläraja"
+
+#~ msgid ""
+#~ "Enter upper limit of this weight band in kg. The lower limit will be "
+#~ "determined by the other weight bands."
+#~ msgstr ""
+#~ "Syötä yläraja painolle kilogrammoissa. Alaraja määritellään muissa "
+#~ "painorajoituksissa."
+
+#~ msgid "Charge"
+#~ msgstr "Veloitus"
+
+#~ msgid "Weight Band"
+#~ msgstr "Painoraja"
+
+#~ msgid "Weight Bands"
+#~ msgstr "Painorajat"
+
+#~ msgid "Charge for weights up to %s kg"
+#~ msgstr "Laskutus painoista %s kg asti"
+
+#~ msgid "Shipping"
+#~ msgstr "Toimitus"
+
+#~ msgid "Free shipping"
+#~ msgstr "Ilmainen lähetys"
+
+#~ msgid "No shipping required"
+#~ msgstr "Toimitusta ei tarvita"
+
+#~ msgid "Fixed price shipping"
+#~ msgstr "Kiinteähintainen toimitus"
+
+#~ msgid "You need to define some shipping methods"
+#~ msgstr "Sinun täytyy määritellä jokin toimitustapa"
+
+#~ msgid ""
+#~ "This will be shown in the checkout and basket once the voucher is entered"
+#~ msgstr "Tämä näytetään kassalla ja korissa, kunhan etukoodi on syötetty"
+
+#~ msgid "Case insensitive / No spaces allowed"
+#~ msgstr "Kirjainkokoriippumaton / Välilyöntejä ei sallita"
+
+#~ msgid "Can be used once by one customer"
+#~ msgstr "Yksi käyttäjä voi käyttää kerran"
+
+#~ msgid "Can be used multiple times by multiple customers"
+#~ msgstr "Usea käyttäjä voi käyttää useaan kertaan"
+
+#~ msgid "Can only be used once per customer"
+#~ msgstr "Voidaan käyttää vain kerran per asiakas"
+
+#~ msgid "Times added to basket"
+#~ msgstr "Montako kertaaa lisätty koriin"
+
+#~ msgid "Times on orders"
+#~ msgstr "Kertaa tilauksissa"
+
+#~ msgid "Voucher"
+#~ msgstr "Etukuponki"
+
+#~ msgid "This voucher has already been used"
+#~ msgstr "Tämä etukuponki on jo käytetty"
+
+#~ msgid "This voucher is only available to signed in users"
+#~ msgstr "Tämä etukuponki on vain kirjautuneille käyttäjille"
+
+#~ msgid "You have already used this voucher in a previous order"
+#~ msgstr "Olet jo käyttänyt tämän etukupongin edellisessä tilauksessa"
+
+#~ msgid "Voucher Application"
+#~ msgstr "Etukuponkihakemus"
+
+#~ msgid "Voucher Applications"
+#~ msgstr "Etukuponkihakemukset"
+
+#~ msgid "'%(voucher)s' used by '%(user)s'"
+#~ msgstr "'%(user)s' on käyttänyt kupongin '%(voucher)s'"
+
+#~ msgid "Added to a basket"
+#~ msgstr "Lisätty koriin"
+
+#~ msgid "Used in an order"
+#~ msgstr "Käytetty toisessa tilauksessa"
+
+#~ msgid "Voucher performance"
+#~ msgstr "Etukoodin tehokkuus"
+
+#~ msgid "Default"
+#~ msgstr "Oletus"
+
+#~ msgid "Private - Only the owner can see the wish list"
+#~ msgstr "Yksityinen – Vain omistaja voi nähdä toivelistan"
+
+#~ msgid ""
+#~ "Shared - Only the owner and people with access to the obfuscated link can "
+#~ "see the wish list"
+#~ msgstr ""
+#~ "Jaettu – Vain omistaja ja salatun linkin saaneet voivat nähdä toivelistan"
+
+#~ msgid "Public - Everybody can see the wish list"
+#~ msgstr "Julkinen – Kaikki voivat nähdä toivelistan"
+
+#~ msgid "Visibility"
+#~ msgstr "Näkyvyys"
+
+#~ msgid "Wish List"
+#~ msgstr "Toivelista"
+
+#~ msgid "Wish list line"
+#~ msgstr "Toivelistan rivi"
+
+#~ msgid "Wishlists"
+#~ msgstr "Toivelistat"
+
+#~ msgid "The URL \"%s\" does not exist"
+#~ msgstr "URLia \"%s\" ei ole olemassa"
+
+#~ msgid "Specified page already exists!"
+#~ msgstr "Määritetty sivu on jo olemassa!"
+
+#~ msgid "This field is required"
+#~ msgstr "Tämä kenttä on pakollinen"
+
+#~ msgid "This field is invalid as its value is forbidden"
+#~ msgstr "Kentän arvo ei sallittu"
+
+#~ msgid "This is not a valid international phone format."
+#~ msgstr "Tämä ei ole kelvollinen kansainvälinen puhelinnumero."
+
+#~ msgid "This is not a valid local phone format for %s."
+#~ msgstr "Tämä ei ole kelvollinen puhelinnumero maassa %s."
+
+#~ msgid "This is not a valid local or international phone format."
+#~ msgstr ""
+#~ "Tämä ei ole kelvollinen kotimainen tai kansainvälinen puhelinnumero."
+
+#~ msgid "Check for products that are back in stock and send out alerts"
+#~ msgstr ""
+#~ "Tarkistus tuotteille, jotka ovat taas varastossa, ja joista on lähetetty "
+#~ "varoituksia."
+
+#~ msgid "Permission denied!"
+#~ msgstr "Pääsy kielletty!"
+
+#~ msgid "We're sorry but you are not permitted to access this page."
+#~ msgstr "Valitettavasti sinulla ei ole oikeutta lukea tätä sivua."
+
+#~ msgid "Page not found"
+#~ msgstr "Sivua ei löydy"
+
+#~ msgid "Page not found!"
+#~ msgstr "Sivua ei löydy!"
+
+#~ msgid "We're sorry but the page you are looking for can't be found."
+#~ msgstr "Valitettavasti etsimääsi sivua ei löytynyt. "
+
+#~ msgid "Server error!"
+#~ msgstr "Palvelinvirhe!"
+
+#~ msgid ""
+#~ "We're sorry but something went terribly wrong and we've been unable to "
+#~ "generate the page you requested."
+#~ msgstr ""
+#~ "Olemme pahoillamme, mutta jotain meni pahasti pieleen, emmekä voi luoda "
+#~ "pyytämääsi sivua."
+
+#~ msgid ""
+#~ "This incident has been logged and will be addressed by an engineer as "
+#~ "soon as possible."
+#~ msgstr "Tämä tapaus on kirjattu ja insinööri tutkii sen ensi tilassa."
+
+#~ msgid "Home"
+#~ msgstr "Koti"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(title)s</strong> has been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> lisätty koriisi."
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(quantity)s</strong> copies of <strong>%(title)s</strong>\n"
+#~ "    have been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(quantity)s</strong> kopiota <strong>%(title)s</strong>:sta\n"
+#~ "lisätty koriisi."
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been moved back to your basket.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> siirretty takaisin koriisi.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been saved for later\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> laitettu talteen \n"
+
+#~ msgid "Your basket is now empty"
+#~ msgstr "Korisi on nyt tyhjä"
+
+#~ msgid ""
+#~ "\n"
+#~ "            Your basket total is now <strong>%(total)s</strong>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Korisi hinta on nyt yhteensä <strong>%(total)s</strong>"
+
+#~ msgid "View basket"
+#~ msgstr "Tarkastele koria"
+
+#~ msgid "Checkout now"
+#~ msgstr "Kassalle"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket now qualifies for the \n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Korisi hyväksyy nyt \n"
+#~ "<strong>%(name)s</strong> -tarjouksen.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket no longer qualifies for the\n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Korisi ei enää hyväksy\n"
+#~ "tarjousta <strong>%(name)s</strong>.\n"
+
+#~ msgid "Important messages about items in your basket"
+#~ msgstr "Tärkeä viesti korisi tuotteista"
+
+#~ msgid "You could be missing out on offers!"
+#~ msgstr "Sinulle saattaisi olla tarjouksia!"
+
+#~ msgid ""
+#~ "\n"
+#~ "                <div class=\"warning\">%(message)s to qualify for the <a "
+#~ "href=\"%(url)s\">%(offer_name)s</a> special offer</div>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "<div class=\"warning\">%(message)s saadaksesi erikoistarjouksen <a href="
+#~ "\"%(url)s\">%(offer_name)s</a></div>"
+
+#~ msgid "Items to buy now"
+#~ msgstr "Nyt ostettavat tuoteet"
+
+#~ msgid "Price"
+#~ msgstr "Hinta"
+
+#~ msgid "Total"
+#~ msgstr "Yhteensä"
+
+#~ msgid "Updating..."
+#~ msgstr "Päivitetään..."
+
+#~ msgid "Update"
+#~ msgstr "Päivitä"
+
+#~ msgid "Remove"
+#~ msgstr "Poista"
+
+#~ msgid "Save for later"
+#~ msgstr "Säästä myöhemmäksi"
+
+#~ msgid "Voucher/promo code"
+#~ msgstr "Kuponki-/tarjouskoodi"
+
+#~ msgid "I have a voucher code..."
+#~ msgstr "Minulla on kuponkikoodi..."
+
+#~ msgid "Adding..."
+#~ msgstr "Lisätään..."
+
+#~ msgid "Add voucher"
+#~ msgstr "Lisää kuponki"
+
+#~ msgid "or"
+#~ msgstr "tai"
+
+#~ msgid "cancel"
+#~ msgstr "Peruuta"
+
+#~ msgid "Totals"
+#~ msgstr "Yhteensä"
+
+#~ msgid "Proceed to checkout"
+#~ msgstr "Jatka maksamaan"
+
+#~ msgid "Your basket is empty."
+#~ msgstr "Korisi on tyhjä"
+
+#~ msgid "Continue shopping"
+#~ msgstr "Jatka ostoksia"
+
+#~ msgid "Items to buy later"
+#~ msgstr "Myöhemmin osastettavat tuotteet"
+
+#~ msgid "Items"
+#~ msgstr "Tuotteet"
+
+#~ msgid "Move to basket"
+#~ msgstr "Siirrä koriin"
+
+#~ msgid "Qty"
+#~ msgstr "Määrä"
+
+#~ msgid "Total:"
+#~ msgstr "Yhteensä:"
+
+#~ msgid "Basket total (before discounts)"
+#~ msgstr "Kori yhteensä (ennen alennuksia)"
+
+#~ msgid "Discount"
+#~ msgstr "Alennus"
+
+#~ msgid "Basket total (after discounts)"
+#~ msgstr "Kori yhteensä (alennusten jälkeen)"
+
+#~ msgid "Basket total"
+#~ msgstr "Kori yhteensä"
+
+#~ msgid "Alternative shipping methods can be chosen during checkout"
+#~ msgstr "Vaihtoehtoisia toimitustapoja voidaan valita maksamisen yhteydessä"
+
+#~ msgid "Shipping total (before discounts)"
+#~ msgstr "Toimitus yhteensä (ennen alennuksia)"
+
+#~ msgid "Shipping total (after discounts)"
+#~ msgstr "Toimitus yhteensä (alennusten jälkeen)"
+
+#~ msgid "Tax"
+#~ msgstr "Vero"
+
+#~ msgid "Post order actions"
+#~ msgstr "Jälkitilaustapahtumat"
+
+#~ msgid "These will be applied once your order is placed."
+#~ msgstr "Lisätään tilauksen lähettämisen yhteydessä."
+
+#~ msgid "Taxes will be added during checkout."
+#~ msgstr "Verot listätään kassalla."
+
+#~ msgid "Show results for"
+#~ msgstr "Näytetään tulokset:"
+
+#~ msgid "Refine by"
+#~ msgstr "Tarkenna"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "Näytetään <strong>%(start)s</strong>–<strong>%(end)s</strong> yhteensä "
+#~ "<strong>%(num_results)s</strong> osumasta."
+#~ msgstr[1] ""
+#~ "\n"
+#~ "Näytetään <strong>%(start)s</strong>–<strong>%(end)s</strong> yhteensä "
+#~ "<strong>%(num_results)s</strong> osumasta."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> osuma.\n"
+#~ "                "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> osumaa.\n"
+#~ "                "
+
+#~ msgid "<strong>0</strong> results."
+#~ msgstr "<strong>0</strong> osumaa."
+
+#~ msgid "No products found."
+#~ msgstr "Tuotteita ei löytynyt"
+
+#~ msgid "Edit this product"
+#~ msgstr "Muokkaa tätä tuotetta"
+
+#~ msgid "Product Description"
+#~ msgstr "Tuotteen kuvaus"
+
+#~ msgid "Product Information"
+#~ msgstr "Tuotetiedot"
+
+#~ msgid "Product Type"
+#~ msgstr "Tuotetyyppi"
+
+#~ msgid "Price (incl. tax)"
+#~ msgstr "Hinta (sis. verot)"
+
+#~ msgid "Availability"
+#~ msgstr "Saatavuus"
+
+#~ msgid "Number of reviews"
+#~ msgstr "Arvioiden määrä"
+
+#~ msgid "See all reviews"
+#~ msgstr "Katso kaikki arvostelut"
+
+#~ msgid "Customer Reviews"
+#~ msgstr "Asiakasarviot"
+
+#~ msgid ""
+#~ "This product does not have any reviews yet -\n"
+#~ "                            <a href=\"%(add_review_url)s#addreview\">be "
+#~ "the first to write one</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "Tällä tuotteella ei vielä ole arvioita -\n"
+#~ "<a href=\"%(add_review_url)s#addreview\">kirjoita ensimmäinen</a>."
+
+#~ msgid "This product does not have any reviews yet"
+#~ msgstr "Tällä tuotteella ei vielä ole arvioita"
+
+#~ msgid "Recommended items"
+#~ msgstr "Suositellut tuotteet"
+
+#~ msgid "Add to basket"
+#~ msgstr "Lisää koriin"
+
+#~ msgid "You have an active stock alert for this product."
+#~ msgstr "Sinulla on aktiivinen varastohälytys tästä tuotteesta."
+
+#~ msgid "You can get an email alert when this product is back in stock."
+#~ msgstr ""
+#~ "Voit saada sähköpostilla tiedon, kun tätä tuotetta on taas varastossa."
+
+#~ msgid "Notify me"
+#~ msgstr "Ilmoita minulle"
+
+#~ msgid "Add to wish list"
+#~ msgstr "Lisää toivelistaan"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                            Add to '%(name)s' wish list\n"
+#~ "                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Lisää toivelistaan '%(name)s'"
+
+#~ msgid "Create a new wishlist"
+#~ msgstr "Luo uusi toivelista"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <span class=\"pull-left\">Product is in <a href="
+#~ "\"%(url)s\">'%(name)s'</a> wishlist.</span>\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "<span class=\"pull-left\">Tuote on toivelistassa <a href=\"%(url)s"
+#~ "\">'%(name)s'</a>.</span>"
+
+#~ msgid "Removing..."
+#~ msgstr "Poistetaan..."
+
+#~ msgid "Please login to add products to a wish list."
+#~ msgstr "Kirjaudu lisätäksesi tuotteen toivelistaan."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Reviewed by you on %(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Arvioit tämän %(review_date)s"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Reviewed by <strong>%(name)s</strong> on "
+#~ "%(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ " <strong>%(name)s</strong> arvioinut tämän %(review_date)s"
+
+#~ msgid "Is this review helpful?"
+#~ msgstr "Onko tämä arvio hyödyllinen? "
+
+#~ msgid "Yes"
+#~ msgstr "Kyllä"
+
+#~ msgid "No"
+#~ msgstr "Ei"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customer "
+#~ "found this useful\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customers "
+#~ "found this useful\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(num_up_votes)s</strong> asiakasta %(num_votes)s asiakkaasta "
+#~ "piti tätä hyödyllisenä"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(num_up_votes)s</strong> asiakasta %(num_votes)s asiakkaasta "
+#~ "piti tätä hyödyllisenä"
+
+#~ msgid "This review has no votes."
+#~ msgstr "Tällä arvioilla ei ole peukutuksia."
+
+#~ msgid "Free"
+#~ msgstr "Ilmainen"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer review\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer reviews\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "%(num_reviews)s asiakasarvio"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "%(num_reviews)s asiakasarviota"
+
+#~ msgid "Write a review"
+#~ msgstr "Kirjoita arvostelu"
+
+#~ msgid "Customer reviews"
+#~ msgstr "Asiakkaiden arvioit"
+
+#~ msgid "Leave a product review"
+#~ msgstr "Jätä tuotteen arvostelu"
+
+#~ msgid "Saving..."
+#~ msgstr "Tallennetaan..."
+
+#~ msgid "Save review"
+#~ msgstr "Tallenna arvostelu"
+
+#~ msgid "This product does not have any reviews yet."
+#~ msgstr "Tällä tuotteella ei vielä ole arvioita."
+
+#~ msgid "Change"
+#~ msgstr "Muuta"
+
+#~ msgid "Contact"
+#~ msgstr "Ota yhteyttä"
+
+#~ msgid "Phone"
+#~ msgstr "Puhelin"
+
+#~ msgid "Payment details to go here"
+#~ msgstr "Maksun tiedot menevät tänne"
+
+#~ msgid "Edit order contents"
+#~ msgstr "Muokkaa tilauksen sisältöä"
+
+#~ msgid "Order contents"
+#~ msgstr "Tilauksen sisältö"
+
+#~ msgid "Item"
+#~ msgstr "Tuote"
+
+#~ msgid "Checkout gateway"
+#~ msgstr "Tie kassalle"
+
+#~ msgid "Who are you?"
+#~ msgstr "Kuka sinä olet?"
+
+#~ msgid "Get a password reminder"
+#~ msgstr "Salasanan muistutin"
+
+#~ msgid "Continuing..."
+#~ msgstr "Jatketaan..."
+
+#~ msgid "Continue"
+#~ msgstr "Jatka"
+
+#~ msgid "1. Shipping address"
+#~ msgstr "1. Toimitusosoite"
+
+#~ msgid "2. Shipping method"
+#~ msgstr "2. Toimitustapa"
+
+#~ msgid "3. Payment"
+#~ msgstr "3. Maksu"
+
+#~ msgid "4. Preview"
+#~ msgstr "4. Esikatselu"
+
+#~ msgid "5. Confirmation"
+#~ msgstr "5. Vahvistus"
+
+#~ msgid "Payment details"
+#~ msgstr "Maksutiedot"
+
+#~ msgid "Enter payment details"
+#~ msgstr "Syötä maksutiedot"
+
+#~ msgid ""
+#~ "This page needs implementing within your project.  You may want to use "
+#~ "one of Oscar's payment gateway libraries:"
+#~ msgstr ""
+#~ "Tämä sivu on toteutettava projektissasi. Saatat haluta käytää jotakin "
+#~ "Oscarin maksuväyläkirjastoista:"
+
+#~ msgid "Order preview"
+#~ msgstr "Tilauksen esikatselu"
+
+#~ msgid "Preview order"
+#~ msgstr "Esikatsele tilaus"
+
+#~ msgid "Place order"
+#~ msgstr "Tee tilaus"
+
+#~ msgid "Where should we ship to?"
+#~ msgstr "Minne toimittaisimme?"
+
+#~ msgid "An address from your address book?"
+#~ msgstr "Osoite osoitekirjastasi?"
+
+#~ msgid "Ship to your default shipping address"
+#~ msgstr "Toimita oletusosoitteeseesi"
+
+#~ msgid "Ship to this address"
+#~ msgstr "Toimita tähän osoitteeseen"
+
+#~ msgid "Delete"
+#~ msgstr "Poista"
+
+#~ msgid "Or a new address?"
+#~ msgstr "Tai uusi osoite?"
+
+#~ msgid "return to basket"
+#~ msgstr "Palaa koriin"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                This includes a discount of <strong>"
+#~ "%(amount)s</strong> as\n"
+#~ "                                your basket qualifies for the <strong>"
+#~ "%(name)s</strong> offer.\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "Tämä sisältää <strong>%(amount)s</strong> alennuksen,\n"
+#~ "koska korisi täyttää alennuksen <strong>%(name)s</strong> ehdot."
+
+#~ msgid "Select option"
+#~ msgstr "Valitse vaihtoehto"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s: confirmation\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Tilaus %(number)s: vahvistus"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Your order has been placed and a confirmation email has been sent "
+#~ "- your order number is\n"
+#~ "        <strong>%(number)s</strong>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "Tilaus on tehty, ja vahvistus on lähetetty sähköpostitse – tilausnumerosi "
+#~ "on\n"
+#~ "<strong>%(number)s</strong>."
+
+#~ msgid ""
+#~ "Please make a note of this reference or print this page and quote it in "
+#~ "any communication with us regarding your order."
+#~ msgstr ""
+#~ "Kirjoita viite ylös, tai tulosta tämä sivu, ja käytä viitettä aina "
+#~ "ottasessasi yhteyttä meihin tilaukseesi liittyen."
+
+#~ msgid "No shipping address required."
+#~ msgstr "Toimitusosoitetta ei vaadita."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s (reference: %(reference)s)\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "%(amount)s  Kohdennus tyypille %(type)s (referessi: %(reference)s)"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "%(amount)s  Kohdennus tyypille %(type)s"
+
+#~ msgid "No payment was required for this order."
+#~ msgstr "Tähän tilaukseen ei vaadita maksua."
+
+#~ msgid "Items purchased"
+#~ msgstr "Ostetut tuotteet"
+
+#~ msgid ""
+#~ "\n"
+#~ "                            Estimated dispatch: <strong>%(date)s</"
+#~ "strong>\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Arvioitu lähetysaika: <strong>%(date)s</strong>"
+
+#~ msgid "Shipping charge (before discounts)"
+#~ msgstr "Toimituskulut (ennen alennuksia)"
+
+#~ msgid "Shipping charge (after discounts)"
+#~ msgstr "Toimituskulut (alennusten jälkeen)"
+
+#~ msgid "Shipping charge"
+#~ msgstr "Toimituskulu"
+
+#~ msgid "Order tax"
+#~ msgstr "Tilauksen vero"
+
+#~ msgid "Tracking your order"
+#~ msgstr "Tilauksesi seuranta"
+
+#~ msgid "You can track the status of your order"
+#~ msgstr "Voit seurata tilauksen tilaa"
+
+#~ msgid "View order status"
+#~ msgstr "Näytä tilauksen tila"
+
+#~ msgid "Print this page"
+#~ msgstr "Tulosta tämä sivu"
+
+#~ msgid "Are you sure you want to delete this address?"
+#~ msgstr "Oletko varma, että haluat poistaa tämän osoitteen?"
+
+#~ msgid "Yes!"
+#~ msgstr "Kyllä!"
+
+#~ msgid "Save"
+#~ msgstr "Tallenna"
+
+#~ msgid "Address book"
+#~ msgstr "Osoitekirja"
+
+#~ msgid "Deleting..."
+#~ msgstr "Poistetaan..."
+
+#~ msgid "Default shipping address"
+#~ msgstr "Oletustoimitusosoite"
+
+#~ msgid "Default billing address"
+#~ msgstr "Oletuslaskutusosoite"
+
+#~ msgid "Edit"
+#~ msgstr "Muokkaa"
+
+#~ msgid "Set as default shipping address"
+#~ msgstr "Aseta oletustoimitusosoitteeksi"
+
+#~ msgid "Set as default billing address"
+#~ msgstr "Aseta oletuslaskutusosoitteeksi"
+
+#~ msgid "There are no addresses in your address book."
+#~ msgstr "Osoitekirjassasi ei ole osoitteita"
+
+#~ msgid "You do not have any active alerts for out-of-stock products."
+#~ msgstr "Sinulla ei ole aktiivisia hälytyksiä loppuneista tuotteista."
+
+#~ msgid "Cancel"
+#~ msgstr "Peruuta"
+
+#~ msgid ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> is back in stock\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> taas varastossa\n"
+
+#~ msgid "Order #%(number)s"
+#~ msgstr "Tilaus #%(number)s"
+
+#~ msgid "Contact number"
+#~ msgstr "Yhteydenottonumero"
+
+#~ msgid "Notes"
+#~ msgstr "Huomautukset"
+
+#~ msgid "Estimated dispatch date"
+#~ msgstr "Arvioitu toimituspäivä"
+
+#~ msgid "Line price excl. tax"
+#~ msgstr "Rivihinta ilman veroja"
+
+#~ msgid "Line price incl. tax"
+#~ msgstr "Rivihinta veroineen"
+
+#~ msgid "Basket total (inc. tax)"
+#~ msgstr "Kori yhteensä (veroineen)"
+
+#~ msgid "Email history"
+#~ msgstr "Sähköpostihistoria"
+
+#~ msgid "Date sent"
+#~ msgstr "Lähetyspäivä"
+
+#~ msgid "No emails found"
+#~ msgstr "Sähköposteja ei löytynyt"
+
+#~ msgid "Thanks for using our site!"
+#~ msgstr "Kiitos, kun käytit sivustoamme!"
+
+#~ msgid "The %(name)s team"
+#~ msgstr "Tiimi %(name)s"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately "
+#~ "and correct your email address:"
+#~ msgstr ""
+#~ "Jos sinä et vaihtanut sähköpostisoitetta, vaihda salasanasi heti, ja "
+#~ "korjaa sähköpostiosoitteesi: "
+
+#~ msgid ""
+#~ "If it was you who changed the email address, you can ignore this email."
+#~ msgstr ""
+#~ "Jos vaihdoit sähköpostiosoitteesi, sinun ei tarvitse välittää tästä "
+#~ "viestistä."
+
+#~ msgid ""
+#~ "You're receiving this email because your email address has been changed "
+#~ "to %(email)s."
+#~ msgstr ""
+#~ "Tämä sähköposti lähtetettiin, koska sähköpostisi on vaihdettu osoiteeseen "
+#~ "%(email)s."
+
+#~ msgid "Your email address has changed at %(site_name)s."
+#~ msgstr "Sähköpostisi on vaihdettu sivustolla %(site_name)s."
+
+#~ msgid "Hello,"
+#~ msgstr "Terve,"
+
+#~ msgid "Your order contains:"
+#~ msgstr "Tilauksesi sisältää:"
+
+#~ msgid "Basket total:"
+#~ msgstr "Kori yhteensä:"
+
+#~ msgid "Shipping:"
+#~ msgstr "Toimitus:"
+
+#~ msgid "Order Total:"
+#~ msgstr "Tilaus yhteensä:"
+
+#~ msgid "Shipping address:"
+#~ msgstr "Toimitusosoite:"
+
+#~ msgid ""
+#~ "You can view the status of this order by clicking <a href=\"%(status_url)s"
+#~ "\" title=\"order status\">here</a>"
+#~ msgstr ""
+#~ "Voit tarkastella tilausta klikkaamalla <a href=\"%(status_url)s\" title="
+#~ "\"order status\">tästä</a>"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "We are pleased to confirm your order %(order_number)s has been received "
+#~ "and\n"
+#~ "will be processed shortly."
+#~ msgstr ""
+#~ "Hei,\n"
+#~ "\n"
+#~ "Vahvistamme, että tilauksenne %(order_number)s on vastaanotettu, ja "
+#~ "käsitellään pian."
+
+#~ msgid "quantity:"
+#~ msgstr "määrä:"
+
+#~ msgid "price:"
+#~ msgstr "hinta:"
+
+#~ msgid ""
+#~ "You can view the status of this order at the below URL:\n"
+#~ "%(status_url)s"
+#~ msgstr ""
+#~ "Tilauksen tilan voit tarkistaa alla olevast osoitteesta:\n"
+#~ "%(status_url)s"
+
+#~ msgid "The team"
+#~ msgstr "Ryhmä"
+
+#~ msgid "Confirmation of order %(number)s"
+#~ msgstr "Tilauksen %(number)s vahvistus"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately:"
+#~ msgstr "Jos sinä et vaihtanut sitä, uusi salasana välittömästi:"
+
+#~ msgid "Otherwise, you can ignore this email."
+#~ msgstr "Muussa tapauksessa voit jättää tämän viestin huomiotta."
+
+#~ msgid ""
+#~ "\n"
+#~ "You're receiving this email because your password has been changed at "
+#~ "%(name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Tämä sähköposti lähetettiin, koska salasanasi on vaihdettu %(name)s:ssa.\n"
+
+#~ msgid "Your password changed at %(site_name)s."
+#~ msgstr "Salasanasi on vaihdettu %(site_name)s:ssa."
+
+#~ msgid ""
+#~ "You're receiving this e-mail because you requested a password reset for "
+#~ "your user account at %(name)s."
+#~ msgstr ""
+#~ "Tämä sähköposti lähetettiin, koska  pyysit salasanan uusimista kaupassa "
+#~ "%(name)s."
+
+#~ msgid "Please go to the following page and choose a new password:"
+#~ msgstr "Ole hyvä, ja mene seuraavalle sivule, ja valitse uusi salasana:"
+
+#~ msgid "Resetting your password at %(site_name)s."
+#~ msgstr "Uusitaan salasanasi sivustolla %(site_name)s"
+
+#~ msgid "Dear %(name)s,"
+#~ msgstr "Hyvä %(name)s,"
+
+#~ msgid ""
+#~ "\n"
+#~ "Beware that the amount of items in stock is limited. Be quick or someone "
+#~ "might get there first.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Huomaa rajoitettu varasto. Ole nopea, tai joku saattaa ehtiä ensin.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "With this email we have disabled your alert automatically and you will "
+#~ "not\n"
+#~ "receive any further email regarding this product.\n"
+#~ "\n"
+#~ "Thanks for your interest,\n"
+#~ "The %(site_name)s Team\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Tällä sähköpostilla olemme poistaneet hälytyksesi, \n"
+#~ "etkä enää saa sähköposteja tästä tuotteesta.\n"
+#~ "\n"
+#~ "Kiitoksia mielenkiinnosta,\n"
+#~ "%(site_name)s -tiimi\n"
+
+#~ msgid "Confirmation required for stock alert"
+#~ msgstr "Vahvistus vaaditaan varastohälytykselle"
+
+#~ msgid "Thank you for registering."
+#~ msgstr "Kiitos rekisteröitymisestä."
+
+#~ msgid "Products you recently viewed"
+#~ msgstr "Viimeksi katselemasi tuotteet"
+
+#~ msgid "Log In"
+#~ msgstr "Kirjaudu"
+
+#~ msgid "I've forgotten my password"
+#~ msgstr "Olen unohtanut salasanani"
+
+#~ msgid "Logging in..."
+#~ msgstr "Kirjautudutaan..."
+
+#~ msgid "Register"
+#~ msgstr "Rekisteröidy"
+
+#~ msgid "Registering..."
+#~ msgstr "Rekisteröidytään..."
+
+#~ msgid "Notifications inbox"
+#~ msgstr "Saapuneet ilmoitukset"
+
+#~ msgid "Sender"
+#~ msgstr "Lähettäjä"
+
+#~ msgid "Return to notifications inbox"
+#~ msgstr "Palaa ilmoitusviesteihin"
+
+#~ msgctxt "noun"
+#~ msgid "Archive"
+#~ msgstr "Arkisto"
+
+#~ msgid "View"
+#~ msgstr "Katso"
+
+#~ msgctxt "verb"
+#~ msgid "Archive"
+#~ msgstr "Arkisto"
+
+#~ msgid "With selected items:"
+#~ msgstr "Valituille tuoteille:"
+
+#~ msgid "Archiving..."
+#~ msgstr "Arkistoidaan..."
+
+#~ msgid "There are no notifications to display."
+#~ msgstr "Ei näytettäviä ilmoituksia."
+
+#~ msgid "Order history"
+#~ msgstr "Tilaushistoria"
+
+#~ msgid "Dispatch date"
+#~ msgstr "Toimituspäivä"
+
+#~ msgid "Re-ordering..."
+#~ msgstr "Tilataan uudelleen..."
+
+#~ msgid "Re-order"
+#~ msgstr "Tilaa uudelleen"
+
+#~ msgid "Not available anymore"
+#~ msgstr "Ei enää saatavilla"
+
+#~ msgid "Basket total (excl. discounts)"
+#~ msgstr "Kori yhteensä (ilman alennuksia)"
+
+#~ msgid "Basket total (inc. discounts)"
+#~ msgstr "Kori yhteensä (alennusten kanssa)"
+
+#~ msgid "Shipping total (excl. discounts)"
+#~ msgstr "Toimitus yhteensä (ilman alennuksia)"
+
+#~ msgid "Shipping total (inc. discounts)"
+#~ msgstr "Toimitus yhteensä (alennusten kanssa)"
+
+#~ msgid "Shipping total"
+#~ msgstr "Toimitus yhteensä"
+
+#~ msgid "Re-order all items"
+#~ msgstr "Uudelleentilaa kaikki tuotteet"
+
+#~ msgid "Contact Number"
+#~ msgstr "Puhelinnumero"
+
+#~ msgid "Shipping Notes"
+#~ msgstr "Lähetysmerkinnät"
+
+#~ msgid "Filtering..."
+#~ msgstr "Suodatetaan..."
+
+#~ msgid "Filter results"
+#~ msgstr "Suodata tuloksia"
+
+#~ msgid "Reset"
+#~ msgstr "Nollaa"
+
+#~ msgid "Total inc tax"
+#~ msgstr "Yhteensä veroineen"
+
+#~ msgid "No orders match your search."
+#~ msgstr "Ei hakua vastaavia tilauksia."
+
+#~ msgid "You haven't placed any orders."
+#~ msgstr "Et ole tilannut mitään"
+
+#~ msgid "Change password"
+#~ msgstr "Vaihda salasana"
+
+#~ msgid "Edit profile"
+#~ msgstr "Muokkaa profiilia"
+
+#~ msgid "Please confirm your password to delete your profile."
+#~ msgstr "Syötä salasanasi uudelleen poistaaksesi käyttäjätunnuksesi"
+
+#~ msgid "Warning"
+#~ msgstr "Varoitus"
+
+#~ msgid ""
+#~ "\n"
+#~ "                This will delete all information about you from the "
+#~ "site.  Deleting your profile cannot be\n"
+#~ "                undone.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Tämä poistaa kaiken tiedon sinusta sivustolta. Poistettua profiilia ei "
+#~ "voi palauttaa."
+
+#~ msgid "Delete?"
+#~ msgstr "Poista?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Oletko varma, että haluat poistaa toivelistan %(name)s?"
+
+#~ msgid "Remove product"
+#~ msgstr "Poista tuote"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(product_name)s from "
+#~ "wish list %(wishlist_name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Oletko karma, että haluat poistaa tuotteen %(product_name)s toivelistalta "
+#~ "%(wishlist_name)s?"
+
+#~ msgid "Action"
+#~ msgstr "Toiminto"
+
+#~ msgid "View product"
+#~ msgstr "Katso tuotetta"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                            Move to "
+#~ "'%(name)s' wish list\n"
+#~ "                                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Siirretty toivelistalle '%(name)s'"
+
+#~ msgid "Update quantities"
+#~ msgstr "Päivitä lukumääriä"
+
+#~ msgid "Your wish list is empty."
+#~ msgstr "Toivelistasi on tyhjä"
+
+#~ msgid "Create"
+#~ msgstr "Luo"
+
+#~ msgid "What should your new wish list be called?"
+#~ msgstr "Millä nimellä haluat uutta toivelistaasi kutsuttavan?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    After your wishlist is created, <strong>%(title)s</"
+#~ "strong> will be added.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Kun toivelista on luotu, siihen lisätään <strong>%(title)s</strong>."
+
+#~ msgid "Number of products"
+#~ msgstr "Tuotteiden lukumäärä"
+
+#~ msgid "Wish list settings"
+#~ msgstr "Toivelistan asetukset"
+
+#~ msgid "You don't have any wish lists yet."
+#~ msgstr "Sinulla ei ole vielä toivelistoja"
+
+#~ msgid "Sections"
+#~ msgstr "Osastot"
+
+#~ msgid "Delete category?"
+#~ msgstr "Poista kategoria?"
+
+#~ msgid "Delete category"
+#~ msgstr "Poista kategoria"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <p>Delete category <strong>%(name)s</strong> - are you sure?</"
+#~ "p>\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Poista luokka <strong>%(name)s</strong> – oletko varma?</p>"
+
+#~ msgid "Create new category"
+#~ msgstr "Luo uusi kategoria"
+
+#~ msgid "You are editing:"
+#~ msgstr "Olet muokkaamasa:"
+
+#~ msgid "There are no categories."
+#~ msgstr "Ei kategorioita."
+
+#~ msgid "Edit category"
+#~ msgstr "Muokkaa kategoriaa"
+
+#~ msgid "Add child category"
+#~ msgstr "Lisää alikategoria"
+
+#~ msgid "Edit children"
+#~ msgstr "Muokkaa aliluokkaa"
+
+#~ msgid "View on site"
+#~ msgstr "Katso sivustolla"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Tuotemuunnos '%(name)s' luotu."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Luotu muunnos '%(parent_name)s'."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Tuotemuunos '%(name)s' päivitetty."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated a variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Muunnos '%(parent_name)s' päivitetty."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Created product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Tuote '%(name)s' luotu."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Updated product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Tuote '%(name)s' päivitetty."
+
+#~ msgid "Edit again"
+#~ msgstr "Muokkaa uudelleen"
+
+#~ msgid "View it on the site"
+#~ msgstr "Katso tuotetta sivustolla"
+
+#~ msgid "Delete product type?"
+#~ msgstr "Poista tuotetyyppi?"
+
+#~ msgid ""
+#~ "Please make sure all products are assigned to another type before "
+#~ "deletion."
+#~ msgstr ""
+#~ "Varmista että kaikkien tuotteiden tyyppi on muutettu toiseksi ennen "
+#~ "poistamista."
+
+#~ msgid "Delete product type"
+#~ msgstr "Poista tuotetyyppi"
+
+#~ msgid "Delete product type <strong>%(name)s</strong> - are you sure?"
+#~ msgstr "Poista tuotetyyppi <strong>%(name)s</strong> - oletko varma?"
+
+#~ msgid "Create product type"
+#~ msgstr "Luo tuotetyyppi"
+
+#~ msgid "Product Class details"
+#~ msgstr "Tuoteluokan tiedot"
+
+#~ msgid "Create new product type"
+#~ msgstr "Luo uusi tuotetyyppi"
+
+#~ msgid "Product types"
+#~ msgstr "Tuotetyypit"
+
+#~ msgid "Requires shipping"
+#~ msgstr "Vaatii toimituksen"
+
+#~ msgid "Track stock?"
+#~ msgstr "Seuraa varastomääriä?"
+
+#~ msgid "Edit product type"
+#~ msgstr "Muokkaa tuotetyyppiä"
+
+#~ msgid "There are no product types."
+#~ msgstr "Ei tuotetyyppejä."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product variant <strong>%(title)s</strong> - "
+#~ "are you sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Poista tuotemuunnos <strong>%(title)s</strong> – oletko varma?</p>"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product <strong>%(title)s</strong> - are you "
+#~ "sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Poista tuote <strong>%(title)s</strong> – oletko varma?</p>"
+
+#~ msgid "This will also delete the following child products:"
+#~ msgstr "Toiminto poistaa myös seuraavat alituotteet:"
+
+#~ msgid "Create new product"
+#~ msgstr "Luo uusi tuote"
+
+#~ msgid "New Product"
+#~ msgstr "Uusi tuote"
+
+#~ msgid "Search Products"
+#~ msgstr "Etsi tuotteita"
+
+#~ msgid "Searching..."
+#~ msgstr "Haetaan..."
+
+#~ msgid ""
+#~ "\n"
+#~ "                            You are currently editing a product variant "
+#~ "of\n"
+#~ "                            <a href=\"%(parent_url)s\">%(title)s</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Olet muokkaamassa tuotemuunnosta\n"
+#~ "<a href=\"%(parent_url)s\">%(title)s</a>."
+
+#~ msgid "Product details"
+#~ msgstr "Tuotteen tiedot"
+
+#~ msgid "Images"
+#~ msgstr "Kuvat"
+
+#~ msgid "Stock and pricing"
+#~ msgstr "Varasto ja hinnoittelu"
+
+#~ msgid "Upselling"
+#~ msgstr "Ylösmyynti"
+
+#~ msgid "Product Type:"
+#~ msgstr "Tuotetyyppi:"
+
+#~ msgid "Upload, change or remove images"
+#~ msgstr "Lataa, vaihda tai poista kuvia"
+
+#~ msgid "SKU"
+#~ msgstr "Tuotekoodi"
+
+#~ msgid "Num in stock"
+#~ msgstr "Varastomäärä"
+
+#~ msgid "Num allocated"
+#~ msgstr "Kohdennettu määrä"
+
+#~ msgid "Low stock threshold"
+#~ msgstr "Alhaisen varaston raja-arvo"
+
+#~ msgid "Cost price"
+#~ msgstr "Omakustannushinta"
+
+#~ msgid "Price (excl tax)"
+#~ msgstr "Hinta (ilman veroja)"
+
+#~ msgid "Retail price"
+#~ msgstr "Jälleenmyyntihinta"
+
+#~ msgid "Add variant"
+#~ msgstr "Lisää tuotemuunnos"
+
+#~ msgid "This product does not have any variants."
+#~ msgstr "Tällä tuotteella ei ole yhtään muunnosta."
+
+#~ msgid "One can't add variants to this product at this point."
+#~ msgstr "Et voi lisätä muunnosta tälle tuotteelle tällähetkellä."
+
+#~ msgid "This is likely because this product still has stock records."
+#~ msgstr ""
+#~ "Tämä johtuu luultavasti siitä, että tuottella on edelleen "
+#~ "varastomerkintöjä."
+
+#~ msgid "Save and add another variant"
+#~ msgstr "Tallenna ja lisää toinen muunnos"
+
+#~ msgid "Save and continue editing"
+#~ msgstr "Tallenna ja jatka muokkaamista"
+
+#~ msgid "All"
+#~ msgstr "Kaikki"
+
+#~ msgid "Current available stock"
+#~ msgstr "Tämänhetkinen saatavilla oleva varastomäärä"
+
+#~ msgid "Date alert raised"
+#~ msgstr "Päivähälytys hälytetty"
+
+#~ msgid "No stock alerts found."
+#~ msgstr "Ei varastohälytyksiä"
+
+#~ msgid "Preview"
+#~ msgstr "Esikatselu"
+
+#~ msgid "Edit email"
+#~ msgstr "Muokkaa sähköpostia"
+
+#~ msgid "Email content"
+#~ msgstr "Sähköpostin sisältö"
+
+#~ msgid "These fields are rendered using Django's template system."
+#~ msgstr "Nämä kentät muodostetaan käyttäen Djangon mallijärjestelmää."
+
+#~ msgid "You can use the following variables:"
+#~ msgstr "Voit käyttää seuraavia muuttujia:"
+
+#~ msgid "The full name of the user (if they have one)"
+#~ msgstr "Käyttäjän koko nimi (jos annettu)"
+
+#~ msgid "The user's email address"
+#~ msgstr "Käyttäjän sähköpostiosoite"
+
+#~ msgid "The name of the site (eg example.com)"
+#~ msgstr "Sivuston nimi (esim. esimerkki.com)"
+
+#~ msgid "View a preview of this email using order:"
+#~ msgstr "Esikatsele tätä sähköpostia tilauksella:"
+
+#~ msgid "View preview"
+#~ msgstr "Esikatsele"
+
+#~ msgid "or send a preview to:"
+#~ msgstr "tai lähetä esikatselu seuraavalle:"
+
+#~ msgid "Sending..."
+#~ msgstr "Lähetetään..."
+
+#~ msgid "Send preview email"
+#~ msgstr "Lähetä esikatselusähköposti"
+
+#~ msgid "Body text"
+#~ msgstr "Leipäteksti"
+
+#~ msgid "There are no defined emails to edit."
+#~ msgstr "Määritettyjä sähköposteja ei ole muokattavaksi."
+
+#~ msgid "Your Store Statistics"
+#~ msgstr "Kauppasi tilastot"
+
+#~ msgid "Total Orders"
+#~ msgstr "Tilauksia yhteensä"
+
+#~ msgid "New Customers"
+#~ msgstr "Uudet asiakkaat"
+
+#~ msgid "Total Customers"
+#~ msgstr "Asiakkaita yhteensä"
+
+#~ msgid "Total Products"
+#~ msgstr "Tuotteita yhteensä"
+
+#~ msgid "Latest Orders (last 24 hours)"
+#~ msgstr "Viimeisimmät tilaukset (viimeiset 24 tuntia)"
+
+#~ msgid "Orders - Last 24 Hours"
+#~ msgstr "Tilaukset - Viimeisimmät 24 tuntia"
+
+#~ msgid "Total orders"
+#~ msgstr "Tilauksia yhteensä"
+
+#~ msgid "Total lines"
+#~ msgstr "Rivejä yhteensä"
+
+#~ msgid "Total revenue"
+#~ msgstr "Kokonaisliikevaihto"
+
+#~ msgid "Average order costs"
+#~ msgstr "Tilauksen kustannus keskimäärin"
+
+#~ msgid "Manage"
+#~ msgstr "Hallinnoi"
+
+#~ msgid "Orders - All Time"
+#~ msgstr "Tilaukset - Koko ajalta"
+
+#~ msgid "Total <em>open</em> baskets"
+#~ msgstr "Yhteensä <em>avaa</em> korit"
+
+#~ msgid "Total customers"
+#~ msgstr "Asiakkaita yhteensä"
+
+#~ msgid "New customers"
+#~ msgstr "Uudet asiakkaat"
+
+#~ msgid "View Stock Alerts"
+#~ msgstr "Katso varastomäärähälytyksiä"
+
+#~ msgid "Catalogue and stock"
+#~ msgstr "Luettelo ja varasto"
+
+#~ msgid "Total products"
+#~ msgstr "Tuotteita yhteensä"
+
+#~ msgid "<em>Open</em> stock alerts"
+#~ msgstr "<em>Avoimet</em> varastohälytykset"
+
+#~ msgid "<em>Closed</em> stock alerts"
+#~ msgstr "<em>Suljetut</em> varastohälytykset"
+
+#~ msgid "Offers, vouchers and promotions"
+#~ msgstr "Tarjoukset, kupongit ja kampanjat"
+
+#~ msgid "Active <em>Site</em> Offers"
+#~ msgstr "Voimassa olevat <em>sivusto</em> tarjoukset"
+
+#~ msgid "Active <em>Vouchers</em>"
+#~ msgstr "Voimassa olevat <em>kupongit</em>"
+
+#~ msgid "Welcome"
+#~ msgstr "Tervetuloa"
+
+#~ msgid "Return to site"
+#~ msgstr "Palaa sivustolle"
+
+#~ msgid "Log out"
+#~ msgstr "Kirjaudu ulos"
+
+#~ msgid "Build a new incentive"
+#~ msgstr "Rakenna uusi kannustin"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Ranges can be created and edited from within the <a href="
+#~ "\"%(range_list_url)s\">range dashboard</a>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "Tuotevalikoimia voidaan luoda, ja muokata, <a href=\"%(range_list_url)s"
+#~ "\">tuotevalikoiman kojelaudasta</a>."
+
+#~ msgid "...or choose a pre-defined one"
+#~ msgstr "... tai valitse esimääritelty"
+
+#~ msgid "Continue to step 3"
+#~ msgstr "Jatka kohtaan 3"
+
+#~ msgid "Build a new condition"
+#~ msgstr "Rakenna uusi ehto"
+
+#~ msgid "Continue to step 4"
+#~ msgstr "Jatka kohtaan 4"
+
+#~ msgid "Continue to step 2"
+#~ msgstr "Jatka kohtaan 2"
+
+#~ msgid "Delete offer"
+#~ msgstr "Poista tarjous"
+
+#~ msgid "Are you sure you want to delete this offer?"
+#~ msgstr "Oletko varma, että haluat poistaa tämän tarjouksen?"
+
+#~ msgid ""
+#~ "\n"
+#~ "        %(name)s | Offers\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "%(name)s | Tarjoukset"
+
+#~ msgid "Reinstating..."
+#~ msgstr "Palautetaan..."
+
+#~ msgid "Reinstate offer"
+#~ msgstr "Palauta tarjous"
+
+#~ msgid "Suspending..."
+#~ msgstr "Keskeytetään..."
+
+#~ msgid "Suspend offer"
+#~ msgstr "Keskeytä tarjous"
+
+#~ msgid "Offer currently available"
+#~ msgstr "Tarjous saatavilla tällä hetkellä"
+
+#~ msgid "Offer not available due to restrictions!"
+#~ msgstr "Tarjous ei ole saatavilla rajoitusten vuoksi!"
+
+#~ msgid "Total cost:"
+#~ msgstr "Yhteensä:"
+
+#~ msgid "Number of orders:"
+#~ msgstr "Tilausten määrä:"
+
+#~ msgid "Number of uses:"
+#~ msgstr "Käyttöjen määrä:"
+
+#~ msgid "Date created:"
+#~ msgstr "Luontipäivä:"
+
+#~ msgid "Offer details"
+#~ msgstr "Tarjoukset tiedot"
+
+#~ msgid "Export to CSV"
+#~ msgstr "Vie CSV tiedostoksi"
+
+#~ msgid "Orders that used this offer"
+#~ msgstr "Tähän tilaukseen käytety tarjoukset."
+
+#~ msgid "Create new offer"
+#~ msgstr "Luo uusi tarjous"
+
+#~ msgid "Is available?"
+#~ msgstr "Saatavilla?"
+
+#~ msgid "Uses"
+#~ msgstr "Käyttää"
+
+#~ msgid "Browse"
+#~ msgstr "Selaa"
+
+#~ msgid "Stats"
+#~ msgstr "Tilastot"
+
+#~ msgid "No offers found."
+#~ msgstr "Tarjouksia ei löytynyt."
+
+#~ msgid "Steps"
+#~ msgstr "Vaiheet"
+
+#~ msgid "1. Name and description"
+#~ msgstr "1. Nimi ja kuvaus"
+
+#~ msgid "2. Incentive"
+#~ msgstr "2. Kannustin"
+
+#~ msgid "3. Condition"
+#~ msgstr "3. Ehdot"
+
+#~ msgid "4. Restrictions"
+#~ msgstr "4. Rajoitukset"
+
+#~ msgid "Save this offer"
+#~ msgstr "Tallenna tämä tarjous"
+
+#~ msgid "Fields marked with * are mandatory."
+#~ msgstr "Tähdellä (*) merkityt kentät ovat pakollisia. "
+
+#~ msgid "Save changes"
+#~ msgstr "Tallenna muutokset"
+
+#~ msgid "Offer summary"
+#~ msgstr "Tarjouksen yhteenveto"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s - Line #%(id)s\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Tilaus %(number)s - Rivi #%(id)s"
+
+#~ msgid "Line #%(id)s"
+#~ msgstr "Rivi #%(id)s"
+
+#~ msgid "Order #%(number)s - Line #%(id)s"
+#~ msgstr "Tilaus #%(number)s - Rivi #%(id)s"
+
+#~ msgid "Product Options"
+#~ msgstr "Tuotevaihtoehdot"
+
+#~ msgid "Partner details"
+#~ msgstr "Yhteistyötahon tiedot"
+
+#~ msgid "Shipping details"
+#~ msgstr "Tomitustiedot"
+
+#~ msgid "Partner reference number"
+#~ msgstr "Kumppanin viitenumero"
+
+#~ msgid "Partner notes"
+#~ msgstr "Kumppanin merkinnät"
+
+#~ msgid "Estimate dispatch date"
+#~ msgstr "Arvioitu toimitusaika"
+
+#~ msgid "Shipping status"
+#~ msgstr "Toimituksen tila"
+
+#~ msgid "State"
+#~ msgstr "Tila"
+
+#~ msgid "No shipping events have occurred."
+#~ msgstr "Toimitustapahtumia ei ole"
+
+#~ msgid "Shipping events"
+#~ msgstr "Toimitustapahtumat"
+
+#~ msgid "Payment events"
+#~ msgstr "Maksutapahtumat"
+
+#~ msgid "No payment events have occurred."
+#~ msgstr "Maksutapahtumia ei ole tapahtunut."
+
+#~ msgid "Order %(number)s"
+#~ msgstr "Tilaus %(number)s"
+
+#~ msgid "Customer Information"
+#~ msgstr "Asiakastieto"
+
+#~ msgid "Customer checked out as a guest."
+#~ msgstr "Asiakas maksanut vieraana."
+
+#~ msgid "Customer has deleted their account."
+#~ msgstr "Asiakas on poistanut tilin."
+
+#~ msgid "Order information"
+#~ msgstr "Tilaustieto"
+
+#~ msgid "Order Total"
+#~ msgstr "Tilaus yhteensä"
+
+#~ msgid "Time of purchase"
+#~ msgstr "Tilausaika"
+
+#~ msgid "Order Details"
+#~ msgstr "Tilauksen tiedot"
+
+#~ msgid "Discounts"
+#~ msgstr "Alennukset"
+
+#~ msgid "Items ordered"
+#~ msgstr "Tilatut tuotteet"
+
+#~ msgid "Line ID"
+#~ msgstr "Rivin ID"
+
+#~ msgid "Supplier"
+#~ msgstr "Toimittaja"
+
+#~ msgid "Supplier SKU"
+#~ msgstr "Toimittajan tuotekoodi"
+
+#~ msgid "Est. dispatch date"
+#~ msgstr "Arv. läh.päivä"
+
+#~ msgid "Price excl tax (before discounts)"
+#~ msgstr "Hinta ilman veroja (ennen alennuksia)"
+
+#~ msgid "Price inc tax (before discounts)"
+#~ msgstr "Hinta veroineeen (ennen alennuksia)"
+
+#~ msgid "With selected lines"
+#~ msgstr "Valituilla riveillä"
+
+#~ msgid "Change line status to"
+#~ msgstr "Muuta rivin tila seuraavaksi "
+
+#~ msgid "choose new status"
+#~ msgstr "Valitse uusi tila"
+
+#~ msgid "Create shipping event"
+#~ msgstr "Luo toimitustapahtuma"
+
+#~ msgid "choose event type"
+#~ msgstr "Valitse tapahtuman tyyppi"
+
+#~ msgid "with reference"
+#~ msgstr "viittellä"
+
+#~ msgid "Create payment event"
+#~ msgstr "Luo maksutapahtuma"
+
+#~ msgid "with amount"
+#~ msgstr "summalla"
+
+#~ msgid "Go!"
+#~ msgstr "Suorita"
+
+#~ msgid "Change order status"
+#~ msgstr "Muuta tilauksen tilaa"
+
+#~ msgid "Change status"
+#~ msgstr "Muuta tilaa"
+
+#~ msgid "This order can't have its status changed."
+#~ msgstr "Tämän tilauksen tilaa ei voi muuttaa."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                                %(title)s "
+#~ "(quantity %(event_qty)s/%(total_qty)s)\n"
+#~ "                                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "%(title)s (määrä %(event_qty)s/%(total_qty)s)"
+
+#~ msgid "No shipping events."
+#~ msgstr "Ei toimitustapahtumia."
+
+#~ msgid "Product:"
+#~ msgstr "Tuote:"
+
+#~ msgid "quantity"
+#~ msgstr "määrä"
+
+#~ msgid "No payment events."
+#~ msgstr "Ei maksutapahtumia"
+
+#~ msgid "Method name"
+#~ msgstr "Metodin nimi"
+
+#~ msgid "Method code"
+#~ msgstr "Metodin koodi"
+
+#~ msgid "Charge (incl tax)"
+#~ msgstr "Laskutus (sis. verot)"
+
+#~ msgid "Charge (excl tax)"
+#~ msgstr "Laskutus (pois lukien verot)"
+
+#~ msgid "Payment sources"
+#~ msgstr "Maksun lähteet"
+
+#~ msgid "Allocation"
+#~ msgstr "Allokaatio"
+
+#~ msgid "Amount debited"
+#~ msgstr "Summa veloitettu"
+
+#~ msgid "Amount refunded"
+#~ msgstr "Summa palautettu"
+
+#~ msgid "No payment sources found for this order."
+#~ msgstr "Tälle tilaukselle ei ole maksulähdettä."
+
+#~ msgid "No discounts were applied to this order."
+#~ msgstr "Alennuksia ei käytetty tähän tilaukseen."
+
+#~ msgid "Admin"
+#~ msgstr "Ylläpitäjä"
+
+#~ msgid "No notes available."
+#~ msgstr "Ei merkintöjä saatavilla."
+
+#~ msgid "Save note"
+#~ msgstr "Tallenna merkintä"
+
+#~ msgid "Notes are only editable for 5 minutes after being saved."
+#~ msgstr "Merkinnät ovat muokattavissa vain 5 minuuttia tallennuksen jälkeen."
+
+#~ msgid "Advanced Search"
+#~ msgstr "Laajennettu haku"
+
+#~ msgid "Close"
+#~ msgstr "Sulje"
+
+#~ msgid "Order Search Results"
+#~ msgstr "Tilaushaun tulokset"
+
+#~ msgid "All Orders"
+#~ msgstr "Kaikki tilaukset"
+
+#~ msgid "Download selected orders as a CSV"
+#~ msgstr "Lataa valitut tilaukset CSV-muodossa"
+
+#~ msgid "Deleted"
+#~ msgstr "Poistettu"
+
+#~ msgid "Changing..."
+#~ msgstr "Vaihdetaan..."
+
+#~ msgid "No orders found."
+#~ msgstr "Tilauksia ei löytynyt"
+
+#~ msgid "Print Packaging Slips"
+#~ msgstr "Tulosta pakkauslipukkeet"
+
+#~ msgid "Mark as"
+#~ msgstr "Merkitse"
+
+#~ msgid "Change order status to"
+#~ msgstr "Muuta tilauksen tila seuraavaksi"
+
+#~ msgid "Done"
+#~ msgstr "Valmis"
+
+#~ msgid "Edit shipping address"
+#~ msgstr "Muuta toimitusosoitetta"
+
+#~ msgid "Edit shipping address for order %(order.number)s"
+#~ msgstr "Muuta toimitusosoitetta tilaukselle %(order.number)s"
+
+#~ msgid "Update address"
+#~ msgstr "Päivitä osoite"
+
+#~ msgid "Order statistics"
+#~ msgstr "Tilaustilastot"
+
+#~ msgid "Filter result"
+#~ msgstr "Suodatetut tulokset"
+
+#~ msgid "Summary"
+#~ msgstr "Yhteenveto"
+
+#~ msgid "Order status breakdown"
+#~ msgstr "Jaottelu tilausten tilan mukaan"
+
+#~ msgid "Delete page '%(title)s'?"
+#~ msgstr "Poista sivu '%(title)s'?"
+
+#~ msgid "Delete page"
+#~ msgstr "Poista sivu"
+
+#~ msgid "Delete page <strong>%(title)s</strong> - are you sure?"
+#~ msgstr "Poista sivu <strong>%(title)s</strong> – oletko varma?"
+
+#~ msgid "Create new page"
+#~ msgstr "Luo uusi sivu"
+
+#~ msgid "No pages found."
+#~ msgstr "Sivuja ei löydy"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Page <strong>%(title)s</strong> saved!\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Sivu <strong>%(title)s</strong> tallennettu!"
+
+#~ msgid "Oops! We found some errors"
+#~ msgstr "Hupsista! Löysimme virheitä."
+
+#~ msgid "please check the error messages below and try again"
+#~ msgstr "Tarkista allaolevat virheet ja yritä uudelleen"
+
+#~ msgid "previous"
+#~ msgstr "edellinen"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Page %(page_num)s of %(total_pages)s\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Sivu %(page_num)s/%(total_pages)s"
+
+#~ msgid "next"
+#~ msgstr "seuraava"
+
+#~ msgid ""
+#~ "\n"
+#~ "User %(user_name)s was unlinked from %(partner_name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Käyttäjän %(user_name)s liitos kumppaniin %(partner_name)s on poistettu.\n"
+
+#~ msgid "Undo"
+#~ msgstr "Peruuta"
+
+#~ msgid "Delete partner"
+#~ msgstr "Poista yhteistyötaho"
+
+#~ msgid "Are you sure you want to delete this partner?"
+#~ msgstr "Haluatko varmasti poistaa tämän kumppanin?"
+
+#~ msgid "Edit the user's details"
+#~ msgstr "Muokkaa käyttäjän tietoja"
+
+#~ msgid "No users associated."
+#~ msgstr "Käyttäjää ei yhdistetty."
+
+#~ msgid "No address associated."
+#~ msgstr "Osoitetta ei yhdistetty."
+
+#~ msgid "Manage partner and users"
+#~ msgstr "Hallitse kumppania ja käyttäjiä"
+
+#~ msgid "Link an existing user"
+#~ msgstr "Liitä olemassa oleva käyttäjä"
+
+#~ msgid "Link a new user"
+#~ msgstr "Liitä uusi käyttäjä"
+
+#~ msgid "No partners found."
+#~ msgstr "Kumppaneita ei löytynyt."
+
+#~ msgid "Unlinking..."
+#~ msgstr "Poistetaan liitos..."
+
+#~ msgid "Unlink user"
+#~ msgstr "Poista käyttäjän liitos"
+
+#~ msgid "No users linked."
+#~ msgstr "Ei liitettyjä käyttäjiä."
+
+#~ msgid "Link a user"
+#~ msgstr "Kytke käyttäjä"
+
+#~ msgid "Manage users"
+#~ msgstr "Hallinnoi käyttäjiä"
+
+#~ msgid "Update details"
+#~ msgstr "Päivitä tiedot"
+
+#~ msgid ""
+#~ "A partial email address can be entered (eg '@example.com') to match "
+#~ "multiple addresses."
+#~ msgstr ""
+#~ "Sähköpostiosoitteen osa (esim. '@example.com') voidaan syöttää useamman "
+#~ "osoitteen hakemiseksi."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                User is already linked to "
+#~ "%(name)s.\n"
+#~ "                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "Käyttäjä on jo liitetty kumppaniin %(name)s."
+
+#~ msgid "Linking..."
+#~ msgstr "Liitetään..."
+
+#~ msgid "Link user"
+#~ msgstr "Liitä käyttäjä"
+
+#~ msgid "No users found."
+#~ msgstr "Käyttäjiä ei löytynyt."
+
+#~ msgid "Delete content block '%(name)s'?\""
+#~ msgstr "Poista sisältölohko '%(name)s'?"
+
+#~ msgid "Delete content block"
+#~ msgstr "Poista sisältölohko"
+
+#~ msgid ""
+#~ "Delete %(object.type)s content block <strong>%(object.name)s</strong> - "
+#~ "are you sure?"
+#~ msgstr ""
+#~ "Poista %(object.type)s sisältölohko <strong>%(object.name)s</strong> - "
+#~ "Oletko varma?"
+
+#~ msgid "Remove promotion from page?"
+#~ msgstr "Poista kampanja sivulta?"
+
+#~ msgid "Remove promotion"
+#~ msgstr "Poista kampanja"
+
+#~ msgid ""
+#~ "Remove %(object.content_object.type)s content block <strong>%(object."
+#~ "name)s</strong> from page <strong>%(object.page_url)s</strong> - are you "
+#~ "sure?"
+#~ msgstr ""
+#~ "Poista tyypin %(object.content_object.type)s sisältöosio <strong>%(object."
+#~ "name)s</strong> sivulta <strong>%(object.page_url)s</strong> – oletko "
+#~ "varma?"
+
+#~ msgid "Content block"
+#~ msgstr "Sisältölohko"
+
+#~ msgid "Pages displaying this content blocks"
+#~ msgstr "Sivut, jotka näyttävät näitä sisältölohkoja"
+
+#~ msgid "Position on page"
+#~ msgstr "Sijainti sivulla"
+
+#~ msgid "View all blocks on this page"
+#~ msgstr "Katso kaikki lohkot tältä sivulta"
+
+#~ msgid "Remove from page"
+#~ msgstr "Poista sivulta"
+
+#~ msgid "This promotion is not displayed anywhere at the moment."
+#~ msgstr "Kampanjaa ei näytetä missään tällä hetkellä."
+
+#~ msgid "Add to a page"
+#~ msgstr "Lisää sivulle"
+
+#~ msgid "Add to page"
+#~ msgstr "Lisää sivulle"
+
+#~ msgid "Content blocks for page %(page_url)s"
+#~ msgstr "Sisältölohkot sivulle %(page_url)s"
+
+#~ msgid "Content blocks on page '%(page_url)s'"
+#~ msgstr "Sisältölohkot sivulle '%(page_url)s'"
+
+#~ msgid "Edit promotions in position '%(name)s'"
+#~ msgstr "Muokkaa kampanjoja sijainnissa '%(name)s'"
+
+#~ msgid "Promotion Name"
+#~ msgstr "Kampanjan nimi"
+
+#~ msgid "Change display order"
+#~ msgstr "Muuta näyttöjärjestystä"
+
+#~ msgid "No promotions in this position."
+#~ msgstr "Ei kampanjoja tässä sijainnissa"
+
+#~ msgid "Pages with content blocks"
+#~ msgstr "Sisältölohkon sisältävät sivut"
+
+#~ msgid "View by page"
+#~ msgstr "Sivukohtainen katselu"
+
+#~ msgid "View all content blocks"
+#~ msgstr "Katso kaikki sisältölohkot"
+
+#~ msgid "View content blocks by page"
+#~ msgstr "Katso kaikki sisältölohkot per sivu"
+
+#~ msgid "Pages with content blocks on them"
+#~ msgstr "Sivuja, joissa sisältölohko"
+
+#~ msgid "Number of content blocks"
+#~ msgstr "Sisältölohkojen lukumäärä"
+
+#~ msgid "No content blocks found."
+#~ msgstr "Sisältölohkoja ei löydy"
+
+#~ msgid "Create a new content block"
+#~ msgstr "Luo uusi sisältölohko"
+
+#~ msgid "Creating..."
+#~ msgstr "Luodaan..."
+
+#~ msgid "Create block"
+#~ msgstr "Luo lohko"
+
+#~ msgid "Number of times used"
+#~ msgstr "Käyttömäärä"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>File <strong>%(filename)s</strong> processed.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Tiedosto <strong>%(filename)s</strong> käsitelty.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> product added\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> products added\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(n)s</strong> tuote lisätty"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(n)s</strong> tuotetta lisätty"
+
+#~ msgid ""
+#~ "\n"
+#~ "                There was <strong>%(n)s</strong> duplicate product in the "
+#~ "file\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                There were <strong>%(n)s</strong> duplicate products in "
+#~ "the file\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "Tiedostossa oli <strong>%(n)s</strong> päällekkäinen tuote"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "Tiedostossa oli <strong>%(n)s</strong> päällekkäistä tuotetta"
+
+#~ msgid ""
+#~ "\n"
+#~ "                There was <strong>%(n)s</strong> product in the file that "
+#~ "couldn't be found in the catalogue\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                There were <strong>%(n)s</strong> products in the file "
+#~ "that couldn't be found in the catalogue\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "Tiedostossa oli <strong>%(n)s</strong> tuote, jota ei ole luettelossa"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "Tiedostossa oli <strong>%(n)s</strong> tuotetta, joita ei ole luettelossa"
+
+#~ msgid "Edit range metadata"
+#~ msgstr "Muokkaa tuotevalikoiman metadataa"
+
+#~ msgid "Return to ranges homepage"
+#~ msgstr "Palaa tuotevalikoimien kotisivulle"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>Range <strong>%(name)s</strong> saved.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Tuotevalikoima <strong>%(name)s</strong> talletettu.</p>\n"
+
+#~ msgid "Edit included products"
+#~ msgstr "Muokkaa sisältyviä tuoteita"
+
+#~ msgid "Delete range '%(name)s'?"
+#~ msgstr "Poista tuotevalikoima '%(name)s'?"
+
+#~ msgid "Are you sure you want to delete this range?"
+#~ msgstr "Haluatko varmasti tuhota tämän valikoiman?"
+
+#~ msgid "Create new range"
+#~ msgstr "Luo uusi valikoima"
+
+#~ msgid "Save and edit products"
+#~ msgstr "Talleta ja muokkaa tuotteita"
+
+#~ msgid "Num products"
+#~ msgstr "Tuotteiden lkm"
+
+#~ msgid "Edit products"
+#~ msgstr "Muokkaa tuotteita"
+
+#~ msgid "No ranges found."
+#~ msgstr "Valikoimia ei löytynyt."
+
+#~ msgid "Products in range '%(name)s'"
+#~ msgstr "Tuotteet valimoimassa '%(name)s'"
+
+#~ msgid "products"
+#~ msgstr "Tuotteet"
+
+#~ msgid ""
+#~ "This range contains all products. To add products manually, please "
+#~ "unselect the 'Includes All Products' option on the edit range page."
+#~ msgstr ""
+#~ "Tämä valikoima sisältää kaikki tuotteet. Lisätäksesi tuote manuaalisesti, "
+#~ "poista valinta \"sisältää kaikki tuotteet\" muokkaa valikoimaa -sivulta."
+
+#~ msgid "Add products"
+#~ msgstr "Lisää tuotteita"
+
+#~ msgid "Running..."
+#~ msgstr "Suoritetaan..."
+
+#~ msgid "Upload history"
+#~ msgstr "Lataushistoria"
+
+#~ msgid "Filename"
+#~ msgstr "Tiedoston nimi"
+
+#~ msgid "New products"
+#~ msgstr "Uudet tuotteet"
+
+#~ msgid "Duplicate products"
+#~ msgstr "Päällekkäiset tuotteet"
+
+#~ msgid "Unknown products"
+#~ msgstr "Tuntemattomat tuotteet"
+
+#~ msgid "Date uploaded"
+#~ msgstr "Latauspäivämäärä"
+
+#~ msgid "Products in range"
+#~ msgstr "Tuotteet valikoimassa"
+
+#~ msgid "Remove selected products"
+#~ msgstr "Poista valitut tuotteet"
+
+#~ msgid "Is product discountable?"
+#~ msgstr "Voiko tuotteesta saada alennusta?"
+
+#~ msgid "Products in Range"
+#~ msgstr "Tuotteet valimoimassa"
+
+#~ msgid "Edit range"
+#~ msgstr "Muokkaa valikoimaa"
+
+#~ msgid "return to range list"
+#~ msgstr "Palaa valimoimalistaan"
+
+#~ msgid "Reporting Dashboard"
+#~ msgstr "Raportointikojelauta"
+
+#~ msgid "Reporting dashboard"
+#~ msgstr "Raportointikojelauta"
+
+#~ msgid "Generating..."
+#~ msgstr "Luodaan..."
+
+#~ msgid "Generate report"
+#~ msgstr "Luo raportti"
+
+#~ msgid "No results found."
+#~ msgstr "Ei tuloksia."
+
+#~ msgid "No vouchers were used in this period"
+#~ msgstr "Etukoodeja ei käytetty tällä jaksolla"
+
+#~ msgid "Delete review '%(title)s'?"
+#~ msgstr "Poista esikatselu '%(title)s'?"
+
+#~ msgid "Delete review \"%(title)s\"?"
+#~ msgstr "Poista esikatselu \"%(title)s\"?"
+
+#~ msgid "Review"
+#~ msgstr "Esikatselu"
+
+#~ msgid "Review Search"
+#~ msgstr "Esikatsele hakua"
+
+#~ msgid "Update status of selected reviews"
+#~ msgstr "Päivitä valittujen näkymien tila"
+
+#~ msgctxt "Review title"
+#~ msgid "Title"
+#~ msgstr "Otsikko"
+
+#~ msgid "[Product deleted]"
+#~ msgstr "[Tuote poistettu]"
+
+#~ msgid "No reviews found."
+#~ msgstr "Arvioita ei löydy."
+
+#~ msgid "Update review"
+#~ msgstr "Päivitä arvio"
+
+#~ msgid "Review #%(review.id)s"
+#~ msgstr "Arvioi #%(review.id)s"
+
+#~ msgid "Review information"
+#~ msgstr "Esikatselutieto"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>A weight band has been added to the <strong>%(name)s</strong> "
+#~ "shipping method.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Painorja on lisätty toimitustspaan <strong>%(name)s</strong>.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>Weight band deleted from the <strong>%(name)s</strong> shipping "
+#~ "method \n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Painorajoitus poistettu toimitustavalta <strong>%(name)s</strong>\n"
+
+#~ msgid "Weight band updated"
+#~ msgstr "Painoraja päivitetty"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>A shipping method <strong>%(name)s</strong> has been created.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Toimitustapa <strong>%(name)s</strong> luotu.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been deleted.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Toimitustapa <strong>%(name)s</strong> poistettu.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been updated.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Toimitustapa <strong>%(name)s</strong> päivitetty.</p>\n"
+
+#~ msgid "Delete weight band?"
+#~ msgstr "Poista painorajoitus"
+
+#~ msgid "Shipping methods"
+#~ msgstr "Toimitustavat"
+
+#~ msgid "Weight range (kg)"
+#~ msgstr "Painoväli (kg)"
+
+#~ msgid "Are you sure you want to delete this weight band method?"
+#~ msgstr "Oletko varma, että haluat poistaa tämän painorajoitustavan?"
+
+#~ msgid "Edit weight band"
+#~ msgstr "Muokkaa painorajaa"
+
+#~ msgid "Delete shipping method '%(name)s'?"
+#~ msgstr "Poista toimitustapa '%(name)s'?"
+
+#~ msgid "Are you sure you want to delete this shipping method?"
+#~ msgstr "Oletko varma, että haluat poistaa tämän toimitustavan?"
+
+#~ msgid "Applies to countries"
+#~ msgstr "Koskee maita"
+
+#~ msgid "Default product weight (kg)"
+#~ msgstr "Tuotteen oletuspaino (kg)"
+
+#~ msgid "Edit shipping method"
+#~ msgstr "Muokkaa toimitustapaa"
+
+#~ msgid "Delete shipping method"
+#~ msgstr "Poista toimitustapa"
+
+#~ msgid "Weight bands"
+#~ msgstr "Painorajat"
+
+#~ msgid "No weight bands have been added yet."
+#~ msgstr "Painorajoja ei ole vielä lisätty."
+
+#~ msgid "Add a new weight band"
+#~ msgstr "Lisää uusi painoraja"
+
+#~ msgid "Add weight band"
+#~ msgstr "Lisää painoraja"
+
+#~ msgid "Create a new shipping method"
+#~ msgstr "Luo uusi toimitustapa"
+
+#~ msgid "Create new shipping charge"
+#~ msgstr "Luo uusi toimituskulu"
+
+#~ msgid "Number of weight bands"
+#~ msgstr "Painorajoitusten määrä"
+
+#~ msgid "Default weight (kg)"
+#~ msgstr "Oletuspaino (kg)"
+
+#~ msgid "No shipping methods found."
+#~ msgstr "Toimitustapaa ei löydy."
+
+#~ msgid "Alert #%(id)s"
+#~ msgstr "Hälytys #%(id)s"
+
+#~ msgid "Delete alert #%(id)s?"
+#~ msgstr "Poista hälytys #%(id)s?"
+
+#~ msgid "Product alert #%(id)s"
+#~ msgstr "Tuotehälytys #%(id)s"
+
+#~ msgid "Are you sure that you want to delete this alert?"
+#~ msgstr "Oletko varma, että haluat poistaa tämän hälytyksen?"
+
+#~ msgid "Search product alerts"
+#~ msgstr "Etsi tuotehälytyksiä"
+
+#~ msgid "reset"
+#~ msgstr "nollaa"
+
+#~ msgid "Date alert sent"
+#~ msgstr "Päiväysvaroitus lähetetty"
+
+#~ msgid "(Anonymous)"
+#~ msgstr "(Nimetön)"
+
+#~ msgid "No alerts found."
+#~ msgstr "Hälytyksiä ei löytynyt"
+
+#~ msgid "Update alert #%(id)s"
+#~ msgstr "Päivitä hälytys #%(id)s"
+
+#~ msgid "General"
+#~ msgstr "Yleinen"
+
+#~ msgid "Yes,No"
+#~ msgstr "Kyllä,EI"
+
+#~ msgid "Superuser"
+#~ msgstr "Superkäyttäjä"
+
+#~ msgid "True,False"
+#~ msgstr "Tosi, epätosi"
+
+#~ msgid "Staff"
+#~ msgstr "Henkilökunta"
+
+#~ msgid "Last login"
+#~ msgstr "Viimeisin kirjautuminen"
+
+#~ msgid "Date joined"
+#~ msgstr "Liittymispäivä"
+
+#~ msgid "Products viewed"
+#~ msgstr "Tuotteiden katselukerrat"
+
+#~ msgid "Number of orders"
+#~ msgstr "Tilausten määrä"
+
+#~ msgid "Number of ordered items"
+#~ msgstr "Tilattujen tuotteiden määrä"
+
+#~ msgid "Reviews written"
+#~ msgstr "Arvioita kirjoitettu"
+
+#~ msgid "Send password reset email"
+#~ msgstr "Lähetä salasanan uusimissähköposti"
+
+#~ msgid "Order Number"
+#~ msgstr "Tilausnmero"
+
+#~ msgid "Total value"
+#~ msgstr "Yhteisarvo"
+
+#~ msgid "This customer has not placed any orders yet."
+#~ msgstr "Tämä asiakas ei ole vielä tehnyt yhtään tilausta."
+
+#~ msgid "This customer has not saved any addresses."
+#~ msgstr "Tämä asiakas ei ole tallentanut yhtään osoitetta."
+
+#~ msgid "Product ID"
+#~ msgstr "Tuotetunniste"
+
+#~ msgid "This customer has not written any reviews yet."
+#~ msgstr "Tämä asiakas ei ole vielä kirjoittanut yhtään arviota."
+
+#~ msgid "No customers found."
+#~ msgstr "Asiakkaita ei löydy."
+
+#~ msgid "Bulk Actions"
+#~ msgstr "Toiminnot"
+
+#~ msgid "With selected customers:"
+#~ msgstr "Valituille asiakkaille:"
+
+#~ msgid "Make active"
+#~ msgstr "Aktivoi"
+
+#~ msgid "Make inactive"
+#~ msgstr "Poista aktivointi"
+
+#~ msgid "Delete voucher '%(name)s'?"
+#~ msgstr "Poista etukoodi '%(name)s'?"
+
+#~ msgid "Voucher details"
+#~ msgstr "Etukoodin tiedot"
+
+#~ msgid "Number of basket additions"
+#~ msgstr "Korin lisäyksien lukumäärä"
+
+#~ msgid "Recent orders"
+#~ msgstr "Viimeiset tilaukset"
+
+#~ msgid "No orders have been placed that use this voucher."
+#~ msgstr "Tällä etukoodilla ei ole tehty tilauksia."
+
+#~ msgid "Edit voucher"
+#~ msgstr "Muokkaa etukuponkia"
+
+#~ msgid "Create new voucher"
+#~ msgstr "Luo uusi etukoodi"
+
+#~ msgid "Num baskets"
+#~ msgstr "Korien lkm"
+
+#~ msgid "Num orders"
+#~ msgstr "Tilausten lkm"
+
+#~ msgid "Inactive"
+#~ msgstr "Ei-aktiivinen"
+
+#~ msgid "No vouchers found."
+#~ msgstr "Etukoodia ei löytynyt."
+
+#~ msgid "Sorry!"
+#~ msgstr "Anteeksi!"
+
+#~ msgid "Return to previous page"
+#~ msgstr "Palaa edelliselle sivulle"
+
+#~ msgid "Go to homepage"
+#~ msgstr "Mene etusivulle"
+
+#~ msgid "Edit this page"
+#~ msgstr "Muokkaa tätä sivua"
+
+#~ msgid "thumbnail"
+#~ msgstr "esikatselukuva"
+
+#~ msgid "Unrecognized image type!"
+#~ msgstr "Tunnistamaton kuvatyyppi!"
+
+#~ msgid "Upload Image"
+#~ msgstr "Lataa kuva"
+
+#~ msgid "This page is only available to users who aren't logged in."
+#~ msgstr ""
+#~ "Tämä sivu on saatavilla ainoastaan käyttäjille, jotka eivät ole "
+#~ "kirjautuneet sisään."
+
+#~ msgid " This offer is no longer available."
+#~ msgstr "Tämä tarjous ei ole enää saatavilla"
+
+#~ msgid "What you need to do"
+#~ msgstr "Mitä sinun tarvitsee tehdä"
+
+#~ msgid "There are no site offers at the moment."
+#~ msgstr "Ei sivustotarjouksia tällä hetkellä."
+
+#~ msgid "Browse products in offer"
+#~ msgstr "Selaa alennettuja tuotteita"
+
+#~ msgid "See more"
+#~ msgstr "Katso lisää"
+
+#~ msgid "Password reset complete"
+#~ msgstr "Salasanan uusiminen valmis"
+
+#~ msgid "Password reset"
+#~ msgstr "Salasanan uusiminen"
+
+#~ msgid "Complete"
+#~ msgstr "Valmis"
+
+#~ msgid "Your password has been set.  You may go ahead and log in now."
+#~ msgstr "Salasanasi on asetettu. Voit nyt kirjautua sisään."
+
+#~ msgid "Log in"
+#~ msgstr "Kirjaudu"
+
+#~ msgid "Enter a new password"
+#~ msgstr "Syötä uusi salasana"
+
+#~ msgid ""
+#~ "Please enter your new password twice so we can verify you typed it in "
+#~ "correctly."
+#~ msgstr ""
+#~ "Syötä uusi salasanasi kahdesti, niin voimme varmistaa, että kirjoitit sen "
+#~ "oikein."
+
+#~ msgid "Change my password"
+#~ msgstr "Vaihda salasanani"
+
+#~ msgid "Password reset unsuccessful"
+#~ msgstr "Salasanan uusiminen epäonnistui"
+
+#~ msgid ""
+#~ "The password reset link was invalid, possibly because it has already been "
+#~ "used.  Please request a new password reset."
+#~ msgstr ""
+#~ "Salasanan uusimislinkki ei kelvannut, mahdolisesti siksi, että sitä on jo "
+#~ "käytetty. Ole hyvä ja pyydä salasanan uusimista uudelleen."
+
+#~ msgid "Password reset email sent"
+#~ msgstr "Salasanan uusimissähköposti lähetetty"
+
+#~ msgid "Email sent"
+#~ msgstr "Sähköposti lähetetty"
+
+#~ msgid ""
+#~ "\n"
+#~ "        We've e-mailed you instructions for resetting your password. You "
+#~ "should be receiving it shortly.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Lähetimme sähköpostitse ohjeet salasanasi uusimiseen. Sähköpostin pitäisi "
+#~ "saapua pian."
+
+#~ msgid ""
+#~ "\n"
+#~ "        If you don't receive an email, please make sure you've entered "
+#~ "the address you registered with, and check\n"
+#~ "        your spam folder.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Jos sähköposti ei saavu perille, tarkasta, että olet syöttänut saman "
+#~ "osoitteen kuin rekisteröityessäsi, ja tarkasta roskapostikansiosi."
+
+#~ msgid ""
+#~ "Forgotten your password? Enter your e-mail address below, and we'll e-"
+#~ "mail instructions for setting a new one."
+#~ msgstr ""
+#~ "Salasana unohtunut? Syötä sähköpostiostoitteesi alle, niin lähetämme "
+#~ "ohjeet salasanan uusimiseksi."
+
+#~ msgid "Send reset email"
+#~ msgstr "Lähetä uusimissähköposti"
+
+#~ msgid "Refine your search"
+#~ msgstr "Tarkenna hakuasi"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Products matching \"%(q)s\"\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Tuotteet joiden nimessä on \"%(q)s\""
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Found <strong>%(num_results)s</strong> results, "
+#~ "showing <strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Näytetään <strong>%(start)s</strong>–<strong>%(end)s</strong> yhteensä "
+#~ "<strong>%(num_results)s</strong> osumasta."
+
+#~ msgid "Found <strong>0</strong> results."
+#~ msgstr "Löytyi <strong>0</strong> osumaa."
+
+#~ msgid ""
+#~ "\n"
+#~ "                        Did you mean <a href=\"%(search_url)s?q="
+#~ "%(suggestion)s\">\"%(suggestion)s\"</a>?\n"
+#~ "                    "
+#~ msgstr ""
+#~ "\n"
+#~ "Tarkoititko <a href=\"%(search_url)s?q=%(suggestion)s\">\"%(suggestion)s"
+#~ "\"</a>?"
+
+#~ msgid "Back to search results"
+#~ msgstr "Takaisin hakutuloksiin"
+
+#~ msgid "You need to select some %ss"
+#~ msgstr "Sinun tulee valita jokin %s"

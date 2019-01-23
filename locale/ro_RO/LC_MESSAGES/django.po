@@ -1,0 +1,5198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Arthur White <arthur@whitedevops.com>, 2017
+# Atr3ides <atreidesone@gmail.com>, 2014
+# Atr3ides <atreidesone@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-11 08:36+0000\n"
+"Last-Translator: Oscar Bot <maik.hoepfel@tangentsnowball.com>\n"
+"Language-Team: Romanian (Romania) (http://www.transifex.com/codeinthehole/"
+"django-oscar/language/ro_RO/)\n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr "Panou de control"
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr "Catalog"
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "Produse"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr "Tipuri produs"
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "Categorii"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr "Intervale"
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr "Alerte stoc redus"
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr "Optiuni"
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr "Livrare"
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "Comenzi"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr "Statistici"
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr "Parteneri"
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr "Clienti"
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr "Cereri alerta stoc"
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr "Oferte"
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "Cupoane"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr "Continut"
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr "Blocuri de continut"
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr "Blocuri de continut dupa pagina"
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr "Pagina"
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr "Sabloane email"
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr "Recenzii"
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr "Rapoarte"
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr "Tip"
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr "Rating"
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr "Interval pret"
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr "de la 0 la 20"
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr "intre 20 si 40"
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr "intre 40 si 60"
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr "60+"
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+#, fuzzy
+#| msgid "Catalogue"
+msgid "Catalan"
+msgstr "Catalog"
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+#, fuzzy
+#| msgid "Permalink"
+msgid "German"
+msgstr "Permalink"
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr "In curs de transmitere..."
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr "Aplica"
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr "Contul meu"
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr "Iesire"
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr "Intra in cont sau inregistreaza-te"
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "Cos"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr "Exploreaza magazin"
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "Toate produsele"
+
+#~ msgid "Mr"
+#~ msgstr "Dl"
+
+#~ msgid "Miss"
+#~ msgstr "Dra"
+
+#~ msgid "Mrs"
+#~ msgstr "Dna"
+
+#~ msgid "Ms"
+#~ msgstr "Dna"
+
+#~ msgid "Dr"
+#~ msgstr "Dr"
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "Titlu"
+
+#~ msgid "First name"
+#~ msgstr "Prenume"
+
+#~ msgid "Last name"
+#~ msgstr "Nume"
+
+#~ msgid "First line of address"
+#~ msgstr "Adresa linia 1"
+
+#~ msgid "Second line of address"
+#~ msgstr "Adresa linia 2"
+
+#~ msgid "Third line of address"
+#~ msgstr "Adresa linia 3"
+
+#~ msgid "City"
+#~ msgstr "Oraş"
+
+#~ msgid "State/County"
+#~ msgstr "Județ"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "Cod postal"
+
+#~ msgid "Country"
+#~ msgstr "Țară"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "Text căutare - folosit doar pentru căutarea adreselor"
+
+#~ msgid "Address"
+#~ msgstr "Adresa"
+
+#~ msgid "Addresses"
+#~ msgstr "Adrese"
+
+#~ msgid "Addresses in %(country)s require a valid postcode"
+#~ msgstr "Adresele din %(country)s necesita un cod postal valid"
+
+#~ msgid "The postcode '%(postcode)s' is not valid for %(country)s"
+#~ msgstr "Codul postal '%(postcode)s' nu este valid pentru %(country)s"
+
+#~ msgid "ISO 3166-1 alpha-2"
+#~ msgstr "ISO 3166-1 alpha-2"
+
+#~ msgid "ISO 3166-1 alpha-3"
+#~ msgstr "ISO 3166-1 alpha-3"
+
+#~ msgid "ISO 3166-1 numeric"
+#~ msgstr "ISO 3166-1 numeric"
+
+#~ msgid "Country name"
+#~ msgstr "Numele tarii"
+
+#~ msgid "Official name"
+#~ msgstr "Nume oficial"
+
+#~ msgid "Display order"
+#~ msgstr "Ordinea afisarii"
+
+#~ msgid "Higher the number, higher the country in the list."
+#~ msgstr "Cu cat numarul este mai mare, cu atat mai sus se afla tara in lista"
+
+#~ msgid "Countries"
+#~ msgstr "Tari"
+
+#~ msgid "Phone number"
+#~ msgstr "Numar telefon"
+
+#~ msgid "In case we need to call you about your order"
+#~ msgstr "In caz ca trebuie sa te contactam in legatura cu comanda"
+
+#~ msgid "Instructions"
+#~ msgstr "Instructiuni"
+
+#~ msgid "Tell us anything we should know when delivering your order."
+#~ msgstr "Mentioneaza detaliile necesare livrarii corecte a comenzii."
+
+#~ msgid "Shipping address"
+#~ msgstr "Adresa livrare"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "Adrese livrare"
+
+#~ msgid "User"
+#~ msgstr "Utilizator"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "Adresa livrare implicita?"
+
+#~ msgid "Default billing address?"
+#~ msgstr "Adresa facturare implicita?"
+
+#~ msgid "Address Hash"
+#~ msgstr "Hash Adresa"
+
+#~ msgid "Date Created"
+#~ msgstr "Data Crearii"
+
+#~ msgid "User address"
+#~ msgstr "Adresa utilizator"
+
+#~ msgid "User addresses"
+#~ msgstr "Adrese utilizator"
+
+#~ msgid "This address is already in your address book"
+#~ msgstr "Aceasta adresa se afla deja in lista ta de adrese"
+
+#~ msgid "Billing address"
+#~ msgstr "Adresa facturare"
+
+#~ msgid "Billing addresses"
+#~ msgstr "Adrese facturare"
+
+#~ msgid "Partner"
+#~ msgstr "Partener"
+
+#~ msgid "Partner address"
+#~ msgstr "Adresa partenerului"
+
+#~ msgid "Partner addresses"
+#~ msgstr "Adresele partenerului"
+
+#~ msgid "Product"
+#~ msgstr "Produs"
+
+#~ msgid "Views"
+#~ msgstr "Vizualizari"
+
+#~ msgid "Basket Additions"
+#~ msgstr "Adaugari la Cos"
+
+#~ msgid "Purchases"
+#~ msgstr "Cumparari"
+
+#~ msgid "Score"
+#~ msgstr "Scor"
+
+#~ msgid "Product record"
+#~ msgstr "Fisa produs"
+
+#~ msgid "Product records"
+#~ msgstr "Fise produse"
+
+#~ msgid "Record for '%s'"
+#~ msgstr "Fisa pentru '%s'"
+
+#~ msgid "Product Views"
+#~ msgstr "Vizualizari Produs"
+
+#~ msgid "Order Lines"
+#~ msgstr "Linii Comanda"
+
+#~ msgid "Order Items"
+#~ msgstr "Bucati Comenda"
+
+#~ msgid "Total Spent"
+#~ msgstr "Total Cheltuit"
+
+#~ msgid "Last Order Date"
+#~ msgstr "Data Ultimei Comenzi"
+
+#~ msgid "User record"
+#~ msgstr "Fisa utilizator"
+
+#~ msgid "User records"
+#~ msgstr "Fise utilizatori"
+
+#~ msgid "User product view"
+#~ msgstr "Vizualizare produs utilizator"
+
+#~ msgid "User product views"
+#~ msgstr "Vizualizari produs utilizator"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "%(user)s a vizualizat '%(product)s'"
+
+#~ msgid "Search term"
+#~ msgstr "Termen cautare"
+
+#~ msgid "User search query"
+#~ msgstr "Termen cautare utilizator"
+
+#~ msgid "User search queries"
+#~ msgstr "Termeni cautare utilizator"
+
+#~ msgid "%(user)s searched for '%(query)s'"
+#~ msgstr "%(user)s a cautat dupa '%(query)s'"
+
+#~ msgid "Basket additions"
+#~ msgstr "Adaugari la cos"
+
+#~ msgid "Product analytics"
+#~ msgstr "Statistici produs"
+
+#~ msgid "Name"
+#~ msgstr "Nume"
+
+#~ msgid "Date registered"
+#~ msgstr "Data inregistrarii"
+
+#~ msgid "Product views"
+#~ msgstr "Vizualizari produs"
+
+#~ msgid "Order lines"
+#~ msgstr "Linii comanda"
+
+#~ msgid "Order items"
+#~ msgstr "Bucati comanda"
+
+#~ msgid "Total spent"
+#~ msgstr "Total cheltuit"
+
+#~ msgid "Date of last order"
+#~ msgstr "Data ultimei comenzi"
+
+#~ msgid "User analytics"
+#~ msgstr "Statisitici utilizatori"
+
+#~ msgid "Owner"
+#~ msgstr "Detinator"
+
+#~ msgid "Open - currently active"
+#~ msgstr "Deschis - activ"
+
+#~ msgid "Merged - superceded by another basket"
+#~ msgstr "Combinat - inlocuit de alt cos"
+
+#~ msgid "Saved - for items to be purchased later"
+#~ msgstr "Salvat - pentru ca produsele sa fie cumparate mai tarziu"
+
+#~ msgid "Frozen - the basket cannot be modified"
+#~ msgstr "Blocat - cosul nu poate fi modificat"
+
+#~ msgid "Submitted - has been ordered at the checkout"
+#~ msgstr "Plasat - a fost comandat"
+
+#~ msgid "Status"
+#~ msgstr "Stare"
+
+#~ msgid "Date created"
+#~ msgstr "Data crearii"
+
+#~ msgid "Date merged"
+#~ msgstr "Data combinarii"
+
+#~ msgid "Date submitted"
+#~ msgstr "Data plasarii"
+
+#~ msgid "Baskets"
+#~ msgstr "Cosuri"
+
+#~ msgid "%(status)s basket (owner: %(owner)s, lines: %(num_lines)d)"
+#~ msgstr "%(status)s cos (owner: %(owner)s, linii: %(num_lines)d)"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order."
+#~ msgstr ""
+#~ "Datorita limitarilor tehnice nu putem livra mai mult de %(threshold)d "
+#~ "bucati intr-o singura comanda."
+
+#~ msgid "Line Reference"
+#~ msgstr "Referinta Linie"
+
+#~ msgid "Quantity"
+#~ msgstr "Cantitate"
+
+#~ msgid "Currency"
+#~ msgstr "Valuta"
+
+#~ msgid "Price excl. Tax"
+#~ msgstr "Pret excl. Taxe"
+
+#~ msgid "Price incl. Tax"
+#~ msgstr "Pret incl. Taxe"
+
+#~ msgid "Basket line"
+#~ msgstr "Linie cos"
+
+#~ msgid "Basket lines"
+#~ msgstr "Linii cos"
+
+#~ msgid ""
+#~ "Basket #%(basket_id)d, Product #%(product_id)d, quantity %(quantity)d"
+#~ msgstr "Cos #%(basket_id)d, Produs #%(product_id)d, cantitate %(quantity)d"
+
+#~ msgid "You cannot modify a %s basket"
+#~ msgstr "Nu poti modifica un %s basket"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has increased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "Pretul '%(product)s' a crescut de la %(old_price)s la %(new_price)s de "
+#~ "cand l-ai adaugat la cos"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has decreased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "Pretul '%(product)s' a scazut de la %(old_price)s la %(new_price)s de "
+#~ "cand l-ai adaugat la cos"
+
+#~ msgid "Line"
+#~ msgstr "Linie"
+
+#~ msgid "Option"
+#~ msgstr "Optiune"
+
+#~ msgid "Value"
+#~ msgstr "Valoare"
+
+#~ msgid "Line attribute"
+#~ msgstr "Atribut linie"
+
+#~ msgid "Line attributes"
+#~ msgstr "Atribute linie"
+
+#~ msgid "Save for Later"
+#~ msgstr "Salveaza pentru altadata"
+
+#~ msgid "Move to Basket"
+#~ msgstr "Muta in Cos"
+
+#~ msgid "Code"
+#~ msgstr "Cod"
+
+#~ msgid "Variant"
+#~ msgstr "Variantă"
+
+#~ msgid "Please select a valid product"
+#~ msgstr "Te rugam selecteaza un produs valid"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order. Your basket currently has %(basket)d "
+#~ "items."
+#~ msgstr ""
+#~ "Datorita limitarilor tehnice, nu putem livra mai mult de %(threshold)d "
+#~ "bucati intr-o singura comanda. Cosul tau are acum %(basket)d bucati."
+
+#~ msgid "User ID"
+#~ msgstr "ID Utilizator"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Basket status"
+#~ msgstr "Stare cos"
+
+#~ msgid "Num lines"
+#~ msgstr "Num linii"
+
+#~ msgid "Num items"
+#~ msgstr "Num bucati"
+
+#~ msgid "Date of creation"
+#~ msgstr "Data crearii"
+
+#~ msgid "Time since creation"
+#~ msgstr "Timp de la creare"
+
+#~ msgid "Open baskets"
+#~ msgstr "Cosuri deschise"
+
+#~ msgid "Time between creation and submission"
+#~ msgstr "Timp intre creare si plasare"
+
+#~ msgid "Submitted baskets"
+#~ msgstr "Cosuri plasate"
+
+#~ msgid "You can't save an item for later if you're not logged in!"
+#~ msgstr ""
+#~ "Nu poti salva un produs pentru mai tarziu daca nu esti autentificat!"
+
+#~ msgid "The '%(code)s' voucher has expired"
+#~ msgstr "Voucherul '%(code)s' a expirat"
+
+#~ msgid "Your basket does not qualify for a voucher discount"
+#~ msgstr "Cosul tau nu se califica pentru un discount prin voucher"
+
+#~ msgid "Voucher '%(code)s' added to basket"
+#~ msgstr "Voucherul '%(code)s' a fost adaugat la cos"
+
+#~ msgid "You have already added the '%(code)s' voucher to your basket"
+#~ msgstr "Voucherul '%(code)s' este deja adaugat la cos"
+
+#~ msgid "No voucher found with code '%(code)s'"
+#~ msgstr "Nu a fost gasit nici un voucher cu codul '%(code)s'"
+
+#~ msgid "Please enter a voucher code"
+#~ msgstr "Te rugam sa introduci codul voucherului"
+
+#~ msgid "Voucher '%s' removed from basket"
+#~ msgstr "Voucherul '%s' a fost eliminat din cos"
+
+#~ msgid "Slug"
+#~ msgstr "Slug"
+
+#~ msgid "Requires shipping?"
+#~ msgstr "Necesita transport?"
+
+#~ msgid "Track stock levels?"
+#~ msgstr "Monitorizeaza nivelele de stoc?"
+
+#~ msgid "Product class"
+#~ msgstr "Clasa produsului"
+
+#~ msgid "Product classes"
+#~ msgstr "Clase de produse"
+
+#~ msgid "Description"
+#~ msgstr "Descriere"
+
+#~ msgid "Image"
+#~ msgstr "Imagine"
+
+#~ msgid "Category"
+#~ msgstr "Categorie"
+
+#~ msgid "Product category"
+#~ msgstr "Categorie de produs"
+
+#~ msgid "Product categories"
+#~ msgstr "Categorii de produse"
+
+#~ msgid "Stand-alone product"
+#~ msgstr "Produs autonom"
+
+#~ msgid "Parent product"
+#~ msgstr "Produs părinte"
+
+#~ msgid "Child product"
+#~ msgstr "Produs copil"
+
+#~ msgid "Product structure"
+#~ msgstr "Structura produsului"
+
+#~ msgid "UPC"
+#~ msgstr "UPC"
+
+#~ msgid ""
+#~ "Universal Product Code (UPC) is an identifier for a product which is not "
+#~ "specific to a particular  supplier. Eg an ISBN for a book."
+#~ msgstr ""
+#~ "Universal Product Code (UPC) este un identificator unic de produs si nu "
+#~ "este specfic unui anume furnizor. Eg ISBN pentru carti."
+
+#~ msgctxt "Product title"
+#~ msgid "Title"
+#~ msgstr "Titlu"
+
+#~ msgid "Product type"
+#~ msgstr "Tip produs"
+
+#~ msgid "Choose what type of product this is"
+#~ msgstr "Alege tipul acestui produs"
+
+#~ msgid "Attributes"
+#~ msgstr "Atribute"
+
+#~ msgid "Product options"
+#~ msgstr "Opțiunile produsului"
+
+#~ msgid ""
+#~ "Options are values that can be associated with a item when it is added to "
+#~ "a customer's basket.  This could be something like a personalised message "
+#~ "to be printed on a T-shirt."
+#~ msgstr ""
+#~ "Optiunile sunt valori care pot fi asociate cu un produs cand este adaugat "
+#~ "la cosul unui client. Spre exemplu un mesaj personalizat ce poate fi "
+#~ "tiparit pe un tricou."
+
+#~ msgid "Recommended products"
+#~ msgstr "Produse recomandate"
+
+#~ msgid "Date updated"
+#~ msgstr "Data modificarii"
+
+#~ msgid "Is discountable?"
+#~ msgstr "Poate avea discount?"
+
+#~ msgid "This flag indicates if this product can be used in an offer or not"
+#~ msgstr ""
+#~ "Acest flag indica daca acest produs poate fi folosit intr-o oferta sau nu"
+
+#~ msgid "Your product must have a title."
+#~ msgstr "Produsul trebuie să aibă un titlu."
+
+#~ msgid "The specified parent product is a child product."
+#~ msgstr "Produsul părinte specificat este un produs copil."
+
+#~ msgid "Primary product"
+#~ msgstr "Produs primar"
+
+#~ msgid "Recommended product"
+#~ msgstr "Produs recomandat"
+
+#~ msgid "Ranking"
+#~ msgstr "Ranking"
+
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#~ msgid "Integer"
+#~ msgstr "Intreg"
+
+#~ msgid "True / False"
+#~ msgstr "Adevarat / Fals"
+
+#~ msgid "Float"
+#~ msgstr "Float"
+
+#~ msgid "Rich Text"
+#~ msgstr "Rich Text"
+
+#~ msgid "Date"
+#~ msgstr "Data"
+
+#~ msgid "Entity"
+#~ msgstr "Entitate"
+
+#~ msgid "File"
+#~ msgstr "Fisier"
+
+#~ msgid "Option Group"
+#~ msgstr "Grup Optiuni"
+
+#~ msgid "Required"
+#~ msgstr "Obligatoriu"
+
+#~ msgid "Product attribute"
+#~ msgstr "Atributul produsului"
+
+#~ msgid "Must be str or unicode"
+#~ msgstr "Trebuie sa fie str sau unicode"
+
+#~ msgid "Must be a float"
+#~ msgstr "Trebuie sa fie float"
+
+#~ msgid "Must be an integer"
+#~ msgstr "Trebuie sa fie intreg"
+
+#~ msgid "Must be a date or datetime"
+#~ msgstr "Trebuie sa fie date sau datetime"
+
+#~ msgid "Must be a boolean"
+#~ msgstr "Trebuie sa fie boolean"
+
+#~ msgid "Must be an AttributeOption model object instance"
+#~ msgstr "Trebuie sa fie o instanta a modelului AttributeOption"
+
+#~ msgid "AttributeOption has not been saved yet"
+#~ msgstr "AttributeOption nu a fost salvat inca"
+
+#~ msgid "%(enum)s is not a valid choice for %(attr)s"
+#~ msgstr "%(enum)s nu e o alegere valida pentru %(attr)s"
+
+#~ msgid "Must be a file field"
+#~ msgstr "Trebuie sa fie un file field"
+
+#~ msgid "Attribute"
+#~ msgstr "Atribut"
+
+#~ msgid "Boolean"
+#~ msgstr "Boolean"
+
+#~ msgid "Richtext"
+#~ msgstr "Richtext"
+
+#~ msgid "Value option"
+#~ msgstr "Opțiunea de valoare"
+
+#~ msgid "Group"
+#~ msgstr "Grup"
+
+#~ msgid "Required - a value for this option must be specified"
+#~ msgstr "Necesar - trebuie specificata o valoare pentru aceasta optiune"
+
+#~ msgid "Optional - a value for this option can be omitted"
+#~ msgstr "Optional - valoarea pentru aceasta optiune poate fi omisa"
+
+#~ msgid "Original"
+#~ msgstr "Original"
+
+#~ msgid "Caption"
+#~ msgstr "Subtitlu"
+
+#~ msgid ""
+#~ "An image with a display order of zero will be the primary image for a "
+#~ "product"
+#~ msgstr ""
+#~ "O imagine cu ordinea afisarii zero va fi imaginea principala a produsului"
+
+#~ msgid "%(obj)s has no attribute named '%(attr)s'"
+#~ msgstr "%(obj)s nu are nici un atribut numit '%(attr)s'"
+
+#~ msgid "%(attr)s attribute cannot be blank"
+#~ msgstr "atributul %(attr)s nu poate fi gol"
+
+#~ msgid "%(attr)s attribute %(err)s"
+#~ msgstr "atributul %(attr)s %(err)s"
+
+#~ msgctxt "Product review title"
+#~ msgid "Title"
+#~ msgstr "Titlu"
+
+#~ msgid "Body"
+#~ msgstr "Body"
+
+#~ msgctxt "Anonymous reviewer name"
+#~ msgid "Name"
+#~ msgstr "Nume"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Requires moderation"
+#~ msgstr "Necesita moderare"
+
+#~ msgid "Approved"
+#~ msgstr "Aprobat"
+
+#~ msgid "Rejected"
+#~ msgstr "Respins"
+
+#~ msgid "Total Votes"
+#~ msgstr "Total Voturi"
+
+#~ msgid "Delta Votes"
+#~ msgstr "Delta Voturi"
+
+#~ msgid "Product review"
+#~ msgstr "Recenzie produs"
+
+#~ msgid "Product reviews"
+#~ msgstr "Recenzii produs"
+
+#~ msgid "Anonymous reviews must include a name and an email"
+#~ msgstr "Recenziile anonime trebuie sa includa un nume si o adresa de email"
+
+#~ msgid "anonymous"
+#~ msgstr "anonim"
+
+#~ msgid "Up"
+#~ msgstr "Sus"
+
+#~ msgid "Down"
+#~ msgstr "Jos"
+
+#~ msgid "Delta"
+#~ msgstr "Delta"
+
+#~ msgid "Vote"
+#~ msgstr "Vot"
+
+#~ msgid "Votes"
+#~ msgstr "Voturi"
+
+#~ msgid "You cannot vote on your own reviews"
+#~ msgstr "Nu poti vota propriile tale recenzii"
+
+#~ msgid "Only signed-in users can vote on reviews"
+#~ msgstr "Doar utilizatorii autentificati pot vota recenzii"
+
+#~ msgid "You can only vote once on a review"
+#~ msgstr "Poti vota o recenzie o singura data"
+
+#~ msgid "Recency"
+#~ msgstr "Recentete"
+
+#~ msgid "Sort by"
+#~ msgstr "Filtrează după"
+
+#~ msgid "You have already reviewed this product!"
+#~ msgstr "Ai scris deja o recenzie pentru acest produs!"
+
+#~ msgid "You can't leave a review for this product."
+#~ msgstr "Nu poti lasa o recenzie pentru acest produs."
+
+#~ msgid "Thank you for reviewing this product"
+#~ msgstr "Multumim pentru recenzia acestui produs"
+
+#~ msgid "Thanks for voting!"
+#~ msgstr "Multumim pentru vot!"
+
+#~ msgid "%(filename)s is not a valid image (%(error)s)"
+#~ msgstr "%(filename)s nu este o imagine valida (%(error)s)"
+
+#~ msgid "%s is not a valid image archive"
+#~ msgstr "%s nu este o arhiva de imagini valida"
+
+#~ msgid "Checkout"
+#~ msgstr "Plateste"
+
+#~ msgid "My email address is"
+#~ msgstr "Adresa mea de email este"
+
+#~ msgid "I am a new customer and want to checkout as a guest"
+#~ msgstr "Sunt client nou si vreau sa fac comanda fara sa creez un cont"
+
+#~ msgid ""
+#~ "I am a new customer and want to create an account before checking out"
+#~ msgstr "Sunt client nou si vreau sa creez un cont inainte de a face comanda"
+
+#~ msgid "I am a returning customer, and my password is"
+#~ msgstr "Sunt deja client si parola mea este"
+
+#~ msgid "A user with that email address already exists"
+#~ msgstr "Un utilizator cu aceasta adresa de email exista deja"
+
+#~ msgid "You need to add some items to your basket to checkout"
+#~ msgstr "Trebuie sa adaugi produse la cos pentru a putea plati"
+
+#~ msgid ""
+#~ "'%(title)s' is no longer available to buy (%(reason)s). Please adjust "
+#~ "your basket to continue"
+#~ msgstr ""
+#~ "'%(title)s' nu mai este disponibil pentru a fi cumparat (%(reason)s). Te "
+#~ "rugam sa iti modifici cosul pentru a putea continua"
+
+#~ msgid "Please either sign in or enter your email address"
+#~ msgstr "Te rugam sa intri in cont sau sa iti introduci adresa de email"
+
+#~ msgid "Please choose a shipping address"
+#~ msgstr "Te rugam sa alegi o adresa de livrare"
+
+#~ msgid "Please choose a shipping method"
+#~ msgstr "Te rugam sa alegi o metoda de livrare"
+
+#~ msgid ""
+#~ "Create your account and then you will be redirected back to the checkout "
+#~ "process"
+#~ msgstr ""
+#~ "Creaza-ti contul si vei fi redirectionat inapoi la procesul de comanda "
+
+#~ msgid "Address saved"
+#~ msgstr "Adresa salvata"
+
+#~ msgid "Address deleted"
+#~ msgstr "Adresa stearsa"
+
+#~ msgid ""
+#~ "Shipping is unavailable for your chosen address - please choose another"
+#~ msgstr ""
+#~ "Momentan nu puteam livra la adresa aleasa de tine - te rugam sa alegi alta"
+
+#~ msgid "Your submitted shipping method is not permitted"
+#~ msgstr "Metoda de livrare aleasa nu este permisa"
+
+#~ msgid ""
+#~ "A problem occurred while processing payment for this order - no payment "
+#~ "has been taken.  Please contact customer services if this problem persists"
+#~ msgstr ""
+#~ "A aparut o problema la procesarea platii pentru aceasta comanda - plata "
+#~ "nu a fost efectuata .  Te rugam sa contactezi departamentul clienti daca "
+#~ "aceasta problema persista"
+
+#~ msgid "No order found"
+#~ msgstr "Nici o comanda nu a fost gasita"
+
+#~ msgid "email address"
+#~ msgstr "adresa de email"
+
+#~ msgid "Staff status"
+#~ msgstr "Staff status"
+
+#~ msgid "Designates whether the user can log into this admin site."
+#~ msgstr ""
+#~ "Specifica daca utilizatorul se poate autentifica in aceasta sectiune de "
+#~ "administrare"
+
+#~ msgid "Active"
+#~ msgstr "Activ"
+
+#~ msgid ""
+#~ "Designates whether this user should be treated as active. Unselect this "
+#~ "instead of deleting accounts."
+#~ msgstr ""
+#~ "Specifica daca acest utilizator trebuie tratat ca active. Deselecteaza "
+#~ "aceasta optiune ca alternativa la stergerea unui cont."
+
+#~ msgid "date joined"
+#~ msgstr "data inregistrarii"
+
+#~ msgid "Users"
+#~ msgstr "Utilizatori"
+
+#~ msgid "Subject"
+#~ msgstr "Subiect"
+
+#~ msgid "Body Text"
+#~ msgstr "Continut Text"
+
+#~ msgid "Body HTML"
+#~ msgstr "Continut HTML"
+
+#~ msgid "Date Sent"
+#~ msgstr "Data Trimiterii"
+
+#~ msgid "Emails"
+#~ msgstr "Email-uri"
+
+#~ msgid "Email to %(user)s with subject '%(subject)s'"
+#~ msgstr "Email catre %(user)s cu subiectul '%(subject)s'"
+
+#~ msgid "Code used for looking up this event programmatically"
+#~ msgstr "Cod utilizat pentru a cauta acest eveniment programatic"
+
+#~ msgid "This is just used for organisational purposes"
+#~ msgstr "Utilizat pentru scopuri organizationale"
+
+#~ msgid "Order related"
+#~ msgstr "Despre comanda"
+
+#~ msgid "User related"
+#~ msgstr "Despre utilizator"
+
+#~ msgid "Email Subject Template"
+#~ msgstr "Sablon Subiect Email"
+
+#~ msgid "Email Body Template"
+#~ msgstr "Sablon Continut Email"
+
+#~ msgid "Email Body HTML Template"
+#~ msgstr "Sablon Continut HTML Email"
+
+#~ msgid "HTML template"
+#~ msgstr "Sablon HTML"
+
+#~ msgid "SMS Template"
+#~ msgstr "Sablon SMS"
+
+#~ msgid "SMS template"
+#~ msgstr "Sablon SMS"
+
+#~ msgid "Date Updated"
+#~ msgstr "Data Actualizare"
+
+#~ msgid "Communication event type"
+#~ msgstr "Tip eveniment comunicare"
+
+#~ msgid "Communication event types"
+#~ msgstr "Tipuri eveniment comunicare"
+
+#~ msgid "Inbox"
+#~ msgstr "Inbox"
+
+#~ msgid "Archive"
+#~ msgstr "Arhiva"
+
+#~ msgid "Notification"
+#~ msgstr "Notificare"
+
+#~ msgid "Notifications"
+#~ msgstr "Notificari"
+
+#~ msgid "Key"
+#~ msgstr "Cheie"
+
+#~ msgid "Not yet confirmed"
+#~ msgstr "Neconfirmat inca"
+
+#~ msgid "Cancelled"
+#~ msgstr "Anulat"
+
+#~ msgid "Closed"
+#~ msgstr "Inchis"
+
+#~ msgid "Date confirmed"
+#~ msgstr "Data confirmarii"
+
+#~ msgid "Date cancelled"
+#~ msgstr "Data anularii"
+
+#~ msgid "Date closed"
+#~ msgstr "Data inchiderii"
+
+#~ msgid "Product alerts"
+#~ msgstr "Alerte produs"
+
+#~ msgid "Product Alerts"
+#~ msgstr "Alerte produse"
+
+#~ msgid "An alert has been created"
+#~ msgstr "A fost creata o alerta"
+
+#~ msgid "A confirmation email has been sent to %s"
+#~ msgstr "A fost trimis un email de confimare catre %s"
+
+#~ msgid "Your stock alert is now active"
+#~ msgstr "Alerta ta de stoc este acum activa"
+
+#~ msgid "Your stock alert cannot be confirmed"
+#~ msgstr "Alerta ta de stoc nu poate fi confirmata"
+
+#~ msgid "Your stock alert has been cancelled"
+#~ msgstr "Alerta ta de stoc a fost anulata"
+
+#~ msgid "Your stock alert cannot be cancelled"
+#~ msgstr "Alerta ta de stoc nu poate fi anulata"
+
+#~ msgid "Customer"
+#~ msgstr "Client"
+
+#~ msgid "Email address"
+#~ msgstr "Adresa de email"
+
+#~ msgid "Password"
+#~ msgstr "Parola"
+
+#~ msgid "The entered password is not valid!"
+#~ msgstr "Parola introdusa nu este valida!"
+
+#~ msgid "Confirm password"
+#~ msgstr "Confirma parola"
+
+#~ msgid "The two password fields didn't match."
+#~ msgstr "Cele doua campuri de parola nu sunt identice"
+
+#~ msgctxt "start date"
+#~ msgid "From"
+#~ msgstr "De la"
+
+#~ msgctxt "end date"
+#~ msgid "To"
+#~ msgstr "Pana la"
+
+#~ msgid "Order number"
+#~ msgstr "Numar comanda"
+
+#~ msgid "At least one field is required."
+#~ msgstr "Este necesar cel putin un camp."
+
+#~ msgid "All orders"
+#~ msgstr "Toate comenzile"
+
+#~ msgid ""
+#~ "Orders placed between %(date_from)s and %(date_to)s and order number "
+#~ "containing %(order_number)s"
+#~ msgstr ""
+#~ "Comenzile plasate intre %(date_from)s si %(date_to)s si numarul comenzii "
+#~ "continand %(order_number)s"
+
+#~ msgid "Orders placed between %(date_from)s and %(date_to)s"
+#~ msgstr "Comenzile plasate intre %(date_from)s si %(date_to)s"
+
+#~ msgid ""
+#~ "Orders placed since %(date_from)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "Comenzile plasate incepand cu %(date_from)s si numarul comenzii continand "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed since %(date_from)s"
+#~ msgstr "Comenzile plasate incepand cu %(date_from)s"
+
+#~ msgid ""
+#~ "Orders placed until %(date_to)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "Comenzile plasate pana la %(date_to)s si numarul comenzii continand "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed until %(date_to)s"
+#~ msgstr "Comenzile plasate pana la %(date_to)s"
+
+#~ msgid "Orders with order number containing %(order_number)s"
+#~ msgstr "Comenzile cu numarul comenzii continand %(order_number)s"
+
+#~ msgid "A user with this email address already exists"
+#~ msgstr "Un utilizator cu aceasta adresa de email exista deja"
+
+#~ msgid "Send notification to"
+#~ msgstr "Trimite notificare catre"
+
+#~ msgid "Enter your email"
+#~ msgstr "Specifica email propriu"
+
+#~ msgid "There is already an active stock alert for %s"
+#~ msgstr "Exista deja o alerta de stoc activa pentru %s"
+
+#~ msgid "You already have an active alert for this product"
+#~ msgstr "Ai deja o alerta activa pentru acest produs"
+
+#~ msgid "%(count)d notification archived"
+#~ msgid_plural "%(count)d notifications archived"
+#~ msgstr[0] "%(count)d notificare arhivata"
+#~ msgstr[1] "%(count)d notificari arhivate"
+#~ msgstr[2] "%(count)d notificari arhivate"
+
+#~ msgid "%(count)d notification deleted"
+#~ msgid_plural "%(count)d notifications deleted"
+#~ msgstr[0] "%(count)d notificare stearsa"
+#~ msgstr[1] "%(count)d notificari sterse"
+#~ msgstr[2] "%(count)d notificari sterse"
+
+#~ msgid "Welcome back"
+#~ msgstr "Bine ai venit inapoi"
+
+#~ msgid "Thanks for registering!"
+#~ msgstr "Multumim pentru inregistrare!"
+
+#~ msgid "Profile"
+#~ msgstr "Profil"
+
+#~ msgid "Edit Profile"
+#~ msgstr "Modifica Profil"
+
+#~ msgid "Profile updated"
+#~ msgstr "Profil modificat"
+
+#~ msgid "Delete profile"
+#~ msgstr "Sterge profil"
+
+#~ msgid "Your profile has now been deleted. Thanks for using the site."
+#~ msgstr ""
+#~ "Profilul tau a fost sters. Iti multumim pentru ca ai folosit acest site."
+
+#~ msgid "Change Password"
+#~ msgstr "Schimba Parola"
+
+#~ msgid "Password updated"
+#~ msgstr "Parola modificata"
+
+#~ msgid "Email History"
+#~ msgstr "Istoric Email"
+
+#~ msgid "Order History"
+#~ msgstr "Istoric Comenzi"
+
+#~ msgid "Order"
+#~ msgstr "Comanda"
+
+#~ msgid ""
+#~ "All available lines from order %(number)s have been added to your basket"
+#~ msgstr ""
+#~ "Toate liniile disponibile ale comenzii %(number)s au fost adaugate in cos"
+
+#~ msgid ""
+#~ "It is not possible to re-order order %(number)s as none of its lines are "
+#~ "available to purchase"
+#~ msgstr ""
+#~ "Nu este posibil sa retrimiti comanda %(number)s deoarece nici una dintre "
+#~ "liniile ei nu este disponibila pentru cumparare"
+
+#~ msgid "%(qty)d copies of '%(product)s' have been added to your basket"
+#~ msgstr "%(qty)d copii ale '%(product)s' au fost adaugate in cos"
+
+#~ msgid "'%s' has been added to your basket"
+#~ msgstr "'%s' a fost adaugat in cos"
+
+#~ msgid "Address Book"
+#~ msgstr "Lista adrese"
+
+#~ msgid "Add a new address"
+#~ msgstr "Adauga o noua adresa"
+
+#~ msgid "Address '%s' created"
+#~ msgstr "Adresa '%s' a fost creata"
+
+#~ msgid "Edit address"
+#~ msgstr "Modifica adresa"
+
+#~ msgid "Address '%s' updated"
+#~ msgstr "Adresa '%s' a fost modificata"
+
+#~ msgid "Delete address?"
+#~ msgstr "Sterge adresa"
+
+#~ msgid "Address '%s' deleted"
+#~ msgstr "Adresa '%s' a fost stearsa"
+
+#~ msgid "We do not ship to this country"
+#~ msgstr "Nu livram in aceasta tara"
+
+#~ msgid "Wish Lists"
+#~ msgstr "Liste de Cumparaturi"
+
+#~ msgid "Quantities updated."
+#~ msgstr "Cantitati modificate."
+
+#~ msgid "Create a new wish list"
+#~ msgstr "Creaza o noua lista de cumparaturi"
+
+#~ msgid "The requested product no longer exists"
+#~ msgstr "Produsul solicitat nu mai exista"
+
+#~ msgid "Your wishlist has been created and '%(name)s has been added"
+#~ msgstr "Lista ta de cumparaturi a fost creata si '%(name)s' a fost adaugat"
+
+#~ msgid "Your wishlist has been created"
+#~ msgstr "Lista ta de cumparaturi a fost creata"
+
+#~ msgid "%(title)s has been added to your wishlist"
+#~ msgstr "%(title)s a fost adaugat la lista ta de cumparaturi"
+
+#~ msgid "Your '%s' wishlist has been updated"
+#~ msgstr "Lista de cumparaturi '%s' a fost actualizata"
+
+#~ msgid "Delete %s"
+#~ msgstr "Sterge %s"
+
+#~ msgid "Your '%s' wish list has been deleted"
+#~ msgstr "Lista de cumparaturi '%s' a fost stearsa"
+
+#~ msgid "'%s' was added to your wish list."
+#~ msgstr "'%s' a fost adaugat la lista ta de cumparaturi"
+
+#~ msgid "Remove %s"
+#~ msgstr "Elimina %s"
+
+#~ msgid "'%(title)s' was removed from your '%(name)s' wish list"
+#~ msgstr "'%(title)s' a fost scos din lista de cumparaturi '%(name)s'"
+
+#~ msgid "'%(title)s' moved to '%(name)s' wishlist"
+#~ msgstr "'%(title)s' a fost mutat in lista de cumparaturi '%(name)s'"
+
+#~ msgid "Create a new product of type"
+#~ msgstr "Creaza un nou produs de tipul"
+
+#~ msgid "-- Choose type --"
+#~ msgstr "-- Alege tipul --"
+
+#~ msgid "Title"
+#~ msgstr "Titlu"
+
+#~ msgid "Variants"
+#~ msgstr "Variante"
+
+#~ msgid "Stock records"
+#~ msgstr "Inregistrari stoc"
+
+#~ msgid "Actions"
+#~ msgstr "Actiuni"
+
+#~ msgid "Number of child categories"
+#~ msgstr "Numar subcategorii"
+
+#~ msgid "Please choose a product type"
+#~ msgstr "Te rugam sa alegi un tip de produs"
+
+#~ msgid "Your submitted data was not valid - please correct the errors below"
+#~ msgstr ""
+#~ "Datele introduse nu au fost valide - te rugam sa corectezi erorile de mai "
+#~ "jos"
+
+#~ msgid "Delete product?"
+#~ msgstr "Sterge produs?"
+
+#~ msgid "Deleted product '%s'"
+#~ msgstr "Produsul '%s' a fost sters"
+
+#~ msgid "Alerts with status \"%s\""
+#~ msgstr "Alertele cu starea \"%s\""
+
+#~ msgid "All alerts"
+#~ msgstr "Toate alertele"
+
+#~ msgid "Add a new category"
+#~ msgstr "Adauga o categorie noua"
+
+#~ msgid "Category created successfully"
+#~ msgstr "Categorie creata cu succes"
+
+#~ msgid "Update category '%s'"
+#~ msgstr "Modifica categoria '%s'"
+
+#~ msgid "Category updated successfully"
+#~ msgstr "Categorie modificata cu succes"
+
+#~ msgid "Category deleted successfully"
+#~ msgstr "Categorie stearsa cu succes"
+
+#~ msgid "Add a new product type"
+#~ msgstr "Adauga un nou tip de produs"
+
+#~ msgid "Product type created successfully"
+#~ msgstr "Tipul de produs a fost creat cu succes"
+
+#~ msgid "Update product type '%s'"
+#~ msgstr "Modifica tipul de produs '%s'"
+
+#~ msgid "Delete product type '%s'"
+#~ msgstr "Sterge tipul de produs '%s'"
+
+#~ msgid "Unable to delete '%s'"
+#~ msgstr "Nu se poate sterge '%s'"
+
+#~ msgid "%i products are still assigned to this type"
+#~ msgstr "%i produse sunt inca asociate cu acest tip"
+
+#~ msgid "Product type deleted successfully"
+#~ msgstr "Tipul de produs a fost sters cu succes"
+
+#~ msgid "Email subject template"
+#~ msgstr "Sablon subiect email"
+
+#~ msgid "Email body text template"
+#~ msgstr "Sablon continut text email"
+
+#~ msgid "Email body HTML template"
+#~ msgstr "Sablon continut HTML email"
+
+#~ msgid "Preview email"
+#~ msgstr "Previzualizeaza email"
+
+#~ msgid "No order found with this number"
+#~ msgstr "Nu a fost gasita nici o comanda cu acest numar"
+
+#~ msgid "Please enter an email address"
+#~ msgstr "Te rugam sa specifici o adresa de email"
+
+#~ msgid ""
+#~ "The submitted form was not valid, please correct the errors and resubmit"
+#~ msgstr ""
+#~ "Formularul trimis nu a fost valid, te rugam sa corectezi erorile si sa il "
+#~ "retrimiti"
+
+#~ msgid "Email saved"
+#~ msgstr "Email salvat"
+
+#~ msgid "A preview email has been sent to %s"
+#~ msgstr "O previzualizare a email-ului a fost trimisa catre %s"
+
+#~ msgid "Start date"
+#~ msgstr "Data inceput"
+
+#~ msgid "End date"
+#~ msgstr "Data sfarsit"
+
+#~ msgid "The end date must be after the start date"
+#~ msgstr "Data de sfarsit trebuie sa fie dupa data de inceput"
+
+#~ msgid "Custom condition"
+#~ msgstr "Conditie personalizata"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom condition"
+#~ msgstr ""
+#~ "Te rugam sa alegi un set, tip sau valoare SAU sa selectezi o conditie "
+#~ "personalizata"
+
+#~ msgid "A range is required"
+#~ msgstr "Este necesar sa specifici un set"
+
+#~ msgid "Custom incentive"
+#~ msgstr "Stimulent personalizat"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom incentive"
+#~ msgstr ""
+#~ "Te rugam sa alegi un set, tip sau valoare SAU sa selectezi un stimulent "
+#~ "personalizat"
+
+#~ msgid "No other options can be set if you are using a custom incentive"
+#~ msgstr ""
+#~ "Nu poti fi utilizate alte optiuni daca folosesti un stimulent personalizat"
+
+#~ msgid "Offer name"
+#~ msgstr "Nume oferta"
+
+#~ msgid "Is active?"
+#~ msgstr "Este activa?"
+
+#~ msgid "Order date"
+#~ msgstr "Data comanda"
+
+#~ msgid "Order total"
+#~ msgstr "Total comanda"
+
+#~ msgid "Cost"
+#~ msgstr "Cost"
+
+#~ msgid "All offers"
+#~ msgstr "Toate ofertele"
+
+#~ msgid "Offers matching '%s'"
+#~ msgstr "Oferte ce se potrivesc cu '%s'"
+
+#~ msgid "%s step not complete"
+#~ msgstr "Pasul %s nu este complet"
+
+#~ msgid "Offer '%s' updated"
+#~ msgstr "Oferta '%s' a fost modificata"
+
+#~ msgid "Offer '%s' created!"
+#~ msgstr "Oferta '%s' a fost creata!"
+
+#~ msgid "Name and description"
+#~ msgstr "Nume si descriere"
+
+#~ msgid "Incentive"
+#~ msgstr "Stimulent"
+
+#~ msgid "Restrictions"
+#~ msgstr "Restrictii"
+
+#~ msgid "Offer deleted!"
+#~ msgstr "Oferta a fost stearsa!"
+
+#~ msgid "Offer is already suspended"
+#~ msgstr "Oferta este deja suspendata"
+
+#~ msgid "Offer suspended"
+#~ msgstr "Oferta suspendata"
+
+#~ msgid "Offer cannot be reinstated as it is not currently suspended"
+#~ msgstr "Oferta nu poate fi reactivata pentru ca nu este suspendata"
+
+#~ msgid "Offer reinstated"
+#~ msgstr "Oferta reactivata"
+
+#~ msgid "Orders placed since %s"
+#~ msgstr "Comenzi plasate de la %s"
+
+#~ msgid "Orders placed until %s"
+#~ msgstr "Comenzi plasate pana la %s"
+
+#~ msgid "Customer name"
+#~ msgstr "Nume client"
+
+#~ msgid "Product name"
+#~ msgstr "Nume produs"
+
+#~ msgid "Partner SKU"
+#~ msgstr "SKU Partener"
+
+#~ msgid "Date from"
+#~ msgstr "De la data"
+
+#~ msgid "Date to"
+#~ msgstr "Pana la data"
+
+#~ msgid "Voucher code"
+#~ msgstr "Cod voucher"
+
+#~ msgid "Payment method"
+#~ msgstr "Metoda de plata"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "CSV"
+#~ msgstr "CSV"
+
+#~ msgid "Get results as"
+#~ msgstr "Obtine rezultatele ca"
+
+#~ msgid "Order value"
+#~ msgstr "Valoare comanda"
+
+#~ msgid "Date of purchase"
+#~ msgstr "Data cumpararii"
+
+#~ msgid "Number of items"
+#~ msgstr "Numar produse"
+
+#~ msgid "Order status"
+#~ msgstr "Stare comanda"
+
+#~ msgid "Customer email address"
+#~ msgstr "Adresa de email client"
+
+#~ msgid "Deliver to name"
+#~ msgstr "Livrare pe numele"
+
+#~ msgid "Bill to name"
+#~ msgstr "Facturare pe numele"
+
+#~ msgid "The new status '%s' is not valid"
+#~ msgstr "Noul status '%s' este invalid"
+
+#~ msgid "Unable to change order status due to payment error: %s"
+#~ msgstr "Starea comenzii nu se poate schimba datorita erorii de plata: %s"
+
+#~ msgid "Order status changed from '%(old_status)s' to '%(new_status)s'"
+#~ msgstr ""
+#~ "Starea comenzii a fost schimbata din '%(old_status)s' in '%(new_status)s'"
+
+#~ msgid "No valid action submitted"
+#~ msgstr "Nu a fost trimisa o actiune valida"
+
+#~ msgid "Invalid action"
+#~ msgstr "Actiune invalida"
+
+#~ msgid "You must select some lines to act on"
+#~ msgstr "Trebuie sa selectezi cateva linii"
+
+#~ msgid "Invalid lines requested"
+#~ msgstr "Linii solicitate invalide"
+
+#~ msgid "The entered quantity for line #%s is not valid"
+#~ msgstr "Cantitatea introdusa pentru linia #%s este invalida"
+
+#~ msgid ""
+#~ "The entered quantity for line #%(line_id)s should not be higher than "
+#~ "%(quantity)s"
+#~ msgstr ""
+#~ "Cantitatea introdusa pentru linia #%(line_id)s nu poate depasi "
+#~ "%(quantity)s"
+
+#~ msgid "Note saved"
+#~ msgstr "Nota salvata"
+
+#~ msgid "Note cannot be deleted"
+#~ msgstr "Nota nu poate fi stearsa"
+
+#~ msgid "Note deleted"
+#~ msgstr "Nota stearsa"
+
+#~ msgid "Invalid form submission"
+#~ msgstr "Fomular transmis invalid"
+
+#~ msgid "Please choose a valid amount"
+#~ msgstr "Te rugam sa specifici o suma valida"
+
+#~ msgid "'%(status)s' is not a valid new status for line %(line_id)d"
+#~ msgstr "'%(status)s' nu este o stare noua valida pentru linia %(line_id)d"
+
+#~ msgid ""
+#~ "Status of line #%(line_id)d changed from '%(old_status)s' to "
+#~ "'%(new_status)s'"
+#~ msgstr ""
+#~ "Starea liniei #%(line_id)d a fost schimbata din '%(old_status)s' in "
+#~ "'%(new_status)s'"
+
+#~ msgid "The event type '%s' is not valid"
+#~ msgstr "Tipul de eveniment '%s' este invalid"
+
+#~ msgid "Unable to create shipping event: %s"
+#~ msgstr "Nu pot crea evenimentul de livrare: %s"
+
+#~ msgid "Unable to create shipping event due to payment error: %s"
+#~ msgstr "Nu pot crea evenimentul de livrare datorita erorii de plata: %s"
+
+#~ msgid "Shipping event created"
+#~ msgstr "Evenimentul de livrare a fost creat"
+
+#~ msgid "Unable to create payment event due to payment error: %s"
+#~ msgstr ""
+#~ "Nu s-a putut crea un eveniment de plata datorita erorii de plata: %s"
+
+#~ msgid "Unable to create payment event: %s"
+#~ msgstr "Nu s-a putut crea un eveniment de plata: %s"
+
+#~ msgid "Payment event created"
+#~ msgstr "Evenimentul de plata a fost creat"
+
+#~ msgid "%(field)s changed from '%(old_value)s' to '%(new_value)s'"
+#~ msgstr "%(field)s a fost schimbat din '%(old_value)s' in '%(new_value)s'"
+
+#~ msgid ""
+#~ "Delivery address updated:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Adresa de livrare a fost modificata:\n"
+#~ "%s"
+
+#~ msgid "Delivery address updated"
+#~ msgstr "Adresa de livrare a fost modificata"
+
+#~ msgid "Example: '/about/contact/'."
+#~ msgstr "Exemplu: '/about/contact/'."
+
+#~ msgid "All pages"
+#~ msgstr "Toate paginile"
+
+#~ msgid " with title containing '%s'"
+#~ msgstr " cu titlul continand '%s'"
+
+#~ msgid "Create New Page"
+#~ msgstr "Creaza Pagina Noua"
+
+#~ msgid "Deleted page '%s'"
+#~ msgstr "Pagina '%s' a fost stearsa"
+
+#~ msgid "Full dashboard access"
+#~ msgstr "Acces panou de control complet"
+
+#~ msgid "Limited dashboard access"
+#~ msgstr "Acces panou de control limitat"
+
+#~ msgid "User role"
+#~ msgstr "Rol utilizator"
+
+#~ msgid "Confirm Password"
+#~ msgstr "Confirma Parola"
+
+#~ msgid "All partners"
+#~ msgstr "Toti partenerii"
+
+#~ msgid "Partners matching '%s'"
+#~ msgstr "Partenerii ce contin '%s'"
+
+#~ msgid "Create new partner"
+#~ msgstr "Creaza partener nou"
+
+#~ msgid "Partner '%s' was created successfully."
+#~ msgstr "Partenerul '%s' a fost creat cu succes."
+
+#~ msgid "Partner '%s' was updated successfully."
+#~ msgstr "Partenerul '%s' a fost modificat cu succes."
+
+#~ msgid "Partner '%s' was deleted successfully."
+#~ msgstr "Partenerul '%s' a fost sters cu succes."
+
+#~ msgid "Create user"
+#~ msgstr "Creaza utilizator"
+
+#~ msgid "User '%s' was created successfully."
+#~ msgstr "Utilizatorul '%s' a fost creat cu succes."
+
+#~ msgid "User '%(name)s' was linked to '%(partner_name)s'"
+#~ msgstr "Utilizatorul '%(name)s' a fost asociat cu '%(partner_name)s'"
+
+#~ msgid "User '%(name)s' is already linked to '%(partner_name)s'"
+#~ msgstr "Utilizatorul '%(name)s' este deja asociat cu '%(partner_name)s'"
+
+#~ msgid "User '%(name)s' is not linked to '%(partner_name)s'"
+#~ msgstr "Utilizatorul '%(name)s' nu este asociat cu '%(partner_name)s'"
+
+#~ msgid "Edit user '%s'"
+#~ msgstr "Modifica utilizatorul '%s'"
+
+#~ msgid "User '%s' was updated successfully."
+#~ msgstr "Utilizatorul '%s' a fost modificat cu succes."
+
+#~ msgid "Promotion type"
+#~ msgstr "Tip promotie"
+
+#~ msgid "Position"
+#~ msgstr "Pozitie"
+
+#~ msgid "Where in the page this content block will appear"
+#~ msgstr "Unde va aparea in pagina acest bloc de continut"
+
+#~ msgid "Content blocks can only be linked to internal URLs"
+#~ msgstr "Blocurile de continut pot fi asociate doar cu URL-uri interne"
+
+#~ msgid "Content block removed successfully"
+#~ msgstr "Blocul de continut a fost eliminat cu succes"
+
+#~ msgid "Content block created successfully"
+#~ msgstr "Blocul de continut a fost creat cu succes"
+
+#~ msgid "Create a new %s content block"
+#~ msgstr "Creaza un nou bloc de continut %s"
+
+#~ msgid "Product list content block created"
+#~ msgstr "Blocul de continut lista de produse a fost creat"
+
+#~ msgid "Update content block"
+#~ msgstr "Modifica blocul de continut"
+
+#~ msgid "Content block updated successfully"
+#~ msgstr "Blocul de continut a fost modificat cu succes"
+
+#~ msgid "Content block '%(block)s' added to page '%(page)s'"
+#~ msgstr "Blocul de continut '%(block)s' a fost adaugat la pagina '%(page)s'"
+
+#~ msgid "No link found to delete"
+#~ msgstr "Nu a fost gasit nici un link pentru stergere"
+
+#~ msgid "Content block removed from page '%s'"
+#~ msgstr "Blocul de continut a fost eliminat de pe pagina '%s'"
+
+#~ msgid "Product list promotion updated"
+#~ msgstr "Promotia listei de produse a fost modificata"
+
+#~ msgid "Content block deleted successfully"
+#~ msgstr "Blocul de continut a fost sters cu succes"
+
+#~ msgid "Product SKUs or UPCs"
+#~ msgstr "SKU-urile sau UPC-urile produselor"
+
+#~ msgid "You can paste in a selection of SKUs or UPCs"
+#~ msgstr "Poti adauga aici o selectie de SKU-uri sau UPC-uri"
+
+#~ msgid "File of SKUs or UPCs"
+#~ msgstr "Fisierul ce contine SKU-ri sau UPC-uri"
+
+#~ msgid "Either comma-separated, or one identifier per line"
+#~ msgstr "Fie separate prin virgula, sau un identificator pe linie"
+
+#~ msgid "You must submit either a list of SKU/UPCs or a file"
+#~ msgstr "Trebuie sa specifici fie o lista de SKU-uri/UPC-uri, fie un fisier"
+
+#~ msgid "The products with SKUs or UPCs matching %s are already in this range"
+#~ msgstr ""
+#~ "Produsele cu SKU-urile sau UPC-urile indeplinind conditia %s se gasesc "
+#~ "deja in acest interval"
+
+#~ msgid "No products exist with a SKU or UPC matching %s"
+#~ msgstr "Nu exista produse cu un SKU sau UPC indeplinind conditia %s"
+
+#~ msgid "Create range"
+#~ msgstr "Creaza set"
+
+#~ msgid "Range deleted"
+#~ msgstr "Setul a fost sters"
+
+#~ msgid "Removed %d product from range"
+#~ msgid_plural "Removed %d products from range"
+#~ msgstr[0] "Produsul %d a fost eliminat din set"
+#~ msgstr[1] "Produsele %d au fost eliminate din set"
+#~ msgstr[2] "Produsele %d au fost eliminate din set"
+
+#~ msgid "%d product added to range"
+#~ msgid_plural "%d products added to range"
+#~ msgstr[0] "Produsul %d a fost adaugat la set"
+#~ msgstr[1] "Produsele %d au fost adaugate la set"
+#~ msgstr[2] "Produsele %d au fost adaugate la set"
+
+#~ msgid "No product(s) were found with SKU or UPC matching %s"
+#~ msgstr "Nu au fost gasite produse cu SKU sau UPC indeplinind conditia %s"
+
+#~ msgid "Report Type"
+#~ msgstr "Tip Raport"
+
+#~ msgid "Only the offer and order reports use the selected date range"
+#~ msgstr ""
+#~ "Doar rapoartele de oferte si comenzi folosesc intervalul de zile selectat"
+
+#~ msgid "The report is inclusive of this date"
+#~ msgstr "Raportul include aceasta data"
+
+#~ msgid "Download"
+#~ msgstr "Descarca"
+
+#~ msgid "Your start date must be before your end date"
+#~ msgstr "Data de inceput trebuie sa preceada data de sfarsit"
+
+#~ msgid "%(report_filter)s between %(start_date)s and %(end_date)s"
+#~ msgstr "%(report_filter)s intre %(start_date)s si %(end_date)s"
+
+#~ msgid "You do not have access to this report"
+#~ msgstr "Nu ai acces la acest raport"
+
+#~ msgid "Keyword"
+#~ msgstr "Cuvant cheie"
+
+#~ msgid "to"
+#~ msgstr "catre"
+
+#~ msgid ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+#~ msgstr ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+
+#~ msgid " created after %s"
+#~ msgstr " creat dupa %s"
+
+#~ msgid " created before %s"
+#~ msgstr " creat inainte de %s"
+
+#~ msgid " created between %(start_date)s and %(end_date)s"
+#~ msgstr " creat intre %(start_date)s si %(end_date)s"
+
+#~ msgid "All reviews"
+#~ msgstr "Toate recenziile"
+
+#~ msgid " with status matching '%s'"
+#~ msgstr " cu starea indeplinind conditia '%s'"
+
+#~ msgid " with keyword matching '%s'"
+#~ msgstr " cu cuvant cheie indeplinind conditia '%s'"
+
+#~ msgid " with customer name matching '%s'"
+#~ msgstr " cu numele clientului indeplinind conditia '%s'"
+
+#~ msgid "%(main_filter)s %(email_filter)s %(name_filter)s"
+#~ msgstr "%(main_filter)s %(email_filter)s %(name_filter)s"
+
+#~ msgid "All users"
+#~ msgstr "Toti utilizatorii"
+
+#~ msgid " with email matching '%s'"
+#~ msgstr "cu email indeplinind conditia '%s'"
+
+#~ msgid " with name matching '%s'"
+#~ msgstr "cu nume indeplinind conditia '%s'"
+
+#~ msgid "Users' status successfully changed"
+#~ msgstr "Starea utilizatorilor a fost schimbata cu succes"
+
+#~ msgid "A password reset email has been sent"
+#~ msgstr "Un email cu instructiuni pentru resetarea parolei a fost trimis"
+
+#~ msgid "All Alerts"
+#~ msgstr "Toate alertele"
+
+#~ msgid " with customer email matching '%s'"
+#~ msgstr "cu email-ul clientului indeplinind conditia '%s'"
+
+#~ msgid "Product alert saved"
+#~ msgstr "Alerta produs a fost salvata"
+
+#~ msgid "Product alert deleted"
+#~ msgstr "Alerta produs a fost stearsa"
+
+#~ msgid "Start datetime"
+#~ msgstr "Datetime inceput"
+
+#~ msgid "End datetime"
+#~ msgstr "Datetime sfarsit"
+
+#~ msgid "Usage"
+#~ msgstr "Utilizare"
+
+#~ msgid "Which products get a discount?"
+#~ msgstr "Ce produse primesc discount?"
+
+#~ msgid "Percentage off of products in range"
+#~ msgstr "Procent reducere la produsele din set"
+
+#~ msgid "Fixed amount off of products in range"
+#~ msgstr "Suma fixa reducere la produsele din set"
+
+#~ msgid "Discount is a percentage off of the shipping cost"
+#~ msgstr "Discount-ul este un procent din costul de transport"
+
+#~ msgid "Discount is a fixed amount of the shipping cost"
+#~ msgstr "Discount-ul este o valoare fixa din costul de transport"
+
+#~ msgid "Get shipping for a fixed price"
+#~ msgstr "Obtine transportul la pret fix"
+
+#~ msgid "Discount type"
+#~ msgstr "Tip discount"
+
+#~ msgid "Discount value"
+#~ msgstr "Valoare discount"
+
+#~ msgid "The name '%s' is already in use"
+#~ msgstr "Numele '%s' este folosit deja"
+
+#~ msgid "The code '%s' is already in use"
+#~ msgstr "Codul '%s' este folosit deja"
+
+#~ msgid "The start date must be before the end date"
+#~ msgstr "Data de inceput trebuie sa preceada data de sfarsit"
+
+#~ msgid "Is Active?"
+#~ msgstr "Este Activ?"
+
+#~ msgid "%(main_filter)s %(name_filter)s %(code_filter)s"
+#~ msgstr "%(main_filter)s %(name_filter)s %(code_filter)s"
+
+#~ msgid "All vouchers"
+#~ msgstr "Toate voucherele"
+
+#~ msgid "with name matching '%s'"
+#~ msgstr "cu numele indeplinind conditia '%s'"
+
+#~ msgid "with code '%s'"
+#~ msgstr " cu codul '%s'"
+
+#~ msgid "Active vouchers"
+#~ msgstr "Vouchere active"
+
+#~ msgid "Create voucher"
+#~ msgstr "Creaza voucher"
+
+#~ msgid "Offer for voucher '%s'"
+#~ msgstr "Oferta pentru voucherul '%s'"
+
+#~ msgid "Voucher created"
+#~ msgstr "Voucher creat"
+
+#~ msgid "Voucher updated"
+#~ msgstr "Voucher modificat"
+
+#~ msgid "Voucher deleted"
+#~ msgstr "Voucher sters"
+
+#~ msgid "This is displayed within the customer's basket"
+#~ msgstr "Aceasta este afisata in cosul clientului"
+
+#~ msgid "This is displayed on the offer browsing page"
+#~ msgstr "Aceasta este afisata pe pagina de explorare oferte"
+
+#~ msgid "Site offer - available to all users"
+#~ msgstr "Oferta de site - disponibila tuturor utilizatorilor"
+
+#~ msgid ""
+#~ "Voucher offer - only available after entering the appropriate voucher code"
+#~ msgstr ""
+#~ "Oferta de voucher - disponibila doar dupa introducerea codului de voucher"
+
+#~ msgid "User offer - available to certain types of user"
+#~ msgstr "Oferta utilizator - disponibila anumitor tipuri de utilizatori"
+
+#~ msgid ""
+#~ "Session offer - temporary offer, available for a user for the duration of "
+#~ "their session"
+#~ msgstr ""
+#~ "Oferta de sesiune - oferta temporara, disponibila unui utilizator pe "
+#~ "durata sesiunii acestuia"
+
+#~ msgid "Condition"
+#~ msgstr "Conditie"
+
+#~ msgid "Benefit"
+#~ msgstr "Beneficiu"
+
+#~ msgid "Priority"
+#~ msgstr "Prioritate"
+
+#~ msgid "The highest priority offers are applied first"
+#~ msgstr "Ofertele cu cea mai mare prioritate sunt aplicate primele"
+
+#~ msgid "Max global applications"
+#~ msgstr "Max aplicari globale"
+
+#~ msgid "The number of times this offer can be used before it is unavailable"
+#~ msgstr ""
+#~ "De cate ori aceasta oferta poate fi folosita pana cand devine "
+#~ "indisponibila"
+
+#~ msgid "Max user applications"
+#~ msgstr "Max aplicari utilizator"
+
+#~ msgid "The number of times a single user can use this offer"
+#~ msgstr "De cate ori poate un singur utilizatori folosi aceasta oferta"
+
+#~ msgid "Max basket applications"
+#~ msgstr "Max aplicari cos"
+
+#~ msgid ""
+#~ "The number of times this offer can be applied to a basket (and order)"
+#~ msgstr ""
+#~ "De cate ori aceasta oferta poate fi aplicata la un cos (si o comanda)"
+
+#~ msgid "Max discount"
+#~ msgstr "Max discount"
+
+#~ msgid ""
+#~ "When an offer has given more discount to orders than this threshold, then "
+#~ "the offer becomes unavailable"
+#~ msgstr ""
+#~ "Cand o oferta a oferit mai mult discount comenzilor decat aceasta limita, "
+#~ "atunci oferta devine indisponibila"
+
+#~ msgid "Total Discount"
+#~ msgstr "Discount Total"
+
+#~ msgid "Number of applications"
+#~ msgstr "Numar aplicari"
+
+#~ msgid "Number of Orders"
+#~ msgstr "Numar Comenzi"
+
+#~ msgid "URL redirect (optional)"
+#~ msgstr "Redirectionare URL (optional)"
+
+#~ msgid "Conditional offer"
+#~ msgstr "Oferta conditionala"
+
+#~ msgid "Conditional offers"
+#~ msgstr "Oferte conditionale"
+
+#~ msgid "End date should be later than start date"
+#~ msgstr "Data de sfarsit trebuie sa fie mai tarziu decat data de inceput"
+
+#~ msgid "Offer is suspended"
+#~ msgstr "Oferta este suspendata"
+
+#~ msgid "Limited to %(total)d uses (%(remainder)d remaining)"
+#~ msgstr "Limitata la %(total)d utilizari (%(remainder)d ramase)"
+
+#~ msgid "Limited to 1 use per user"
+#~ msgstr "Limitata la 1 utilizare per utilizator"
+
+#~ msgid "Limited to %(total)d uses per user"
+#~ msgstr "Limitata la %(total)d utilizari per utilizator"
+
+#~ msgid "Limited to 1 use per basket"
+#~ msgstr "Limitata la 1 utilizare pe cos"
+
+#~ msgid "Limited to %(total)d uses per basket"
+#~ msgstr "Limitata la %(total)d utilizari per cos"
+
+#~ msgid "Available between %(start)s and %(end)s"
+#~ msgstr "Disponibila intre %(start)s si %(end)s"
+
+#~ msgid "Available from %(start)s"
+#~ msgstr "Disponibila din %(start)s"
+
+#~ msgid "Available until %(end)s"
+#~ msgstr "Disponibila pana la %(end)s"
+
+#~ msgid "Limited to a cost of %(max)s"
+#~ msgstr "Limitata la un cost de %(max)s"
+
+#~ msgid "Range"
+#~ msgstr "Interval"
+
+#~ msgid "Discount is a percentage off of the product's value"
+#~ msgstr "Discount-ul este un procent din valoarea produsului"
+
+#~ msgid "Discount is a fixed amount off of the product's value"
+#~ msgstr "Discount-ul este o valoare fixa din valoarea produsului"
+
+#~ msgid "Discount is to give the cheapest product for free"
+#~ msgstr "Discount-ul reprezinta oferirea celui mai ieftin produs gratuit"
+
+#~ msgid "Get the products that meet the condition for a fixed price"
+#~ msgstr "Obtine produsele care indeplinesc conditia de pret fix"
+
+#~ msgid "Max Affected Items"
+#~ msgstr "Max Produse Afectate"
+
+#~ msgid ""
+#~ "Set this to prevent the discount consuming all items within the range "
+#~ "that are in the basket."
+#~ msgstr ""
+#~ "Bifeaza pentru a restrictiona discount-ul astfel incat sa nu consume "
+#~ "toate produsele ce satisfac conditia si sunt in cos"
+
+#~ msgid "Custom class"
+#~ msgstr "Clasa personalizata"
+
+#~ msgid "Benefits"
+#~ msgstr "Beneficii"
+
+#~ msgid "Multibuy benefits require a product range"
+#~ msgstr "Beneficiile de cumparare multipla necesita un interval de produse"
+
+#~ msgid "Multibuy benefits don't require a value"
+#~ msgstr "Beneficiile de cumparare multipla nu necesita o valoare"
+
+#~ msgid "Multibuy benefits don't require a 'max affected items' attribute"
+#~ msgstr ""
+#~ "Beneficiile de cumparare multipla nu necesita atributul 'max produse "
+#~ "afectate'"
+
+#~ msgid "Percentage benefits require a product range"
+#~ msgstr "Beneficiile procentuale necesita un interval de produse"
+
+#~ msgid "Percentage discount cannot be greater than 100"
+#~ msgstr "Discount-ul procentual nu poate fi mai mare de 100"
+
+#~ msgid "A discount value is required"
+#~ msgstr "O valoare pentru discount este necesara"
+
+#~ msgid ""
+#~ "No range should be selected as this benefit does not apply to products"
+#~ msgstr ""
+#~ "Nu e nevoie sa selectezi un interval deoarece acest beneficiu nu se "
+#~ "aplica la produse"
+
+#~ msgid "Shipping discounts don't require a 'max affected items' attribute"
+#~ msgstr ""
+#~ "Discount-urile la transport nu necesita atributul 'max produse afectate'"
+
+#~ msgid ""
+#~ "No range should be selected as the condition range will be used instead."
+#~ msgstr ""
+#~ "Nu e nevoie sa selectezi un interval deoarece conditia de selectie va fi "
+#~ "folosita in schimb."
+
+#~ msgid "Fixed discount benefits require a product range"
+#~ msgstr "Beneficiile de discount fix necesita un interval de produse"
+
+#~ msgid "Fixed discount benefits require a value"
+#~ msgstr "Beneficiile de discount fix necesita o valoare"
+
+#~ msgid "Depends on number of items in basket that are in condition range"
+#~ msgstr "Depinde de numarul de produse din cos care satisfac conditia"
+
+#~ msgid "Depends on value of items in basket that are in condition range"
+#~ msgstr "Depinde de valoare produselor din cos care satisfac conditia"
+
+#~ msgid ""
+#~ "Needs to contain a set number of DISTINCT items from the condition range"
+#~ msgstr ""
+#~ "Trebuie sa contina un numar specificat de produse DISTINCTE ce satisfac "
+#~ "conditia"
+
+#~ msgid "Conditions"
+#~ msgstr "Conditii"
+
+#~ msgid "Is public?"
+#~ msgstr "Este public?"
+
+#~ msgid "Public ranges have a customer-facing page"
+#~ msgstr "Intervalele publice au o pagina vizibila de clienti"
+
+#~ msgid "Includes all products?"
+#~ msgstr "Include toate produsele?"
+
+#~ msgid "Included Products"
+#~ msgstr "Produse Incluse"
+
+#~ msgid "Excluded Products"
+#~ msgstr "Produse Excluse"
+
+#~ msgid "Included Categories"
+#~ msgstr "Categorii Incluse"
+
+#~ msgid "File Path"
+#~ msgstr "Cale Fisier"
+
+#~ msgid "Size"
+#~ msgstr "Dimensiune"
+
+#~ msgid "Uploaded By"
+#~ msgstr "Incarcat De"
+
+#~ msgid "Date Uploaded"
+#~ msgstr "Data Incarcarii"
+
+#~ msgid "Error Message"
+#~ msgstr "Mesaj Eroare"
+
+#~ msgid "Date Processed"
+#~ msgstr "Data Procesarii"
+
+#~ msgid "Number of New SKUs"
+#~ msgstr "Numar SKU-uri Noi"
+
+#~ msgid "Number of Unknown SKUs"
+#~ msgstr "Numar SKU-uri Necunoscute"
+
+#~ msgid "Number of Duplicate SKUs"
+#~ msgstr "Numar SKU-rui Duplicate"
+
+#~ msgid "Range Product Uploaded File"
+#~ msgstr "Fisier Seturi Produse Incarcat"
+
+#~ msgid "Range Product Uploaded Files"
+#~ msgstr "Fisiere Seturi Produse Incarcate"
+
+#~ msgid "%(value)s%% discount on %(range)s"
+#~ msgstr "%(value)s%% discount la %(range)s"
+
+#~ msgid "Percentage discount benefit"
+#~ msgstr "Beneficiu discount procentual"
+
+#~ msgid "Percentage discount benefits"
+#~ msgstr "Beneficii discount procentual"
+
+#~ msgid "%(value)s discount on %(range)s"
+#~ msgstr "%(value)s discount la %(range)s"
+
+#~ msgid "Absolute discount benefit"
+#~ msgstr "Beneficiu discount absolut"
+
+#~ msgid "Absolute discount benefits"
+#~ msgstr "Beneficii discount absolut"
+
+#~ msgid "The products that meet the condition are sold for %(amount)s"
+#~ msgstr "Produsele care indeplinesc conditia sunt vandute la %(amount)s"
+
+#~ msgid "Fixed price benefit"
+#~ msgstr "Beneficiu pret fix"
+
+#~ msgid "Fixed price benefits"
+#~ msgstr "Beneficii pret fix"
+
+#~ msgid "Cheapest product from %(range)s is free"
+#~ msgstr "Cel mai ieftin produs din %(range)s este gratuit"
+
+#~ msgid "Multibuy discount benefit"
+#~ msgstr "Beneficiu discount cumparare multipla"
+
+#~ msgid "Multibuy discount benefits"
+#~ msgstr "Beneficii discount cumparare multipla"
+
+#~ msgid "%(amount)s off shipping cost"
+#~ msgstr "%(amount)s redus din costul de transport"
+
+#~ msgid "Shipping absolute discount benefit"
+#~ msgstr "Beneficiu discount transport absolut"
+
+#~ msgid "Shipping absolute discount benefits"
+#~ msgstr "Beneficii discount transport absolut"
+
+#~ msgid "Get shipping for %(amount)s"
+#~ msgstr "Obtine transport pentru %(amount)s"
+
+#~ msgid "Fixed price shipping benefit"
+#~ msgstr "Beneficiu transport pret fix"
+
+#~ msgid "Fixed price shipping benefits"
+#~ msgstr "Beneficii transport pret fix"
+
+#~ msgid "%(value)s%% off of shipping cost"
+#~ msgstr "%(value)s%% redus din costul de transport"
+
+#~ msgid "Shipping percentage discount benefit"
+#~ msgstr "Beneficiu discount transport procentual"
+
+#~ msgid "Shipping percentage discount benefits"
+#~ msgstr "Beneficii discount transport procentual"
+
+#~ msgid "Basket includes %(count)d item(s) from %(range)s"
+#~ msgstr "Cosul include %(count)d produs(e) din %(range)s"
+
+#~ msgid "Buy %(delta)d more product from %(range)s"
+#~ msgid_plural "Buy %(delta)d more products from %(range)s"
+#~ msgstr[0] "Cumpara inca %(delta)d produs din %(range)s"
+#~ msgstr[1] "Cumpara inca %(delta)d produse din %(range)s"
+#~ msgstr[2] "Cumpara inca %(delta)d produse din %(range)s"
+
+#~ msgid "Basket includes %(count)d distinct item(s) from %(range)s"
+#~ msgstr "Cosul include %(count)d produs(e) distinct(e) din %(range)s"
+
+#~ msgid "Coverage Condition"
+#~ msgstr "Conditie Acoperire"
+
+#~ msgid "Coverage Conditions"
+#~ msgstr "Conditii Acoperire"
+
+#~ msgid "Basket includes %(amount)s from %(range)s"
+#~ msgstr "Cosul include %(amount)s din %(range)s"
+
+#~ msgid "Spend %(value)s more from %(range)s"
+#~ msgstr "Cheltuie inca %(value)s din %(range)s"
+
+#~ msgid "Offer"
+#~ msgstr "Oferta"
+
+#~ msgid "Total discount"
+#~ msgstr "Discount total"
+
+#~ msgid "Offer performance"
+#~ msgstr "Performanta ofertei"
+
+#~ msgid "Site"
+#~ msgstr "Site"
+
+#~ msgid "Billing Address"
+#~ msgstr "Adresa Facturare"
+
+#~ msgid "Order total (inc. tax)"
+#~ msgstr "Total comanda (incl. taxe)"
+
+#~ msgid "Order total (excl. tax)"
+#~ msgstr "Total comanda (excl. taxe)"
+
+#~ msgid "Shipping charge (inc. tax)"
+#~ msgstr "Taxa transport (incl. taxe)"
+
+#~ msgid "Shipping charge (excl. tax)"
+#~ msgstr "Taxa transport (excl. taxe)"
+
+#~ msgid "Shipping Address"
+#~ msgstr "Adresa de Livrare"
+
+#~ msgid "Shipping method"
+#~ msgstr "Metoda de livrare"
+
+#~ msgid "Guest email address"
+#~ msgstr "Adresa de email"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status for order %(number)s (current "
+#~ "status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s' nu este o stare valida pentru comanda %(number)s (stare "
+#~ "curenta: '%(status)s')"
+
+#~ msgid "In progress"
+#~ msgstr "In progres"
+
+#~ msgid "Note Type"
+#~ msgstr "Tip Nota"
+
+#~ msgid "Message"
+#~ msgstr "Mesaj"
+
+#~ msgid "Order Note"
+#~ msgstr "Nota Comanda"
+
+#~ msgid "Order Notes"
+#~ msgstr "Note Comanda"
+
+#~ msgid "Event Type"
+#~ msgstr "Tip Eveniment"
+
+#~ msgid "Communication Event"
+#~ msgstr "Eveniment Comunicare"
+
+#~ msgid "Communication Events"
+#~ msgstr "Evenimente Comunicare"
+
+#~ msgid "'%(type)s' event for order #%(number)s"
+#~ msgstr "'%(type)s' eveniment pentru comanda #%(number)s"
+
+#~ msgid "Partner name"
+#~ msgstr "Nume partener"
+
+#~ msgid "Partner reference"
+#~ msgstr "Referinta partener"
+
+#~ msgid "This is the item number that the partner uses within their system"
+#~ msgstr ""
+#~ "Acesta este numarul de produs utilizat de partener in sistemul propriu"
+
+#~ msgid "Partner Notes"
+#~ msgstr "Note partener"
+
+#~ msgid "Stock record"
+#~ msgstr "Inregistrare stoc"
+
+#~ msgid "Price (inc. tax)"
+#~ msgstr "Pret (incl. taxe)"
+
+#~ msgid "Price (excl. tax)"
+#~ msgstr "Pret (excl. taxe)"
+
+#~ msgid "Price before discounts (inc. tax)"
+#~ msgstr "Pret inainte de discount-uri (incl. taxe)"
+
+#~ msgid "Price before discounts (excl. tax)"
+#~ msgstr "Pret inainte de discount-uri (exlc. taxe)"
+
+#~ msgid "Unit Cost Price"
+#~ msgstr "Pret Achizitie Bucata"
+
+#~ msgid "Unit Price (inc. tax)"
+#~ msgstr "Pret Bucata (incl. taxe)"
+
+#~ msgid "Unit Price (excl. tax)"
+#~ msgstr "Pret Bucata (excl. taxe)"
+
+#~ msgid "Unit Retail Price"
+#~ msgstr "Pret Retail Bucata"
+
+#~ msgid "Estimated Dispatch Date"
+#~ msgstr "Data Estimata Expediere"
+
+#~ msgid "Order Line"
+#~ msgstr "Linie Comanda"
+
+#~ msgid "<missing product>"
+#~ msgstr "<produs lipsa>"
+
+#~ msgid "Product '%(name)s', quantity '%(qty)s'"
+#~ msgstr "Produs '%(name)s', cantitate '%(qty)s'"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status (current status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s' nu este o stare valida (stare curenta: '%(status)s')"
+
+#~ msgid "'%(title)s' is no longer available"
+#~ msgstr "'%(title)s' nu mai este disponibil"
+
+#~ msgid "Line Attribute"
+#~ msgstr "Atribut Linie"
+
+#~ msgid "Line Attributes"
+#~ msgstr "Atribute Linie"
+
+#~ msgid "Shiping (inc. tax)"
+#~ msgstr "Transport (incl. taxe)"
+
+#~ msgid "Shipping (excl. tax)"
+#~ msgstr "Transport (excl. taxe)"
+
+#~ msgid "Line Price"
+#~ msgstr "Pret Linie"
+
+#~ msgid "Line Prices"
+#~ msgstr "Preturi Linie"
+
+#~ msgid "Line '%(number)s' (quantity %(qty)d) price %(price)s"
+#~ msgstr "Linia '%(number)s' (cantitate %(qty)d) pret %(price)s"
+
+#~ msgid "Payment Event Type"
+#~ msgstr "Tip Eveniment Plata"
+
+#~ msgid "Payment Event Types"
+#~ msgstr "Tipuri Eveniment Plata"
+
+#~ msgid "Amount"
+#~ msgstr "Suma"
+
+#~ msgid "Reference"
+#~ msgstr "Referinta"
+
+#~ msgid "Lines"
+#~ msgstr "Linii"
+
+#~ msgid "Payment Event"
+#~ msgstr "Eveniment Plata"
+
+#~ msgid "Payment Events"
+#~ msgstr "Evenimente Plata"
+
+#~ msgid "Payment event for order %s"
+#~ msgstr "Eveniment plata pentru comanda %s"
+
+#~ msgid "Event"
+#~ msgstr "Eveniment"
+
+#~ msgid "Payment Event Quantity"
+#~ msgstr "Cantitate Eveniment Plata"
+
+#~ msgid "Payment Event Quantities"
+#~ msgstr "Cantitati Eveniment Plata"
+
+#~ msgid "Event notes"
+#~ msgstr "Note eveniment"
+
+#~ msgid "This could be the dispatch reference, or a tracking number"
+#~ msgstr "Aceasta poate fi referinta de expediere sau un numar de urmarire"
+
+#~ msgid "Shipping Event"
+#~ msgstr "Eveniment Livrare"
+
+#~ msgid "Shipping Events"
+#~ msgstr "Evenimente Livrare"
+
+#~ msgid "Order #%(number)s, type %(type)s"
+#~ msgstr "Comanda #%(number)s, tip %(type)s"
+
+#~ msgid "Shipping Event Quantity"
+#~ msgstr "Cantitate Eveniment Livrare"
+
+#~ msgid "Shipping Event Quantities"
+#~ msgstr "Cantitati Eveniment Livrare"
+
+#~ msgid "%(product)s - quantity %(qty)d"
+#~ msgstr "%(product)s - cantitate %(qty)d"
+
+#~ msgid "Shipping Event Type"
+#~ msgstr "Tip Eveniment Livrare"
+
+#~ msgid "Shipping Event Types"
+#~ msgstr "Tipuri Eveniment Livrare"
+
+#~ msgid "Discount category"
+#~ msgstr "Categorie discount"
+
+#~ msgid "Offer ID"
+#~ msgstr "ID Oferta"
+
+#~ msgid "Voucher ID"
+#~ msgstr "ID Voucher"
+
+#~ msgid "Frequency"
+#~ msgstr "Frecventa"
+
+#~ msgid "Order Discount"
+#~ msgstr "Discount Comanda"
+
+#~ msgid "Order Discounts"
+#~ msgstr "Discount-uri Comanda"
+
+#~ msgid "Discount of %(amount)r from order %(order)s"
+#~ msgstr "Discount de %(amount)r din comanda %(order)s"
+
+#~ msgid "The selected quantity for line #%(line_id)s is too large"
+#~ msgstr "Cantitatea selectata pentru linia #%(line_id)s este prea mare"
+
+#~ msgid "Total incl. tax"
+#~ msgstr "Total incl. taxe"
+
+#~ msgid "Date placed"
+#~ msgstr "Data plasarii"
+
+#~ msgid "Orders placed"
+#~ msgstr "Comenzi plasate"
+
+#~ msgid "Empty baskets cannot be submitted"
+#~ msgstr "Cosurile goale nu pot fi trimise"
+
+#~ msgid "There is already an order with number %s"
+#~ msgstr "Exista deja o comanda cu numarul %s"
+
+#~ msgid "Fulfillment partner"
+#~ msgstr "Partener executie"
+
+#~ msgid "Fulfillment partners"
+#~ msgstr "Parteneri executie"
+
+#~ msgid "Price (retail)"
+#~ msgstr "Pret (retail)"
+
+#~ msgid "Cost Price"
+#~ msgstr "Pret Achizitie"
+
+#~ msgid "Number in stock"
+#~ msgstr "Numar in stoc"
+
+#~ msgid "Number allocated"
+#~ msgstr "Numar alocate"
+
+#~ msgid "Low Stock Threshold"
+#~ msgstr "Limita Stoc Redus"
+
+#~ msgid "Invalid stock consumption request"
+#~ msgstr "Cerere de consumare stoc invalida"
+
+#~ msgid "Stock Record"
+#~ msgstr "Inregistrare Stoc"
+
+#~ msgid "Threshold"
+#~ msgstr "Limita"
+
+#~ msgid "Open"
+#~ msgstr "Deschis"
+
+#~ msgid "Date Closed"
+#~ msgstr "Data Inchiderii"
+
+#~ msgid "<stockalert for \"%(stock)s\" status %(status)s>"
+#~ msgstr "<stockalert pentru \"%(stock)s\" stare %(status)s>"
+
+#~ msgid "Stock alerts"
+#~ msgstr "Alerte stoc"
+
+#~ msgid "unavailable"
+#~ msgstr "indisponibil"
+
+#~ msgid "Unavailable"
+#~ msgstr "Indisponibil"
+
+#~ msgid "Available"
+#~ msgstr "Disponibil"
+
+#~ msgid "no stock available"
+#~ msgstr "nu exista stoc disponibil"
+
+#~ msgid "a maximum of %(max)d can be bought"
+#~ msgstr "pot fi cumparate maximum %(max)d"
+
+#~ msgid "In stock"
+#~ msgstr "In stoc"
+
+#~ msgid "In stock (%d available)"
+#~ msgstr "In stoc (%d disponibile)"
+
+#~ msgid "No file path supplied"
+#~ msgstr "Nu ai specificat o cale catre fisier"
+
+#~ msgid "%s does not exist"
+#~ msgstr "%s nu exista"
+
+#~ msgid "%s is not a file"
+#~ msgstr "%s nu este un fisier"
+
+#~ msgid "%s is not readable"
+#~ msgstr "%s nu poate fi citit"
+
+#~ msgid "Source"
+#~ msgstr "Sursa"
+
+#~ msgid "%(type)s of %(amount).2f"
+#~ msgstr "%(type)s la %(amount).2f"
+
+#~ msgid "Transaction"
+#~ msgstr "Tranzactie"
+
+#~ msgid "Transactions"
+#~ msgstr "Tranzactii"
+
+#~ msgid "Source Type"
+#~ msgstr "Tip Sursa"
+
+#~ msgid "Amount Allocated"
+#~ msgstr "Suma Alocata"
+
+#~ msgid "Amount Debited"
+#~ msgstr "Suma Debitata"
+
+#~ msgid "Amount Refunded"
+#~ msgstr "Suma Returnata"
+
+#~ msgid "Label"
+#~ msgstr "Eticheta"
+
+#~ msgid "Sources"
+#~ msgstr "Surse"
+
+#~ msgid "Allocation of %(amount)s from type %(type)s"
+#~ msgstr "Alocare %(amount)s din tipul %(type)s"
+
+#~ msgid " (reference: %s)"
+#~ msgstr " (referinta: %s)"
+
+#~ msgid "This is used within forms to identify this source type"
+#~ msgstr "Folosit in formulare pentru a identifica tipul sursei"
+
+#~ msgid "Source Types"
+#~ msgstr "Tipuri Sursa"
+
+#~ msgid "Card Type"
+#~ msgstr "Tip Card"
+
+#~ msgid "Number"
+#~ msgstr "Numar"
+
+#~ msgid "Expiry Date"
+#~ msgstr "Data Expirarii"
+
+#~ msgid "Partner Reference"
+#~ msgstr "Referinta Partener"
+
+#~ msgid "%(card_type)s %(number)s (Expires: %(expiry)s)"
+#~ msgstr "%(card_type)s %(number)s (Expira: %(expiry)s)"
+
+#~ msgid "Bankcard"
+#~ msgstr "Card bacar"
+
+#~ msgid "Bankcards"
+#~ msgstr "Carduri bancare"
+
+#~ msgid "Payment"
+#~ msgstr "Plata"
+
+#~ msgid "Card number"
+#~ msgstr "Numar card"
+
+#~ msgid "Please enter a valid credit card number."
+#~ msgstr "Te rugam sa intoduci un numar de card de credit valid."
+
+#~ msgid "%s cards are not accepted."
+#~ msgstr "Cardurile %s nu sunt acceptate"
+
+#~ msgid "Enter a valid month."
+#~ msgstr "Introduce o luna valida."
+
+#~ msgid "Enter a valid year."
+#~ msgstr "Introduce un an valid."
+
+#~ msgid "Valid to"
+#~ msgstr "Valid pana la "
+
+#~ msgid "The expiration date you entered is in the past."
+#~ msgstr "Data de expirare introdusa este in trecut."
+
+#~ msgid "Valid from"
+#~ msgstr "Valid de la"
+
+#~ msgid "The starting date you entered is in the future."
+#~ msgstr "Data de inceput introdusa este in viitor."
+
+#~ msgid "CCV number"
+#~ msgstr "Numar CCV"
+
+#~ msgid "Please enter a 3 or 4 digit number"
+#~ msgstr "Te rugam sa introduci un numar de 3 sau 4 digiti"
+
+#~ msgid ""
+#~ "This is the 3 or 4 digit security number on the back of your bankcard"
+#~ msgstr ""
+#~ "Acesta este numarul de securitate de 3 sau 4 digiti de pe spatele "
+#~ "cardului tau bancar"
+
+#~ msgid "American Express cards use a 4 digit security code"
+#~ msgstr ""
+#~ "Cardurile American Express folosesc un cod de securitate de 4 digiti"
+
+#~ msgid "Promotions"
+#~ msgstr "Promotii"
+
+#~ msgid "Display Order"
+#~ msgstr "Ordinea Afisarii"
+
+#~ msgid "Clicks"
+#~ msgstr "Click-uri"
+
+#~ msgid "Linked Promotion"
+#~ msgstr "Promotie Asociata"
+
+#~ msgid "Linked Promotions"
+#~ msgstr "Promotii Asociate"
+
+#~ msgid "Page URL"
+#~ msgstr "URL Pagina"
+
+#~ msgid "Page Promotion"
+#~ msgstr "Promotie Pagina"
+
+#~ msgid "Page Promotions"
+#~ msgstr "Promotii Pagina"
+
+#~ msgid "Filter"
+#~ msgstr "Filtru"
+
+#~ msgid "Keyword Promotion"
+#~ msgstr "Promotie Cuvant Cheie"
+
+#~ msgid "Keyword Promotions"
+#~ msgstr "Promotii Cuvint Cheie"
+
+#~ msgid "Keywords"
+#~ msgstr "Cuvinte cheie"
+
+#~ msgid "Promotion"
+#~ msgstr "Promotie"
+
+#~ msgid "Display type"
+#~ msgstr "Tip afisare"
+
+#~ msgid ""
+#~ "This can be used to have different types of HTML blocks (eg different "
+#~ "widths)"
+#~ msgstr ""
+#~ "Poate fi configurat astfel incat sa contina diverse tipuri de bloc de "
+#~ "continut HTML (ex diverse latimi)"
+
+#~ msgid "Raw HTML"
+#~ msgstr "HTML pur"
+
+#~ msgid "Link URL"
+#~ msgstr "Link URL"
+
+#~ msgid "This is where this promotion links to"
+#~ msgstr "Promotia directioneaza catre aceasta locatie"
+
+#~ msgid ""
+#~ "Choose the Image content blocks that this block will use. (You may need "
+#~ "to create some first)."
+#~ msgstr ""
+#~ "Alege blocurile de continut Imagine pe care le va folosi acest bloc. "
+#~ "(Este posibil sa fie nevoie sa le creezi inainte)."
+
+#~ msgid "Multi Image"
+#~ msgstr "Imagine Multipla"
+
+#~ msgid "Multi Images"
+#~ msgstr "Imagini Multiple"
+
+#~ msgid "Link text"
+#~ msgstr "Text link"
+
+#~ msgid "Hand Picked Product List"
+#~ msgstr "Lista Produse Alese Manual"
+
+#~ msgid "Hand Picked Product Lists"
+#~ msgstr "Liste Produse Alese Manual"
+
+#~ msgid "List"
+#~ msgstr "Lista"
+
+#~ msgid "Bestselling products"
+#~ msgstr "Cele mai vandute produse"
+
+#~ msgid "Recently added products"
+#~ msgstr "Cele mai recente produse"
+
+#~ msgid "Method"
+#~ msgstr "Metoda"
+
+#~ msgid "Number of Products"
+#~ msgstr "Numar Produse"
+
+#~ msgid "Tabbed Block"
+#~ msgstr "Bloc cu file"
+
+#~ msgid "Ordered Product List"
+#~ msgstr "Lista Produse Ordonate"
+
+#~ msgid "Ordered Product Lists"
+#~ msgstr "Liste Produse Ordonate"
+
+#~ msgid "Tabbed Blocks"
+#~ msgstr "Blocuri cu file"
+
+#~ msgid "Search"
+#~ msgstr "Cautare"
+
+#~ msgid "Relevancy"
+#~ msgstr "Relevanta"
+
+#~ msgid "Newest"
+#~ msgstr "Cele mai noi"
+
+#~ msgid "Title A to Z"
+#~ msgstr "Titlu de la A la Z"
+
+#~ msgid "Title Z to A"
+#~ msgstr "Titlu de la Z la A"
+
+#~ msgid "Shipping Method"
+#~ msgstr "Metoda Livrare"
+
+#~ msgid "Shipping Methods"
+#~ msgstr "Metode Livrare"
+
+#~ msgid "Price per order"
+#~ msgstr "Pret per comanda"
+
+#~ msgid "Price per item"
+#~ msgstr "Pret per bucata"
+
+#~ msgid "Free Shipping"
+#~ msgstr "Livrare Gratuita"
+
+#~ msgid "Order and Item Charge"
+#~ msgstr "Cost Comanda si Produs"
+
+#~ msgid "Order and Item Charges"
+#~ msgstr "Costuri Comanda si Produs"
+
+#~ msgid "Default Weight"
+#~ msgstr "Greutate Implicita"
+
+#~ msgid "Weight-based Shipping Method"
+#~ msgstr "Metoda Livrare pe baza de Greutate"
+
+#~ msgid "Weight-based Shipping Methods"
+#~ msgstr "Metode Livrare pe baza de Greutate"
+
+#~ msgid "Upper Limit"
+#~ msgstr "Limita Superioara"
+
+#~ msgid ""
+#~ "Enter upper limit of this weight band in kg. The lower limit will be "
+#~ "determined by the other weight bands."
+#~ msgstr ""
+#~ "Introdu limita superioara pentru acest interval de greutati in kg. Limita "
+#~ "inferioara va fi determinata in functie de celelalte intervale de "
+#~ "greutati."
+
+#~ msgid "Charge"
+#~ msgstr "Cost"
+
+#~ msgid "Weight Band"
+#~ msgstr "Clasa Greutate"
+
+#~ msgid "Weight Bands"
+#~ msgstr "Clase Greutate"
+
+#~ msgid "Charge for weights up to %s kg"
+#~ msgstr "Taxa pentru greutate pana la %s kg"
+
+#~ msgid "Shipping"
+#~ msgstr "Transport"
+
+#~ msgid "Free shipping"
+#~ msgstr "Livrare gratuita"
+
+#~ msgid "No shipping required"
+#~ msgstr "Nu necesita transport"
+
+#~ msgid "Fixed price shipping"
+#~ msgstr "Transport pret fix"
+
+#~ msgid "You need to define some shipping methods"
+#~ msgstr "Trebuie sa definesti metode de transport"
+
+#~ msgid ""
+#~ "This will be shown in the checkout and basket once the voucher is entered"
+#~ msgstr "Va fi afisat in cos si la casa odata ce este introdus voucherul"
+
+#~ msgid "Case insensitive / No spaces allowed"
+#~ msgstr "Case insensitive / Spatiile sunt nepermise"
+
+#~ msgid "Can be used once by one customer"
+#~ msgstr "Poate fi folosit o singura data de un singur client"
+
+#~ msgid "Can be used multiple times by multiple customers"
+#~ msgstr "Poate fi folosit de mai multe ori de mai multi clienti"
+
+#~ msgid "Can only be used once per customer"
+#~ msgstr "Poate fi folosit o singura data de fiecare client"
+
+#~ msgid "Times added to basket"
+#~ msgstr "Adaugari la cos"
+
+#~ msgid "Times on orders"
+#~ msgstr "Utilizari la comenzi"
+
+#~ msgid "Voucher"
+#~ msgstr "Voucher"
+
+#~ msgid "This voucher has already been used"
+#~ msgstr "Acest voucher a fost deja folosit"
+
+#~ msgid "This voucher is only available to signed in users"
+#~ msgstr "Acest voucher este disponibil doar utilizatorilor autentificati"
+
+#~ msgid "You have already used this voucher in a previous order"
+#~ msgstr "Ai folosit deja acest voucher intr-o comanda anterioara"
+
+#~ msgid "Voucher Application"
+#~ msgstr "Aplicare Voucher"
+
+#~ msgid "Voucher Applications"
+#~ msgstr "Aplicari Voucher"
+
+#~ msgid "'%(voucher)s' used by '%(user)s'"
+#~ msgstr "'%(voucher)s' folosit de '%(user)s'"
+
+#~ msgid "Added to a basket"
+#~ msgstr "Adaugat la un cos"
+
+#~ msgid "Used in an order"
+#~ msgstr "Folosit intr-o comanda"
+
+#~ msgid "Voucher performance"
+#~ msgstr "Performanta voucher"
+
+#~ msgid "Default"
+#~ msgstr "Implicit"
+
+#~ msgid "Private - Only the owner can see the wish list"
+#~ msgstr "Privat - Doar detinatorul poate vedea lista de cumparaturi"
+
+#~ msgid ""
+#~ "Shared - Only the owner and people with access to the obfuscated link can "
+#~ "see the wish list"
+#~ msgstr ""
+#~ "Shared - Doar detinatorul si persoanele cu acces la link pot sa vada "
+#~ "lista de cumparaturi"
+
+#~ msgid "Public - Everybody can see the wish list"
+#~ msgstr "Public - Oricine poate vedea lista de cumparaturi"
+
+#~ msgid "Visibility"
+#~ msgstr "Vizibilitate"
+
+#~ msgid "Wish List"
+#~ msgstr "Lista de Cumparaturi"
+
+#~ msgid "Wish list line"
+#~ msgstr "Linie lista de cumparaturi"
+
+#~ msgid "The URL \"%s\" does not exist"
+#~ msgstr "URL-ul \"%s\" nu exista"
+
+#~ msgid "Specified page already exists!"
+#~ msgstr "Pagina specificata exista deja!"
+
+#~ msgid "This field is required"
+#~ msgstr "Acest camp este obligatoriu"
+
+#~ msgid "This is not a valid international phone format."
+#~ msgstr "Acesta nu este un format international de numar de telefon valid."
+
+#~ msgid "This is not a valid local phone format for %s."
+#~ msgstr "Acesta nu este un format local valid de numar de telefon pentru %s."
+
+#~ msgid "This is not a valid local or international phone format."
+#~ msgstr ""
+#~ "Acesta nu e un format local sau international valid de numar de telefon."
+
+#~ msgid "Check for products that are back in stock and send out alerts"
+#~ msgstr "Urmareste produsele care revin in stoc si trimite alerte"
+
+#~ msgid "Permission denied!"
+#~ msgstr "Permisiune refuzata!"
+
+#~ msgid "We're sorry but you are not permitted to access this page."
+#~ msgstr "Ne pare rau dar nu ai permisiunea de a accesa aceasta pagina."
+
+#~ msgid "Page not found"
+#~ msgstr "Pagina nu a fost gasita"
+
+#~ msgid "Page not found!"
+#~ msgstr "Pagina nu a fost gasita!"
+
+#~ msgid "We're sorry but the page you are looking for can't be found."
+#~ msgstr "Ne pare rau dar pagina pe care o cauti nu poate fi gasita."
+
+#~ msgid "Server error!"
+#~ msgstr "Eroare de server!"
+
+#~ msgid ""
+#~ "This incident has been logged and will be addressed by an engineer as "
+#~ "soon as possible."
+#~ msgstr ""
+#~ "Acest incident a fost inregistrat si va fi adresat de catre un specialist "
+#~ "in cel mai scurt timp."
+
+#~ msgid "Home"
+#~ msgstr "Acasa"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(title)s</strong> has been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    <strong>%(title)s</strong> a fost adaugat in cos.\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(quantity)s</strong> copies of <strong>%(title)s</strong>\n"
+#~ "    have been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(quantity)s</strong> copii ale <strong>%(title)s</strong>\n"
+#~ "au fost adaugate la cosul tau."
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been moved back to your basket.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> a fost mutat inapoi in cos.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been saved for later\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> a fost salvat pentru mai tarziu\n"
+
+#~ msgid "Your basket is now empty"
+#~ msgstr "Cosul tau este gol acum"
+
+#~ msgid "View basket"
+#~ msgstr "Inspecteaza cos"
+
+#~ msgid "Checkout now"
+#~ msgstr "Plateste acum"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket now qualifies for the \n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Cosul tau se califica acum pentru oferta \n"
+#~ "<strong>%(name)s</strong>.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket no longer qualifies for the\n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Cosul tau nu se mai califica pentru oferta <strong>%(name)s</strong>.\n"
+
+#~ msgid "Important messages about items in your basket"
+#~ msgstr "Mesaje importate cu privire la produsele din cosul tau"
+
+#~ msgid "You could be missing out on offers!"
+#~ msgstr "Ai putea beneficia de una din ofertele noastre!"
+
+#~ msgid ""
+#~ "\n"
+#~ "                <div class=\"warning\">%(message)s to qualify for the <a "
+#~ "href=\"%(url)s\">%(offer_name)s</a> special offer</div>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                <div class=\"warning\">%(message)s pentru a beneficia de "
+#~ "oferta speciala <a href=\"%(url)s\">%(offer_name)s</a></div>\n"
+#~ "            "
+
+#~ msgid "Items to buy now"
+#~ msgstr "Produse adaugate la comanda"
+
+#~ msgid "Price"
+#~ msgstr "Pret"
+
+#~ msgid "Total"
+#~ msgstr "Total"
+
+#~ msgid "Update"
+#~ msgstr "Modifica"
+
+#~ msgid "Remove"
+#~ msgstr "Elimina"
+
+#~ msgid "Save for later"
+#~ msgstr "Salveaza pentru altadata"
+
+#~ msgid "Voucher/promo code"
+#~ msgstr "Voucher/Cod promo"
+
+#~ msgid "I have a voucher code..."
+#~ msgstr "Am un voucher..."
+
+#~ msgid "Add voucher"
+#~ msgstr "Adauga voucher"
+
+#~ msgid "or"
+#~ msgstr "sau"
+
+#~ msgid "cancel"
+#~ msgstr "renunta"
+
+#~ msgid "Totals"
+#~ msgstr "Sumar comanda"
+
+#~ msgid "Proceed to checkout"
+#~ msgstr "Plateste"
+
+#~ msgid "Your basket is empty."
+#~ msgstr "Cosul tau este gol."
+
+#~ msgid "Continue shopping"
+#~ msgstr "Continua cumparaturile"
+
+#~ msgid "Items"
+#~ msgstr "Produse"
+
+#~ msgid "Move to basket"
+#~ msgstr "Muta in cos"
+
+#~ msgid "Qty"
+#~ msgstr "Cant"
+
+#~ msgid "Total:"
+#~ msgstr "Total:"
+
+#~ msgid "Basket total (before discounts)"
+#~ msgstr "Total cos (fara discount-uri)"
+
+#~ msgid "Discount"
+#~ msgstr "Discount"
+
+#~ msgid "Basket total (after discounts)"
+#~ msgstr "Total cos (cu discount-uri)"
+
+#~ msgid "Basket total"
+#~ msgstr "Total in cos"
+
+#~ msgid "Alternative shipping methods can be chosen during checkout"
+#~ msgstr ""
+#~ "Metode alternative de transport pot fi alese la finalizarea comenzii"
+
+#~ msgid "Shipping total (before discounts)"
+#~ msgstr "Total transport (fara discount)"
+
+#~ msgid "Shipping total (after discounts)"
+#~ msgstr "Total transport (cu discount)"
+
+#~ msgid "Tax"
+#~ msgstr "Taxe"
+
+#~ msgid "Post order actions"
+#~ msgstr "Actiuni post comanda"
+
+#~ msgid "These will be applied once your order is placed."
+#~ msgstr "Acestea vor fi aplicate odata ce comanda ta este plasata."
+
+#~ msgid "Taxes will be added during checkout."
+#~ msgstr "Taxele vor fi adaugate in timpul procesului de plata."
+
+#~ msgid "No products found."
+#~ msgstr "Nu a fost gasit nici un produs."
+
+#~ msgid "Edit this product"
+#~ msgstr "Modifica acest produs"
+
+#~ msgid "Product Description"
+#~ msgstr "Descrierea Produsului"
+
+#~ msgid "Product Information"
+#~ msgstr "Detaliile Produsului"
+
+#~ msgid "Product Type"
+#~ msgstr "Tip Produs"
+
+#~ msgid "Price (incl. tax)"
+#~ msgstr "Pret (incl. taxe)"
+
+#~ msgid "Availability"
+#~ msgstr "Disponibilitate"
+
+#~ msgid "Number of reviews"
+#~ msgstr "Numar de recenzii"
+
+#~ msgid "See all reviews"
+#~ msgstr "Citeste toate recenziile"
+
+#~ msgid "Customer Reviews"
+#~ msgstr "Parerile Clientilor"
+
+#~ msgid ""
+#~ "This product does not have any reviews yet -\n"
+#~ "                            <a href=\"%(add_review_url)s#addreview\">be "
+#~ "the first to write one</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "Acest produs nu are nici o recenzie pana acum -\n"
+#~ "<a href=\"%(add_review_url)s#addreview\">fii primul care scrie una</a>."
+
+#~ msgid "This product does not have any reviews yet"
+#~ msgstr "Nimeni nu si-a exprimat inca parerea despre acest produs"
+
+#~ msgid "Recommended items"
+#~ msgstr "Produse recomandate"
+
+#~ msgid "Add to basket"
+#~ msgstr "Adauga in cos"
+
+#~ msgid "You have an active stock alert for this product."
+#~ msgstr "Ai o alerta de stoc activa pentru acest produs."
+
+#~ msgid "You can get an email alert when this product is back in stock."
+#~ msgstr "Poti primi o alerta pe email cand acest produs revine in stoc."
+
+#~ msgid "Notify me"
+#~ msgstr "Notifica-ma"
+
+#~ msgid "Add to wish list"
+#~ msgstr "Adauga la lista de cumparaturi"
+
+#~ msgid "Create a new wishlist"
+#~ msgstr "Creaza o noua lista de cumparaturi"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <span class=\"pull-left\">Product is in <a href="
+#~ "\"%(url)s\">'%(name)s'</a> wishlist.</span>\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    <span class=\"pull-left\">Produsul este in lista de "
+#~ "cumparaturi <a href=\"%(url)s\">'%(name)s'</a>.</span>\n"
+#~ "                "
+
+#~ msgid "Please login to add products to a wish list."
+#~ msgstr ""
+#~ "Te rugam sa te autentifici pentru a putea adauga produse la o lista de "
+#~ "cumparaturi"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Reviewed by you on %(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Recenzie adaugata de tine la %(review_date)s"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Reviewed by <strong>%(name)s</strong> on "
+#~ "%(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Recenzie adaugata de <strong>%(name)s</strong> la %(review_date)s"
+
+#~ msgid "Is this review helpful?"
+#~ msgstr "Ti se pare utila aceasta recenzie?"
+
+#~ msgid "Yes"
+#~ msgstr "Da"
+
+#~ msgid "No"
+#~ msgstr "Nu"
+
+#~ msgid "This review has no votes."
+#~ msgstr "Aceasta recenzie nu are voturi."
+
+#~ msgid "Write a review"
+#~ msgstr "Spune-ti parerea"
+
+#~ msgid "Customer reviews"
+#~ msgstr "Recenzii clienti"
+
+#~ msgid "Leave a product review"
+#~ msgstr "Lasa o recenzie de produs"
+
+#~ msgid "This product does not have any reviews yet."
+#~ msgstr "Acest produs nu are inca recenzii."
+
+#~ msgid "Contact"
+#~ msgstr "Contact"
+
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgid "Payment details to go here"
+#~ msgstr "Alte detalii referitoare la plata"
+
+#~ msgid "Edit order contents"
+#~ msgstr "Modifica comanda"
+
+#~ msgid "Order contents"
+#~ msgstr "Continutul comenzii"
+
+#~ msgid "Checkout gateway"
+#~ msgstr "Gateway plata"
+
+#~ msgid "Who are you?"
+#~ msgstr "Spune-ne cine esti?"
+
+#~ msgid "Get a password reminder"
+#~ msgstr "Reaminteste-mi parola"
+
+#~ msgid "Continue"
+#~ msgstr "Continua"
+
+#~ msgid "1. Shipping address"
+#~ msgstr "1. Adresa de livrare"
+
+#~ msgid "2. Shipping method"
+#~ msgstr "2. Metoda de livrare"
+
+#~ msgid "3. Payment"
+#~ msgstr "3. Plata"
+
+#~ msgid "Payment details"
+#~ msgstr "Detalii plata"
+
+#~ msgid "Enter payment details"
+#~ msgstr "Specifica modalitatea de plata"
+
+#~ msgid "Order preview"
+#~ msgstr "Previzualizare comanda"
+
+#~ msgid "Preview order"
+#~ msgstr "Verifica comanda"
+
+#~ msgid "Place order"
+#~ msgstr "Plaseaza comanda"
+
+#~ msgid "Where should we ship to?"
+#~ msgstr "Unde sa livram comanda?"
+
+#~ msgid "Ship to your default shipping address"
+#~ msgstr "Livreaza la adresa de livrare implicita"
+
+#~ msgid "Ship to this address"
+#~ msgstr "Livreaza la aceasta adresa"
+
+#~ msgid "Delete"
+#~ msgstr "Sterge"
+
+#~ msgid "Or a new address?"
+#~ msgstr "Sau o adresa noua?"
+
+#~ msgid "return to basket"
+#~ msgstr "intoarce-te la cosul de cumparaturi"
+
+#~ msgid "Select option"
+#~ msgstr "Selecteaza optiunea"
+
+#~ msgid ""
+#~ "Please make a note of this reference or print this page and quote it in "
+#~ "any communication with us regarding your order."
+#~ msgstr ""
+#~ "Te rugam sa notezi numarul comenzii sau sa tiparesti aceasta pagina si sa "
+#~ "il mentionezi atunci cand vrei sa comunici cu noi referitor la aceasta "
+#~ "comanda."
+
+#~ msgid "No shipping address required."
+#~ msgstr "Adresa de livrare nu e necesara."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s (reference: %(reference)s)\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "Alocare a %(amount)s din tipul %(type)s (referinta: %(reference)s)"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "Alocare a %(amount)s din tipul %(type)s"
+
+#~ msgid "No payment was required for this order."
+#~ msgstr "Pentru aceasta comanda nu a fost ceruta nici o plata."
+
+#~ msgid "Items purchased"
+#~ msgstr "Produse achizitionate"
+
+#~ msgid "Shipping charge (before discounts)"
+#~ msgstr "Taxa de transport (fara discount)"
+
+#~ msgid "Shipping charge (after discounts)"
+#~ msgstr "Taxa de transport (cu discount)"
+
+#~ msgid "Shipping charge"
+#~ msgstr "Taxa de transport"
+
+#~ msgid "Order tax"
+#~ msgstr "Taxe aferente comenzii"
+
+#~ msgid "Tracking your order"
+#~ msgstr "Cum sa urmaresti comanda"
+
+#~ msgid "You can track the status of your order"
+#~ msgstr "Poti urmari starea comenzii tale"
+
+#~ msgid "Print this page"
+#~ msgstr "Tipareste aceasta pagina"
+
+#~ msgid "Are you sure you want to delete this address?"
+#~ msgstr "Esti sigur ca vrei sa stergi aceasta adresa?"
+
+#~ msgid "Yes!"
+#~ msgstr "Da!"
+
+#~ msgid "Save"
+#~ msgstr "Salveaza"
+
+#~ msgid "Address book"
+#~ msgstr "Lista adrese"
+
+#~ msgid "Default shipping address"
+#~ msgstr "Adresa de livrare implicita"
+
+#~ msgid "Default billing address"
+#~ msgstr "Adresa de facturare implicita"
+
+#~ msgid "Edit"
+#~ msgstr "Modifica"
+
+#~ msgid "Set as default shipping address"
+#~ msgstr "Selecteaza ca adresa de livrare implicita"
+
+#~ msgid "Set as default billing address"
+#~ msgstr "Selecteaza ca adresa de facturare implicita"
+
+#~ msgid "There are no addresses in your address book."
+#~ msgstr "Nu exista adrese in lista."
+
+#~ msgid "You do not have any active alerts for out-of-stock products."
+#~ msgstr "Nu ai nici o alerta activa pentru produsele care nu sunt pe stoc."
+
+#~ msgid "Cancel"
+#~ msgstr "Renunta"
+
+#~ msgid ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> is back in stock\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> a revenit pe stoc\n"
+
+#~ msgid "Order #%(number)s"
+#~ msgstr "Comanda #%(number)s"
+
+#~ msgid "Contact number"
+#~ msgstr "Numar contact"
+
+#~ msgid "Notes"
+#~ msgstr "Note"
+
+#~ msgid "Estimated dispatch date"
+#~ msgstr "Data estimata de livrare"
+
+#~ msgid "Line price excl. tax"
+#~ msgstr "Pret linie excl. taxe"
+
+#~ msgid "Line price incl. tax"
+#~ msgstr "Pret linie incl. taxe"
+
+#~ msgid "Basket total (inc. tax)"
+#~ msgstr "Total cos (incl. taxe)"
+
+#~ msgid "Email history"
+#~ msgstr "Istoric email"
+
+#~ msgid "Date sent"
+#~ msgstr "Data trimiterii"
+
+#~ msgid "No emails found"
+#~ msgstr "Nu am gasit nici un email"
+
+#~ msgid "Thanks for using our site!"
+#~ msgstr "Multumim ca ai utilizat site-ul nostru!"
+
+#~ msgid "The %(name)s team"
+#~ msgstr "Echipa %(name)s"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately "
+#~ "and correct your email address:"
+#~ msgstr ""
+#~ "Daca nu ti-ai schimbat parola, te rugam sa iti resetezi parola imediat si "
+#~ "sa iti corectezi adresa de email: "
+
+#~ msgid ""
+#~ "If it was you who changed the email address, you can ignore this email."
+#~ msgstr "Daca ai modificat adresa de email, te rugam sa ignori acest email."
+
+#~ msgid ""
+#~ "You're receiving this email because your email address has been changed "
+#~ "to %(email)s."
+#~ msgstr ""
+#~ "Primesti acest email deoarece adresa ta de email a fost schimbata in "
+#~ "%(email)s."
+
+#~ msgid "Your email address has changed at %(site_name)s."
+#~ msgstr "Adresa ta de email a fost schimbata pe %(site_name)s"
+
+#~ msgid "Hello,"
+#~ msgstr "Buna ziua,"
+
+#~ msgid "Your order contains:"
+#~ msgstr "Comanda ta contine:"
+
+#~ msgid "Basket total:"
+#~ msgstr "Total in cos:"
+
+#~ msgid "Shipping:"
+#~ msgstr "Transport:"
+
+#~ msgid "Order Total:"
+#~ msgstr "Total comanda:"
+
+#~ msgid "Shipping address:"
+#~ msgstr "Adresa de livrare:"
+
+#~ msgid ""
+#~ "You can view the status of this order by clicking <a href=\"%(status_url)s"
+#~ "\" title=\"order status\">here</a>"
+#~ msgstr ""
+#~ "Poti vedea starea acestei comenzi <a href=\"%(status_url)s\" title="
+#~ "\"order status\">aici</a>"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "We are pleased to confirm your order %(order_number)s has been received "
+#~ "and\n"
+#~ "will be processed shortly."
+#~ msgstr ""
+#~ "Buna ziua,\n"
+#~ "\n"
+#~ "Comanda cu numarul %(order_number)s a fost primita si \n"
+#~ "va fi procesata in curand."
+
+#~ msgid "quantity:"
+#~ msgstr "cantitate:"
+
+#~ msgid "price:"
+#~ msgstr "pret:"
+
+#~ msgid ""
+#~ "You can view the status of this order at the below URL:\n"
+#~ "%(status_url)s"
+#~ msgstr ""
+#~ "Poti vedea starea acestei comenzi la linkul:\n"
+#~ "%(status_url)s"
+
+#~ msgid "The team"
+#~ msgstr "Echipa"
+
+#~ msgid "Confirmation of order %(number)s"
+#~ msgstr "Confirmarea comenzii %(number)s"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately:"
+#~ msgstr ""
+#~ "Daca nu ai cerut aceasta modificare, te rugam sa iti resetezi parola "
+#~ "imediat:"
+
+#~ msgid "Otherwise, you can ignore this email."
+#~ msgstr "Altfel, poti ignora acest email."
+
+#~ msgid ""
+#~ "\n"
+#~ "You're receiving this email because your password has been changed at "
+#~ "%(name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Primesti acest email deoarce parola ta a fost schimbata pe %(name)s.\n"
+
+#~ msgid "Your password changed at %(site_name)s."
+#~ msgstr "Parola ta a fost schimbata pe %(site_name)s."
+
+#~ msgid ""
+#~ "You're receiving this e-mail because you requested a password reset for "
+#~ "your user account at %(name)s."
+#~ msgstr ""
+#~ "Primesti acest email deoarece ai solicitat resetarea parolei pentru "
+#~ "contul tau pe %(name)s"
+
+#~ msgid "Please go to the following page and choose a new password:"
+#~ msgstr "Te rugam sa mergi la urmatoarea pagina si sa alegi o noua parola:"
+
+#~ msgid "Resetting your password at %(site_name)s."
+#~ msgstr "Parola ta la %(site_name)s se reseteaza."
+
+#~ msgid "Dear %(name)s,"
+#~ msgstr "Draga %(name)s,"
+
+#~ msgid ""
+#~ "\n"
+#~ "Beware that the amount of items in stock is limited. Be quick or someone "
+#~ "might get there first.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Te rugam sa iei in calcul ca numarul de bucati aflate in stoc este "
+#~ "limitat. Grabeste-te sau pot fi comandate de altcineva.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "With this email we have disabled your alert automatically and you will "
+#~ "not\n"
+#~ "receive any further email regarding this product.\n"
+#~ "\n"
+#~ "Thanks for your interest,\n"
+#~ "The %(site_name)s Team\n"
+#~ msgstr ""
+#~ "\n"
+#~ "In urma acestui email alerta ta a fost dezactivata automat si nu vei mai "
+#~ "primi\n"
+#~ "notificari cu privire la acest produs.\n"
+#~ "\n"
+#~ "Multumim pentru interes,\n"
+#~ "Echipa %(site_name)s\n"
+
+#~ msgid "Confirmation required for stock alert"
+#~ msgstr "E necesara confirmarea pentru alerta de stoc"
+
+#~ msgid "Thank you for registering."
+#~ msgstr "Iti multumim pentru inregistrare."
+
+#~ msgid "Products you recently viewed"
+#~ msgstr "Produse vizualizate recent"
+
+#~ msgid "Log In"
+#~ msgstr "Intra in cont"
+
+#~ msgid "I've forgotten my password"
+#~ msgstr "Mi-am uitat parola"
+
+#~ msgid "Logging in..."
+#~ msgstr "In curs de autentificare..."
+
+#~ msgid "Register"
+#~ msgstr "Inregistreaza-te"
+
+#~ msgid "Registering..."
+#~ msgstr "In curs de inregistrare..."
+
+#~ msgid "Notifications inbox"
+#~ msgstr "Inbox notificari"
+
+#~ msgid "Sender"
+#~ msgstr "Expeditor"
+
+#~ msgid "Return to notifications inbox"
+#~ msgstr "Inapoi la inbox notificari"
+
+#~ msgctxt "noun"
+#~ msgid "Archive"
+#~ msgstr "Arhiva"
+
+#~ msgid "View"
+#~ msgstr "Vizualizeaza"
+
+#~ msgctxt "verb"
+#~ msgid "Archive"
+#~ msgstr "Arhiveaza"
+
+#~ msgid "With selected items:"
+#~ msgstr "Cu produsele selectate:"
+
+#~ msgid "There are no notifications to display."
+#~ msgstr "Nu exista notificari."
+
+#~ msgid "Order history"
+#~ msgstr "Istoric comenzi"
+
+#~ msgid "Dispatch date"
+#~ msgstr "Data expedierii"
+
+#~ msgid "Re-order"
+#~ msgstr "Comanda din nou"
+
+#~ msgid "Not available anymore"
+#~ msgstr "Nu mai este disponibil"
+
+#~ msgid "Basket total (excl. discounts)"
+#~ msgstr "Total cos (excl. discount-uri)"
+
+#~ msgid "Basket total (inc. discounts)"
+#~ msgstr "Total cos (incl. discount-uri)"
+
+#~ msgid "Shipping total (excl. discounts)"
+#~ msgstr "Total transport (excl. discount-uri)"
+
+#~ msgid "Shipping total (inc. discounts)"
+#~ msgstr "Total transport (incl. discount-uri)"
+
+#~ msgid "Shipping total"
+#~ msgstr "Total transport"
+
+#~ msgid "Re-order all items"
+#~ msgstr "Re-comanda toate produsele"
+
+#~ msgid "Filter results"
+#~ msgstr "Filtreaza rezultatele"
+
+#~ msgid "Reset"
+#~ msgstr "Reseteaza"
+
+#~ msgid "Total inc tax"
+#~ msgstr "Total incl taxe"
+
+#~ msgid "You haven't placed any orders."
+#~ msgstr "Nu ai plasat nici o comanda"
+
+#~ msgid "Change password"
+#~ msgstr "Schimba parola"
+
+#~ msgid "Edit profile"
+#~ msgstr "Modifica profilul"
+
+#~ msgid "Please confirm your password to delete your profile."
+#~ msgstr "Te rugam sa iti confirmi parola pentru a iti putea sterge profilul."
+
+#~ msgid "Warning"
+#~ msgstr "Atentie"
+
+#~ msgid ""
+#~ "\n"
+#~ "                This will delete all information about you from the "
+#~ "site.  Deleting your profile cannot be\n"
+#~ "                undone.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Toata informatia referitoare la tine va fi stearsa de pe site. Odata "
+#~ "sters, profilul tau nu va mai putea fi recuperat."
+
+#~ msgid "Delete?"
+#~ msgstr "Sterge?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                Esti sigur ca vrei sa stergi %(name)s?\n"
+#~ "            "
+
+#~ msgid "Remove product"
+#~ msgstr "Elimina produs"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(product_name)s from "
+#~ "wish list %(wishlist_name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                Esti sigur ca vrei sa stergi %(product_name)s din lista "
+#~ "de cumparaturi %(wishlist_name)s?\n"
+#~ "            "
+
+#~ msgid "Action"
+#~ msgstr "Actiune"
+
+#~ msgid "View product"
+#~ msgstr "Vizualizeaza produs"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                            Move to "
+#~ "'%(name)s' wish list\n"
+#~ "                                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "                                                            Muta in lista "
+#~ "de cumparaturi '%(name)s'\n"
+#~ "                                                        "
+
+#~ msgid "Update quantities"
+#~ msgstr "Modifica cantitatile"
+
+#~ msgid "Your wish list is empty."
+#~ msgstr "Lista de cumparaturi este goala."
+
+#~ msgid "Create"
+#~ msgstr "Creaza"
+
+#~ msgid "What should your new wish list be called?"
+#~ msgstr "Cum vrei sa se numeasca aceasta lista noua de cumparaturi?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    After your wishlist is created, <strong>%(title)s</"
+#~ "strong> will be added.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Dupa ce lista de cumparaturi este creata, <strong>"
+#~ "%(title)s</strong> va fi adaugat.\n"
+#~ "                "
+
+#~ msgid "Number of products"
+#~ msgstr "Numar Produse"
+
+#~ msgid "Wish list settings"
+#~ msgstr "Configurare lista de cumparaturi"
+
+#~ msgid "You don't have any wish lists yet."
+#~ msgstr "Nu ai nici o lista de cumparaturi."
+
+#~ msgid "Sections"
+#~ msgstr "Sectiuni"
+
+#~ msgid "Delete category?"
+#~ msgstr "Sterge categoria?"
+
+#~ msgid "Delete category"
+#~ msgstr "Sterge categorie"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <p>Delete category <strong>%(name)s</strong> - are you sure?</"
+#~ "p>\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "            <p>Sterge categoria <strong>%(name)s</strong> - esti sigur?</"
+#~ "p>\n"
+#~ "        "
+
+#~ msgid "Create new category"
+#~ msgstr "Creaza categorie noua"
+
+#~ msgid "You are editing:"
+#~ msgstr "In curs de modificare: "
+
+#~ msgid "There are no categories."
+#~ msgstr "Nu exista categorii."
+
+#~ msgid "Edit category"
+#~ msgstr "Modifica categorie"
+
+#~ msgid "Add child category"
+#~ msgstr "Adauga subcategorie"
+
+#~ msgid "Edit children"
+#~ msgstr "Modifica subcategorii"
+
+#~ msgid "View on site"
+#~ msgstr "Vizualizeaza pe site"
+
+#~ msgid "Edit again"
+#~ msgstr "Modifica din nou"
+
+#~ msgid "View it on the site"
+#~ msgstr "Vizualizeaza pe site"
+
+#~ msgid "Delete product type?"
+#~ msgstr "Sterge tipul de produs?"
+
+#~ msgid ""
+#~ "Please make sure all products are assigned to another type before "
+#~ "deletion."
+#~ msgstr ""
+#~ "Te rugam sa te asiguri ca toate produsele sunt asociate altui tip inainte "
+#~ "de stergere."
+
+#~ msgid "Delete product type"
+#~ msgstr "Sterge tipul de produs"
+
+#~ msgid "Delete product type <strong>%(name)s</strong> - are you sure?"
+#~ msgstr "Sterge tipul de produs <strong>%(name)s</strong> - esti sigur?"
+
+#~ msgid "Create product type"
+#~ msgstr "Creaza tip de produs"
+
+#~ msgid "Create new product type"
+#~ msgstr "Creaza tip de produs nou"
+
+#~ msgid "Product types"
+#~ msgstr "Tipuri de produs"
+
+#~ msgid "Requires shipping"
+#~ msgstr "Necesita transport"
+
+#~ msgid "Track stock?"
+#~ msgstr "Monitorizeaza stoc?"
+
+#~ msgid "Edit product type"
+#~ msgstr "Modifica tipul de produs"
+
+#~ msgid "There are no product types."
+#~ msgstr "Nu exista tipuri de produs."
+
+#~ msgid "Create new product"
+#~ msgstr "Creaza produs nou"
+
+#~ msgid "New Product"
+#~ msgstr "Produs Nou"
+
+#~ msgid "Search Products"
+#~ msgstr "Cauta Produse"
+
+#~ msgid "Product details"
+#~ msgstr "Detalii produs"
+
+#~ msgid "Product Type:"
+#~ msgstr "Tip produs:"
+
+#~ msgid "Upload, change or remove images"
+#~ msgstr "Incarca, schimba sau elimina imagini"
+
+#~ msgid "SKU"
+#~ msgstr "SKU"
+
+#~ msgid "Num in stock"
+#~ msgstr "Num in stoc"
+
+#~ msgid "Num allocated"
+#~ msgstr "Num alocate"
+
+#~ msgid "Low stock threshold"
+#~ msgstr "Limita stoc redus"
+
+#~ msgid "Cost price"
+#~ msgstr "Pret achizitie"
+
+#~ msgid "Price (excl tax)"
+#~ msgstr "Pret (excl taxe)"
+
+#~ msgid "Retail price"
+#~ msgstr "Pret retail"
+
+#~ msgid "Save and continue editing"
+#~ msgstr "Salveaza si continua sa modifici"
+
+#~ msgid "All"
+#~ msgstr "Toate"
+
+#~ msgid "Current available stock"
+#~ msgstr "Stoc disponibil"
+
+#~ msgid "Date alert raised"
+#~ msgstr "Data pornirii alertei"
+
+#~ msgid "No stock alerts found."
+#~ msgstr "Nu au fost gasite alerte de stoc."
+
+#~ msgid "Preview"
+#~ msgstr "Previzualizre"
+
+#~ msgid "Edit email"
+#~ msgstr "Modifica email"
+
+#~ msgid "Email content"
+#~ msgstr "Continut email"
+
+#~ msgid "These fields are rendered using Django's template system."
+#~ msgstr ""
+#~ "Aceste campuri sunt afisate folosind sistemul de template-uri al Django"
+
+#~ msgid "You can use the following variables:"
+#~ msgstr "Poti folosi urmatoarele variabile:"
+
+#~ msgid "The full name of the user (if they have one)"
+#~ msgstr "Numele complet al utilizatorului (daca au unul)"
+
+#~ msgid "The user's email address"
+#~ msgstr "Adresa de email a utilizatorului"
+
+#~ msgid "The name of the site (eg example.com)"
+#~ msgstr "Numele site-ului (ex example.com)"
+
+#~ msgid "View a preview of this email using order:"
+#~ msgstr "Previzualizeaza acest email utilizand comanda:"
+
+#~ msgid "View preview"
+#~ msgstr "Previzualizeaza"
+
+#~ msgid "or send a preview to:"
+#~ msgstr "sau trimite previzualizarea la:"
+
+#~ msgid "Send preview email"
+#~ msgstr "Trimite email previzualizare"
+
+#~ msgid "Body text"
+#~ msgstr "Continut text"
+
+#~ msgid "There are no defined emails to edit."
+#~ msgstr "Nu exista emailuri definite pentru modificare."
+
+#~ msgid "Your Store Statistics"
+#~ msgstr "Statisticile Magazinului Tau"
+
+#~ msgid "Total Orders"
+#~ msgstr "Total Comenzi"
+
+#~ msgid "New Customers"
+#~ msgstr "Clienti Noi"
+
+#~ msgid "Total Customers"
+#~ msgstr "Total Clienti"
+
+#~ msgid "Total Products"
+#~ msgstr "Total Produse"
+
+#~ msgid "Latest Orders (last 24 hours)"
+#~ msgstr "Comenzi Recente (ultimele 24 ore)"
+
+#~ msgid "Orders - Last 24 Hours"
+#~ msgstr "Comenzi - Ultimele 24 Ore"
+
+#~ msgid "Total orders"
+#~ msgstr "Total comenzi"
+
+#~ msgid "Total lines"
+#~ msgstr "Total linii"
+
+#~ msgid "Total revenue"
+#~ msgstr "Total venituri"
+
+#~ msgid "Average order costs"
+#~ msgstr "Medie cost comanda"
+
+#~ msgid "Manage"
+#~ msgstr "Administreaza"
+
+#~ msgid "Orders - All Time"
+#~ msgstr "Comenzi - Dintotdeauna"
+
+#~ msgid "Total <em>open</em> baskets"
+#~ msgstr "Total cosuri <em>deschise</em>"
+
+#~ msgid "Total customers"
+#~ msgstr "Total clienti"
+
+#~ msgid "New customers"
+#~ msgstr "Clienti noi"
+
+#~ msgid "View Stock Alerts"
+#~ msgstr "Vezi Alerte Stoc"
+
+#~ msgid "Catalogue and stock"
+#~ msgstr "Catalog si stoc"
+
+#~ msgid "Total products"
+#~ msgstr "Total produse"
+
+#~ msgid "<em>Open</em> stock alerts"
+#~ msgstr "Alerte stoc <em>deschise</em>"
+
+#~ msgid "<em>Closed</em> stock alerts"
+#~ msgstr "Alerte stoc <em>Inchise</em>"
+
+#~ msgid "Offers, vouchers and promotions"
+#~ msgstr "Oferte, vouchere si promotii"
+
+#~ msgid "Active <em>Site</em> Offers"
+#~ msgstr "Oferte <em>Site</em> Active"
+
+#~ msgid "Active <em>Vouchers</em>"
+#~ msgstr "<em>Vouchere</em> Active"
+
+#~ msgid "Welcome"
+#~ msgstr "Bine ai venit"
+
+#~ msgid "Return to site"
+#~ msgstr "Inapoi la site"
+
+#~ msgid "Log out"
+#~ msgstr "Iesire"
+
+#~ msgid "Build a new incentive"
+#~ msgstr "Construieste un nou stimulent"
+
+#~ msgid "...or choose a pre-defined one"
+#~ msgstr "...sau alege unul predefinit"
+
+#~ msgid "Continue to step 3"
+#~ msgstr "Continua la pasul 3"
+
+#~ msgid "Build a new condition"
+#~ msgstr "Construieste o noua conditie"
+
+#~ msgid "Continue to step 4"
+#~ msgstr "Continua la pasul 4"
+
+#~ msgid "Continue to step 2"
+#~ msgstr "Continua la pasul 2"
+
+#~ msgid "Delete offer"
+#~ msgstr "Sterge oferta"
+
+#~ msgid "Are you sure you want to delete this offer?"
+#~ msgstr "Esti sigur ca vrei sa stergi aceasta oferta?"
+
+#~ msgid ""
+#~ "\n"
+#~ "        %(name)s | Offers\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "%(name)s | Oferte"
+
+#~ msgid "Reinstate offer"
+#~ msgstr "Reactiveaza oferta"
+
+#~ msgid "Suspend offer"
+#~ msgstr "Suspenda oferta"
+
+#~ msgid "Offer currently available"
+#~ msgstr "Oferta momentan indisponibila"
+
+#~ msgid "Offer not available due to restrictions!"
+#~ msgstr "Oferta indisponibila datorita unor restrictii!"
+
+#~ msgid "Total cost:"
+#~ msgstr "Cost total:"
+
+#~ msgid "Number of orders:"
+#~ msgstr "Numar comenzi:"
+
+#~ msgid "Number of uses:"
+#~ msgstr "Numar utilizari:"
+
+#~ msgid "Date created:"
+#~ msgstr "Data crearii:"
+
+#~ msgid "Offer details"
+#~ msgstr "Detalii oferta"
+
+#~ msgid "Export to CSV"
+#~ msgstr "Export in format CSV"
+
+#~ msgid "Orders that used this offer"
+#~ msgstr "Comenzi care au folosit aceasta oferta"
+
+#~ msgid "Create new offer"
+#~ msgstr "Creaza oferta noua"
+
+#~ msgid "Is available?"
+#~ msgstr "Este disponibila?"
+
+#~ msgid "Uses"
+#~ msgstr "Utilizari"
+
+#~ msgid "Browse"
+#~ msgstr "Exploreaza"
+
+#~ msgid "Stats"
+#~ msgstr "Statistici"
+
+#~ msgid "No offers found."
+#~ msgstr "Nu au fost gasite oferte."
+
+#~ msgid "Steps"
+#~ msgstr "Pasi"
+
+#~ msgid "1. Name and description"
+#~ msgstr "1. Nume si descriere"
+
+#~ msgid "2. Incentive"
+#~ msgstr "2. Stimulent"
+
+#~ msgid "3. Condition"
+#~ msgstr "3. Conditie"
+
+#~ msgid "4. Restrictions"
+#~ msgstr "4. Restrictii"
+
+#~ msgid "Save this offer"
+#~ msgstr "Salveaza aceasta oferta"
+
+#~ msgid "Fields marked with * are mandatory."
+#~ msgstr "Campurile marcate cu * sunt obligatorii."
+
+#~ msgid "Save changes"
+#~ msgstr "Salveaza modificarile"
+
+#~ msgid "Offer summary"
+#~ msgstr "Sumarul ofertei"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s - Line #%(id)s\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        Comanda %(number)s - Linia #%(id)s\n"
+#~ "    "
+
+#~ msgid "Line #%(id)s"
+#~ msgstr "Linia #%(id)s"
+
+#~ msgid "Order #%(number)s - Line #%(id)s"
+#~ msgstr "Comanda #%(number)s - Linia #%(id)s"
+
+#~ msgid "Product Options"
+#~ msgstr "Optiuni Produs"
+
+#~ msgid "Partner details"
+#~ msgstr "Detalii partener"
+
+#~ msgid "Shipping details"
+#~ msgstr "Detalii livrare"
+
+#~ msgid "Partner reference number"
+#~ msgstr "Numar referinta partener"
+
+#~ msgid "Partner notes"
+#~ msgstr "Note partener"
+
+#~ msgid "Estimate dispatch date"
+#~ msgstr "Estimeaza data expedierii"
+
+#~ msgid "Shipping status"
+#~ msgstr "Stare livrare"
+
+#~ msgid "State"
+#~ msgstr "Stat/Judet"
+
+#~ msgid "No shipping events have occurred."
+#~ msgstr "Nu au aparut evenimente de livrare."
+
+#~ msgid "Shipping events"
+#~ msgstr "Evenimente livrare"
+
+#~ msgid "Payment events"
+#~ msgstr "Evenimente plata"
+
+#~ msgid "No payment events have occurred."
+#~ msgstr "Nu au aparut evenimente de plata."
+
+#~ msgid "Order %(number)s"
+#~ msgstr "Comanda %(number)s"
+
+#~ msgid "Customer Information"
+#~ msgstr "Informatii Client"
+
+#~ msgid "Customer checked out as a guest."
+#~ msgstr "Clientul a efectuat comanda ca anonim."
+
+#~ msgid "Customer has deleted their account."
+#~ msgstr "Clientul si-a sters contul."
+
+#~ msgid "Order information"
+#~ msgstr "Informatii comanda"
+
+#~ msgid "Order Total"
+#~ msgstr "Total Comanda"
+
+#~ msgid "Time of purchase"
+#~ msgstr "Ora cumpararii"
+
+#~ msgid "Order Details"
+#~ msgstr "Detalii Comanda"
+
+#~ msgid "Items ordered"
+#~ msgstr "Produse comandate"
+
+#~ msgid "Line ID"
+#~ msgstr "ID Linie"
+
+#~ msgid "Supplier"
+#~ msgstr "Furnizor"
+
+#~ msgid "Supplier SKU"
+#~ msgstr "SKU Furnizor"
+
+#~ msgid "Price excl tax (before discounts)"
+#~ msgstr "Pret excl. taxe (inainte de discount-uri)"
+
+#~ msgid "Price inc tax (before discounts)"
+#~ msgstr "Pret incl. taxe (inainte de discount-uri)"
+
+#~ msgid "With selected lines"
+#~ msgstr "Cu liniile selectate"
+
+#~ msgid "choose new status"
+#~ msgstr "alege stare noua"
+
+#~ msgid "Create shipping event"
+#~ msgstr "Creaza eveniment livrare"
+
+#~ msgid "choose event type"
+#~ msgstr "alege tip eveniment"
+
+#~ msgid "with reference"
+#~ msgstr "cu referinta"
+
+#~ msgid "Create payment event"
+#~ msgstr "Creaza eveniment plata"
+
+#~ msgid "with amount"
+#~ msgstr "cu suma"
+
+#~ msgid "Go!"
+#~ msgstr "Trimite!"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                                %(title)s "
+#~ "(quantity %(event_qty)s/%(total_qty)s)\n"
+#~ "                                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "                                                                %(title)s "
+#~ "(cantitate %(event_qty)s/%(total_qty)s)\n"
+#~ "                                                            "
+
+#~ msgid "No shipping events."
+#~ msgstr "Nu exista evenimente livrare."
+
+#~ msgid "Product:"
+#~ msgstr "Produs:"
+
+#~ msgid "quantity"
+#~ msgstr "cantitate"
+
+#~ msgid "No payment events."
+#~ msgstr "Nu exista evenimente plata."
+
+#~ msgid "Method name"
+#~ msgstr "Nume metoda"
+
+#~ msgid "Method code"
+#~ msgstr "Cod metoda"
+
+#~ msgid "Charge (incl tax)"
+#~ msgstr "Taxa (incl. taxe)"
+
+#~ msgid "Charge (excl tax)"
+#~ msgstr "Taxa (excl. taxe)"
+
+#~ msgid "Payment sources"
+#~ msgstr "Surse plata"
+
+#~ msgid "Allocation"
+#~ msgstr "Alocare"
+
+#~ msgid "Amount debited"
+#~ msgstr "Suma debitata"
+
+#~ msgid "Amount refunded"
+#~ msgstr "Suma returnata"
+
+#~ msgid "No payment sources found for this order."
+#~ msgstr "Nu au fost gasite surse de plata pentru aceasta comanda."
+
+#~ msgid "No notes available."
+#~ msgstr "Nu exista note."
+
+#~ msgid "Save note"
+#~ msgstr "Salveaza nota"
+
+#~ msgid "Notes are only editable for 5 minutes after being saved."
+#~ msgstr "Notele sunt editabile pentru 5 minute dupa ce au fost salvate."
+
+#~ msgid "Advanced Search"
+#~ msgstr "Cautare Avansata"
+
+#~ msgid "Close"
+#~ msgstr "Inchide"
+
+#~ msgid "Download selected orders as a CSV"
+#~ msgstr "Descarca comenzile selectate in format CSV"
+
+#~ msgid "Deleted"
+#~ msgstr "Sters"
+
+#~ msgid "No orders found."
+#~ msgstr "Nu au fost gasite comenzi."
+
+#~ msgid "Print Packaging Slips"
+#~ msgstr "Tipareste Etichete Pachet"
+
+#~ msgid "Mark as"
+#~ msgstr "Marcheaza ca"
+
+#~ msgid "Change order status to"
+#~ msgstr "Schimba starea comenzii in"
+
+#~ msgid "Done"
+#~ msgstr "Gata"
+
+#~ msgid "Edit shipping address"
+#~ msgstr "Modifica adresa de livrare"
+
+#~ msgid "Edit shipping address for order %(order.number)s"
+#~ msgstr "Modifica adresa de livrare pentru comanda %(order.number)s"
+
+#~ msgid "Update address"
+#~ msgstr "Modifica adresa"
+
+#~ msgid "Order statistics"
+#~ msgstr "Statistici comenzi"
+
+#~ msgid "Filter result"
+#~ msgstr "Filtreaza rezultatele"
+
+#~ msgid "Summary"
+#~ msgstr "Sumar"
+
+#~ msgid "Order status breakdown"
+#~ msgstr "Desfasurator stare comanda"
+
+#~ msgid "Delete page '%(title)s'?"
+#~ msgstr "Sterge pagina '%(title)s'?"
+
+#~ msgid "Delete page"
+#~ msgstr "Sterge pagina"
+
+#~ msgid "Delete page <strong>%(title)s</strong> - are you sure?"
+#~ msgstr "Sterge pagina <strong>%(title)s</strong> - esti sigur?"
+
+#~ msgid "Create new page"
+#~ msgstr "Creaza pagina noua"
+
+#~ msgid "No pages found."
+#~ msgstr "Nici o pagina nu a fost gasita."
+
+#~ msgid ""
+#~ "\n"
+#~ "        Page <strong>%(title)s</strong> saved!\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Pagina <strong>%(title)s</strong> a fost salvata!"
+
+#~ msgid "Oops! We found some errors"
+#~ msgstr "Oops! Am gasit cateva erori"
+
+#~ msgid "please check the error messages below and try again"
+#~ msgstr ""
+#~ "te rugam sa verifici mesajele de eroare de mai jos si sa incerci din nou"
+
+#~ msgid "previous"
+#~ msgstr "inapoi"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Page %(page_num)s of %(total_pages)s\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                Pagina %(page_num)s din %(total_pages)s\n"
+#~ "            "
+
+#~ msgid "next"
+#~ msgstr "inainte"
+
+#~ msgid ""
+#~ "\n"
+#~ "User %(user_name)s was unlinked from %(partner_name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Utilizatorul %(user_name)s a fost dezasociat de %(partner_name)s.\n"
+
+#~ msgid "Undo"
+#~ msgstr "Undo"
+
+#~ msgid "Delete partner"
+#~ msgstr "Sterge partener"
+
+#~ msgid "Are you sure you want to delete this partner?"
+#~ msgstr "Esti sigur ca vrei sa stergi acest partener?"
+
+#~ msgid "Edit the user's details"
+#~ msgstr "Modifica detaliile utilizatorului"
+
+#~ msgid "No users associated."
+#~ msgstr "Nici un user asociat."
+
+#~ msgid "No address associated."
+#~ msgstr "Nici o adresa asociata."
+
+#~ msgid "Manage partner and users"
+#~ msgstr "Administreaza partener si utilizatori"
+
+#~ msgid "Link an existing user"
+#~ msgstr "Asociaza un user existent"
+
+#~ msgid "Link a new user"
+#~ msgstr "Asociaza un user nou"
+
+#~ msgid "No partners found."
+#~ msgstr "Nu a fost gasit nici un partener."
+
+#~ msgid "Unlink user"
+#~ msgstr "Dezasociaza utilizator"
+
+#~ msgid "No users linked."
+#~ msgstr "Nici un utilizator asociat."
+
+#~ msgid "Link a user"
+#~ msgstr "Asociaza un utilizator"
+
+#~ msgid "Manage users"
+#~ msgstr "Administreaza utilizatori"
+
+#~ msgid "Update details"
+#~ msgstr "Modifica detalii"
+
+#~ msgid ""
+#~ "A partial email address can be entered (eg '@example.com') to match "
+#~ "multiple addresses."
+#~ msgstr ""
+#~ "Poate fi introdusa o adresa de email partiala (ex. '@example.com') pentru "
+#~ "a obtine mai multe adrese."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                User is already linked to "
+#~ "%(name)s.\n"
+#~ "                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "Utilizatorul este deja asociat la %(name)s."
+
+#~ msgid "Link user"
+#~ msgstr "Asociaza utilizator"
+
+#~ msgid "No users found."
+#~ msgstr "Nu a fost gasit nici un utilizator"
+
+#~ msgid "Delete content block '%(name)s'?\""
+#~ msgstr "Sterge blocul de continut '%(name)s'?\""
+
+#~ msgid "Delete content block"
+#~ msgstr "Sterge bloc de continut"
+
+#~ msgid ""
+#~ "Delete %(object.type)s content block <strong>%(object.name)s</strong> - "
+#~ "are you sure?"
+#~ msgstr ""
+#~ "Sterge blocul de continut %(object.type)s cu numele <strong>%(object."
+#~ "name)s</strong> - esti sigur?"
+
+#~ msgid "Remove promotion from page?"
+#~ msgstr "Elimina promotia de pe pagina?"
+
+#~ msgid "Remove promotion"
+#~ msgstr "Elimina promotia"
+
+#~ msgid ""
+#~ "Remove %(object.content_object.type)s content block <strong>%(object."
+#~ "name)s</strong> from page <strong>%(object.page_url)s</strong> - are you "
+#~ "sure?"
+#~ msgstr ""
+#~ "Elimina blocul de continut %(object.content_object.type)s cu numele "
+#~ "<strong>%(object.name)s</strong> de pe pagina <strong>%(object."
+#~ "page_url)s</strong> - esti sigur?"
+
+#~ msgid "Content block"
+#~ msgstr "Bloc de continut"
+
+#~ msgid "Pages displaying this content blocks"
+#~ msgstr "Pagini care afiseaza acest bloc de continut"
+
+#~ msgid "Position on page"
+#~ msgstr "Pozitia pe pagina"
+
+#~ msgid "View all blocks on this page"
+#~ msgstr "Vezi toate blocurie de pe aceasta pagina"
+
+#~ msgid "Remove from page"
+#~ msgstr "Elimina de pe pagina"
+
+#~ msgid "This promotion is not displayed anywhere at the moment."
+#~ msgstr "Aceasta promotie nu e afisata nicaieri momentan."
+
+#~ msgid "Add to a page"
+#~ msgstr "Adauga la o pagina"
+
+#~ msgid "Add to page"
+#~ msgstr "Adauga la pagina"
+
+#~ msgid "Content blocks for page %(page_url)s"
+#~ msgstr "Blocuri de continut pentru pagina %(page_url)s"
+
+#~ msgid "Content blocks on page '%(page_url)s'"
+#~ msgstr "Blocuri de continut pe pagina '%(page_url)s'"
+
+#~ msgid "Edit promotions in position '%(name)s'"
+#~ msgstr "Modifica promotiile din pozitia '%(name)s'"
+
+#~ msgid "Promotion Name"
+#~ msgstr "Nume Promotie"
+
+#~ msgid "No promotions in this position."
+#~ msgstr "Nu exista promotii in aceasta pozitie."
+
+#~ msgid "Pages with content blocks"
+#~ msgstr "Pagini cu blocuri de continut"
+
+#~ msgid "View by page"
+#~ msgstr "Vezi dupa pagina"
+
+#~ msgid "View all content blocks"
+#~ msgstr "Vezi toate blocurile de continut"
+
+#~ msgid "View content blocks by page"
+#~ msgstr "Vezi blocuri de continut dupa pagina"
+
+#~ msgid "Pages with content blocks on them"
+#~ msgstr "Pagini cu blocuri de continut"
+
+#~ msgid "Number of content blocks"
+#~ msgstr "Numar de blocuri de continut"
+
+#~ msgid "No content blocks found."
+#~ msgstr "Nu au fost gasite blocuri de continut."
+
+#~ msgid "Create a new content block"
+#~ msgstr "Creaza bloc continut nou"
+
+#~ msgid "Create block"
+#~ msgstr "Creaza bloc"
+
+#~ msgid "Number of times used"
+#~ msgstr "Numar utilizari"
+
+#~ msgid "Edit range metadata"
+#~ msgstr "Modifica metadata pentru setul de produse"
+
+#~ msgid "Return to ranges homepage"
+#~ msgstr "Inapoi la pagina de baza a seturilor de produse"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>Range <strong>%(name)s</strong> saved.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Set <strong>%(name)s</strong> salvat.</p>\n"
+
+#~ msgid "Edit included products"
+#~ msgstr "Modifica produsele incluse"
+
+#~ msgid "Delete range '%(name)s'?"
+#~ msgstr "Sterge setul '%(name)s'?"
+
+#~ msgid "Are you sure you want to delete this range?"
+#~ msgstr "Esti sigur ca vrei sa stergi acest set?"
+
+#~ msgid "Create new range"
+#~ msgstr "Creaza set nou"
+
+#~ msgid "Save and edit products"
+#~ msgstr "Salveaza si modifica produse"
+
+#~ msgid "Num products"
+#~ msgstr "Num produse"
+
+#~ msgid "Edit products"
+#~ msgstr "Modifica produse"
+
+#~ msgid "No ranges found."
+#~ msgstr "Nici un set nu a fost gasit."
+
+#~ msgid "Products in range '%(name)s'"
+#~ msgstr "Produse in setul '%(name)s'"
+
+#~ msgid "products"
+#~ msgstr "produse"
+
+#~ msgid ""
+#~ "This range contains all products. To add products manually, please "
+#~ "unselect the 'Includes All Products' option on the edit range page."
+#~ msgstr ""
+#~ "Acest set contine toate produsele. Pentru a adauga produse manual, "
+#~ "deselecteaza optiunea 'Include Toate Produsele' din pagina de modificare "
+#~ "a setului."
+
+#~ msgid "Add products"
+#~ msgstr "Adauga produse"
+
+#~ msgid "Upload history"
+#~ msgstr "Istoric incarcari"
+
+#~ msgid "Filename"
+#~ msgstr "Nume fisier"
+
+#~ msgid "New products"
+#~ msgstr "Produse noi"
+
+#~ msgid "Duplicate products"
+#~ msgstr "Produse duplicate"
+
+#~ msgid "Unknown products"
+#~ msgstr "Produse necunoscute"
+
+#~ msgid "Date uploaded"
+#~ msgstr "Data incarcarii"
+
+#~ msgid "Products in range"
+#~ msgstr "Produse in set"
+
+#~ msgid "Remove selected products"
+#~ msgstr "Elimina produsele selectate"
+
+#~ msgid "Is product discountable?"
+#~ msgstr "Produsul poate avea discount?"
+
+#~ msgid "Products in Range"
+#~ msgstr "Produse in Set"
+
+#~ msgid "Edit range"
+#~ msgstr "Modifica setul"
+
+#~ msgid "return to range list"
+#~ msgstr "inapoi la lista seturilor"
+
+#~ msgid "Reporting Dashboard"
+#~ msgstr "Panou de Control Raportare"
+
+#~ msgid "Reporting dashboard"
+#~ msgstr "Panou de control raportare"
+
+#~ msgid "Generate report"
+#~ msgstr "Genereaza raport"
+
+#~ msgid "No results found."
+#~ msgstr "Nu au fost gasite rezultate."
+
+#~ msgid "No vouchers were used in this period"
+#~ msgstr "Nu au fost foloste vouchere in aceasta perioada"
+
+#~ msgid "Delete review '%(title)s'?"
+#~ msgstr "Sterge recenzia '%(title)s'?"
+
+#~ msgid "Delete review \"%(title)s\"?"
+#~ msgstr "Sterge recenzia \"%(title)s\"?"
+
+#~ msgid "Review"
+#~ msgstr "Recenzie"
+
+#~ msgid "Review Search"
+#~ msgstr "Cautare Recenzii"
+
+#~ msgid "Update status of selected reviews"
+#~ msgstr "Modifica starea recenziilor selectate"
+
+#~ msgid "[Product deleted]"
+#~ msgstr "[Produs sters]"
+
+#~ msgid "No reviews found."
+#~ msgstr "Nu a fost gasita nici o recenzie."
+
+#~ msgid "Update review"
+#~ msgstr "Modifica recenzie"
+
+#~ msgid "Review #%(review.id)s"
+#~ msgstr "Recenzie #%(review.id)s"
+
+#~ msgid "Review information"
+#~ msgstr "Informatie recenzie"
+
+#~ msgid "Alert #%(id)s"
+#~ msgstr "Alerta #%(id)s"
+
+#~ msgid "Delete alert #%(id)s?"
+#~ msgstr "Sterge alerta #%(id)s?"
+
+#~ msgid "Product alert #%(id)s"
+#~ msgstr "Alerta produs #%(id)s"
+
+#~ msgid "Are you sure that you want to delete this alert?"
+#~ msgstr "Esti sigur ca vrei sa stergi aceasta alerta?"
+
+#~ msgid "Search product alerts"
+#~ msgstr "Cauta alerte produs"
+
+#~ msgid "reset"
+#~ msgstr "reseteaza"
+
+#~ msgid "Date alert sent"
+#~ msgstr "Data trimitere alerta"
+
+#~ msgid "(Anonymous)"
+#~ msgstr "(Anonim)"
+
+#~ msgid "No alerts found."
+#~ msgstr "Nu au fost gasite alerte."
+
+#~ msgid "Update alert #%(id)s"
+#~ msgstr "Modifica alerta #%(id)s"
+
+#~ msgid "General"
+#~ msgstr "General"
+
+#~ msgid "Yes,No"
+#~ msgstr "Da,Nu"
+
+#~ msgid "Superuser"
+#~ msgstr "Superuser"
+
+#~ msgid "True,False"
+#~ msgstr "Adevarat,Fals"
+
+#~ msgid "Staff"
+#~ msgstr "Staff"
+
+#~ msgid "Last login"
+#~ msgstr "Ultima logare"
+
+#~ msgid "Date joined"
+#~ msgstr "Data inregistrarii"
+
+#~ msgid "Products viewed"
+#~ msgstr "Produse vizualizate"
+
+#~ msgid "Number of orders"
+#~ msgstr "Numar comenzi"
+
+#~ msgid "Number of ordered items"
+#~ msgstr "Numar bucati comandate"
+
+#~ msgid "Reviews written"
+#~ msgstr "Recenzii scrise"
+
+#~ msgid "Send password reset email"
+#~ msgstr "Trimite email de resetare parola"
+
+#~ msgid "Order Number"
+#~ msgstr "Numar comanda"
+
+#~ msgid "Total value"
+#~ msgstr "Valoare totala"
+
+#~ msgid "This customer has not placed any orders yet."
+#~ msgstr "Acest client nu a plasat nici o comanda inca."
+
+#~ msgid "This customer has not saved any addresses."
+#~ msgstr "Acest client nu a salvat nici o adresa."
+
+#~ msgid "Product ID"
+#~ msgstr "ID Produs"
+
+#~ msgid "This customer has not written any reviews yet."
+#~ msgstr "Acest client nu a scris nici o recenzie inca."
+
+#~ msgid "No customers found."
+#~ msgstr "Nu a fost gasit nici un client."
+
+#~ msgid "Bulk Actions"
+#~ msgstr "Actiuni bulk"
+
+#~ msgid "With selected customers:"
+#~ msgstr "Cu clientii selectati:"
+
+#~ msgid "Make active"
+#~ msgstr "Activeaza"
+
+#~ msgid "Make inactive"
+#~ msgstr "Inactiveaza"
+
+#~ msgid "Delete voucher '%(name)s'?"
+#~ msgstr "Sterge voucherul '%(name)s'?"
+
+#~ msgid "Voucher details"
+#~ msgstr "Detalii voucher"
+
+#~ msgid "Number of basket additions"
+#~ msgstr "Numar de adaugari la cos"
+
+#~ msgid "Recent orders"
+#~ msgstr "Comenzi recente"
+
+#~ msgid "No orders have been placed that use this voucher."
+#~ msgstr "Nu au fost plasate comenzi cu acest voucher."
+
+#~ msgid "Edit voucher"
+#~ msgstr "Modifica voucher"
+
+#~ msgid "Create new voucher"
+#~ msgstr "Creaza voucher nou"
+
+#~ msgid "Num baskets"
+#~ msgstr "Num cosuri"
+
+#~ msgid "Num orders"
+#~ msgstr "Num comenzi"
+
+#~ msgid "Inactive"
+#~ msgstr "Inactiv"
+
+#~ msgid "No vouchers found."
+#~ msgstr "Nu au fost gasite vouchere."
+
+#~ msgid "Sorry!"
+#~ msgstr "Ne pare rau!"
+
+#~ msgid "Return to previous page"
+#~ msgstr "Inapoi la pagina anterioara"
+
+#~ msgid "Go to homepage"
+#~ msgstr "Catre pagina de baza"
+
+#~ msgid "thumbnail"
+#~ msgstr "thumbnail"
+
+#~ msgid "Unrecognized image type!"
+#~ msgstr "Tipul imaginii e nesuportat!"
+
+#~ msgid "Upload Image"
+#~ msgstr "Incarca Imagine"
+
+#~ msgid "This page is only available to users who aren't logged in."
+#~ msgstr ""
+#~ "Aceasta pagina este disponibila doar utilizatorilor neautentificati."
+
+#~ msgid " This offer is no longer available."
+#~ msgstr " Aceasta oferta nu mai este disponibila."
+
+#~ msgid "What you need to do"
+#~ msgstr "Ce trebuie sa faci"
+
+#~ msgid "There are no site offers at the moment."
+#~ msgstr "Nu exista oferte momentan."
+
+#~ msgid "Browse products in offer"
+#~ msgstr "Exploreaza produsele la oferta"
+
+#~ msgid "See more"
+#~ msgstr "Vezi mai multe"
+
+#~ msgid "Password reset complete"
+#~ msgstr "Parola a fost resetata cu succes"
+
+#~ msgid "Password reset"
+#~ msgstr "Resetare parola"
+
+#~ msgid "Your password has been set.  You may go ahead and log in now."
+#~ msgstr "Parola a fost inregistrata. Poti intra in cont acum."
+
+#~ msgid "Log in"
+#~ msgstr "Intra in cont"
+
+#~ msgid ""
+#~ "Please enter your new password twice so we can verify you typed it in "
+#~ "correctly."
+#~ msgstr ""
+#~ "Te rugam sa introduci noua parola de doua ori ca sa putem verifica daca "
+#~ "ai scris-o corect."
+
+#~ msgid "Change my password"
+#~ msgstr "Schimba parola"
+
+#~ msgid "Password reset unsuccessful"
+#~ msgstr "Parola nu a putut fi resetata"
+
+#~ msgid ""
+#~ "The password reset link was invalid, possibly because it has already been "
+#~ "used.  Please request a new password reset."
+#~ msgstr ""
+#~ "Link-ul de resetare a parolei a fost invalid, probabil pentru ca a fost "
+#~ "deja folosit. Te rugam sa soliciti o noua resetare a parolei."
+
+#~ msgid ""
+#~ "Forgotten your password? Enter your e-mail address below, and we'll e-"
+#~ "mail instructions for setting a new one."
+#~ msgstr ""
+#~ "Ti-ai uitat parola? Specifica adresa de e-mail mai jos si iti vom trimite "
+#~ "un email cu instructiuni pentru a seta o parola noua."
+
+#~ msgid "Send reset email"
+#~ msgstr "Trimite email de resetare"
+
+#~ msgid "Refine your search"
+#~ msgstr "Rafineaza cautarea"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Products matching \"%(q)s\"\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        Produse care se potrivesc cu \"%(q)s\"\n"
+#~ "    "
+
+#~ msgid "Found <strong>0</strong> results."
+#~ msgstr "Am gasit <strong>0</strong> rezultate."
+
+#~ msgid ""
+#~ "\n"
+#~ "                        Did you mean <a href=\"%(search_url)s?q="
+#~ "%(suggestion)s\">\"%(suggestion)s\"</a>?\n"
+#~ "                    "
+#~ msgstr ""
+#~ "\n"
+#~ "Ai vrut sa spui <a href=\"%(search_url)s?q=%(suggestion)s\">"
+#~ "\"%(suggestion)s\"</a>?"
+
+#~ msgid "Back to search results"
+#~ msgstr "Inapoi la rezultatele cautarii"
+
+#~ msgid "You need to select some %ss"
+#~ msgstr "Trebuie sa selectezi cateva %ss"

@@ -1,0 +1,6240 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Simon Weiss <weiss.simon.1995@gmail.com>, 2017-2018
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-05-15 09:37+0000\n"
+"Last-Translator: Simon Weiss <weiss.simon.1995@gmail.com>\n"
+"Language-Team: Slovenian (Slovenia) (http://www.transifex.com/codeinthehole/"
+"django-oscar/language/sl_SI/)\n"
+"Language: sl_SI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
+"%100==4 ? 2 : 3);\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr "Nadzorna plošča"
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr "Katalog"
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "Izdelki"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr "Tipi izdelkov"
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "Kategorije"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr "Območja"
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr "Opomnik nizke zaloge"
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr "Možnosti"
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr "Izpolnitev"
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "Naročila"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr "Statistika"
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr "Partnerji"
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr "Stranke"
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr "Prošnja opomnika zaloge"
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr "Ponudbe"
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "Kuponi"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr "Vsebina"
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr "Bloki vsebine"
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr "Bloki vsebine po straneh"
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr "Strani"
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr "Predloge e-pošte"
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr "Mnenja"
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr "Poročila"
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr "Tip"
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr "Ocena"
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr "Razpon cen"
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr "od 0 do 20"
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr "od 20 do 40"
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr "od 40 do 60"
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr "60+"
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+#, fuzzy
+#| msgid "Catalogue"
+msgid "Catalan"
+msgstr "Katalog"
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+#, fuzzy
+#| msgid "Permalink"
+msgid "German"
+msgstr "Stalna povezava (permalink)"
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr "Vlagam..."
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr "Pojdi"
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr "Račun"
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr "Odjava"
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr "Prijava ali registracija"
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "Košarica"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+"\n"
+"Skupaj:%(total)s\n"
+" "
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr "Preišči trgovino"
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "Vsi izdelki"
+
+#~ msgid "Mr"
+#~ msgstr "G."
+
+#~ msgid "Miss"
+#~ msgstr "Gdč."
+
+#~ msgid "Mrs"
+#~ msgstr "Ga."
+
+#~ msgid "Ms"
+#~ msgstr "Mag."
+
+#~ msgid "Dr"
+#~ msgstr "Dr."
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "Naziv"
+
+#~ msgid "First name"
+#~ msgstr "Ime"
+
+#~ msgid "Last name"
+#~ msgstr "Priimek"
+
+#~ msgid "First line of address"
+#~ msgstr "Naslov"
+
+#~ msgid "Second line of address"
+#~ msgstr "Dodatek k naslovu"
+
+#~ msgid "Third line of address"
+#~ msgstr "Dodatek k naslovu 2"
+
+#~ msgid "City"
+#~ msgstr "Mesto"
+
+#~ msgid "State/County"
+#~ msgstr "Zvezna država"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "Poštna številka"
+
+#~ msgid "Country"
+#~ msgstr "Država"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "Poišči naslov"
+
+#~ msgid "Address"
+#~ msgstr "Naslov"
+
+#~ msgid "Addresses"
+#~ msgstr "Naslovi"
+
+#~ msgid "Addresses in %(country)s require a valid postcode"
+#~ msgstr "Naslovi v %(country)s potrebujejo veljavno poštno številko"
+
+#~ msgid "The postcode '%(postcode)s' is not valid for %(country)s"
+#~ msgstr "Poštna številka '%(postcode)s' ni veljavna v %(country)s"
+
+#~ msgid "ISO 3166-1 alpha-2"
+#~ msgstr "ISO 3166-1 alfa-2"
+
+#~ msgid "ISO 3166-1 alpha-3"
+#~ msgstr "ISO 3166-1 alfa-3"
+
+#~ msgid "ISO 3166-1 numeric"
+#~ msgstr "ISO 3166-1 numerično"
+
+#~ msgid "Country name"
+#~ msgstr "Ime države"
+
+#~ msgid "Official name"
+#~ msgstr "Uradno ime"
+
+#~ msgid "Display order"
+#~ msgstr "Prikaži vrstni red"
+
+#~ msgid "Higher the number, higher the country in the list."
+#~ msgstr "Večja kot je številka, višje je država na seznamu"
+
+#~ msgid "Is shipping country"
+#~ msgstr "Država v katero dostavljamo"
+
+#~ msgid "Countries"
+#~ msgstr "Države"
+
+#~ msgid "Phone number"
+#~ msgstr "Telefonska številka"
+
+#~ msgid "In case we need to call you about your order"
+#~ msgstr "Če vas bo potrebno poklicati glede naročila"
+
+#~ msgid "Instructions"
+#~ msgstr "Navodila"
+
+#~ msgid "Tell us anything we should know when delivering your order."
+#~ msgstr "Povejte nam, če bi morali kaj vedeti, ko vam dostavimo naročilo"
+
+#~ msgid "Shipping address"
+#~ msgstr "Naslov dostave"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "Naslovi dostave"
+
+#~ msgid "User"
+#~ msgstr "Uporabnik"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "Privzet naslov dostave"
+
+#~ msgid "Default billing address?"
+#~ msgstr "Privzet naslov plačnika"
+
+#~ msgid "Address Hash"
+#~ msgstr "Zgoščen naslov"
+
+#~ msgid "Date Created"
+#~ msgstr "Datum stvaritve"
+
+#~ msgid "User address"
+#~ msgstr "Naslov uporabnika"
+
+#~ msgid "User addresses"
+#~ msgstr "Naslovi uporabnika"
+
+#~ msgid "This address is already in your address book"
+#~ msgstr "Ta naslov je že v vašem imeniku"
+
+#~ msgid "Billing address"
+#~ msgstr "Naslov plačnika"
+
+#~ msgid "Billing addresses"
+#~ msgstr "Naslovi plačnika"
+
+#~ msgid "Partner"
+#~ msgstr "Partner"
+
+#~ msgid "Partner address"
+#~ msgstr "Naslov partnera"
+
+#~ msgid "Partner addresses"
+#~ msgstr "Naslovi partnerja"
+
+#~ msgid "Product"
+#~ msgstr "Izdelek"
+
+#~ msgid "Views"
+#~ msgstr "Ogledi"
+
+#~ msgid "Basket Additions"
+#~ msgstr "Dodatek h košarici"
+
+#~ msgid "Purchases"
+#~ msgstr "Nakupi"
+
+#~ msgid "Score"
+#~ msgstr "Točke"
+
+#~ msgid "Product record"
+#~ msgstr "Zapis izdelka"
+
+#~ msgid "Product records"
+#~ msgstr "Zapisi izdelka"
+
+#~ msgid "Record for '%s'"
+#~ msgstr "Zapis za '%s'"
+
+#~ msgid "Product Views"
+#~ msgstr "Ogled izdelka"
+
+#~ msgid "Order Lines"
+#~ msgstr "Vrstica naročil"
+
+#~ msgid "Order Items"
+#~ msgstr "Izdelki naročila"
+
+#~ msgid "Total Spent"
+#~ msgstr "Skupna poraba"
+
+#~ msgid "Last Order Date"
+#~ msgstr "Datum zadnjega naročila"
+
+#~ msgid "User record"
+#~ msgstr "Zapis uporabnika"
+
+#~ msgid "User records"
+#~ msgstr "Zapisi uporabnika"
+
+#~ msgid "User product view"
+#~ msgstr "Uporabniški ogled izdelka"
+
+#~ msgid "User product views"
+#~ msgstr "Uporabniški ogledi izdelka"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "%(user)s si je ogledal '%(product)s'"
+
+#~ msgid "Search term"
+#~ msgstr "Išči termin"
+
+#~ msgid "User search query"
+#~ msgstr "Iskanje uporabnika"
+
+#~ msgid "User search queries"
+#~ msgstr "Iskanja uporabnika"
+
+#~ msgid "%(user)s searched for '%(query)s'"
+#~ msgstr "%(user)s je iskal '%(query)s'"
+
+#~ msgid "Analytics"
+#~ msgstr "Analiza"
+
+#~ msgid "Basket additions"
+#~ msgstr "Dodatki košarice"
+
+#~ msgid "Product analytics"
+#~ msgstr "Analiza izdelka"
+
+#~ msgid "Name"
+#~ msgstr "Ime"
+
+#~ msgid "Date registered"
+#~ msgstr "Datum registracije"
+
+#~ msgid "Product views"
+#~ msgstr "Ogledi izdelka"
+
+#~ msgid "Order lines"
+#~ msgstr "Vrstice naročil"
+
+#~ msgid "Order items"
+#~ msgstr "Izdelki naročila"
+
+#~ msgid "Total spent"
+#~ msgstr "Skupna poraba"
+
+#~ msgid "Date of last order"
+#~ msgstr "Datum zadnjega naročila"
+
+#~ msgid "User analytics"
+#~ msgstr "Analiza uporabnika"
+
+#~ msgid "Owner"
+#~ msgstr "Lastnik"
+
+#~ msgid "Open - currently active"
+#~ msgstr "Odprto - trenutno aktivno"
+
+#~ msgid "Merged - superceded by another basket"
+#~ msgstr "Združeno - nahja se v drugi košarici"
+
+#~ msgid "Saved - for items to be purchased later"
+#~ msgstr "Shranjeno - za kasnejši nakup"
+
+#~ msgid "Frozen - the basket cannot be modified"
+#~ msgstr "Zamrznjeno - košarica ne more biti spremenjena"
+
+#~ msgid "Submitted - has been ordered at the checkout"
+#~ msgstr "Oddano - naročilo je na blagajni"
+
+#~ msgid "Status"
+#~ msgstr "Stanje"
+
+#~ msgid "Date created"
+#~ msgstr "Datum stvaritve"
+
+#~ msgid "Date merged"
+#~ msgstr "Datum združitve"
+
+#~ msgid "Date submitted"
+#~ msgstr "Datum oddaje"
+
+#~ msgid "Baskets"
+#~ msgstr "Košarice"
+
+#~ msgid "%(status)s basket (owner: %(owner)s, lines: %(num_lines)d)"
+#~ msgstr "%(status)s košarica (lastnik: %(owner)s, vrstica: %(num_lines)d)"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order."
+#~ msgstr ""
+#~ "Zaradi tehničnih omejitev ne moremo dostaviti več kot %(threshold)d "
+#~ "izdelkov v enem naročilu."
+
+#~ msgid "Line Reference"
+#~ msgstr "Referenca vrstice"
+
+#~ msgid "Quantity"
+#~ msgstr "Količina"
+
+#~ msgid "Currency"
+#~ msgstr "Valuta"
+
+#~ msgid "Price excl. Tax"
+#~ msgstr "Cena brez DDV"
+
+#~ msgid "Price incl. Tax"
+#~ msgstr "Cena z DDV"
+
+#~ msgid "Basket line"
+#~ msgstr "Vrstica košarice"
+
+#~ msgid "Basket lines"
+#~ msgstr "Vrstice košarice"
+
+#~ msgid ""
+#~ "Basket #%(basket_id)d, Product #%(product_id)d, quantity %(quantity)d"
+#~ msgstr ""
+#~ "Košarica #%(basket_id)d, izdelek #%(product_id)d, količina %(quantity)d"
+
+#~ msgid "You cannot modify a %s basket"
+#~ msgstr "Ne moreš urediti %s košarice"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has increased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "Cena izdelka '%(product)s' se je povičala iz %(old_price)s na "
+#~ "%(new_price)s odkar ste ga dodali v košarico"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has decreased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "Cena izdelka '%(product)s' se je znižala iz %(old_price)s na "
+#~ "%(new_price)s odkar ste ga dodoali v košarico"
+
+#~ msgid "Line"
+#~ msgstr "Vrstica"
+
+#~ msgid "Option"
+#~ msgstr "Možnost"
+
+#~ msgid "Value"
+#~ msgstr "Vrednost"
+
+#~ msgid "Line attribute"
+#~ msgstr "Atribut vrstice"
+
+#~ msgid "Line attributes"
+#~ msgstr "Atributi vrstice"
+
+#~ msgid "Save for Later"
+#~ msgstr "Shrani za kasneje"
+
+#~ msgid "Move to Basket"
+#~ msgstr "Premakni v košarico"
+
+#~ msgid "Code"
+#~ msgstr "Koda"
+
+#~ msgid "Variant"
+#~ msgstr "Izpeljanka"
+
+#~ msgid "Please select a valid product"
+#~ msgstr "Prosimo, da izberete veljaven izdelek"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order. Your basket currently has %(basket)d "
+#~ "items."
+#~ msgstr ""
+#~ "Zaradi tehničnih omejitev ne moremo dostaviti več kot %(threshold)d "
+#~ "izdelkov v enem naročilu. Vaša košarica ima trenutno %(basket)d izdelkov."
+
+#~ msgid ""
+#~ "This product cannot be added to the basket as its currency isn't the same "
+#~ "as other products in your basket"
+#~ msgstr ""
+#~ "Ta izdelek ne more biti dodan v košarico, saj je v drugi valuti kot "
+#~ "ostali izdelki v vaši košarici"
+
+#~ msgid ""
+#~ "We have merged a basket from a previous session. Its contents might have "
+#~ "changed."
+#~ msgstr ""
+#~ "Združili smo košarico prejjšnje seje. Lahko je prišlo do spremembe "
+#~ "vsebine."
+
+#~ msgid "User ID"
+#~ msgstr "ID uporabnika"
+
+#~ msgid "Email"
+#~ msgstr "E-pošta"
+
+#~ msgid "Basket status"
+#~ msgstr "Stanje košarice"
+
+#~ msgid "Num lines"
+#~ msgstr "Število vrstic"
+
+#~ msgid "Num items"
+#~ msgstr "Število izdelkov"
+
+#~ msgid "Date of creation"
+#~ msgstr "Datum stvaritve"
+
+#~ msgid "Time since creation"
+#~ msgstr "Čas od stvaritve"
+
+#~ msgid "Open baskets"
+#~ msgstr "Odprte košarice"
+
+#~ msgid "Time between creation and submission"
+#~ msgstr "Čas med stvaritvijo in oddajo"
+
+#~ msgid "Submitted baskets"
+#~ msgstr "Oddane košarice"
+
+#~ msgid "You can't save an item for later if you're not logged in!"
+#~ msgstr "Izdelka ne morete shraniti za kasneje, če niste prijavljeni"
+
+#~ msgid ""
+#~ "Your basket couldn't be updated. Please correct any validation errors "
+#~ "below."
+#~ msgstr "Vaša košarica se ne more posodobiti. Prosimo popravite napake."
+
+#~ msgid "The '%(code)s' voucher has expired"
+#~ msgstr "Kupon '%(code)s' je potekel"
+
+#~ msgid "The '%(code)s' voucher is not active"
+#~ msgstr "Kupon '%(code)s' ni aktiven"
+
+#~ msgid "Your basket does not qualify for a voucher discount"
+#~ msgstr "Vaša košarica ne ustreza zahtevam kupona"
+
+#~ msgid "Voucher '%(code)s' added to basket"
+#~ msgstr "Kupon '%(code)s' je dodan v košarico"
+
+#~ msgid "You have already added the '%(code)s' voucher to your basket"
+#~ msgstr "Kupon '%(code)s' je že v vaši košarici"
+
+#~ msgid "No voucher found with code '%(code)s'"
+#~ msgstr "Kupon '%(code)s' ne obstaja"
+
+#~ msgid "Please enter a voucher code"
+#~ msgstr "Vnesite kodo kupona"
+
+#~ msgid "Voucher '%s' removed from basket"
+#~ msgstr "Kupon '%s' je odstranjen iz košarice"
+
+#~ msgid "Slug"
+#~ msgstr "Okrajšava"
+
+#~ msgid "Requires shipping?"
+#~ msgstr "Potrebuje dostavo?"
+
+#~ msgid "Track stock levels?"
+#~ msgstr "Želite slediti spremembam zaloge?"
+
+#~ msgid "Product class"
+#~ msgstr "Razred izdelka"
+
+#~ msgid "Product classes"
+#~ msgstr "Razredi izdelka"
+
+#~ msgid "Description"
+#~ msgstr "Opis"
+
+#~ msgid "Image"
+#~ msgstr "Slika"
+
+#~ msgid "Category"
+#~ msgstr "Kategorija"
+
+#~ msgid "Product category"
+#~ msgstr "Kategorija izdelka"
+
+#~ msgid "Product categories"
+#~ msgstr "Kategorije izdelkov"
+
+#~ msgid "Stand-alone product"
+#~ msgstr "Samostojen izdelek"
+
+#~ msgid "Parent product"
+#~ msgstr "Nadrejeni izdelek"
+
+#~ msgid "Child product"
+#~ msgstr "Podrejeni izdelek"
+
+#~ msgid "Product structure"
+#~ msgstr "Sestava izdelka"
+
+#~ msgid "UPC"
+#~ msgstr "Univerzalna koda izdelka (UPC)"
+
+#~ msgid ""
+#~ "Universal Product Code (UPC) is an identifier for a product which is not "
+#~ "specific to a particular  supplier. Eg an ISBN for a book."
+#~ msgstr ""
+#~ "Unverzalna koda izdelka (UPC) je označevalnik izdeka, ki ni odvisna od "
+#~ "dobavitelja. Npr. ISBN za knjigo."
+
+#~ msgid ""
+#~ "Only choose a parent product if you're creating a child product.  For "
+#~ "example if this is a size 4 of a particular t-shirt.  Leave blank if this "
+#~ "is a stand-alone product (i.e. there is only one version of this product)."
+#~ msgstr ""
+#~ "Izberite le nadrejen izdelek, če ustvarjate podrejenega. Npr. če so 4 "
+#~ "velikosti določene majice. Pustite prazno, če je samostojen izdelek (Npr. "
+#~ "če je le ena različica izdelka)"
+
+#~ msgctxt "Product title"
+#~ msgid "Title"
+#~ msgstr "Ime"
+
+#~ msgid "Product type"
+#~ msgstr "Tip izdelka"
+
+#~ msgid "Choose what type of product this is"
+#~ msgstr "Izberite kakšen tip izdelka je"
+
+#~ msgid "Attributes"
+#~ msgstr "Lastnosti"
+
+#~ msgid ""
+#~ "A product attribute is something that this product may have, such as a "
+#~ "size, as specified by its class"
+#~ msgstr ""
+#~ "Lastnost izdelka je nekaj, kar izdelek lahko ima, npr velikost, ki je "
+#~ "določena z razredom"
+
+#~ msgid "Product options"
+#~ msgstr "Možnosti izdelka"
+
+#~ msgid ""
+#~ "Options are values that can be associated with a item when it is added to "
+#~ "a customer's basket.  This could be something like a personalised message "
+#~ "to be printed on a T-shirt."
+#~ msgstr ""
+#~ "Možnosti so vrednosti, ki predstavljajo izdelek, ki je dodan v "
+#~ "uporabnikovo košarico. Npr. Sporočilo, ki ga uporabnik želi imeti "
+#~ "natiskanega na majici."
+
+#~ msgid "Recommended products"
+#~ msgstr "Priporočeni izdelki"
+
+#~ msgid ""
+#~ "These are products that are recommended to accompany the main product."
+#~ msgstr ""
+#~ "To so izdelki, ki so priporočeni, da so pridruženi glavnemu izdelku."
+
+#~ msgid "Date updated"
+#~ msgstr "Datum posodobitve"
+
+#~ msgid "Is discountable?"
+#~ msgstr "Lahko stranka vnovči popust na tem izdelku?"
+
+#~ msgid "This flag indicates if this product can be used in an offer or not"
+#~ msgstr ""
+#~ "ta zastavica označuje ali je lahko izdelek uporabljen v ponudbi ali ne"
+
+#~ msgid "Your product must have a title."
+#~ msgstr "Vaši izdelki morajo imeti ime."
+
+#~ msgid "Your product must have a product class."
+#~ msgstr "Vaši izdelki morajo imeti razred izdelka."
+
+#~ msgid "Only child products can have a parent."
+#~ msgstr "Le podrejeni izdelki imajo lahko nadrejenega."
+
+#~ msgid "A child product needs a parent."
+#~ msgstr "Podrejen izdelek potrebuje nadrejenega."
+
+#~ msgid "You can only assign child products to parent products."
+#~ msgstr "Nadrejenim izdelkom lahko dodelite le podrejene izdelke."
+
+#~ msgid "A child product can't have a product class."
+#~ msgstr "Podrejen izdelek ne more imeti razreda izdelka."
+
+#~ msgid "A child product can't have a category assigned."
+#~ msgstr "Podrejenemu izdelku ne morete določiti kategorije"
+
+#~ msgid "A child product can't have options."
+#~ msgstr "Podrejen izdelek ne more imeti možnosti."
+
+#~ msgid "A parent product can't have stockrecords."
+#~ msgstr "Nadrejen izdelek ne more imeti zapisa o zalogi."
+
+#~ msgid "The specified parent product is a child product."
+#~ msgstr "Določen nadrejen izdelek je že podrejen izdelek."
+
+#~ msgid "One can't add a child product to a product with stock records."
+#~ msgstr ""
+#~ "Ne morete dodati podrejenega izdelka k izdelku, ki ima vodeno zalogo"
+
+#~ msgid "Primary product"
+#~ msgstr "Primarni izdelek"
+
+#~ msgid "Recommended product"
+#~ msgstr "Priporočen izdelek"
+
+#~ msgid "Ranking"
+#~ msgstr "Razvrstitev"
+
+#~ msgid ""
+#~ "Determines order of the products. A product with a higher value will "
+#~ "appear before one with a lower ranking."
+#~ msgstr ""
+#~ "Določi vrstni red izdelkov. Izdelek z višjo oceno se bo pojavil pred "
+#~ "izdelkom z nižjo oceno."
+
+#~ msgid "Product recommendation"
+#~ msgstr "Priporočilo izdelka"
+
+#~ msgid "Product recomendations"
+#~ msgstr "Priporočila izdelka"
+
+#~ msgid ""
+#~ "Code can only contain the letters a-z, A-Z, digits, and underscores, and "
+#~ "can't start with a digit."
+#~ msgstr ""
+#~ "Koda lahko vsebuje le črke a-z, A-Z, števke in podčrtaje, in se ne sme "
+#~ "začeti s števko."
+
+#~ msgid "Text"
+#~ msgstr "Besedilo"
+
+#~ msgid "Integer"
+#~ msgstr "Število"
+
+#~ msgid "True / False"
+#~ msgstr "Drži / Ne drži"
+
+#~ msgid "Float"
+#~ msgstr "Plavajoča vejica"
+
+#~ msgid "Rich Text"
+#~ msgstr "Bogato besedilo"
+
+#~ msgid "Date"
+#~ msgstr "Datum"
+
+#~ msgid "Entity"
+#~ msgstr "Entiteta"
+
+#~ msgid "File"
+#~ msgstr "Datoteka"
+
+#~ msgid "Option Group"
+#~ msgstr "Možnost skupine"
+
+#~ msgid "Required"
+#~ msgstr "Zahtevano"
+
+#~ msgid "Product attribute"
+#~ msgstr "Atribut izdelka"
+
+#~ msgid "Product attributes"
+#~ msgstr "Atributi izdelka"
+
+#~ msgid "Must be str or unicode"
+#~ msgstr "Mora biti str ali unicode"
+
+#~ msgid "Must be a float"
+#~ msgstr "Mora biti plavajoča vejica"
+
+#~ msgid "Must be an integer"
+#~ msgstr "Mora biti celo število"
+
+#~ msgid "Must be a date or datetime"
+#~ msgstr "Mora biti datum ali datum in ura"
+
+#~ msgid "Must be a boolean"
+#~ msgstr "Mora biti operacija formalne logike (Drži / Ne drži)"
+
+#~ msgid "Must be a model instance"
+#~ msgstr "Mora biti instanca modela"
+
+#~ msgid "Must be an AttributeOption model object instance"
+#~ msgstr "Mora biti instanca objekta modela MožnostAtributa "
+
+#~ msgid "AttributeOption has not been saved yet"
+#~ msgstr "MožnostAtributa še ni bila shranjena"
+
+#~ msgid "%(enum)s is not a valid choice for %(attr)s"
+#~ msgstr "%(enum)s ni veljavna izbira za %(attr)s"
+
+#~ msgid "Must be a file field"
+#~ msgstr "Mora biti polje za datoteke"
+
+#~ msgid "Attribute"
+#~ msgstr "Atribut"
+
+#~ msgid "Boolean"
+#~ msgstr "Operacija formalne logike"
+
+#~ msgid "Richtext"
+#~ msgstr "Bogato besedilo"
+
+#~ msgid "Value option"
+#~ msgstr "Možnost vrednosti"
+
+#~ msgid "Product attribute value"
+#~ msgstr "Atribut vrednosti izdelka"
+
+#~ msgid "Product attribute values"
+#~ msgstr "Atribut vrednosti izdelkov"
+
+#~ msgid "Attribute option group"
+#~ msgstr "Atribut možnosti skupine"
+
+#~ msgid "Attribute option groups"
+#~ msgstr "Atribut možnosti skupin"
+
+#~ msgid "Group"
+#~ msgstr "Skupina"
+
+#~ msgid "Attribute option"
+#~ msgstr "Možnost atributa"
+
+#~ msgid "Attribute options"
+#~ msgstr "Možnosti atributa"
+
+#~ msgid "Required - a value for this option must be specified"
+#~ msgstr "Zahtevano - vrednost za to možnost mora biti določena"
+
+#~ msgid "Optional - a value for this option can be omitted"
+#~ msgstr "Izbirno - vrednost za to možnost je lahko izpuščena"
+
+#~ msgid "Original"
+#~ msgstr "Original"
+
+#~ msgid "Caption"
+#~ msgstr "Naslov slike"
+
+#~ msgid ""
+#~ "An image with a display order of zero will be the primary image for a "
+#~ "product"
+#~ msgstr "Slika z zaporedno številko 0 bo primarna slika izdelka"
+
+#~ msgid "Product image"
+#~ msgstr "Slika izdelka"
+
+#~ msgid "Product images"
+#~ msgstr "Slike izdelka"
+
+#~ msgid "%(obj)s has no attribute named '%(attr)s'"
+#~ msgstr "%(obj)s nima atributa '%(attr)s'"
+
+#~ msgid "%(attr)s attribute cannot be blank"
+#~ msgstr "%(attr)s atribut ne more biti prazen"
+
+#~ msgid "%(attr)s attribute %(err)s"
+#~ msgstr "%(attr)s atribut %(err)s"
+
+#~ msgctxt "Product review title"
+#~ msgid "Title"
+#~ msgstr "Naslov"
+
+#~ msgid "Body"
+#~ msgstr "Telo"
+
+#~ msgctxt "Anonymous reviewer name"
+#~ msgid "Name"
+#~ msgstr "Ime"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Requires moderation"
+#~ msgstr "Potrebuje moderacijo"
+
+#~ msgid "Approved"
+#~ msgstr "Odobreno"
+
+#~ msgid "Rejected"
+#~ msgstr "Zavrnjeno"
+
+#~ msgid "Total Votes"
+#~ msgstr "Skupno število glasov"
+
+#~ msgid "Delta Votes"
+#~ msgstr "Sprememba glasov"
+
+#~ msgid "Product review"
+#~ msgstr "Mnenje o izdelku"
+
+#~ msgid "Product reviews"
+#~ msgstr "Mnenja o izdelku"
+
+#~ msgid "Anonymous reviews must include a name and an email"
+#~ msgstr "Anonimna mnenja morajo vsebovati ime in e-poštni naslov"
+
+#~ msgid "anonymous"
+#~ msgstr "anonimnež"
+
+#~ msgid "Only signed in users can vote"
+#~ msgstr "Le prijavljeni uporabniki lahko glasujejo"
+
+#~ msgid "Up"
+#~ msgstr "Gor"
+
+#~ msgid "Down"
+#~ msgstr "Dol"
+
+#~ msgid "Delta"
+#~ msgstr "Sprememba"
+
+#~ msgid "Vote"
+#~ msgstr "Glas"
+
+#~ msgid "Votes"
+#~ msgstr "Glasovi"
+
+#~ msgid "You cannot vote on your own reviews"
+#~ msgstr "Ne morete glasovati za svoja mnenja"
+
+#~ msgid "Only signed-in users can vote on reviews"
+#~ msgstr "Le prijavljeni uporabniki lahko ocenjujejo mnenja"
+
+#~ msgid "You can only vote once on a review"
+#~ msgstr "Glasujete lahko le enkrat na mnenje"
+
+#~ msgid "Catalogue reviews"
+#~ msgstr "Mnenja o katalogu"
+
+#~ msgid "Recency"
+#~ msgstr "Najnovejši"
+
+#~ msgid "Sort by"
+#~ msgstr "Uredi po"
+
+#~ msgid "You have already reviewed this product!"
+#~ msgstr "Ste že napisali mnenje o izdelku!"
+
+#~ msgid "You can't leave a review for this product."
+#~ msgstr "Za ta izdelek ne morete napisati mnenja."
+
+#~ msgid "Thank you for reviewing this product"
+#~ msgstr "Zahvaljujemo se vam za mnenje"
+
+#~ msgid "Thanks for voting!"
+#~ msgstr "Zahvaljujemo se vam za glas!"
+
+#~ msgid "%(filename)s is not a valid image (%(error)s)"
+#~ msgstr "%(filename)s ni veljavna slika (%(error)s)"
+
+#~ msgid "%s is not a valid image archive"
+#~ msgstr "%s ni veljaven format slike"
+
+#~ msgid "The given page number was invalid."
+#~ msgstr "Dana številka strani ni veljavna."
+
+#~ msgid "Checkout"
+#~ msgstr "Blagajna"
+
+#~ msgid "My email address is"
+#~ msgstr "Moj e-poštni naslov je"
+
+#~ msgid "I am a new customer and want to checkout as a guest"
+#~ msgstr "Sem nova stranka in želim na blagajno kot gost"
+
+#~ msgid ""
+#~ "I am a new customer and want to create an account before checking out"
+#~ msgstr ""
+#~ "Sem nova stranka in si želim ustvariti račun pred odhodom na blagajno"
+
+#~ msgid "I am a returning customer, and my password is"
+#~ msgstr "Sem uporabnik in moje geslo je"
+
+#~ msgid "A user with that email address already exists"
+#~ msgstr "Uporabnik s tem e-poštnim naslovom že obstaja"
+
+#~ msgid "You need to add some items to your basket to checkout"
+#~ msgstr "Pred odhodom na blagajno morate dodati kakšen izdelek v košarico"
+
+#~ msgid ""
+#~ "'%(title)s' is no longer available to buy (%(reason)s). Please adjust "
+#~ "your basket to continue"
+#~ msgstr ""
+#~ "'%(title)s ni več mogoče kupiti (%(reason)s). Prosimo vas, da popravite "
+#~ "košarico pred nadaljevanjem"
+
+#~ msgid "Please either sign in or enter your email address"
+#~ msgstr "Proimo vas, da se vpišete ali vnesete vaš e-poštni naslov"
+
+#~ msgid "Please choose a shipping address"
+#~ msgstr "Prosimo vas, da izberete naslov za dostavo"
+
+#~ msgid ""
+#~ "Your previously chosen shipping address is no longer valid.  Please "
+#~ "choose another one"
+#~ msgstr ""
+#~ "Vaš predhodni naslov za dostavo ni več veljaven. Prosimo vas, da izberete "
+#~ "novega"
+
+#~ msgid "Please choose a shipping method"
+#~ msgstr "Prosimo vas, da izberete način dostave"
+
+#~ msgid ""
+#~ "Your previously chosen shipping method is no longer valid.  Please choose "
+#~ "another one"
+#~ msgstr ""
+#~ "Vaš predhodno izbran način dostave ni več veljaven. Prosimo vas, da "
+#~ "izberete drugega"
+
+#~ msgid ""
+#~ "Create your account and then you will be redirected back to the checkout "
+#~ "process"
+#~ msgstr "Ustvarite račun in boste nato preusmerjeni na blagajno"
+
+#~ msgid "Address saved"
+#~ msgstr "Naslov je shranjen"
+
+#~ msgid "Address deleted"
+#~ msgstr "Naslov je izbrisan"
+
+#~ msgid ""
+#~ "Shipping is unavailable for your chosen address - please choose another"
+#~ msgstr "Dostava na dan naslov ni možna - prosimo vas, da izberete drugega"
+
+#~ msgid "Your submitted shipping method is not permitted"
+#~ msgstr "Izbran način dostave ni dovoljen"
+
+#~ msgid ""
+#~ "A problem occurred while processing payment for this order - no payment "
+#~ "has been taken.  Please contact customer services if this problem persists"
+#~ msgstr ""
+#~ "Nastal je problem pri obdelavi vašega plačila. Nobena transakcija ni bila "
+#~ "izvedena. Prosimo vas, da kontaktirate z našo službo za stranke, če "
+#~ "problem ne izgine"
+
+#~ msgid "No order found"
+#~ msgstr "Nobeno naročilo ni bilo najdeno"
+
+#~ msgid "email address"
+#~ msgstr "e-poštni naslov"
+
+#~ msgid "Staff status"
+#~ msgstr "Status skrbnika"
+
+#~ msgid "Designates whether the user can log into this admin site."
+#~ msgstr "Določa, če se lahko uproabnik projavi v administratorsko stran."
+
+#~ msgid "Active"
+#~ msgstr "Aktiven"
+
+#~ msgid ""
+#~ "Designates whether this user should be treated as active. Unselect this "
+#~ "instead of deleting accounts."
+#~ msgstr ""
+#~ "Določa, če je uporabnik lahko tretiran kot aktiven. Odkljukajte raje to, "
+#~ "kot da izbrišete račune."
+
+#~ msgid "date joined"
+#~ msgstr "datum registracije"
+
+#~ msgid "Users"
+#~ msgstr "Uporabniki"
+
+#~ msgid "Subject"
+#~ msgstr "Zadeva"
+
+#~ msgid "Body Text"
+#~ msgstr "Besedijo v jedru"
+
+#~ msgid "Body HTML"
+#~ msgstr "Jedro HTML"
+
+#~ msgid "Date Sent"
+#~ msgstr "Datum pošiljanja"
+
+#~ msgid "Emails"
+#~ msgstr "E-poštni naslovi"
+
+#~ msgid "Email to %(user)s with subject '%(subject)s'"
+#~ msgstr "E-poštno sporočilo za %(user)s z zadevo '%(subject)s'"
+
+#~ msgid "Code used for looking up this event programmatically"
+#~ msgstr "Koda, ki bo programsko pregledovala dogodek"
+
+#~ msgid "This is just used for organisational purposes"
+#~ msgstr "To je uporabljeno le v organizacijske namene"
+
+#~ msgid "Order related"
+#~ msgstr "Povezano z naročilom"
+
+#~ msgid "User related"
+#~ msgstr "Povezano z uporabnikom"
+
+#~ msgid "Email Subject Template"
+#~ msgstr "Predloga zadeve e-poštnega sporočila"
+
+#~ msgid "Email Body Template"
+#~ msgstr "Predloga jedra e-poštnega sporočila"
+
+#~ msgid "Email Body HTML Template"
+#~ msgstr "HTML predloga jedra e-poštnega sporočila"
+
+#~ msgid "HTML template"
+#~ msgstr "HTML preloga"
+
+#~ msgid "SMS Template"
+#~ msgstr "SMS predloga"
+
+#~ msgid "SMS template"
+#~ msgstr "SMS predloga"
+
+#~ msgid "Date Updated"
+#~ msgstr "Datum posodobitve"
+
+#~ msgid "Communication event type"
+#~ msgstr "Tip komunikacije"
+
+#~ msgid "Communication event types"
+#~ msgstr "Tipi komunikacij"
+
+#~ msgid "Inbox"
+#~ msgstr "Nabiralnik"
+
+#~ msgid "Archive"
+#~ msgstr "Arhiv"
+
+#~ msgid "Notification"
+#~ msgstr "Obvestilo"
+
+#~ msgid "Notifications"
+#~ msgstr "Obvestila"
+
+#~ msgid "Key"
+#~ msgstr "Ključ"
+
+#~ msgid "Not yet confirmed"
+#~ msgstr "Ni še potrjen"
+
+#~ msgid "Cancelled"
+#~ msgstr "Preklicano"
+
+#~ msgid "Closed"
+#~ msgstr "Zaprto"
+
+#~ msgid "Date confirmed"
+#~ msgstr "Datum potrditve"
+
+#~ msgid "Date cancelled"
+#~ msgstr "Datum preklica"
+
+#~ msgid "Date closed"
+#~ msgstr "Datum zaprtja"
+
+#~ msgid "Product alert"
+#~ msgstr "Opozorilo izdelka"
+
+#~ msgid "Product alerts"
+#~ msgstr "Opozorila izdelka"
+
+#~ msgid "Product Alerts"
+#~ msgstr "Opozorila izdelka"
+
+#~ msgid "An alert has been created"
+#~ msgstr "Opozorilo je ustvarjeno"
+
+#~ msgid "A confirmation email has been sent to %s"
+#~ msgstr "Potrditveno e-poštno sporočilo je bilo poslano na %s"
+
+#~ msgid "Your stock alert is now active"
+#~ msgstr "Obvestilo zaloge je aktivno"
+
+#~ msgid "Your stock alert cannot be confirmed"
+#~ msgstr "Obvestilo zaloge ne more biti potrjeno"
+
+#~ msgid "Your stock alert has been cancelled"
+#~ msgstr "Obvestilo zaloge je preklicano"
+
+#~ msgid "Your stock alert cannot be cancelled"
+#~ msgstr "Obvestilo zaloge ne more biti preklicano"
+
+#~ msgid "Customer"
+#~ msgstr "Stranka"
+
+#~ msgid "Email address"
+#~ msgstr "E-poštni naslov"
+
+#~ msgid "Password"
+#~ msgstr "Geslo"
+
+#~ msgid "The entered password is not valid!"
+#~ msgstr "Vnešeno geslo ni veljavno!"
+
+#~ msgid "Confirm password"
+#~ msgstr "Potrdite geslo"
+
+#~ msgid "The two password fields didn't match."
+#~ msgstr "Gesli se ne ujemata."
+
+#~ msgctxt "start date"
+#~ msgid "From"
+#~ msgstr "Od"
+
+#~ msgctxt "end date"
+#~ msgid "To"
+#~ msgstr "Do"
+
+#~ msgid "Order number"
+#~ msgstr "Številka naročila"
+
+#~ msgid "At least one field is required."
+#~ msgstr "Vsaj eno polje mora biti izpolnjeno."
+
+#~ msgid "All orders"
+#~ msgstr "Vsa naročila"
+
+#~ msgid ""
+#~ "Orders placed between %(date_from)s and %(date_to)s and order number "
+#~ "containing %(order_number)s"
+#~ msgstr ""
+#~ "Naročila med dnem %(date_from)s in dnem %(date_to)s in številko naročila "
+#~ "z %(order_number)s "
+
+#~ msgid "Orders placed between %(date_from)s and %(date_to)s"
+#~ msgstr "Naročila med dnem %(date_from)s in dnem %(date_to)s"
+
+#~ msgid ""
+#~ "Orders placed since %(date_from)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "Naročila oddana od dne %(date_from)s naprej in s številko naročila z "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed since %(date_from)s"
+#~ msgstr "Naročila oddana od %(date_from)s"
+
+#~ msgid ""
+#~ "Orders placed until %(date_to)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "Naročila oddana do dne %(date_to)s in s številko naročila z "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed until %(date_to)s"
+#~ msgstr "Naročila oddana do dne %(date_to)s"
+
+#~ msgid "Orders with order number containing %(order_number)s"
+#~ msgstr "Naročila s številko %(order_number)s"
+
+#~ msgid "A user with this email address already exists"
+#~ msgstr "Uporabnik s tem e-poštnim naslovom že obstaja"
+
+#~ msgid "Send notification to"
+#~ msgstr "Pošlji obvestilo na"
+
+#~ msgid "Enter your email"
+#~ msgstr "Vnesite vaš e-poštni naslov"
+
+#~ msgid "There is already an active stock alert for %s"
+#~ msgstr "Trenutno že obstaja aktivno obveščanje za zalogo %s"
+
+#~ msgid "You already have an active alert for this product"
+#~ msgstr "Že imate aktivirano obveščanje za ta izdelek"
+
+#~ msgid "%(count)d notification archived"
+#~ msgid_plural "%(count)d notifications archived"
+#~ msgstr[0] "%(count)d obvestilo shranjeno"
+#~ msgstr[1] "%(count)d obvestili shranjeni"
+#~ msgstr[2] "%(count)d obestila shranjena"
+#~ msgstr[3] "%(count)d shranjenih obvestil"
+
+#~ msgid "%(count)d notification deleted"
+#~ msgid_plural "%(count)d notifications deleted"
+#~ msgstr[0] "%(count)d obvestilo je izbrisano"
+#~ msgstr[1] "%(count)d obvestili sta izbrisani"
+#~ msgstr[2] "%(count)d obvestila so izbrisana"
+#~ msgstr[3] "%(count)d obvestil je izbrisanih"
+
+#~ msgid "Welcome back"
+#~ msgstr "Dobrodošli nazaj"
+
+#~ msgid "Thanks for registering!"
+#~ msgstr "Najlepše se vam zahvaljujemo za registracijo!"
+
+#~ msgid "Profile"
+#~ msgstr "Profil"
+
+#~ msgid "Edit Profile"
+#~ msgstr "Uredi profil"
+
+#~ msgid "Profile updated"
+#~ msgstr "Profil je posodobljen"
+
+#~ msgid "Delete profile"
+#~ msgstr "Izbriši profil"
+
+#~ msgid "Your profile has now been deleted. Thanks for using the site."
+#~ msgstr "Vaš profil je bil izbrisan. Zahvaljujemo se vam za obisk strani."
+
+#~ msgid "Change Password"
+#~ msgstr "Spremenite geslo"
+
+#~ msgid "Password updated"
+#~ msgstr "Geslo je posodobljeno"
+
+#~ msgid "Email History"
+#~ msgstr "Zgodovina e-pošte"
+
+#~ msgid "Order History"
+#~ msgstr "Zgodovina naročil"
+
+#~ msgid "Order"
+#~ msgstr "Naročilo"
+
+#~ msgid ""
+#~ "All available lines from order %(number)s have been added to your basket"
+#~ msgstr ""
+#~ "Vse možne vrstice naročila %(number)s so bile dodane v vašo košarico"
+
+#~ msgid ""
+#~ "It is not possible to re-order order %(number)s as none of its lines are "
+#~ "available to purchase"
+#~ msgstr ""
+#~ "Ni možno ponoviti naročila %(number)s ker nobene izmed vrstic ni več "
+#~ "možno kupiti"
+
+#~ msgid "%(qty)d copies of '%(product)s' have been added to your basket"
+#~ msgstr "%(qty)d kopij '%(product)s' je bilo dodanih v vašo košarico"
+
+#~ msgid "'%s' has been added to your basket"
+#~ msgstr "'%s' je dodan v košarico"
+
+#~ msgid "Address Book"
+#~ msgstr "Imenik"
+
+#~ msgid "Add a new address"
+#~ msgstr "Dodaj nov naslov"
+
+#~ msgid "Address '%s' created"
+#~ msgstr "Naslov '%s' je ustvarjen"
+
+#~ msgid "Edit address"
+#~ msgstr "Uredi naslov"
+
+#~ msgid "Address '%s' updated"
+#~ msgstr "Naslov '%s' je posodobljen"
+
+#~ msgid "Delete address?"
+#~ msgstr "Izbrišem naslov?"
+
+#~ msgid "Address '%s' deleted"
+#~ msgstr "Naslov '%s' je izbrisan"
+
+#~ msgid "We do not ship to this country"
+#~ msgstr "Dostava v to državo žal ni mogoča"
+
+#~ msgid "Wish Lists"
+#~ msgstr "Seznam želja"
+
+#~ msgid "Quantities updated."
+#~ msgstr "Količina je posodobljena."
+
+#~ msgid "Create a new wish list"
+#~ msgstr "Ustvari nov seznam želja"
+
+#~ msgid "The requested product no longer exists"
+#~ msgstr "Željen izdelek ne obstaja več"
+
+#~ msgid "Your wishlist has been created and '%(name)s has been added"
+#~ msgstr "Seznam želja je ustvarjen in '%(name)s' je dodan"
+
+#~ msgid "Your wishlist has been created"
+#~ msgstr "Seznam želja je ustvarjen"
+
+#~ msgid "%(title)s has been added to your wishlist"
+#~ msgstr "%(title)s je dodan na seznam želja"
+
+#~ msgid "Your '%s' wishlist has been updated"
+#~ msgstr "Vaš seznam želja '%s' je posodobljen"
+
+#~ msgid "Delete %s"
+#~ msgstr "Izbriši %s"
+
+#~ msgid "Your '%s' wish list has been deleted"
+#~ msgstr "Vaš seznam želja '%s' je izbrisan"
+
+#~ msgid "'%s' was added to your wish list."
+#~ msgstr "'%s' je dodan v vaš seznam želja."
+
+#~ msgid "Remove %s"
+#~ msgstr "Odstrani %s"
+
+#~ msgid "'%(title)s' was removed from your '%(name)s' wish list"
+#~ msgstr "%(title)s je izbrisan z vašega seznama želja '%(name)s'"
+
+#~ msgid "'%(title)s' moved to '%(name)s' wishlist"
+#~ msgstr "'%(title)s' je prestavljen na seznam želja '%(name)s'"
+
+#~ msgid "Create a new product of type"
+#~ msgstr "Ustvari nov izdelek tipa"
+
+#~ msgid "-- Choose type --"
+#~ msgstr "-- Izberi tip --"
+
+#~ msgid "Product title"
+#~ msgstr "Ime izdelka"
+
+#~ msgid "Select an option group"
+#~ msgstr "Izberite opcijo skupine"
+
+#~ msgid ""
+#~ "At least one stock record must be set to a partner that you're associated "
+#~ "with."
+#~ msgstr ""
+#~ "Vsaj en zapis zaloge mora biti nastavljen na partnerja s katerim "
+#~ "sodelujete."
+
+#~ msgid "Stand-alone and parent products must have at least one category"
+#~ msgstr "Samostojni in nadrejeni izdelki morajo imeti vsaj eno kategorijo"
+
+#~ msgid "A child product should not have categories"
+#~ msgstr "Podrejen izdelek ne sme imeti kategorije"
+
+#~ msgid "Title"
+#~ msgstr "Naziv"
+
+#~ msgid "Variants"
+#~ msgstr "Izpeljanke"
+
+#~ msgid "Stock records"
+#~ msgstr "Podatki o zalogi"
+
+#~ msgid "Actions"
+#~ msgstr "Akcije"
+
+#~ msgid "Number of child categories"
+#~ msgstr "Število podrejenih kategorij"
+
+#~ msgid "%s Category"
+#~ msgid_plural "%s Categories"
+#~ msgstr[0] "%s kategorija"
+#~ msgstr[1] "%s kategoriji"
+#~ msgstr[2] "%s kategorije"
+#~ msgstr[3] "%s kategorij"
+
+#~ msgid "Product search results"
+#~ msgstr "Rezultati iskanja izdelkov"
+
+#~ msgid "Please choose a product type"
+#~ msgstr "Prosimo izberite tip izdelka"
+
+#~ msgid "Create new %(product_class)s product"
+#~ msgstr "Ustvari nov %(product_class)s izdelek"
+
+#~ msgid "Create new variant of %(parent_product)s"
+#~ msgstr "Ustvari novo varianto %(parent_product)s"
+
+#~ msgid "Editing variant of %(parent_product)s"
+#~ msgstr "Urejanje variante %(parent_product)s"
+
+#~ msgid "Your submitted data was not valid - please correct the errors below"
+#~ msgstr "Vnešeni podatki niso veljavni - prosimo popravite napake spodaj"
+
+#~ msgid "Delete product variant?"
+#~ msgstr "Izbrišem varianto izdelka?"
+
+#~ msgid "Delete product?"
+#~ msgstr "Izbrišem izdelek?"
+
+#~ msgid "Deleted product variant '%s'"
+#~ msgstr "Izbrisana varianta izdelka '%s'"
+
+#~ msgid "Deleted product '%s'"
+#~ msgstr "Izbrisan izdelek '%s'"
+
+#~ msgid "Alerts with status \"%s\""
+#~ msgstr "Opozorila s statusom \"%s\""
+
+#~ msgid "All alerts"
+#~ msgstr "Vsa opozorila"
+
+#~ msgid "Add a new category"
+#~ msgstr "Dodaj novo kategorijo"
+
+#~ msgid "Category created successfully"
+#~ msgstr "Kategorija je bila uspešno ustvarjena"
+
+#~ msgid "Update category '%s'"
+#~ msgstr "Posodobi kategorijo '%s'"
+
+#~ msgid "Category updated successfully"
+#~ msgstr "Kategorija je uspešno posodobljena"
+
+#~ msgid "Category deleted successfully"
+#~ msgstr "Kategorija je uspešno izbrisana"
+
+#~ msgid "Add a new product type"
+#~ msgstr "Dodaj nov tip izdelka"
+
+#~ msgid "Product type created successfully"
+#~ msgstr "Tip izdelka uspešno ustvarjen"
+
+#~ msgid "Update product type '%s'"
+#~ msgstr "Posodobi tip izdelka '%s'"
+
+#~ msgid "Product type updated successfully"
+#~ msgstr "Tip izdelka uspešno posodobljen"
+
+#~ msgid "Delete product type '%s'"
+#~ msgstr "Izbriši tip izdelka '%s'"
+
+#~ msgid "Unable to delete '%s'"
+#~ msgstr "Ne morem izbrisati '%s'"
+
+#~ msgid "%i products are still assigned to this type"
+#~ msgstr "%i izdelkov je še vedno dodeljeno temu tipu"
+
+#~ msgid "Product type deleted successfully"
+#~ msgstr "Tip izdelka uspešno izbrisan"
+
+#~ msgid "Communications dashboard"
+#~ msgstr "Nadzorna plošča komunikacij"
+
+#~ msgid "Email subject template"
+#~ msgstr "Predloga zadeve e-poštnega sporočila"
+
+#~ msgid "Email body text template"
+#~ msgstr "Predloga jedra e-poštnega sporočila"
+
+#~ msgid "Email body HTML template"
+#~ msgstr "HTML predloga jedra e-poštnega sporočila"
+
+#~ msgid "Preview email"
+#~ msgstr "Predogled e-poštnega sporočila"
+
+#~ msgid "No order found with this number"
+#~ msgstr "Naročilo pod to številko ni bilo najdeno"
+
+#~ msgid "Please enter an email address"
+#~ msgstr "Proimo vas, da vnesete vaš e-poštni naslov"
+
+#~ msgid ""
+#~ "The submitted form was not valid, please correct the errors and resubmit"
+#~ msgstr ""
+#~ "Vnešeni podatki niso veljavni - prosimo popravite napake spodaj in "
+#~ "ponovno oddate"
+
+#~ msgid "Email saved"
+#~ msgstr "E-poštni naslov je shranjen"
+
+#~ msgid "A preview email has been sent to %s"
+#~ msgstr "Predogled e-poštnega sporočila je poslan na %s"
+
+#~ msgid "Offers dashboard"
+#~ msgstr "Nadzorna plošča ponudb"
+
+#~ msgid "Start date"
+#~ msgstr "Datum začetka"
+
+#~ msgid "End date"
+#~ msgstr "Datum konca"
+
+#~ msgid "The end date must be after the start date"
+#~ msgstr "Datum konca mora biti po datumu začetka"
+
+#~ msgid "Custom condition"
+#~ msgstr "Posebni pogoj"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom condition"
+#~ msgstr ""
+#~ "Prosimo da izberete interval, tip in vrednost ALI izberete poseben pogoj"
+
+#~ msgid "A range is required"
+#~ msgstr "Zahtevan je interval"
+
+#~ msgid "Custom incentive"
+#~ msgstr "Posebna pobuda"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom incentive"
+#~ msgstr ""
+#~ "Prosimo da izberete interval, tip in vrednost ALI izberete posebno pobudo"
+
+#~ msgid "No other options can be set if you are using a custom incentive"
+#~ msgstr ""
+#~ "Nobena druga možnost ne more biti izbrana, če ste izbrai posebno pobudo"
+
+#~ msgid "Offer name"
+#~ msgstr "Ime ponudbe"
+
+#~ msgid "Is active?"
+#~ msgstr "Je aktivna?"
+
+#~ msgid "Order date"
+#~ msgstr "Datum naročila"
+
+#~ msgid "Order total"
+#~ msgstr "Skupno naročilo"
+
+#~ msgid "Cost"
+#~ msgstr "Strošek"
+
+#~ msgid "All offers"
+#~ msgstr "Vse ponudbe"
+
+#~ msgid "Offers matching '%s'"
+#~ msgstr "Ponudbe ustrezajo '%s'"
+
+#~ msgid "%s step not complete"
+#~ msgstr "Korak %s ni zaključen"
+
+#~ msgid "Offer '%s' updated"
+#~ msgstr "Ponudba '%s' je posodobljena"
+
+#~ msgid "Offer '%s' created!"
+#~ msgstr "Ponudba '%s' je ustvarjena"
+
+#~ msgid "Name and description"
+#~ msgstr "Ime in opis"
+
+#~ msgid "Incentive"
+#~ msgstr "Pobuda"
+
+#~ msgid "Restrictions"
+#~ msgstr "Omejitve"
+
+#~ msgid "Offer deleted!"
+#~ msgstr "Ponudba je izbrisana!"
+
+#~ msgid "Offer is already suspended"
+#~ msgstr "Ponudba je že suspendirana"
+
+#~ msgid "Offer suspended"
+#~ msgstr "Ponudba je suspendirana"
+
+#~ msgid "Offer cannot be reinstated as it is not currently suspended"
+#~ msgstr "Ponudba ne more biti ponovljena, ker je trenutno suspendirana"
+
+#~ msgid "Offer reinstated"
+#~ msgstr "Ponudba je ponovljena"
+
+#~ msgid "Orders dashboard"
+#~ msgstr "Nadzorna plošča ponudb"
+
+#~ msgid "Orders placed since %s"
+#~ msgstr "Naročila od %s naprej"
+
+#~ msgid "Orders placed until %s"
+#~ msgstr "Naročila do %s"
+
+#~ msgid "Customer name"
+#~ msgstr "Ime stranke"
+
+#~ msgid "Product name"
+#~ msgstr "Ime izdelka"
+
+#~ msgid "Partner SKU"
+#~ msgstr "Partnerjev SKU"
+
+#~ msgid "Date from"
+#~ msgstr "Od dne"
+
+#~ msgid "Date to"
+#~ msgstr "Do dne"
+
+#~ msgid "Voucher code"
+#~ msgstr "Koda kupona"
+
+#~ msgid "Payment method"
+#~ msgstr "Način plačila"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "CSV"
+#~ msgstr "CSV"
+
+#~ msgid "Get results as"
+#~ msgstr "Pridobi rezultate kot"
+
+#~ msgid "New order status"
+#~ msgstr "Novo stanje naročil"
+
+#~ msgid "Order number starts with \"{order_number}\""
+#~ msgstr "Številka naročila se začne z \"{order_number}\""
+
+#~ msgid "Customer name matches \"{customer_name}\""
+#~ msgstr "Ime stranke se ujema z \"{customer_name}\""
+
+#~ msgid "Product name matches \"{product_name}\""
+#~ msgstr "Ime izdelka se ujema z \"{product_name}\""
+
+#~ msgid "Includes an item with UPC \"{upc}\""
+#~ msgstr "Vsebuje izdelek z Univerzalno kodo produkta \"{upc}\""
+
+#~ msgid "Includes an item with partner SKU \"{partner_sku}\""
+#~ msgstr "Vsebuje izdelek s partnerskim SKU \"{partner_sku}\""
+
+#~ msgid "Placed between {start_date} and {end_date}"
+#~ msgstr "Naročeno med {start_date} in {end_date}"
+
+#~ msgid "Placed after {start_date}"
+#~ msgstr "Naročeno po {start_date}"
+
+#~ msgid "Placed before {end_date}"
+#~ msgstr "Naročeno pred {end_date}"
+
+#~ msgid "Used voucher code \"{voucher_code}\""
+#~ msgstr "Uporabljena koda kupona \"{voucher_code}\""
+
+#~ msgid "Paid using {payment_method}"
+#~ msgstr "Plačano z {payment_method}"
+
+#~ msgid "Order status is {order_status}"
+#~ msgstr "Stanje naročila je: {order_status}"
+
+#~ msgid "Order value"
+#~ msgstr "Vrednost naročila"
+
+#~ msgid "Date of purchase"
+#~ msgstr "Datum nakupa"
+
+#~ msgid "Number of items"
+#~ msgstr "Število izdelkov"
+
+#~ msgid "Order status"
+#~ msgstr "Stanje naročila"
+
+#~ msgid "Customer email address"
+#~ msgstr "E-poštni naslov stranke"
+
+#~ msgid "Deliver to name"
+#~ msgstr "Dostaviti na ime"
+
+#~ msgid "Bill to name"
+#~ msgstr "Račun na ime"
+
+#~ msgid "The new status '%s' is not valid"
+#~ msgstr "Novo stanje '%s' ni veljavno"
+
+#~ msgid "The new status '%s' is not valid for this order"
+#~ msgstr "Novo stanje '%s' ni veljavno za to naročilo"
+
+#~ msgid "Unable to change order status due to payment error: %s"
+#~ msgstr "Ne morete spremeniti stanje naročila zaradi napake plačila : %s"
+
+#~ msgid "Order status changed from '%(old_status)s' to '%(new_status)s'"
+#~ msgstr ""
+#~ "Stanje naročila je spremenjeno iz '%(old_status)s' v '%(new_status)s'"
+
+#~ msgid "No valid action submitted"
+#~ msgstr "Nobeno veljavno dejanje ni bilo storjeno"
+
+#~ msgid "Invalid action"
+#~ msgstr "Neveljavno dejanje"
+
+#~ msgid "You must select some lines to act on"
+#~ msgstr "Izbrati morate nekaj vrstic za upravljanje"
+
+#~ msgid "Invalid lines requested"
+#~ msgstr "Zahtevane so neveljavne vrstice"
+
+#~ msgid "The entered quantity for line #%s is not valid"
+#~ msgstr "Vnešena količina za vrstico %s ni veljavna"
+
+#~ msgid ""
+#~ "The entered quantity for line #%(line_id)s should not be higher than "
+#~ "%(quantity)s"
+#~ msgstr ""
+#~ "Vnešena količina za vrstico %(line_id)s ne sme biti višja od %(quantity)s"
+
+#~ msgid "Note saved"
+#~ msgstr "Opomba je shranjena"
+
+#~ msgid "Note cannot be deleted"
+#~ msgstr "Opomba ne more biti izbrisana"
+
+#~ msgid "Note deleted"
+#~ msgstr "Opomba je izbrisana"
+
+#~ msgid "Invalid form submission"
+#~ msgstr "Napačna oblika oddaje"
+
+#~ msgid ""
+#~ "Unable to change order status as the requested new status is not valid"
+#~ msgstr ""
+#~ "Ne morem spremeniti stanja naročila, ker je zahtevano novo stanje "
+#~ "neveljavno"
+
+#~ msgid "Please choose a valid amount"
+#~ msgstr "Prosimo izberite veljavno količino"
+
+#~ msgid "'%(status)s' is not a valid new status for line %(line_id)d"
+#~ msgstr "'%(status)s' ni veljavno novo stanje za vrstico %(line_id)d"
+
+#~ msgid ""
+#~ "Status of line #%(line_id)d changed from '%(old_status)s' to "
+#~ "'%(new_status)s'"
+#~ msgstr ""
+#~ "Stanje vrstice #%(line_id)d se je spremenilo iz '%(old_status)s' v "
+#~ "'%(new_status)s'"
+
+#~ msgid "The event type '%s' is not valid"
+#~ msgstr "Dogodek tipa '%s' ni veljaven"
+
+#~ msgid "Unable to create shipping event: %s"
+#~ msgstr "Ne morem ustvariti dogodka dostave: %s"
+
+#~ msgid "Unable to create shipping event due to payment error: %s"
+#~ msgstr "Ne morem ustvariti dogodka dostave zaradi napake %s pri plačilu"
+
+#~ msgid "Shipping event created"
+#~ msgstr "Dogodek dostave je ustvarjen"
+
+#~ msgid "Unable to create payment event due to payment error: %s"
+#~ msgstr "Ne morem ustvariti dogodka plačila zaradi napake %s pri plačilu"
+
+#~ msgid "Unable to create payment event: %s"
+#~ msgstr "Ne morem ustvariti dogodka plačila: %s"
+
+#~ msgid "Payment event created"
+#~ msgstr "Dogodek plačila je ustvarjen"
+
+#~ msgid "%(field)s changed from '%(old_value)s' to '%(new_value)s'"
+#~ msgstr "%(field)s je spremenjen iz '%(old_value)s' v '%(new_value)s'"
+
+#~ msgid ""
+#~ "Delivery address updated:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Naslov dostave je posodobljen:\n"
+#~ "%s"
+
+#~ msgid "Delivery address updated"
+#~ msgstr "Naslov dostave je posodobljen"
+
+#~ msgid "Pages dashboard"
+#~ msgstr "Nadzorna plošča strani"
+
+#~ msgctxt "Page title"
+#~ msgid "Title"
+#~ msgstr "Naslov"
+
+#~ msgid "Example: '/about/contact/'."
+#~ msgstr "Primer: '/about/contact/'."
+
+#~ msgid "All pages"
+#~ msgstr "Vse strani"
+
+#~ msgid " with title containing '%s'"
+#~ msgstr "z naslovom, ki vsebuje '%s'"
+
+#~ msgid "Create New Page"
+#~ msgstr "Ustvari novo stran"
+
+#~ msgid "Deleted page '%s'"
+#~ msgstr "Izbrisana stran '%s'"
+
+#~ msgid "Partners dashboard"
+#~ msgstr "Nadzorna plošča partnerjev"
+
+#~ msgctxt "Partner's name"
+#~ msgid "Name"
+#~ msgstr "Ime"
+
+#~ msgid "Full dashboard access"
+#~ msgstr "Nadrozna plošča s popolnim dostopom"
+
+#~ msgid "Limited dashboard access"
+#~ msgstr "Nadzorna plošča z omejenim dostopom"
+
+#~ msgid "User role"
+#~ msgstr "Vloga uporabnika"
+
+#~ msgid "Confirm Password"
+#~ msgstr "Potrdite geslo"
+
+#~ msgid "All partners"
+#~ msgstr "Vsi partnerji"
+
+#~ msgid "Partners matching '%s'"
+#~ msgstr "Partnerji, ki ustrezajo '%s'"
+
+#~ msgid "Create new partner"
+#~ msgstr "Ustvari novega partnerja"
+
+#~ msgid "Partner '%s' was created successfully."
+#~ msgstr "Partner '%s' je bil uspešno ustvarjen."
+
+#~ msgid "Partner '%s' was updated successfully."
+#~ msgstr "Partner '%s' je bil uspešno posodobljen."
+
+#~ msgid "Partner '%s' was deleted successfully."
+#~ msgstr "Partner '%s' je bil uspešno izbrisan."
+
+#~ msgid "Create user"
+#~ msgstr "Ustvari uporabnika"
+
+#~ msgid "User '%s' was created successfully."
+#~ msgstr "Uporabnik '%s' je bil uspešno ustvarjen."
+
+#~ msgid "User '%(name)s' was linked to '%(partner_name)s'"
+#~ msgstr "Uporabnik '%(name)s' je povezan z '%(partner_name)s'"
+
+#~ msgid "User '%(name)s' is already linked to '%(partner_name)s'"
+#~ msgstr "Uporabnik '%(name)s' je že povezan z '%(partner_name)s'"
+
+#~ msgid "User '%(name)s' is not linked to '%(partner_name)s'"
+#~ msgstr "Uporabnik '%(name)s' ni povezan z '%(partner_name)s'"
+
+#~ msgid "Edit user '%s'"
+#~ msgstr "Uredi uporabnika '%s'"
+
+#~ msgid "User '%s' was updated successfully."
+#~ msgstr "Uporabnik '%s' je uspešno posodobjen."
+
+#~ msgid "Promotions dashboard"
+#~ msgstr "Nadzorna plošča promocij"
+
+#~ msgid "Promotion type"
+#~ msgstr "Tip promocije"
+
+#~ msgid "Position"
+#~ msgstr "Pozicija"
+
+#~ msgid "Where in the page this content block will appear"
+#~ msgstr "Kje na strani se bo prikazal blok vsebine"
+
+#~ msgid "Content blocks can only be linked to internal URLs"
+#~ msgstr "Bloki vsebine so lahko povezani le na notranje URL naslove"
+
+#~ msgid "Content block removed successfully"
+#~ msgstr "Blok vsebine je uspešno odstranjen"
+
+#~ msgid "Content block created successfully"
+#~ msgstr "Blok vsebine je uspešno ustvarjen"
+
+#~ msgid "Create a new %s content block"
+#~ msgstr "Ustvari nov blok vsebine %s"
+
+#~ msgid "Product list content block created"
+#~ msgstr "Blok vsebine s seznamom izdelkov je ustvarjen"
+
+#~ msgid "Update content block"
+#~ msgstr "Posodobi blok vsebine"
+
+#~ msgid "Content block updated successfully"
+#~ msgstr "Blok vsebine je uspešno posodobljen"
+
+#~ msgid "Content block '%(block)s' added to page '%(page)s'"
+#~ msgstr "Blok vsebine '%(block)s' je dodan na stran '%(page)s'"
+
+#~ msgid "No link found to delete"
+#~ msgstr "Povezava za izbris ni najdena"
+
+#~ msgid "Content block removed from page '%s'"
+#~ msgstr "Blok vsebine je bil odstranjen s strani '%s'"
+
+#~ msgid "Product list promotion updated"
+#~ msgstr "Seznam izdelkov za promocijo je posodobljen"
+
+#~ msgid "Content block deleted successfully"
+#~ msgstr "Blok vsebine je uspešno izbrisan"
+
+#~ msgid "Ranges dashboard"
+#~ msgstr "Nadzorna plošča območja"
+
+#~ msgid "Product SKUs or UPCs"
+#~ msgstr "SKU ali UPC izdelka"
+
+#~ msgid "You can paste in a selection of SKUs or UPCs"
+#~ msgstr "Prilepite lahko v izbor SKU-jev ali UPC-jev"
+
+#~ msgid "File of SKUs or UPCs"
+#~ msgstr "Datoteka SKU-jev ali UPC-jev"
+
+#~ msgid "Either comma-separated, or one identifier per line"
+#~ msgstr "Ali ločeno z vejico ali en identifikator na vrstico"
+
+#~ msgid "You must submit either a list of SKU/UPCs or a file"
+#~ msgstr "Naložiti morate ali seznam SKU/UPC-jev ali datoteko"
+
+#~ msgid "The products with SKUs or UPCs matching %s are already in this range"
+#~ msgstr "Izdelki s SKU ali UPC enakim %s so že v tem območju"
+
+#~ msgid "No products exist with a SKU or UPC matching %s"
+#~ msgstr "Ni izdelkov, ki kimajo SKU ali UPC enak %s"
+
+#~ msgid "Create range"
+#~ msgstr "Ustvari območje"
+
+#~ msgid "Range deleted"
+#~ msgstr "Območje je izbrisano"
+
+#~ msgid "Removed %d product from range"
+#~ msgid_plural "Removed %d products from range"
+#~ msgstr[0] "Odstranjen %d izdelek iz območja"
+#~ msgstr[1] "Odstranjena %d izdelka iz območja"
+#~ msgstr[2] "Odstranjeni %d izdelki iz območja"
+#~ msgstr[3] "Odstranjenih %d izdelkov iz območja"
+
+#~ msgid "%d product added to range"
+#~ msgid_plural "%d products added to range"
+#~ msgstr[0] "%d izdelek je dodan v območje"
+#~ msgstr[1] "%d izdelka sta dodana v območje"
+#~ msgstr[2] "%d izdelki so dodani v območje"
+#~ msgstr[3] "%d izdelkov je dodanih v območje"
+
+#~ msgid "No product(s) were found with SKU or UPC matching %s"
+#~ msgstr "Izdelka s SKU ali UPC enakim %s ni mogoče najti"
+
+#~ msgid "Reports dashboard"
+#~ msgstr "Nadzorna plošča poročil"
+
+#~ msgid "Report Type"
+#~ msgstr "Tip poročila"
+
+#~ msgid "Only the offer and order reports use the selected date range"
+#~ msgstr "Samo poročila ponudb in naročil vsebujejo izbran razpon datuma"
+
+#~ msgid "The report is inclusive of this date"
+#~ msgstr "Poročilo je vključno s podanim datumom"
+
+#~ msgid "Download"
+#~ msgstr "Prenesi"
+
+#~ msgid "Your start date must be before your end date"
+#~ msgstr "Začetni datum mora biti pred končnim"
+
+#~ msgid "%(report_filter)s between %(start_date)s and %(end_date)s"
+#~ msgstr "%(report_filter)s med %(start_date)s in %(end_date)s"
+
+#~ msgid "You do not have access to this report"
+#~ msgstr "Nimate dostopa do tega poročila"
+
+#~ msgid "Reviews dashboard"
+#~ msgstr "Nadzorna plošča mnenj"
+
+#~ msgid "Keyword"
+#~ msgstr "Ključna beseda"
+
+#~ msgid "to"
+#~ msgstr "do"
+
+#~ msgid ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+#~ msgstr ""
+#~ "%(main_filter)s%(date_filter)s%(status_filter)s%(kw_filter)s"
+#~ "%(name_filter)s"
+
+#~ msgid " created after %s"
+#~ msgstr "ustvarjeno po %s"
+
+#~ msgid " created before %s"
+#~ msgstr "ustvarjeno pred %s"
+
+#~ msgid " created between %(start_date)s and %(end_date)s"
+#~ msgstr "ustvarjeno med dnem %(start_date)s in dnem %(end_date)s"
+
+#~ msgid "All reviews"
+#~ msgstr "Vsa mnenja"
+
+#~ msgid " with status matching '%s'"
+#~ msgstr "s stanjem '%s'"
+
+#~ msgid " with keyword matching '%s'"
+#~ msgstr "s ključno besedo '%s'"
+
+#~ msgid " with customer name matching '%s'"
+#~ msgstr "z imenom stranke '%s'"
+
+#~ msgid "Shipping dashboard"
+#~ msgstr "Nadzorna plošča dostave"
+
+#~ msgid "%d Row"
+#~ msgid_plural "%d Rows"
+#~ msgstr[0] "%d Vrstica"
+#~ msgstr[1] "%d Vrstici"
+#~ msgstr[2] "%d Vrstice"
+#~ msgstr[3] "%d Vrstic"
+
+#~ msgid "Users dashboard"
+#~ msgstr "Nadzorna plošča uporabnikov"
+
+#~ msgctxt "User's name"
+#~ msgid "Name"
+#~ msgstr "Ime"
+
+#~ msgid "%(main_filter)s %(email_filter)s %(name_filter)s"
+#~ msgstr "%(main_filter)s%(email_filter)s%(name_filter)s"
+
+#~ msgid "All users"
+#~ msgstr "Vsi uporabniki"
+
+#~ msgid " with email matching '%s'"
+#~ msgstr "z e-poštnim naslovom '%s'"
+
+#~ msgid " with name matching '%s'"
+#~ msgstr "z imenom '%s'"
+
+#~ msgid "Users' status successfully changed"
+#~ msgstr "Stanje uporabnika je usprešno spremenjeno"
+
+#~ msgid "A password reset email has been sent"
+#~ msgstr "E-poštno sporočilo za ponastavitev gesla je poslano"
+
+#~ msgid "All Alerts"
+#~ msgstr "Vsa opozorila"
+
+#~ msgid " with customer email matching '%s'"
+#~ msgstr "stranka z e-poštnim naslovom '%s'"
+
+#~ msgid "Product alert saved"
+#~ msgstr "Opozorilo izdelka je shranjeno"
+
+#~ msgid "Product alert deleted"
+#~ msgstr "Opozorilo izdelka je izbrisano"
+
+#~ msgid "Vouchers dashboard"
+#~ msgstr "Nadzorna plošča kuponov"
+
+#~ msgid "Start datetime"
+#~ msgstr "Začetna datum in ura"
+
+#~ msgid "End datetime"
+#~ msgstr "Končna datum in ura"
+
+#~ msgid "Usage"
+#~ msgstr "Uporaba"
+
+#~ msgid "Which products get a discount?"
+#~ msgstr "Kater izdelek dobi popust?"
+
+#~ msgid "Percentage off of products in range"
+#~ msgstr "Območje popusta izdelkov v območju"
+
+#~ msgid "Fixed amount off of products in range"
+#~ msgstr "Fiksni popust izdelkov v območju"
+
+#~ msgid "Discount is a percentage off of the shipping cost"
+#~ msgstr "Popust je v odstotkih od stroška dostave"
+
+#~ msgid "Discount is a fixed amount of the shipping cost"
+#~ msgstr "Popust je fiksen od stroška dostave"
+
+#~ msgid "Get shipping for a fixed price"
+#~ msgstr "Pridobi dostavo za fiksno ceno"
+
+#~ msgid "Discount type"
+#~ msgstr "Tip popusta"
+
+#~ msgid "Discount value"
+#~ msgstr "Vrednost popusta"
+
+#~ msgid "The name '%s' is already in use"
+#~ msgstr "Ime '%s' je že v uporabi"
+
+#~ msgid "The code '%s' is already in use"
+#~ msgstr "Koda '%s' je že v uporabi"
+
+#~ msgid "The start date must be before the end date"
+#~ msgstr "Začetni datum mora biti pred končnim"
+
+#~ msgid "Is Active?"
+#~ msgstr "Je aktiven?"
+
+#~ msgid "%(main_filter)s %(name_filter)s %(code_filter)s"
+#~ msgstr "%(main_filter)s%(name_filter)s%(code_filter)s"
+
+#~ msgid "All vouchers"
+#~ msgstr "Vsi kuponi"
+
+#~ msgid "with name matching '%s'"
+#~ msgstr "z imenom '%s'"
+
+#~ msgid "with code '%s'"
+#~ msgstr "s kodo '%s'"
+
+#~ msgid "Active vouchers"
+#~ msgstr "Aktivni kuponi"
+
+#~ msgid "Create voucher"
+#~ msgstr "Ustvari kupon"
+
+#~ msgid "Offer for voucher '%s'"
+#~ msgstr "Ponudba za kupon '%s'"
+
+#~ msgid "Voucher created"
+#~ msgstr "Kupon je ustvarjen"
+
+#~ msgid "Voucher updated"
+#~ msgstr "Kupon je posodobljen"
+
+#~ msgid "Voucher deleted"
+#~ msgstr "Kupon je izbrisan"
+
+#~ msgid "This is displayed within the customer's basket"
+#~ msgstr "To je prikazano v košarici stranke"
+
+#~ msgid "This is displayed on the offer browsing page"
+#~ msgstr "To je prikazano na strani s ponudbami"
+
+#~ msgid "Site offer - available to all users"
+#~ msgstr "Ponudba strani - omogočeno vsem uporabnikom"
+
+#~ msgid ""
+#~ "Voucher offer - only available after entering the appropriate voucher code"
+#~ msgstr ""
+#~ "Ponudba kupona - omogočeno le strankam, ki vpišejo primerno kodo kupona"
+
+#~ msgid "User offer - available to certain types of user"
+#~ msgstr "Ponudba strankam - omogočeno le določenim tipom uporabnikov"
+
+#~ msgid ""
+#~ "Session offer - temporary offer, available for a user for the duration of "
+#~ "their session"
+#~ msgstr ""
+#~ "Sezonska ponudba - začasna ponudba, ki je omogočena strankam za čas "
+#~ "njihove seje"
+
+#~ msgid "Condition"
+#~ msgstr "Stanje"
+
+#~ msgid "Benefit"
+#~ msgstr "Korist"
+
+#~ msgid "Priority"
+#~ msgstr "Prednost"
+
+#~ msgid "The highest priority offers are applied first"
+#~ msgstr "Ponudbe z najvišjo prednostjo so omogočene prvo"
+
+#~ msgid "Max global applications"
+#~ msgstr "Največje število globalnih vlog"
+
+#~ msgid "The number of times this offer can be used before it is unavailable"
+#~ msgstr "Število uporab ponudbe preden se ponudba zapre"
+
+#~ msgid "Max user applications"
+#~ msgstr "Najveje število vlog uporabnikov"
+
+#~ msgid "The number of times a single user can use this offer"
+#~ msgstr "Najveje število vlog enega uporabnika"
+
+#~ msgid "Max basket applications"
+#~ msgstr "Največje število vlog na košarico"
+
+#~ msgid ""
+#~ "The number of times this offer can be applied to a basket (and order)"
+#~ msgstr "Največje število uporab ponudbe v košarici (v ponudbi)"
+
+#~ msgid "Max discount"
+#~ msgstr "Največji popust"
+
+#~ msgid ""
+#~ "When an offer has given more discount to orders than this threshold, then "
+#~ "the offer becomes unavailable"
+#~ msgstr ""
+#~ "Ko ponudba poda več popusta k naročilu kot sama vsebuje, postane "
+#~ "nedostopna"
+
+#~ msgid "Total Discount"
+#~ msgstr "Skupni popust"
+
+#~ msgid "Number of applications"
+#~ msgstr "Število vlog"
+
+#~ msgid "Number of Orders"
+#~ msgstr "Število naročil"
+
+#~ msgid "URL redirect (optional)"
+#~ msgstr "URL preusmeritev (neobvezno)"
+
+#~ msgid "Conditional offer"
+#~ msgstr "Pogojena ponudba"
+
+#~ msgid "Conditional offers"
+#~ msgstr "Pogojene ponudbe"
+
+#~ msgid "End date should be later than start date"
+#~ msgstr "Končni datum mora biti kasneje kot začetni"
+
+#~ msgid "Offer is suspended"
+#~ msgstr "Ponudba je ukinjena"
+
+#~ msgid "Limited to %(total)d uses (%(remainder)d remaining)"
+#~ msgstr "Omejeno na %(total)d uporab (%(remainder)dpreostalo)"
+
+#~ msgid "Limited to 1 use per user"
+#~ msgstr "Omejeno na 1 uporabo na uporabnika"
+
+#~ msgid "Limited to %(total)d uses per user"
+#~ msgstr "Omejeno na %(total)duporab na uporabnika"
+
+#~ msgid "Limited to 1 use per basket"
+#~ msgstr "Omejeno na 1 uporabo na košarico"
+
+#~ msgid "Limited to %(total)d uses per basket"
+#~ msgstr "Omejeno na %(total)d uporab na košarico"
+
+#~ msgid "Available between %(start)s and %(end)s"
+#~ msgstr "Omogočeno med %(start)s in %(end)s"
+
+#~ msgid "Available from %(start)s"
+#~ msgstr "Omogočeno od %(start)s"
+
+#~ msgid "Available until %(end)s"
+#~ msgstr "Omogočeno do %(end)s"
+
+#~ msgid "Limited to a cost of %(max)s"
+#~ msgstr "Omejeno na ceno %(max)s"
+
+#~ msgid "Range"
+#~ msgstr "Območje"
+
+#~ msgid "Discount is a percentage off of the product's value"
+#~ msgstr "Popust je odstotek vrednosti izdelkov"
+
+#~ msgid "Discount is a fixed amount off of the product's value"
+#~ msgstr "Popust je fiksna količina vrednosti izdelkov"
+
+#~ msgid "Discount is to give the cheapest product for free"
+#~ msgstr "Popust omogoče najcenejši izdelek brezplačno"
+
+#~ msgid "Get the products that meet the condition for a fixed price"
+#~ msgstr "Pridobi izdelke, ki ustrezajo pogojem za fiksno ceno"
+
+#~ msgid "Max Affected Items"
+#~ msgstr "Največje število vključenih izdekov"
+
+#~ msgid ""
+#~ "Set this to prevent the discount consuming all items within the range "
+#~ "that are in the basket."
+#~ msgstr ""
+#~ "Omogočite, da ne bi popust porabljal vse izdelke znotraj območja, ki so v "
+#~ "košarici"
+
+#~ msgid "Custom class"
+#~ msgstr "Razred po meri"
+
+#~ msgid "Benefits"
+#~ msgstr "Koristi"
+
+#~ msgid "Multibuy benefits require a product range"
+#~ msgstr "Količinski popust zahteva območje izdelkov"
+
+#~ msgid "Multibuy benefits don't require a value"
+#~ msgstr "Količinski popust ne zahteva vrednosti"
+
+#~ msgid "Multibuy benefits don't require a 'max affected items' attribute"
+#~ msgstr ""
+#~ "Količinski popust ne zahteva lastnosti 'največjega števila vključenih "
+#~ "izdelkov'"
+
+#~ msgid "Percentage benefits require a product range"
+#~ msgstr "Odstotek koristi zahteva območje izdelka"
+
+#~ msgid "Percentage discount cannot be greater than 100"
+#~ msgstr "Odstotek popusta ne more biti večji od 100"
+
+#~ msgid "A discount value is required"
+#~ msgstr "Vrednost popusta je zahtevana"
+
+#~ msgid ""
+#~ "No range should be selected as this benefit does not apply to products"
+#~ msgstr ""
+#~ "Nobeno območje ne sme biti izbrano, ker ta korist ni vezana na izdelke"
+
+#~ msgid "Shipping discounts don't require a 'max affected items' attribute"
+#~ msgstr ""
+#~ "Popusti pri dostavi ne zahtevajo lastnosti 'največjega števila vključenih "
+#~ "izdelkov'"
+
+#~ msgid ""
+#~ "No range should be selected as the condition range will be used instead."
+#~ msgstr "Nobeno območje ne sme biti izbrano saj bo pogoj območja uporabljen"
+
+#~ msgid "Fixed discount benefits require a product range"
+#~ msgstr "Fiksni popust zahteva območje izdelka"
+
+#~ msgid "Fixed discount benefits require a value"
+#~ msgstr "Fiksen popust zahteva vrednost"
+
+#~ msgid "Depends on number of items in basket that are in condition range"
+#~ msgstr "Zavisi od števila izdelkov v košarici, ki ustrezajo pogoju območja"
+
+#~ msgid "Depends on value of items in basket that are in condition range"
+#~ msgstr ""
+#~ "Zavisi od vrednosti izdelkov v košarici, ki ustrezajo pogoju območja"
+
+#~ msgid ""
+#~ "Needs to contain a set number of DISTINCT items from the condition range"
+#~ msgstr ""
+#~ "Potrebuje določeno množico števil OBSTOJEČIH izdelkov, ki ustrezajo "
+#~ "pogoju območja"
+
+#~ msgid "Conditions"
+#~ msgstr "Pogoji"
+
+#~ msgid "Is public?"
+#~ msgstr "Je javno?"
+
+#~ msgid "Public ranges have a customer-facing page"
+#~ msgstr "Javna območja imajo strani, ki se soočajo s strankami"
+
+#~ msgid "Includes all products?"
+#~ msgstr "Vsebuje vse izdelke?"
+
+#~ msgid "Included Products"
+#~ msgstr "Vključeni izdelki"
+
+#~ msgid "Excluded Products"
+#~ msgstr "Izključeni izdelki"
+
+#~ msgid "Included Categories"
+#~ msgstr "Vključene kategorije"
+
+#~ msgid "File Path"
+#~ msgstr "Pot datoteke"
+
+#~ msgid "Size"
+#~ msgstr "Velikost"
+
+#~ msgid "Uploaded By"
+#~ msgstr "Naložil"
+
+#~ msgid "Date Uploaded"
+#~ msgstr "Datum nalaganja"
+
+#~ msgid "Error Message"
+#~ msgstr "Sporočilo napake"
+
+#~ msgid "Date Processed"
+#~ msgstr "Datum obdelave"
+
+#~ msgid "Number of New SKUs"
+#~ msgstr "Število novih SKU-jev"
+
+#~ msgid "Number of Unknown SKUs"
+#~ msgstr "Število neznanih SKU-jev"
+
+#~ msgid "Number of Duplicate SKUs"
+#~ msgstr "Število podvojenih SKU-jev"
+
+#~ msgid "Range Product Uploaded File"
+#~ msgstr "Naložena datoteka območja izdelkov"
+
+#~ msgid "Range Product Uploaded Files"
+#~ msgstr "Naložene datoteke območja izdelkov"
+
+#~ msgid "%(value)s%% discount on %(range)s"
+#~ msgstr "%(value)s%%popust na %(range)s"
+
+#~ msgid "Percentage discount benefit"
+#~ msgstr "Pridobitev odstotka popusta"
+
+#~ msgid "Percentage discount benefits"
+#~ msgstr "Pridobitev odstotkov popusta"
+
+#~ msgid "%(value)s discount on %(range)s"
+#~ msgstr "%(value)s popusta na %(range)s"
+
+#~ msgid "Absolute discount benefit"
+#~ msgstr "Absolutna pridobitev popusta"
+
+#~ msgid "Absolute discount benefits"
+#~ msgstr "Absolutna pridobitev popustov"
+
+#~ msgid "The products that meet the condition are sold for %(amount)s"
+#~ msgstr "Izdelki, ki ustrezajo pogojem, so prodajani za %(amount)s"
+
+#~ msgid "Fixed price benefit"
+#~ msgstr "Pridobitev fiksne cene"
+
+#~ msgid "Fixed price benefits"
+#~ msgstr "Pridobitve fiksne cene"
+
+#~ msgid "Cheapest product from %(range)s is free"
+#~ msgstr "Najcenejši izdelek iz %(range)s je brezplačen"
+
+#~ msgid "Multibuy discount benefit"
+#~ msgstr "Količinski popust"
+
+#~ msgid "Multibuy discount benefits"
+#~ msgstr "Količinski popusti"
+
+#~ msgid "%(amount)s off shipping cost"
+#~ msgstr "%(amount)s cene dostave"
+
+#~ msgid "Shipping absolute discount benefit"
+#~ msgstr "Absolutna pridobitev popusta dostave"
+
+#~ msgid "Shipping absolute discount benefits"
+#~ msgstr "Absolutna pridobitev popustov dostave"
+
+#~ msgid "Get shipping for %(amount)s"
+#~ msgstr "Pridobi dostavo za %(amount)s"
+
+#~ msgid "Fixed price shipping benefit"
+#~ msgstr "Fiksna cena pridobitve dostave"
+
+#~ msgid "Fixed price shipping benefits"
+#~ msgstr "Fiskna cena pridobitev dostave"
+
+#~ msgid "%(value)s%% off of shipping cost"
+#~ msgstr "%(value)s%%popust na stroške dostave"
+
+#~ msgid "Shipping percentage discount benefit"
+#~ msgstr "Prihranek pri strošku dostave"
+
+#~ msgid "Shipping percentage discount benefits"
+#~ msgstr "Prihranki pri strošku dostave"
+
+#~ msgid "Basket includes %(count)d item(s) from %(range)s"
+#~ msgstr "Košarica vsebuje %(count)d izdelkov iz %(range)s"
+
+#~ msgid "Count condition"
+#~ msgstr "Štej pogoj"
+
+#~ msgid "Count conditions"
+#~ msgstr "Štej pogoje"
+
+#~ msgid "Buy %(delta)d more product from %(range)s"
+#~ msgid_plural "Buy %(delta)d more products from %(range)s"
+#~ msgstr[0] "Kupite še %(delta)dizdelek iz %(range)s"
+#~ msgstr[1] "Kupite še %(delta)d izdelka iz %(range)s"
+#~ msgstr[2] "Kupite še %(delta)d izdelke iz %(range)s"
+#~ msgstr[3] "Kupite še %(delta)d izdelkov iz %(range)s"
+
+#~ msgid "Basket includes %(count)d distinct item(s) from %(range)s"
+#~ msgstr "Košarica vsebuje %(count)d različnih izdelkov iz %(range)s"
+
+#~ msgid "Coverage Condition"
+#~ msgstr "Prekrivalni pogoj"
+
+#~ msgid "Coverage Conditions"
+#~ msgstr "Prekrivalni pogoji"
+
+#~ msgid "Basket includes %(amount)s from %(range)s"
+#~ msgstr "Košarica vsebuje %(amount)siz %(range)s"
+
+#~ msgid "Value condition"
+#~ msgstr "Vrednsot pogoja"
+
+#~ msgid "Value conditions"
+#~ msgstr "Vrednost pogojev"
+
+#~ msgid "Spend %(value)s more from %(range)s"
+#~ msgstr "Porabljeno %(value)s več iz %(range)s"
+
+#~ msgid "Offer"
+#~ msgstr "Ponudba"
+
+#~ msgid "Total discount"
+#~ msgstr "Skupni popust"
+
+#~ msgid "Offer performance"
+#~ msgstr "Obnašanje ponudbe"
+
+#~ msgid "Site"
+#~ msgstr "Stran"
+
+#~ msgid "Billing Address"
+#~ msgstr "Naslov plačnika"
+
+#~ msgid "Order total (inc. tax)"
+#~ msgstr "Skupna cena (vključno z DDV)"
+
+#~ msgid "Order total (excl. tax)"
+#~ msgstr "Skupna cena (brez DDV)"
+
+#~ msgid "Shipping charge (inc. tax)"
+#~ msgstr "Strošek dostave (vključno z DDV)"
+
+#~ msgid "Shipping charge (excl. tax)"
+#~ msgstr "Strošek dostave (brez DDV)"
+
+#~ msgid "Shipping Address"
+#~ msgstr "Naslov dostave"
+
+#~ msgid "Shipping method"
+#~ msgstr "Način dostave"
+
+#~ msgid "Guest email address"
+#~ msgstr "E-poštni naslov gosta"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status for order %(number)s (current "
+#~ "status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s' ni veljavno stanje za naročilo %(number)s (trenutno "
+#~ "stanje: '%(status)s')"
+
+#~ msgid "In progress"
+#~ msgstr "V delu"
+
+#~ msgid "Note Type"
+#~ msgstr "Napiši opombe"
+
+#~ msgid "Message"
+#~ msgstr "Sporočilo"
+
+#~ msgid "Order Note"
+#~ msgstr "Opomba k naročilu"
+
+#~ msgid "Order Notes"
+#~ msgstr "Opombe k naročilu"
+
+#~ msgid "Event Type"
+#~ msgstr "Vrsta dogodka"
+
+#~ msgid "Communication Event"
+#~ msgstr "Komunikacijski dogodek"
+
+#~ msgid "Communication Events"
+#~ msgstr "Komunikacijski dogodki"
+
+#~ msgid "'%(type)s' event for order #%(number)s"
+#~ msgstr "'%(type)s' dogodek za naročilo #%(number)s"
+
+#~ msgid "Partner name"
+#~ msgstr "Ime partnerja"
+
+#~ msgid "Partner reference"
+#~ msgstr "Referenca partnerja"
+
+#~ msgid "This is the item number that the partner uses within their system"
+#~ msgstr "To je številka izdelka, ki ga partner uporablja v njegovem sistemu"
+
+#~ msgid "Partner Notes"
+#~ msgstr "Opomba partnerja"
+
+#~ msgid "Stock record"
+#~ msgstr "Stanje zalog"
+
+#~ msgid "Price (inc. tax)"
+#~ msgstr "Cena (vključno z DDV)"
+
+#~ msgid "Price (excl. tax)"
+#~ msgstr "Cena (brez DDV)"
+
+#~ msgid "Price before discounts (inc. tax)"
+#~ msgstr "Cena pred vnovčenjem popustov (vključno z DDV)"
+
+#~ msgid "Price before discounts (excl. tax)"
+#~ msgstr "Cena pred vnovčenjem popustov (brez DDV)"
+
+#~ msgid "Unit Cost Price"
+#~ msgstr "Cena kosa"
+
+#~ msgid "Unit Price (inc. tax)"
+#~ msgstr "Cena kosa (vključno z DDV)"
+
+#~ msgid "Unit Price (excl. tax)"
+#~ msgstr "Cena kosa (brez DDV)"
+
+#~ msgid "Unit Retail Price"
+#~ msgstr "Maloprodajna cena za kos"
+
+#~ msgid "Estimated Dispatch Date"
+#~ msgstr "Predviden datum odpreme"
+
+#~ msgid "Order Line"
+#~ msgstr "Vrsta naročil"
+
+#~ msgid "<missing product>"
+#~ msgstr "<missing product>"
+
+#~ msgid "Product '%(name)s', quantity '%(qty)s'"
+#~ msgstr "Izdelek '%(name)s', količina '%(qty)s'"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status (current status: '%(status)s')"
+#~ msgstr "'%(new_status)s' ni veljavno stanje (trenutno stanje: '%(status)s')"
+
+#~ msgid "'%(title)s' is no longer available"
+#~ msgstr "'%(title)s' ni več na voljo"
+
+#~ msgid "Line Attribute"
+#~ msgstr "Lastnost vrste"
+
+#~ msgid "Line Attributes"
+#~ msgstr "Lastnosti vrste"
+
+#~ msgid "Shiping (inc. tax)"
+#~ msgstr "Dostava (vključno z DDV)"
+
+#~ msgid "Shipping (excl. tax)"
+#~ msgstr "Dostava (brez DDV)"
+
+#~ msgid "Line Price"
+#~ msgstr "Cena vrste"
+
+#~ msgid "Line Prices"
+#~ msgstr "Cene vrste"
+
+#~ msgid "Line '%(number)s' (quantity %(qty)d) price %(price)s"
+#~ msgstr "Vrsta '%(number)s' (količina %(qty)d) cena %(price)s"
+
+#~ msgid "Payment Event Type"
+#~ msgstr "Tip dogodka plačila"
+
+#~ msgid "Payment Event Types"
+#~ msgstr "Tipi dogodka plačila"
+
+#~ msgid "Amount"
+#~ msgstr "Količina"
+
+#~ msgid "Reference"
+#~ msgstr "Referenca"
+
+#~ msgid "Lines"
+#~ msgstr "Vrste"
+
+#~ msgid "Payment Event"
+#~ msgstr "Dogodek plačila"
+
+#~ msgid "Payment Events"
+#~ msgstr "Dogodki plačila"
+
+#~ msgid "Payment event for order %s"
+#~ msgstr "Dogodek plačila za naročilo %s"
+
+#~ msgid "Event"
+#~ msgstr "Dogodek"
+
+#~ msgid "Payment Event Quantity"
+#~ msgstr "Količina dogodka plačila"
+
+#~ msgid "Payment Event Quantities"
+#~ msgstr "Količine dogodka plačila"
+
+#~ msgid "Event notes"
+#~ msgstr "Opombe dogodka"
+
+#~ msgid "This could be the dispatch reference, or a tracking number"
+#~ msgstr "To bi lahko bila referenca odpreme ali sledilna številka"
+
+#~ msgid "Shipping Event"
+#~ msgstr "Dogodek dostave"
+
+#~ msgid "Shipping Events"
+#~ msgstr "Dogodki dostave"
+
+#~ msgid "Order #%(number)s, type %(type)s"
+#~ msgstr "Naročilo #%(number)s, tip %(type)s"
+
+#~ msgid "Shipping Event Quantity"
+#~ msgstr "Količina dogodka dostave"
+
+#~ msgid "Shipping Event Quantities"
+#~ msgstr "Količine dogodka dostave"
+
+#~ msgid "%(product)s - quantity %(qty)d"
+#~ msgstr "%(product)s - količina %(qty)d"
+
+#~ msgid "Shipping Event Type"
+#~ msgstr "Tip dogodka dostave"
+
+#~ msgid "Shipping Event Types"
+#~ msgstr "Tipi dogodka dostave"
+
+#~ msgid "Discount category"
+#~ msgstr "Kategorija popust"
+
+#~ msgid "Offer ID"
+#~ msgstr "ID ponudbe"
+
+#~ msgid "Voucher ID"
+#~ msgstr "ID kupona"
+
+#~ msgid "Frequency"
+#~ msgstr "Pogostost"
+
+#~ msgid "Order Discount"
+#~ msgstr "Popust naročila"
+
+#~ msgid "Order Discounts"
+#~ msgstr "Popusti naročila"
+
+#~ msgid "Discount of %(amount)r from order %(order)s"
+#~ msgstr "Popust od %(amount)r naročila %(order)s"
+
+#~ msgid "The selected quantity for line #%(line_id)s is too large"
+#~ msgstr "Izbrana količina za vrsto #%(line_id)s je prevelika"
+
+#~ msgid "Total incl. tax"
+#~ msgstr "Skupaj (vključno z DDV)"
+
+#~ msgid "Date placed"
+#~ msgstr "Datum postavitve"
+
+#~ msgid "Orders placed"
+#~ msgstr "Postavljena naročila"
+
+#~ msgid "Empty baskets cannot be submitted"
+#~ msgstr "Ne morete oddati prazne košarice"
+
+#~ msgid "There is already an order with number %s"
+#~ msgstr "Naročilo s številko %s že obstaja"
+
+#~ msgid "Fulfillment partner"
+#~ msgstr "Partner za izpolnitev"
+
+#~ msgid "Fulfillment partners"
+#~ msgstr "Partnerji za izpolnitev"
+
+#~ msgid "Price (retail)"
+#~ msgstr "Maloprodajna cena"
+
+#~ msgid "Cost Price"
+#~ msgstr "Cena stroška"
+
+#~ msgid "Number in stock"
+#~ msgstr "Na voljo"
+
+#~ msgid "Number allocated"
+#~ msgstr "Število dodeljenih"
+
+#~ msgid "Low Stock Threshold"
+#~ msgstr "Zaloga pojenja"
+
+#~ msgid "Invalid stock consumption request"
+#~ msgstr "Neveljaven zahtevek za porabo zaloge"
+
+#~ msgid "Stock Record"
+#~ msgstr "Popis zaloge"
+
+#~ msgid "Threshold"
+#~ msgstr "Prag"
+
+#~ msgid "Open"
+#~ msgstr "Odprto"
+
+#~ msgid "Date Closed"
+#~ msgstr "Datum zaprtja"
+
+#~ msgid "<stockalert for \"%(stock)s\" status %(status)s>"
+#~ msgstr "<stockalert for \"%(stock)s\" status %(status)s>"
+
+#~ msgid "Stock alert"
+#~ msgstr "Opozorilo zaloge"
+
+#~ msgid "Stock alerts"
+#~ msgstr "Opozorila zaloge"
+
+#~ msgid "unavailable"
+#~ msgstr "ni na voljo"
+
+#~ msgid "Unavailable"
+#~ msgstr "Ni na voljo"
+
+#~ msgid "Available"
+#~ msgstr "Na zalogi"
+
+#~ msgid "no stock available"
+#~ msgstr "ni na zalogi"
+
+#~ msgid "a maximum of %(max)d can be bought"
+#~ msgstr "kupite lahko največ %(max)d"
+
+#~ msgid "In stock"
+#~ msgstr "Na zalogi"
+
+#~ msgid "In stock (%d available)"
+#~ msgstr "Na zalogi (%d na voljo)"
+
+#~ msgid "No file path supplied"
+#~ msgstr "Ni priložene poti do datoteke"
+
+#~ msgid "%s does not exist"
+#~ msgstr "%s ne obstaja"
+
+#~ msgid "%s is not a file"
+#~ msgstr "%s ni datoteka"
+
+#~ msgid "%s is not readable"
+#~ msgstr "%s ni berljiva"
+
+#~ msgid "Source"
+#~ msgstr "Vir"
+
+#~ msgid "%(type)s of %(amount).2f"
+#~ msgstr "%(type)s od %(amount).2f"
+
+#~ msgid "Transaction"
+#~ msgstr "Transakcija"
+
+#~ msgid "Transactions"
+#~ msgstr "Transakcije"
+
+#~ msgid "Source Type"
+#~ msgstr "Tip izvora"
+
+#~ msgid "Amount Allocated"
+#~ msgstr "Dodeljen znesek"
+
+#~ msgid "Amount Debited"
+#~ msgstr "Debetni znesek"
+
+#~ msgid "Amount Refunded"
+#~ msgstr "Povrnjen znesek"
+
+#~ msgid "Label"
+#~ msgstr "Oznaka"
+
+#~ msgid "Sources"
+#~ msgstr "Viri"
+
+#~ msgid "Allocation of %(amount)s from type %(type)s"
+#~ msgstr "Dodelitev %(amount)s iz tipa %(type)s"
+
+#~ msgid " (reference: %s)"
+#~ msgstr "(referenca: %s)"
+
+#~ msgid "This is used within forms to identify this source type"
+#~ msgstr "To je uporabljeno znotraj obrazcev za prepoznavanje tipa izvora"
+
+#~ msgid "Source Types"
+#~ msgstr "Tipi izvora"
+
+#~ msgid "Card Type"
+#~ msgstr "Tip kartice"
+
+#~ msgid "Number"
+#~ msgstr "Številka"
+
+#~ msgid "Expiry Date"
+#~ msgstr "Datum poteka"
+
+#~ msgid "Partner Reference"
+#~ msgstr "Referenca partnera"
+
+#~ msgid "%(card_type)s %(number)s (Expires: %(expiry)s)"
+#~ msgstr "%(card_type)s%(number)s (Poteče: %(expiry)s)"
+
+#~ msgid "Bankcard"
+#~ msgstr "Bančna kartica"
+
+#~ msgid "Bankcards"
+#~ msgstr "Bančne kartice"
+
+#~ msgid "Payment"
+#~ msgstr "Plačilo"
+
+#~ msgid "Card number"
+#~ msgstr "Številka kartice"
+
+#~ msgid "Please enter a valid credit card number."
+#~ msgstr "Prosimo, da vnesete številko veljavne kreditne kartice."
+
+#~ msgid "%s cards are not accepted."
+#~ msgstr "%s kartic ne sprejemamo."
+
+#~ msgid "Enter a valid month."
+#~ msgstr "Vnesite veljaven mesec."
+
+#~ msgid "Enter a valid year."
+#~ msgstr "Vnesite veljavno leto."
+
+#~ msgid "Valid to"
+#~ msgstr "Velja do"
+
+#~ msgid "The expiration date you entered is in the past."
+#~ msgstr "Datum poteka, ki ste ga vnesli je v preteklosti"
+
+#~ msgid "Valid from"
+#~ msgstr "Veljaven obrazec"
+
+#~ msgid "The starting date you entered is in the future."
+#~ msgstr "Začetni datum je v prihodnosti."
+
+#~ msgid "CCV number"
+#~ msgstr "CCV številka"
+
+#~ msgid "Please enter a 3 or 4 digit number"
+#~ msgstr "Prosimo, da vnesete 3 ali 4 mestno število"
+
+#~ msgid ""
+#~ "This is the 3 or 4 digit security number on the back of your bankcard"
+#~ msgstr "To je 3 ali 4 mestno število na vaši bančni kartici"
+
+#~ msgid "American Express cards use a 4 digit security code"
+#~ msgstr "Kartice American Express uporabljajo 4 mestno varnostno kodo"
+
+#~ msgid "Promotions"
+#~ msgstr "Promocija"
+
+#~ msgid "Display Order"
+#~ msgstr "Prikaži naročilo"
+
+#~ msgid "Clicks"
+#~ msgstr "Kliki"
+
+#~ msgid "Linked Promotion"
+#~ msgstr "Povezana promocija"
+
+#~ msgid "Linked Promotions"
+#~ msgstr "Povezane promocije"
+
+#~ msgid "Page URL"
+#~ msgstr "URL strani"
+
+#~ msgid "Page Promotion"
+#~ msgstr "Stran promocije"
+
+#~ msgid "Page Promotions"
+#~ msgstr "Stran promocij"
+
+#~ msgid "Filter"
+#~ msgstr "Filter"
+
+#~ msgid "Keyword Promotion"
+#~ msgstr "Promocija ključne besede"
+
+#~ msgid "Keyword Promotions"
+#~ msgstr "Promocije ključne besede"
+
+#~ msgid "Keywords"
+#~ msgstr "Ključne besede"
+
+#~ msgid "Promotion"
+#~ msgstr "Promocija"
+
+#~ msgid "Display type"
+#~ msgstr "Prikaži tip"
+
+#~ msgid ""
+#~ "This can be used to have different types of HTML blocks (eg different "
+#~ "widths)"
+#~ msgstr ""
+#~ "To lahko uporabite, da imate več različnih blokov HTML (npr. različne "
+#~ "širine)"
+
+#~ msgid "Raw HTML"
+#~ msgstr "Čisti HTML"
+
+#~ msgid "Link URL"
+#~ msgstr "URL povezava"
+
+#~ msgid "This is where this promotion links to"
+#~ msgstr "Promocija se poveže sem"
+
+#~ msgid ""
+#~ "Choose the Image content blocks that this block will use. (You may need "
+#~ "to create some first)."
+#~ msgstr ""
+#~ "Izberite slikovne bloke vsebine, ki jih uporablja ta blok. (Lahko da "
+#~ "boste najprej morali ustvariti kakšnega)."
+
+#~ msgid "Multi Image"
+#~ msgstr "Multi slika"
+
+#~ msgid "Multi Images"
+#~ msgstr "Multi slike"
+
+#~ msgid "Single product"
+#~ msgstr "Samostojen izdelek"
+
+#~ msgctxt "Promotion product list title"
+#~ msgid "Title"
+#~ msgstr "Naslov"
+
+#~ msgid "Link text"
+#~ msgstr "Besedilo povezave"
+
+#~ msgid "Product list"
+#~ msgstr "Seznam izdelkov"
+
+#~ msgid "Product lists"
+#~ msgstr "Seznami izdelkov"
+
+#~ msgid "Hand Picked Product List"
+#~ msgstr "Seznam ročno izbranih izdelkov"
+
+#~ msgid "Hand Picked Product Lists"
+#~ msgstr "Seznami ročno izbranih izdelkov"
+
+#~ msgid "List"
+#~ msgstr "Seznam"
+
+#~ msgid "Ordered product"
+#~ msgstr "Naročen izdelek"
+
+#~ msgid "Bestselling products"
+#~ msgstr "Najbolje prodajani izdelki"
+
+#~ msgid "Recently added products"
+#~ msgstr "Nedavno dodani izdelki"
+
+#~ msgid "Method"
+#~ msgstr "Metoda"
+
+#~ msgid "Number of Products"
+#~ msgstr "Število izdelkov"
+
+#~ msgid "Automatic product list"
+#~ msgstr "Avtomatični seznam izdelkov"
+
+#~ msgid "Automatic product lists"
+#~ msgstr "Avtomatični seznami izdelkov"
+
+#~ msgid "Tabbed Block"
+#~ msgstr "Tabuliran blok"
+
+#~ msgid "Ordered Product List"
+#~ msgstr "Seznam naročenih izdelkov"
+
+#~ msgid "Ordered Product Lists"
+#~ msgstr "Seznami naročenih izdelkov"
+
+#~ msgctxt "Tabbed block title"
+#~ msgid "Title"
+#~ msgstr "Naslov"
+
+#~ msgid "Tabbed Blocks"
+#~ msgstr "Tabuliran blok"
+
+#~ msgid "Search"
+#~ msgstr "Iskanje"
+
+#~ msgid "Relevancy"
+#~ msgstr "Relavantnost"
+
+#~ msgid "Customer rating"
+#~ msgstr "Ocena strank"
+
+#~ msgid "Newest"
+#~ msgstr "Najnovejše"
+
+#~ msgid "Price high to low"
+#~ msgstr "Cena od najvišje do najnižje"
+
+#~ msgid "Price low to high"
+#~ msgstr "Cena od najnižje do najvišje"
+
+#~ msgid "Title A to Z"
+#~ msgstr "Ime od A do Z"
+
+#~ msgid "Title Z to A"
+#~ msgstr "Ime od Z do A"
+
+#~ msgid "Page is not 'last', nor can it be converted to an int."
+#~ msgstr "Stran ni niti 'zadnja' niti je ni možno pretvoriti v celo število."
+
+#~ msgid "Shipping Method"
+#~ msgstr "Način dostave"
+
+#~ msgid "Shipping Methods"
+#~ msgstr "Načini dostave"
+
+#~ msgid "Price per order"
+#~ msgstr "Cena na naročilo"
+
+#~ msgid "Price per item"
+#~ msgstr "Cena za izdelek"
+
+#~ msgid "Free Shipping"
+#~ msgstr "Brezplačna dostava"
+
+#~ msgid "Order and Item Charge"
+#~ msgstr "Naročilo in strošek izdelka"
+
+#~ msgid "Order and Item Charges"
+#~ msgstr "Naročilo in stroški izdelka"
+
+#~ msgid "Default Weight"
+#~ msgstr "Privzeta masa"
+
+#~ msgid "Default product weight in kg when no weight attribute is defined"
+#~ msgstr "Privzeta masa izdelka v kg, ko masa ni definirana"
+
+#~ msgid "Weight-based Shipping Method"
+#~ msgstr "Način dostave po masi"
+
+#~ msgid "Weight-based Shipping Methods"
+#~ msgstr "Načini dostave po masi"
+
+#~ msgid "Upper Limit"
+#~ msgstr "Zgornja meja"
+
+#~ msgid ""
+#~ "Enter upper limit of this weight band in kg. The lower limit will be "
+#~ "determined by the other weight bands."
+#~ msgstr ""
+#~ "Vnesite zgornjo mejo mase v kg. Spodnjo mejo boste določili kasneje."
+
+#~ msgid "Charge"
+#~ msgstr "Strošek"
+
+#~ msgid "Weight Band"
+#~ msgstr "Masni razpon"
+
+#~ msgid "Weight Bands"
+#~ msgstr "Masni razponi"
+
+#~ msgid "Charge for weights up to %s kg"
+#~ msgstr "Strošek za mase do %skg"
+
+#~ msgid "Shipping"
+#~ msgstr "Dostava"
+
+#~ msgid "Free shipping"
+#~ msgstr "Brezplačna dostava"
+
+#~ msgid "No shipping required"
+#~ msgstr "Dostava ni potrebna"
+
+#~ msgid "Fixed price shipping"
+#~ msgstr "Fiksen strošek dostave"
+
+#~ msgid "You need to define some shipping methods"
+#~ msgstr "Defninirati morate nekaj načinov dostave"
+
+#~ msgid ""
+#~ "This will be shown in the checkout and basket once the voucher is entered"
+#~ msgstr "To bo prikazano na blagajni in v košarici, ko vnesete kupon"
+
+#~ msgid "Case insensitive / No spaces allowed"
+#~ msgstr "Občutljivo na velike in male črke / presledki niso dovoljeni"
+
+#~ msgid "Can be used once by one customer"
+#~ msgstr "Uporabi lahko le ena stranka in to le enkrat"
+
+#~ msgid "Can be used multiple times by multiple customers"
+#~ msgstr "Stranke lahko uporabijo večkrat"
+
+#~ msgid "Can only be used once per customer"
+#~ msgstr "Vsaka stranka lahko uporabi le enkrat"
+
+#~ msgid "Times added to basket"
+#~ msgstr "Dodano v košarico"
+
+#~ msgid "Times on orders"
+#~ msgstr "Dodano v naročilo"
+
+#~ msgid "Voucher"
+#~ msgstr "Kupon"
+
+#~ msgid "This voucher has already been used"
+#~ msgstr "Ta kupon je že bil uporabljen"
+
+#~ msgid "This voucher is only available to signed in users"
+#~ msgstr "Ta kupon lahko uporabijo le registrirane stranke"
+
+#~ msgid "You have already used this voucher in a previous order"
+#~ msgstr "Ta kupon ste uporabili že prej"
+
+#~ msgid "Voucher Application"
+#~ msgstr "Uporaba kupona"
+
+#~ msgid "Voucher Applications"
+#~ msgstr "Uporabe kupona"
+
+#~ msgid "'%(voucher)s' used by '%(user)s'"
+#~ msgstr "'%(voucher)s' je uporabil/a '%(user)s'"
+
+#~ msgid "Added to a basket"
+#~ msgstr "Dodano v košarico"
+
+#~ msgid "Used in an order"
+#~ msgstr "Uporabljeno v naročilu"
+
+#~ msgid "Voucher performance"
+#~ msgstr "Učinkovitost kupona"
+
+#~ msgid "Default"
+#~ msgstr "Privzeto"
+
+#~ msgid "Private - Only the owner can see the wish list"
+#~ msgstr "Zasebno - le lastnik lahko vidi seznam želja"
+
+#~ msgid ""
+#~ "Shared - Only the owner and people with access to the obfuscated link can "
+#~ "see the wish list"
+#~ msgstr ""
+#~ "Deljeno - Le lastnik in ljudje z dostopom do obljubljenega naslova lahko "
+#~ "vidijo seznam želja"
+
+#~ msgid "Public - Everybody can see the wish list"
+#~ msgstr "Javno - vsakdo lahko vidi seznam želja"
+
+#~ msgid "Visibility"
+#~ msgstr "Vidnost"
+
+#~ msgid "Wish List"
+#~ msgstr "Seznam želja"
+
+#~ msgid "Wish list line"
+#~ msgstr "Vrstica seznama želja"
+
+#~ msgid "Wishlists"
+#~ msgstr "Seznam želja"
+
+#~ msgid "The URL \"%s\" does not exist"
+#~ msgstr "URL naslov \"%s\" ne obstaja"
+
+#~ msgid "Specified page already exists!"
+#~ msgstr "Dotična stran že obstaja"
+
+#~ msgid "This field is required"
+#~ msgstr "To polje je obvezno"
+
+#~ msgid "This field is invalid as its value is forbidden"
+#~ msgstr "To polje je neveljavno, saj je njegova vrednost prepovedana"
+
+#~ msgid "This is not a valid international phone format."
+#~ msgstr "To ni veljavna mednarodna oblika telefonske številke."
+
+#~ msgid "This is not a valid local phone format for %s."
+#~ msgstr "To ni veljavna oblika lokalne telefonske številke za %s."
+
+#~ msgid "This is not a valid local or international phone format."
+#~ msgstr ""
+#~ "To ni veljavna oblika tako lokalne kot tudi ne mednarodne telefonske "
+#~ "številke."
+
+#~ msgid "Check for products that are back in stock and send out alerts"
+#~ msgstr "Preverite izdelke, ki so ponovno na zalogi in razpošljite obvestila"
+
+#~ msgid "Permission denied!"
+#~ msgstr "Dostop je zavrnjen!"
+
+#~ msgid "We're sorry but you are not permitted to access this page."
+#~ msgstr "Iskreno nam je žal, vendar nimate dostopa do te strani. :("
+
+#~ msgid "Page not found"
+#~ msgstr "Stran ni najdena"
+
+#~ msgid "Page not found!"
+#~ msgstr "Stran ni najdena!"
+
+#~ msgid "We're sorry but the page you are looking for can't be found."
+#~ msgstr "iskreno nam je žal, vendar te strani nismo našli."
+
+#~ msgid "Server error!"
+#~ msgstr "Napaka strežnika!"
+
+#~ msgid ""
+#~ "We're sorry but something went terribly wrong and we've been unable to "
+#~ "generate the page you requested."
+#~ msgstr ""
+#~ "Iskreno nam je žal, ampak zgodilo se je nekaj zelo napačnega, zatorej "
+#~ "nismo uspeli izpisati željene strani."
+
+#~ msgid ""
+#~ "This incident has been logged and will be addressed by an engineer as "
+#~ "soon as possible."
+#~ msgstr ""
+#~ "Ta incident je zapisan in bo naslovljen na tehnika kolikor hitro bo to "
+#~ "mogoče."
+
+#~ msgid "Home"
+#~ msgstr "Domov"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(title)s</strong> has been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> je dodan v košarico.\n"
+#~ " "
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(quantity)s</strong> copies of <strong>%(title)s</strong>\n"
+#~ "    have been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(quantity)s</strong> kopij <strong>%(title)s</strong>\n"
+#~ "je bilo dodanih v košarico"
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been moved back to your basket.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> je prestavljen nazaj v košarico.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been saved for later\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> je shranjen za kasneje\n"
+
+#~ msgid "Your basket is now empty"
+#~ msgstr "Vaša košarica je prazna"
+
+#~ msgid ""
+#~ "\n"
+#~ "            Your basket total is now <strong>%(total)s</strong>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "         Vrednost vaše košarice je trenutno <strong>%(total)s</strong>\n"
+#~ "         "
+
+#~ msgid "View basket"
+#~ msgstr "Oglejte si košarico"
+
+#~ msgid "Checkout now"
+#~ msgstr "Na blagajno"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket now qualifies for the \n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Vaša košarica trenutno ustreza pogojem za ponudbo\n"
+#~ "<strong>%(name)s</strong>.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket no longer qualifies for the\n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Vaša košarica ne ustreza več pogojem za ponudbo\n"
+#~ "<strong>%(name)s</strong>.\n"
+
+#~ msgid "Important messages about items in your basket"
+#~ msgstr "Pomembno obvestilo o izdelkih v vaši košarici"
+
+#~ msgid "You could be missing out on offers!"
+#~ msgstr "Zamujate posebne ponudbe!"
+
+#~ msgid ""
+#~ "\n"
+#~ "                <div class=\"warning\">%(message)s to qualify for the <a "
+#~ "href=\"%(url)s\">%(offer_name)s</a> special offer</div>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "<div class=\"warning\">%(message)s ustreza posebni ponudbi <a href="
+#~ "\"%(url)s\">%(offer_name)s</a></div>\n"
+#~ " "
+
+#~ msgid "Items to buy now"
+#~ msgstr "Izdelki za takojšen nakup"
+
+#~ msgid "Price"
+#~ msgstr "Cena"
+
+#~ msgid "Total"
+#~ msgstr "Skupaj"
+
+#~ msgid "Updating..."
+#~ msgstr "Posodabljam..."
+
+#~ msgid "Update"
+#~ msgstr "Posodobljeno"
+
+#~ msgid "Remove"
+#~ msgstr "Odstrani"
+
+#~ msgid "Save for later"
+#~ msgstr "Shrani za kasneje"
+
+#~ msgid "Voucher/promo code"
+#~ msgstr "Koda kupona/promocije"
+
+#~ msgid "I have a voucher code..."
+#~ msgstr "Imam kodo kupona..."
+
+#~ msgid "Adding..."
+#~ msgstr "Dodajam..."
+
+#~ msgid "Add voucher"
+#~ msgstr "Dodaj kupon"
+
+#~ msgid "or"
+#~ msgstr "ali"
+
+#~ msgid "cancel"
+#~ msgstr "prekliči"
+
+#~ msgid "Totals"
+#~ msgstr "Skupaj"
+
+#~ msgid "Proceed to checkout"
+#~ msgstr "Nadaljuj na blagajno"
+
+#~ msgid "Your basket is empty."
+#~ msgstr "Vaša košarica je prazna."
+
+#~ msgid "Continue shopping"
+#~ msgstr "Nadaljuj z nakupom"
+
+#~ msgid "Items to buy later"
+#~ msgstr "Izdelki za kasnejši nakup"
+
+#~ msgid "Items"
+#~ msgstr "Izdelki"
+
+#~ msgid "Move to basket"
+#~ msgstr "Prestavi v košarico"
+
+#~ msgid "Qty"
+#~ msgstr "Količina"
+
+#~ msgid "Total:"
+#~ msgstr "Skupaj:"
+
+#~ msgid "Basket total (before discounts)"
+#~ msgstr "Skupaj v košarici (brez popustov)"
+
+#~ msgid "Discount"
+#~ msgstr "Popus"
+
+#~ msgid "Basket total (after discounts)"
+#~ msgstr "Skupaj v košarici (s popusti)"
+
+#~ msgid "Basket total"
+#~ msgstr "Skupaj v košarici"
+
+#~ msgid "Alternative shipping methods can be chosen during checkout"
+#~ msgstr "Alternativni način dostave lahko izberete na blagajni"
+
+#~ msgid "Shipping total (before discounts)"
+#~ msgstr "Skupaj dostava (brez popustov)"
+
+#~ msgid "Shipping total (after discounts)"
+#~ msgstr "Skupaj dostava (s popusti)"
+
+#~ msgid "Tax"
+#~ msgstr "DDV"
+
+#~ msgid "Post order actions"
+#~ msgstr "Dejanja po naročilu"
+
+#~ msgid "These will be applied once your order is placed."
+#~ msgstr "Te bodo uporabljene, ko bo vaše naročilo oddano."
+
+#~ msgid "Taxes will be added during checkout."
+#~ msgstr "DDV bo dodan na blagajni."
+
+#~ msgid "Show results for"
+#~ msgstr "Prikaži rezultate za"
+
+#~ msgid "Refine by"
+#~ msgstr "Izboljšajte z"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> rezultat - prikaz od <strong>%(start)s</"
+#~ "strong> do <strong>%(end)s</strong>.\n"
+#~ " "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> rezultata - prikaz od <strong>%(start)s</"
+#~ "strong> do <strong>%(end)s</strong>.\n"
+#~ " "
+#~ msgstr[2] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> rezultati - prikaz od  <strong>"
+#~ "%(start)s</strong> do <strong>%(end)s</strong>.\n"
+#~ " "
+#~ msgstr[3] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> rezultatov - prikaz od <strong>"
+#~ "%(start)s</strong> do <strong>%(end)s</strong>.\n"
+#~ " "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> rezultat.\n"
+#~ " "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> rezultata.\n"
+#~ " "
+#~ msgstr[2] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> rezultati.\n"
+#~ " "
+#~ msgstr[3] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> rezultatov.\n"
+#~ " "
+
+#~ msgid "<strong>0</strong> results."
+#~ msgstr "<strong>0</strong> rezultatov."
+
+#~ msgid "No products found."
+#~ msgstr "Ni najdenih izdelkov."
+
+#~ msgid "Edit this product"
+#~ msgstr "Uredi izdelek"
+
+#~ msgid "Product Description"
+#~ msgstr "Opis izdelka"
+
+#~ msgid "Product Information"
+#~ msgstr "Podatki o izdelku"
+
+#~ msgid "Product Type"
+#~ msgstr "Vrsta izdelka"
+
+#~ msgid "Price (incl. tax)"
+#~ msgstr "Cena (z DDV)"
+
+#~ msgid "Availability"
+#~ msgstr "Razpoložljivost"
+
+#~ msgid "Number of reviews"
+#~ msgstr "Število mnenj"
+
+#~ msgid "See all reviews"
+#~ msgstr "Ogled vseh mnenj"
+
+#~ msgid "Customer Reviews"
+#~ msgstr "Mnenja strank"
+
+#~ msgid ""
+#~ "This product does not have any reviews yet -\n"
+#~ "                            <a href=\"%(add_review_url)s#addreview\">be "
+#~ "the first to write one</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "Ta izdelek nima še nobenega mnenja -\n"
+#~ "<a href=\"%(add_review_url)s#addreview\">bodite prvi, ki ga boste "
+#~ "napisali</a>.\n"
+#~ " "
+
+#~ msgid "This product does not have any reviews yet"
+#~ msgstr "Ta izdelek še nima nobenega mnenja"
+
+#~ msgid "Recommended items"
+#~ msgstr "Predlagani izdelki"
+
+#~ msgid "Add to basket"
+#~ msgstr "Dodaj v košarico"
+
+#~ msgid "You have an active stock alert for this product."
+#~ msgstr "Imate aktivno opozorilo zaloge za ta izdelek"
+
+#~ msgid "You can get an email alert when this product is back in stock."
+#~ msgstr "Prejeli boste e-poštno sporočilo, ko bo izdelek ponovno na voljo."
+
+#~ msgid "Notify me"
+#~ msgstr "Obvesti me"
+
+#~ msgid "Add to wish list"
+#~ msgstr "Dodaj na seznam želja"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                            Add to '%(name)s' wish list\n"
+#~ "                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Dodaj v seznam želja '%(name)s'\n"
+#~ " "
+
+#~ msgid "Create a new wishlist"
+#~ msgstr "Ustvari nov seznam želja"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <span class=\"pull-left\">Product is in <a href="
+#~ "\"%(url)s\">'%(name)s'</a> wishlist.</span>\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "<span class=\"pull-left\">Izdelek je v seznamu želja <a href=\"%(url)s"
+#~ "\">'%(name)s'</a></span>\n"
+#~ " "
+
+#~ msgid "Removing..."
+#~ msgstr "Odstranjujem..."
+
+#~ msgid "Please login to add products to a wish list."
+#~ msgstr ""
+#~ "Če želite izdelek dodati na seznam želja, vas prosimo, da se vpišete."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Reviewed by you on %(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Pregledali ste %(review_date)s\n"
+#~ " "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Reviewed by <strong>%(name)s</strong> on "
+#~ "%(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Pregledal <strong>%(name)s</strong> dne %(review_date)s\n"
+#~ " "
+
+#~ msgid "Is this review helpful?"
+#~ msgstr "Je bilo mnenje uporabno?"
+
+#~ msgid "Yes"
+#~ msgstr "Da"
+
+#~ msgid "No"
+#~ msgstr "Ne"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customer "
+#~ "found this useful\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customers "
+#~ "found this useful\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(num_up_votes)s</strong> od %(num_votes)s stranke je to označilo "
+#~ "kot uporabno\n"
+#~ "  "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(num_up_votes)s</strong> od %(num_votes)s strank je to označilo "
+#~ "kot uporabno\n"
+#~ " "
+#~ msgstr[2] ""
+#~ "\n"
+#~ "<strong>%(num_up_votes)s</strong> od %(num_votes)sstrank je to označilo "
+#~ "kot uporabno\n"
+#~ " "
+#~ msgstr[3] ""
+#~ "\n"
+#~ "<strong>%(num_up_votes)s</strong> od %(num_votes)s strank je to označilo "
+#~ "kot uporabno\n"
+#~ " "
+
+#~ msgid "This review has no votes."
+#~ msgstr "To mnenje nima glasov."
+
+#~ msgid "Free"
+#~ msgstr "Brezplačno"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer review\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer reviews\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "%(num_reviews)s mnenje strank\n"
+#~ " "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "%(num_reviews)s mnenji strank\n"
+#~ "  "
+#~ msgstr[2] ""
+#~ "\n"
+#~ "%(num_reviews)s mnenja strank\n"
+#~ " "
+#~ msgstr[3] ""
+#~ "\n"
+#~ "%(num_reviews)s mnenj strank.\n"
+#~ "  "
+
+#~ msgid "Write a review"
+#~ msgstr "Napišite mnenje"
+
+#~ msgid "Customer reviews"
+#~ msgstr "Mnenja strank"
+
+#~ msgid "Leave a product review"
+#~ msgstr "Pustite mnenje o izdelku"
+
+#~ msgid "Saving..."
+#~ msgstr "Shranjujem..."
+
+#~ msgid "Save review"
+#~ msgstr "Shrani mnenje"
+
+#~ msgid "This product does not have any reviews yet."
+#~ msgstr "Ta izdelek nima še nobenega mnenja"
+
+#~ msgid "Change"
+#~ msgstr "Zamenjaj"
+
+#~ msgid "Contact"
+#~ msgstr "Kontakt"
+
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgid "Payment details to go here"
+#~ msgstr "Podrobnosti plačila gredo sem"
+
+#~ msgid "Edit order contents"
+#~ msgstr "Uredi vsebino naročila"
+
+#~ msgid "Order contents"
+#~ msgstr "Vsebina naročila"
+
+#~ msgid "Item"
+#~ msgstr "Izdelek"
+
+#~ msgid "Checkout gateway"
+#~ msgstr "Na bagajno"
+
+#~ msgid "Who are you?"
+#~ msgstr "Kdo ste vi?"
+
+#~ msgid "Get a password reminder"
+#~ msgstr "Dobite opozorilo za geslo"
+
+#~ msgid "Continuing..."
+#~ msgstr "Nadaljujem..."
+
+#~ msgid "Continue"
+#~ msgstr "Nadaljuj"
+
+#~ msgid "1. Shipping address"
+#~ msgstr "1. Naslov za dostavo"
+
+#~ msgid "2. Shipping method"
+#~ msgstr "2. Način dostave"
+
+#~ msgid "3. Payment"
+#~ msgstr "3. Plačilo"
+
+#~ msgid "4. Preview"
+#~ msgstr "4. Predogled"
+
+#~ msgid "5. Confirmation"
+#~ msgstr "5. Potrditev"
+
+#~ msgid "Payment details"
+#~ msgstr "Podrobnosti plačila"
+
+#~ msgid "Enter payment details"
+#~ msgstr "Vnesite podrobnosti plačila"
+
+#~ msgid ""
+#~ "This page needs implementing within your project.  You may want to use "
+#~ "one of Oscar's payment gateway libraries:"
+#~ msgstr ""
+#~ "Ta stran potrebuje implementacijo znotraj projekta. Lahko uporabite eno "
+#~ "od sledečih knjižnic za plailo: "
+
+#~ msgid "Order preview"
+#~ msgstr "Predogled naročila"
+
+#~ msgid "Preview order"
+#~ msgstr "Predogled naročila"
+
+#~ msgid "Place order"
+#~ msgstr "Naroči"
+
+#~ msgid "Where should we ship to?"
+#~ msgstr "Kam naj vam dostavimo?"
+
+#~ msgid "An address from your address book?"
+#~ msgstr "Naslov iz vašega imenika?"
+
+#~ msgid "Ship to your default shipping address"
+#~ msgstr "Dostava na privzet naslov"
+
+#~ msgid "Ship to this address"
+#~ msgstr "Dostava na ta naslov"
+
+#~ msgid "Delete"
+#~ msgstr "Izbriši"
+
+#~ msgid "Or a new address?"
+#~ msgstr "Ali nov naslov?"
+
+#~ msgid "return to basket"
+#~ msgstr "vrni se v košarico"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                This includes a discount of <strong>"
+#~ "%(amount)s</strong> as\n"
+#~ "                                your basket qualifies for the <strong>"
+#~ "%(name)s</strong> offer.\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "To vključuje popust v vrednosti <strong>%(amount)s</strong>, saj \n"
+#~ "vaša košarica ustreza ponudbi <strong>%(name)s</strong>.\n"
+#~ " "
+
+#~ msgid "Select option"
+#~ msgstr "Izberite možnost"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s: confirmation\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Naročilo %(number)s: potrditev\n"
+#~ " "
+
+#~ msgid ""
+#~ "\n"
+#~ "        Your order has been placed and a confirmation email has been sent "
+#~ "- your order number is\n"
+#~ "        <strong>%(number)s</strong>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "Vaše naročilo je uspešno. Potrditveno e-poštno sporočilo smo vam že "
+#~ "poslali. Številka vašega naročila je \n"
+#~ " <strong>%(number)s</strong>.\n"
+#~ " "
+
+#~ msgid ""
+#~ "Please make a note of this reference or print this page and quote it in "
+#~ "any communication with us regarding your order."
+#~ msgstr ""
+#~ "Prosimo, da si zapomnite referenco ali izpišete stran. Pri komunikaciji v "
+#~ "zvezi z naročilom vas naprošamo, da jo zapišete zraven."
+
+#~ msgid "No shipping address required."
+#~ msgstr "Naslov dostave ni potreben."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s (reference: %(reference)s)\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "Alokacija %(amount)s iz tipa %(type)s (referenca: %(reference)s)\n"
+#~ " "
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "Alokacija %(amount)s iz tipa %(type)s\n"
+#~ " "
+
+#~ msgid "No payment was required for this order."
+#~ msgstr "Za to naročilo plačilo ni potrebno."
+
+#~ msgid "Items purchased"
+#~ msgstr "Izdelki so naročeni"
+
+#~ msgid ""
+#~ "\n"
+#~ "                            Estimated dispatch: <strong>%(date)s</"
+#~ "strong>\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Predviden datum odpreme: <strong>%(date)s</strong>\n"
+#~ " "
+
+#~ msgid "Shipping charge (before discounts)"
+#~ msgstr "Strošek dostave (brez popustov)"
+
+#~ msgid "Shipping charge (after discounts)"
+#~ msgstr "Strošek dostave (s popusti)"
+
+#~ msgid "Shipping charge"
+#~ msgstr "Strošek dostave"
+
+#~ msgid "Order tax"
+#~ msgstr "DDV"
+
+#~ msgid "Tracking your order"
+#~ msgstr "Sledenje naročilu"
+
+#~ msgid "You can track the status of your order"
+#~ msgstr "Lahko spremljate status vašega naročila"
+
+#~ msgid "View order status"
+#~ msgstr "Preverite status naročila"
+
+#~ msgid "Print this page"
+#~ msgstr "Natisni stran"
+
+#~ msgid "Are you sure you want to delete this address?"
+#~ msgstr "Ste prepričani, da želite izbrisati ta naslov?"
+
+#~ msgid "Yes!"
+#~ msgstr "Da!"
+
+#~ msgid "Save"
+#~ msgstr "Shrani"
+
+#~ msgid "Address book"
+#~ msgstr "Imenik"
+
+#~ msgid "Deleting..."
+#~ msgstr "Brišem..."
+
+#~ msgid "Default shipping address"
+#~ msgstr "Privzet naslov za dostavo"
+
+#~ msgid "Default billing address"
+#~ msgstr "Privzet naslov za plačilo"
+
+#~ msgid "Edit"
+#~ msgstr "Uredi"
+
+#~ msgid "Set as default shipping address"
+#~ msgstr "Nastavi privzet naslov za dostavo"
+
+#~ msgid "Set as default billing address"
+#~ msgstr "Nastavi privzet naslov za plačilo"
+
+#~ msgid "There are no addresses in your address book."
+#~ msgstr "Trenutno nimate shranjenih naslovov v imeniku"
+
+#~ msgid "You do not have any active alerts for out-of-stock products."
+#~ msgstr ""
+#~ "Trenutno nimate nastavljenih opomnikov za izdelke, ki niso na zalogi"
+
+#~ msgid "Cancel"
+#~ msgstr "Prekliči"
+
+#~ msgid ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> is back in stock\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> je nazaj na zalogi\n"
+
+#~ msgid "Order #%(number)s"
+#~ msgstr "Naročilo #%(number)s"
+
+#~ msgid "Contact number"
+#~ msgstr "Kontaktna številka"
+
+#~ msgid "Notes"
+#~ msgstr "Zapiski"
+
+#~ msgid "Estimated dispatch date"
+#~ msgstr "Predvoden datum odpreme"
+
+#~ msgid "Line price excl. tax"
+#~ msgstr "Cena vrste brez DDV"
+
+#~ msgid "Line price incl. tax"
+#~ msgstr "Cena vrste z DDV"
+
+#~ msgid "Basket total (inc. tax)"
+#~ msgstr "Skupno v košarici (z DDV)"
+
+#~ msgid "Email history"
+#~ msgstr "Zgodovina e-poštnih sporočil"
+
+#~ msgid "Date sent"
+#~ msgstr "Datum odpreme"
+
+#~ msgid "No emails found"
+#~ msgstr "E-poštni naslov ni najden"
+
+#~ msgid "Thanks for using our site!"
+#~ msgstr "Zahvaljujemo se vam za obisk strani!"
+
+#~ msgid "The %(name)s team"
+#~ msgstr "Ekipa %(name)s"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately "
+#~ "and correct your email address:"
+#~ msgstr ""
+#~ "Če tega niste storili vi, vas prosimo, da si čim hitreje spremenite geslo "
+#~ "in popravite e-poštni naslov:"
+
+#~ msgid ""
+#~ "If it was you who changed the email address, you can ignore this email."
+#~ msgstr "Če ste to storili vi, lahko ignorirate to sporočilo."
+
+#~ msgid ""
+#~ "You're receiving this email because your email address has been changed "
+#~ "to %(email)s."
+#~ msgstr ""
+#~ "To sporočilo ste prejeli, ker je bil vaš e-poštni naslov spremenjen na "
+#~ "%(email)s."
+
+#~ msgid "Your email address has changed at %(site_name)s."
+#~ msgstr "Vaš e-poštni naslov za %(site_name)s je spremenjen"
+
+#~ msgid "Hello,"
+#~ msgstr "Živjo,"
+
+#~ msgid "Your order contains:"
+#~ msgstr "Vaše naročilo vsebuje:"
+
+#~ msgid "Basket total:"
+#~ msgstr "Skupaj v košarici:"
+
+#~ msgid "Shipping:"
+#~ msgstr "Dostava:"
+
+#~ msgid "Order Total:"
+#~ msgstr "Skupaj naročilo:"
+
+#~ msgid "Shipping address:"
+#~ msgstr "Naslov dostave:"
+
+#~ msgid ""
+#~ "You can view the status of this order by clicking <a href=\"%(status_url)s"
+#~ "\" title=\"order status\">here</a>"
+#~ msgstr ""
+#~ "Ogled stanja naročila je možen s klikom <a href=\"%(status_url)s\" title="
+#~ "\"order status\">sem</a>"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "We are pleased to confirm your order %(order_number)s has been received "
+#~ "and\n"
+#~ "will be processed shortly."
+#~ msgstr ""
+#~ "Živjo,\n"
+#~ "\n"
+#~ "Z veseljem vam sporočamo, da je bilo vaše naročilo %(order_number)s "
+#~ "uspešno sprejeto\n"
+#~ "in da ga bomo v kratkem tudi obledali."
+
+#~ msgid "quantity:"
+#~ msgstr "količina:"
+
+#~ msgid "price:"
+#~ msgstr "cena:"
+
+#~ msgid ""
+#~ "You can view the status of this order at the below URL:\n"
+#~ "%(status_url)s"
+#~ msgstr ""
+#~ "Ogled stanja naročila je možen na spodnji povezavi:\n"
+#~ "%(status_url)s"
+
+#~ msgid "The team"
+#~ msgstr "Ekipa"
+
+#~ msgid "Confirmation of order %(number)s"
+#~ msgstr "Potrditev naročila %(number)s"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately:"
+#~ msgstr ""
+#~ "Če tega niste storili vi, vas naprošamo, da ga čim hitreje ponastavite:"
+
+#~ msgid "Otherwise, you can ignore this email."
+#~ msgstr "Drugače lahko sporočilo ignorirate."
+
+#~ msgid ""
+#~ "\n"
+#~ "You're receiving this email because your password has been changed at "
+#~ "%(name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "To sporočilo ste prejeli, ker je vaše geslo za %(name)s spremenjeno.\n"
+
+#~ msgid "Your password changed at %(site_name)s."
+#~ msgstr "Vaše geslo za %(site_name)s je spremenjeno."
+
+#~ msgid ""
+#~ "You're receiving this e-mail because you requested a password reset for "
+#~ "your user account at %(name)s."
+#~ msgstr ""
+#~ "To sporočilo ste prejeli, ker ste zahtevali ponastavitev gesla za "
+#~ "uporabnika %(name)s."
+
+#~ msgid "Please go to the following page and choose a new password:"
+#~ msgstr "Prosimo vas, da obiščete naslednjo stran in izberete novo geslo:"
+
+#~ msgid "Resetting your password at %(site_name)s."
+#~ msgstr "Ponastavitev gesla za %(site_name)s."
+
+#~ msgid "Dear %(name)s,"
+#~ msgstr "Spoštovani %(name)s,"
+
+#~ msgid ""
+#~ "\n"
+#~ "Beware that the amount of items in stock is limited. Be quick or someone "
+#~ "might get there first.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Vedite, da je število izdelkov na zalogi omejeno. Zato pohitite, da vas "
+#~ "kdo ne prehiti.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "With this email we have disabled your alert automatically and you will "
+#~ "not\n"
+#~ "receive any further email regarding this product.\n"
+#~ "\n"
+#~ "Thanks for your interest,\n"
+#~ "The %(site_name)s Team\n"
+#~ msgstr ""
+#~ "\n"
+#~ "S tem e-poštnim sporočilom smo vam ukinili opozorila avtomatično. Sedaj o "
+#~ "tem izdelku ne boste prejemali več e-poštnih sporočil.\n"
+#~ "\n"
+#~ "Zahvaljujemo se vam za interes,\n"
+#~ "Ekipa %(site_name)s\n"
+
+#~ msgid "Confirmation required for stock alert"
+#~ msgstr "Za opomnik je potrebna potrditev"
+
+#~ msgid "Thank you for registering."
+#~ msgstr "Hvala za registracijo."
+
+#~ msgid "Products you recently viewed"
+#~ msgstr "Izdelke, ki ste si jih nedavno ogledali."
+
+#~ msgid "Log In"
+#~ msgstr "Prijava"
+
+#~ msgid "I've forgotten my password"
+#~ msgstr "Pozabil sem geslo"
+
+#~ msgid "Logging in..."
+#~ msgstr "Prijavljam..."
+
+#~ msgid "Register"
+#~ msgstr "Registracija"
+
+#~ msgid "Registering..."
+#~ msgstr "Registriram..."
+
+#~ msgid "Notifications inbox"
+#~ msgstr "Nabiralnik obvestil"
+
+#~ msgid "Sender"
+#~ msgstr "Pošiljatelj"
+
+#~ msgid "Return to notifications inbox"
+#~ msgstr "Vrni se v nabiralnik obvestil"
+
+#~ msgctxt "noun"
+#~ msgid "Archive"
+#~ msgstr "Arhiv"
+
+#~ msgid "View"
+#~ msgstr "Poglej"
+
+#~ msgctxt "verb"
+#~ msgid "Archive"
+#~ msgstr "Arhiv"
+
+#~ msgid "With selected items:"
+#~ msgstr "Z izbranimi izdelki:"
+
+#~ msgid "Archiving..."
+#~ msgstr "Arhiviram..."
+
+#~ msgid "There are no notifications to display."
+#~ msgstr "Trenutno ni obvestil za prikaz."
+
+#~ msgid "Order history"
+#~ msgstr "Zgodovina naročil"
+
+#~ msgid "Dispatch date"
+#~ msgstr "Datum odpreme"
+
+#~ msgid "Re-ordering..."
+#~ msgstr "Ponovno naročam..."
+
+#~ msgid "Re-order"
+#~ msgstr "Ponovno naroči"
+
+#~ msgid "Not available anymore"
+#~ msgstr "Ni več na voljo"
+
+#~ msgid "Basket total (excl. discounts)"
+#~ msgstr "Skupaj v košarici (brez popustov)"
+
+#~ msgid "Basket total (inc. discounts)"
+#~ msgstr "Skupaj v košarici (s popusti)"
+
+#~ msgid "Shipping total (excl. discounts)"
+#~ msgstr "Skupaj poštnina (brez popustov)"
+
+#~ msgid "Shipping total (inc. discounts)"
+#~ msgstr "Skupaj poštnina (s popusti)"
+
+#~ msgid "Shipping total"
+#~ msgstr "Skupaj poštnina"
+
+#~ msgid "Re-order all items"
+#~ msgstr "Ponovno naroči ve izdelke"
+
+#~ msgid "Contact Number"
+#~ msgstr "Kontaktna številka"
+
+#~ msgid "Shipping Notes"
+#~ msgstr "Opombe k dostavi"
+
+#~ msgid "Filtering..."
+#~ msgstr "Filtriram..."
+
+#~ msgid "Filter results"
+#~ msgstr "Rezultati filtriranja"
+
+#~ msgid "Reset"
+#~ msgstr "Ponastavi"
+
+#~ msgid "Total inc tax"
+#~ msgstr "Skupaj z DDV"
+
+#~ msgid "No orders match your search."
+#~ msgstr "Nobeno naročilo ne ustreza vašemu iskanju."
+
+#~ msgid "You haven't placed any orders."
+#~ msgstr "Niste še naročili ničesar."
+
+#~ msgid "Change password"
+#~ msgstr "Spremeni geslo"
+
+#~ msgid "Edit profile"
+#~ msgstr "Uredi profil"
+
+#~ msgid "Please confirm your password to delete your profile."
+#~ msgstr "Prosimo, da potrdite izbris profila z geslom."
+
+#~ msgid "Warning"
+#~ msgstr "Opozorilo"
+
+#~ msgid ""
+#~ "\n"
+#~ "                This will delete all information about you from the "
+#~ "site.  Deleting your profile cannot be\n"
+#~ "                undone.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "To bo odstranilo vsakršno informacijo o vas iz strani. Izbris profila je "
+#~ "nepovraten.\n"
+#~ " "
+
+#~ msgid "Delete?"
+#~ msgstr "Izbrišem?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Ste prepričani, da želite izbrisati %(name)s?\n"
+#~ " "
+
+#~ msgid "Remove product"
+#~ msgstr "Odstrani izdelek"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(product_name)s from "
+#~ "wish list %(wishlist_name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Ste prepričani, da želite odstraniti %(product_name)s iz seznama želja "
+#~ "%(wishlist_name)s?\n"
+#~ " "
+
+#~ msgid "Action"
+#~ msgstr "Akcija"
+
+#~ msgid "View product"
+#~ msgstr "Poglej izdelek"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                            Move to "
+#~ "'%(name)s' wish list\n"
+#~ "                                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Premakni v seznam želja '%(name)s'?"
+
+#~ msgid "Update quantities"
+#~ msgstr "Posodobi količine"
+
+#~ msgid "Your wish list is empty."
+#~ msgstr "Vaš seznam želja je prazen"
+
+#~ msgid "Create"
+#~ msgstr "Ustvari"
+
+#~ msgid "What should your new wish list be called?"
+#~ msgstr "Kako naj poimenujemo vaš nov seznam želja?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    After your wishlist is created, <strong>%(title)s</"
+#~ "strong> will be added.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Ko bo seznam želja ustvarjen, bo <strong>%(title)s</strong> dodan.\n"
+#~ " "
+
+#~ msgid "Number of products"
+#~ msgstr "tevilo izdelkov"
+
+#~ msgid "Wish list settings"
+#~ msgstr "Nastavitve seznama želja"
+
+#~ msgid "You don't have any wish lists yet."
+#~ msgstr "Že imate kakšen seznam želja?"
+
+#~ msgid "Sections"
+#~ msgstr "Razdelki"
+
+#~ msgid "Delete category?"
+#~ msgstr "Izbrišem kategorijo?"
+
+#~ msgid "Delete category"
+#~ msgstr "Izbriši kategorijo"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <p>Delete category <strong>%(name)s</strong> - are you sure?</"
+#~ "p>\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Izbris kategorije <strong>%(name)s</strong> - ali ste prepričani?</p>\n"
+#~ " "
+
+#~ msgid "Create new category"
+#~ msgstr "Ustvari novo kategorijo"
+
+#~ msgid "You are editing:"
+#~ msgstr "Urejate: "
+
+#~ msgid "There are no categories."
+#~ msgstr "Trenutno ni kategorij"
+
+#~ msgid "Edit category"
+#~ msgstr "Uredi kategorijo"
+
+#~ msgid "Add child category"
+#~ msgstr "Dodaj podrejeno kategorijo"
+
+#~ msgid "Edit children"
+#~ msgstr "Uredi podkategorijo"
+
+#~ msgid "View on site"
+#~ msgstr "Poglejte na strani"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Ustvarjena različica izdelka '%(name)s'.\n"
+#~ " "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Ustvarjena različica '%(parent_name)s'.\n"
+#~ " "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Posodobljena različica izdelka '%(name)s'.\n"
+#~ " "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated a variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Posodobljena različica '%(parent_name)s'.\n"
+#~ " "
+
+#~ msgid ""
+#~ "\n"
+#~ "                Created product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Ustvarjen izdelek '%(name)s'.\n"
+#~ " "
+
+#~ msgid ""
+#~ "\n"
+#~ "                Updated product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Posodobljen izdelek '%(name)s'.\n"
+#~ " "
+
+#~ msgid "Edit again"
+#~ msgstr "Ponovno uredi"
+
+#~ msgid "View it on the site"
+#~ msgstr "Ogled na strani"
+
+#~ msgid "Delete product type?"
+#~ msgstr "Izbrišem tip izdelkov?"
+
+#~ msgid ""
+#~ "Please make sure all products are assigned to another type before "
+#~ "deletion."
+#~ msgstr ""
+#~ "Prosimo vas, da se pred izbrisom prepričate ali imajo vsi izdelki tega "
+#~ "tipa dodeljen nov tip."
+
+#~ msgid "Delete product type"
+#~ msgstr "Izbriši tip izdelka"
+
+#~ msgid "Delete product type <strong>%(name)s</strong> - are you sure?"
+#~ msgstr "Izbris tipa izdelka <strong>%(name)s</strong>. Ste prepričani?"
+
+#~ msgid "Create product type"
+#~ msgstr "Ustvari tip izdelka"
+
+#~ msgid "Product Class details"
+#~ msgstr "Podrobnosti razreda izdelka"
+
+#~ msgid "Create new product type"
+#~ msgstr "Ustvari nov tip izdelkov"
+
+#~ msgid "Product types"
+#~ msgstr "Tipi izdelkov"
+
+#~ msgid "Requires shipping"
+#~ msgstr "Potrebuje dostavo"
+
+#~ msgid "Track stock?"
+#~ msgstr "Sledi zalogi?"
+
+#~ msgid "Edit product type"
+#~ msgstr "Uredi tip izdelka"
+
+#~ msgid "There are no product types."
+#~ msgstr "Ne obstaja noben tip izdelka"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product variant <strong>%(title)s</strong> - "
+#~ "are you sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ " Izbris različice izdelka <strong>%(title)s</strong>. Ste prepričani?\n"
+#~ " "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product <strong>%(title)s</strong> - are you "
+#~ "sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Izbris izdelka <strong>%(title)s</strong>. Ste prepričani?\n"
+#~ " "
+
+#~ msgid "This will also delete the following child products:"
+#~ msgstr "To bo izbrisalo tudi naslednje podizdelke:"
+
+#~ msgid "Create new product"
+#~ msgstr "Ustvari nov izdelek"
+
+#~ msgid "New Product"
+#~ msgstr "Nov izdelek"
+
+#~ msgid "Search Products"
+#~ msgstr "Išči izdelke"
+
+#~ msgid "Searching..."
+#~ msgstr "Iščem..."
+
+#~ msgid ""
+#~ "\n"
+#~ "                            You are currently editing a product variant "
+#~ "of\n"
+#~ "                            <a href=\"%(parent_url)s\">%(title)s</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Trenutno urejate različico izdelka\n"
+#~ "<a href=\"%(parent_url)s\">%(title)s</a>.\n"
+#~ " "
+
+#~ msgid "Product details"
+#~ msgstr "Podrobnosti izdelka"
+
+#~ msgid "Images"
+#~ msgstr "Slike"
+
+#~ msgid "Stock and pricing"
+#~ msgstr "Zaloga in cena"
+
+#~ msgid "Upselling"
+#~ msgstr "Nagradna prodaja"
+
+#~ msgid "Product Type:"
+#~ msgstr "Tip izdelka:"
+
+#~ msgid "Upload, change or remove images"
+#~ msgstr "Naloži, zamenjaj ali odstrani slike"
+
+#~ msgid "SKU"
+#~ msgstr "SKU"
+
+#~ msgid "Num in stock"
+#~ msgstr "Število izdelkov na zalogi"
+
+#~ msgid "Num allocated"
+#~ msgstr "Število alociranih izdelkov"
+
+#~ msgid "Low stock threshold"
+#~ msgstr "Nizka zaloga"
+
+#~ msgid "Cost price"
+#~ msgstr "Cena stroška"
+
+#~ msgid "Price (excl tax)"
+#~ msgstr "Cena (brez DDV)"
+
+#~ msgid "Retail price"
+#~ msgstr "Prodajna cena"
+
+#~ msgid "Add variant"
+#~ msgstr "Dodaj različico"
+
+#~ msgid "This product does not have any variants."
+#~ msgstr "Ta izdelek nima različic."
+
+#~ msgid "One can't add variants to this product at this point."
+#~ msgstr "Trenutno še ne morete dodati različic temu izdelku."
+
+#~ msgid "This is likely because this product still has stock records."
+#~ msgstr "To je verjetno ker je še nekaj izdelkov na zalogi."
+
+#~ msgid "Save and add another variant"
+#~ msgstr "Shrani in dodaj novo različico"
+
+#~ msgid "Save and continue editing"
+#~ msgstr "Shrani in nadaljuj z urejanjem"
+
+#~ msgid "All"
+#~ msgstr "Vse"
+
+#~ msgid "Current available stock"
+#~ msgstr "Trenutna zaloga"
+
+#~ msgid "Date alert raised"
+#~ msgstr "Datum opozorila"
+
+#~ msgid "No stock alerts found."
+#~ msgstr "Ni najdenih opozoril zaloge."
+
+#~ msgid "Preview"
+#~ msgstr "Predogled"
+
+#~ msgid "Edit email"
+#~ msgstr "Uredi e-poštno sporočilo"
+
+#~ msgid "Email content"
+#~ msgstr "Vsebina e-poštnega sporočila"
+
+#~ msgid "These fields are rendered using Django's template system."
+#~ msgstr "Ta polja so ustvarjena z Djangotovim predložnim sistemom."
+
+#~ msgid "You can use the following variables:"
+#~ msgstr "Uporabite lahko naslednje spremenljivke:"
+
+#~ msgid "The full name of the user (if they have one)"
+#~ msgstr "Polno ime uporabnika (če ga imajo)"
+
+#~ msgid "The user's email address"
+#~ msgstr "Uporabnikov e-poštni naslov"
+
+#~ msgid "The name of the site (eg example.com)"
+#~ msgstr "Ime strani (npr. primer.si)"
+
+#~ msgid "View a preview of this email using order:"
+#~ msgstr "Predogled e-poštnega sporočila z naročilom:"
+
+#~ msgid "View preview"
+#~ msgstr "Predogled"
+
+#~ msgid "or send a preview to:"
+#~ msgstr "ali pošlji predogled na:"
+
+#~ msgid "Sending..."
+#~ msgstr "Pošiljam..."
+
+#~ msgid "Send preview email"
+#~ msgstr "Pošlji predogled e-poštnega sporočila"
+
+#~ msgid "Body text"
+#~ msgstr "Besedilo telesa"
+
+#~ msgid "There are no defined emails to edit."
+#~ msgstr "Trenutno ni e-poše za urejanje."
+
+#~ msgid "Your Store Statistics"
+#~ msgstr "Statistika vaše trgovine"
+
+#~ msgid "Total Orders"
+#~ msgstr "Skupaj naročil"
+
+#~ msgid "New Customers"
+#~ msgstr "Nove stranke"
+
+#~ msgid "Total Customers"
+#~ msgstr "Skupaj strank"
+
+#~ msgid "Total Products"
+#~ msgstr "Skupaj izdelkov"
+
+#~ msgid "Latest Orders (last 24 hours)"
+#~ msgstr "Zadnja naročila (zadnjih 24 ur)"
+
+#~ msgid "Orders - Last 24 Hours"
+#~ msgstr "Naročila - zadnjih 24 ur"
+
+#~ msgid "Total orders"
+#~ msgstr "Skupaj naročil"
+
+#~ msgid "Total lines"
+#~ msgstr "Skupaj vrstic"
+
+#~ msgid "Total revenue"
+#~ msgstr "Skupni prihodki"
+
+#~ msgid "Average order costs"
+#~ msgstr "Povprečna cena naročila"
+
+#~ msgid "Manage"
+#~ msgstr "Uredi"
+
+#~ msgid "Orders - All Time"
+#~ msgstr "Naročila - od začetka"
+
+#~ msgid "Total <em>open</em> baskets"
+#~ msgstr "Skupaj <em>odprtih</em> košaric"
+
+#~ msgid "Total customers"
+#~ msgstr "Skupaj strank"
+
+#~ msgid "New customers"
+#~ msgstr "Nove stranke"
+
+#~ msgid "View Stock Alerts"
+#~ msgstr "Poglej opozorila zaloge"
+
+#~ msgid "Catalogue and stock"
+#~ msgstr "Katalog in zaloga"
+
+#~ msgid "Total products"
+#~ msgstr "Skupaj izdelkov"
+
+#~ msgid "<em>Open</em> stock alerts"
+#~ msgstr "<em>Odprta</em> opozorila zaloge"
+
+#~ msgid "<em>Closed</em> stock alerts"
+#~ msgstr "<em>Zaprta</em> opozorila zaloge"
+
+#~ msgid "Offers, vouchers and promotions"
+#~ msgstr "Ponudbe, kuponi in promocije"
+
+#~ msgid "Active <em>Site</em> Offers"
+#~ msgstr "Aktivne ponudbe <em>strani</em>"
+
+#~ msgid "Active <em>Vouchers</em>"
+#~ msgstr "Aktivni <em>kuponi</em>"
+
+#~ msgid "Welcome"
+#~ msgstr "Dobrodošli"
+
+#~ msgid "Return to site"
+#~ msgstr "Vrni se na stran"
+
+#~ msgid "Log out"
+#~ msgstr "Odjava"
+
+#~ msgid "Build a new incentive"
+#~ msgstr "Ustvarite novo spodbudo"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Ranges can be created and edited from within the <a href="
+#~ "\"%(range_list_url)s\">range dashboard</a>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "Območja lahko ustvarite in urejate na <a href=\"%(range_list_url)s"
+#~ "\">nadrzorni plošči območij</a>.\n"
+#~ " "
+
+#~ msgid "...or choose a pre-defined one"
+#~ msgstr "...ali izberite že definirano"
+
+#~ msgid "Continue to step 3"
+#~ msgstr "Nadaljuj na korak 3"
+
+#~ msgid "Build a new condition"
+#~ msgstr "Ustvari nov pogoj"
+
+#~ msgid "Continue to step 4"
+#~ msgstr "Nadaljuj na korak 4"
+
+#~ msgid "Continue to step 2"
+#~ msgstr "Nadaljuj na korak 2"
+
+#~ msgid "Delete offer"
+#~ msgstr "Izbriši ponudbo"
+
+#~ msgid "Are you sure you want to delete this offer?"
+#~ msgstr "Ste prepričani, da želite izbrisati to ponudbo?"
+
+#~ msgid ""
+#~ "\n"
+#~ "        %(name)s | Offers\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "%(name)s| Ponudbe\n"
+#~ " "
+
+#~ msgid "Reinstating..."
+#~ msgstr "Ponastavitev...."
+
+#~ msgid "Reinstate offer"
+#~ msgstr "Ponovno omogoči ponudbo"
+
+#~ msgid "Suspending..."
+#~ msgstr "Ugašam..."
+
+#~ msgid "Suspend offer"
+#~ msgstr "Ugasni ponudbo"
+
+#~ msgid "Offer currently available"
+#~ msgstr "Ponuba je trenutno na voljo"
+
+#~ msgid "Offer not available due to restrictions!"
+#~ msgstr "Ponudba ni na voljo zaradi omejitev!"
+
+#~ msgid "Total cost:"
+#~ msgstr "Skupna cena:"
+
+#~ msgid "Number of orders:"
+#~ msgstr "Število naročil:"
+
+#~ msgid "Number of uses:"
+#~ msgstr "Število uporabnikov:"
+
+#~ msgid "Date created:"
+#~ msgstr "Datum stvaritve:"
+
+#~ msgid "Offer details"
+#~ msgstr "Podrobnosti ponudbe"
+
+#~ msgid "Export to CSV"
+#~ msgstr "Izvozi v CSV"
+
+#~ msgid "Orders that used this offer"
+#~ msgstr "Naročila s to ponudbo"
+
+#~ msgid "Create new offer"
+#~ msgstr "Ustvari novo ponudbo"
+
+#~ msgid "Is available?"
+#~ msgstr "Je na voljo?"
+
+#~ msgid "Uses"
+#~ msgstr "Uporabe"
+
+#~ msgid "Browse"
+#~ msgstr "Brskaj"
+
+#~ msgid "Stats"
+#~ msgstr "Statistika"
+
+#~ msgid "No offers found."
+#~ msgstr "Ni najdenih ponudb."
+
+#~ msgid "Steps"
+#~ msgstr "Koraki"
+
+#~ msgid "1. Name and description"
+#~ msgstr "1. Ime in opis"
+
+#~ msgid "2. Incentive"
+#~ msgstr "2. Spodbuda"
+
+#~ msgid "3. Condition"
+#~ msgstr "3. Pogoj"
+
+#~ msgid "4. Restrictions"
+#~ msgstr "4. Omejitve"
+
+#~ msgid "Save this offer"
+#~ msgstr "Shrani ponudbo"
+
+#~ msgid "Fields marked with * are mandatory."
+#~ msgstr "Polja označena z * so obvezna."
+
+#~ msgid "Save changes"
+#~ msgstr "Shrani spremembe"
+
+#~ msgid "Offer summary"
+#~ msgstr "Pregled ponudb"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s - Line #%(id)s\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Naročilo %(number)s - Vrstica #%(id)s\n"
+#~ " "
+
+#~ msgid "Line #%(id)s"
+#~ msgstr "Vrstica #%(id)s"
+
+#~ msgid "Order #%(number)s - Line #%(id)s"
+#~ msgstr "Naročilo #%(number)s - Vrstica #%(id)s"
+
+#~ msgid "Product Options"
+#~ msgstr "Možnosti izdelka"
+
+#~ msgid "Partner details"
+#~ msgstr "Podrobnosti partnerja"
+
+#~ msgid "Shipping details"
+#~ msgstr "Podrobnosti dostave"
+
+#~ msgid "Partner reference number"
+#~ msgstr "Referenčna številka partnerja"
+
+#~ msgid "Partner notes"
+#~ msgstr "Opombe partnerja"
+
+#~ msgid "Estimate dispatch date"
+#~ msgstr "Predviden datum odpreme"
+
+#~ msgid "Shipping status"
+#~ msgstr "Stanje dostave"
+
+#~ msgid "State"
+#~ msgstr "Država"
+
+#~ msgid "No shipping events have occurred."
+#~ msgstr "O dostavi ni podatka"
+
+#~ msgid "Shipping events"
+#~ msgstr "Dogodki dostave"
+
+#~ msgid "Payment events"
+#~ msgstr "Dogodki plačila"
+
+#~ msgid "No payment events have occurred."
+#~ msgstr "O plačilu ni podatka"
+
+#~ msgid "Order %(number)s"
+#~ msgstr "Naročilo %(number)s"
+
+#~ msgid "Customer Information"
+#~ msgstr "Podrobnosti stranke"
+
+#~ msgid "Customer checked out as a guest."
+#~ msgstr "Stranka je nakup opravila kot gost."
+
+#~ msgid "Customer has deleted their account."
+#~ msgstr "Stranka je izbrisala račun."
+
+#~ msgid "Order information"
+#~ msgstr "Podrobnosti naročila"
+
+#~ msgid "Order Total"
+#~ msgstr "Skupna vrednsot naročila"
+
+#~ msgid "Time of purchase"
+#~ msgstr "Čas nakupa"
+
+#~ msgid "Order Details"
+#~ msgstr "Podrobnosti naročila"
+
+#~ msgid "Discounts"
+#~ msgstr "Popusti"
+
+#~ msgid "Items ordered"
+#~ msgstr "Število naročenih izdelkov"
+
+#~ msgid "Line ID"
+#~ msgstr "ID vrstice"
+
+#~ msgid "Supplier"
+#~ msgstr "Dobavitelj"
+
+#~ msgid "Supplier SKU"
+#~ msgstr "SKu dobavitelja"
+
+#~ msgid "Est. dispatch date"
+#~ msgstr "Predviden datum odpreme"
+
+#~ msgid "Price excl tax (before discounts)"
+#~ msgstr "Cena brez DDV (brez popustov)"
+
+#~ msgid "Price inc tax (before discounts)"
+#~ msgstr "Cena z DDV (brez popustov)"
+
+#~ msgid "With selected lines"
+#~ msgstr "Z izbranimi vrsticami"
+
+#~ msgid "Change line status to"
+#~ msgstr "Spremeni stanje vrstice na"
+
+#~ msgid "choose new status"
+#~ msgstr "izberi novo stanje"
+
+#~ msgid "Create shipping event"
+#~ msgstr "Ustvari dogodek dostave"
+
+#~ msgid "choose event type"
+#~ msgstr "izberi tip dogodka"
+
+#~ msgid "with reference"
+#~ msgstr "z referenco"
+
+#~ msgid "Create payment event"
+#~ msgstr "Ustvari dogodek plačila"
+
+#~ msgid "with amount"
+#~ msgstr "z vrednostjo"
+
+#~ msgid "Go!"
+#~ msgstr "Pojdi!"
+
+#~ msgid "Change order status"
+#~ msgstr "Spremeni stanje naročila"
+
+#~ msgid "Change status"
+#~ msgstr "Spremeni stanje"
+
+#~ msgid "This order can't have its status changed."
+#~ msgstr "Temu naročilu ne morete spremeniti stanja."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                                %(title)s "
+#~ "(quantity %(event_qty)s/%(total_qty)s)\n"
+#~ "                                                            "
+#~ msgstr ""
+#~ "\n"
+#~ " %(title)s (količina %(event_qty)s/%(total_qty)s)\n"
+#~ " "
+
+#~ msgid "No shipping events."
+#~ msgstr "No dogodkov dostave."
+
+#~ msgid "Product:"
+#~ msgstr "Izdelek:"
+
+#~ msgid "quantity"
+#~ msgstr "količina"
+
+#~ msgid "No payment events."
+#~ msgstr "No dogodkov plačila"
+
+#~ msgid "Method name"
+#~ msgstr "Ime metode"
+
+#~ msgid "Method code"
+#~ msgstr "Koda metode"
+
+#~ msgid "Charge (incl tax)"
+#~ msgstr "Strošek (z DDV)"
+
+#~ msgid "Charge (excl tax)"
+#~ msgstr "Strošek (brez DDV)"
+
+#~ msgid "Payment sources"
+#~ msgstr "Vir plačila"
+
+#~ msgid "Allocation"
+#~ msgstr "Alokacija"
+
+#~ msgid "Amount debited"
+#~ msgstr "V breme"
+
+#~ msgid "Amount refunded"
+#~ msgstr "V dobro"
+
+#~ msgid "No payment sources found for this order."
+#~ msgstr "Za to naročilo ni najdenih virov plačila"
+
+#~ msgid "No discounts were applied to this order."
+#~ msgstr "Na tem naročilu ni popustov."
+
+#~ msgid "Admin"
+#~ msgstr "Administrator"
+
+#~ msgid "No notes available."
+#~ msgstr "Na voljo ni zapiskov."
+
+#~ msgid "Save note"
+#~ msgstr "Shrani zapisek"
+
+#~ msgid "Notes are only editable for 5 minutes after being saved."
+#~ msgstr "Zapiske lahko urejate le 5 minut po tem, ko ste jih shranili."
+
+#~ msgid "Advanced Search"
+#~ msgstr "Napredno iskanje"
+
+#~ msgid "Close"
+#~ msgstr "Zapri"
+
+#~ msgid "Order Search Results"
+#~ msgstr "Rezultati iskanja naročil"
+
+#~ msgid "All Orders"
+#~ msgstr "Vsa naročila"
+
+#~ msgid "Download selected orders as a CSV"
+#~ msgstr "Prenesi izbrana naročila kot CSV datoteko"
+
+#~ msgid "Deleted"
+#~ msgstr "Izbrisano"
+
+#~ msgid "Changing..."
+#~ msgstr "Spreminjam..."
+
+#~ msgid "No orders found."
+#~ msgstr "Ni najdenih naročil."
+
+#~ msgid "Print Packaging Slips"
+#~ msgstr "Natisni izpiske za pakiranje"
+
+#~ msgid "Mark as"
+#~ msgstr "Označi kot"
+
+#~ msgid "Change order status to"
+#~ msgstr "Spremeni stanje naročila na"
+
+#~ msgid "Done"
+#~ msgstr "Narejeno"
+
+#~ msgid "Edit shipping address"
+#~ msgstr "Uredi naslov dostave"
+
+#~ msgid "Edit shipping address for order %(order.number)s"
+#~ msgstr "Uredi naslov dostave za naročilo %(order.number)s"
+
+#~ msgid "Update address"
+#~ msgstr "Posodobi naslov"
+
+#~ msgid "Order statistics"
+#~ msgstr "Statistika naročil"
+
+#~ msgid "Filter result"
+#~ msgstr "Filtriraj rezultate"
+
+#~ msgid "Summary"
+#~ msgstr "Povzetek"
+
+#~ msgid "Order status breakdown"
+#~ msgstr "Razčlenitev statusa naročila"
+
+#~ msgid "Delete page '%(title)s'?"
+#~ msgstr "Izbriši stran '%(title)s'?"
+
+#~ msgid "Delete page"
+#~ msgstr "Izbriši stran"
+
+#~ msgid "Delete page <strong>%(title)s</strong> - are you sure?"
+#~ msgstr "Izbris strani <strong>%(title)s</strong>. Ste prepričani?"
+
+#~ msgid "Create new page"
+#~ msgstr "Ustvari novo stran"
+
+#~ msgid "No pages found."
+#~ msgstr "Ni najdenih strani."
+
+#~ msgid ""
+#~ "\n"
+#~ "        Page <strong>%(title)s</strong> saved!\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ " Stran <strong>%(title)s</strong> je shranjena!\n"
+#~ " "
+
+#~ msgid "Oops! We found some errors"
+#~ msgstr "Ojoj. Našli smo nekaj napak"
+
+#~ msgid "please check the error messages below and try again"
+#~ msgstr ""
+#~ "prosimo vas, da preverite sporočila napak spodaj in poizkusite znova"
+
+#~ msgid "previous"
+#~ msgstr "nazaj"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Page %(page_num)s of %(total_pages)s\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Stran %(page_num)s od %(total_pages)s\n"
+#~ " "
+
+#~ msgid "next"
+#~ msgstr "naprej"
+
+#~ msgid ""
+#~ "\n"
+#~ "User %(user_name)s was unlinked from %(partner_name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Uporabnik %(user_name)s je odstranjen od %(partner_name)s.\n"
+
+#~ msgid "Undo"
+#~ msgstr "Razveljavi"
+
+#~ msgid "Delete partner"
+#~ msgstr "Izbriši partnerja"
+
+#~ msgid "Are you sure you want to delete this partner?"
+#~ msgstr "Ste prepričani, da želite izbrisati partnerja?"
+
+#~ msgid "Edit the user's details"
+#~ msgstr "Uredi podrobnosti uporabnika"
+
+#~ msgid "No users associated."
+#~ msgstr "Ni povezanih uporabnikov."
+
+#~ msgid "No address associated."
+#~ msgstr "Ni povezanih naslovov."
+
+#~ msgid "Manage partner and users"
+#~ msgstr "Uredi partnerje in uporanike"
+
+#~ msgid "Link an existing user"
+#~ msgstr "Poveži že obstoječega uporabnika"
+
+#~ msgid "Link a new user"
+#~ msgstr "Poveži novega uporabnika"
+
+#~ msgid "No partners found."
+#~ msgstr "Ni najdenih partnerjev."
+
+#~ msgid "Unlinking..."
+#~ msgstr "Odvezujem..."
+
+#~ msgid "Unlink user"
+#~ msgstr "veži uporabnika"
+
+#~ msgid "No users linked."
+#~ msgstr "Ni povezanih uporabnikov."
+
+#~ msgid "Link a user"
+#~ msgstr "Poveži uporabnika"
+
+#~ msgid "Manage users"
+#~ msgstr "Uredi uporabnike"
+
+#~ msgid "Update details"
+#~ msgstr "Posodobi podrobnosti"
+
+#~ msgid ""
+#~ "A partial email address can be entered (eg '@example.com') to match "
+#~ "multiple addresses."
+#~ msgstr ""
+#~ "Lahko vnesete delni e-poštni naslov (npr. @primer.si), da ustrezate več e-"
+#~ "poštnim naslovom."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                User is already linked to "
+#~ "%(name)s.\n"
+#~ "                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "Uporabnik je že povezan z %(name)s.\n"
+#~ " "
+
+#~ msgid "Linking..."
+#~ msgstr "Povezujem..."
+
+#~ msgid "Link user"
+#~ msgstr "Poveži uporabnika"
+
+#~ msgid "No users found."
+#~ msgstr "Ni najdenih uporabnikov."
+
+#~ msgid "Delete content block '%(name)s'?\""
+#~ msgstr "Izbrišem blok vsebine '%(name)s'?\""
+
+#~ msgid "Delete content block"
+#~ msgstr "Izbriši blok vsebine"
+
+#~ msgid ""
+#~ "Delete %(object.type)s content block <strong>%(object.name)s</strong> - "
+#~ "are you sure?"
+#~ msgstr ""
+#~ "Izbris %(object.type)s bloka vsebine <strong>%(object.name)s</strong>. "
+#~ "Ste prepričani?"
+
+#~ msgid "Remove promotion from page?"
+#~ msgstr "Izbrišem promocijo iz strani?"
+
+#~ msgid "Remove promotion"
+#~ msgstr "Izbriši promocijo"
+
+#~ msgid ""
+#~ "Remove %(object.content_object.type)s content block <strong>%(object."
+#~ "name)s</strong> from page <strong>%(object.page_url)s</strong> - are you "
+#~ "sure?"
+#~ msgstr ""
+#~ "Odstranitev %(object.content_object.type)s bloka vsebine <strong>%(object."
+#~ "name)s</strong> iz strani <strong>%(object.page_url)s</strong>. Ste "
+#~ "prepričani?"
+
+#~ msgid "Content block"
+#~ msgstr "Blok vsebine"
+
+#~ msgid "Pages displaying this content blocks"
+#~ msgstr "Strani, ki prikazujejo ta blok vsebine"
+
+#~ msgid "Position on page"
+#~ msgstr "Pozicija na strani"
+
+#~ msgid "View all blocks on this page"
+#~ msgstr "Poglej vse bloke te strani"
+
+#~ msgid "Remove from page"
+#~ msgstr "Odstrani iz strani"
+
+#~ msgid "This promotion is not displayed anywhere at the moment."
+#~ msgstr "Ta promocija trenutno ni prikazana nikjer."
+
+#~ msgid "Add to a page"
+#~ msgstr "Dodaj na stran"
+
+#~ msgid "Add to page"
+#~ msgstr "Dodaj na stran"
+
+#~ msgid "Content blocks for page %(page_url)s"
+#~ msgstr "Bloki vsebine na strani %(page_url)s"
+
+#~ msgid "Content blocks on page '%(page_url)s'"
+#~ msgstr "Bloki vsebine na strani '%(page_url)s'"
+
+#~ msgid "Edit promotions in position '%(name)s'"
+#~ msgstr "Uredi promocije v poziciji '%(name)s'"
+
+#~ msgid "Promotion Name"
+#~ msgstr "Ime promocije"
+
+#~ msgid "Change display order"
+#~ msgstr "Premeni prikaz naročil"
+
+#~ msgid "No promotions in this position."
+#~ msgstr "Na tej poziciji ni promocij"
+
+#~ msgid "Pages with content blocks"
+#~ msgstr "Strani z bloki vsebine"
+
+#~ msgid "View by page"
+#~ msgstr "Pogled po straneh"
+
+#~ msgid "View all content blocks"
+#~ msgstr "Poglej vse bloke vsebine"
+
+#~ msgid "View content blocks by page"
+#~ msgstr "Poglej bloke vsebine po straneh"
+
+#~ msgid "Pages with content blocks on them"
+#~ msgstr "Strani z bloki vsebine"
+
+#~ msgid "Number of content blocks"
+#~ msgstr "Število blokov vsebine"
+
+#~ msgid "No content blocks found."
+#~ msgstr "Ni najdenih blokov vsebine"
+
+#~ msgid "Create a new content block"
+#~ msgstr "Ustvari nov blok vsebine"
+
+#~ msgid "Creating..."
+#~ msgstr "Ustvarjam..."
+
+#~ msgid "Create block"
+#~ msgstr "Ustvari blok"
+
+#~ msgid "Number of times used"
+#~ msgstr "Število uporab"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>File <strong>%(filename)s</strong> processed.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Datoteka <strong>%(filename)s</strong> je procesirana</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> product added\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> products added\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(n)s</strong> izdelek je dodan\n"
+#~ " "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(n)s</strong> izdelka sta dodana\n"
+#~ " "
+#~ msgstr[2] ""
+#~ "\n"
+#~ "<strong>%(n)s</strong> izdelki so dodani\n"
+#~ " "
+#~ msgstr[3] ""
+#~ "\n"
+#~ "<strong>%(n)s</strong> izdelkov je dodanih\n"
+#~ " "
+
+#~ msgid ""
+#~ "\n"
+#~ "                There was <strong>%(n)s</strong> duplicate product in the "
+#~ "file\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                There were <strong>%(n)s</strong> duplicate products in "
+#~ "the file\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "V datoteki je <strong>%(n)s</strong> izdelek podvojen\n"
+#~ " "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "V datoteki sta <strong>%(n)s</strong> izdelka podvojena\n"
+#~ " "
+#~ msgstr[2] ""
+#~ "\n"
+#~ "V datoteki so <strong>%(n)s</strong> izdelki podvojeni\n"
+#~ " "
+#~ msgstr[3] ""
+#~ "\n"
+#~ "V datoteki je <strong>%(n)s</strong> izdelkov podvojenih\n"
+#~ " "
+
+#~ msgid ""
+#~ "\n"
+#~ "                There was <strong>%(n)s</strong> product in the file that "
+#~ "couldn't be found in the catalogue\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                There were <strong>%(n)s</strong> products in the file "
+#~ "that couldn't be found in the catalogue\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "V datoteki je bil <strong>%(n)s</strong> izdelek, ki ga ni bilo moč najti "
+#~ "v katalogu\n"
+#~ " "
+#~ msgstr[1] ""
+#~ "\n"
+#~ " V datoteki sta bila <strong>%(n)s</strong> izdelka, ki ju ni bilo moč "
+#~ "najti v katalogu\n"
+#~ " "
+#~ msgstr[2] ""
+#~ "\n"
+#~ "V datoteki so bili <strong>%(n)s</strong> izdelki, ki jih ni bilo moč "
+#~ "najti v katalogu.\n"
+#~ " "
+#~ msgstr[3] ""
+#~ "\n"
+#~ "V datoteki je bilo <strong>%(n)s</strong> izdelkov, ki jih ni bilo moč "
+#~ "najti v katalogu\n"
+#~ " "
+
+#~ msgid "Edit range metadata"
+#~ msgstr "Uredi metapodatke območja"
+
+#~ msgid "Return to ranges homepage"
+#~ msgstr "Vrni se na domačo stran območij"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>Range <strong>%(name)s</strong> saved.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Območje <strong>%(name)s</strong> je shranjeno</p>\n"
+
+#~ msgid "Edit included products"
+#~ msgstr "Uredi vključene izdelke"
+
+#~ msgid "Delete range '%(name)s'?"
+#~ msgstr "Izbrišem območje '%(name)s'?"
+
+#~ msgid "Are you sure you want to delete this range?"
+#~ msgstr "Ste prepičani, da želite izbrisati to območje?"
+
+#~ msgid "Create new range"
+#~ msgstr "Ustvari novo območje"
+
+#~ msgid "Save and edit products"
+#~ msgstr "Shrani in uredi izdelke"
+
+#~ msgid "Num products"
+#~ msgstr "Število izdelkov"
+
+#~ msgid "Edit products"
+#~ msgstr "Uredi izdelke"
+
+#~ msgid "No ranges found."
+#~ msgstr "Ni najdenih območij."
+
+#~ msgid "Products in range '%(name)s'"
+#~ msgstr "Izdelki v območju '%(name)s'"
+
+#~ msgid "products"
+#~ msgstr "izdelki"
+
+#~ msgid ""
+#~ "This range contains all products. To add products manually, please "
+#~ "unselect the 'Includes All Products' option on the edit range page."
+#~ msgstr ""
+#~ "To območje vsebuje vse izdelke. Za ročno dodajanje ne izberite 'Vključi "
+#~ "vse izdelke' na strani za urejanje območij."
+
+#~ msgid "Add products"
+#~ msgstr "Vsi izdelki"
+
+#~ msgid "Running..."
+#~ msgstr "Teče..."
+
+#~ msgid "Upload history"
+#~ msgstr "Zgodovina nalaganj"
+
+#~ msgid "Filename"
+#~ msgstr "Ime datoteke"
+
+#~ msgid "New products"
+#~ msgstr "Novi izdelki"
+
+#~ msgid "Duplicate products"
+#~ msgstr "dvojeni izdelki"
+
+#~ msgid "Unknown products"
+#~ msgstr "Neznani izdelki"
+
+#~ msgid "Date uploaded"
+#~ msgstr "Datum nalaganja"
+
+#~ msgid "Products in range"
+#~ msgstr "Izdelki v območju"
+
+#~ msgid "Remove selected products"
+#~ msgstr "Odstrani vse izbrane izdelke"
+
+#~ msgid "Is product discountable?"
+#~ msgstr "Lahko popust vpliva na izdelek?"
+
+#~ msgid "Products in Range"
+#~ msgstr "Izdelki v območju"
+
+#~ msgid "Edit range"
+#~ msgstr "Uredi območje"
+
+#~ msgid "return to range list"
+#~ msgstr "vrni se na seznam območij"
+
+#~ msgid "Reporting Dashboard"
+#~ msgstr "Nadzorna plošča poročil"
+
+#~ msgid "Reporting dashboard"
+#~ msgstr "Nadzorna plošča poročil"
+
+#~ msgid "Generating..."
+#~ msgstr "Generiram..."
+
+#~ msgid "Generate report"
+#~ msgstr "Generiraj poročilo"
+
+#~ msgid "No results found."
+#~ msgstr "Ni zadetkov."
+
+#~ msgid "No vouchers were used in this period"
+#~ msgstr "V tem obdobju ni bilo uporabljenih kuponov"
+
+#~ msgid "Delete review '%(title)s'?"
+#~ msgstr "Izbrišem mnenje '%(title)s'?"
+
+#~ msgid "Delete review \"%(title)s\"?"
+#~ msgstr "Izbrišem mnenje \"%(title)s\"?"
+
+#~ msgid "Review"
+#~ msgstr "Mnenje"
+
+#~ msgid "Review Search"
+#~ msgstr "Iskanje mnenj"
+
+#~ msgid "Update status of selected reviews"
+#~ msgstr "Posodobi stanje izbranih mnenj"
+
+#~ msgctxt "Review title"
+#~ msgid "Title"
+#~ msgstr "Naslov"
+
+#~ msgid "[Product deleted]"
+#~ msgstr "[Izdelek izbrisan]"
+
+#~ msgid "No reviews found."
+#~ msgstr "Ni najdenih mnenj."
+
+#~ msgid "Update review"
+#~ msgstr "Naloži mnenje"
+
+#~ msgid "Review #%(review.id)s"
+#~ msgstr "Mnenje #%(review.id)s"
+
+#~ msgid "Review information"
+#~ msgstr "Podatki mnenja"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>A weight band has been added to the <strong>%(name)s</strong> "
+#~ "shipping method.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Masa pakiranja je dodana k <strong>%(name)s</strong> načinu dostave</"
+#~ "p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>Weight band deleted from the <strong>%(name)s</strong> shipping "
+#~ "method \n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Masa pakiranja je bila odstranjena od <strong>%(name)s</strong> načina "
+#~ "dostave\n"
+
+#~ msgid "Weight band updated"
+#~ msgstr "Masa pakiranja je posodobljena"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>A shipping method <strong>%(name)s</strong> has been created.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Način dostave <strong>%(name)s</strong> je ustvarjen.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been deleted.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Način dostave <strong>%(name)s</strong> je izbrisan.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been updated.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Način dostave <strong>%(name)s</strong> je posodobljen.</p>\n"
+
+#~ msgid "Delete weight band?"
+#~ msgstr "Izbrišem maso pakiranja?"
+
+#~ msgid "Shipping methods"
+#~ msgstr "Načini dostave"
+
+#~ msgid "Weight range (kg)"
+#~ msgstr "Razpon mase (kg)"
+
+#~ msgid "Are you sure you want to delete this weight band method?"
+#~ msgstr "Ste prepričani, da želite odstraniti metodo mase pakiranja?"
+
+#~ msgid "Edit weight band"
+#~ msgstr "Uredi maso pakiranja"
+
+#~ msgid "Delete shipping method '%(name)s'?"
+#~ msgstr "Izbrišem način dostave '%(name)s'?"
+
+#~ msgid "Are you sure you want to delete this shipping method?"
+#~ msgstr "Ste prepričani, da želite izbrisati ta način dostave?"
+
+#~ msgid "Applies to countries"
+#~ msgstr "Velja za države"
+
+#~ msgid "Default product weight (kg)"
+#~ msgstr "Privzeta masa izdelka (kg)"
+
+#~ msgid "Edit shipping method"
+#~ msgstr "Uredi načine dostave"
+
+#~ msgid "Delete shipping method"
+#~ msgstr "Izbriši način dostave"
+
+#~ msgid "Weight bands"
+#~ msgstr "Masa pakiranj"
+
+#~ msgid "No weight bands have been added yet."
+#~ msgstr "Ni dodanih mas pakiranja."
+
+#~ msgid "Add a new weight band"
+#~ msgstr "Dodaj novo maso pakiranja"
+
+#~ msgid "Add weight band"
+#~ msgstr "Dodaj maso pakirana"
+
+#~ msgid "Create a new shipping method"
+#~ msgstr "Ustvari nov način dostave"
+
+#~ msgid "Create new shipping charge"
+#~ msgstr "Ustvari nov strošek dostave"
+
+#~ msgid "Number of weight bands"
+#~ msgstr "Število mas pakiranja"
+
+#~ msgid "Default weight (kg)"
+#~ msgstr "Privzeta masa (kg)"
+
+#~ msgid "No shipping methods found."
+#~ msgstr "Ni najdenih načinov dostave."
+
+#~ msgid "Alert #%(id)s"
+#~ msgstr "Opozorilo #%(id)s"
+
+#~ msgid "Delete alert #%(id)s?"
+#~ msgstr "Izbrišem opozorilo #%(id)s?"
+
+#~ msgid "Product alert #%(id)s"
+#~ msgstr "Opozorilo izdelka #%(id)s"
+
+#~ msgid "Are you sure that you want to delete this alert?"
+#~ msgstr "Ste prepričani, da želite izbrisati to opozorilo?"
+
+#~ msgid "Search product alerts"
+#~ msgstr "Išči opozorila izdelkov"
+
+#~ msgid "reset"
+#~ msgstr "ponastavi"
+
+#~ msgid "Date alert sent"
+#~ msgstr "Datum poslanega opozorila"
+
+#~ msgid "(Anonymous)"
+#~ msgstr "(Anonimnež)"
+
+#~ msgid "No alerts found."
+#~ msgstr "Ni najdenih opozoril."
+
+#~ msgid "Update alert #%(id)s"
+#~ msgstr "Posodobitev opozorila #%(id)s"
+
+#~ msgid "General"
+#~ msgstr "Splošno"
+
+#~ msgid "Yes,No"
+#~ msgstr "Da,Ne"
+
+#~ msgid "Superuser"
+#~ msgstr "Superuporabnik"
+
+#~ msgid "True,False"
+#~ msgstr "Drži,Ne drži"
+
+#~ msgid "Staff"
+#~ msgstr "Osebje"
+
+#~ msgid "Last login"
+#~ msgstr "Zadnja prijava"
+
+#~ msgid "Date joined"
+#~ msgstr "Datum pridružitve"
+
+#~ msgid "Products viewed"
+#~ msgstr "Ogledani izdelki"
+
+#~ msgid "Number of orders"
+#~ msgstr "Število naročil"
+
+#~ msgid "Number of ordered items"
+#~ msgstr "Število naročenih izdelkov"
+
+#~ msgid "Reviews written"
+#~ msgstr "Napisanih mnenj"
+
+#~ msgid "Send password reset email"
+#~ msgstr "Pošlji e-poštno sporočilo za ponastavitev gesla"
+
+#~ msgid "Order Number"
+#~ msgstr "Število naročil"
+
+#~ msgid "Total value"
+#~ msgstr "Skupna vrednost"
+
+#~ msgid "This customer has not placed any orders yet."
+#~ msgstr "Ta stranka še ni oddala nobenega naročila."
+
+#~ msgid "This customer has not saved any addresses."
+#~ msgstr "Ta stranka ni shranila še nobenega naslova."
+
+#~ msgid "Product ID"
+#~ msgstr "ID izdelka"
+
+#~ msgid "This customer has not written any reviews yet."
+#~ msgstr "Ta stranka še ni napisala nobenega mnenja"
+
+#~ msgid "No customers found."
+#~ msgstr "Ni najdenih strank."
+
+#~ msgid "Bulk Actions"
+#~ msgstr "Množične akcije"
+
+#~ msgid "With selected customers:"
+#~ msgstr "Z izbranimi strankami:"
+
+#~ msgid "Make active"
+#~ msgstr "Napravi aktivne"
+
+#~ msgid "Make inactive"
+#~ msgstr "Napravi neaktivne"
+
+#~ msgid "Delete voucher '%(name)s'?"
+#~ msgstr "Izbrišem kupon '%(name)s'?"
+
+#~ msgid "Voucher details"
+#~ msgstr "Podrobnosti kupona"
+
+#~ msgid "Number of basket additions"
+#~ msgstr "Število dodajanj v košarico"
+
+#~ msgid "Recent orders"
+#~ msgstr "Zadnja naročila"
+
+#~ msgid "No orders have been placed that use this voucher."
+#~ msgstr "Naročila s tem kuponom še niso bila oddana."
+
+#~ msgid "Edit voucher"
+#~ msgstr "Uredi kupon"
+
+#~ msgid "Create new voucher"
+#~ msgstr "Ustvari nov kupon"
+
+#~ msgid "Num baskets"
+#~ msgstr "Število košaric"
+
+#~ msgid "Num orders"
+#~ msgstr "Število naročil"
+
+#~ msgid "Inactive"
+#~ msgstr "Neaktiven"
+
+#~ msgid "No vouchers found."
+#~ msgstr "Ni najdenih kuponov."
+
+#~ msgid "Sorry!"
+#~ msgstr "Oprostite!"
+
+#~ msgid "Return to previous page"
+#~ msgstr "Vrni se na prejšnjo stran"
+
+#~ msgid "Go to homepage"
+#~ msgstr "Pojdi na domačo stran"
+
+#~ msgid "Edit this page"
+#~ msgstr "Uredi to stran"
+
+#~ msgid "thumbnail"
+#~ msgstr "povzetek"
+
+#~ msgid "Unrecognized image type!"
+#~ msgstr "Nerazpoznaven tip slike!"
+
+#~ msgid "Upload Image"
+#~ msgstr "Naloži sliko"
+
+#~ msgid "This page is only available to users who aren't logged in."
+#~ msgstr "Ta stran je le za neprijavljene stranke."
+
+#~ msgid " This offer is no longer available."
+#~ msgstr "Ta ponudba ni več na voljo"
+
+#~ msgid "What you need to do"
+#~ msgstr "Kaj morate storiti"
+
+#~ msgid "There are no site offers at the moment."
+#~ msgstr "Trenutno ni ponudb strani."
+
+#~ msgid "Browse products in offer"
+#~ msgstr "Preiši izdelke v ponudbi"
+
+#~ msgid "See more"
+#~ msgstr "Več"
+
+#~ msgid "Password reset complete"
+#~ msgstr "Ponastavitev gesla je končana"
+
+#~ msgid "Password reset"
+#~ msgstr "Ponastavitev gesla"
+
+#~ msgid "Complete"
+#~ msgstr "Končano"
+
+#~ msgid "Your password has been set.  You may go ahead and log in now."
+#~ msgstr "Vaše geslo je nastavljeno. Sedaj lahko nadaljujete s prijavo."
+
+#~ msgid "Log in"
+#~ msgstr "Prijava"
+
+#~ msgid "Enter a new password"
+#~ msgstr "Vnesite novo geslo"
+
+#~ msgid ""
+#~ "Please enter your new password twice so we can verify you typed it in "
+#~ "correctly."
+#~ msgstr ""
+#~ "Prosimo vas, da vnesete novo geslo dvakrat, da lahko preprečimo morebitno "
+#~ "zatipkanje."
+
+#~ msgid "Change my password"
+#~ msgstr "Spremeni moje geslo"
+
+#~ msgid "Password reset unsuccessful"
+#~ msgstr "Ponastavitev gesla je neuspešna"
+
+#~ msgid ""
+#~ "The password reset link was invalid, possibly because it has already been "
+#~ "used.  Please request a new password reset."
+#~ msgstr ""
+#~ "Naslov za ponastavitev gesla je neveljaven. To se je najverjetneje "
+#~ "pripetilo, ker ste ga že uporabilo. Prosimo vas, da ponovno zahtevate "
+#~ "ponastavitev gesla."
+
+#~ msgid "Password reset email sent"
+#~ msgstr "E-poštno sporočilo za ponastavitev gesla je poslano"
+
+#~ msgid "Email sent"
+#~ msgstr "E-poštno sporočilo je poslano"
+
+#~ msgid ""
+#~ "\n"
+#~ "        We've e-mailed you instructions for resetting your password. You "
+#~ "should be receiving it shortly.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Na vaš e-poštni naslov smo vam poslali navodila za ponastavitev gesla. "
+#~ "Prejeli ga boste v kratkem.\n"
+#~ " "
+
+#~ msgid ""
+#~ "\n"
+#~ "        If you don't receive an email, please make sure you've entered "
+#~ "the address you registered with, and check\n"
+#~ "        your spam folder.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Če sporočila niste prejeli, se prepričajte, da ste vnesli prav e-poštni "
+#~ "naslov (s katerim ste se registrirali)\n"
+#~ " in preverite mapo z vsiljeno pošto.\n"
+#~ " "
+
+#~ msgid ""
+#~ "Forgotten your password? Enter your e-mail address below, and we'll e-"
+#~ "mail instructions for setting a new one."
+#~ msgstr ""
+#~ "Pozabljeno geslo? Vnesite vaš e-poštni naslov in poslali vam bomo "
+#~ "navodila za ponastavitev."
+
+#~ msgid "Send reset email"
+#~ msgstr "Pošlji e-poštno sporočilo za ponastavitev"
+
+#~ msgid "Refine your search"
+#~ msgstr "Izboljšajte iskanje"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Products matching \"%(q)s\"\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Izdelki, ki ustrezajo \"%(q)s\"\n"
+#~ " "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Found <strong>%(num_results)s</strong> results, "
+#~ "showing <strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Najdenih <strong>%(num_results)s</strong> rezultatov, prikaz od <strong>"
+#~ "%(start)s</strong> do <strong>%(end)s</strong>.\n"
+#~ " "
+
+#~ msgid "Found <strong>0</strong> results."
+#~ msgstr "Najdenih <strong>0</strong> rezultatov."
+
+#~ msgid ""
+#~ "\n"
+#~ "                        Did you mean <a href=\"%(search_url)s?q="
+#~ "%(suggestion)s\">\"%(suggestion)s\"</a>?\n"
+#~ "                    "
+#~ msgstr ""
+#~ "\n"
+#~ "Ste mislili <a href=\"%(search_url)s?q=%(suggestion)s\">\"%(suggestion)s"
+#~ "\"</a>?\n"
+#~ " "
+
+#~ msgid "Back to search results"
+#~ msgstr "Nazaj na rezultate iskanja"
+
+#~ msgid "You need to select some %ss"
+#~ msgstr "Izbrati morate nekaj %ss"

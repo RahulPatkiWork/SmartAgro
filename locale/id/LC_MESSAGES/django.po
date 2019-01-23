@@ -1,0 +1,6041 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# ariadi <me@ariadi.net>, 2017
+# Gus Hill <lkybstrd@gmail.com>, 2016
+# ariadi <me@ariadi.net>, 2017
+# oon arfiandwi (OonID) <oon.arfiandwi@gmail.com>, 2016
+# oon arfiandwi (OonID) <oon.arfiandwi@gmail.com>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-11 08:36+0000\n"
+"Last-Translator: Oscar Bot <maik.hoepfel@tangentsnowball.com>\n"
+"Language-Team: Indonesian (http://www.transifex.com/codeinthehole/django-"
+"oscar/language/id/)\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr "Papan pedoman"
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr "Katalog"
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "Produk"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr "Tipe produk"
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "Kategori"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr "Baris-baris"
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr "Peringatan stok menipis"
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr "Pilihan"
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr "pemenuhan"
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "Pesanan"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr "Statistik"
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr "Rekan"
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr "Pelanggan"
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr "Peringatan stok diminta"
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr "Penawaran"
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "Voucher"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr "Konten"
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr "Blok konten"
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr "Blok konten dari halaman"
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr "Halaman"
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr "Pola email"
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr "Ulasan"
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr "Laporan"
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr "Tipe"
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr "Peringkat"
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr "Baris Harga"
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr "0 ke 20"
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr "20 ke 40"
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr "40 ke 60"
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr "60+"
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+#, fuzzy
+#| msgid "Catalogue"
+msgid "Catalan"
+msgstr "Katalog"
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+#, fuzzy
+#| msgid "Permalink"
+msgid "German"
+msgstr "Permalink"
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr "Sedang submit..."
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr "Pergi"
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr "Menghitung"
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr "Keluar"
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr "Masuk atau registrasi"
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "Troli belanja"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr "Menjelajah toko"
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "Semua produk"
+
+#~ msgid "Mr"
+#~ msgstr "Tuan"
+
+#~ msgid "Miss"
+#~ msgstr "Nona"
+
+#~ msgid "Mrs"
+#~ msgstr "Nyonya"
+
+#~ msgid "Ms"
+#~ msgstr "Nn."
+
+#~ msgid "Dr"
+#~ msgstr "Saudara"
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "Judul"
+
+#~ msgid "First name"
+#~ msgstr "Nama Depan"
+
+#~ msgid "Last name"
+#~ msgstr "Nama Akhir"
+
+#~ msgid "First line of address"
+#~ msgstr "Baris pertama dari alamat"
+
+#~ msgid "Second line of address"
+#~ msgstr "Baris kedua dari alamat"
+
+#~ msgid "Third line of address"
+#~ msgstr "Baris ketiga dari alamat"
+
+#~ msgid "City"
+#~ msgstr "Kota"
+
+#~ msgid "State/County"
+#~ msgstr "Provinsi"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "Kode Pos"
+
+#~ msgid "Country"
+#~ msgstr "Negara"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "Pencarian kata - hanya gunakan untuk pencarian alamat"
+
+#~ msgid "Address"
+#~ msgstr "Alamat"
+
+#~ msgid "Addresses"
+#~ msgstr "Alamat"
+
+#~ msgid "Addresses in %(country)s require a valid postcode"
+#~ msgstr "Alamat dalam %(country)s membutuhkan kodepos yang valid"
+
+#~ msgid "The postcode '%(postcode)s' is not valid for %(country)s"
+#~ msgstr "Kodepos '%(postcode)s' tidak valid untuk %(country)s"
+
+#~ msgid "ISO 3166-1 alpha-2"
+#~ msgstr "ISO 3166-1 alpha-2"
+
+#~ msgid "ISO 3166-1 alpha-3"
+#~ msgstr "ISO 3166-1 alpha-3"
+
+#~ msgid "ISO 3166-1 numeric"
+#~ msgstr "ISO 3166-1 numeric"
+
+#~ msgid "Country name"
+#~ msgstr "Nama negara"
+
+#~ msgid "Official name"
+#~ msgstr "Nama resmi"
+
+#~ msgid "Display order"
+#~ msgstr "Tampilkan pesanan"
+
+#~ msgid "Higher the number, higher the country in the list."
+#~ msgstr "Tingkatkan angka, negara pada daftar."
+
+#~ msgid "Is shipping country"
+#~ msgstr "Apakah termasuk negara pengiriman"
+
+#~ msgid "Countries"
+#~ msgstr "Negara"
+
+#~ msgid "Phone number"
+#~ msgstr "Nomor Telpon"
+
+#~ msgid "In case we need to call you about your order"
+#~ msgstr "Andaikata kami perlu menghubungi anda mengenai pesanan"
+
+#~ msgid "Instructions"
+#~ msgstr "Instruksi"
+
+#~ msgid "Tell us anything we should know when delivering your order."
+#~ msgstr "Ceritakan apa yang perlu kami ketahui ketika menerima pesanan Anda."
+
+#~ msgid "Shipping address"
+#~ msgstr "Alamat Pengiriman"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "Alamat pengiriman"
+
+#~ msgid "User"
+#~ msgstr "Pengguna"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "Alamat pengiriman default?"
+
+#~ msgid "Default billing address?"
+#~ msgstr "Alamat tagihan bawaan"
+
+#~ msgid "Address Hash"
+#~ msgstr "Hash alamat"
+
+#~ msgid "Date Created"
+#~ msgstr "Tanggal dibuat"
+
+#~ msgid "User address"
+#~ msgstr "Alamat Pengguna"
+
+#~ msgid "User addresses"
+#~ msgstr "Alamat pengguna"
+
+#~ msgid "This address is already in your address book"
+#~ msgstr "Alamat sudah tertera pada daftar alamat Anda."
+
+#~ msgid "Billing address"
+#~ msgstr "Alamat Penagihan"
+
+#~ msgid "Billing addresses"
+#~ msgstr "Alamat penagihan"
+
+#~ msgid "Partner"
+#~ msgstr "Rekan"
+
+#~ msgid "Partner address"
+#~ msgstr "Alamat partner"
+
+#~ msgid "Partner addresses"
+#~ msgstr "Alamat partner"
+
+#~ msgid "Product"
+#~ msgstr "Produk"
+
+#~ msgid "Views"
+#~ msgstr "Tampilan"
+
+#~ msgid "Basket Additions"
+#~ msgstr "Tambahan troli belanja"
+
+#~ msgid "Purchases"
+#~ msgstr "Pembelian"
+
+#~ msgid "Score"
+#~ msgstr "Skor"
+
+#~ msgid "Product record"
+#~ msgstr "Rekaman produk"
+
+#~ msgid "Product records"
+#~ msgstr "rekord produk"
+
+#~ msgid "Record for '%s'"
+#~ msgstr "rekord untuk '%s'"
+
+#~ msgid "Product Views"
+#~ msgstr "Tampilan produk"
+
+#~ msgid "Order Lines"
+#~ msgstr "daftar pesanan"
+
+#~ msgid "Order Items"
+#~ msgstr "Item pesanan"
+
+#~ msgid "Total Spent"
+#~ msgstr "Total belanja"
+
+#~ msgid "Last Order Date"
+#~ msgstr "Tanggal Terakhir Memesan"
+
+#~ msgid "User record"
+#~ msgstr "rekord pengguna"
+
+#~ msgid "User records"
+#~ msgstr "record pengguna"
+
+#~ msgid "User product view"
+#~ msgstr "Tampilan produk pengguna"
+
+#~ msgid "User product views"
+#~ msgstr "Tampilan produk pengguna"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "%(user)s melihat '%(product)s' "
+
+#~ msgid "Search term"
+#~ msgstr "Istilah pencarian"
+
+#~ msgid "User search query"
+#~ msgstr "kueri pencarian pengguna"
+
+#~ msgid "User search queries"
+#~ msgstr "Pengguna mencari kueri"
+
+#~ msgid "%(user)s searched for '%(query)s'"
+#~ msgstr "%(user)s mencari '%(query)s'"
+
+#~ msgid "Analytics"
+#~ msgstr "Analisis"
+
+#~ msgid "Basket additions"
+#~ msgstr "Troli belanja tambahan"
+
+#~ msgid "Product analytics"
+#~ msgstr "Analisis produk"
+
+#~ msgid "Name"
+#~ msgstr "Nama"
+
+#~ msgid "Date registered"
+#~ msgstr "Tanggal registrasi"
+
+#~ msgid "Product views"
+#~ msgstr "Tampilan produk"
+
+#~ msgid "Order lines"
+#~ msgstr "daftar pesanan"
+
+#~ msgid "Order items"
+#~ msgstr "Item pesanan"
+
+#~ msgid "Total spent"
+#~ msgstr "Pengeluaran Total"
+
+#~ msgid "Date of last order"
+#~ msgstr "Tanggal pesanan terakhir"
+
+#~ msgid "User analytics"
+#~ msgstr "Analisis pengguna"
+
+#~ msgid "Owner"
+#~ msgstr "Pemilik"
+
+#~ msgid "Open - currently active"
+#~ msgstr "Terbuka - sedang aktif"
+
+#~ msgid "Saved - for items to be purchased later"
+#~ msgstr "Tersimpan - untuk item yang dibeli nanti"
+
+#~ msgid "Frozen - the basket cannot be modified"
+#~ msgstr "Dibekukan - Troli tidak dapat diubah"
+
+#~ msgid "Submitted - has been ordered at the checkout"
+#~ msgstr "Disubmit - telah di pesan di kasir"
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Date created"
+#~ msgstr "Tanggal Dibuat"
+
+#~ msgid "Date merged"
+#~ msgstr "Tanggal penggabungan"
+
+#~ msgid "Date submitted"
+#~ msgstr "Tanggal Dikirim"
+
+#~ msgid "Baskets"
+#~ msgstr "Troli belanja"
+
+#~ msgid "%(status)s basket (owner: %(owner)s, lines: %(num_lines)d)"
+#~ msgstr ""
+#~ "%(status)s troli belanja (pemilik: %(owner)s, daftar ke: %(num_lines)d)"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order."
+#~ msgstr ""
+#~ "Disebabkan pembatasan kami tidak dapat mengirim lebih dari %(threshold)d "
+#~ "item dalam satu pesanan."
+
+#~ msgid "Line Reference"
+#~ msgstr "Daftar referensi"
+
+#~ msgid "Quantity"
+#~ msgstr "Jumlah"
+
+#~ msgid "Currency"
+#~ msgstr "Mata uang"
+
+#~ msgid "Price excl. Tax"
+#~ msgstr "Harga belum termasuk pajak"
+
+#~ msgid "Price incl. Tax"
+#~ msgstr "Harga dengan Pajak"
+
+#~ msgid "Basket line"
+#~ msgstr "Daftar troli belanja"
+
+#~ msgid "Basket lines"
+#~ msgstr "Daftar troli belanja"
+
+#~ msgid ""
+#~ "Basket #%(basket_id)d, Product #%(product_id)d, quantity %(quantity)d"
+#~ msgstr ""
+#~ "Troli belanja #%(basket_id)d, Produk #%(product_id)d, jumlah %(quantity)d"
+
+#~ msgid "You cannot modify a %s basket"
+#~ msgstr "Anda tidak dapat mengubah %s troli belanja "
+
+#~ msgid ""
+#~ "The price of '%(product)s' has increased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "harga '%(product)s' telah naik dari %(old_price)s to %(new_price)s sejak "
+#~ "Anda menambahkan ke dalam troli belanja"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has decreased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "harga '%(product)s' telah turun dari %(old_price)s to %(new_price)s sejak "
+#~ "Anda menambahkan ke dalam troli belanja"
+
+#~ msgid "Line"
+#~ msgstr "Daftar"
+
+#~ msgid "Option"
+#~ msgstr "Pilihan"
+
+#~ msgid "Value"
+#~ msgstr "Nilai"
+
+#~ msgid "Line attribute"
+#~ msgstr "daftar atribut"
+
+#~ msgid "Line attributes"
+#~ msgstr "daftar atribut"
+
+#~ msgid "Save for Later"
+#~ msgstr "Simpan untuk Nanti"
+
+#~ msgid "Move to Basket"
+#~ msgstr "Pindah ke Troli belanja"
+
+#~ msgid "Code"
+#~ msgstr "Kode"
+
+#~ msgid "Variant"
+#~ msgstr "Varian"
+
+#~ msgid "Please select a valid product"
+#~ msgstr "Silakan pilih produk yang valid"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order. Your basket currently has %(basket)d "
+#~ "items."
+#~ msgstr ""
+#~ "Disebabkan keterbatasan kami tidak dapat mengirim lebih dari "
+#~ "%(threshold)d item dalam satu pesanan. Pada pesanan Anda terdapat "
+#~ "%(basket)d item."
+
+#~ msgid ""
+#~ "This product cannot be added to the basket as its currency isn't the same "
+#~ "as other products in your basket"
+#~ msgstr ""
+#~ "Produk ini tidak dapat ditambahkan ke belanjaan Anda dikarenakan "
+#~ "perbedaan mata uang produk lain di dalam keranjang anda"
+
+#~ msgid ""
+#~ "We have merged a basket from a previous session. Its contents might have "
+#~ "changed."
+#~ msgstr ""
+#~ "kami menggabungkan belanjaan dari sesi sebelumnya. Isinya telah berubah."
+
+#~ msgid "User ID"
+#~ msgstr "ID Pengguna"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Basket status"
+#~ msgstr "Status Keranjang"
+
+#~ msgid "Num lines"
+#~ msgstr "Nomer baris"
+
+#~ msgid "Num items"
+#~ msgstr "Nomer barang"
+
+#~ msgid "Date of creation"
+#~ msgstr "Tanggal pembuatan"
+
+#~ msgid "Time since creation"
+#~ msgstr "Waktu sejak pembuatan"
+
+#~ msgid "Open baskets"
+#~ msgstr "Belanjaan yang masih terbuka"
+
+#~ msgid "Time between creation and submission"
+#~ msgstr "Waktu antara pembuatan dan penyetoran"
+
+#~ msgid "Submitted baskets"
+#~ msgstr "Submit belanjaan"
+
+#~ msgid "You can't save an item for later if you're not logged in!"
+#~ msgstr "Anda tidak dapat menyimpan barang untuk kemudian jika belum log in"
+
+#~ msgid ""
+#~ "Your basket couldn't be updated. Please correct any validation errors "
+#~ "below."
+#~ msgstr ""
+#~ "Belanjaan Anda tidak dapat diperbarui. Silahkan perbaiki kesalahan di "
+#~ "bawah ini."
+
+#~ msgid "The '%(code)s' voucher has expired"
+#~ msgstr "Voucher '%(code)s' telah kadaluarsa"
+
+#~ msgid "The '%(code)s' voucher is not active"
+#~ msgstr "Voucher '%(code)s' tidak aktif"
+
+#~ msgid "Your basket does not qualify for a voucher discount"
+#~ msgstr "Belanjaan Anda tidak memenuhi syarat sebagai kupon diskon"
+
+#~ msgid "Voucher '%(code)s' added to basket"
+#~ msgstr "Voucher '%(code)s' ditambahkan ke belanjaan"
+
+#~ msgid "You have already added the '%(code)s' voucher to your basket"
+#~ msgstr ""
+#~ "Anda telah menambahkan kode voucher '%(code)s' ke dalam belanjaan Anda"
+
+#~ msgid "No voucher found with code '%(code)s'"
+#~ msgstr "Kode voucher '%(code)s' tidak ditemukan"
+
+#~ msgid "Please enter a voucher code"
+#~ msgstr "Masukkan kode voucher"
+
+#~ msgid "Voucher '%s' removed from basket"
+#~ msgstr "Voucher '%s' dipindahkan dari basket"
+
+#~ msgid "Slug"
+#~ msgstr "Slug"
+
+#~ msgid "Requires shipping?"
+#~ msgstr "Apakah membutuhkan pengiriman?"
+
+#~ msgid "Track stock levels?"
+#~ msgstr "Lacak level stok?"
+
+#~ msgid "Product class"
+#~ msgstr "Kelas Produk"
+
+#~ msgid "Product classes"
+#~ msgstr "Kelas produk"
+
+#~ msgid "Description"
+#~ msgstr "Deskripsi"
+
+#~ msgid "Image"
+#~ msgstr "Gambar"
+
+#~ msgid "Category"
+#~ msgstr "Kategori"
+
+#~ msgid "Product category"
+#~ msgstr "Kategori Produk"
+
+#~ msgid "Product categories"
+#~ msgstr "Kategori produk"
+
+#~ msgid "Stand-alone product"
+#~ msgstr "Produk berdiri sendiri"
+
+#~ msgid "Parent product"
+#~ msgstr "Produk indukan"
+
+#~ msgid "Child product"
+#~ msgstr "Produk turunan"
+
+#~ msgid "Product structure"
+#~ msgstr "Struktur produk"
+
+#~ msgid "UPC"
+#~ msgstr "Kode UPC"
+
+#~ msgid ""
+#~ "Universal Product Code (UPC) is an identifier for a product which is not "
+#~ "specific to a particular  supplier. Eg an ISBN for a book."
+#~ msgstr ""
+#~ "UPC adalah pengidentifikasi untuk produk yang tidak sahspesifik terhadap "
+#~ "pemasoknya. misalnya ISBN untuk sebuah buku."
+
+#~ msgid ""
+#~ "Only choose a parent product if you're creating a child product.  For "
+#~ "example if this is a size 4 of a particular t-shirt.  Leave blank if this "
+#~ "is a stand-alone product (i.e. there is only one version of this product)."
+#~ msgstr ""
+#~ "Hanya pilih produk indukan jika membuat produk turunan. Sebagai contoh "
+#~ "jika ukuran 4 dari t-shirt tertentu. kosongkan jika iyaproduk yang "
+#~ "berdiri sendiri (misal hanya ada satu versi dari produk ini)."
+
+#~ msgctxt "Product title"
+#~ msgid "Title"
+#~ msgstr "Judul"
+
+#~ msgid "Product type"
+#~ msgstr "Jenis produk"
+
+#~ msgid "Choose what type of product this is"
+#~ msgstr "Pilih tipe apa dari produk ini"
+
+#~ msgid "Attributes"
+#~ msgstr "Atribut"
+
+#~ msgid ""
+#~ "A product attribute is something that this product may have, such as a "
+#~ "size, as specified by its class"
+#~ msgstr ""
+#~ "Product Attribute adalah sesuatu yang dimiliki oleh sebuah produk, "
+#~ "misalnya ukurandan ditentukan oleh kelasnya"
+
+#~ msgid "Product options"
+#~ msgstr "Pilihan dari produk"
+
+#~ msgid ""
+#~ "Options are values that can be associated with a item when it is added to "
+#~ "a customer's basket.  This could be something like a personalised message "
+#~ "to be printed on a T-shirt."
+#~ msgstr ""
+#~ "Options adalah nilai yang dikaitkan dengan sebuah item ketika produk itu "
+#~ "ditambahkan kebelanjaan pelanggan. Hal ini semacam tulisan yang dicetak "
+#~ "di sebuah T-shirt."
+
+#~ msgid "Recommended products"
+#~ msgstr "Produk yang direkomendasikan"
+
+#~ msgid ""
+#~ "These are products that are recommended to accompany the main product."
+#~ msgstr "Ini adalah produk yang rekomendasi yang menyertai produk utama."
+
+#~ msgid "Date updated"
+#~ msgstr "Tanggal diperbarui"
+
+#~ msgid "Is discountable?"
+#~ msgstr "apakah dapat didiskon?"
+
+#~ msgid "This flag indicates if this product can be used in an offer or not"
+#~ msgstr ""
+#~ "Tanda ini berarti jika produk ini dapat digunakan dalam penawaran atau "
+#~ "tidak"
+
+#~ msgid "Your product must have a title."
+#~ msgstr "Produk anda harus memiliki judul"
+
+#~ msgid "Your product must have a product class."
+#~ msgstr "Produk anda harus memiliki kelas produk"
+
+#~ msgid "Only child products can have a parent."
+#~ msgstr "Hanya produk turunan yang dapat memiliki indukan."
+
+#~ msgid "A child product needs a parent."
+#~ msgstr "Sebuah produk turunan membutuhkan produk induk."
+
+#~ msgid "You can only assign child products to parent products."
+#~ msgstr "Anda hanya boleh menetapkan produk turunan ke produk induk."
+
+#~ msgid "A child product can't have a product class."
+#~ msgstr "Produk turunan tidak dapat memiliki kelas produk"
+
+#~ msgid "A child product can't have a category assigned."
+#~ msgstr "Sebuah produk turunan tidak dapat memiliki categori yang ditetapkan"
+
+#~ msgid "A child product can't have options."
+#~ msgstr "Produk turunan tidak dapat memiliki opsi"
+
+#~ msgid "The specified parent product is a child product."
+#~ msgstr "Produk utama tertentu adalah produk turunan."
+
+#~ msgid "One can't add a child product to a product with stock records."
+#~ msgstr ""
+#~ "Satu item tidak dapat menambah produk turunan ke produk dengan catatan "
+#~ "stok"
+
+#~ msgid "Primary product"
+#~ msgstr "Produk utama"
+
+#~ msgid "Recommended product"
+#~ msgstr "Produk rekomendasi"
+
+#~ msgid "Ranking"
+#~ msgstr "Peringkat"
+
+#~ msgid ""
+#~ "Determines order of the products. A product with a higher value will "
+#~ "appear before one with a lower ranking."
+#~ msgstr ""
+#~ "Menentukan urutan produk. Produk dengan nilai tertinggi akan muncul "
+#~ "sebelum peringkat rendah sebelumnya."
+
+#~ msgid "Product recommendation"
+#~ msgstr "Rekomendasi produk"
+
+#~ msgid "Product recomendations"
+#~ msgstr "Produk yang direkomendasikan"
+
+#~ msgid ""
+#~ "Code can only contain the letters a-z, A-Z, digits, and underscores, and "
+#~ "can't start with a digit."
+#~ msgstr ""
+#~ " Kode hanya berupa huruf a-z, A-Z, angka,garis bawah (_), dan tidak "
+#~ "dimulai dengan sebuah angka."
+
+#~ msgid "Text"
+#~ msgstr "Teks"
+
+#~ msgid "Integer"
+#~ msgstr "Bilangan bulat"
+
+#~ msgid "True / False"
+#~ msgstr "Benar / Salah"
+
+#~ msgid "Float"
+#~ msgstr "Pecahan"
+
+#~ msgid "Rich Text"
+#~ msgstr "Rich Text"
+
+#~ msgid "Date"
+#~ msgstr "Tanggal"
+
+#~ msgid "Entity"
+#~ msgstr "Entitas"
+
+#~ msgid "File"
+#~ msgstr "File"
+
+#~ msgid "Option Group"
+#~ msgstr "Kelompok Opsi"
+
+#~ msgid "Required"
+#~ msgstr "Wajib"
+
+#~ msgid "Product attribute"
+#~ msgstr "Atribut produk"
+
+#~ msgid "Product attributes"
+#~ msgstr "Atribut produk"
+
+#~ msgid "Must be a float"
+#~ msgstr "Harus bilangan pecahan"
+
+#~ msgid "Must be an integer"
+#~ msgstr "Harus bilangan bulat"
+
+#~ msgid "Must be a date or datetime"
+#~ msgstr "Harus berbentuk tanggal atau waktu"
+
+#~ msgid "Must be a boolean"
+#~ msgstr "Harus bilangan boolean"
+
+#~ msgid "Must be a model instance"
+#~ msgstr "Harus sebuah model instance"
+
+#~ msgid "Must be a file field"
+#~ msgstr "Harus bertipe file-field"
+
+#~ msgid "Attribute"
+#~ msgstr "Atribut"
+
+#~ msgid "Boolean"
+#~ msgstr "Bilangan Boolean"
+
+#~ msgid "Richtext"
+#~ msgstr "Richtext"
+
+#~ msgid "Value option"
+#~ msgstr "Pilihan nilai"
+
+#~ msgid "Product attribute value"
+#~ msgstr "Nilai atribut produk"
+
+#~ msgid "Product attribute values"
+#~ msgstr "Nilai atribut produk"
+
+#~ msgid "Attribute option group"
+#~ msgstr "Pilihan atribut kelompok"
+
+#~ msgid "Attribute option groups"
+#~ msgstr "Pilihan atribut kelompok"
+
+#~ msgid "Group"
+#~ msgstr "Grup"
+
+#~ msgid "Attribute option"
+#~ msgstr "Opsi atribut"
+
+#~ msgid "Attribute options"
+#~ msgstr "Opsi atribut"
+
+#~ msgid "Required - a value for this option must be specified"
+#~ msgstr "Wajib - Nilai untuk opsi ini harus ditentukan"
+
+#~ msgid "Optional - a value for this option can be omitted"
+#~ msgstr "Pilihan - Sebuah nilai untuk opsi ini harus dihilangkan"
+
+#~ msgid "Original"
+#~ msgstr "Asli"
+
+#~ msgid "Caption"
+#~ msgstr "Judul halaman"
+
+#~ msgid ""
+#~ "An image with a display order of zero will be the primary image for a "
+#~ "product"
+#~ msgstr ""
+#~ "Sebuah gambar dengan tampilan dari nol akan menjadi gambar utama untuk "
+#~ "sebuahproduk"
+
+#~ msgid "Product image"
+#~ msgstr "Gambar produk"
+
+#~ msgid "Product images"
+#~ msgstr "Gambar produk"
+
+#~ msgid "%(obj)s has no attribute named '%(attr)s'"
+#~ msgstr "%(obj)s tidak memiliki nama atribut '%(attr)s'"
+
+#~ msgid "%(attr)s attribute cannot be blank"
+#~ msgstr "Atribut %(attr)s tidak boleh kosong"
+
+#~ msgid "%(attr)s attribute %(err)s"
+#~ msgstr "Atribut %(attr)s %(err)s"
+
+#~ msgctxt "Product review title"
+#~ msgid "Title"
+#~ msgstr "Judul"
+
+#~ msgid "Body"
+#~ msgstr "Bagian"
+
+#~ msgctxt "Anonymous reviewer name"
+#~ msgid "Name"
+#~ msgstr "Nama"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Requires moderation"
+#~ msgstr "Butuh moderasi"
+
+#~ msgid "Approved"
+#~ msgstr "Disetujui"
+
+#~ msgid "Rejected"
+#~ msgstr "Ditolak"
+
+#~ msgid "Total Votes"
+#~ msgstr "Total Suara"
+
+#~ msgid "Delta Votes"
+#~ msgstr "Selisih Suara"
+
+#~ msgid "Product review"
+#~ msgstr "Ulasan produk"
+
+#~ msgid "Product reviews"
+#~ msgstr "Ulasan produk"
+
+#~ msgid "Anonymous reviews must include a name and an email"
+#~ msgstr "Ulasan tanpa nama harus termasuk sebuah nama dan sebuah email"
+
+#~ msgid "anonymous"
+#~ msgstr "anonim"
+
+#~ msgid "Only signed in users can vote"
+#~ msgstr "Hanya pengguna yang sudah masuk yang bisa memilih"
+
+#~ msgid "Up"
+#~ msgstr "atas"
+
+#~ msgid "Down"
+#~ msgstr "bawah"
+
+#~ msgid "Delta"
+#~ msgstr "Delta"
+
+#~ msgid "Vote"
+#~ msgstr "Memilih"
+
+#~ msgid "Votes"
+#~ msgstr "Memilih"
+
+#~ msgid "You cannot vote on your own reviews"
+#~ msgstr "Anda tidak dapat memilih ulasan anda sendiri"
+
+#~ msgid "Only signed-in users can vote on reviews"
+#~ msgstr "Hanya pengguna yang masuk yang dapat memilih ulasan"
+
+#~ msgid "You can only vote once on a review"
+#~ msgstr "Anda hanya dapat memilih sekali pada ulasan"
+
+#~ msgid "Catalogue reviews"
+#~ msgstr "Ulasan katalog"
+
+#~ msgid "Recency"
+#~ msgstr "Resensi"
+
+#~ msgid "Sort by"
+#~ msgstr "Urut berdasarkan"
+
+#~ msgid "You have already reviewed this product!"
+#~ msgstr "Kamu telah memberi ulasan pada produk ini"
+
+#~ msgid "You can't leave a review for this product."
+#~ msgstr "Anda tidask dapat meninggalkan ulasan pada produk ini"
+
+#~ msgid "Thank you for reviewing this product"
+#~ msgstr "Terima kasih telah memberi ulasan pada produk ini"
+
+#~ msgid "Thanks for voting!"
+#~ msgstr "Terima kasih sudah memberi suara!"
+
+#~ msgid "%(filename)s is not a valid image (%(error)s)"
+#~ msgstr "%(filename)s bukan gambar valid (%(error)s)"
+
+#~ msgid "%s is not a valid image archive"
+#~ msgstr "%s bukan gambar arsip yang valid"
+
+#~ msgid "The given page number was invalid."
+#~ msgstr "Nomor halaman yang dituju tidak ada"
+
+#~ msgid "Checkout"
+#~ msgstr "cekout"
+
+#~ msgid "My email address is"
+#~ msgstr "Alamat email saya adalah"
+
+#~ msgid "I am a new customer and want to checkout as a guest"
+#~ msgstr "Saya pelanggan baru dan ingin diproses sebagai tamu"
+
+#~ msgid ""
+#~ "I am a new customer and want to create an account before checking out"
+#~ msgstr ""
+#~ "Saya adalah pelanggan baru dan ingin membuat sebuah akun sebelum keluar "
+#~ "dari halaman"
+
+#~ msgid "I am a returning customer, and my password is"
+#~ msgstr "Saya sudah jadi pelanggan dan kata sandi saya adalah"
+
+#~ msgid "A user with that email address already exists"
+#~ msgstr "Pengguna dengan alamat email tersebut sudah ada"
+
+#~ msgid "You need to add some items to your basket to checkout"
+#~ msgstr "Anda perlu menambahkan beberapa item ke keranjang anda untuk cekout"
+
+#~ msgid ""
+#~ "'%(title)s' is no longer available to buy (%(reason)s). Please adjust "
+#~ "your basket to continue"
+#~ msgstr ""
+#~ "'%(title)s tidak tersedia lagi untuk membeli (%(reason)s). Silahkan Anda "
+#~ "sesuaikandengan belanjaan untuk melanjutkan"
+
+#~ msgid "Please either sign in or enter your email address"
+#~ msgstr "Mohon pilih masuk atau tuliskan alamat email"
+
+#~ msgid "Please choose a shipping address"
+#~ msgstr "Pilih alamat kirim"
+
+#~ msgid ""
+#~ "Your previously chosen shipping address is no longer valid.  Please "
+#~ "choose another one"
+#~ msgstr ""
+#~ "Alamat kirim pilihan anda sebelumnya tidak valid lagi. Mohon pilih yang "
+#~ "lain"
+
+#~ msgid "Please choose a shipping method"
+#~ msgstr "Pilih cara pengiriman"
+
+#~ msgid ""
+#~ "Your previously chosen shipping method is no longer valid.  Please choose "
+#~ "another one"
+#~ msgstr ""
+#~ "Pilihan metode pengiriman anda sebelumnya tidak valid lagi. Mohon pilih "
+#~ "yang lain"
+
+#~ msgid ""
+#~ "Create your account and then you will be redirected back to the checkout "
+#~ "process"
+#~ msgstr "Buat akun anda dan anda akan diarahkan kembali ke cekoutproses"
+
+#~ msgid "Address saved"
+#~ msgstr "Alamat tersimpan"
+
+#~ msgid "Address deleted"
+#~ msgstr "Alamat terhapus"
+
+#~ msgid ""
+#~ "Shipping is unavailable for your chosen address - please choose another"
+#~ msgstr ""
+#~ "Pengiriman tidak tersedia untuk alamat yang anda pilih - Mohon pilih yang "
+#~ "lain"
+
+#~ msgid "Your submitted shipping method is not permitted"
+#~ msgstr "Metode pengiriman yang anda tetapkan tidak diizinkan"
+
+#~ msgid ""
+#~ "A problem occurred while processing payment for this order - no payment "
+#~ "has been taken.  Please contact customer services if this problem persists"
+#~ msgstr ""
+#~ "Masalah yang terjadi ketika proses pembayaran untuk pesanan ini - tidak "
+#~ "ada pembayaran yang diambil. Harap menghubungi pelayanan pelanggan jika "
+#~ "masalah ini berlanjut"
+
+#~ msgid "No order found"
+#~ msgstr "Pesanan tidak ditemukan"
+
+#~ msgid "email address"
+#~ msgstr "alamat email"
+
+#~ msgid "Staff status"
+#~ msgstr "Status staf"
+
+#~ msgid "Designates whether the user can log into this admin site."
+#~ msgstr "Menunjuk apakah pengguna dapat masuk ke situs admin"
+
+#~ msgid "Active"
+#~ msgstr "Aktif"
+
+#~ msgid ""
+#~ "Designates whether this user should be treated as active. Unselect this "
+#~ "instead of deleting accounts."
+#~ msgstr ""
+#~ "Menunjuk pada apakah pengguna harus diperlakukan sebagai aktif. Batal "
+#~ "memilih sebagai gantinya atau menghapus akun."
+
+#~ msgid "date joined"
+#~ msgstr "tanggal bergabung"
+
+#~ msgid "Users"
+#~ msgstr "Pengguna"
+
+#~ msgid "Subject"
+#~ msgstr "Subjek"
+
+#~ msgid "Body Text"
+#~ msgstr "Badan Teks"
+
+#~ msgid "Body HTML"
+#~ msgstr "Badan HTML"
+
+#~ msgid "Date Sent"
+#~ msgstr "Tanggal Terkirim"
+
+#~ msgid "Emails"
+#~ msgstr "Email"
+
+#~ msgid "Email to %(user)s with subject '%(subject)s'"
+#~ msgstr "Email kepada %(user)s dengan subyek '%(subject)s'"
+
+#~ msgid "Code used for looking up this event programmatically"
+#~ msgstr "Kode ini untuk mencari acara pemograman"
+
+#~ msgid "This is just used for organisational purposes"
+#~ msgstr "Ini hanya digunakan untuk tujuan oerganisasi"
+
+#~ msgid "Order related"
+#~ msgstr "Pesanan terkait"
+
+#~ msgid "User related"
+#~ msgstr "Pengguna terkait"
+
+#~ msgid "Email Subject Template"
+#~ msgstr "Pola subyek email"
+
+#~ msgid "Email Body Template"
+#~ msgstr "Pola badan email"
+
+#~ msgid "Email Body HTML Template"
+#~ msgstr "Pola badan email HTML"
+
+#~ msgid "HTML template"
+#~ msgstr "Pola HTML"
+
+#~ msgid "SMS Template"
+#~ msgstr "Pola SMS"
+
+#~ msgid "SMS template"
+#~ msgstr "Pola SMS"
+
+#~ msgid "Date Updated"
+#~ msgstr "Tanggal Diperbarui"
+
+#~ msgid "Communication event type"
+#~ msgstr "Tipe acara komunikasi"
+
+#~ msgid "Communication event types"
+#~ msgstr "Tipe acara komunikasi"
+
+#~ msgid "Inbox"
+#~ msgstr "Pesan masuk"
+
+#~ msgid "Archive"
+#~ msgstr "Arsip"
+
+#~ msgid "Notification"
+#~ msgstr "Notifikasi"
+
+#~ msgid "Notifications"
+#~ msgstr "Notifikasi"
+
+#~ msgid "Key"
+#~ msgstr "Kunci"
+
+#~ msgid "Not yet confirmed"
+#~ msgstr "Belum dikonfirmasi"
+
+#~ msgid "Cancelled"
+#~ msgstr "Dibatalkan"
+
+#~ msgid "Closed"
+#~ msgstr "Ditutup"
+
+#~ msgid "Date confirmed"
+#~ msgstr "Tanggal dikonfirmasi"
+
+#~ msgid "Date cancelled"
+#~ msgstr "Tanggal dibatalkan"
+
+#~ msgid "Date closed"
+#~ msgstr "Tanggal ditutup"
+
+#~ msgid "Product alert"
+#~ msgstr "Pemberitahuan produk"
+
+#~ msgid "Product alerts"
+#~ msgstr "Pemberitahuan produk"
+
+#~ msgid "Product Alerts"
+#~ msgstr "Pemberitahuan produk"
+
+#~ msgid "An alert has been created"
+#~ msgstr "Sebuah pemberitahuan telah dibuat"
+
+#~ msgid "A confirmation email has been sent to %s"
+#~ msgstr "sebuah komfirmasi email telah dikirim ke %s"
+
+#~ msgid "Your stock alert is now active"
+#~ msgstr "Pemberitahuan stiok anda sekarang aktif"
+
+#~ msgid "Your stock alert cannot be confirmed"
+#~ msgstr "Pemberitahuan stok anda tidak dapat dikonfirmasi"
+
+#~ msgid "Your stock alert has been cancelled"
+#~ msgstr "Pemberitahuan stok anda telah dibatalkan"
+
+#~ msgid "Your stock alert cannot be cancelled"
+#~ msgstr "Pemberitahuan stok anda tidak dapat dibatalkan"
+
+#~ msgid "Customer"
+#~ msgstr "Pelanggan"
+
+#~ msgid "Email address"
+#~ msgstr "Alamat email"
+
+#~ msgid "Password"
+#~ msgstr "Kata Sandi"
+
+#~ msgid "The entered password is not valid!"
+#~ msgstr "Password yang dimasukkan tidak valid!"
+
+#~ msgid "Confirm password"
+#~ msgstr "Konfirmasi kata sandi"
+
+#~ msgid "The two password fields didn't match."
+#~ msgstr "Kedua kata sandi tidak cocok"
+
+#~ msgctxt "start date"
+#~ msgid "From"
+#~ msgstr "Dari"
+
+#~ msgctxt "end date"
+#~ msgid "To"
+#~ msgstr "Kepada"
+
+#~ msgid "Order number"
+#~ msgstr "Nomor Pesanan"
+
+#~ msgid "At least one field is required."
+#~ msgstr "Setidaknya satu area adalah wajib"
+
+#~ msgid "All orders"
+#~ msgstr "Semua pesanan"
+
+#~ msgid ""
+#~ "Orders placed between %(date_from)s and %(date_to)s and order number "
+#~ "containing %(order_number)s"
+#~ msgstr ""
+#~ "Pesanan ditempatkan antara %(date_from)s dan %(date_to)s dan nomor "
+#~ "orderan yang terdapat pada %(order_number)s"
+
+#~ msgid "Orders placed between %(date_from)s and %(date_to)s"
+#~ msgstr "pesanan ditempatkan antara %(date_from)s dan %(date_to)s"
+
+#~ msgid ""
+#~ "Orders placed since %(date_from)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "Pesanan ditempatkan sejak %(date_from)s dan nomer yang terdapat pada "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed since %(date_from)s"
+#~ msgstr "Pesanan ditempatkan sejak %(date_from)s"
+
+#~ msgid ""
+#~ "Orders placed until %(date_to)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "Pesanan ditempatkan sampai %(date_to)s dan nomor pesanan yang terdapat "
+#~ "pada %(order_number)s"
+
+#~ msgid "Orders placed until %(date_to)s"
+#~ msgstr "Pesanan ditempatkan sampai %(date_to)s"
+
+#~ msgid "Orders with order number containing %(order_number)s"
+#~ msgstr "Pesanan dengan nomor yang terdapat pada %(order_number)s"
+
+#~ msgid "A user with this email address already exists"
+#~ msgstr "Seorang pengguna dengan alamat email ini telah ada"
+
+#~ msgid "Send notification to"
+#~ msgstr "Kirim notifikasi kepada"
+
+#~ msgid "Enter your email"
+#~ msgstr "Masukkan email anda"
+
+#~ msgid "There is already an active stock alert for %s"
+#~ msgstr "Pemberitahuan stok telah aktif untuk %s"
+
+#~ msgid "You already have an active alert for this product"
+#~ msgstr "Anda telah memiliki pemberitahuan yang aktif untuk produk ini"
+
+#~ msgid "Welcome back"
+#~ msgstr "Selamat datang kembali"
+
+#~ msgid "Thanks for registering!"
+#~ msgstr "Terima kasih sudah mendaftar!"
+
+#~ msgid "Profile"
+#~ msgstr "Profil"
+
+#~ msgid "Edit Profile"
+#~ msgstr "Ubah Profil"
+
+#~ msgid "Profile updated"
+#~ msgstr "Profil diperbarui"
+
+#~ msgid "Delete profile"
+#~ msgstr "Profil dihapus"
+
+#~ msgid "Your profile has now been deleted. Thanks for using the site."
+#~ msgstr ""
+#~ "Profil anda telah dihapus. Terima kasih telah menggunakan situs ini."
+
+#~ msgid "Change Password"
+#~ msgstr "Ubah Katasandi"
+
+#~ msgid "Password updated"
+#~ msgstr "Katasandi diperbarui"
+
+#~ msgid "Email History"
+#~ msgstr "Sejarah Email"
+
+#~ msgid "Order History"
+#~ msgstr "Sejarah Pesanan"
+
+#~ msgid "Order"
+#~ msgstr "Pesanan"
+
+#~ msgid ""
+#~ "All available lines from order %(number)s have been added to your basket"
+#~ msgstr ""
+#~ "Semua baris yang tersedia dari pesanan %(number)s telah ditambahkan ke "
+#~ "belanjaan Anda"
+
+#~ msgid ""
+#~ "It is not possible to re-order order %(number)s as none of its lines are "
+#~ "available to purchase"
+#~ msgstr ""
+#~ "Memesan kembali tidak dimungkinkan untuk %(number)s karena tidak tersedia "
+#~ "untuk dibeli"
+
+#~ msgid "%(qty)d copies of '%(product)s' have been added to your basket"
+#~ msgstr ""
+#~ "%(qty)d perbanyak dari '%(product)s' telah ditambahkan ke belanjaan Anda"
+
+#~ msgid "'%s' has been added to your basket"
+#~ msgstr "'%s' telah ditambahkan ke daftar belanja."
+
+#~ msgid "Address Book"
+#~ msgstr "Buku Alamat"
+
+#~ msgid "Add a new address"
+#~ msgstr "Tambahkan alamat baru"
+
+#~ msgid "Address '%s' created"
+#~ msgstr "Alamat '%s' dibuat"
+
+#~ msgid "Edit address"
+#~ msgstr "Ubah alamat"
+
+#~ msgid "Address '%s' updated"
+#~ msgstr "Alamat '%s' diperbarui"
+
+#~ msgid "Delete address?"
+#~ msgstr "Hapus alamat?"
+
+#~ msgid "Address '%s' deleted"
+#~ msgstr "Alamat '%s' dihapus"
+
+#~ msgid "We do not ship to this country"
+#~ msgstr "Kami tidak mengirim ke negara ini"
+
+#~ msgid "Wish Lists"
+#~ msgstr "Daftar keinginan"
+
+#~ msgid "Quantities updated."
+#~ msgstr "Jumlah diperbarui"
+
+#~ msgid "Create a new wish list"
+#~ msgstr "Buat daftar keinginan yang baru"
+
+#~ msgid "The requested product no longer exists"
+#~ msgstr "Produk yang diminta tidak ada lagi"
+
+#~ msgid "Your wishlist has been created and '%(name)s has been added"
+#~ msgstr "Daftar keinginan anda telah dibuat dan '%(name)s telah ditambahkan"
+
+#~ msgid "Your wishlist has been created"
+#~ msgstr "Daftar keinginan telah dibuat"
+
+#~ msgid "%(title)s has been added to your wishlist"
+#~ msgstr "%(title)s telah ditambahkan kedalam daftar keinginan"
+
+#~ msgid "Your '%s' wishlist has been updated"
+#~ msgstr "Daftar keinginan '%s' Anda telah diperbaharui"
+
+#~ msgid "Delete %s"
+#~ msgstr "Hapus %s"
+
+#~ msgid "Your '%s' wish list has been deleted"
+#~ msgstr "Daftar keiginan '%s' Anda telah dihapus"
+
+#~ msgid "'%s' was added to your wish list."
+#~ msgstr "'%s' telah ditambahkan ke daftar keinginan anda."
+
+#~ msgid "Remove %s"
+#~ msgstr "Hapus %s"
+
+#~ msgid "'%(title)s' was removed from your '%(name)s' wish list"
+#~ msgstr "'%(title)s' telah dihapus dari daftar keinginan anda '%(name)s'"
+
+#~ msgid "'%(title)s' moved to '%(name)s' wishlist"
+#~ msgstr "'%(title)s' dipindah ke daftar keinginan '%(name)s'"
+
+#~ msgid "Create a new product of type"
+#~ msgstr "Membuat tipe produk baru"
+
+#~ msgid "-- Choose type --"
+#~ msgstr "-- Pilih jenis --"
+
+#~ msgid "Product title"
+#~ msgstr "Judul produk"
+
+#~ msgid "Select an option group"
+#~ msgstr "Pilih grup opsi"
+
+#~ msgid ""
+#~ "At least one stock record must be set to a partner that you're associated "
+#~ "with."
+#~ msgstr "Pada rekaman stok terakhir harus diatur untuk rekan yang terkait "
+
+#~ msgid "Stand-alone and parent products must have at least one category"
+#~ msgstr ""
+#~ "Berdiri sendiri dan produk utama harus memiliki setidaknya satu kategori"
+
+#~ msgid "A child product should not have categories"
+#~ msgstr "Produk turunan tidak harus memiliki kategori"
+
+#~ msgid "Title"
+#~ msgstr "Judul"
+
+#~ msgid "Variants"
+#~ msgstr "variasi"
+
+#~ msgid "Stock records"
+#~ msgstr "Rekaman Stok"
+
+#~ msgid "Actions"
+#~ msgstr "Aksi"
+
+#~ msgid "Number of child categories"
+#~ msgstr "Nomor dari kategori produk turunan"
+
+#~ msgid "%s Category"
+#~ msgid_plural "%s Categories"
+#~ msgstr[0] "%s kategori"
+
+#~ msgid "Product search results"
+#~ msgstr "Produk hasil pencarian"
+
+#~ msgid "Please choose a product type"
+#~ msgstr "Pilih jenis produk"
+
+#~ msgid "Create new %(product_class)s product"
+#~ msgstr "Buat baru %(product_class)s produk"
+
+#~ msgid "Create new variant of %(parent_product)s"
+#~ msgstr "Buat variasi baru dari %(parent_product)s"
+
+#~ msgid "Editing variant of %(parent_product)s"
+#~ msgstr "Mengubah variasi dari %(parent_product)s"
+
+#~ msgid "Your submitted data was not valid - please correct the errors below"
+#~ msgstr ""
+#~ "Data yang dikirimkan tidak valid - mohon perbaiki kesalahan di bawah ini"
+
+#~ msgid "Delete product variant?"
+#~ msgstr "Hapus varian produk?"
+
+#~ msgid "Delete product?"
+#~ msgstr "Hapus produk?"
+
+#~ msgid "Deleted product variant '%s'"
+#~ msgstr "Produk variasi telah dihapus '%s"
+
+#~ msgid "Deleted product '%s'"
+#~ msgstr "Produk dihapus '%s'"
+
+#~ msgid "Alerts with status \"%s\""
+#~ msgstr "Alerts with status \"%s\""
+
+#~ msgid "All alerts"
+#~ msgstr "Semua peringatan"
+
+#~ msgid "Add a new category"
+#~ msgstr "Tambahkan kategori baru"
+
+#~ msgid "Category created successfully"
+#~ msgstr "Kategori berhasil dibuat"
+
+#~ msgid "Update category '%s'"
+#~ msgstr "Perbarui kategori '%s'"
+
+#~ msgid "Category updated successfully"
+#~ msgstr "Kategori berhasil diperbarui"
+
+#~ msgid "Category deleted successfully"
+#~ msgstr "Kategori berhasil dihapus"
+
+#~ msgid "Add a new product type"
+#~ msgstr "Menambah tipe produk baru"
+
+#~ msgid "Product type created successfully"
+#~ msgstr "Tipe produk berhasil dibuat"
+
+#~ msgid "Update product type '%s'"
+#~ msgstr "Memperbaharui tipe produk '%s'"
+
+#~ msgid "Product type updated successfully"
+#~ msgstr "Tipe produk berhasil diperbaharui"
+
+#~ msgid "Delete product type '%s'"
+#~ msgstr "Menghapus tipe produk '%s'"
+
+#~ msgid "Unable to delete '%s'"
+#~ msgstr "Tidak dapat menghapus '%s'"
+
+#~ msgid "%i products are still assigned to this type"
+#~ msgstr "%i Produk ini masih terpasang untuk tipe ini"
+
+#~ msgid "Product type deleted successfully"
+#~ msgstr "Tipe produk berhasil dihapus"
+
+#~ msgid "Communications dashboard"
+#~ msgstr "Pedoman komunikasi"
+
+#~ msgid "Email subject template"
+#~ msgstr "Pola subyek email"
+
+#~ msgid "Email body text template"
+#~ msgstr "Pola badan pesan email"
+
+#~ msgid "Email body HTML template"
+#~ msgstr "Pola badan email HTML"
+
+#~ msgid "Preview email"
+#~ msgstr "Peninjauan email"
+
+#~ msgid "No order found with this number"
+#~ msgstr "Tidak ada pesanan yang ditemukan dengan nomor ini"
+
+#~ msgid "Please enter an email address"
+#~ msgstr "Masukkan alamat email"
+
+#~ msgid ""
+#~ "The submitted form was not valid, please correct the errors and resubmit"
+#~ msgstr ""
+#~ "Formulir yang diajukan tidak ada, harap periksa kembali dan ajukan ulang"
+
+#~ msgid "Email saved"
+#~ msgstr "Email tersimpan"
+
+#~ msgid "A preview email has been sent to %s"
+#~ msgstr "Peninjauan email telah dikirim ke %s"
+
+#~ msgid "Offers dashboard"
+#~ msgstr "Papan penawaran"
+
+#~ msgid "Start date"
+#~ msgstr "Tanggal mulai"
+
+#~ msgid "End date"
+#~ msgstr "Tanggal selesai"
+
+#~ msgid "The end date must be after the start date"
+#~ msgstr "Tanggal selesai harus setelah tanggal mulai"
+
+#~ msgid "Custom condition"
+#~ msgstr "Kondisi pesanan"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom condition"
+#~ msgstr "Harap pilih kisaran, tipe dan nilai atau pilih kondisi pesanan"
+
+#~ msgid "A range is required"
+#~ msgstr "Kisaran diperlukan"
+
+#~ msgid "Custom incentive"
+#~ msgstr "Insentif khusus"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom incentive"
+#~ msgstr "Harap pilih kisaran, tipe dan nilai atau pilih Insentif khusus"
+
+#~ msgid "No other options can be set if you are using a custom incentive"
+#~ msgstr ""
+#~ "Tidak ada pilihan lain yang dapat diatur jika kamu menggunakan insentif "
+#~ "khusus"
+
+#~ msgid "Offer name"
+#~ msgstr "Penawaran nama"
+
+#~ msgid "Is active?"
+#~ msgstr "Apakah aktif?"
+
+#~ msgid "Order date"
+#~ msgstr "Tanggal Pesanan"
+
+#~ msgid "Order total"
+#~ msgstr "Total pesanan"
+
+#~ msgid "Cost"
+#~ msgstr "Biaya"
+
+#~ msgid "All offers"
+#~ msgstr "Semua tawaran"
+
+#~ msgid "Offers matching '%s'"
+#~ msgstr "Penawaran cocok '%s'"
+
+#~ msgid "%s step not complete"
+#~ msgstr "%s langkah tidak lengkap"
+
+#~ msgid "Offer '%s' updated"
+#~ msgstr "Penawaran '%s' diperbaharui"
+
+#~ msgid "Offer '%s' created!"
+#~ msgstr "Penawaran '%s' dibuat"
+
+#~ msgid "Name and description"
+#~ msgstr "Nama dan deskripsi"
+
+#~ msgid "Incentive"
+#~ msgstr "Insentif"
+
+#~ msgid "Restrictions"
+#~ msgstr "Restriksi"
+
+#~ msgid "Offer deleted!"
+#~ msgstr "Tawaran dihapus!"
+
+#~ msgid "Offer is already suspended"
+#~ msgstr "Penawaran telah ditangguhkan"
+
+#~ msgid "Offer suspended"
+#~ msgstr "Penawaran ditangguhkan"
+
+#~ msgid "Offer cannot be reinstated as it is not currently suspended"
+#~ msgstr "Penawaran tidak dapat dipulihkan karena saat ini tidak ditangguhkan"
+
+#~ msgid "Offer reinstated"
+#~ msgstr "Penawaran dipulihkan"
+
+#~ msgid "Orders dashboard"
+#~ msgstr "Papan pesanan"
+
+#~ msgid "Orders placed since %s"
+#~ msgstr "Pesanan ditempatkan sejak %s"
+
+#~ msgid "Orders placed until %s"
+#~ msgstr "Pesanan ditempatkan sampai %s"
+
+#~ msgid "Customer name"
+#~ msgstr "Nama pelanggan"
+
+#~ msgid "Product name"
+#~ msgstr "Nama produk"
+
+#~ msgid "Partner SKU"
+#~ msgstr "SKU Rekan"
+
+#~ msgid "Date from"
+#~ msgstr "Tanggal mulai"
+
+#~ msgid "Date to"
+#~ msgstr "Tanggal selesai"
+
+#~ msgid "Voucher code"
+#~ msgstr "Kode voucher"
+
+#~ msgid "Payment method"
+#~ msgstr "Cara pembayaran"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "CSV"
+#~ msgstr "CSV"
+
+#~ msgid "Get results as"
+#~ msgstr "Mendapat hasil seperti"
+
+#~ msgid "New order status"
+#~ msgstr "Status pesanan baru"
+
+#~ msgid "Order number starts with \"{order_number}\""
+#~ msgstr "Nomor pesanan dimulai dengan \"{order_number}\""
+
+#~ msgid "Customer name matches \"{customer_name}\""
+#~ msgstr "Kecocokan nama pelanggan \"{customer_name}\""
+
+#~ msgid "Product name matches \"{product_name}\""
+#~ msgstr "Kecocokan nama produk \"{product_name}\""
+
+#~ msgid "Includes an item with UPC \"{upc}\""
+#~ msgstr "termasuk sebuah item dengan UPC \"{upc}\""
+
+#~ msgid "Includes an item with partner SKU \"{partner_sku}\""
+#~ msgstr "termasuk sebuah item dengan rekan SKU \"{partner_sku}\""
+
+#~ msgid "Placed between {start_date} and {end_date}"
+#~ msgstr "Ditempatkan antara {start_date} dan {end_date}"
+
+#~ msgid "Placed after {start_date}"
+#~ msgstr "Ditempatkan setelah {start_date}"
+
+#~ msgid "Placed before {end_date}"
+#~ msgstr "Ditempatkan sebelum {end_date}"
+
+#~ msgid "Used voucher code \"{voucher_code}\""
+#~ msgstr "Gunakan kode kupon \"{voucher_code}\""
+
+#~ msgid "Paid using {payment_method}"
+#~ msgstr "Bayar menggunakan {payment_method}"
+
+#~ msgid "Order status is {order_status}"
+#~ msgstr "Status pesanan adalah {order_status}"
+
+#~ msgid "Order value"
+#~ msgstr "Nilai pesanan"
+
+#~ msgid "Date of purchase"
+#~ msgstr "Tanggal pembelian"
+
+#~ msgid "Number of items"
+#~ msgstr "Jumlah dari item"
+
+#~ msgid "Order status"
+#~ msgstr "Status pesanan"
+
+#~ msgid "Customer email address"
+#~ msgstr "Alamat email pelanggan"
+
+#~ msgid "Deliver to name"
+#~ msgstr "Nama pada pengiriman"
+
+#~ msgid "Bill to name"
+#~ msgstr "Nama pada tagihan"
+
+#~ msgid "The new status '%s' is not valid"
+#~ msgstr "Status baru '%s' tidak valid"
+
+#~ msgid "The new status '%s' is not valid for this order"
+#~ msgstr "Status baru '%s' tidak valid untuk pesanan ini"
+
+#~ msgid "Unable to change order status due to payment error: %s"
+#~ msgstr "Tidak dapat mengubah status pesanan karena kesalahan pembayaran: %s"
+
+#~ msgid "Order status changed from '%(old_status)s' to '%(new_status)s'"
+#~ msgstr "Status pesanan diubah dari '%(old_status)s' ke '%(new_status)s'"
+
+#~ msgid "No valid action submitted"
+#~ msgstr "Tidak ada aksi yang disampaikan"
+
+#~ msgid "Invalid action"
+#~ msgstr "Aksi tidak valid"
+
+#~ msgid "You must select some lines to act on"
+#~ msgstr "Anda harus memilih beberapa baris untuk bertindak"
+
+#~ msgid "Invalid lines requested"
+#~ msgstr "Baris tidak valid diminta"
+
+#~ msgid "The entered quantity for line #%s is not valid"
+#~ msgstr "Jumlah yang dimasukan untuk baris #%s tidak valid"
+
+#~ msgid ""
+#~ "The entered quantity for line #%(line_id)s should not be higher than "
+#~ "%(quantity)s"
+#~ msgstr ""
+#~ "Jumlah yang dimasukkan ke baris #%(line_id)s seharusnya tidak lebih "
+#~ "tinggi dari %(quantity)s"
+
+#~ msgid "Note saved"
+#~ msgstr "Catatan tersimpan"
+
+#~ msgid "Note cannot be deleted"
+#~ msgstr "Catatan tidak dapat dihapus"
+
+#~ msgid "Note deleted"
+#~ msgstr "Catatan terhapus"
+
+#~ msgid "Invalid form submission"
+#~ msgstr "Pengiriman formulir tidak valid"
+
+#~ msgid ""
+#~ "Unable to change order status as the requested new status is not valid"
+#~ msgstr ""
+#~ "Tidak dapat mengubah status pesanan seperti meminta status baru yang "
+#~ "tidak valid"
+
+#~ msgid "Please choose a valid amount"
+#~ msgstr "Pilih jumlah yang benar"
+
+#~ msgid "'%(status)s' is not a valid new status for line %(line_id)d"
+#~ msgstr "'%(status)s' bukan status yang valid untuk baris %(line_id)d"
+
+#~ msgid ""
+#~ "Status of line #%(line_id)d changed from '%(old_status)s' to "
+#~ "'%(new_status)s'"
+#~ msgstr ""
+#~ "Status baris #%(line_id)d diubah dari '%(old_status)s' to '%(new_status)s'"
+
+#~ msgid "The event type '%s' is not valid"
+#~ msgstr "Tipe kegiatan '%s' tidak valid"
+
+#~ msgid "Unable to create shipping event: %s"
+#~ msgstr " tidak dapat membuat kegiatan pengiriman: %s"
+
+#~ msgid "Unable to create shipping event due to payment error: %s"
+#~ msgstr "Tidak dapat membuat kegiatan pengiriman karena pembayaran gagal: %s"
+
+#~ msgid "Shipping event created"
+#~ msgstr "Kegiatan pengiriman dibuat"
+
+#~ msgid "Unable to create payment event due to payment error: %s"
+#~ msgstr "Tidak dapat membuat kegiatan pembayaran karena pembayaran gagal: %s"
+
+#~ msgid "Unable to create payment event: %s"
+#~ msgstr "tidak dapat membuat hal pembayaran: %s"
+
+#~ msgid "Payment event created"
+#~ msgstr "Kegiatan pembayaran telah dibuat"
+
+#~ msgid "%(field)s changed from '%(old_value)s' to '%(new_value)s'"
+#~ msgstr "%(field)s diubah dari '%(old_value)s' ke '%(new_value)s'"
+
+#~ msgid ""
+#~ "Delivery address updated:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Alamat pengiriman telah dibaharui:\n"
+#~ "%s"
+
+#~ msgid "Delivery address updated"
+#~ msgstr "Alamat pengiriman diperbaharui"
+
+#~ msgid "Pages dashboard"
+#~ msgstr "papan pedoman halaman-halaman"
+
+#~ msgctxt "Page title"
+#~ msgid "Title"
+#~ msgstr "Judul"
+
+#~ msgid "Example: '/about/contact/'."
+#~ msgstr "Contoh: '/about/contact/'."
+
+#~ msgid "All pages"
+#~ msgstr "Semua halaman"
+
+#~ msgid " with title containing '%s'"
+#~ msgstr "Dengan judul yang terkandung '%s'"
+
+#~ msgid "Create New Page"
+#~ msgstr "Buat Halaman Baru"
+
+#~ msgid "Deleted page '%s'"
+#~ msgstr "menghapus halaman '%s'"
+
+#~ msgid "Partners dashboard"
+#~ msgstr "Dashboard rekanan"
+
+#~ msgctxt "Partner's name"
+#~ msgid "Name"
+#~ msgstr "Nama"
+
+#~ msgid "Full dashboard access"
+#~ msgstr "Dashboard dengan akses penuh"
+
+#~ msgid "Limited dashboard access"
+#~ msgstr "Dashboard dengan akses terbatas"
+
+#~ msgid "User role"
+#~ msgstr "Role pengguna"
+
+#~ msgid "Confirm Password"
+#~ msgstr "Konfirmasi kata sandi"
+
+#~ msgid "All partners"
+#~ msgstr "Semua rekan"
+
+#~ msgid "Partners matching '%s'"
+#~ msgstr "Kekocokan rekanan '%s'"
+
+#~ msgid "Create new partner"
+#~ msgstr "membuat rekan baru"
+
+#~ msgid "Partner '%s' was created successfully."
+#~ msgstr "Rekan '%s' telah berhasil dibuat"
+
+#~ msgid "Partner '%s' was updated successfully."
+#~ msgstr "Rekan '%s' telah berhasil diperbaharui"
+
+#~ msgid "Partner '%s' was deleted successfully."
+#~ msgstr "Rekan '%s' telah berhasil dihapus"
+
+#~ msgid "Create user"
+#~ msgstr "Buat pengguna"
+
+#~ msgid "User '%s' was created successfully."
+#~ msgstr "Pengguna '%s' telah berhasil dibuat."
+
+#~ msgid "User '%(name)s' was linked to '%(partner_name)s'"
+#~ msgstr "Pengguna '%(name)s direlasikan ke '%(partner_name)s'"
+
+#~ msgid "User '%(name)s' is already linked to '%(partner_name)s'"
+#~ msgstr "Pengguna '%(name)s telah berelasi dengan '%(partner_name)s'"
+
+#~ msgid "User '%(name)s' is not linked to '%(partner_name)s'"
+#~ msgstr "Pengguna '%(name)s' tidak berelasi dengan '%(partner_name)s'"
+
+#~ msgid "Edit user '%s'"
+#~ msgstr "Ubah pengguna '%s'"
+
+#~ msgid "User '%s' was updated successfully."
+#~ msgstr "Pengguna '%s' telah berhasil diupdate"
+
+#~ msgid "Promotions dashboard"
+#~ msgstr "Papan promosi"
+
+#~ msgid "Promotion type"
+#~ msgstr "Jenis promosi"
+
+#~ msgid "Position"
+#~ msgstr "Posisi"
+
+#~ msgid "Where in the page this content block will appear"
+#~ msgstr "dimana di halaman ini yang mengandung blok akan muncul"
+
+#~ msgid "Content blocks can only be linked to internal URLs"
+#~ msgstr "Isi blok hanya dapat dikaitkan dengan URLs intern"
+
+#~ msgid "Content block removed successfully"
+#~ msgstr "penghapusan isi blok berhasil"
+
+#~ msgid "Content block created successfully"
+#~ msgstr "pembuatan isi blok berhasil"
+
+#~ msgid "Create a new %s content block"
+#~ msgstr "Membuat baru %s isi konten"
+
+#~ msgid "Product list content block created"
+#~ msgstr "Daftar isi konten produk dibuat"
+
+#~ msgid "Update content block"
+#~ msgstr "membaharui isi blok"
+
+#~ msgid "Content block updated successfully"
+#~ msgstr "Isi konten berhasil diperbaharui"
+
+#~ msgid "Content block '%(block)s' added to page '%(page)s'"
+#~ msgstr "Blok konten '%(block)s' ditambahkan ke halaman '%(page)s'"
+
+#~ msgid "No link found to delete"
+#~ msgstr "Tidak ditemukan tautan untuk dihapus"
+
+#~ msgid "Content block removed from page '%s'"
+#~ msgstr "Isi konten dihapus dari halaman '%s'"
+
+#~ msgid "Product list promotion updated"
+#~ msgstr "Daftar produk promosi diperbarui"
+
+#~ msgid "Content block deleted successfully"
+#~ msgstr "Isi konten berhasil dihapus"
+
+#~ msgid "Ranges dashboard"
+#~ msgstr "Papan barisan"
+
+#~ msgid "Product SKUs or UPCs"
+#~ msgstr "Produk SKUs atau UPCs"
+
+#~ msgid "You can paste in a selection of SKUs or UPCs"
+#~ msgstr "Kamu dapat menaruh dalam sebuah pilihan SKUs atau UPCs"
+
+#~ msgid "File of SKUs or UPCs"
+#~ msgstr "Berkas dari SKUs atau UPCs"
+
+#~ msgid "Either comma-separated, or one identifier per line"
+#~ msgstr "Baik dipisahkan koma, atau satu titik per baris"
+
+#~ msgid "You must submit either a list of SKU/UPCs or a file"
+#~ msgstr ""
+#~ "Kamu harus mengirimkan baik sebuah daftar dari SKU/UPCs atau sebuah "
+#~ "berkas "
+
+#~ msgid "The products with SKUs or UPCs matching %s are already in this range"
+#~ msgstr "Produk dengan SKU atau UPC cocok %s telah dalam baris ini"
+
+#~ msgid "No products exist with a SKU or UPC matching %s"
+#~ msgstr "Tidak ada produk dengan SKU atau UPC yang cocok dengan %s"
+
+#~ msgid "Create range"
+#~ msgstr "membuat area"
+
+#~ msgid "Range deleted"
+#~ msgstr "area dihapus"
+
+#~ msgid "Removed %d product from range"
+#~ msgid_plural "Removed %d products from range"
+#~ msgstr[0] "Dihapus %d produk dari barisan"
+
+#~ msgid "%d product added to range"
+#~ msgid_plural "%d products added to range"
+#~ msgstr[0] "%d produk ditambahkan ke barisan"
+
+#~ msgid "No product(s) were found with SKU or UPC matching %s"
+#~ msgstr "Tidak ada produk yang ditemukan dengan SKU atau UPC yang cocok %s"
+
+#~ msgid "Reports dashboard"
+#~ msgstr "Papan lapopran"
+
+#~ msgid "Report Type"
+#~ msgstr "Jenis Laporan"
+
+#~ msgid "Only the offer and order reports use the selected date range"
+#~ msgstr ""
+#~ "hanya penawaran dan laporan pesanan menggunakan daerah tanggal yang "
+#~ "dipilih"
+
+#~ msgid "The report is inclusive of this date"
+#~ msgstr "laporan ini temasuk pada tanggal ini"
+
+#~ msgid "Download"
+#~ msgstr "Unduh"
+
+#~ msgid "Your start date must be before your end date"
+#~ msgstr "tanggal kamu memulai harus sebelum tanggal kamu akhiri"
+
+#~ msgid "%(report_filter)s between %(start_date)s and %(end_date)s"
+#~ msgstr "%(report_filter)s antara %(start_date)s dan %(end_date)s"
+
+#~ msgid "You do not have access to this report"
+#~ msgstr "Anda tidak punya akses ke laporan ini"
+
+#~ msgid "Reviews dashboard"
+#~ msgstr "Dashboard ulasan"
+
+#~ msgid "Keyword"
+#~ msgstr "kata kunci"
+
+#~ msgid "to"
+#~ msgstr "kepada"
+
+#~ msgid ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+#~ msgstr ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s"
+#~ "%(name_filter)s"
+
+#~ msgid " created after %s"
+#~ msgstr "dibuat setelah %s"
+
+#~ msgid " created before %s"
+#~ msgstr "dibuat sebelum %s"
+
+#~ msgid " created between %(start_date)s and %(end_date)s"
+#~ msgstr "dibuat diantara %(start_date)s dan %(end_date)s"
+
+#~ msgid "All reviews"
+#~ msgstr "seluruh ulasan"
+
+#~ msgid " with status matching '%s'"
+#~ msgstr "dengan status yang cocok '%s'"
+
+#~ msgid " with keyword matching '%s'"
+#~ msgstr "Dengan kata kunci yang cocok '%s'"
+
+#~ msgid " with customer name matching '%s'"
+#~ msgstr "Dengan nama pelanggan yang cocokan '%s'"
+
+#~ msgid "Shipping dashboard"
+#~ msgstr "Dashboard pengiriman"
+
+#~ msgid "Users dashboard"
+#~ msgstr "Dashboard pengguna"
+
+#~ msgctxt "User's name"
+#~ msgid "Name"
+#~ msgstr "Nama"
+
+#~ msgid "%(main_filter)s %(email_filter)s %(name_filter)s"
+#~ msgstr "%(main_filter)s %(email_filter)s %(name_filter)s"
+
+#~ msgid "All users"
+#~ msgstr "Semua pengguna"
+
+#~ msgid " with email matching '%s'"
+#~ msgstr "Dengan email yang cocok '%s'"
+
+#~ msgid " with name matching '%s'"
+#~ msgstr "Dengan nama yang cocok '%s'"
+
+#~ msgid "Users' status successfully changed"
+#~ msgstr "Pengguna' status berhasil diubah"
+
+#~ msgid "A password reset email has been sent"
+#~ msgstr "Email pengganti kata sandi telah dikirim"
+
+#~ msgid "All Alerts"
+#~ msgstr "seluruh pemberitahuan"
+
+#~ msgid " with customer email matching '%s'"
+#~ msgstr "Dengan email pelanggan yang cocok '%s'"
+
+#~ msgid "Product alert saved"
+#~ msgstr "Pemberitahuan produk disimpan"
+
+#~ msgid "Product alert deleted"
+#~ msgstr "Penghapusan pemberitahuan produk"
+
+#~ msgid "Vouchers dashboard"
+#~ msgstr "Tabel voucher"
+
+#~ msgid "Start datetime"
+#~ msgstr "Tanggal waktu mulai"
+
+#~ msgid "End datetime"
+#~ msgstr "Tanggal waktu selesai"
+
+#~ msgid "Usage"
+#~ msgstr "Penggunaan"
+
+#~ msgid "Which products get a discount?"
+#~ msgstr "produk yang mana mendapatkan diskon?"
+
+#~ msgid "Percentage off of products in range"
+#~ msgstr "Presentase dari produk dalam kisaran"
+
+#~ msgid "Fixed amount off of products in range"
+#~ msgstr "Jumlah tetap dari produk dalam kisaran"
+
+#~ msgid "Discount is a percentage off of the shipping cost"
+#~ msgstr "Diskon dengan presentasi dari biaya pengiriman"
+
+#~ msgid "Discount is a fixed amount of the shipping cost"
+#~ msgstr "Diskon dengan jumlah tetap dari biaya pengiriman"
+
+#~ msgid "Get shipping for a fixed price"
+#~ msgstr "pengiriman dengan harga pasti"
+
+#~ msgid "Discount type"
+#~ msgstr "Jenis diskon"
+
+#~ msgid "Discount value"
+#~ msgstr "Nilai diskon"
+
+#~ msgid "The name '%s' is already in use"
+#~ msgstr "Nama '%s' telah digunakan"
+
+#~ msgid "The code '%s' is already in use"
+#~ msgstr "Kode '%s' telah digunakan"
+
+#~ msgid "The start date must be before the end date"
+#~ msgstr "Tanggal mulai harus sebelum tanggal akhir"
+
+#~ msgid "Is Active?"
+#~ msgstr "Aktif?"
+
+#~ msgid "%(main_filter)s %(name_filter)s %(code_filter)s"
+#~ msgstr "%(main_filter)s %(name_filter)s %(code_filter)s"
+
+#~ msgid "All vouchers"
+#~ msgstr "seluruh voucher diskon"
+
+#~ msgid "with name matching '%s'"
+#~ msgstr "kecocokan nama '%s'"
+
+#~ msgid "with code '%s'"
+#~ msgstr "Dengan kode '%s'"
+
+#~ msgid "Active vouchers"
+#~ msgstr "kartu diskon yang aktif"
+
+#~ msgid "Create voucher"
+#~ msgstr "membuat kartu diskon"
+
+#~ msgid "Offer for voucher '%s'"
+#~ msgstr "Penawaran untuk diskon '%s'"
+
+#~ msgid "Voucher created"
+#~ msgstr "kartu diskon dibuatt"
+
+#~ msgid "Voucher updated"
+#~ msgstr "kartu diskon dibaharui"
+
+#~ msgid "Voucher deleted"
+#~ msgstr "kartu diskon dihapus"
+
+#~ msgid "This is displayed within the customer's basket"
+#~ msgstr "Ini ditampilkan dalam keranjang pelanggan "
+
+#~ msgid "This is displayed on the offer browsing page"
+#~ msgstr "Ini ditampilkan dalam halaman penawaran"
+
+#~ msgid "Site offer - available to all users"
+#~ msgstr "Situs penawaran - tersedia bagi semua pengguna"
+
+#~ msgid ""
+#~ "Voucher offer - only available after entering the appropriate voucher code"
+#~ msgstr ""
+#~ "Kupon penawaran - hanya tersedia setelah memasukkan kode kupon yang sesuai"
+
+#~ msgid "User offer - available to certain types of user"
+#~ msgstr "Penawaran pengguna - tersedia untuk tipe pengguna tertentu"
+
+#~ msgid ""
+#~ "Session offer - temporary offer, available for a user for the duration of "
+#~ "their session"
+#~ msgstr ""
+#~ "Sesi penawaran - penawaran sementara, tersedia untuk pengguna dalam "
+#~ "durasi sesi mereka"
+
+#~ msgid "Condition"
+#~ msgstr "Kondisi"
+
+#~ msgid "Benefit"
+#~ msgstr "Keuntungan"
+
+#~ msgid "Priority"
+#~ msgstr "Prioritas"
+
+#~ msgid "The highest priority offers are applied first"
+#~ msgstr "Prioritas penawaran tertinggi diterapkan terlebih dahulu"
+
+#~ msgid "Max global applications"
+#~ msgstr "Aplikasi global max"
+
+#~ msgid "The number of times this offer can be used before it is unavailable"
+#~ msgstr ""
+#~ "Jumlah dari waktu penawaran ini dapat digunakan sebelum itu tidak tersedia"
+
+#~ msgid "Max user applications"
+#~ msgstr "Aplikasi maksimum pengguna"
+
+#~ msgid "The number of times a single user can use this offer"
+#~ msgstr ""
+#~ "Jumlah dari waktu dari seorang pengguna dapat menggunakan penawaran ini"
+
+#~ msgid "Max basket applications"
+#~ msgstr "Aplikasi keranjang maksimum"
+
+#~ msgid ""
+#~ "The number of times this offer can be applied to a basket (and order)"
+#~ msgstr ""
+#~ "Jumlah dari wktu penawaran yang dapat diterapkan untuk keranjang (dan "
+#~ "pesanan)"
+
+#~ msgid "Max discount"
+#~ msgstr "Diskon maksimum"
+
+#~ msgid ""
+#~ "When an offer has given more discount to orders than this threshold, then "
+#~ "the offer becomes unavailable"
+#~ msgstr ""
+#~ "Ketika penawaran memberikan diskon lebih untuk mengorder lebih dari "
+#~ "batas, danpenawaran menjadi tidak tersedia"
+
+#~ msgid "Total Discount"
+#~ msgstr "Diskon total"
+
+#~ msgid "Number of applications"
+#~ msgstr "jumlah aplikasi"
+
+#~ msgid "Number of Orders"
+#~ msgstr "Jumlah Pesanan"
+
+#~ msgid "URL redirect (optional)"
+#~ msgstr "URL mengarahkan (pilihan)"
+
+#~ msgid "Conditional offer"
+#~ msgstr "Kondisi penawaran"
+
+#~ msgid "Conditional offers"
+#~ msgstr "Kondisi penawaran"
+
+#~ msgid "End date should be later than start date"
+#~ msgstr "Tanggal akhir harus setelah tanggal mulai"
+
+#~ msgid "Offer is suspended"
+#~ msgstr "Penawaran digantung"
+
+#~ msgid "Limited to %(total)d uses (%(remainder)d remaining)"
+#~ msgstr "Terbatas untuk %(total)d penggunaan (%(remainder)d yang tersisa)"
+
+#~ msgid "Limited to 1 use per user"
+#~ msgstr "terbatas bagi satu per pengguna"
+
+#~ msgid "Limited to %(total)d uses per user"
+#~ msgstr "Terbatas bagi %(total)d penggunaan per pengguna"
+
+#~ msgid "Limited to 1 use per basket"
+#~ msgstr "Terbatas bagi 1 penggunaan per belanjaan"
+
+#~ msgid "Limited to %(total)d uses per basket"
+#~ msgstr "Terbatas bagi %(total)d penggunaan per belanjaan"
+
+#~ msgid "Available between %(start)s and %(end)s"
+#~ msgstr "Tersedia antara %(start)s dan %(end)s"
+
+#~ msgid "Available from %(start)s"
+#~ msgstr "Tersedia dari %(start)s"
+
+#~ msgid "Available until %(end)s"
+#~ msgstr "Tersedia sampai %(end)s"
+
+#~ msgid "Limited to a cost of %(max)s"
+#~ msgstr "Terbatas bagi biaya dari %(max)s"
+
+#~ msgid "Range"
+#~ msgstr "Berbagai"
+
+#~ msgid "Discount is a percentage off of the product's value"
+#~ msgstr "Diskon adalah presentase dari nilai produk"
+
+#~ msgid "Discount is a fixed amount off of the product's value"
+#~ msgstr "Diskon adalah jumlah pasti dari nilai produk"
+
+#~ msgid "Discount is to give the cheapest product for free"
+#~ msgstr "Diskon untuk memberikan produk termurah dengan gratis"
+
+#~ msgid "Get the products that meet the condition for a fixed price"
+#~ msgstr "Mendapatkan produk dengan melihat kondisi untuk harga tetap"
+
+#~ msgid "Max Affected Items"
+#~ msgstr "Pengaruh maksimum item"
+
+#~ msgid ""
+#~ "Set this to prevent the discount consuming all items within the range "
+#~ "that are in the basket."
+#~ msgstr ""
+#~ "Mengatur untuk mencegah diskon menarik perhatian pada semua barang dalam "
+#~ "berbagai keranjang"
+
+#~ msgid "Custom class"
+#~ msgstr "Kelas pilihan"
+
+#~ msgid "Benefits"
+#~ msgstr "menguntungkan"
+
+#~ msgid "Multibuy benefits require a product range"
+#~ msgstr "Manfaat membeli banyak memerlukan berbagai produk"
+
+#~ msgid "Multibuy benefits don't require a value"
+#~ msgstr "Manfaat membeli lebih tidak memerlukan nilai"
+
+#~ msgid "Multibuy benefits don't require a 'max affected items' attribute"
+#~ msgstr ""
+#~ "Manfaat membeli lebih tidak memerlukan 'pengaruh besar suatu item' atribut"
+
+#~ msgid "Percentage benefits require a product range"
+#~ msgstr "Manfaat presentase memerlukan berbagai produk"
+
+#~ msgid "Percentage discount cannot be greater than 100"
+#~ msgstr "Persen diskon tidak dapat lebih dari 100"
+
+#~ msgid "A discount value is required"
+#~ msgstr "Wajib memasukkan nilai diskon"
+
+#~ msgid ""
+#~ "No range should be selected as this benefit does not apply to products"
+#~ msgstr ""
+#~ "Tidak ada pilihan yang harus dipilih seperti manfaat ini tidak dapat "
+#~ "diaplikasikan ke produk"
+
+#~ msgid "Shipping discounts don't require a 'max affected items' attribute"
+#~ msgstr "Diskon pengiriman tidak memerlukan 'pengaruh besar item' atribut"
+
+#~ msgid ""
+#~ "No range should be selected as the condition range will be used instead."
+#~ msgstr ""
+#~ "Tidak ada pilihan yang dilipih seperti berbagai kondisi yang digunakan "
+#~ "sebagai gantinya."
+
+#~ msgid "Fixed discount benefits require a product range"
+#~ msgstr "Manfaat diskon tetap memerlukan baris produk"
+
+#~ msgid "Fixed discount benefits require a value"
+#~ msgstr "Manfaat diskon tetap memerlukan nilai"
+
+#~ msgid "Depends on number of items in basket that are in condition range"
+#~ msgstr ""
+#~ "Tergantung pada nomor dari item dalam keranjang pada kondisi barisan"
+
+#~ msgid "Depends on value of items in basket that are in condition range"
+#~ msgstr ""
+#~ "Tergantung pada nilai dari item dalam keranjang pada berbagai kondisi"
+
+#~ msgid ""
+#~ "Needs to contain a set number of DISTINCT items from the condition range"
+#~ msgstr "mengandung sejumlah set item yang berbeda untuk berbagai kondisi"
+
+#~ msgid "Conditions"
+#~ msgstr "Kondisi"
+
+#~ msgid "Is public?"
+#~ msgstr "Publik?"
+
+#~ msgid "Includes all products?"
+#~ msgstr "Sertakan semua produk?"
+
+#~ msgid "Included Products"
+#~ msgstr "Termasuk produk"
+
+#~ msgid "Excluded Products"
+#~ msgstr "Tidak termasuk produk"
+
+#~ msgid "Included Categories"
+#~ msgstr "termasuk kategori"
+
+#~ msgid "File Path"
+#~ msgstr "Jalur arsip"
+
+#~ msgid "Size"
+#~ msgstr "Ukuran"
+
+#~ msgid "Uploaded By"
+#~ msgstr "dibaharui oleh"
+
+#~ msgid "Date Uploaded"
+#~ msgstr "tanggal dibaharui"
+
+#~ msgid "Error Message"
+#~ msgstr "Pesan Kesalahan"
+
+#~ msgid "Date Processed"
+#~ msgstr "Tanggal Diproses"
+
+#~ msgid "Number of New SKUs"
+#~ msgstr "Jumlah SKU Baru"
+
+#~ msgid "Number of Unknown SKUs"
+#~ msgstr "Jumlah SKU tak dikenal"
+
+#~ msgid "Number of Duplicate SKUs"
+#~ msgstr "Jumlah SKU ganda"
+
+#~ msgid "Range Product Uploaded File"
+#~ msgstr "Kisaran produk file upload"
+
+#~ msgid "Range Product Uploaded Files"
+#~ msgstr "Arsip baris produk dibaharui"
+
+#~ msgid "%(value)s%% discount on %(range)s"
+#~ msgstr "%(value)s%% diskon pada %(range)s"
+
+#~ msgid "Percentage discount benefit"
+#~ msgstr "Manfaat persentase diskon"
+
+#~ msgid "Percentage discount benefits"
+#~ msgstr "Manfaat persentase diskon"
+
+#~ msgid "%(value)s discount on %(range)s"
+#~ msgstr "%(value)s diskon pada %(range)s"
+
+#~ msgid "Absolute discount benefit"
+#~ msgstr "Manfaat diskon mutlak"
+
+#~ msgid "Absolute discount benefits"
+#~ msgstr "Manfaat diskon mutlak"
+
+#~ msgid "The products that meet the condition are sold for %(amount)s"
+#~ msgstr "Produk yang dijumpai dengan kondisi terjual %(amount)s"
+
+#~ msgid "Fixed price benefit"
+#~ msgstr "Manfaat harga tetap"
+
+#~ msgid "Fixed price benefits"
+#~ msgstr "Manfaat harga tetap"
+
+#~ msgid "Cheapest product from %(range)s is free"
+#~ msgstr "Produk termurah dari %(range)s gratis "
+
+#~ msgid "Multibuy discount benefit"
+#~ msgstr "manfaat diskon beraneka belanjaan"
+
+#~ msgid "Multibuy discount benefits"
+#~ msgstr "Manfaat diskon beraneka belanjaan"
+
+#~ msgid "%(amount)s off shipping cost"
+#~ msgstr "%(amount)s biaya pengiriman "
+
+#~ msgid "Shipping absolute discount benefit"
+#~ msgstr "Manfaat diskon pengiriman mutlak"
+
+#~ msgid "Shipping absolute discount benefits"
+#~ msgstr "Manfaat diskon pengiriman mutlak"
+
+#~ msgid "Get shipping for %(amount)s"
+#~ msgstr "Dapatkan pengiriman untuk %(amount)s"
+
+#~ msgid "Fixed price shipping benefit"
+#~ msgstr "Manfaat biaya pengiriman tetap"
+
+#~ msgid "Fixed price shipping benefits"
+#~ msgstr "Manfaat biaya pengiriman tetap"
+
+#~ msgid "%(value)s%% off of shipping cost"
+#~ msgstr "potongan %(value)s%% dari biaya pengiriman"
+
+#~ msgid "Shipping percentage discount benefit"
+#~ msgstr "Manfaat persentase diskon pengiriman"
+
+#~ msgid "Shipping percentage discount benefits"
+#~ msgstr "Manfaat persentase diskon pengiriman"
+
+#~ msgid "Basket includes %(count)d item(s) from %(range)s"
+#~ msgstr "Belanjaan sudah termasuk %(count)d item(s) dari %(range)s"
+
+#~ msgid "Count condition"
+#~ msgstr "Perhitungan kondisi"
+
+#~ msgid "Count conditions"
+#~ msgstr "Perhitungan kondisi"
+
+#~ msgid "Basket includes %(count)d distinct item(s) from %(range)s"
+#~ msgstr "Belanjaan sudah termasuk %(count) item yang berbeda dari %(range)s"
+
+#~ msgid "Coverage Condition"
+#~ msgstr "Cakupan kondisi"
+
+#~ msgid "Coverage Conditions"
+#~ msgstr "Cakupan Kondisi"
+
+#~ msgid "Basket includes %(amount)s from %(range)s"
+#~ msgstr "Belanjaan sudah termasuk %(amount)s dari %(range)s"
+
+#~ msgid "Value condition"
+#~ msgstr "Kondisi nilai"
+
+#~ msgid "Value conditions"
+#~ msgstr "Kondisi nilai"
+
+#~ msgid "Spend %(value)s more from %(range)s"
+#~ msgstr "Menggunakan %(value)s lebih dari %(range)s"
+
+#~ msgid "Offer"
+#~ msgstr "Tawaran"
+
+#~ msgid "Total discount"
+#~ msgstr "jumlah diskon"
+
+#~ msgid "Offer performance"
+#~ msgstr "Peforma penawaran"
+
+#~ msgid "Site"
+#~ msgstr "Situs"
+
+#~ msgid "Billing Address"
+#~ msgstr "Alamat Tagihan"
+
+#~ msgid "Order total (inc. tax)"
+#~ msgstr "Total orderan (inc. tax)"
+
+#~ msgid "Order total (excl. tax)"
+#~ msgstr "Total orderan (excl. tax)"
+
+#~ msgid "Shipping charge (inc. tax)"
+#~ msgstr "Biaya pengiriman (inc. tax)"
+
+#~ msgid "Shipping charge (excl. tax)"
+#~ msgstr "Biaya Ppengiriman (excl. tax)"
+
+#~ msgid "Shipping Address"
+#~ msgstr "Alamat Pengiriman"
+
+#~ msgid "Shipping method"
+#~ msgstr "Cara Pengiriman"
+
+#~ msgid "Guest email address"
+#~ msgstr "Alamat email tamu"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status for order %(number)s (current "
+#~ "status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s' tidak ada dalam status untuk pesanan %(number)s (status "
+#~ "saat ini: '%(status)s')"
+
+#~ msgid "In progress"
+#~ msgstr "sedang berkembang"
+
+#~ msgid "Note Type"
+#~ msgstr "Tipe nota"
+
+#~ msgid "Message"
+#~ msgstr "Pesan"
+
+#~ msgid "Order Note"
+#~ msgstr "Nota orderan"
+
+#~ msgid "Order Notes"
+#~ msgstr "Nota Orderan"
+
+#~ msgid "Event Type"
+#~ msgstr "Tipe acara"
+
+#~ msgid "Communication Event"
+#~ msgstr "Acara komunikasi"
+
+#~ msgid "Communication Events"
+#~ msgstr "Acara komunikasi"
+
+#~ msgid "'%(type)s' event for order #%(number)s"
+#~ msgstr "'%(type)s' hal untuk pesanan #%(number)s"
+
+#~ msgid "Partner name"
+#~ msgstr "Nama Rekan"
+
+#~ msgid "Partner reference"
+#~ msgstr "Referensi rekan"
+
+#~ msgid "This is the item number that the partner uses within their system"
+#~ msgstr "Ini adalah nomor item yang digunakan rekan dari sistem mereka"
+
+#~ msgid "Partner Notes"
+#~ msgstr "Nota rekan"
+
+#~ msgid "Stock record"
+#~ msgstr "Rekaman stok"
+
+#~ msgid "Price (inc. tax)"
+#~ msgstr "Harga (termasuk pajak)"
+
+#~ msgid "Price (excl. tax)"
+#~ msgstr "Harga (belum termasuk pajak)"
+
+#~ msgid "Price before discounts (inc. tax)"
+#~ msgstr "Harga sebelum diskon (termasuk pajak)"
+
+#~ msgid "Price before discounts (excl. tax)"
+#~ msgstr "Harga sebelum diskon (belum termasuk pajak)"
+
+#~ msgid "Unit Cost Price"
+#~ msgstr "Harga satuan"
+
+#~ msgid "Unit Price (inc. tax)"
+#~ msgstr "Harga satuan (termasuk pajak)"
+
+#~ msgid "Unit Price (excl. tax)"
+#~ msgstr "Harga satuan (belum termasuk pajak)"
+
+#~ msgid "Unit Retail Price"
+#~ msgstr "Harga retail satuan"
+
+#~ msgid "Estimated Dispatch Date"
+#~ msgstr "Tanggal perkiraan pengambilan"
+
+#~ msgid "Order Line"
+#~ msgstr "Daftar pesanan"
+
+#~ msgid "<missing product>"
+#~ msgstr "<produk tidak diketahui>"
+
+#~ msgid "Product '%(name)s', quantity '%(qty)s'"
+#~ msgstr "Produk '%(name)s', banyaknya '%(qty)s'"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status (current status: '%(status)s')"
+#~ msgstr "'%(new_status)s' tidak valid (status saat ini: '%(status)s')"
+
+#~ msgid "'%(title)s' is no longer available"
+#~ msgstr "'%(title)s' tidak tersedia lagi"
+
+#~ msgid "Line Attribute"
+#~ msgstr "Baris atribut"
+
+#~ msgid "Line Attributes"
+#~ msgstr "Baris atribut"
+
+#~ msgid "Shiping (inc. tax)"
+#~ msgstr "Pengiriman (termasuk pajak)"
+
+#~ msgid "Shipping (excl. tax)"
+#~ msgstr "Pengiriman (belum termasuk pajak)"
+
+#~ msgid "Line Price"
+#~ msgstr "Baris harga"
+
+#~ msgid "Line Prices"
+#~ msgstr "Baris harga"
+
+#~ msgid "Line '%(number)s' (quantity %(qty)d) price %(price)s"
+#~ msgstr "Baris '%(number)s' (jumlah %(qty)d)  harga %(price)s"
+
+#~ msgid "Payment Event Type"
+#~ msgstr "Tipe hal pembayaran"
+
+#~ msgid "Payment Event Types"
+#~ msgstr "Jenis hal pembayaran"
+
+#~ msgid "Amount"
+#~ msgstr "Jumlah"
+
+#~ msgid "Reference"
+#~ msgstr "Referensi"
+
+#~ msgid "Lines"
+#~ msgstr "Baris"
+
+#~ msgid "Payment Event"
+#~ msgstr "Hal pembayaran"
+
+#~ msgid "Payment Events"
+#~ msgstr "Hal pembayaran"
+
+#~ msgid "Payment event for order %s"
+#~ msgstr "Hal pembayaran untuk pemesanan %s"
+
+#~ msgid "Event"
+#~ msgstr "Hal"
+
+#~ msgid "Payment Event Quantity"
+#~ msgstr "Hal pembayaran jumlah"
+
+#~ msgid "Payment Event Quantities"
+#~ msgstr "Hal pembayaran jumlah"
+
+#~ msgid "Event notes"
+#~ msgstr "Hal catatan"
+
+#~ msgid "This could be the dispatch reference, or a tracking number"
+#~ msgstr "Ini dapat dijadikan referensi pengambilan atau nomer lacak."
+
+#~ msgid "Shipping Event"
+#~ msgstr "Hal pengiriman"
+
+#~ msgid "Shipping Events"
+#~ msgstr "Hal pengiriman"
+
+#~ msgid "Order #%(number)s, type %(type)s"
+#~ msgstr "pesanan #%(number)s, tipe %(type)s"
+
+#~ msgid "Shipping Event Quantity"
+#~ msgstr "Kegiatan pengiriman jumlah"
+
+#~ msgid "Shipping Event Quantities"
+#~ msgstr "Kegiatan pengiriman jumlah"
+
+#~ msgid "%(product)s - quantity %(qty)d"
+#~ msgstr "%(product)s - jumlah %(qty)d"
+
+#~ msgid "Shipping Event Type"
+#~ msgstr "Tipe kegiatan pengiriman"
+
+#~ msgid "Shipping Event Types"
+#~ msgstr "Tipe kegiatan pengiriman"
+
+#~ msgid "Discount category"
+#~ msgstr "Kategori diskon"
+
+#~ msgid "Offer ID"
+#~ msgstr "ID penawaran"
+
+#~ msgid "Voucher ID"
+#~ msgstr "ID Voucher"
+
+#~ msgid "Frequency"
+#~ msgstr "Intensitas"
+
+#~ msgid "Order Discount"
+#~ msgstr "Diskon pesanan"
+
+#~ msgid "Order Discounts"
+#~ msgstr "Diskon pesanan"
+
+#~ msgid "Discount of %(amount)r from order %(order)s"
+#~ msgstr "Diskon senilai %(amount)r dari pesanan %(order)s"
+
+#~ msgid "The selected quantity for line #%(line_id)s is too large"
+#~ msgstr "Jumlah yang dipilih pada baris #%(line_id)s terlalu besar"
+
+#~ msgid "Total incl. tax"
+#~ msgstr "Total termasuk pajak"
+
+#~ msgid "Date placed"
+#~ msgstr "Tanggal ditetapkan"
+
+#~ msgid "Orders placed"
+#~ msgstr "Pesanan ditetapkan"
+
+#~ msgid "Empty baskets cannot be submitted"
+#~ msgstr "Keranjang kosong tidak bisa disampaikan"
+
+#~ msgid "There is already an order with number %s"
+#~ msgstr "Sudah ada pesanan dengan nomor %s"
+
+#~ msgid "Fulfillment partner"
+#~ msgstr "Rekan pemenuhan"
+
+#~ msgid "Fulfillment partners"
+#~ msgstr "Rekan pemenuhan"
+
+#~ msgid "Price (retail)"
+#~ msgstr "Harga (eceran)"
+
+#~ msgid "Cost Price"
+#~ msgstr "Biaya "
+
+#~ msgid "Number in stock"
+#~ msgstr "Nomor pada stok"
+
+#~ msgid "Number allocated"
+#~ msgstr "Jumlah yang dialokasikan"
+
+#~ msgid "Low Stock Threshold"
+#~ msgstr "Stok menipis"
+
+#~ msgid "Invalid stock consumption request"
+#~ msgstr "Permintaan konsumsi tidak valid"
+
+#~ msgid "Stock Record"
+#~ msgstr "Rekaman stok"
+
+#~ msgid "Threshold"
+#~ msgstr "hampir"
+
+#~ msgid "Open"
+#~ msgstr "Buka"
+
+#~ msgid "Date Closed"
+#~ msgstr "Tanggal penutup"
+
+#~ msgid "<stockalert for \"%(stock)s\" status %(status)s>"
+#~ msgstr "<stockalert for \"%(stock)s\" status %(status)s>"
+
+#~ msgid "Stock alert"
+#~ msgstr "Pengingat stok"
+
+#~ msgid "Stock alerts"
+#~ msgstr "Pengingat stok"
+
+#~ msgid "unavailable"
+#~ msgstr "Tidak tersedia"
+
+#~ msgid "Unavailable"
+#~ msgstr "Tidak tersedia"
+
+#~ msgid "Available"
+#~ msgstr "Tersedia"
+
+#~ msgid "no stock available"
+#~ msgstr "Tidak ada stok tersedia"
+
+#~ msgid "a maximum of %(max)d can be bought"
+#~ msgstr "maksimal pada %(max)d tidak bisa dibeli"
+
+#~ msgid "In stock"
+#~ msgstr "Dalam stok"
+
+#~ msgid "In stock (%d available)"
+#~ msgstr "dalam stok (%d available)"
+
+#~ msgid "No file path supplied"
+#~ msgstr "Tidak ada file"
+
+#~ msgid "%s does not exist"
+#~ msgstr "%s tidak ada"
+
+#~ msgid "%s is not a file"
+#~ msgstr "%s bukan file"
+
+#~ msgid "%s is not readable"
+#~ msgstr "%s tidak dapat dibaca"
+
+#~ msgid "Source"
+#~ msgstr "Sumber"
+
+#~ msgid "%(type)s of %(amount).2f"
+#~ msgstr "%(type)s dari %(amount).2f"
+
+#~ msgid "Transaction"
+#~ msgstr "Transaksi"
+
+#~ msgid "Transactions"
+#~ msgstr "transaksi"
+
+#~ msgid "Source Type"
+#~ msgstr "Tipe sumber"
+
+#~ msgid "Amount Allocated"
+#~ msgstr "Alokasi jumlah"
+
+#~ msgid "Amount Debited"
+#~ msgstr "Jumlah didebet"
+
+#~ msgid "Amount Refunded"
+#~ msgstr "Jumlah dikembalikan"
+
+#~ msgid "Label"
+#~ msgstr "Label"
+
+#~ msgid "Sources"
+#~ msgstr "Sumber"
+
+#~ msgid "Allocation of %(amount)s from type %(type)s"
+#~ msgstr "Alokasi dari %(amount)s dari tipe %(type)s"
+
+#~ msgid " (reference: %s)"
+#~ msgstr "(referensi: %s)"
+
+#~ msgid "This is used within forms to identify this source type"
+#~ msgstr ""
+#~ "Digunakan dalam bentuk formulir untuk mengidentifikasi jenis sumber ini"
+
+#~ msgid "Source Types"
+#~ msgstr "Jenis sumber"
+
+#~ msgid "Card Type"
+#~ msgstr "Tipe kartu"
+
+#~ msgid "Number"
+#~ msgstr "Nomer"
+
+#~ msgid "Expiry Date"
+#~ msgstr "Tanggal kadaluarsa"
+
+#~ msgid "Partner Reference"
+#~ msgstr "Referensi rekanan"
+
+#~ msgid "%(card_type)s %(number)s (Expires: %(expiry)s)"
+#~ msgstr "%(card_type)s %(number)s (Kadaluarsa: %(expiry)s)"
+
+#~ msgid "Bankcard"
+#~ msgstr "Pembayaran via ATM"
+
+#~ msgid "Bankcards"
+#~ msgstr "Kartu bank"
+
+#~ msgid "Payment"
+#~ msgstr "Pembayaran"
+
+#~ msgid "Card number"
+#~ msgstr "Nomor kartu"
+
+#~ msgid "Please enter a valid credit card number."
+#~ msgstr "Silahkan masukkan nomor kartu kredit yang benar"
+
+#~ msgid "%s cards are not accepted."
+#~ msgstr "%s kartu tidak diterima"
+
+#~ msgid "Enter a valid month."
+#~ msgstr "Masukkan bulan yang benar"
+
+#~ msgid "Enter a valid year."
+#~ msgstr "Masukkan tahun yang benar"
+
+#~ msgid "Valid to"
+#~ msgstr "Valid untuk"
+
+#~ msgid "The expiration date you entered is in the past."
+#~ msgstr "Tanggal kadaluarsa yang anda masukkan di masa lalu."
+
+#~ msgid "Valid from"
+#~ msgstr "Formulir yang sah"
+
+#~ msgid "The starting date you entered is in the future."
+#~ msgstr "Tanggal mulai yang anda masukkan adalah di masa depan."
+
+#~ msgid "CCV number"
+#~ msgstr "Nomor CCV"
+
+#~ msgid "Please enter a 3 or 4 digit number"
+#~ msgstr "Silahkan masukkan 3 atau 4 digit angka"
+
+#~ msgid ""
+#~ "This is the 3 or 4 digit security number on the back of your bankcard"
+#~ msgstr ""
+#~ "Ini ada 3 atau 4 digit nomor keamanan pada bagian belakang kartu bank anda"
+
+#~ msgid "American Express cards use a 4 digit security code"
+#~ msgstr "Kartu ekspres America menggunakan 4 digit kode keamanan"
+
+#~ msgid "Promotions"
+#~ msgstr "Promosi"
+
+#~ msgid "Display Order"
+#~ msgstr "Tampilan orderan"
+
+#~ msgid "Clicks"
+#~ msgstr "Tekan"
+
+#~ msgid "Linked Promotions"
+#~ msgstr "Promosi terkait"
+
+#~ msgid "Page URL"
+#~ msgstr "Halaman URL"
+
+#~ msgid "Page Promotion"
+#~ msgstr "Halaman promosi"
+
+#~ msgid "Page Promotions"
+#~ msgstr "Halaman promosi"
+
+#~ msgid "Filter"
+#~ msgstr "Saringan"
+
+#~ msgid "Keyword Promotion"
+#~ msgstr "Kata kunci Promosi"
+
+#~ msgid "Keyword Promotions"
+#~ msgstr "Kata kunci Promosi"
+
+#~ msgid "Keywords"
+#~ msgstr "Kata kunci"
+
+#~ msgid "Promotion"
+#~ msgstr "Halaman"
+
+#~ msgid "Display type"
+#~ msgstr "Tampilan tipe"
+
+#~ msgid ""
+#~ "This can be used to have different types of HTML blocks (eg different "
+#~ "widths)"
+#~ msgstr ""
+#~ "Ini dapat digunakan untuk memiliki berbagai jenis berbeda pada blok HTML "
+#~ "(misalnya lebar yang berbeda)"
+
+#~ msgid "Raw HTML"
+#~ msgstr "HTML mentah"
+
+#~ msgid "Link URL"
+#~ msgstr "URL terkait"
+
+#~ msgid "This is where this promotion links to"
+#~ msgstr "Ini adalah dimana promosi terkait untuk"
+
+#~ msgid ""
+#~ "Choose the Image content blocks that this block will use. (You may need "
+#~ "to create some first)."
+#~ msgstr ""
+#~ "Pilih gambar blok yang akan dipakai blok ini. (Kamu akan butuhmembuat "
+#~ "beberapa Pertama)_."
+
+#~ msgid "Multi Image"
+#~ msgstr "Banyak gambar"
+
+#~ msgid "Multi Images"
+#~ msgstr "Banyak gambar"
+
+#~ msgid "Single product"
+#~ msgstr "Produk tunggal"
+
+#~ msgctxt "Promotion product list title"
+#~ msgid "Title"
+#~ msgstr "Judul"
+
+#~ msgid "Link text"
+#~ msgstr "Teks terkait"
+
+#~ msgid "Product list"
+#~ msgstr "Daftar produk"
+
+#~ msgid "Product lists"
+#~ msgstr "Daftar produk"
+
+#~ msgid "Hand Picked Product List"
+#~ msgstr "Daftar produk yang diambil langsung"
+
+#~ msgid "Hand Picked Product Lists"
+#~ msgstr "Daftar produk yang diambil langsung"
+
+#~ msgid "List"
+#~ msgstr "Daftar"
+
+#~ msgid "Ordered product"
+#~ msgstr "Produk yang diorder"
+
+#~ msgid "Bestselling products"
+#~ msgstr "Produk yang banyak terjual"
+
+#~ msgid "Recently added products"
+#~ msgstr "Produk yang baru ditambahkan"
+
+#~ msgid "Method"
+#~ msgstr "Metode"
+
+#~ msgid "Number of Products"
+#~ msgstr "Nomor pada produk"
+
+#~ msgid "Automatic product list"
+#~ msgstr "Daftar produk otomatis"
+
+#~ msgid "Automatic product lists"
+#~ msgstr "Daftar produk otomatis"
+
+#~ msgid "Tabbed Block"
+#~ msgstr "Label blok"
+
+#~ msgid "Ordered Product List"
+#~ msgstr "Daftar produk yang dipesan"
+
+#~ msgid "Ordered Product Lists"
+#~ msgstr "Daftar produk yang dipesan"
+
+#~ msgctxt "Tabbed block title"
+#~ msgid "Title"
+#~ msgstr "Judul"
+
+#~ msgid "Tabbed Blocks"
+#~ msgstr "Label blok"
+
+#~ msgid "Search"
+#~ msgstr "Mencari"
+
+#~ msgid "Relevancy"
+#~ msgstr "Hubungan"
+
+#~ msgid "Customer rating"
+#~ msgstr "Penilaian pelanggan"
+
+#~ msgid "Newest"
+#~ msgstr "Terbaru"
+
+#~ msgid "Price high to low"
+#~ msgstr "Harga dari tinggi ke rendah"
+
+#~ msgid "Price low to high"
+#~ msgstr "Harga dari rendah ke tinggi"
+
+#~ msgid "Title A to Z"
+#~ msgstr "Judul A ke Z"
+
+#~ msgid "Title Z to A"
+#~ msgstr "Judul Z ke A"
+
+#~ msgid "Page is not 'last', nor can it be converted to an int."
+#~ msgstr "Halaman bukan yang 'terakhir', Tidak dapat diakses"
+
+#~ msgid "Shipping Method"
+#~ msgstr "Metode pengiriman"
+
+#~ msgid "Shipping Methods"
+#~ msgstr "Metode pengiriman"
+
+#~ msgid "Price per order"
+#~ msgstr "Harga per orderan"
+
+#~ msgid "Price per item"
+#~ msgstr "Harga per item"
+
+#~ msgid "Free Shipping"
+#~ msgstr "Gratis Pengiriman"
+
+#~ msgid "Order and Item Charge"
+#~ msgstr "Biaya order dan item"
+
+#~ msgid "Order and Item Charges"
+#~ msgstr "Biaya order dan item"
+
+#~ msgid "Default Weight"
+#~ msgstr "Berat bawaan"
+
+#~ msgid "Default product weight in kg when no weight attribute is defined"
+#~ msgstr "Berat bawaan produk dalam kg ketika tidak ada berat yang ditetapkan"
+
+#~ msgid "Weight-based Shipping Method"
+#~ msgstr "Berat dasar metode pengiriman"
+
+#~ msgid "Weight-based Shipping Methods"
+#~ msgstr "Berat dasar metode pengiriman"
+
+#~ msgid "Upper Limit"
+#~ msgstr "Batas atas"
+
+#~ msgid ""
+#~ "Enter upper limit of this weight band in kg. The lower limit will be "
+#~ "determined by the other weight bands."
+#~ msgstr ""
+#~ "Memasukan batas maksimum berat dalam kg. berat terendah akanditentukan "
+#~ "dari berat lain-lain."
+
+#~ msgid "Charge"
+#~ msgstr "Biaya"
+
+#~ msgid "Weight Band"
+#~ msgstr "Berat kotor"
+
+#~ msgid "Weight Bands"
+#~ msgstr "Berat kotor"
+
+#~ msgid "Charge for weights up to %s kg"
+#~ msgstr "Biaya untuk berat yang lebih dari %s kg"
+
+#~ msgid "Shipping"
+#~ msgstr "Pengiriman"
+
+#~ msgid "Free shipping"
+#~ msgstr "Gratis pengiriman"
+
+#~ msgid "Fixed price shipping"
+#~ msgstr "Harga pengiriman tetap"
+
+#~ msgid "You need to define some shipping methods"
+#~ msgstr "Kamu wajib menetapkan beberapa metode pengiriman"
+
+#~ msgid ""
+#~ "This will be shown in the checkout and basket once the voucher is entered"
+#~ msgstr ""
+#~ "ini akan muncul ketika proses keluar dan keranjang ketika kupon dimasukkan"
+
+#~ msgid "Case insensitive / No spaces allowed"
+#~ msgstr "Kasus insentif / tidak ada ruang yang diizinkan"
+
+#~ msgid "Can be used once by one customer"
+#~ msgstr "Hanya bisa digunakan sekali oleh satu pelanggan"
+
+#~ msgid "Can be used multiple times by multiple customers"
+#~ msgstr "Dapat digunakan berkali-kali dengan pelanggan-pelanggan"
+
+#~ msgid "Can only be used once per customer"
+#~ msgstr "hanya bisa digunakan sekali per pelanggan"
+
+#~ msgid "Times added to basket"
+#~ msgstr "Waktu ditambahkan ke keranjang"
+
+#~ msgid "Times on orders"
+#~ msgstr "Waktu pada pesanan"
+
+#~ msgid "Voucher"
+#~ msgstr "Kupon"
+
+#~ msgid "This voucher has already been used"
+#~ msgstr "Kupon ini telah digunakan"
+
+#~ msgid "This voucher is only available to signed in users"
+#~ msgstr "Kupon ini hanya tersedia untuk proses masuk pada pengguna"
+
+#~ msgid "You have already used this voucher in a previous order"
+#~ msgstr "Kamu telah menggunakan kupon ini diorderan yang lalu"
+
+#~ msgid "Voucher Application"
+#~ msgstr "Aplikasi kupon"
+
+#~ msgid "Voucher Applications"
+#~ msgstr "Aplikasi kupon"
+
+#~ msgid "'%(voucher)s' used by '%(user)s'"
+#~ msgstr "'%(voucher)s' digunakan oleh '%(user)s'"
+
+#~ msgid "Added to a basket"
+#~ msgstr "Masukkan ke belanjaan"
+
+#~ msgid "Used in an order"
+#~ msgstr "Digunakan pada sebuah pesanan"
+
+#~ msgid "Voucher performance"
+#~ msgstr "Peforma kupon"
+
+#~ msgid "Default"
+#~ msgstr "Bawaan"
+
+#~ msgid "Private - Only the owner can see the wish list"
+#~ msgstr "Rahasia - hanya pemilik yang dapat melihat daftar keinginan"
+
+#~ msgid ""
+#~ "Shared - Only the owner and people with access to the obfuscated link can "
+#~ "see the wish list"
+#~ msgstr ""
+#~ "Dibagikan - hanya pengguna dan orang yang mengakses ke link yang "
+#~ "dapatmelihat daftar keinginan"
+
+#~ msgid "Public - Everybody can see the wish list"
+#~ msgstr "Umum - semua orang dapat melihat daftar keinginan"
+
+#~ msgid "Visibility"
+#~ msgstr "Jarak penglihatan"
+
+#~ msgid "Wish List"
+#~ msgstr "Daftar keinginan"
+
+#~ msgid "Wish list line"
+#~ msgstr "Baris daftar keinginan"
+
+#~ msgid "Wishlists"
+#~ msgstr "Daftar-daftar keinginan"
+
+#~ msgid "The URL \"%s\" does not exist"
+#~ msgstr "Alamat \"%s\" tidak tersedia"
+
+#~ msgid "Specified page already exists!"
+#~ msgstr "Halaman yang ditentukan telah ada!"
+
+#~ msgid "This field is required"
+#~ msgstr "Halaman ini wajib"
+
+#~ msgid "This field is invalid as its value is forbidden"
+#~ msgstr "Halaman ini tidak valid seperti nilai yang terlarang"
+
+#~ msgid "This is not a valid international phone format."
+#~ msgstr "Ini bukan format telepon internasional yang valid"
+
+#~ msgid "This is not a valid local phone format for %s."
+#~ msgstr "Ini bukan format telepon lokal yang valid untuk %s."
+
+#~ msgid "This is not a valid local or international phone format."
+#~ msgstr "Ini bukan lokasi yang valid atau format telepon internasional"
+
+#~ msgid "Check for products that are back in stock and send out alerts"
+#~ msgstr "memeriksa untuk produk yang kembali dan mengirim peringatan "
+
+#~ msgid "Permission denied!"
+#~ msgstr "izin ditolak"
+
+#~ msgid "We're sorry but you are not permitted to access this page."
+#~ msgstr "Maaf tetapi anda tidak diizinkan untuk mengakses halaman ini"
+
+#~ msgid "Page not found"
+#~ msgstr "Halaman tidak ditemukan"
+
+#~ msgid "Page not found!"
+#~ msgstr "Halaman tidak ditemukan"
+
+#~ msgid "We're sorry but the page you are looking for can't be found."
+#~ msgstr "Maaf tetapi halaman yang anda cari tidak ditemukan"
+
+#~ msgid "Server error!"
+#~ msgstr "Situs gagal"
+
+#~ msgid ""
+#~ "We're sorry but something went terribly wrong and we've been unable to "
+#~ "generate the page you requested."
+#~ msgstr ""
+#~ "Maaf, tetapi terjadi kesalahan pada suatu hal dan kami belum dapat "
+#~ "menampilkan halaman yang anda minta."
+
+#~ msgid ""
+#~ "This incident has been logged and will be addressed by an engineer as "
+#~ "soon as possible."
+#~ msgstr ""
+#~ "Kejadian ini telah dicatat dan akan ditangani oleh seorang ahli sesegera "
+#~ "mungkin. "
+
+#~ msgid "Home"
+#~ msgstr "Rumah"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(title)s</strong> has been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "   <strong>%(title)s</strong> telah ditambahkan ke dalam daftar "
+#~ "belanja.     "
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(quantity)s</strong> copies of <strong>%(title)s</strong>\n"
+#~ "    have been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    <strong>%(quantity)s</strong> salinan dari <strong>%(title)s</"
+#~ "strong>\n"
+#~ "    telah ditambahkan ke dalam daftar belanja.\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been moved back to your basket.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> telah dipindahkan kembali ke belanjaan Anda.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been saved for later\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> telah disimpan untuk kemudian\n"
+
+#~ msgid "Your basket is now empty"
+#~ msgstr "Belanjaan Anda kosong"
+
+#~ msgid ""
+#~ "\n"
+#~ "            Your basket total is now <strong>%(total)s</strong>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "            Jumlah belanjaan Anda saat ini <strong>%(total)s</strong>\n"
+#~ "            "
+
+#~ msgid "View basket"
+#~ msgstr "tampilkan belanjaan"
+
+#~ msgid "Checkout now"
+#~ msgstr "PROSES PEMBELIAN"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket now qualifies for the \n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Belanjaan Anda sekarang memenuhi syarat untuk \n"
+#~ "penawaran <strong>%(name)s</strong>.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket no longer qualifies for the\n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Belanjaan Anda tidak lagi memenuhi syarat untuk\n"
+#~ "penawaran <strong>%(name)s</strong>. \n"
+
+#~ msgid "Important messages about items in your basket"
+#~ msgstr "Pesan penting tentang barang dalam keranjang anda"
+
+#~ msgid "You could be missing out on offers!"
+#~ msgstr "Anda bisa kehilangan penawaran"
+
+#~ msgid ""
+#~ "\n"
+#~ "                <div class=\"warning\">%(message)s to qualify for the <a "
+#~ "href=\"%(url)s\">%(offer_name)s</a> special offer</div>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                <div class=\"warning\">%(message)s to qualify for the <a "
+#~ "href=\"%(url)s\">%(offer_name)s</a> special offer</div>\n"
+#~ "            "
+
+#~ msgid "Items to buy now"
+#~ msgstr "barang untuk dibeli sekarang"
+
+#~ msgid "Price"
+#~ msgstr "Harga"
+
+#~ msgid "Total"
+#~ msgstr "Total"
+
+#~ msgid "Updating..."
+#~ msgstr "memperbaharui"
+
+#~ msgid "Update"
+#~ msgstr "perbaharui"
+
+#~ msgid "Remove"
+#~ msgstr "Hapus"
+
+#~ msgid "Save for later"
+#~ msgstr "Simpan untuk nanti"
+
+#~ msgid "Voucher/promo code"
+#~ msgstr "Kode promo kupon"
+
+#~ msgid "I have a voucher code..."
+#~ msgstr "saya memiliki kode kupon..."
+
+#~ msgid "Adding..."
+#~ msgstr "Tambahkan"
+
+#~ msgid "Add voucher"
+#~ msgstr "menambahkan kupon"
+
+#~ msgid "or"
+#~ msgstr "Atau"
+
+#~ msgid "cancel"
+#~ msgstr "Batal"
+
+#~ msgid "Totals"
+#~ msgstr "Total"
+
+#~ msgid "Proceed to checkout"
+#~ msgstr "proses untuk proses akhir"
+
+#~ msgid "Your basket is empty."
+#~ msgstr "Keranjang anda kosong"
+
+#~ msgid "Continue shopping"
+#~ msgstr "Lanjutkan belanja"
+
+#~ msgid "Items to buy later"
+#~ msgstr "barang untuk dibeli nanti"
+
+#~ msgid "Items"
+#~ msgstr "item"
+
+#~ msgid "Move to basket"
+#~ msgstr "pindahkan ke keranjang"
+
+#~ msgid "Qty"
+#~ msgstr "jumlah"
+
+#~ msgid "Total:"
+#~ msgstr "Total:"
+
+#~ msgid "Basket total (before discounts)"
+#~ msgstr "Total keranjang (sebelum diskon)"
+
+#~ msgid "Discount"
+#~ msgstr "Diskon"
+
+#~ msgid "Basket total (after discounts)"
+#~ msgstr "Total keranjang (setelah diskon)"
+
+#~ msgid "Basket total"
+#~ msgstr "Total keranjang"
+
+#~ msgid "Alternative shipping methods can be chosen during checkout"
+#~ msgstr "metode pengiriman alternatif dapat dipilih selama proses akhir"
+
+#~ msgid "Shipping total (before discounts)"
+#~ msgstr "Total pengiriman (sebelum diskon)"
+
+#~ msgid "Shipping total (after discounts)"
+#~ msgstr "Total pengiriman (sesudah diskon)"
+
+#~ msgid "Tax"
+#~ msgstr "Pajak"
+
+#~ msgid "Post order actions"
+#~ msgstr "Pos tindakan pesanan"
+
+#~ msgid "These will be applied once your order is placed."
+#~ msgstr "Ini akan diterapkan saat pesanan anda pertama kali dibuat."
+
+#~ msgid "Taxes will be added during checkout."
+#~ msgstr "Pajak akan ditambahkan selama proses akhir"
+
+#~ msgid "Show results for"
+#~ msgstr "Tampilkan hasil untuk"
+
+#~ msgid "Refine by"
+#~ msgstr "Diperbaiki oleh"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                    Terdapat <strong>%(num_results)s</strong> produk.\n"
+#~ "                "
+
+#~ msgid "<strong>0</strong> results."
+#~ msgstr "<kuat>0</kuat> hasil."
+
+#~ msgid "No products found."
+#~ msgstr "Tidak ada produk ditemukan"
+
+#~ msgid "Edit this product"
+#~ msgstr "Edit produk "
+
+#~ msgid "Product Description"
+#~ msgstr "Deskripsi produk"
+
+#~ msgid "Product Information"
+#~ msgstr "Informasi produk"
+
+#~ msgid "Product Type"
+#~ msgstr "Tipe produk"
+
+#~ msgid "Price (incl. tax)"
+#~ msgstr "harga (termasuk pajak)"
+
+#~ msgid "Availability"
+#~ msgstr "Ketersediaan"
+
+#~ msgid "Number of reviews"
+#~ msgstr "Nomor dari ulasan"
+
+#~ msgid "See all reviews"
+#~ msgstr "Melihat semua ulasan"
+
+#~ msgid "Customer Reviews"
+#~ msgstr "Ulasan pelanggan"
+
+#~ msgid ""
+#~ "This product does not have any reviews yet -\n"
+#~ "                            <a href=\"%(add_review_url)s#addreview\">be "
+#~ "the first to write one</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "Produk ini tidak memiliki ulangan \n"
+#~ "                            <a href=\"%(add_review_url)s#addreview"
+#~ "\">jadilah pemberi review yang pertama </a>.\n"
+#~ "                        "
+
+#~ msgid "This product does not have any reviews yet"
+#~ msgstr "Produk ini belum ada ulasan"
+
+#~ msgid "Recommended items"
+#~ msgstr "item yang direkomendasikan"
+
+#~ msgid "Add to basket"
+#~ msgstr "Tambahkan pada keranjang"
+
+#~ msgid "You have an active stock alert for this product."
+#~ msgstr "Anda memiliki peringatan stok aktif untuk produk ini"
+
+#~ msgid "You can get an email alert when this product is back in stock."
+#~ msgstr ""
+#~ "Anda dapat mendapat email peringatan ketika produk ini distok kembali"
+
+#~ msgid "Notify me"
+#~ msgstr "Ingatkan saya"
+
+#~ msgid "Add to wish list"
+#~ msgstr "Menambah daftar keinginan"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                            Add to '%(name)s' wish list\n"
+#~ "                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "                                            Tambahkan ke daftar keinginan "
+#~ "'%(name)s'\n"
+#~ "                                        "
+
+#~ msgid "Create a new wishlist"
+#~ msgstr "Membuat daftar keinginan baru"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <span class=\"pull-left\">Product is in <a href="
+#~ "\"%(url)s\">'%(name)s'</a> wishlist.</span>\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    <span class=\"pull-left\">Produk dalam daftar "
+#~ "keinginan <a href=\"%(url)s\">'%(name)s'</a> .</span>\n"
+#~ "                "
+
+#~ msgid "Removing..."
+#~ msgstr "Sedang menghapus..."
+
+#~ msgid "Please login to add products to a wish list."
+#~ msgstr "Harap masuk untuk menambah produk ke daftar keinginan"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Reviewed by you on %(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                Ulasan dari Anda pada %(review_date)s\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Reviewed by <strong>%(name)s</strong> on "
+#~ "%(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Ulasan dari <strong>%(name)s</strong> pada "
+#~ "%(review_date)s\n"
+#~ "                "
+
+#~ msgid "Is this review helpful?"
+#~ msgstr "Apakah ulasan ini membantu?"
+
+#~ msgid "Yes"
+#~ msgstr "Ya"
+
+#~ msgid "No"
+#~ msgstr "Tidak"
+
+#~ msgid "This review has no votes."
+#~ msgstr "Ulasan ini belum ada suara"
+
+#~ msgid "Free"
+#~ msgstr "Gratis"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer review\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer reviews\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                    %(num_reviews)s ulasan pelanggan\n"
+#~ "                "
+
+#~ msgid "Write a review"
+#~ msgstr "Tulis sebuah ulasan"
+
+#~ msgid "Customer reviews"
+#~ msgstr "Ulasan pelanggan"
+
+#~ msgid "Leave a product review"
+#~ msgstr "Tinggalkan ulasan produk"
+
+#~ msgid "Saving..."
+#~ msgstr "Menyimpan"
+
+#~ msgid "Save review"
+#~ msgstr "Simpan ulasan"
+
+#~ msgid "This product does not have any reviews yet."
+#~ msgstr "Produk ini belum ada ulasan"
+
+#~ msgid "Change"
+#~ msgstr "Ubah"
+
+#~ msgid "Contact"
+#~ msgstr "Kontak"
+
+#~ msgid "Phone"
+#~ msgstr "Telepon"
+
+#~ msgid "Payment details to go here"
+#~ msgstr "Detail pembayaran disini"
+
+#~ msgid "Edit order contents"
+#~ msgstr "Ubah konten pemesanan"
+
+#~ msgid "Order contents"
+#~ msgstr "Konten pemesanan"
+
+#~ msgid "Item"
+#~ msgstr "Item"
+
+#~ msgid "Checkout gateway"
+#~ msgstr "Gerbang cekout"
+
+#~ msgid "Who are you?"
+#~ msgstr "Siapakah anda?"
+
+#~ msgid "Get a password reminder"
+#~ msgstr "Dapatkan pengingat kata sandi"
+
+#~ msgid "Continuing..."
+#~ msgstr "Melanjutkan"
+
+#~ msgid "Continue"
+#~ msgstr "Lanjutkan"
+
+#~ msgid "1. Shipping address"
+#~ msgstr "Alamat pengiriman"
+
+#~ msgid "2. Shipping method"
+#~ msgstr "Metode pengiriman"
+
+#~ msgid "3. Payment"
+#~ msgstr "Pembayaran"
+
+#~ msgid "4. Preview"
+#~ msgstr "Tinjauan"
+
+#~ msgid "5. Confirmation"
+#~ msgstr "Konfirmasi"
+
+#~ msgid "Payment details"
+#~ msgstr "Detail Pembayaran"
+
+#~ msgid "Enter payment details"
+#~ msgstr "Masukkan detail pembayaran"
+
+#~ msgid ""
+#~ "This page needs implementing within your project.  You may want to use "
+#~ "one of Oscar's payment gateway libraries:"
+#~ msgstr ""
+#~ "Halaman ini diimplementasikan dalam project. Tersedia beberapa Django "
+#~ "Oscar payment gateway library berikut:"
+
+#~ msgid "Order preview"
+#~ msgstr "Tinjauan pesanan"
+
+#~ msgid "Preview order"
+#~ msgstr "Tinjauan pesanan"
+
+#~ msgid "Place order"
+#~ msgstr "Tuliskan pesanan"
+
+#~ msgid "Where should we ship to?"
+#~ msgstr "Dimana kita harus mengirimnya?"
+
+#~ msgid "An address from your address book?"
+#~ msgstr "sebuah alamat dari buku alamat anda?"
+
+#~ msgid "Ship to your default shipping address"
+#~ msgstr "Kirim ke alamat pengiriman bawaan"
+
+#~ msgid "Ship to this address"
+#~ msgstr "Kirimkan ke alamat ini"
+
+#~ msgid "Delete"
+#~ msgstr "Hapus"
+
+#~ msgid "Or a new address?"
+#~ msgstr "Atau alamat baru?"
+
+#~ msgid "return to basket"
+#~ msgstr "Kembali ke keranjang"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                This includes a discount of <strong>"
+#~ "%(amount)s</strong> as\n"
+#~ "                                your basket qualifies for the <strong>"
+#~ "%(name)s</strong> offer.\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "                                Sudah termasuk diskon sejumlah <strong>"
+#~ "%(amount)s</strong> \n"
+#~ "                                belanjaan Anda memenuhi syarat untuk "
+#~ "penawaran <strong>%(name)s</strong> \n"
+#~ "                            "
+
+#~ msgid "Select option"
+#~ msgstr "Memilih opsi"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s: confirmation\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        pesanan %(number)s: konfirmasi\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "        Your order has been placed and a confirmation email has been sent "
+#~ "- your order number is\n"
+#~ "        <strong>%(number)s</strong>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "        Pesanan anda telah ditempatkan dan konfirmasi email telah dikirim "
+#~ "- nomor orderan anda adalah\n"
+#~ "        <strong>%(number)s</strong>.\n"
+#~ "        "
+
+#~ msgid ""
+#~ "Please make a note of this reference or print this page and quote it in "
+#~ "any communication with us regarding your order."
+#~ msgstr ""
+#~ "Harap buat catatan pada referensi ini atau cetak halaman ini dan kutip "
+#~ "pada setiap komunikasi dengan kami mengenai pesanan Anda."
+
+#~ msgid "No shipping address required."
+#~ msgstr "Tidak ada alaman pengiriman wajib"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s (reference: %(reference)s)\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "                                Alokasi %(amount)s dari tipe %(type)s "
+#~ "(referensi: %(reference)s)\n"
+#~ "                            "
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "                                Alokasi %(amount)s dari tipe %(type)s\n"
+#~ "                            "
+
+#~ msgid "No payment was required for this order."
+#~ msgstr "Tidak ada pembayaran yang wajib untuk pesanan ini."
+
+#~ msgid "Items purchased"
+#~ msgstr "Item pembelian"
+
+#~ msgid ""
+#~ "\n"
+#~ "                            Estimated dispatch: <strong>%(date)s</"
+#~ "strong>\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "                            Perkiraan pengiriman: <strong>%(date)s</"
+#~ "strong>\n"
+#~ "                        "
+
+#~ msgid "Shipping charge (before discounts)"
+#~ msgstr "Biaya pengiriman (sebelum diskon)"
+
+#~ msgid "Shipping charge (after discounts)"
+#~ msgstr "Biaya pengiriman (setelah diskon)"
+
+#~ msgid "Shipping charge"
+#~ msgstr "Biaya pengiriman"
+
+#~ msgid "Order tax"
+#~ msgstr "Pajak orderan"
+
+#~ msgid "Tracking your order"
+#~ msgstr "Melacak pesanan anda"
+
+#~ msgid "You can track the status of your order"
+#~ msgstr "Anda dapat melacak status dari pesanan anda"
+
+#~ msgid "View order status"
+#~ msgstr "Menampilkan status pesanan"
+
+#~ msgid "Print this page"
+#~ msgstr "Cetak halaman ini"
+
+#~ msgid "Are you sure you want to delete this address?"
+#~ msgstr "Apakah anda yakin akan menghapus alamat ini?"
+
+#~ msgid "Yes!"
+#~ msgstr "Ya!"
+
+#~ msgid "Save"
+#~ msgstr "Simpan"
+
+#~ msgid "Address book"
+#~ msgstr "Buku alamat"
+
+#~ msgid "Deleting..."
+#~ msgstr "Menghapus"
+
+#~ msgid "Default shipping address"
+#~ msgstr "Alamat pengiriman bawaan"
+
+#~ msgid "Default billing address"
+#~ msgstr "Alamat penagihan bawaan"
+
+#~ msgid "Edit"
+#~ msgstr "Mengubah"
+
+#~ msgid "Set as default shipping address"
+#~ msgstr "Ubah sebagai alamat pengiriman bawaan"
+
+#~ msgid "Set as default billing address"
+#~ msgstr "Ubah sebagai alamat pengiriman bawaan"
+
+#~ msgid "There are no addresses in your address book."
+#~ msgstr "Tidak ada alamat di dlam buku alamat anda"
+
+#~ msgid "You do not have any active alerts for out-of-stock products."
+#~ msgstr ""
+#~ "Anda tidak memiliki peringatan apapun yang aktif untuk produk yang tidak "
+#~ "ada stok"
+
+#~ msgid "Cancel"
+#~ msgstr "Batal"
+
+#~ msgid ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> is back in stock\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> dis-tok kembali\n"
+
+#~ msgid "Order #%(number)s"
+#~ msgstr "Pesanan #%(number)s"
+
+#~ msgid "Contact number"
+#~ msgstr "Nomor kontak"
+
+#~ msgid "Notes"
+#~ msgstr "Nota"
+
+#~ msgid "Estimated dispatch date"
+#~ msgstr "Perkiraan tanggal pengiriman"
+
+#~ msgid "Line price excl. tax"
+#~ msgstr "Baris harga tidak termasuk pajak"
+
+#~ msgid "Line price incl. tax"
+#~ msgstr "Baris harga termasuk pajak"
+
+#~ msgid "Basket total (inc. tax)"
+#~ msgstr "Total keranjang (termasuk pajak)"
+
+#~ msgid "Email history"
+#~ msgstr "Riwayat email"
+
+#~ msgid "Date sent"
+#~ msgstr "Tanggal terkirim"
+
+#~ msgid "No emails found"
+#~ msgstr "Tidak ada email ditemukan"
+
+#~ msgid "Thanks for using our site!"
+#~ msgstr "Terima kasih sudah menggunakan situs kami"
+
+#~ msgid "The %(name)s team"
+#~ msgstr "%(name)s tim"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately "
+#~ "and correct your email address:"
+#~ msgstr ""
+#~ "Jika Anda tidak melakukan perubahan, harap ubah kembali kata sandi "
+#~ "sesegera mungkin dan perbaiki alamat email Anda:"
+
+#~ msgid ""
+#~ "If it was you who changed the email address, you can ignore this email."
+#~ msgstr "Jika Anda yang melakukan perubahan, Silahkan abaikan email ini."
+
+#~ msgid ""
+#~ "You're receiving this email because your email address has been changed "
+#~ "to %(email)s."
+#~ msgstr ""
+#~ "Anda menerima email ini karena alamat email anda telah diubah menjadi"
+#~ "%(email)s."
+
+#~ msgid "Your email address has changed at %(site_name)s."
+#~ msgstr "Alamat email Anda telah diubah pada %(site_name)s."
+
+#~ msgid "Hello,"
+#~ msgstr "Halo,"
+
+#~ msgid "Your order contains:"
+#~ msgstr "Pesanan Anda yaitu:"
+
+#~ msgid "Basket total:"
+#~ msgstr "Total belanja:"
+
+#~ msgid "Shipping:"
+#~ msgstr "Pengiriman:"
+
+#~ msgid "Order Total:"
+#~ msgstr "Total pesanan:"
+
+#~ msgid "Shipping address:"
+#~ msgstr "Alamat pengiriman:"
+
+#~ msgid ""
+#~ "You can view the status of this order by clicking <a href=\"%(status_url)s"
+#~ "\" title=\"order status\">here</a>"
+#~ msgstr ""
+#~ "Anda dapat melihat status dari pesanan ini dengan mengklik <a href="
+#~ "\"%(status_url)s\" title=\"order status\">here</a>"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "We are pleased to confirm your order %(order_number)s has been received "
+#~ "and\n"
+#~ "will be processed shortly."
+#~ msgstr ""
+#~ "Halo,\n"
+#~ "\n"
+#~ "Kami harapkan mengkonfirmasi pesanan anda %(order_number)s telah diterima "
+#~ "dan\n"
+#~ "akan diproses sesegera mungkin."
+
+#~ msgid "quantity:"
+#~ msgstr "Jumlah:"
+
+#~ msgid "price:"
+#~ msgstr "Harga:"
+
+#~ msgid ""
+#~ "You can view the status of this order at the below URL:\n"
+#~ "%(status_url)s"
+#~ msgstr ""
+#~ "Anda dapat melihat status pesanan ini dengan URL dibawah:\n"
+#~ "%(status_url)s"
+
+#~ msgid "The team"
+#~ msgstr "Kelompok"
+
+#~ msgid "Confirmation of order %(number)s"
+#~ msgstr "Konfirmasi dari pesanan %(number)s"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately:"
+#~ msgstr ""
+#~ "Jika Anda tidak merasa mengubah harap mengganti kata sandi anda sesegera "
+#~ "mungkin:"
+
+#~ msgid "Otherwise, you can ignore this email."
+#~ msgstr "Jika tidak abaikan email ini."
+
+#~ msgid ""
+#~ "\n"
+#~ "You're receiving this email because your password has been changed at "
+#~ "%(name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Anda menerima email ini karena password Anda telah diubah pada %(name)s.\n"
+
+#~ msgid "Your password changed at %(site_name)s."
+#~ msgstr "Kata sandi Anda diubah pada %(site_name)s."
+
+#~ msgid ""
+#~ "You're receiving this e-mail because you requested a password reset for "
+#~ "your user account at %(name)s."
+#~ msgstr ""
+#~ "Anda mendapat email ini karena email anda meminta pergantian kata sandi "
+#~ "untuk pengguna akun pada %(name)s."
+
+#~ msgid "Please go to the following page and choose a new password:"
+#~ msgstr "Harap pergi ke halaman selanjutnya dan pilih kata sandi baru:"
+
+#~ msgid "Resetting your password at %(site_name)s."
+#~ msgstr "Reset kata sandi Anda pada %(site_name)s."
+
+#~ msgid "Dear %(name)s,"
+#~ msgstr "Kepada %(name)s,"
+
+#~ msgid ""
+#~ "\n"
+#~ "Beware that the amount of items in stock is limited. Be quick or someone "
+#~ "might get there first.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Amati jumlah barang stok Anda terbatas. Bergerak cepat atau seseorang "
+#~ "akan mendahului Anda.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "With this email we have disabled your alert automatically and you will "
+#~ "not\n"
+#~ "receive any further email regarding this product.\n"
+#~ "\n"
+#~ "Thanks for your interest,\n"
+#~ "The %(site_name)s Team\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Dengan email ini kami akan mnonaktifkan pemberitahuan otomatis anda dan "
+#~ "anda tidak akan\n"
+#~ "menerima email apapun lebih lanjut mengenai produk ini.\n"
+#~ "\n"
+#~ "Terima kasih atas ketertarikan Anda,\n"
+#~ "%(site_name)s tim\n"
+
+#~ msgid "Confirmation required for stock alert"
+#~ msgstr "Konfirmasi diperlukan mengenai peringatan stok"
+
+#~ msgid "Thank you for registering."
+#~ msgstr "Terima kasih atas registrasi"
+
+#~ msgid "Products you recently viewed"
+#~ msgstr "Produk yang terakhir anda lihat"
+
+#~ msgid "Log In"
+#~ msgstr "Masuk"
+
+#~ msgid "I've forgotten my password"
+#~ msgstr "Saya melupakan kata sandi saya"
+
+#~ msgid "Logging in..."
+#~ msgstr "Masuk"
+
+#~ msgid "Register"
+#~ msgstr "Registrasi"
+
+#~ msgid "Registering..."
+#~ msgstr "Sedang registrasi"
+
+#~ msgid "Notifications inbox"
+#~ msgstr "Notifikasi kotak masuk"
+
+#~ msgid "Sender"
+#~ msgstr "Pengirim"
+
+#~ msgid "Return to notifications inbox"
+#~ msgstr "Kembalikan ke notifikasi kotak masuk"
+
+#~ msgctxt "noun"
+#~ msgid "Archive"
+#~ msgstr "Arsip"
+
+#~ msgid "View"
+#~ msgstr "Tampilkan"
+
+#~ msgctxt "verb"
+#~ msgid "Archive"
+#~ msgstr "Arsip"
+
+#~ msgid "With selected items:"
+#~ msgstr "Dengan item pilihan"
+
+#~ msgid "Archiving..."
+#~ msgstr "Pengarsipan"
+
+#~ msgid "There are no notifications to display."
+#~ msgstr "Tidak ada notifikasi untuk ditampilkan"
+
+#~ msgid "Order history"
+#~ msgstr "Riwayat orderan"
+
+#~ msgid "Dispatch date"
+#~ msgstr "Tanggal pengiriman"
+
+#~ msgid "Re-ordering..."
+#~ msgstr "Pesan ulang"
+
+#~ msgid "Re-order"
+#~ msgstr "Pesan ulang"
+
+#~ msgid "Not available anymore"
+#~ msgstr "Tidak tersedia lagi"
+
+#~ msgid "Basket total (excl. discounts)"
+#~ msgstr "Total keranjang (tanpa Diskon)"
+
+#~ msgid "Basket total (inc. discounts)"
+#~ msgstr "Total keranjang (termasuk diskon)"
+
+#~ msgid "Shipping total (excl. discounts)"
+#~ msgstr "Total pengiriman (tanpa Diskon)"
+
+#~ msgid "Shipping total (inc. discounts)"
+#~ msgstr "Total pengiriman (termasuk diskon)"
+
+#~ msgid "Shipping total"
+#~ msgstr "Total pengiriman"
+
+#~ msgid "Re-order all items"
+#~ msgstr "Pesan ulang semua item"
+
+#~ msgid "Contact Number"
+#~ msgstr "Nomor kontak"
+
+#~ msgid "Shipping Notes"
+#~ msgstr "Nota pengiriman"
+
+#~ msgid "Filtering..."
+#~ msgstr "Menyaring"
+
+#~ msgid "Filter results"
+#~ msgstr "Hasil penyaringan"
+
+#~ msgid "Reset"
+#~ msgstr "Reset"
+
+#~ msgid "Total inc tax"
+#~ msgstr "Total termasuk pajak"
+
+#~ msgid "No orders match your search."
+#~ msgstr "Tidak ada pesanan yang cocok pada pencarian anda."
+
+#~ msgid "You haven't placed any orders."
+#~ msgstr "Anda belum membuat pesanan."
+
+#~ msgid "Change password"
+#~ msgstr "Ubah kata kunci"
+
+#~ msgid "Edit profile"
+#~ msgstr "mengubah profil"
+
+#~ msgid "Please confirm your password to delete your profile."
+#~ msgstr "Silahkan masukkan kata kunci anda untuk menghapus profil"
+
+#~ msgid "Warning"
+#~ msgstr "Bahaya"
+
+#~ msgid ""
+#~ "\n"
+#~ "                This will delete all information about you from the "
+#~ "site.  Deleting your profile cannot be\n"
+#~ "                undone.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                Penghapusan ini akan menghapus semua informasi mengenai "
+#~ "Anda. Proses ini tidak dapat dikembalikan            "
+
+#~ msgid "Delete?"
+#~ msgstr "Hapus?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                Anda yakin ingin menghapus %(name)s?\n"
+#~ "            "
+
+#~ msgid "Remove product"
+#~ msgstr "Hapus produk"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(product_name)s from "
+#~ "wish list %(wishlist_name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                Yakin ingin menghapus %(product_name)s dari daftar "
+#~ "keinginan %(wishlist_name)s?\n"
+#~ "            "
+
+#~ msgid "Action"
+#~ msgstr "Beraksi"
+
+#~ msgid "View product"
+#~ msgstr "Tampilkan produk"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                            Move to "
+#~ "'%(name)s' wish list\n"
+#~ "                                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "                                                            Pindah ke "
+#~ "'%(name)s' daftar keinginan\n"
+#~ "                                                        "
+
+#~ msgid "Update quantities"
+#~ msgstr "Memperbaharui jumlah"
+
+#~ msgid "Your wish list is empty."
+#~ msgstr "Daftar keinginan kosong."
+
+#~ msgid "Create"
+#~ msgstr "Membuat"
+
+#~ msgid "What should your new wish list be called?"
+#~ msgstr "Penyebutan untuk daftar keinginan Anda?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    After your wishlist is created, <strong>%(title)s</"
+#~ "strong> will be added.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Setelah daftar keinginan anda dibuat, <strong>"
+#~ "%(title)s</strong> akan ditambahkan.\n"
+#~ "                "
+
+#~ msgid "Number of products"
+#~ msgstr "Nomor produk"
+
+#~ msgid "Wish list settings"
+#~ msgstr "Pengaturan daftar keinginan"
+
+#~ msgid "You don't have any wish lists yet."
+#~ msgstr "Anda belum mempunyai daftar keinginan apapun."
+
+#~ msgid "Sections"
+#~ msgstr "Bagian"
+
+#~ msgid "Delete category?"
+#~ msgstr "Hapus kategori?"
+
+#~ msgid "Delete category"
+#~ msgstr "Hapus kategori"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <p>Delete category <strong>%(name)s</strong> - are you sure?</"
+#~ "p>\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "            <p> Hapus kategori <strong>%(name)s</strong> - Anda yakin?</"
+#~ "p>\n"
+#~ "        "
+
+#~ msgid "Create new category"
+#~ msgstr "Buat kategori baru"
+
+#~ msgid "You are editing:"
+#~ msgstr "Anda telah mengubah"
+
+#~ msgid "There are no categories."
+#~ msgstr "Tidak ada kategori"
+
+#~ msgid "Edit category"
+#~ msgstr "Mengubah kategori"
+
+#~ msgid "Add child category"
+#~ msgstr "Menambah kategori anak"
+
+#~ msgid "Edit children"
+#~ msgstr "Mengubah anakan"
+
+#~ msgid "View on site"
+#~ msgstr "Tampilkan disitus"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Membuat varian produk '%(name)s'.\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Membuat varian dari '%(parent_name)s'.\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Memperbarui varian produk '%(name)s'.\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated a variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Memperbarui varian produk '%(parent_name)s'.\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                Created product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                Produk dibuat '%(name)s'.\n"
+#~ "            "
+
+#~ msgid ""
+#~ "\n"
+#~ "                Updated product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                Produk diperbarui '%(name)s'.\n"
+#~ "            "
+
+#~ msgid "Edit again"
+#~ msgstr "Mengubah lagi"
+
+#~ msgid "View it on the site"
+#~ msgstr "Tampilkan pada situs"
+
+#~ msgid "Delete product type?"
+#~ msgstr "Hapus tipe produk?"
+
+#~ msgid ""
+#~ "Please make sure all products are assigned to another type before "
+#~ "deletion."
+#~ msgstr "Pastikan semua produk ditentukan ke tipe lain sebelum pengapusan"
+
+#~ msgid "Delete product type"
+#~ msgstr "Hapus tipe produk"
+
+#~ msgid "Delete product type <strong>%(name)s</strong> - are you sure?"
+#~ msgstr "Hapus tipe produk <strong>%(name)s</strong> - Anda yakin?"
+
+#~ msgid "Create product type"
+#~ msgstr "Buat tipe produk"
+
+#~ msgid "Product Class details"
+#~ msgstr "Detail kelas produk"
+
+#~ msgid "Create new product type"
+#~ msgstr "Buat tipe produk baru"
+
+#~ msgid "Product types"
+#~ msgstr "Tipe produk"
+
+#~ msgid "Requires shipping"
+#~ msgstr "Mengenai pengiriman"
+
+#~ msgid "Track stock?"
+#~ msgstr "Jalur stok?"
+
+#~ msgid "Edit product type"
+#~ msgstr "Ubah tipe produk"
+
+#~ msgid "There are no product types."
+#~ msgstr "Tidak ada tipe produk"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product variant <strong>%(title)s</strong> - "
+#~ "are you sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Hapus varian produk <kuat>%(title)s</kuat> - Anda "
+#~ "yakin?\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product <strong>%(title)s</strong> - are you "
+#~ "sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Hapus produk <strong>%(title)s</strong> - Anda "
+#~ "yakin?\n"
+#~ "                "
+
+#~ msgid "This will also delete the following child products:"
+#~ msgstr "Ini juga akan menghapus produk anak yang mengikuti:"
+
+#~ msgid "Create new product"
+#~ msgstr "Buat produk baru"
+
+#~ msgid "New Product"
+#~ msgstr "Produk baru"
+
+#~ msgid "Search Products"
+#~ msgstr "Cari produk"
+
+#~ msgid "Searching..."
+#~ msgstr "Mencari"
+
+#~ msgid ""
+#~ "\n"
+#~ "                            You are currently editing a product variant "
+#~ "of\n"
+#~ "                            <a href=\"%(parent_url)s\">%(title)s</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "                            Anda ssat ini mengubah variasi produk dari\n"
+#~ "                            <a href=\"%(parent_url)s\">%(title)s</a>.\n"
+#~ "                        "
+
+#~ msgid "Product details"
+#~ msgstr "Detail produk"
+
+#~ msgid "Images"
+#~ msgstr "Gambar"
+
+#~ msgid "Stock and pricing"
+#~ msgstr "Stok dan kalkulasi harga"
+
+#~ msgid "Upselling"
+#~ msgstr "Penjualan"
+
+#~ msgid "Product Type:"
+#~ msgstr "Tipe produk:"
+
+#~ msgid "Upload, change or remove images"
+#~ msgstr "Mengunggah, mengubah atau menghapus gambar"
+
+#~ msgid "SKU"
+#~ msgstr "SKU"
+
+#~ msgid "Num in stock"
+#~ msgstr "Nomor dalam stok"
+
+#~ msgid "Num allocated"
+#~ msgstr "Nomor dialokasi"
+
+#~ msgid "Low stock threshold"
+#~ msgstr "Stok menipis"
+
+#~ msgid "Cost price"
+#~ msgstr "Biaya"
+
+#~ msgid "Price (excl tax)"
+#~ msgstr "Harga (tanpa pajak)"
+
+#~ msgid "Retail price"
+#~ msgstr "Harga eceran"
+
+#~ msgid "Add variant"
+#~ msgstr "Tambahkan variasi"
+
+#~ msgid "This product does not have any variants."
+#~ msgstr "Produk ini tidak mempunyai variasi lain"
+
+#~ msgid "One can't add variants to this product at this point."
+#~ msgstr "satu tidak dapat menambah variasi ke produk ini pada titik ini"
+
+#~ msgid "This is likely because this product still has stock records."
+#~ msgstr "Ini mungkin karena produk ini masih memiliki rekaman stok."
+
+#~ msgid "Save and add another variant"
+#~ msgstr "Simpan dan tambahkan variasi lain"
+
+#~ msgid "Save and continue editing"
+#~ msgstr "simpan dan lanjutkan mengubah"
+
+#~ msgid "All"
+#~ msgstr "Semua"
+
+#~ msgid "Current available stock"
+#~ msgstr "Stok yang tersedia saat ini"
+
+#~ msgid "Date alert raised"
+#~ msgstr "Tanggal peringatan diangkat"
+
+#~ msgid "No stock alerts found."
+#~ msgstr "Tidak ada peringatan stok ditemukan"
+
+#~ msgid "Preview"
+#~ msgstr "Tinjauan"
+
+#~ msgid "Edit email"
+#~ msgstr "Mengubah Email"
+
+#~ msgid "Email content"
+#~ msgstr "Konten email"
+
+#~ msgid "These fields are rendered using Django's template system."
+#~ msgstr "Halaman ini diberikan menggunakan sistem pola Django's"
+
+#~ msgid "You can use the following variables:"
+#~ msgstr "Anda dapat menggunakan variasi yang mengikuti"
+
+#~ msgid "The full name of the user (if they have one)"
+#~ msgstr "Nama lengkap dari pengguna (jika memiliki)"
+
+#~ msgid "The user's email address"
+#~ msgstr "Alamat email pengguna"
+
+#~ msgid "The name of the site (eg example.com)"
+#~ msgstr "Nama situs (contoh example.com"
+
+#~ msgid "View a preview of this email using order:"
+#~ msgstr "Menampilkan tinjauan dari email ini menggunakan pesanan:"
+
+#~ msgid "View preview"
+#~ msgstr "tampilkan tinjauan"
+
+#~ msgid "or send a preview to:"
+#~ msgstr "atau mengirim tinjauan ke"
+
+#~ msgid "Sending..."
+#~ msgstr "Mengirim"
+
+#~ msgid "Send preview email"
+#~ msgstr "Mengirim tinjauan email"
+
+#~ msgid "Body text"
+#~ msgstr "Badan teks"
+
+#~ msgid "There are no defined emails to edit."
+#~ msgstr "Tidak ada email untk diubah"
+
+#~ msgid "Your Store Statistics"
+#~ msgstr "Statistik toko anda"
+
+#~ msgid "Total Orders"
+#~ msgstr "Total orderan"
+
+#~ msgid "New Customers"
+#~ msgstr "Pelanggan baru"
+
+#~ msgid "Total Customers"
+#~ msgstr "Total pelanggan"
+
+#~ msgid "Total Products"
+#~ msgstr "Total produk"
+
+#~ msgid "Latest Orders (last 24 hours)"
+#~ msgstr "Pesanan terakhir (24 jam terakhir)"
+
+#~ msgid "Orders - Last 24 Hours"
+#~ msgstr "Pesanan - 24 jam terakhir"
+
+#~ msgid "Total orders"
+#~ msgstr "Total orderan"
+
+#~ msgid "Total lines"
+#~ msgstr "Total baris"
+
+#~ msgid "Total revenue"
+#~ msgstr "Total pendapatan"
+
+#~ msgid "Average order costs"
+#~ msgstr "Biaya rata-rata pesanan"
+
+#~ msgid "Manage"
+#~ msgstr "Mengatur"
+
+#~ msgid "Orders - All Time"
+#~ msgstr "Pesanan - sepanjang waktu"
+
+#~ msgid "Total <em>open</em> baskets"
+#~ msgstr "Total <em>open</em> keranjang"
+
+#~ msgid "Total customers"
+#~ msgstr "Total pelanggan"
+
+#~ msgid "New customers"
+#~ msgstr "Pelanggan baru"
+
+#~ msgid "View Stock Alerts"
+#~ msgstr "Menampilkan peringatan stok"
+
+#~ msgid "Catalogue and stock"
+#~ msgstr "Katalog dan stok"
+
+#~ msgid "Total products"
+#~ msgstr "Total produk"
+
+#~ msgid "<em>Open</em> stock alerts"
+#~ msgstr "<em>Open</em> Peringatan stok"
+
+#~ msgid "<em>Closed</em> stock alerts"
+#~ msgstr "<em>Closed</em> Peringatan stok"
+
+#~ msgid "Offers, vouchers and promotions"
+#~ msgstr "Penawaran, kupon dan promosi"
+
+#~ msgid "Active <em>Site</em> Offers"
+#~ msgstr "Aktif <em>Site</em> penawaran"
+
+#~ msgid "Active <em>Vouchers</em>"
+#~ msgstr "Aktif <em>Vouchers</em>"
+
+#~ msgid "Welcome"
+#~ msgstr "Selamat datang"
+
+#~ msgid "Return to site"
+#~ msgstr "Kembali ke situs"
+
+#~ msgid "Log out"
+#~ msgstr "Keluar"
+
+#~ msgid "Build a new incentive"
+#~ msgstr "Membangun insentif baru"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Ranges can be created and edited from within the <a href="
+#~ "\"%(range_list_url)s\">range dashboard</a>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "        Kisaran dapat dibuat dan diubah dari dalam <a href="
+#~ "\"%(range_list_url)s\">range dashboard</a>.\n"
+#~ "        "
+
+#~ msgid "...or choose a pre-defined one"
+#~ msgstr "... atau pilih yang telah ditentukan"
+
+#~ msgid "Continue to step 3"
+#~ msgstr "Lanjutkan ke step 3"
+
+#~ msgid "Build a new condition"
+#~ msgstr "Membuat kondisi baru"
+
+#~ msgid "Continue to step 4"
+#~ msgstr "Lanjutkan ke step 4"
+
+#~ msgid "Continue to step 2"
+#~ msgstr "Lanjutkan ke step 2"
+
+#~ msgid "Delete offer"
+#~ msgstr "Hapus penawaran"
+
+#~ msgid "Are you sure you want to delete this offer?"
+#~ msgstr "Apakah anda yakin ingin menghapus penawaran ini?"
+
+#~ msgid ""
+#~ "\n"
+#~ "        %(name)s | Offers\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        %(name)s | Penawaran\n"
+#~ "    "
+
+#~ msgid "Reinstating..."
+#~ msgstr "Mengembalikan..."
+
+#~ msgid "Reinstate offer"
+#~ msgstr "Mengembalikan penawaran"
+
+#~ msgid "Suspending..."
+#~ msgstr "Menunda..."
+
+#~ msgid "Suspend offer"
+#~ msgstr "Menunda penawaran"
+
+#~ msgid "Offer currently available"
+#~ msgstr "Penawaran tersedia saat ini"
+
+#~ msgid "Offer not available due to restrictions!"
+#~ msgstr "Penawaran tidak tersedia karena pembatasan!"
+
+#~ msgid "Total cost:"
+#~ msgstr "Total biaya:"
+
+#~ msgid "Number of orders:"
+#~ msgstr "Nomor pesanan"
+
+#~ msgid "Number of uses:"
+#~ msgstr "Nomor dari kegunaan"
+
+#~ msgid "Date created:"
+#~ msgstr "Tanggal dibuat:"
+
+#~ msgid "Offer details"
+#~ msgstr "Detail penawaran"
+
+#~ msgid "Export to CSV"
+#~ msgstr "Ekspor ke CSV"
+
+#~ msgid "Orders that used this offer"
+#~ msgstr "Pesanan menggunakan Penawaran ini"
+
+#~ msgid "Create new offer"
+#~ msgstr "Membuat penawaran baru"
+
+#~ msgid "Is available?"
+#~ msgstr "apakah tersedia?"
+
+#~ msgid "Uses"
+#~ msgstr "Kegunaan"
+
+#~ msgid "Browse"
+#~ msgstr "Jelajah"
+
+#~ msgid "Stats"
+#~ msgstr "Statistik"
+
+#~ msgid "No offers found."
+#~ msgstr "Tidak ada penawaran yang ditemukan"
+
+#~ msgid "Steps"
+#~ msgstr "Tahap-tahap"
+
+#~ msgid "1. Name and description"
+#~ msgstr "1. Nama dan deskripsi"
+
+#~ msgid "2. Incentive"
+#~ msgstr "2. Insentif"
+
+#~ msgid "3. Condition"
+#~ msgstr "3. Kondisi"
+
+#~ msgid "4. Restrictions"
+#~ msgstr "4. Pembatasan"
+
+#~ msgid "Save this offer"
+#~ msgstr "Simpan penawaran ini"
+
+#~ msgid "Fields marked with * are mandatory."
+#~ msgstr "Halaman ditandai dengan * adalah wajib"
+
+#~ msgid "Save changes"
+#~ msgstr "Simpan perubahan"
+
+#~ msgid "Offer summary"
+#~ msgstr "Ringkasan penawaran"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s - Line #%(id)s\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        Pesanan %(number)s - Baris #%(id)s\n"
+#~ "    "
+
+#~ msgid "Line #%(id)s"
+#~ msgstr "Baris #%(id)s"
+
+#~ msgid "Order #%(number)s - Line #%(id)s"
+#~ msgstr "Pesanan #%(number)s - Baris #%(id)s"
+
+#~ msgid "Product Options"
+#~ msgstr "Opsi produk"
+
+#~ msgid "Partner details"
+#~ msgstr "Detail rekan"
+
+#~ msgid "Shipping details"
+#~ msgstr "Detail pengiriman"
+
+#~ msgid "Partner reference number"
+#~ msgstr "Referensi nomor rekan"
+
+#~ msgid "Partner notes"
+#~ msgstr "Nota rekan"
+
+#~ msgid "Estimate dispatch date"
+#~ msgstr "Perkiraan tanggal pengiriman "
+
+#~ msgid "Shipping status"
+#~ msgstr "Status pengiriman"
+
+#~ msgid "State"
+#~ msgstr "Negara/keadaan"
+
+#~ msgid "No shipping events have occurred."
+#~ msgstr "Tidak ada kegiatan pengiriman."
+
+#~ msgid "Shipping events"
+#~ msgstr "Kegiatan pengiriman"
+
+#~ msgid "Payment events"
+#~ msgstr "kegiatan pembayaran"
+
+#~ msgid "No payment events have occurred."
+#~ msgstr "Tidak ada kegiatan pembayaran."
+
+#~ msgid "Order %(number)s"
+#~ msgstr "Pesanan %(number)s"
+
+#~ msgid "Customer Information"
+#~ msgstr "Informasi pelanggan"
+
+#~ msgid "Customer checked out as a guest."
+#~ msgstr "Pelanggan keluar sebagai tamu:"
+
+#~ msgid "Customer has deleted their account."
+#~ msgstr "Pelanggan telah menghapus akun mereka."
+
+#~ msgid "Order information"
+#~ msgstr "Informasi pesanan"
+
+#~ msgid "Order Total"
+#~ msgstr "Total pesanan"
+
+#~ msgid "Time of purchase"
+#~ msgstr "Waktu pembelian"
+
+#~ msgid "Order Details"
+#~ msgstr "Detail pesanan"
+
+#~ msgid "Discounts"
+#~ msgstr "Diskon"
+
+#~ msgid "Items ordered"
+#~ msgstr "Item yang dipesan"
+
+#~ msgid "Line ID"
+#~ msgstr "ID Line"
+
+#~ msgid "Supplier"
+#~ msgstr "Pemasok"
+
+#~ msgid "Supplier SKU"
+#~ msgstr "Pemasok SKU"
+
+#~ msgid "Est. dispatch date"
+#~ msgstr "Estimasi tanggal pengiriman"
+
+#~ msgid "Price excl tax (before discounts)"
+#~ msgstr "Harga diluar pajak (sebelum diskon)"
+
+#~ msgid "Price inc tax (before discounts)"
+#~ msgstr "Harga termasuk pajak (sebelum diskon)"
+
+#~ msgid "With selected lines"
+#~ msgstr "Dengan baris yang dipilih"
+
+#~ msgid "Change line status to"
+#~ msgstr "Mengubah status line ke"
+
+#~ msgid "choose new status"
+#~ msgstr "Pilih status baru"
+
+#~ msgid "Create shipping event"
+#~ msgstr "Membuat kegiatan pengiriman"
+
+#~ msgid "choose event type"
+#~ msgstr "Memilih tipe kegiatan"
+
+#~ msgid "with reference"
+#~ msgstr "Dengan referensi"
+
+#~ msgid "Create payment event"
+#~ msgstr "Membuat kegiatan pembayaran"
+
+#~ msgid "with amount"
+#~ msgstr "Dengan jumlah"
+
+#~ msgid "Go!"
+#~ msgstr "Pergi!"
+
+#~ msgid "Change order status"
+#~ msgstr "Mengubah status pesanan"
+
+#~ msgid "Change status"
+#~ msgstr "Mengubah status"
+
+#~ msgid "This order can't have its status changed."
+#~ msgstr "Pesanan ini tidak ada status diubah"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                                %(title)s "
+#~ "(quantity %(event_qty)s/%(total_qty)s)\n"
+#~ "                                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "                                                                %(title)s "
+#~ "(jumlah %(event_qty)s/%(total_qty)s)\n"
+#~ "                                                            "
+
+#~ msgid "No shipping events."
+#~ msgstr "Tidak ada kegiatan pengiriman"
+
+#~ msgid "Product:"
+#~ msgstr "Produk:"
+
+#~ msgid "quantity"
+#~ msgstr "Jumlah"
+
+#~ msgid "No payment events."
+#~ msgstr "Tidak ada kegiatan pembayaran"
+
+#~ msgid "Method name"
+#~ msgstr "Nama metode"
+
+#~ msgid "Method code"
+#~ msgstr "Kode metode"
+
+#~ msgid "Charge (incl tax)"
+#~ msgstr "Biaya tambahan (termasuk pajak)"
+
+#~ msgid "Charge (excl tax)"
+#~ msgstr "Biaya tambahan (diluar pajak)"
+
+#~ msgid "Payment sources"
+#~ msgstr "Sumber pembayaran"
+
+#~ msgid "Allocation"
+#~ msgstr "Alokasi"
+
+#~ msgid "Amount debited"
+#~ msgstr "Jumlah yang didebitkan"
+
+#~ msgid "Amount refunded"
+#~ msgstr "Jumlah yang dikembalikan"
+
+#~ msgid "No payment sources found for this order."
+#~ msgstr "Tidak ada sumber pembayaran yang ditemukan pada pesanan ini."
+
+#~ msgid "No discounts were applied to this order."
+#~ msgstr "Tidak ada diskon yang diterapkan pada pesanan ini."
+
+#~ msgid "Admin"
+#~ msgstr "Admin"
+
+#~ msgid "No notes available."
+#~ msgstr "Tidak ada catatan yang tersedia."
+
+#~ msgid "Save note"
+#~ msgstr "Menyimpan catatan"
+
+#~ msgid "Notes are only editable for 5 minutes after being saved."
+#~ msgstr "catatan hanya dapat diubah dalam 5 menit setelah disimpan."
+
+#~ msgid "Advanced Search"
+#~ msgstr "Pencarian lanjutan"
+
+#~ msgid "Close"
+#~ msgstr "tutup"
+
+#~ msgid "Order Search Results"
+#~ msgstr "Hasil pencarian pesanan"
+
+#~ msgid "All Orders"
+#~ msgstr "Semua pesanan"
+
+#~ msgid "Download selected orders as a CSV"
+#~ msgstr "Mengunggah pilihan pesanan sebagai CSV"
+
+#~ msgid "Deleted"
+#~ msgstr "Dihapus"
+
+#~ msgid "Changing..."
+#~ msgstr "Mengubah"
+
+#~ msgid "No orders found."
+#~ msgstr "Tidak ada pesanan ditemukan"
+
+#~ msgid "Print Packaging Slips"
+#~ msgstr "Cetak slip kemasan"
+
+#~ msgid "Mark as"
+#~ msgstr "Tandai sebagai"
+
+#~ msgid "Change order status to"
+#~ msgstr "Mengubah status pesanan ke"
+
+#~ msgid "Done"
+#~ msgstr "Selesai"
+
+#~ msgid "Edit shipping address"
+#~ msgstr "Ubah alamat pengiriman"
+
+#~ msgid "Edit shipping address for order %(order.number)s"
+#~ msgstr "Ubah alamat pengiriman untuk pesanan %(order.number)s"
+
+#~ msgid "Update address"
+#~ msgstr "Perbaharui alamat"
+
+#~ msgid "Order statistics"
+#~ msgstr "Statistik pesanan"
+
+#~ msgid "Filter result"
+#~ msgstr "Filter hasil"
+
+#~ msgid "Summary"
+#~ msgstr "Ringkasan"
+
+#~ msgid "Order status breakdown"
+#~ msgstr "Status pesanan rusak"
+
+#~ msgid "Delete page '%(title)s'?"
+#~ msgstr "Hapus halaman '%(title)s'?"
+
+#~ msgid "Delete page"
+#~ msgstr "Hapus halaman"
+
+#~ msgid "Delete page <strong>%(title)s</strong> - are you sure?"
+#~ msgstr "Hapus halaman <strong>%(title)s</strong> - Anda yakin?"
+
+#~ msgid "Create new page"
+#~ msgstr "Membuat halaman baru"
+
+#~ msgid "No pages found."
+#~ msgstr "Tidak ada halaman yang ditemukan"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Page <strong>%(title)s</strong> saved!\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        Halaman <strong>%(title)s</strong> disimpan!\n"
+#~ "    "
+
+#~ msgid "Oops! We found some errors"
+#~ msgstr "Aduuh! Kami menemukan kesalahan"
+
+#~ msgid "please check the error messages below and try again"
+#~ msgstr "Harap periksa pesan dibawah dan coba ulang"
+
+#~ msgid "previous"
+#~ msgstr "Sebelumnya"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Page %(page_num)s of %(total_pages)s\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                Halaman %(page_num)s dari %(total_pages)s\n"
+#~ "            "
+
+#~ msgid "next"
+#~ msgstr "Selanjutnya"
+
+#~ msgid ""
+#~ "\n"
+#~ "User %(user_name)s was unlinked from %(partner_name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Pengguna %(user_name)s diputus dari %(partner_name)s.\n"
+
+#~ msgid "Undo"
+#~ msgstr "Kembali"
+
+#~ msgid "Delete partner"
+#~ msgstr "Hapus rekan"
+
+#~ msgid "Are you sure you want to delete this partner?"
+#~ msgstr "Apakah anda yakin ingin menghapus rekan ini?"
+
+#~ msgid "Edit the user's details"
+#~ msgstr "Ubah detail pengguna"
+
+#~ msgid "No users associated."
+#~ msgstr "Tidak ada pengguna terkait"
+
+#~ msgid "No address associated."
+#~ msgstr "Tidak ada alamat terkait"
+
+#~ msgid "Manage partner and users"
+#~ msgstr "Mengatur rekan dan pengguna"
+
+#~ msgid "Link an existing user"
+#~ msgstr "Menghubungkan pengguna yang ada"
+
+#~ msgid "Link a new user"
+#~ msgstr "Menghubungkan pengguna baru"
+
+#~ msgid "No partners found."
+#~ msgstr "Tidak ada rekan yang ditemukan"
+
+#~ msgid "Unlinking..."
+#~ msgstr "Membatalkan hubungan"
+
+#~ msgid "Unlink user"
+#~ msgstr "Pengguna tidak terhubung"
+
+#~ msgid "No users linked."
+#~ msgstr "Tidak ada pengguna terhubung"
+
+#~ msgid "Link a user"
+#~ msgstr "Hubung ke seorang pengguna"
+
+#~ msgid "Manage users"
+#~ msgstr "mengatur pengguna"
+
+#~ msgid "Update details"
+#~ msgstr "Memperbaharui detail"
+
+#~ msgid ""
+#~ "A partial email address can be entered (eg '@example.com') to match "
+#~ "multiple addresses."
+#~ msgstr ""
+#~ "Masukkan bagian dari alamat email (eg '@example.com') untuk mencocokan "
+#~ "beberapa alamat email."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                User is already linked to "
+#~ "%(name)s.\n"
+#~ "                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "                                                Pengguna telah "
+#~ "dihubungkan ke  %(name)s.\n"
+#~ "                                            "
+
+#~ msgid "Linking..."
+#~ msgstr "Menghubungkan"
+
+#~ msgid "Link user"
+#~ msgstr "Tautan pengguna"
+
+#~ msgid "No users found."
+#~ msgstr "Nama pengguna tidak ditemukan."
+
+#~ msgid "Delete content block '%(name)s'?\""
+#~ msgstr "Hapus blok konten '%(name)s'?\""
+
+#~ msgid "Delete content block"
+#~ msgstr "Menghapus blok konten"
+
+#~ msgid ""
+#~ "Delete %(object.type)s content block <strong>%(object.name)s</strong> - "
+#~ "are you sure?"
+#~ msgstr ""
+#~ "Hapus %(object.type)s blok konten <strong>%(object.name)s</strong> - Anda "
+#~ "yakin?"
+
+#~ msgid "Remove promotion from page?"
+#~ msgstr "Hilangkan promosi pada halaman?"
+
+#~ msgid "Remove promotion"
+#~ msgstr "Hilangkan promosi"
+
+#~ msgid ""
+#~ "Remove %(object.content_object.type)s content block <strong>%(object."
+#~ "name)s</strong> from page <strong>%(object.page_url)s</strong> - are you "
+#~ "sure?"
+#~ msgstr ""
+#~ "Hapus %(object.content_object.type)s block konten <strong>%(object."
+#~ "name)s</strong> dari halaman <strong>%(object.page_url)s</strong> - Anda "
+#~ "yakin?"
+
+#~ msgid "Content block"
+#~ msgstr "Konten blok"
+
+#~ msgid "Pages displaying this content blocks"
+#~ msgstr "Halaman menampilkan konten blok ini"
+
+#~ msgid "Position on page"
+#~ msgstr "Posisi pada halaman"
+
+#~ msgid "View all blocks on this page"
+#~ msgstr "Menampilkan semua blok pada halaman ini"
+
+#~ msgid "Remove from page"
+#~ msgstr "Hilangkan dari halaman"
+
+#~ msgid "This promotion is not displayed anywhere at the moment."
+#~ msgstr "Promosi ini tidak ditampilkan dimanapun pada saat ini."
+
+#~ msgid "Add to a page"
+#~ msgstr "Tambahkan pada sebuah halaman"
+
+#~ msgid "Add to page"
+#~ msgstr "Tambahkan pada halaman"
+
+#~ msgid "Content blocks for page %(page_url)s"
+#~ msgstr "Blok konten untuk halaman %(page_url)s"
+
+#~ msgid "Content blocks on page '%(page_url)s'"
+#~ msgstr "Blok conten untuk halaman '%(page_url)s'"
+
+#~ msgid "Edit promotions in position '%(name)s'"
+#~ msgstr "Ubah promosi dalam posisi '%(name)s'"
+
+#~ msgid "Promotion Name"
+#~ msgstr "Nama promosi"
+
+#~ msgid "Change display order"
+#~ msgstr "Mengubah tampilan pesanan"
+
+#~ msgid "No promotions in this position."
+#~ msgstr "Tidak ada promosi dalam posisi ini"
+
+#~ msgid "Pages with content blocks"
+#~ msgstr "Halaman dengan konten blok"
+
+#~ msgid "View by page"
+#~ msgstr "Menampilkan dengan halaman"
+
+#~ msgid "View all content blocks"
+#~ msgstr "Menampilkan semua konten blok"
+
+#~ msgid "View content blocks by page"
+#~ msgstr "Menampilkan konten blok dengan halaman"
+
+#~ msgid "Pages with content blocks on them"
+#~ msgstr "Halaman dengan konten blok"
+
+#~ msgid "Number of content blocks"
+#~ msgstr "Jumlah dari konten blok"
+
+#~ msgid "No content blocks found."
+#~ msgstr "Tidak ada konten blok yang ditemukan"
+
+#~ msgid "Create a new content block"
+#~ msgstr "Membuat konten blok baru"
+
+#~ msgid "Creating..."
+#~ msgstr "Membuat..."
+
+#~ msgid "Create block"
+#~ msgstr "Membuat blok"
+
+#~ msgid "Number of times used"
+#~ msgstr "Jumlah dari waktu yang digunakan"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>File <strong>%(filename)s</strong> processed.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "    <p>File <strong>%(filename)s</strong> diproses...</p>\n"
+
+#~ msgid "Edit range metadata"
+#~ msgstr "Ubah kisaran metadata"
+
+#~ msgid "Return to ranges homepage"
+#~ msgstr "Kembali ke halaman utama baris"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>Range <strong>%(name)s</strong> saved.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Baris <strong>%(name)s</strong> disimpan.</p>\n"
+
+#~ msgid "Edit included products"
+#~ msgstr "Ubah termasuk produk"
+
+#~ msgid "Delete range '%(name)s'?"
+#~ msgstr "Hapus kisaran '%(name)s'?"
+
+#~ msgid "Are you sure you want to delete this range?"
+#~ msgstr "Apakah kamu yakin ingin menghapus baris ini?"
+
+#~ msgid "Create new range"
+#~ msgstr "Buat baris baru"
+
+#~ msgid "Save and edit products"
+#~ msgstr "Simpan dan ubah produk"
+
+#~ msgid "Num products"
+#~ msgstr "Nomor produk"
+
+#~ msgid "Edit products"
+#~ msgstr "Mengubah produk"
+
+#~ msgid "No ranges found."
+#~ msgstr "Tidak ada baris yang ditemukan."
+
+#~ msgid "Products in range '%(name)s'"
+#~ msgstr "Produk dalam kisaran '%(name)s'"
+
+#~ msgid "products"
+#~ msgstr "produk"
+
+#~ msgid ""
+#~ "This range contains all products. To add products manually, please "
+#~ "unselect the 'Includes All Products' option on the edit range page."
+#~ msgstr ""
+#~ "Baris ini termasuk semua produk. untuk menambahkan produk secara manual, "
+#~ "harap batalkan pilihan'termasuk semua produk' pada halaman pengubahan."
+
+#~ msgid "Add products"
+#~ msgstr "menambah produk"
+
+#~ msgid "Running..."
+#~ msgstr "Menjalankan"
+
+#~ msgid "Upload history"
+#~ msgstr "Mengunggah sejarah"
+
+#~ msgid "Filename"
+#~ msgstr "Nama file"
+
+#~ msgid "New products"
+#~ msgstr "Produk baru"
+
+#~ msgid "Duplicate products"
+#~ msgstr "Menggandakan produk"
+
+#~ msgid "Unknown products"
+#~ msgstr "Produk yang tidak diketahui"
+
+#~ msgid "Date uploaded"
+#~ msgstr "Tanggal diunggah"
+
+#~ msgid "Products in range"
+#~ msgstr "Produk dalam baris"
+
+#~ msgid "Remove selected products"
+#~ msgstr "Menghapus produk pilihan"
+
+#~ msgid "Is product discountable?"
+#~ msgstr "Apakah produk ini dapat didiskon?"
+
+#~ msgid "Products in Range"
+#~ msgstr "Produk dalam baris"
+
+#~ msgid "Edit range"
+#~ msgstr "Ubah baris"
+
+#~ msgid "return to range list"
+#~ msgstr "Kembali ke daftar baris"
+
+#~ msgid "Reporting Dashboard"
+#~ msgstr "Papan laporan"
+
+#~ msgid "Reporting dashboard"
+#~ msgstr "Papan laporan"
+
+#~ msgid "Generating..."
+#~ msgstr "Menghasilkan"
+
+#~ msgid "Generate report"
+#~ msgstr "Mennghasilkan laporan"
+
+#~ msgid "No results found."
+#~ msgstr "Tidak ada hasil yang ditemukan"
+
+#~ msgid "No vouchers were used in this period"
+#~ msgstr "Tidak ada kupon yang dipakai dalam periode ini"
+
+#~ msgid "Delete review '%(title)s'?"
+#~ msgstr "Menghapus ulasan '%(title)s'?"
+
+#~ msgid "Delete review \"%(title)s\"?"
+#~ msgstr "Hapus ulasan \"%(title)s\"?"
+
+#~ msgid "Review"
+#~ msgstr "Ulasan"
+
+#~ msgid "Review Search"
+#~ msgstr "Mencari ulasan"
+
+#~ msgid "Update status of selected reviews"
+#~ msgstr "Memperbaharui status dari ulasan yang dipilih"
+
+#~ msgctxt "Review title"
+#~ msgid "Title"
+#~ msgstr "Judul"
+
+#~ msgid "[Product deleted]"
+#~ msgstr "[Produk dihapus]"
+
+#~ msgid "No reviews found."
+#~ msgstr "Tidak ada ulasan ditemukan"
+
+#~ msgid "Update review"
+#~ msgstr "Memperbaharui ulasan"
+
+#~ msgid "Review #%(review.id)s"
+#~ msgstr "Ulasan #%(review.id)s"
+
+#~ msgid "Review information"
+#~ msgstr "Informasi ulasan"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>A weight band has been added to the <strong>%(name)s</strong> "
+#~ "shipping method.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "    <p>Berat kotor telah ditambahkan ke <strong>%(name)s</strong> Metode "
+#~ "pengiriman.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>Weight band deleted from the <strong>%(name)s</strong> shipping "
+#~ "method \n"
+#~ msgstr ""
+#~ "\n"
+#~ "    <p>Berat kotor dihapus dari <strong>%(name)s</strong> metode "
+#~ "pengiriman \n"
+
+#~ msgid "Weight band updated"
+#~ msgstr "Berat kotor diperbaharui"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>A shipping method <strong>%(name)s</strong> has been created.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Metode pengiriman <strong>%(name)s</strong> dibuat...</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been deleted.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "    <p>Metode pengiriman <strong>%(name)s</strong> telah dihapus.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been updated.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "    <p>Metode pengiriman <strong>%(name)s</strong> telah diperbaharui.</"
+#~ "p>\n"
+
+#~ msgid "Delete weight band?"
+#~ msgstr "Menghapus berat kotor"
+
+#~ msgid "Shipping methods"
+#~ msgstr "Metode pengiriman"
+
+#~ msgid "Weight range (kg)"
+#~ msgstr "Kisaran berat (kg)"
+
+#~ msgid "Are you sure you want to delete this weight band method?"
+#~ msgstr "Apakah kamu yakin ingin menghapus metode berat kotor"
+
+#~ msgid "Edit weight band"
+#~ msgstr "Mengubah berat kotor"
+
+#~ msgid "Delete shipping method '%(name)s'?"
+#~ msgstr "Hapus pengiriman dengan '%(name)s'?"
+
+#~ msgid "Are you sure you want to delete this shipping method?"
+#~ msgstr "Apakah kamu yakin ingin menghapus metode pengiriman ini?"
+
+#~ msgid "Applies to countries"
+#~ msgstr "Berlaku untuk negara-negara"
+
+#~ msgid "Default product weight (kg)"
+#~ msgstr "Berat produk bawaan (kg)"
+
+#~ msgid "Edit shipping method"
+#~ msgstr "Mengubah metode pengiriman"
+
+#~ msgid "Delete shipping method"
+#~ msgstr "Menghapus metode pengiriman"
+
+#~ msgid "Weight bands"
+#~ msgstr "Berat kotor"
+
+#~ msgid "No weight bands have been added yet."
+#~ msgstr "Belum ada berat kotor yang ditambahkan"
+
+#~ msgid "Add a new weight band"
+#~ msgstr "Memnambah berat kotor yang baru"
+
+#~ msgid "Add weight band"
+#~ msgstr "Menambah berat kotor)"
+
+#~ msgid "Create a new shipping method"
+#~ msgstr "Membuat metode pengiriman yang baru"
+
+#~ msgid "Create new shipping charge"
+#~ msgstr "Membuat biaya pengiriman yang baru"
+
+#~ msgid "Number of weight bands"
+#~ msgstr "Nomor dari berat kotor"
+
+#~ msgid "Default weight (kg)"
+#~ msgstr "Berat bawaan"
+
+#~ msgid "No shipping methods found."
+#~ msgstr "Metode pengiriman tidak ditemukan"
+
+#~ msgid "Alert #%(id)s"
+#~ msgstr "Pemberitahuan #%(id)s"
+
+#~ msgid "Delete alert #%(id)s?"
+#~ msgstr "Hapus pemeritahuan #%(id)s?"
+
+#~ msgid "Product alert #%(id)s"
+#~ msgstr "Pemberitahuan produk #%(id)s"
+
+#~ msgid "Are you sure that you want to delete this alert?"
+#~ msgstr "Apakah kamu yakin ingin menghapus peringatan ini?"
+
+#~ msgid "Search product alerts"
+#~ msgstr "Mencari peringatan produk"
+
+#~ msgid "reset"
+#~ msgstr "Mengulang"
+
+#~ msgid "Date alert sent"
+#~ msgstr "Tanggal peringatan terkirim"
+
+#~ msgid "(Anonymous)"
+#~ msgstr "(tidak dikenal)"
+
+#~ msgid "No alerts found."
+#~ msgstr "Tidak ada peringatan"
+
+#~ msgid "Update alert #%(id)s"
+#~ msgstr "pemberitahuan pembaruan #%(id)s"
+
+#~ msgid "General"
+#~ msgstr "Umum"
+
+#~ msgid "Yes,No"
+#~ msgstr "iya, tidak"
+
+#~ msgid "Superuser"
+#~ msgstr "Pengguna hebat"
+
+#~ msgid "True,False"
+#~ msgstr "Benar,Salah"
+
+#~ msgid "Staff"
+#~ msgstr "Pegawai"
+
+#~ msgid "Last login"
+#~ msgstr "Terakhir masuk"
+
+#~ msgid "Date joined"
+#~ msgstr "Tanggal bergabung"
+
+#~ msgid "Products viewed"
+#~ msgstr "Produk yang dilihat"
+
+#~ msgid "Number of orders"
+#~ msgstr "Nomor orderan"
+
+#~ msgid "Number of ordered items"
+#~ msgstr "Nomor dari barang pesanan"
+
+#~ msgid "Reviews written"
+#~ msgstr "Ulasan yang ditulis"
+
+#~ msgid "Send password reset email"
+#~ msgstr "Mengirim email mengganti ulang kata sandi"
+
+#~ msgid "Order Number"
+#~ msgstr "Nomor orderan"
+
+#~ msgid "Total value"
+#~ msgstr "Nilai total"
+
+#~ msgid "This customer has not placed any orders yet."
+#~ msgstr "Pelanggan ini belum membuat pesanan apapun"
+
+#~ msgid "This customer has not saved any addresses."
+#~ msgstr "Pelanggan ini belum ada menyimpan alamat apapun"
+
+#~ msgid "Product ID"
+#~ msgstr "ID produk"
+
+#~ msgid "This customer has not written any reviews yet."
+#~ msgstr "Pelanggan ini belum ada menuliskan ulasan apapun "
+
+#~ msgid "No customers found."
+#~ msgstr "Tidak ada pelanggan yang ditemukan"
+
+#~ msgid "Bulk Actions"
+#~ msgstr "Tindakan yang besar"
+
+#~ msgid "With selected customers:"
+#~ msgstr "Dengan pelanggan yang terpilih"
+
+#~ msgid "Make active"
+#~ msgstr "Membuat aktif"
+
+#~ msgid "Make inactive"
+#~ msgstr "Menonaktifkan"
+
+#~ msgid "Delete voucher '%(name)s'?"
+#~ msgstr "Hapus voucher '%(name)s'?"
+
+#~ msgid "Voucher details"
+#~ msgstr "bagian-bagian kupon"
+
+#~ msgid "Number of basket additions"
+#~ msgstr "Nomor dari penambahan keranjang"
+
+#~ msgid "Recent orders"
+#~ msgstr "Pesanan terbaru"
+
+#~ msgid "No orders have been placed that use this voucher."
+#~ msgstr "Tidak ada pesanan yang ditempatkan yang menggunakan kupon ini"
+
+#~ msgid "Edit voucher"
+#~ msgstr "Mengubah kupon"
+
+#~ msgid "Create new voucher"
+#~ msgstr "Membuat kupon baru"
+
+#~ msgid "Num baskets"
+#~ msgstr "Nomor keranjang"
+
+#~ msgid "Num orders"
+#~ msgstr "Nomor orderan"
+
+#~ msgid "Inactive"
+#~ msgstr "menonaktifkan"
+
+#~ msgid "No vouchers found."
+#~ msgstr "Tidak ada kupon ditemukan"
+
+#~ msgid "Sorry!"
+#~ msgstr "Maaf!"
+
+#~ msgid "Return to previous page"
+#~ msgstr "Kembali ke halaman sebelumnya"
+
+#~ msgid "Go to homepage"
+#~ msgstr "Pergi ke halaman utama"
+
+#~ msgid "Edit this page"
+#~ msgstr "Ubah halaman ini"
+
+#~ msgid "thumbnail"
+#~ msgstr "preview gambar"
+
+#~ msgid "Unrecognized image type!"
+#~ msgstr "Tipe gambar yang tidak terkenali"
+
+#~ msgid "Upload Image"
+#~ msgstr "Mengunggah gambar"
+
+#~ msgid "This page is only available to users who aren't logged in."
+#~ msgstr "Halaman ini hanya tersedia bagi penggun yang tidak masuk"
+
+#~ msgid " This offer is no longer available."
+#~ msgstr "Penawaran ini tidak lagi tersedia"
+
+#~ msgid "What you need to do"
+#~ msgstr "Apa yang harus anda lakukan"
+
+#~ msgid "There are no site offers at the moment."
+#~ msgstr "Tidak ada situs penawaran"
+
+#~ msgid "Browse products in offer"
+#~ msgstr "Menjelajah produk dalam penawaran"
+
+#~ msgid "See more"
+#~ msgstr "Lihat lebih banyak"
+
+#~ msgid "Password reset complete"
+#~ msgstr "Mengatur ulang kata sandi selesai"
+
+#~ msgid "Password reset"
+#~ msgstr "Mengatur ulang kata sandi"
+
+#~ msgid "Complete"
+#~ msgstr "selesai"
+
+#~ msgid "Your password has been set.  You may go ahead and log in now."
+#~ msgstr "Kata sandi anda telah diatur. Anda bisa mulai dan masuk sekarang"
+
+#~ msgid "Log in"
+#~ msgstr "masuk"
+
+#~ msgid "Enter a new password"
+#~ msgstr "Memasukkan kata sandi baru"
+
+#~ msgid ""
+#~ "Please enter your new password twice so we can verify you typed it in "
+#~ "correctly."
+#~ msgstr ""
+#~ "Harap memasukkan kata sandi baru dua kali jadi kita bisa memverifikasi "
+#~ "yang anda ketik"
+
+#~ msgid "Change my password"
+#~ msgstr "Mengubah kata sandi saya"
+
+#~ msgid "Password reset unsuccessful"
+#~ msgstr "Pengubahan kata sandi tidak berhasil"
+
+#~ msgid ""
+#~ "The password reset link was invalid, possibly because it has already been "
+#~ "used.  Please request a new password reset."
+#~ msgstr "Harap meminta pengubahan kata sandi baru"
+
+#~ msgid "Password reset email sent"
+#~ msgstr "Mengulang kata sandi email terkirim"
+
+#~ msgid "Email sent"
+#~ msgstr "Email terkirim"
+
+#~ msgid ""
+#~ "\n"
+#~ "        We've e-mailed you instructions for resetting your password. You "
+#~ "should be receiving it shortly.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        Kami telah mengirimkan instruksi untuk mengubah kembali kata "
+#~ "sandi anda. \n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "        If you don't receive an email, please make sure you've entered "
+#~ "the address you registered with, and check\n"
+#~ "        your spam folder.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "       Jika tidak menerima sebuah email, Silahkan pastikan Anda telah "
+#~ "memasukkan email yang ter-registrasi dan periksa\n"
+#~ "       juga spam folder Anda."
+
+#~ msgid ""
+#~ "Forgotten your password? Enter your e-mail address below, and we'll e-"
+#~ "mail instructions for setting a new one."
+#~ msgstr ""
+#~ "Lupa password? Masukkan email dan kami akan mengirim email tentang "
+#~ "instruksi untuk mengatur yang baru"
+
+#~ msgid "Send reset email"
+#~ msgstr "Kirim email reset password"
+
+#~ msgid "Refine your search"
+#~ msgstr "Memperbaiki pencarian"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Products matching \"%(q)s\"\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        Produk yang cocok \"%(q)s\"\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Found <strong>%(num_results)s</strong> results, "
+#~ "showing <strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                   Menemukan <strong>%(num_results)s</strong> hasil, "
+#~ "menampilkan <strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+
+#~ msgid "Found <strong>0</strong> results."
+#~ msgstr "Menemukan <kuat>0</kuat> hasil"
+
+#~ msgid ""
+#~ "\n"
+#~ "                        Did you mean <a href=\"%(search_url)s?q="
+#~ "%(suggestion)s\">\"%(suggestion)s\"</a>?\n"
+#~ "                    "
+#~ msgstr ""
+#~ "\n"
+#~ "                 yang Anda maksud <a href=\"%(search_url)s?q="
+#~ "%(suggestion)s\">\"%(suggestion)s\"</a>?\n"
+#~ "                    "
+
+#~ msgid "Back to search results"
+#~ msgstr "Kembali ke hasil pencarian"
+
+#~ msgid "You need to select some %ss"
+#~ msgstr "Anda perlu memilih beberapa %ss"

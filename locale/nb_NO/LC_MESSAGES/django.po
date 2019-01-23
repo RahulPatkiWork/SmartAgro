@@ -1,0 +1,1849 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Bjørn Christian Moland <christianmoland@gmail.com>, 2017
+# Erlend Dalen <erlend.dalen@gmail.com>, 2015
+# Tommy Strand <transifex@ireality.no>, 2013
+# Petter Sjulstad <petter.sjulstad@gmail.com>, 2016
+# Tommy Strand <transifex@ireality.no>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-11 08:36+0000\n"
+"Last-Translator: Oscar Bot <maik.hoepfel@tangentsnowball.com>\n"
+"Language-Team: Norwegian Bokmål (Norway) (http://www.transifex.com/"
+"codeinthehole/django-oscar/language/nb_NO/)\n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr "Instrumentpanel"
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr "Katalog"
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "Produkter"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr "Produkt typer"
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "Kategorier"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr "Utvalg"
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr "Lav lagerstatus varsel"
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr "Alternativ"
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr "Oppfyllelse"
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "Ordre"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr ""
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr ""
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr ""
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr ""
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr ""
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "Kuponger"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr ""
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr ""
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr ""
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr ""
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr ""
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr ""
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr ""
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr "Type"
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr "Rangering"
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr ""
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr ""
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr ""
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr ""
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr ""
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+#, fuzzy
+#| msgid "Catalogue"
+msgid "Catalan"
+msgstr "Katalog"
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+msgid "German"
+msgstr ""
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr ""
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "Handlekurv"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr ""
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "Alle varer"
+
+#~ msgid "Mr"
+#~ msgstr "Hr"
+
+#~ msgid "Miss"
+#~ msgstr "Frøken"
+
+#~ msgid "Mrs"
+#~ msgstr "Fru"
+
+#~ msgid "Ms"
+#~ msgstr "Ms"
+
+#~ msgid "Dr"
+#~ msgstr "Dr"
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "Tittel"
+
+#~ msgid "First name"
+#~ msgstr "Fornavn"
+
+#~ msgid "Last name"
+#~ msgstr "Etternavn"
+
+#~ msgid "First line of address"
+#~ msgstr "Adresse linje 1"
+
+#~ msgid "Second line of address"
+#~ msgstr "Adresse linje 2"
+
+#~ msgid "Third line of address"
+#~ msgstr "Adresse linje 3"
+
+#~ msgid "City"
+#~ msgstr "By"
+
+#~ msgid "State/County"
+#~ msgstr "Fylke"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "Postnummer"
+
+#~ msgid "Country"
+#~ msgstr "Land"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "Søke tekst - kun i bruk for adressesøk"
+
+#~ msgid "Address"
+#~ msgstr "Adresse"
+
+#~ msgid "Addresses"
+#~ msgstr "Adresser"
+
+#~ msgid "Addresses in %(country)s require a valid postcode"
+#~ msgstr "Adresser i %(country)s krever et gyldig postnummer"
+
+#~ msgid "The postcode '%(postcode)s' is not valid for %(country)s"
+#~ msgstr "Postnummeret '%(postcode)s' er ikke gyldig for %(country)s"
+
+#~ msgid "ISO 3166-1 alpha-2"
+#~ msgstr "ISO 3166-1 alpha-2"
+
+#~ msgid "ISO 3166-1 alpha-3"
+#~ msgstr "ISO 3166-1 alpha-3"
+
+#~ msgid "ISO 3166-1 numeric"
+#~ msgstr "ISO 3166-1 numerisk"
+
+#~ msgid "Country name"
+#~ msgstr "Land"
+
+#~ msgid "Official name"
+#~ msgstr "Offisielt navn"
+
+#~ msgid "Display order"
+#~ msgstr "Rekkefølge for visning"
+
+#~ msgid "Higher the number, higher the country in the list."
+#~ msgstr "Landet kommer høyere i opp i liste jo høyere tallet er."
+
+#~ msgid "Is shipping country"
+#~ msgstr "Er land brukt for frakt"
+
+#~ msgid "Countries"
+#~ msgstr "Land"
+
+#~ msgid "Phone number"
+#~ msgstr "Telefonnummer"
+
+#~ msgid "In case we need to call you about your order"
+#~ msgstr "I tilfelle vi trenger å ringe deg ang. din ordre"
+
+#~ msgid "Instructions"
+#~ msgstr "Instruksjoner"
+
+#~ msgid "Tell us anything we should know when delivering your order."
+#~ msgstr "Fortell oss om det er noe vi bør vite ang. leveranse av din ordre."
+
+#~ msgid "Shipping address"
+#~ msgstr "Leveranse adresse"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "Leveranse adresser"
+
+#~ msgid "User"
+#~ msgstr "Bruker"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "Standard leveranseadresse?"
+
+#~ msgid "Default billing address?"
+#~ msgstr "Standard fakturaadresse?"
+
+#~ msgid "Address Hash"
+#~ msgstr "Adresse Hash"
+
+#~ msgid "Date Created"
+#~ msgstr "Opprettet dato"
+
+#~ msgid "User address"
+#~ msgstr "Brukeradresse"
+
+#~ msgid "User addresses"
+#~ msgstr "Brukeradresser"
+
+#~ msgid "This address is already in your address book"
+#~ msgstr "Denne adressen er allerede i din adressebok"
+
+#~ msgid "Billing address"
+#~ msgstr "Fakturaadresse"
+
+#~ msgid "Billing addresses"
+#~ msgstr "Fakturaadresser"
+
+#~ msgid "Partner"
+#~ msgstr "Partner"
+
+#~ msgid "Partner address"
+#~ msgstr "Partneradresse"
+
+#~ msgid "Partner addresses"
+#~ msgstr "Partneradresser"
+
+#~ msgid "Product"
+#~ msgstr "Produkt"
+
+#~ msgid "Views"
+#~ msgstr "Visninger"
+
+#~ msgid "Basket Additions"
+#~ msgstr "Lagt til i handlekurven"
+
+#~ msgid "Purchases"
+#~ msgstr "Kjøp"
+
+#~ msgid "Score"
+#~ msgstr "Skår"
+
+#~ msgid "Product record"
+#~ msgstr "Vareoppføring"
+
+#~ msgid "Product records"
+#~ msgstr "Vareoppføringer"
+
+#~ msgid "Record for '%s'"
+#~ msgstr "Oppføring for '%s'"
+
+#~ msgid "Product Views"
+#~ msgstr "Vare visninger"
+
+#~ msgid "Order Lines"
+#~ msgstr "Ordrelinjer"
+
+#~ msgid "Order Items"
+#~ msgstr "Varer i ordre"
+
+#~ msgid "Total Spent"
+#~ msgstr "Totalt brukt"
+
+#~ msgid "Last Order Date"
+#~ msgstr "Siste ordredato"
+
+#~ msgid "User record"
+#~ msgstr "Brukeroppføring"
+
+#~ msgid "User records"
+#~ msgstr "Brukeroppføringer"
+
+#~ msgid "User product view"
+#~ msgstr "Bruker vare visning"
+
+#~ msgid "User product views"
+#~ msgstr "Bruker vare visninger"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "%(user)s har sett '%(product)s'"
+
+#~ msgid "Search term"
+#~ msgstr "Søkeord"
+
+#~ msgid "User search query"
+#~ msgstr "Brukersøk"
+
+#~ msgid "User search queries"
+#~ msgstr "Brukersøk"
+
+#~ msgid "%(user)s searched for '%(query)s'"
+#~ msgstr "%(user)s har søkt for '%(query)s'"
+
+#~ msgid "Analytics"
+#~ msgstr "Analyser"
+
+#~ msgid "Basket additions"
+#~ msgstr "Lagt til i handlevogn"
+
+#~ msgid "Product analytics"
+#~ msgstr "Vareanalyser"
+
+#~ msgid "Name"
+#~ msgstr "Navn"
+
+#~ msgid "Date registered"
+#~ msgstr "Registreringsdato"
+
+#~ msgid "Product views"
+#~ msgstr "Varevisninger"
+
+#~ msgid "Order lines"
+#~ msgstr "Ordrelinjer"
+
+#~ msgid "Order items"
+#~ msgstr "Varer i ordre"
+
+#~ msgid "Total spent"
+#~ msgstr "Totalt brukt"
+
+#~ msgid "Date of last order"
+#~ msgstr "Dato for siste ordre"
+
+#~ msgid "User analytics"
+#~ msgstr "Brukeranalyse"
+
+#~ msgid "Owner"
+#~ msgstr "Eier"
+
+#~ msgid "Open - currently active"
+#~ msgstr "Åpen - aktiv"
+
+#~ msgid "Merged - superceded by another basket"
+#~ msgstr "Lagt sammen - erstattet av en annen handlekurv"
+
+#~ msgid "Saved - for items to be purchased later"
+#~ msgstr "Lagret - slik at varer kan handles senere"
+
+#~ msgid "Frozen - the basket cannot be modified"
+#~ msgstr "Fryst - handlekurven kan ikke endres"
+
+#~ msgid "Submitted - has been ordered at the checkout"
+#~ msgstr "Sendt inn - er bestilt ved kassen"
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Date created"
+#~ msgstr "Opprettet dato"
+
+#~ msgid "Date merged"
+#~ msgstr "Lagt sammen dato"
+
+#~ msgid "Date submitted"
+#~ msgstr "Innsendt dato"
+
+#~ msgid "Baskets"
+#~ msgstr "Handlekurver"
+
+#~ msgid "%(status)s basket (owner: %(owner)s, lines: %(num_lines)d)"
+#~ msgstr "%(status)s handlekurv (eier: %(owner)s, linjer: %(num_lines)d)"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order."
+#~ msgstr ""
+#~ "Grunnet tekniske begrensninger kan vi ikke sende mer enn enn "
+#~ "%(threshold)d varer i en ordre."
+
+#~ msgid "Line Reference"
+#~ msgstr "Linje referanse"
+
+#~ msgid "Quantity"
+#~ msgstr "Antall"
+
+#~ msgid "Currency"
+#~ msgstr "Valuta"
+
+#~ msgid "Price excl. Tax"
+#~ msgstr "Pris eks. mva"
+
+#~ msgid "Price incl. Tax"
+#~ msgstr "Pris inkl. mva"
+
+#~ msgid "Basket line"
+#~ msgstr "Handlekurv linje"
+
+#~ msgid "Basket lines"
+#~ msgstr "Handlekurv linjer"
+
+#~ msgid ""
+#~ "Basket #%(basket_id)d, Product #%(product_id)d, quantity %(quantity)d"
+#~ msgstr "Handlekurv #%(basket_id)d, Vare#%(product_id)d, antall%(quantity)d"
+
+#~ msgid "You cannot modify a %s basket"
+#~ msgstr "Du kan ikke endre en %s basket"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has increased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "Prisen på '%(product)s' har økt fra %(old_price)s til %(new_price)s siden "
+#~ "du la den til i handlekurven"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has decreased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "Prisen på '%(product)s' er redusert fra %(old_price)s til %(new_price)s "
+#~ "siden du la den til i handlekurven"
+
+#~ msgid "Line"
+#~ msgstr "Linje"
+
+#~ msgid "Option"
+#~ msgstr "Alternativ"
+
+#~ msgid "Value"
+#~ msgstr "Verdi"
+
+#~ msgid "Line attribute"
+#~ msgstr "Linje attributt"
+
+#~ msgid "Line attributes"
+#~ msgstr "Linje attributter"
+
+#~ msgid "Save for Later"
+#~ msgstr "Lagret til siden"
+
+#~ msgid "Move to Basket"
+#~ msgstr "Flyttet til handlekurven"
+
+#~ msgid "Code"
+#~ msgstr "kode"
+
+#~ msgid "Variant"
+#~ msgstr "Variant"
+
+#~ msgid "Please select a valid product"
+#~ msgstr "Vennligst velg en gyldig vare"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order. Your basket currently has %(basket)d "
+#~ "items."
+#~ msgstr ""
+#~ "Grunnet tekniske begrensninger kan vi ikke sende mer enn %(threshold)d "
+#~ "varer i en ordre. Din handlekurv har %(basket)d varer."
+
+#~ msgid ""
+#~ "This product cannot be added to the basket as its currency isn't the same "
+#~ "as other products in your basket"
+#~ msgstr ""
+#~ "Denne varen kan ikke legges til i handlekurven da varens valutakode ikke "
+#~ "er den samme som de andre varene i handlekurven din"
+
+#~ msgid ""
+#~ "We have merged a basket from a previous session. Its contents might have "
+#~ "changed."
+#~ msgstr ""
+#~ "Vi har fusjonert en handlekurv fra en tidligere sesjon. Innholdet kan ha "
+#~ "blitt endret."
+
+#~ msgid "User ID"
+#~ msgstr "Bruker ID"
+
+#~ msgid "Email"
+#~ msgstr "E-post"
+
+#~ msgid "Basket status"
+#~ msgstr "Brukerstatus"
+
+#~ msgid "Num lines"
+#~ msgstr "Antall linjer"
+
+#~ msgid "Num items"
+#~ msgstr "Antall varer"
+
+#~ msgid "Date of creation"
+#~ msgstr "Opprettet dato"
+
+#~ msgid "Time since creation"
+#~ msgstr "Tid siden opprettelse"
+
+#~ msgid "Open baskets"
+#~ msgstr "Åpne handlekurver"
+
+#~ msgid "Time between creation and submission"
+#~ msgstr "Tid fra opprettelse til innsending"
+
+#~ msgid "Submitted baskets"
+#~ msgstr "Innsendte handlekurver"
+
+#~ msgid "You can't save an item for later if you're not logged in!"
+#~ msgstr "Du kan ikke lagre en vare til senere om du ikke er innlogget!!"
+
+#~ msgid ""
+#~ "Your basket couldn't be updated. Please correct any validation errors "
+#~ "below."
+#~ msgstr ""
+#~ "Din handlekurv kunne ikke bli oppdatert. Vennligst korriger "
+#~ "valideringsmeldinger under."
+
+#~ msgid "The '%(code)s' voucher has expired"
+#~ msgstr "'%(code)s' kupong har utgått"
+
+#~ msgid "The '%(code)s' voucher is not active"
+#~ msgstr "'%(code)s' kupongen er ikke aktiv  "
+
+#~ msgid "Your basket does not qualify for a voucher discount"
+#~ msgstr "Din handlekurv kvalifiserer ikke for noen kupong-rabatt"
+
+#~ msgid "Voucher '%(code)s' added to basket"
+#~ msgstr "Kupongen '%(code)s' lagt til handlekurven"
+
+#~ msgid "You have already added the '%(code)s' voucher to your basket"
+#~ msgstr "Du har allerede lagt til kupongen '%(code)s' til handlekurven"
+
+#~ msgid "No voucher found with code '%(code)s'"
+#~ msgstr "Ingen kupong med kode '%(code)s' funnet"
+
+#~ msgid "Please enter a voucher code"
+#~ msgstr "Vennligst tast inn en kopongkode"
+
+#~ msgid "Voucher '%s' removed from basket"
+#~ msgstr "Kupong '%s' fjernet fra handlekurven"
+
+#~ msgid "Slug"
+#~ msgstr "Slug"
+
+#~ msgid "Requires shipping?"
+#~ msgstr "Krever levering?"
+
+#~ msgid "Track stock levels?"
+#~ msgstr "Spore lagernivåer?"
+
+#~ msgid "Product class"
+#~ msgstr "Vareklasse"
+
+#~ msgid "Product classes"
+#~ msgstr "Vareklasser"
+
+#~ msgid "Description"
+#~ msgstr "Beskrivelse"
+
+#~ msgid "Image"
+#~ msgstr "Bilde"
+
+#~ msgid "Category"
+#~ msgstr "Kategori"
+
+#~ msgid "Product category"
+#~ msgstr "Varekategori"
+
+#~ msgid "Product categories"
+#~ msgstr "Varekategorier"
+
+#~ msgid "Stand-alone product"
+#~ msgstr "Selvstending vare"
+
+#~ msgid "Parent product"
+#~ msgstr "Hovedvare"
+
+#~ msgid "Child product"
+#~ msgstr "Del-vare"
+
+#~ msgid "Product structure"
+#~ msgstr "Varestruktur"
+
+#~ msgid "UPC"
+#~ msgstr "UPC"
+
+#~ msgid ""
+#~ "Universal Product Code (UPC) is an identifier for a product which is not "
+#~ "specific to a particular  supplier. Eg an ISBN for a book."
+#~ msgstr ""
+#~ "Universell Produkt Kode (UPC) er en identifikator for en vare som ikke er "
+#~ "spesifikk til en gitt leverandør. F.eks. ISBN for en bok."
+
+#~ msgid ""
+#~ "Only choose a parent product if you're creating a child product.  For "
+#~ "example if this is a size 4 of a particular t-shirt.  Leave blank if this "
+#~ "is a stand-alone product (i.e. there is only one version of this product)."
+#~ msgstr ""
+#~ "Bare velg et overliggende produkt hvis du lager et underliggende produkt. "
+#~ "For eksempel; hvis dette er størrelse 4 av en type t-skjorte. La denne "
+#~ "stå blank hvis det er et enkeltstående produkt (for eksempel: det er bare "
+#~ "en versjon av dette produktet)."
+
+#~ msgctxt "Product title"
+#~ msgid "Title"
+#~ msgstr "Tittel"
+
+#~ msgid "Product type"
+#~ msgstr "Varetype"
+
+#~ msgid "Choose what type of product this is"
+#~ msgstr "Velg hvilken type en vare dette er"
+
+#~ msgid "Attributes"
+#~ msgstr "Attributter"
+
+#~ msgid ""
+#~ "A product attribute is something that this product may have, such as a "
+#~ "size, as specified by its class"
+#~ msgstr ""
+#~ "En vare-attributt er noe en vare kan ha, som f.eks. størrelse, og er "
+#~ "spesifisert av vareklassen"
+
+#~ msgid "Product options"
+#~ msgstr "Vare alternativ"
+
+#~ msgid ""
+#~ "Options are values that can be associated with a item when it is added to "
+#~ "a customer's basket.  This could be something like a personalised message "
+#~ "to be printed on a T-shirt."
+#~ msgstr ""
+#~ "Alternativ er verdier som kan bli assosiert med en vare når den legges "
+#~ "til en kundes handlekurv. Dette kan f.eks. være en personlig melding "
+#~ "printet på en T-skjorte."
+
+#~ msgid "Recommended products"
+#~ msgstr "Anbefalte varer"
+
+#~ msgid ""
+#~ "These are products that are recommended to accompany the main product."
+#~ msgstr "Dette er varer som er anbefalt som tillegg til hovedproduktet."
+
+#~ msgid "Date updated"
+#~ msgstr "Oppdatert dato"
+
+#~ msgid "Is discountable?"
+#~ msgstr "Kan den rabatteres?"
+
+#~ msgid "This flag indicates if this product can be used in an offer or not"
+#~ msgstr ""
+#~ "Dette flagget indikerer at varen kan bli brukt i et tilbud eller ikke"
+
+#~ msgid "Your product must have a title."
+#~ msgstr "Varen må ha et navn."
+
+#~ msgid "Your product must have a product class."
+#~ msgstr "Varen må ha en vareklasse."
+
+#~ msgid "Only child products can have a parent."
+#~ msgstr "Kun del-varer kan ha en hovedvare."
+
+#~ msgid "A child product needs a parent."
+#~ msgstr "Kun del-varer trenger en hovedvare."
+
+#~ msgid "You can only assign child products to parent products."
+#~ msgstr "Du kan kun legge del-varer til en hovedvare."
+
+#~ msgid "A child product can't have a product class."
+#~ msgstr "En del-vare kan ikke ha en vareklasse."
+
+#~ msgid "A child product can't have a category assigned."
+#~ msgstr "En del-vare kan ikke ha en kategori."
+
+#~ msgid "A child product can't have options."
+#~ msgstr "En del-vare kan ikke ha alternativ."
+
+#~ msgid "A parent product can't have stockrecords."
+#~ msgstr "En hovedvare kan ikke ha lageroppføringer."
+
+#~ msgid "The specified parent product is a child product."
+#~ msgstr "Den spesifiserte hovedvaren er en del-vare."
+
+#~ msgid "One can't add a child product to a product with stock records."
+#~ msgstr ""
+#~ "Man kan ikke legge til en del-vare til en vare med lageroppføringer."
+
+#~ msgid "Primary product"
+#~ msgstr "Hovedvare"
+
+#~ msgid "Recommended product"
+#~ msgstr "Anbefalt vare"
+
+#~ msgid "Ranking"
+#~ msgstr "Rangering"
+
+#~ msgid ""
+#~ "Determines order of the products. A product with a higher value will "
+#~ "appear before one with a lower ranking."
+#~ msgstr ""
+#~ "Avgjør sortering av varer. En vare med høy verdi vil bli vist før en vare "
+#~ "med en lavere verdi."
+
+#~ msgid "Product recommendation"
+#~ msgstr "Anbefalt vare"
+
+#~ msgid "Product recomendations"
+#~ msgstr "Anbefalte varer"
+
+#~ msgid ""
+#~ "Code can only contain the letters a-z, A-Z, digits, and underscores, and "
+#~ "can't start with a digit."
+#~ msgstr ""
+#~ "Kode kan kun inneholde bokstavene a-z, A-Z, siffer og understrek og kan "
+#~ "ikke begynne med et siffer."
+
+#~ msgid "Text"
+#~ msgstr "Tekst"
+
+#~ msgid "Integer"
+#~ msgstr "Heltall"
+
+#~ msgid "True / False"
+#~ msgstr "Sann / Usann"
+
+#~ msgid "Float"
+#~ msgstr "Kommatall"
+
+#~ msgid "Rich Text"
+#~ msgstr "Rik tekst"
+
+#~ msgid "Date"
+#~ msgstr "Dato"
+
+#~ msgid "Entity"
+#~ msgstr "Entitet"
+
+#~ msgid "File"
+#~ msgstr "Fil"
+
+#~ msgid "Option Group"
+#~ msgstr "Alternativ-gruppe"
+
+#~ msgid "Required"
+#~ msgstr "Påkrevd"
+
+#~ msgid "Product attribute"
+#~ msgstr "Vareattributt"
+
+#~ msgid "Product attributes"
+#~ msgstr "Vareattributter"
+
+#~ msgid "Must be str or unicode"
+#~ msgstr "Må være en tekst."
+
+#~ msgid "Must be a float"
+#~ msgstr "Må være et kommatall"
+
+#~ msgid "Must be an integer"
+#~ msgstr "Må være et heltall"
+
+#~ msgid "Must be a date or datetime"
+#~ msgstr "Må være en dato eller tidspunkt"
+
+#~ msgid "Must be a boolean"
+#~ msgstr "Må være en boolsk verdi"
+
+#~ msgid "Must be a model instance"
+#~ msgstr "Må være en instans av en modell"
+
+#~ msgid "Must be an AttributeOption model object instance"
+#~ msgstr "Må være en instans av modell objektet AttributOption."
+
+#~ msgid "AttributeOption has not been saved yet"
+#~ msgstr "AttributeOption har ikke blitt lagret enda"
+
+#~ msgid "%(enum)s is not a valid choice for %(attr)s"
+#~ msgstr "%(enum)s er ikke et gyldig valg for %(attr)s"
+
+#~ msgid "Must be a file field"
+#~ msgstr "Må være et fil felt"
+
+#~ msgid "Attribute"
+#~ msgstr "Attributt"
+
+#~ msgid "Boolean"
+#~ msgstr "Boolsk verdi"
+
+#~ msgid "Richtext"
+#~ msgstr "Rik tekst"
+
+#~ msgid "Value option"
+#~ msgstr "Valg av alternativ"
+
+#~ msgid "Product attribute value"
+#~ msgstr "Vare attributt verdi"
+
+#~ msgid "Product attribute values"
+#~ msgstr "Vare attributt verdier"
+
+#~ msgid "Attribute option group"
+#~ msgstr "Attributt alternativ gruppe"
+
+#~ msgid "Attribute option groups"
+#~ msgstr "Attributt alternativ grupper"
+
+#~ msgid "Group"
+#~ msgstr "Gruppe"
+
+#~ msgid "Attribute option"
+#~ msgstr "Attributt alternativ"
+
+#~ msgid "Attribute options"
+#~ msgstr "Attributt alternativ"
+
+#~ msgid "Required - a value for this option must be specified"
+#~ msgstr "Påkrevd - en verdi for dette alternativet må være spesifisert"
+
+#~ msgid "Optional - a value for this option can be omitted"
+#~ msgstr "Valgfritt - en verdi for dette alternativet kan omgås"
+
+#~ msgid "Original"
+#~ msgstr "Original"
+
+#~ msgid "Caption"
+#~ msgstr "Bildetekst"
+
+#~ msgid ""
+#~ "An image with a display order of zero will be the primary image for a "
+#~ "product"
+#~ msgstr ""
+#~ "Et bilde med visningsrekkefølge 0 vil være det primære bildet for et "
+#~ "produkt."
+
+#~ msgid "Product image"
+#~ msgstr "Varebilde"
+
+#~ msgid "Product images"
+#~ msgstr "Varebilder"
+
+#~ msgid "%(obj)s has no attribute named '%(attr)s'"
+#~ msgstr "%(obj)s har ikke noe attributt med navn '%(attr)s'"
+
+#~ msgid "%(attr)s attribute cannot be blank"
+#~ msgstr "%(attr)s attributtet kan ikke være tomt"
+
+#~ msgid "%(attr)s attribute %(err)s"
+#~ msgstr "%(attr)s attributt %(err)s"
+
+#~ msgctxt "Product review title"
+#~ msgid "Title"
+#~ msgstr "Tittel"
+
+#~ msgid "Body"
+#~ msgstr "Body"
+
+#~ msgctxt "Anonymous reviewer name"
+#~ msgid "Name"
+#~ msgstr "Navn"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Requires moderation"
+#~ msgstr "Krever endring"
+
+#~ msgid "Approved"
+#~ msgstr "Godkjent"
+
+#~ msgid "Rejected"
+#~ msgstr "Avvist"
+
+#~ msgid "Total Votes"
+#~ msgstr "Stemmer totalt"
+
+#~ msgid "Delta Votes"
+#~ msgstr "Stemmer avvik"
+
+#~ msgid "Product review"
+#~ msgstr "Vare tilbakemelding"
+
+#~ msgid "Product reviews"
+#~ msgstr "Vare tilbakemeldinger"
+
+#~ msgid "Anonymous reviews must include a name and an email"
+#~ msgstr "Anonyme tilbakemeldinger må inkludere et navn og en e-post adresse"
+
+#~ msgid "anonymous"
+#~ msgstr "anonym"
+
+#~ msgid "Only signed in users can vote"
+#~ msgstr "Kun påloggede brukere kan stemme"
+
+#~ msgid "Up"
+#~ msgstr "Opp"
+
+#~ msgid "Down"
+#~ msgstr "Ned"
+
+#~ msgid "Delta"
+#~ msgstr "Avvik"
+
+#~ msgid "Vote"
+#~ msgstr "Stemme"
+
+#~ msgid "Votes"
+#~ msgstr "Stemmer"
+
+#~ msgid "You cannot vote on your own reviews"
+#~ msgstr "Du kan ikke stemme på dine egne tilbakemeldinger"
+
+#~ msgid "Only signed-in users can vote on reviews"
+#~ msgstr "Kun påloggede brukere kan stemme på tilbakemeldinger"
+
+#~ msgid "You can only vote once on a review"
+#~ msgstr "Du kan kun stemme en gang på en tilbakemelding"
+
+#~ msgid "Catalogue reviews"
+#~ msgstr "Kataloganmeldelser"
+
+#~ msgid "Recency"
+#~ msgstr "Hvor nylig"
+
+#~ msgid "Sort by"
+#~ msgstr "Sorter på"
+
+#~ msgid "You have already reviewed this product!"
+#~ msgstr "Du har allerede gitt tilbakemelding på denne varen"
+
+#~ msgid "You can't leave a review for this product."
+#~ msgstr "Du kan ikke gi tilbakemelding på denne varen."
+
+#~ msgid "Thank you for reviewing this product"
+#~ msgstr "Takk for tilbakemeldingen du gav på denne varen"
+
+#~ msgid "Thanks for voting!"
+#~ msgstr "Takk for din stemme!"
+
+#~ msgid "%(filename)s is not a valid image (%(error)s)"
+#~ msgstr "%(filename)s er ikke et gyldig bilde (%(error)s)"
+
+#~ msgid "%s is not a valid image archive"
+#~ msgstr "%s er ikke et gyldig bildearkiv"
+
+#~ msgid "The given page number was invalid."
+#~ msgstr "Det angitte sidenummeret er ikke gyldig.."
+
+#~ msgid "Checkout"
+#~ msgstr "Gå til kassen"
+
+#~ msgid "My email address is"
+#~ msgstr "Min e-post adresse er"
+
+#~ msgid "I am a new customer and want to checkout as a guest"
+#~ msgstr "Jeg er en ny kunde og ønsker å gå til kassen som gjest"
+
+#~ msgid ""
+#~ "I am a new customer and want to create an account before checking out"
+#~ msgstr "Jeg er en ny kune og vil lage en konto før jeg går til kassen"
+
+#~ msgid "I am a returning customer, and my password is"
+#~ msgstr "Jeg er allerede kunde, og mitt passord er"
+
+#~ msgid "A user with that email address already exists"
+#~ msgstr "En bruker med den e-post adressen finnes allerede"
+
+#~ msgid "You need to add some items to your basket to checkout"
+#~ msgstr "Du må legge til varer i handlekurven for å kunne gå til kassen"
+
+#~ msgid ""
+#~ "'%(title)s' is no longer available to buy (%(reason)s). Please adjust "
+#~ "your basket to continue"
+#~ msgstr ""
+#~ "'%(title)s' kan ikke lengre bestilles (%(reason)s). Vennligst oppdater "
+#~ "handlekurven din før du fortsetter"
+
+#~ msgid "Please either sign in or enter your email address"
+#~ msgstr "Vennligst logg inn eller tast inn din e-post adresse"
+
+#~ msgid "Please choose a shipping address"
+#~ msgstr "Vennligst velt en leveringsadresse"
+
+#~ msgid ""
+#~ "Your previously chosen shipping address is no longer valid.  Please "
+#~ "choose another one"
+#~ msgstr ""
+#~ "Din tidligere valgt leveringsadresse er ikke lengre gyldig. Vennligst "
+#~ "velg en annen"
+
+#~ msgid "Please choose a shipping method"
+#~ msgstr "Vennligst velg en leveringsmetode"
+
+#~ msgid ""
+#~ "Your previously chosen shipping method is no longer valid.  Please choose "
+#~ "another one"
+#~ msgstr ""
+#~ "Din tidligere valgte leveringsmetode er ikke lengre gyldig. Vennligst "
+#~ "velg en annen"
+
+#~ msgid ""
+#~ "Create your account and then you will be redirected back to the checkout "
+#~ "process"
+#~ msgstr "Opprett din konto. Du vil så komme tilbake til betalingsprosessen"
+
+#~ msgid "Address saved"
+#~ msgstr "Adressen er lagret"
+
+#~ msgid "Address deleted"
+#~ msgstr "Adressen er slettet"
+
+#~ msgid ""
+#~ "Shipping is unavailable for your chosen address - please choose another"
+#~ msgstr ""
+#~ "Vi kan ikke levere til den angitte adressen - vennligst vel en annen"
+
+#~ msgid "Your submitted shipping method is not permitted"
+#~ msgstr "Den leveringsmåten du har valgt er ikke tillatt"
+
+#~ msgid ""
+#~ "A problem occurred while processing payment for this order - no payment "
+#~ "has been taken.  Please contact customer services if this problem persists"
+#~ msgstr ""
+#~ "Et problem oppstod ved prosessering av betalingen for denne ordren - "
+#~ "ingen betaling er utført. Vennligst kontakt vår kundeservice hvis "
+#~ "problemet fortsetter"
+
+#~ msgid "No order found"
+#~ msgstr "Ingen ordre ble funnet"
+
+#~ msgid "email address"
+#~ msgstr "e-post adresse"
+
+#~ msgid "Staff status"
+#~ msgstr "Medarbeider status"
+
+#~ msgid "Designates whether the user can log into this admin site."
+#~ msgstr "Bestemmer om brukeren kan logge inn på admin sidene."
+
+#~ msgid "Active"
+#~ msgstr "Aktiv"
+
+#~ msgid ""
+#~ "Designates whether this user should be treated as active. Unselect this "
+#~ "instead of deleting accounts."
+#~ msgstr ""
+#~ "Bestemmer om brukeren skal behandles som aktiv. Slå heller av dette "
+#~ "valget enn å slette kontoer."
+
+#~ msgid "date joined"
+#~ msgstr "Medlem fra dato"
+
+#~ msgid "Users"
+#~ msgstr "Brukere"
+
+#~ msgid "Subject"
+#~ msgstr "Tittel"
+
+#~ msgid "Body Text"
+#~ msgstr "Brødtekst"
+
+#~ msgid "Body HTML"
+#~ msgstr "Brødtekst HTML"
+
+#~ msgid "Date Sent"
+#~ msgstr "Sendt dato"
+
+#~ msgid "Emails"
+#~ msgstr "E-poster"
+
+#~ msgid "Email to %(user)s with subject '%(subject)s'"
+#~ msgstr "E-post til %(user)s med tittel '%(subject)s'"
+
+#~ msgid "Code used for looking up this event programmatically"
+#~ msgstr "Kode brukt av programmet for å finne denne hendelsen"
+
+#~ msgid "This is just used for organisational purposes"
+#~ msgstr "Dette er kun for organisatoriske formål"
+
+#~ msgid "Order related"
+#~ msgstr "Relatert ordre"
+
+#~ msgid "User related"
+#~ msgstr "Relatert bruker"
+
+#~ msgid "Email Subject Template"
+#~ msgstr "E-post tittel mal"
+
+#~ msgid "Email Body Template"
+#~ msgstr "E-post brødtekst mal"
+
+#~ msgid "Email Body HTML Template"
+#~ msgstr "E-post brødtekst HTML mal"
+
+#~ msgid "HTML template"
+#~ msgstr "HTML mal"
+
+#~ msgid "SMS Template"
+#~ msgstr "SMS mal"
+
+#~ msgid "SMS template"
+#~ msgstr "SMS mal"
+
+#~ msgid "Date Updated"
+#~ msgstr "Oppdatert dato"
+
+#~ msgid "Communication event type"
+#~ msgstr "Handlingstype for kommunikasjon"
+
+#~ msgid "Communication event types"
+#~ msgstr "Handlingstyper for kommunikasjon"
+
+#~ msgid "Inbox"
+#~ msgstr "Innboks"
+
+#~ msgid "Archive"
+#~ msgstr "Arkiv"
+
+#~ msgid "Notification"
+#~ msgstr "Varsling"
+
+#~ msgid "Notifications"
+#~ msgstr "Varslinger"
+
+#~ msgid "Key"
+#~ msgstr "Nøkkel"
+
+#~ msgid "Not yet confirmed"
+#~ msgstr "Ikke bekreftet enda"
+
+#~ msgid "Cancelled"
+#~ msgstr "Kansellert"
+
+#~ msgid "Closed"
+#~ msgstr "Lukket"
+
+#~ msgid "Date confirmed"
+#~ msgstr "Bekreftet dato"
+
+#~ msgid "Date cancelled"
+#~ msgstr "Kansellert dato"
+
+#~ msgid "Date closed"
+#~ msgstr "Lukket dato"
+
+#~ msgid "Product alert"
+#~ msgstr "Varsling ang. vare"
+
+#~ msgid "Product alerts"
+#~ msgstr "Varslinger ang. vare"
+
+#~ msgid "Product Alerts"
+#~ msgstr "Varslinger ang. vare"
+
+#~ msgid "An alert has been created"
+#~ msgstr "En varsling er opprettet"
+
+#~ msgid "A confirmation email has been sent to %s"
+#~ msgstr "En bekreftelsesepost har blitt sendt til %s"
+
+#~ msgid "Your stock alert is now active"
+#~ msgstr "Din lagerstatus varsling er nå aktiv"
+
+#~ msgid "Your stock alert cannot be confirmed"
+#~ msgstr "Din lagerstatus varsling kan ikke bekreftes"
+
+#~ msgid "Your stock alert has been cancelled"
+#~ msgstr "Din lagerstatus varsling er kansellert"
+
+#~ msgid "Your stock alert cannot be cancelled"
+#~ msgstr "Din lagerstatus varsling kan ikke kanselleres"
+
+#~ msgid "Customer"
+#~ msgstr "Kunde"
+
+#~ msgid "Email address"
+#~ msgstr "E-post adresse"
+
+#~ msgid "Password"
+#~ msgstr "Passord"
+
+#~ msgid "The entered password is not valid!"
+#~ msgstr "Det inntastede passordet er ugyldig"
+
+#~ msgid "Confirm password"
+#~ msgstr "Bekreft passord"
+
+#~ msgid "The two password fields didn't match."
+#~ msgstr "Passordene samsvarer ikke overens"
+
+#~ msgctxt "start date"
+#~ msgid "From"
+#~ msgstr "Fra"
+
+#~ msgctxt "end date"
+#~ msgid "To"
+#~ msgstr "Til"
+
+#~ msgid "Order number"
+#~ msgstr "Ordrenummer"
+
+#~ msgid "At least one field is required."
+#~ msgstr "Ett felt er påkrevd"
+
+#~ msgid "All orders"
+#~ msgstr "Alle ordre"
+
+#~ msgid ""
+#~ "Orders placed between %(date_from)s and %(date_to)s and order number "
+#~ "containing %(order_number)s"
+#~ msgstr ""
+#~ "Ordre bestilt mellom %(date_from)s og %(date_to)s og ordrenummer som "
+#~ "inneholder %(order_number)s"
+
+#~ msgid "Orders placed between %(date_from)s and %(date_to)s"
+#~ msgstr "Bestillinger lagt inn mellom %(date_from)s og %(date_to)s"
+
+#~ msgid ""
+#~ "Orders placed since %(date_from)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "Ordre bestilt siden %(date_from)s og ordrenummer som inneholder "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed since %(date_from)s"
+#~ msgstr "Ordre bestilt siden %(date_from)s"
+
+#~ msgid ""
+#~ "Orders placed until %(date_to)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "Ordre bestiling fram til %(date_to)s og ordrenummer inneholder "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed until %(date_to)s"
+#~ msgstr "Ordre bestilt fraom til %(date_to)s"
+
+#~ msgid "Orders with order number containing %(order_number)s"
+#~ msgstr "Ordre med ordrenummer som inneholder %(order_number)s"
+
+#~ msgid "A user with this email address already exists"
+#~ msgstr "En bruker med denne e-post adressen finnes allerede"
+
+#~ msgid "Send notification to"
+#~ msgstr "Send varsling til"
+
+#~ msgid "Enter your email"
+#~ msgstr "Tast inn din e-post"
+
+#~ msgid "There is already an active stock alert for %s"
+#~ msgstr "Det finnes allerede en aktiv lagerstatus for %s"
+
+#~ msgid "You already have an active alert for this product"
+#~ msgstr "Du har allerede en aktiv varsling for denne varen"
+
+#~ msgid "%(count)d notification archived"
+#~ msgid_plural "%(count)d notifications archived"
+#~ msgstr[0] "%(count)d varsel arkivert"
+#~ msgstr[1] "%(count)d varsler arkivert"
+
+#~ msgid "%(count)d notification deleted"
+#~ msgid_plural "%(count)d notifications deleted"
+#~ msgstr[0] "%(count)d varsel slettet"
+#~ msgstr[1] "%(count)d varsler slettet"
+
+#~ msgid "Welcome back"
+#~ msgstr "Velkommen tilbake"
+
+#~ msgid "Thanks for registering!"
+#~ msgstr "Takk for at du registrerte deg!"
+
+#~ msgid "Profile"
+#~ msgstr "Profil"
+
+#~ msgid "Edit Profile"
+#~ msgstr "Rediger profil"
+
+#~ msgid "Profile updated"
+#~ msgstr "Profilen er oppdatert"
+
+#~ msgid "Delete profile"
+#~ msgstr "Slett profil"
+
+#~ msgid "Your profile has now been deleted. Thanks for using the site."
+#~ msgstr "Din profil er nå slettet. Takk for at du har besøkt vårt nettsted."
+
+#~ msgid "Change Password"
+#~ msgstr "Endre passord"
+
+#~ msgid "Password updated"
+#~ msgstr "Passordet er oppdatert"
+
+#~ msgid "Email History"
+#~ msgstr "E-posthistorikk"
+
+#~ msgid "Order History"
+#~ msgstr "Ordrehistorikk"
+
+#~ msgid "Order"
+#~ msgstr "Ordre"
+
+#~ msgid ""
+#~ "All available lines from order %(number)s have been added to your basket"
+#~ msgstr ""
+#~ "Alle tilgjengelige linjer fra ordre %(number)s er lagt til i din "
+#~ "handlekurv"
+
+#~ msgid ""
+#~ "It is not possible to re-order order %(number)s as none of its lines are "
+#~ "available to purchase"
+#~ msgstr ""
+#~ "Det er ikke mulig å bestille ordre %(number)s siden ingen av ordrelinjene "
+#~ "er tilgjengelige for kjøp"
+
+#~ msgid "%(qty)d copies of '%(product)s' have been added to your basket"
+#~ msgstr "%(qty)d kopier av '%(product)s' har blitt lagt til i din handlekurv"
+
+#~ msgid "'%s' has been added to your basket"
+#~ msgstr "'%s' er lagt til i din handlekurv"
+
+#~ msgid "Address Book"
+#~ msgstr "Adressebok"
+
+#~ msgid "Add a new address"
+#~ msgstr "Legg til en ny adresse"
+
+#~ msgid "Address '%s' created"
+#~ msgstr "Adresse '%s' er opprettet"
+
+#~ msgid "Edit address"
+#~ msgstr "Rediger adresse"
+
+#~ msgid "Address '%s' updated"
+#~ msgstr "Adressen '%s' er oppdatert"
+
+#~ msgid "Delete address?"
+#~ msgstr "Slett adresse?"
+
+#~ msgid "Address '%s' deleted"
+#~ msgstr "Adressen '%s' er slettet"
+
+#~ msgid "We do not ship to this country"
+#~ msgstr "Vi sender ikke til det angitte landet"
+
+#~ msgid "Wish Lists"
+#~ msgstr "Ønskeliste"
+
+#~ msgid "Quantities updated."
+#~ msgstr "Antall er oppdatert"
+
+#~ msgid "Create a new wish list"
+#~ msgstr "Opprett en ny ønskeliste"
+
+#~ msgid "The requested product no longer exists"
+#~ msgstr "Varen du etterspurte finnes ikke lengre"
+
+#~ msgid "Your wishlist has been created and '%(name)s has been added"
+#~ msgstr "Din ønskelister er opprettet og '%(name)s er lagt til"
+
+#~ msgid "Your wishlist has been created"
+#~ msgstr "Din ønskeliste er opprettet"
+
+#~ msgid "%(title)s has been added to your wishlist"
+#~ msgstr "%(title)s er lagt til i din ønskeliste"
+
+#~ msgid "Your '%s' wishlist has been updated"
+#~ msgstr "Din '%s' ønskeliste er oppdatert"
+
+#~ msgid "Delete %s"
+#~ msgstr "Slett %s"
+
+#~ msgid "Your '%s' wish list has been deleted"
+#~ msgstr "Din '%s' ønskeliste har blitt slettet"
+
+#~ msgid "'%s' was added to your wish list."
+#~ msgstr "'%s' er lagt til i din ønskeliste"
+
+#~ msgid "Remove %s"
+#~ msgstr "Fjern %s"
+
+#~ msgid "'%(title)s' was removed from your '%(name)s' wish list"
+#~ msgstr "'%(title)s ble fjernet fra din '%(name)s' ønskeliste"
+
+#~ msgid "'%(title)s' moved to '%(name)s' wishlist"
+#~ msgstr "'%(title)s' er flyttet til '%(name)s' ønskeliste"
+
+#~ msgid "Create a new product of type"
+#~ msgstr "Opprett en ny vare av type"
+
+#~ msgid "-- Choose type --"
+#~ msgstr "--  Velg type --"
+
+#~ msgid "Product title"
+#~ msgstr "Varetittel"
+
+#~ msgid "Select an option group"
+#~ msgstr "Selg en alternativ gruppe"
+
+#~ msgid ""
+#~ "At least one stock record must be set to a partner that you're associated "
+#~ "with."
+#~ msgstr ""
+#~ "Minimum en lagerstatusoppføring må tilknyttes en samarbeidspartner som du "
+#~ "er assosiert med."
+
+#~ msgid "Stand-alone and parent products must have at least one category"
+#~ msgstr "Frittstående og hovedvarer må ha minimum en kategori."
+
+#~ msgid "A child product should not have categories"
+#~ msgstr "En del-vare kan ikke ha kategorier"
+
+#~ msgid "Title"
+#~ msgstr "Tittel"
+
+#~ msgid "Variants"
+#~ msgstr "Varianter"
+
+#~ msgid "Stock records"
+#~ msgstr "Lagerstatus oppføringer"
+
+#~ msgid "Actions"
+#~ msgstr "Handlinger"
+
+#~ msgid "Number of child categories"
+#~ msgstr "Antall underkategorier"
+
+#~ msgid "%s Category"
+#~ msgid_plural "%s Categories"
+#~ msgstr[0] "%s Kategori"
+#~ msgstr[1] "%s Kategorier"
+
+#~ msgid "Product search results"
+#~ msgstr "Resultat av varesøk"
+
+#~ msgid "Please choose a product type"
+#~ msgstr "Velg en varetype"
+
+#~ msgid "Create new %(product_class)s product"
+#~ msgstr "Lag nytt %(product_class)s produkt"
+
+#~ msgid "Create new variant of %(parent_product)s"
+#~ msgstr "Lag en ny variant av %(parent_product)s"
+
+#~ msgid "Delete product variant?"
+#~ msgstr "Slett varetype?"
+
+#~ msgid "Delete product?"
+#~ msgstr "Slett vare?"
+
+#~ msgid "Deleted product variant '%s'"
+#~ msgstr "Slettet varetype '%s'"
+
+#~ msgid "Deleted product '%s'"
+#~ msgstr "Slettet vare '%s'"
+
+#~ msgid "Add a new category"
+#~ msgstr "Legg til kategori"
+
+#~ msgid "Category created successfully"
+#~ msgstr "Kategori lagt til"
+
+#~ msgid "Update category '%s'"
+#~ msgstr "Oppdater kategori '%s'"
+
+#~ msgid "Category updated successfully"
+#~ msgstr "Kategori oppdatert"
+
+#~ msgid "Category deleted successfully"
+#~ msgstr "Kategori slettet"
+
+#~ msgid "Add a new product type"
+#~ msgstr "Legg til varetype"
+
+#~ msgid "Product type created successfully"
+#~ msgstr "Varetype lagt til"
+
+#~ msgid "Update product type '%s'"
+#~ msgstr "Oppdaterte varetype '%s'"
+
+#~ msgid "Product type updated successfully"
+#~ msgstr "Varetype oppdatert"
+
+#~ msgid "Delete product type '%s'"
+#~ msgstr "Slett varetype '%s'"
+
+#~ msgid "Unable to delete '%s'"
+#~ msgstr "Kan ikke slette '%s'"
+
+#~ msgid "%i products are still assigned to this type"
+#~ msgstr "%i varer er fortsatt tildelt denne varetypen"
+
+#~ msgid "Product type deleted successfully"
+#~ msgstr "Varetype slettet"
+
+#~ msgid "Email subject template"
+#~ msgstr "Epost emne mal"
+
+#~ msgid "Email body text template"
+#~ msgstr "Epost brødtekst mal"
+
+#~ msgid "Email body HTML template"
+#~ msgstr "Epost HTML mal"
+
+#~ msgid "Preview email"
+#~ msgstr "Forhåndsvis epost"
+
+#~ msgid "No order found with this number"
+#~ msgstr "Fant ingen ordre med dette nummeret"
+
+#~ msgid "Please enter an email address"
+#~ msgstr "Vennligst skriv inn en gyldig epostadresse"
+
+#~ msgid ""
+#~ "The submitted form was not valid, please correct the errors and resubmit"
+#~ msgstr ""
+#~ "Innsendt skjema er ikke gyldig, vennligst rett opp i feilene og send inn "
+#~ "på nytt"
+
+#~ msgid "Email saved"
+#~ msgstr "Epost lagret"
+
+#~ msgid "Start date"
+#~ msgstr "Oppstartsdato"
+
+#~ msgid "End date"
+#~ msgstr "Sluttdato"
+
+#~ msgid "The end date must be after the start date"
+#~ msgstr "Sluttdato må være etter oppstartsdato"
+
+#~ msgid "Offer name"
+#~ msgstr "Kampanjenavn"
+
+#~ msgid "Order date"
+#~ msgstr "Ordredato"
+
+#~ msgid "Order total"
+#~ msgstr "Ordresum"
+
+#~ msgid "Cost"
+#~ msgstr "Pris"
+
+#~ msgid "All offers"
+#~ msgstr "Alle kampanjer"
+
+#~ msgid "Name and description"
+#~ msgstr "Navn og beskrivelse"
+
+#~ msgid "Restrictions"
+#~ msgstr "Begrensninger"
+
+#~ msgid "Offer deleted!"
+#~ msgstr "Kampanje slettet!"
+
+#~ msgid "Offer is already suspended"
+#~ msgstr "Kampanje er allerede suspendert"
+
+#~ msgid "Offer suspended"
+#~ msgstr "Kampanje suspendert"
+
+#~ msgid "Offer cannot be reinstated as it is not currently suspended"
+#~ msgstr "Kampanje kan ikke bli gjeninnsatt da det ikke er suspendert"
+
+#~ msgid "Offer reinstated"
+#~ msgstr "Kampanje gjeninnsatt"
+
+#~ msgid "Customer name"
+#~ msgstr "Kundenavn"
+
+#~ msgid "Product name"
+#~ msgstr "Produktnavn"
+
+#~ msgid "Date from"
+#~ msgstr "Fra dato"
+
+#~ msgid "Date to"
+#~ msgstr "Til dato"
+
+#~ msgid "Payment method"
+#~ msgstr "Betalingsmetode"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "CSV"
+#~ msgstr "CSV"
+
+#~ msgid "New order status"
+#~ msgstr "Ny ordrestatus"
+
+#~ msgid "Date of purchase"
+#~ msgstr "Kjøpsdato"
+
+#~ msgid "Number of items"
+#~ msgstr "Antall varer"
+
+#~ msgid "Order status"
+#~ msgstr "Ordrestatus"
+
+#~ msgid "Customer email address"
+#~ msgstr "Kundens epostadresse"
+
+#~ msgid "Note saved"
+#~ msgstr "Notat lagret"
+
+#~ msgid "Note cannot be deleted"
+#~ msgstr "Notat kan ikke slettes"
+
+#~ msgid "Note deleted"
+#~ msgstr "Notat slettet"
+
+#~ msgid "Deleted page '%s'"
+#~ msgstr "Slettet side '%s'"
+
+#~ msgid "Number of Orders"
+#~ msgstr "Antall ordre"
+
+#~ msgid "Range"
+#~ msgstr "Utvalg"
+
+#~ msgid "Order Note"
+#~ msgstr "Ordrenotat"
+
+#~ msgid "Order Notes"
+#~ msgstr "Ordrenotater"
+
+#~ msgid "Stock alerts"
+#~ msgstr "Lagervarsler"
+
+#~ msgid "Product list"
+#~ msgstr "Produktliste"
+
+#~ msgid "Product lists"
+#~ msgstr "Produktlister"
+
+#~ msgid "Ordered product"
+#~ msgstr "Bestilt produkt"
+
+#~ msgid "Bestselling products"
+#~ msgstr "Bestselgende produkter"
+
+#~ msgid "Recently added products"
+#~ msgstr "Nylig lagt til produkter"
+
+#~ msgid "No products found."
+#~ msgstr "Ingen varer funnet."
+
+#~ msgid "Edit this product"
+#~ msgstr "Endre vare"
+
+#~ msgid "Product Description"
+#~ msgstr "Varebeskrivelse"
+
+#~ msgid "Product Information"
+#~ msgstr "Vareinformasjon"
+
+#~ msgid "Product Type"
+#~ msgstr "Produkttype"
+
+#~ msgid "Is product discountable?"
+#~ msgstr "Kan produktet rabatteres?"

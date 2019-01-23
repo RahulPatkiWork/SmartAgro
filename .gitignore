@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pycache__
+eshop_env
+/static
+.DS_Store

@@ -1,0 +1,857 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# alexeyismirnov <alexey@gmail.com>, 2013-2014
+# alexeyismirnov <alexey@gmail.com>, 2013
+# alexeyismirnov <alexey@gmail.com>, 2013
+# Chung Tai Chan <ctchanac@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-11 08:36+0000\n"
+"Last-Translator: Oscar Bot <maik.hoepfel@tangentsnowball.com>\n"
+"Language-Team: Chinese (Hong Kong) (http://www.transifex.com/codeinthehole/"
+"django-oscar/language/zh_HK/)\n"
+"Language: zh_HK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr ""
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr ""
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr ""
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr ""
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr ""
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr ""
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr ""
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr ""
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr ""
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr ""
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr ""
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr ""
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr ""
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr ""
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr ""
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr ""
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr ""
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr ""
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr ""
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr ""
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr ""
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr ""
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr ""
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr ""
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr ""
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr ""
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr ""
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr ""
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr ""
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr ""
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+msgid "Catalan"
+msgstr ""
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+msgid "German"
+msgstr ""
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr "帳戶"
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr "登出"
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr ""
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "購物車"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+"\n"
+"總價格: %(total)s"
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr ""
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "所有產品"
+
+#~ msgid "Mr"
+#~ msgstr "先生"
+
+#~ msgid "Miss"
+#~ msgstr "小姐"
+
+#~ msgid "Mrs"
+#~ msgstr "夫人"
+
+#~ msgid "Ms"
+#~ msgstr "女士"
+
+#~ msgid "Dr"
+#~ msgstr "教授"
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "稱呼"
+
+#~ msgid "First name"
+#~ msgstr "名"
+
+#~ msgid "Last name"
+#~ msgstr "姓"
+
+#~ msgid "First line of address"
+#~ msgstr "地址第一欄"
+
+#~ msgid "Second line of address"
+#~ msgstr "地址第二欄"
+
+#~ msgid "Third line of address"
+#~ msgstr "地址第三欄"
+
+#~ msgid "City"
+#~ msgstr "城市"
+
+#~ msgid "State/County"
+#~ msgstr "州/國家"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "郵遞區號"
+
+#~ msgid "Country"
+#~ msgstr "國家"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "搜索文本 - 只用來搜索地址"
+
+#~ msgid "Address"
+#~ msgstr "地址"
+
+#~ msgid "Addresses"
+#~ msgstr "地址"
+
+#~ msgid "Phone number"
+#~ msgstr "電話號碼"
+
+#~ msgid "Instructions"
+#~ msgstr "說明"
+
+#~ msgid "Shipping address"
+#~ msgstr "郵遞地址"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "郵遞地址"
+
+#~ msgid "Score"
+#~ msgstr "評分"
+
+#~ msgid "Name"
+#~ msgstr "名稱"
+
+#~ msgid "Date registered"
+#~ msgstr "註冊日期"
+
+#~ msgid "Quantity"
+#~ msgstr "數量"
+
+#~ msgid "Price excl. Tax"
+#~ msgstr "價格（不含稅）"
+
+#~ msgid "Price incl. Tax"
+#~ msgstr "價格（含稅）"
+
+#~ msgid "Save for Later"
+#~ msgstr "加入收藏"
+
+#~ msgid "Move to Basket"
+#~ msgstr "移到購物車裡"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Num items"
+#~ msgstr "商品數量"
+
+#~ msgid "Body"
+#~ msgstr "內容簡述"
+
+#~ msgid "Checkout"
+#~ msgstr "結帳"
+
+#~ msgid "Please choose a shipping method"
+#~ msgstr "選擇寄送方式"
+
+#~ msgid "Subject"
+#~ msgstr "主題"
+
+#~ msgid "Body Text"
+#~ msgstr "內容簡述"
+
+#~ msgid "Date Sent"
+#~ msgstr "發送日期"
+
+#~ msgid "Archive"
+#~ msgstr "檔案"
+
+#~ msgid "Product alerts"
+#~ msgstr "產品通告"
+
+#~ msgid "Product Alerts"
+#~ msgstr "產品通告"
+
+#~ msgid "Email address"
+#~ msgstr "e-mail地址"
+
+#~ msgid "Password"
+#~ msgstr "密碼"
+
+#~ msgid "Confirm password"
+#~ msgstr "確認密碼"
+
+#~ msgid "Order number"
+#~ msgstr "訂單號"
+
+#~ msgid "All orders"
+#~ msgstr "所有訂單"
+
+#~ msgid "Profile"
+#~ msgstr "用戶信息"
+
+#~ msgid "Edit Profile"
+#~ msgstr "編輯用戶信息"
+
+#~ msgid "Change Password"
+#~ msgstr "更改密碼"
+
+#~ msgid "Email History"
+#~ msgstr "郵件歷史"
+
+#~ msgid "Order History"
+#~ msgstr "訂購歷史"
+
+#~ msgid "'%s' has been added to your basket"
+#~ msgstr "'%s' 已經加入你的購物車"
+
+#~ msgid "Address Book"
+#~ msgstr "地址簿"
+
+#~ msgid "Add a new address"
+#~ msgstr "添加一個新的地址"
+
+#~ msgid "Address '%s' created"
+#~ msgstr "地址 '%s' 已經被創建"
+
+#~ msgid "Delete address?"
+#~ msgstr "刪除地址？"
+
+#~ msgid "Wish Lists"
+#~ msgstr "心願單"
+
+#~ msgid "Create a new wish list"
+#~ msgstr "創造一個新心願單"
+
+#~ msgid "Your wishlist has been created"
+#~ msgstr "你的心願單已經被創建"
+
+#~ msgid "'%s' was added to your wish list."
+#~ msgstr "「%s」已經加入你的心願單"
+
+#~ msgid "Title"
+#~ msgstr "稱呼"
+
+#~ msgid "All alerts"
+#~ msgstr "通告"
+
+#~ msgid "Order total"
+#~ msgstr "訂單總和"
+
+#~ msgid "Cost"
+#~ msgstr "費用"
+
+#~ msgid "Voucher code"
+#~ msgstr "優惠碼"
+
+#~ msgid "Number of items"
+#~ msgstr "商品數量"
+
+#~ msgid "Confirm Password"
+#~ msgstr "確認密碼"
+
+#~ msgid "All Alerts"
+#~ msgstr "通告"
+
+#~ msgid "Order total (inc. tax)"
+#~ msgstr "訂單總和 (含稅)"
+
+#~ msgid "Order total (excl. tax)"
+#~ msgstr "訂單總和 (不含稅)"
+
+#~ msgid "Shipping charge (inc. tax)"
+#~ msgstr "郵費 (含稅)"
+
+#~ msgid "Shipping charge (excl. tax)"
+#~ msgstr "郵費 (不含稅)"
+
+#~ msgid "Shipping Address"
+#~ msgstr "郵遞地址"
+
+#~ msgid "Shipping method"
+#~ msgstr "郵遞方式"
+
+#~ msgid "Price (inc. tax)"
+#~ msgstr "價格 (含稅)"
+
+#~ msgid "Price (excl. tax)"
+#~ msgstr "價格 (不含稅)"
+
+#~ msgid "Available"
+#~ msgstr "可購買"
+
+#~ msgid "In stock"
+#~ msgstr "有貨"
+
+#~ msgid "In stock (%d available)"
+#~ msgstr "有貨 (庫存%d件)"
+
+#~ msgid "Payment"
+#~ msgstr "付款"
+
+#~ msgid "Method"
+#~ msgstr "方式"
+
+#~ msgid "Number of Products"
+#~ msgstr "產品編號"
+
+#~ msgid "Shipping Method"
+#~ msgstr "郵遞方式"
+
+#~ msgid "Free Shipping"
+#~ msgstr "免郵費"
+
+#~ msgid "Shipping"
+#~ msgstr "郵遞"
+
+#~ msgid "Home"
+#~ msgstr "主頁"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(title)s</strong> has been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong>  已經加入你的購物車"
+
+#~ msgid "Your basket is now empty"
+#~ msgstr "你的購物車是空的"
+
+#~ msgid "View basket"
+#~ msgstr "查看購物車"
+
+#~ msgid "Checkout now"
+#~ msgstr "現在結帳"
+
+#~ msgid "Items to buy now"
+#~ msgstr "現在要購買的商品"
+
+#~ msgid "Total"
+#~ msgstr "總價格"
+
+#~ msgid "Update"
+#~ msgstr "刷新"
+
+#~ msgid "Remove"
+#~ msgstr "刪除"
+
+#~ msgid "Save for later"
+#~ msgstr "加入收藏"
+
+#~ msgid "Voucher/promo code"
+#~ msgstr "優惠碼/促銷碼"
+
+#~ msgid "I have a voucher code..."
+#~ msgstr "我有一個優惠碼···"
+
+#~ msgid "Add voucher"
+#~ msgstr "添加優惠券"
+
+#~ msgid "cancel"
+#~ msgstr "取消"
+
+#~ msgid "Proceed to checkout"
+#~ msgstr "前往結帳"
+
+#~ msgid "Your basket is empty."
+#~ msgstr "你的購物車是空的"
+
+#~ msgid "Continue shopping"
+#~ msgstr "繼續購物"
+
+#~ msgid "Items"
+#~ msgstr "商品"
+
+#~ msgid "Move to basket"
+#~ msgstr "移到購物車裡"
+
+#~ msgid "Qty"
+#~ msgstr "數量"
+
+#~ msgid "Total:"
+#~ msgstr "總價格:"
+
+#~ msgid "Basket total"
+#~ msgstr "購物車總額為"
+
+#~ msgid "Product Description"
+#~ msgstr "產品介紹"
+
+#~ msgid "Product Information"
+#~ msgstr "產品信息"
+
+#~ msgid "Price (incl. tax)"
+#~ msgstr "價格（含稅）"
+
+#~ msgid "Availability"
+#~ msgstr "是否有貨"
+
+#~ msgid "Customer Reviews"
+#~ msgstr "客戶評價"
+
+#~ msgid "Add to basket"
+#~ msgstr "加入購物車"
+
+#~ msgid "Add to wish list"
+#~ msgstr "加入心願單"
+
+#~ msgid "Create a new wishlist"
+#~ msgstr "創造一個新心願單"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <span class=\"pull-left\">Product is in <a href="
+#~ "\"%(url)s\">'%(name)s'</a> wishlist.</span>\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "<span class=\"pull-left\">產品位於<a href=\"%(url)s\">「%(name)s」</a> 心"
+#~ "願單內.</span>"
+
+#~ msgid "Yes"
+#~ msgstr "是"
+
+#~ msgid "Write a review"
+#~ msgstr "寫評論"
+
+#~ msgid "Customer reviews"
+#~ msgstr "客戶評價"
+
+#~ msgid "Leave a product review"
+#~ msgstr "留下產品評論"
+
+#~ msgid "Continue"
+#~ msgstr "繼續"
+
+#~ msgid "1. Shipping address"
+#~ msgstr "1. 郵遞地址"
+
+#~ msgid "2. Shipping method"
+#~ msgstr "2. 郵遞方式"
+
+#~ msgid "3. Payment"
+#~ msgstr "3. 付款"
+
+#~ msgid "Enter payment details"
+#~ msgstr "輸入付款細節"
+
+#~ msgid "Where should we ship to?"
+#~ msgstr "我們應該寄往哪裡？"
+
+#~ msgid "Ship to this address"
+#~ msgstr "寄送到這個地址"
+
+#~ msgid "return to basket"
+#~ msgstr "返回購物車"
+
+#~ msgid "Select option"
+#~ msgstr "選擇操作"
+
+#~ msgid ""
+#~ "Please make a note of this reference or print this page and quote it in "
+#~ "any communication with us regarding your order."
+#~ msgstr ""
+#~ "請記錄本資訊或者列印本頁，當你和我們就訂單問題進行交流時，請使用它。"
+
+#~ msgid "Items purchased"
+#~ msgstr "已購買商品"
+
+#~ msgid "Shipping charge"
+#~ msgstr "郵費"
+
+#~ msgid "Print this page"
+#~ msgstr "列印本頁"
+
+#~ msgid "Are you sure you want to delete this address?"
+#~ msgstr "你確定要刪除這個地址嗎？"
+
+#~ msgid "Yes!"
+#~ msgstr "是!"
+
+#~ msgid "Save"
+#~ msgstr "保存"
+
+#~ msgid "Address book"
+#~ msgstr "地址簿"
+
+#~ msgid "Default shipping address"
+#~ msgstr "默認郵寄地址"
+
+#~ msgid "Default billing address"
+#~ msgstr "默認信用卡帳單地址"
+
+#~ msgid "Edit"
+#~ msgstr "編輯"
+
+#~ msgid "Set as default shipping address"
+#~ msgstr "設置默認郵遞地址"
+
+#~ msgid "Set as default billing address"
+#~ msgstr "設置默認信用卡帳單地址"
+
+#~ msgid "There are no addresses in your address book."
+#~ msgstr "在你的地址簿中沒有地址"
+
+#~ msgid "Cancel"
+#~ msgstr "取消"
+
+#~ msgid "Basket total (inc. tax)"
+#~ msgstr "購物車總額為 (含稅)"
+
+#~ msgid "Email history"
+#~ msgstr "郵件歷史"
+
+#~ msgid "Date sent"
+#~ msgstr "發送日期"
+
+#~ msgid "No emails found"
+#~ msgstr "沒有找到郵件"
+
+#~ msgid "Your order contains:"
+#~ msgstr "你的訂單包括："
+
+#~ msgid "Basket total:"
+#~ msgstr "購物車總額為:"
+
+#~ msgid "Shipping:"
+#~ msgstr "郵遞:"
+
+#~ msgid "Order Total:"
+#~ msgstr "訂單總和:"
+
+#~ msgid "Shipping address:"
+#~ msgstr "郵遞地址:"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "We are pleased to confirm your order %(order_number)s has been received "
+#~ "and\n"
+#~ "will be processed shortly."
+#~ msgstr ""
+#~ "你好,\n"
+#~ "\n"
+#~ "我們很高興地通知你，你的%(order_number)s號訂單我們已經收到, 我們將儘快處"
+#~ "理。"
+
+#~ msgid "quantity:"
+#~ msgstr "數量:"
+
+#~ msgid "Confirmation of order %(number)s"
+#~ msgstr "訂單確認  %(number)s"
+
+#~ msgid "Products you recently viewed"
+#~ msgstr "你近期流覽過的產品"
+
+#~ msgid "I've forgotten my password"
+#~ msgstr "我忘記了密碼"
+
+#~ msgid "View"
+#~ msgstr "流覽"
+
+#~ msgid "Order history"
+#~ msgstr "訂購歷史"
+
+#~ msgid "Total inc tax"
+#~ msgstr "總價格（含稅）"
+
+#~ msgid "Change password"
+#~ msgstr "更改密碼"
+
+#~ msgid "Edit profile"
+#~ msgstr "編輯用戶信息"
+
+#~ msgid "View product"
+#~ msgstr "流覽產品"
+
+#~ msgid "Your wish list is empty."
+#~ msgstr "你的心願單是空的"
+
+#~ msgid "Create"
+#~ msgstr "創建"
+
+#~ msgid "What should your new wish list be called?"
+#~ msgstr "你的新心願單叫什麼名字？"
+
+#~ msgid "Number of products"
+#~ msgstr "產品編號"
+
+#~ msgid "You don't have any wish lists yet."
+#~ msgstr "你沒有任何心願單"
+
+#~ msgid "Order Total"
+#~ msgstr "訂單總和"
+
+#~ msgid "Order Details"
+#~ msgstr "訂單詳情"
+
+#~ msgid "quantity"
+#~ msgstr "數量"
+
+#~ msgid "Oops! We found some errors"
+#~ msgstr "糟糕！我們發現了一些錯誤"
+
+#~ msgid "please check the error messages below and try again"
+#~ msgstr "請檢查下面的錯誤訊息，並重試"
+
+#~ msgid "previous"
+#~ msgstr "上一頁"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Page %(page_num)s of %(total_pages)s\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "第%(page_num)s頁，共%(total_pages)s頁"
+
+#~ msgid "next"
+#~ msgstr "下一頁"
+
+#~ msgid "Order Number"
+#~ msgstr "訂單號"
+
+#~ msgid "This customer has not placed any orders yet."
+#~ msgstr "你還未有任何訂單"
+
+#~ msgid "This customer has not written any reviews yet."
+#~ msgstr "本產品尚無任何評價"
+
+#~ msgid "Change my password"
+#~ msgstr "更改密碼"

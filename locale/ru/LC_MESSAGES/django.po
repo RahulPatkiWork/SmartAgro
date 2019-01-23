@@ -1,0 +1,819 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Александр Никифоров <alexnikifforov@gmail.com>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-11 08:36+0000\n"
+"Last-Translator: Oscar Bot <maik.hoepfel@tangentsnowball.com>\n"
+"Language-Team: Russian (http://www.transifex.com/codeinthehole/django-oscar/"
+"language/ru/)\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr ""
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr ""
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr ""
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr ""
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr ""
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr ""
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr ""
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr ""
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr ""
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "Заказы"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr ""
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr ""
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr ""
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr ""
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr ""
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "Ваучер"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr ""
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr ""
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr ""
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr ""
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr ""
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr ""
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr ""
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr ""
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr ""
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr ""
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr ""
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr ""
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr ""
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr ""
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+msgid "Catalan"
+msgstr ""
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+msgid "German"
+msgstr ""
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr "Учетная запись"
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr ""
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "Корзина"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr ""
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr ""
+
+#~ msgid "Mr"
+#~ msgstr "Господин"
+
+#~ msgid "Miss"
+#~ msgstr "Мисс"
+
+#~ msgid "Mrs"
+#~ msgstr "Мисс"
+
+#~ msgid "Ms"
+#~ msgstr "Госпожа"
+
+#~ msgid "Dr"
+#~ msgstr "Доктор"
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "Заголовок"
+
+#~ msgid "First name"
+#~ msgstr "Имя"
+
+#~ msgid "Last name"
+#~ msgstr "Фамилия"
+
+#~ msgid "First line of address"
+#~ msgstr "Первый адрес"
+
+#~ msgid "Second line of address"
+#~ msgstr "Второй адрес"
+
+#~ msgid "Third line of address"
+#~ msgstr "Третий адрес"
+
+#~ msgid "City"
+#~ msgstr "Город"
+
+#~ msgid "State/County"
+#~ msgstr "Регион"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "Почтовый индекс"
+
+#~ msgid "Country"
+#~ msgstr "Страна"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "Поиск - только адреса"
+
+#~ msgid "Address"
+#~ msgstr "Адрес"
+
+#~ msgid "Addresses"
+#~ msgstr "Адреса"
+
+#~ msgid "Addresses in %(country)s require a valid postcode"
+#~ msgstr ""
+#~ "Необходимо указать правильный почтовый индекс для страны %(country)s"
+
+#~ msgid "The postcode '%(postcode)s' is not valid for %(country)s"
+#~ msgstr "Не верный почтовый индекс '%(postcode)s', для страны %(country)s"
+
+#~ msgid "ISO 3166-1 alpha-2"
+#~ msgstr "ISO 3166-1 двухбуквенный код страны"
+
+#~ msgid "ISO 3166-1 alpha-3"
+#~ msgstr "ISO 3166-1 трехбуквенный код страны"
+
+#~ msgid "ISO 3166-1 numeric"
+#~ msgstr "ISO 3166-1 цифровой код страны"
+
+#~ msgid "Country name"
+#~ msgstr "Название страны"
+
+#~ msgid "Official name"
+#~ msgstr "Официальное название "
+
+#~ msgid "Display order"
+#~ msgstr "Показать заказ"
+
+#~ msgid "Higher the number, higher the country in the list."
+#~ msgstr "Больше число, выше страна в списке."
+
+#~ msgid "Is shipping country"
+#~ msgstr "Страна доставки"
+
+#~ msgid "Countries"
+#~ msgstr "Страны"
+
+#~ msgid "Phone number"
+#~ msgstr "Номер телефона"
+
+#~ msgid "In case we need to call you about your order"
+#~ msgstr ""
+#~ "На случай, если понадобится связаться с вами, по поводу вашего заказа"
+
+#~ msgid "Instructions"
+#~ msgstr "Инструкции"
+
+#~ msgid "Tell us anything we should know when delivering your order."
+#~ msgstr ""
+#~ "Расскажите нам все, что мы должны знать, при доставке вашего заказа."
+
+#~ msgid "Shipping address"
+#~ msgstr "Адрес доставки"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "Адреса доставки"
+
+#~ msgid "User"
+#~ msgstr "Пользователь"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "Адрес доставки по умолчанию?"
+
+#~ msgid "Default billing address?"
+#~ msgstr "Расчетный адрес по умолчанию?"
+
+#~ msgid "Address Hash"
+#~ msgstr "Набор адресов"
+
+#~ msgid "Date Created"
+#~ msgstr "Дата создания"
+
+#~ msgid "User address"
+#~ msgstr "Адрес пользователя"
+
+#~ msgid "User addresses"
+#~ msgstr "Адреса пользователя"
+
+#~ msgid "This address is already in your address book"
+#~ msgstr "Указанный вами адрес,  уже существует"
+
+#~ msgid "Billing address"
+#~ msgstr "Расчетный адрес"
+
+#~ msgid "Billing addresses"
+#~ msgstr "Расчетные адреса"
+
+#~ msgid "Partner"
+#~ msgstr "Партнер"
+
+#~ msgid "Partner address"
+#~ msgstr "Адрес партнера"
+
+#~ msgid "Partner addresses"
+#~ msgstr "Адреса партнера"
+
+#~ msgid "Product"
+#~ msgstr "Товар"
+
+#~ msgid "Views"
+#~ msgstr "Просмотры"
+
+#~ msgid "Basket Additions"
+#~ msgstr "Добавлены в корзину"
+
+#~ msgid "Purchases"
+#~ msgstr "Покупки"
+
+#~ msgid "Score"
+#~ msgstr "Балл"
+
+#~ msgid "Product record"
+#~ msgstr "Отчет по товару"
+
+#~ msgid "Product records"
+#~ msgstr "Отчеты по товарам"
+
+#~ msgid "Record for '%s'"
+#~ msgstr "Запись для '%s'"
+
+#~ msgid "Product Views"
+#~ msgstr "Просмотры товара"
+
+#~ msgid "Order Lines"
+#~ msgstr "Строки заказа"
+
+#~ msgid "Order Items"
+#~ msgstr "Детали заказа"
+
+#~ msgid "Total Spent"
+#~ msgstr "Итого израсходавано"
+
+#~ msgid "Last Order Date"
+#~ msgstr "Дата последнего заказа"
+
+#~ msgid "User record"
+#~ msgstr "Отчет по пользователю"
+
+#~ msgid "User records"
+#~ msgstr "Отчет по пользователям"
+
+#~ msgid "User product view"
+#~ msgstr "Товар просмотренный пользователем"
+
+#~ msgid "User product views"
+#~ msgstr "Товары просмотренные пользователем"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "%(user)s просмотрел '%(product)s'"
+
+#~ msgid "Search term"
+#~ msgstr "Критерий поиска"
+
+#~ msgid "User search query"
+#~ msgstr "Поисковый запрос пользователя"
+
+#~ msgid "User search queries"
+#~ msgstr "Поисковые запросы пользователя"
+
+#~ msgid "%(user)s searched for '%(query)s'"
+#~ msgstr "%(user)s искал '%(query)s'"
+
+#~ msgid "Analytics"
+#~ msgstr "Анализ"
+
+#~ msgid "Basket additions"
+#~ msgstr "Добавлены в корзину"
+
+#~ msgid "Product analytics"
+#~ msgstr "Аналз по товару"
+
+#~ msgid "Name"
+#~ msgstr "Название"
+
+#~ msgid "Date registered"
+#~ msgstr "Дата регистрации"
+
+#~ msgid "Product views"
+#~ msgstr "Просмотры товара"
+
+#~ msgid "Order lines"
+#~ msgstr "Строки заказа"
+
+#~ msgid "Order items"
+#~ msgstr "Детали заказа"
+
+#~ msgid "Total spent"
+#~ msgstr "Итоговые расходы"
+
+#~ msgid "Date of last order"
+#~ msgstr "Дата последнего заказа"
+
+#~ msgid "User analytics"
+#~ msgstr "Анализ пользователя"
+
+#~ msgid "Owner"
+#~ msgstr "Владелец"
+
+#~ msgid "Open - currently active"
+#~ msgstr "Открыть - активных сейчас"
+
+#~ msgid "Merged - superceded by another basket"
+#~ msgstr "Объединено - заменено, другой корзиной "
+
+#~ msgid "Status"
+#~ msgstr "Статус"
+
+#~ msgid "Date created"
+#~ msgstr "Дата создания"
+
+#~ msgid "Date merged"
+#~ msgstr "Дата совмещения"
+
+#~ msgid "Date submitted"
+#~ msgstr "Дата отправки"
+
+#~ msgid "Baskets"
+#~ msgstr "Корзины"
+
+#~ msgid "Quantity"
+#~ msgstr "Количество"
+
+#~ msgid "Currency"
+#~ msgstr "Валюта"
+
+#~ msgid "You cannot modify a %s basket"
+#~ msgstr "Вы не можете изменить %s корзину"
+
+#~ msgid "Line"
+#~ msgstr "Строка"
+
+#~ msgid "Option"
+#~ msgstr "Опция"
+
+#~ msgid "Value"
+#~ msgstr "Значение"
+
+#~ msgid "Code"
+#~ msgstr "Код"
+
+#~ msgid "Variant"
+#~ msgstr "Вариант"
+
+#~ msgid "User ID"
+#~ msgstr "ID пользователя"
+
+#~ msgid "Email"
+#~ msgstr "Электронная почта"
+
+#~ msgid "Num lines"
+#~ msgstr "Число строк"
+
+#~ msgid "Num items"
+#~ msgstr "Число элементов"
+
+#~ msgid "Date of creation"
+#~ msgstr "Дата создания"
+
+#~ msgid "Time since creation"
+#~ msgstr "Время с момента создания"
+
+#~ msgctxt "Product title"
+#~ msgid "Title"
+#~ msgstr "Заглавие"
+
+#~ msgctxt "Product review title"
+#~ msgid "Title"
+#~ msgstr "Заглавие"
+
+#~ msgctxt "Anonymous reviewer name"
+#~ msgid "Name"
+#~ msgstr "Имя"
+
+#~ msgid ""
+#~ "I am a new customer and want to create an account before checking out"
+#~ msgstr ""
+#~ "Я новый клиент и хочу создать учетную запись перед  тем как продолжить."
+
+#~ msgid ""
+#~ "Create your account and then you will be redirected back to the checkout "
+#~ "process"
+#~ msgstr ""
+#~ "Создайте учетную запись и вы будете перенаправлены обратно к процессу "
+#~ "оформлению заказа"
+
+#~ msgid "Address saved"
+#~ msgstr "Адрес сохранен"
+
+#~ msgid "Address deleted"
+#~ msgstr "Адрес удален"
+
+#~ msgid ""
+#~ "Shipping is unavailable for your chosen address - please choose another"
+#~ msgstr ""
+#~ "Невозможно осуществить доставку по указанному адресу - пожалуйста "
+#~ "выберите другой "
+
+#~ msgid "email address"
+#~ msgstr "Адрес электронной почты"
+
+#~ msgid ""
+#~ "Designates whether this user should be treated as active. Unselect this "
+#~ "instead of deleting accounts."
+#~ msgstr ""
+#~ "Обозначает, что пользователя можно считать активным. Снимите выделение, "
+#~ "чтобы удалить учетные записи. "
+
+#~ msgid "Users"
+#~ msgstr "Пользователи"
+
+#~ msgid "Subject"
+#~ msgstr "Тема"
+
+#~ msgid "Email Subject Template"
+#~ msgstr "Шаблон темы письма"
+
+#~ msgid "Email Body Template"
+#~ msgstr "Шаблон содержания письма"
+
+#~ msgid "HTML template"
+#~ msgstr "HTML шаблон"
+
+#~ msgid "Archive"
+#~ msgstr "Архив"
+
+#~ msgid "Closed"
+#~ msgstr "Закрыто"
+
+#~ msgid "Customer"
+#~ msgstr "Клиент"
+
+#~ msgid "Password"
+#~ msgstr "Пароль"
+
+#~ msgid "The entered password is not valid!"
+#~ msgstr "Введен не верный пароль!"
+
+#~ msgctxt "start date"
+#~ msgid "From"
+#~ msgstr "От"
+
+#~ msgctxt "end date"
+#~ msgid "To"
+#~ msgstr "Кому"
+
+#~ msgid "Order number"
+#~ msgstr "Номер заказа"
+
+#~ msgid "All orders"
+#~ msgstr "Все заказы"
+
+#~ msgid "Title"
+#~ msgstr "Заглавие"
+
+#~ msgctxt "Page title"
+#~ msgid "Title"
+#~ msgstr "Заглавие"
+
+#~ msgctxt "Partner's name"
+#~ msgid "Name"
+#~ msgstr "Имя"
+
+#~ msgctxt "User's name"
+#~ msgid "Name"
+#~ msgstr "Имя"
+
+#~ msgid "Number of Orders"
+#~ msgstr "Количество заказов"
+
+#~ msgctxt "Promotion product list title"
+#~ msgid "Title"
+#~ msgstr "Заглавие"
+
+#~ msgctxt "Tabbed block title"
+#~ msgid "Title"
+#~ msgstr "Заглавие"
+
+#~ msgid "Edit order contents"
+#~ msgstr "Редактировать заказ"
+
+#~ msgid "Item"
+#~ msgstr "Элемент"
+
+#~ msgid "Who are you?"
+#~ msgstr "Кто вы?"
+
+#~ msgid "Get a password reminder"
+#~ msgstr "Напомнить пароль"
+
+#~ msgid "Continuing..."
+#~ msgstr "Продолжаем..."
+
+#~ msgid "Continue"
+#~ msgstr "Продолжить"
+
+#~ msgid "1. Shipping address"
+#~ msgstr "1. Адрес доставки"
+
+#~ msgid "2. Shipping method"
+#~ msgstr "2. Способ доставки"
+
+#~ msgid "3. Payment"
+#~ msgstr "3. Оплата"
+
+#~ msgid "4. Preview"
+#~ msgstr "4. Просмотр"
+
+#~ msgid "5. Confirmation"
+#~ msgstr "5. Подтверждение"
+
+#~ msgid "Order preview"
+#~ msgstr "Просмотр заказа"
+
+#~ msgid "Preview order"
+#~ msgstr "Предварительный просмотр заказа"
+
+#~ msgid "Where should we ship to?"
+#~ msgstr "Куда нам доставить?"
+
+#~ msgid "Ship to your default shipping address"
+#~ msgstr "Использовать адрес по умолчанию"
+
+#~ msgid "Ship to this address"
+#~ msgstr "Доставить по этому адресу"
+
+#~ msgid "Delete"
+#~ msgstr "Удалить"
+
+#~ msgid "Or a new address?"
+#~ msgstr "Новый адрес?"
+
+#~ msgid "return to basket"
+#~ msgstr "вернуться в корзину"
+
+#~ msgid ""
+#~ "You're receiving this e-mail because you requested a password reset for "
+#~ "your user account at %(name)s."
+#~ msgstr ""
+#~ "Вы получили это письмо, так как запросили восстановление пароля, для "
+#~ "учетной записи пользователя %(name)s"
+
+#~ msgctxt "noun"
+#~ msgid "Archive"
+#~ msgstr "Архив"
+
+#~ msgctxt "verb"
+#~ msgid "Archive"
+#~ msgstr "Архив"
+
+#~ msgid "Images"
+#~ msgstr "Изображения"
+
+#~ msgid "Customer has deleted their account."
+#~ msgstr "Клиент удалил учетную запись."
+
+#~ msgid ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> product added\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> products added\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(n)s</strong>товар добавлен"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(n)s</strong>товары добавлены"
+#~ msgstr[2] ""
+#~ "\n"
+#~ "<strong>%(n)s</strong>товары добавлены"
+#~ msgstr[3] ""
+#~ "\n"
+#~ "<strong>%(n)s</strong>товары добавлены"
+
+#~ msgid "Filename"
+#~ msgstr "Имя файла"
+
+#~ msgid "Duplicate products"
+#~ msgstr "Копировать товары"
+
+#~ msgctxt "Review title"
+#~ msgid "Title"
+#~ msgstr "Заглавие"

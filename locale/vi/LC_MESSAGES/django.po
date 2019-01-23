@@ -1,0 +1,6106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Pascal Bader <info@djangoviet.com>, 2015
+# Rain Le <rain@soi.vn>, 2018
+# tai minh <thieuminhtai0394@gmail.com>, 2017
+# Toan Vu <vtoanb@gmail.com>, 2016
+# Tran Van <vantxm@yahoo.co.uk>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-11 08:36+0000\n"
+"Last-Translator: Oscar Bot <maik.hoepfel@tangentsnowball.com>\n"
+"Language-Team: Vietnamese (http://www.transifex.com/codeinthehole/django-"
+"oscar/language/vi/)\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr "Bảng điều khiển "
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr "Danh mục"
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "Sản phẩm"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr "Các loại sản phẩm "
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "Phân loại"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr "Phạm vi"
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr "Thông báo hết hàng"
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr "Lựa chọn "
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr "Cam kết thực hiện"
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "Đặt hàng"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr "Thống kê"
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr "Những đối tác"
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr "Khách hàng"
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr "Thông báo yêu cầu hàng trong kho"
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr "Những ưu đãi"
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "Phiếu giảm giá"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr "Nội dung"
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr "Khóa nội dung"
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr "Khóa nội dung của trang"
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr "Trang"
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr "Mẫu email"
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr "Đánh giá"
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr "Báo cáo"
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr "Kiểu "
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr "Xếp hạng "
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr "Phạm vi giá"
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr "0 tới 20"
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr "20 tới 40"
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr "40 tới 60"
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr "60+"
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+#, fuzzy
+#| msgid "Catalogue"
+msgid "Catalan"
+msgstr "Danh mục"
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+#, fuzzy
+#| msgid "Permalink"
+msgid "German"
+msgstr "Permalink"
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr "Đang gửi..."
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr "Đi"
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr "Tài khoản"
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr "Đăng xuất"
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr "Đăng nhập hoặc đăng ký"
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "Giỏ hàng"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+"\n"
+"Tổng: %(total)s"
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr "Duyệt lưu"
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "Tất cả sản phẩm "
+
+#~ msgid "Mr"
+#~ msgstr "Ông"
+
+#~ msgid "Miss"
+#~ msgstr "Chị"
+
+#~ msgid "Mrs"
+#~ msgstr "Bà"
+
+#~ msgid "Ms"
+#~ msgstr "Cô"
+
+#~ msgid "Dr"
+#~ msgstr "Ông"
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "Tiêu đề"
+
+#~ msgid "First name"
+#~ msgstr "Họ"
+
+#~ msgid "Last name"
+#~ msgstr "Tên"
+
+#~ msgid "First line of address"
+#~ msgstr "Địa chỉ 1"
+
+#~ msgid "Second line of address"
+#~ msgstr "Địa chỉ 2"
+
+#~ msgid "Third line of address"
+#~ msgstr "Địa chỉ 3"
+
+#~ msgid "City"
+#~ msgstr "Thành phố"
+
+#~ msgid "State/County"
+#~ msgstr "Thành phố/Quốc gia"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "Mã vùng"
+
+#~ msgid "Country"
+#~ msgstr "Quốc gia"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "Tìm kiếm theo địa chỉ"
+
+#~ msgid "Address"
+#~ msgstr "Địa chỉ"
+
+#~ msgid "Addresses"
+#~ msgstr "Những địa chỉ"
+
+#~ msgid "Addresses in %(country)s require a valid postcode"
+#~ msgstr "Địa chỉ tại %(country)s cần mã vùng hợp lệ"
+
+#~ msgid "The postcode '%(postcode)s' is not valid for %(country)s"
+#~ msgstr "Mã vùng '%(postcode)s' không hợp lệ cho %(country)s"
+
+#~ msgid "ISO 3166-1 alpha-2"
+#~ msgstr "Tiêu chuẩn ISO 3166-1 alpha-2"
+
+#~ msgid "ISO 3166-1 alpha-3"
+#~ msgstr "Tiêu chuẩn ISO 3166-1 alpha-3"
+
+#~ msgid "ISO 3166-1 numeric"
+#~ msgstr "Tiêu chuẩn ISO 3166-1 numeric"
+
+#~ msgid "Country name"
+#~ msgstr "Tên quốc gia"
+
+#~ msgid "Official name"
+#~ msgstr "Văn phòng"
+
+#~ msgid "Display order"
+#~ msgstr "Tên hiển thị "
+
+#~ msgid "Higher the number, higher the country in the list."
+#~ msgstr "Số càng lớn, thể hiện các nước lớn trên danh sách"
+
+#~ msgid "Is shipping country"
+#~ msgstr "Được vận chuyển từ quốc gia"
+
+#~ msgid "Countries"
+#~ msgstr "Các quốc gia"
+
+#~ msgid "Phone number"
+#~ msgstr "Số điện thoại"
+
+#~ msgid "In case we need to call you about your order"
+#~ msgstr "Trong trường hợp chúng tôi cần phải gọi cho bạn về đơn hàng của bạn"
+
+#~ msgid "Instructions"
+#~ msgstr "Hướng dẫn"
+
+#~ msgid "Tell us anything we should know when delivering your order."
+#~ msgstr "Cho chúng tôi biết về những lưu ý khi giao hàng cho bạn "
+
+#~ msgid "Shipping address"
+#~ msgstr "Địa chỉ giao hàng"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "Những nơi cần giao hàng"
+
+#~ msgid "User"
+#~ msgstr "Tên khách hàng"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "Chọn địa chỉ mặc định?"
+
+#~ msgid "Default billing address?"
+#~ msgstr "Chọn mặc định hóa đơn?"
+
+#~ msgid "Address Hash"
+#~ msgstr "Địa chỉ"
+
+#~ msgid "Date Created"
+#~ msgstr "Ngày tạo "
+
+#~ msgid "User address"
+#~ msgstr "Địa chỉ khách hàng"
+
+#~ msgid "User addresses"
+#~ msgstr "Địa chỉ của những khách hàng"
+
+#~ msgid "This address is already in your address book"
+#~ msgstr "Địa chỉ này đã tồn tại trên sổ địa chỉ"
+
+#~ msgid "Billing address"
+#~ msgstr "Địa chỉ trên hóa đơn"
+
+#~ msgid "Billing addresses"
+#~ msgstr "Những địa chỉ ghi trên hóa đơn"
+
+#~ msgid "Partner"
+#~ msgstr "Đối tác"
+
+#~ msgid "Partner address"
+#~ msgstr "Địa chỉ đối tác"
+
+#~ msgid "Partner addresses"
+#~ msgstr "Những địa chỉ của đối tác"
+
+#~ msgid "Product"
+#~ msgstr "Sản phẩm"
+
+#~ msgid "Views"
+#~ msgstr "Lượng người xem"
+
+#~ msgid "Basket Additions"
+#~ msgstr "Thêm vào giỏ hàng"
+
+#~ msgid "Purchases"
+#~ msgstr "Mua"
+
+#~ msgid "Score"
+#~ msgstr "Điểm tích lũy"
+
+#~ msgid "Product record"
+#~ msgstr "Lịch sử mua hàng"
+
+#~ msgid "Product records"
+#~ msgstr "Những lịch sử mua hàng"
+
+#~ msgid "Record for '%s'"
+#~ msgstr "Lịch sử của '%s'"
+
+#~ msgid "Product Views"
+#~ msgstr "Lượt xem sản phẩm"
+
+#~ msgid "Order Lines"
+#~ msgstr "Dòng đặt hàng"
+
+#~ msgid "Order Items"
+#~ msgstr "Sản phẩm đặt hàng"
+
+#~ msgid "Total Spent"
+#~ msgstr "Tổng thành tiền"
+
+#~ msgid "Last Order Date"
+#~ msgstr "Đơn hàng gần nhất"
+
+#~ msgid "User record"
+#~ msgstr "Lịch sử người dùng"
+
+#~ msgid "User records"
+#~ msgstr "Những lịch sử người dùng"
+
+#~ msgid "User product view"
+#~ msgstr "Lượng người xem qua sản phẩm"
+
+#~ msgid "User product views"
+#~ msgstr "Những lần người dùng xem sản phẩm"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "%(user)s xem '%(product)s'"
+
+#~ msgid "Search term"
+#~ msgstr "Giới hạn tìm kiếm "
+
+#~ msgid "User search query"
+#~ msgstr "Dữ liệu người dùng tìm kiếm"
+
+#~ msgid "User search queries"
+#~ msgstr "Những yêu cầu tìm kiếm của người "
+
+#~ msgid "%(user)s searched for '%(query)s'"
+#~ msgstr "%(user)s tìm kiếm  '%(query)s'"
+
+#~ msgid "Analytics"
+#~ msgstr "Thống kê "
+
+#~ msgid "Basket additions"
+#~ msgstr "Thêm vào giỏ hàng "
+
+#~ msgid "Product analytics"
+#~ msgstr "Phân tích sản phẩm "
+
+#~ msgid "Name"
+#~ msgstr "Tên"
+
+#~ msgid "Date registered"
+#~ msgstr "Ngày đăng ký "
+
+#~ msgid "Product views"
+#~ msgstr "Lượt xem sản phẩm "
+
+#~ msgid "Order lines"
+#~ msgstr "Lượt đặt hàng "
+
+#~ msgid "Order items"
+#~ msgstr "Sản phẩm đặt hàng "
+
+#~ msgid "Total spent"
+#~ msgstr "Tổng thanh toán "
+
+#~ msgid "Date of last order"
+#~ msgstr "Lần cuối đặt hàng"
+
+#~ msgid "User analytics"
+#~ msgstr "Số liệu người dùng"
+
+#~ msgid "Owner"
+#~ msgstr "Chủ sở hữu"
+
+#~ msgid "Open - currently active"
+#~ msgstr "Hiện đang hoạt "
+
+#~ msgid "Merged - superceded by another basket"
+#~ msgstr "Sáp nhập- Trộn tất cả các giỏ hàng"
+
+#~ msgid "Saved - for items to be purchased later"
+#~ msgstr "Lưu những món hàng để mua "
+
+#~ msgid "Frozen - the basket cannot be modified"
+#~ msgstr "Khóa lại - Giỏ hàng không thể thay đổi"
+
+#~ msgid "Submitted - has been ordered at the checkout"
+#~ msgstr "Gửi đơn hàng khi thanh toán."
+
+#~ msgid "Status"
+#~ msgstr "Trạng thái "
+
+#~ msgid "Date created"
+#~ msgstr "Ngày tạo"
+
+#~ msgid "Date merged"
+#~ msgstr "Ngày sửa"
+
+#~ msgid "Date submitted"
+#~ msgstr "Ngày gửi"
+
+#~ msgid "Baskets"
+#~ msgstr "Những giỏ hàng"
+
+#~ msgid "%(status)s basket (owner: %(owner)s, lines: %(num_lines)d)"
+#~ msgstr "%(status)s giỏ hàng (owner: %(owner)s, dây : %(num_lines)d)"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order."
+#~ msgstr ""
+#~ "Do hạn chế về kỹ thuật, chúng tôi không thể giao nhiều hơn %(threshold)d "
+#~ "trong một đơn hàng."
+
+#~ msgid "Line Reference"
+#~ msgstr "Tham khảo"
+
+#~ msgid "Quantity"
+#~ msgstr "Số lượng"
+
+#~ msgid "Currency"
+#~ msgstr "Tiền tệ"
+
+#~ msgid "Price excl. Tax"
+#~ msgstr "Giá chưa bao gồm thuế"
+
+#~ msgid "Price incl. Tax"
+#~ msgstr "Giá bao gồm thuế"
+
+#~ msgid "Basket line"
+#~ msgstr "Giỏ hàng dây "
+
+#~ msgid "Basket lines"
+#~ msgstr "Những giỏ hàng "
+
+#~ msgid ""
+#~ "Basket #%(basket_id)d, Product #%(product_id)d, quantity %(quantity)d"
+#~ msgstr ""
+#~ "Giỏ hàng #%(basket_id)d, Sản phẩm  #%(product_id)d, Số lượng %(quantity)d"
+
+#~ msgid "You cannot modify a %s basket"
+#~ msgstr "Bạn không thể thay đổi %s giỏ hàng "
+
+#~ msgid ""
+#~ "The price of '%(product)s' has increased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "Giá của  '%(product)s' đã tăng từ %(old_price)s đến %(new_price)s kể từ "
+#~ "khi bạn thêm nó vào giỏ hàng của bạn "
+
+#~ msgid ""
+#~ "The price of '%(product)s' has decreased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "Giá của  '%(product)s' đã giảm  từ %(old_price)s đến %(new_price)s kể từ "
+#~ "khi bạn thêm nó vào giỏ hàng của bạn "
+
+#~ msgid "Line"
+#~ msgstr "dây "
+
+#~ msgid "Option"
+#~ msgstr "Lựa chọn "
+
+#~ msgid "Value"
+#~ msgstr "Giá trị "
+
+#~ msgid "Line attribute"
+#~ msgstr "Thuộc tính dây "
+
+#~ msgid "Line attributes"
+#~ msgstr "Những thuộc tính dây "
+
+#~ msgid "Save for Later"
+#~ msgstr "Lưu lại cho lần sau "
+
+#~ msgid "Move to Basket"
+#~ msgstr "Di chuyển đến giỏ hàng "
+
+#~ msgid "Code"
+#~ msgstr "Mã "
+
+#~ msgid "Variant"
+#~ msgstr "Dạng khác "
+
+#~ msgid "Please select a valid product"
+#~ msgstr "Vui lòng chọn sản phẩm hợp lệ "
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order. Your basket currently has %(basket)d "
+#~ "items."
+#~ msgstr ""
+#~ "Do hạn chế về kỹ thuật, chúng tôi không thể giao nhiều hơn%(threshold)d  "
+#~ "mục trong một đơn hàng. Giỏ hàng của bạn hiện có%(basket)d mục."
+
+#~ msgid ""
+#~ "This product cannot be added to the basket as its currency isn't the same "
+#~ "as other products in your basket"
+#~ msgstr ""
+#~ "Sản phẩm này không thể thêm vào giỏ hàng vì loại tiền tệ  không giống như "
+#~ "các sản phẩm khác trong giỏ hàng của bạn"
+
+#~ msgid ""
+#~ "We have merged a basket from a previous session. Its contents might have "
+#~ "changed."
+#~ msgstr ""
+#~ "Chúng tôi đã gom một giỏ từ một phiên trước. Nội dung của nó có thể đã "
+#~ "thay đổi."
+
+#~ msgid "User ID"
+#~ msgstr "ID của bạn "
+
+#~ msgid "Email"
+#~ msgstr "Email "
+
+#~ msgid "Basket status"
+#~ msgstr "Trạng thái giỏ hàng "
+
+#~ msgid "Num lines"
+#~ msgstr "Số dây "
+
+#~ msgid "Num items"
+#~ msgstr "Số sản phẩm "
+
+#~ msgid "Date of creation"
+#~ msgstr "Ngày tạo "
+
+#~ msgid "Time since creation"
+#~ msgstr "Thời gian kể từ khi tạo "
+
+#~ msgid "Open baskets"
+#~ msgstr "Mở giỏ hàng "
+
+#~ msgid "Time between creation and submission"
+#~ msgstr "Thời gian từ khi tạo đến khi gửi "
+
+#~ msgid "Submitted baskets"
+#~ msgstr "Gửi giỏ hàng "
+
+#~ msgid "You can't save an item for later if you're not logged in!"
+#~ msgstr "Bạn không thể lưu sản phẩm cho lần sau vì bạn chưa đăng nhập "
+
+#~ msgid ""
+#~ "Your basket couldn't be updated. Please correct any validation errors "
+#~ "below."
+#~ msgstr ""
+#~ "Giỏ hàng của bạn chưa được cập nhật. Bạn vui lòng kiểm tra  lại các thông "
+#~ "tin bên dưới."
+
+#~ msgid "The '%(code)s' voucher has expired"
+#~ msgstr "Ma '%(code)s' của phiếu giảm giá đã hết hạn. "
+
+#~ msgid "The '%(code)s' voucher is not active"
+#~ msgstr "Mã '%(code)s' của phiếu giảm giá chưa được kích hoạt. "
+
+#~ msgid "Your basket does not qualify for a voucher discount"
+#~ msgstr "Giỏ hàng của bạn chưa đủ số lượng cho phiếu giảm giá ."
+
+#~ msgid "Voucher '%(code)s' added to basket"
+#~ msgstr "Mã '%(code)s' phiếu giảm giá đã thêm vào giỏ  hàng ."
+
+#~ msgid "You have already added the '%(code)s' voucher to your basket"
+#~ msgstr "Bạn đã thêm mã '%(code)s'  của phiếu giảm giá vào giỏ hàng ."
+
+#~ msgid "No voucher found with code '%(code)s'"
+#~ msgstr "Không tìm thấy phiếu giảm giá với mã '%(code)s' "
+
+#~ msgid "Please enter a voucher code"
+#~ msgstr "Bạn vui lòng nhập mã của phiếu giảm giá ."
+
+#~ msgid "Voucher '%s' removed from basket"
+#~ msgstr "Phiếu giảm giá '%s' bị bỏ ra khỏi giỏ hàng"
+
+#~ msgid "Slug"
+#~ msgstr "Tiêu đề "
+
+#~ msgid "Requires shipping?"
+#~ msgstr "Yêu cầu giao hàng ? "
+
+#~ msgid "Track stock levels?"
+#~ msgstr "Kiểm tra mức độ tồn kho ?"
+
+#~ msgid "Product class"
+#~ msgstr "Dòng sản phẩm "
+
+#~ msgid "Product classes"
+#~ msgstr "Những dòng sản phẩm "
+
+#~ msgid "Description"
+#~ msgstr "Mô tả chi tiết "
+
+#~ msgid "Image"
+#~ msgstr "Hình ảnh "
+
+#~ msgid "Category"
+#~ msgstr "Danh mục "
+
+#~ msgid "Product category"
+#~ msgstr "Danh mục hàng hóa "
+
+#~ msgid "Product categories"
+#~ msgstr "Những danh mục hàng hóa "
+
+#~ msgid "Stand-alone product"
+#~ msgstr "Sản phẩm riêng lẻ "
+
+#~ msgid "Parent product"
+#~ msgstr "Sản phẩm trước "
+
+#~ msgid "Child product"
+#~ msgstr "Sản phẩm sau "
+
+#~ msgid "Product structure"
+#~ msgstr "Cấu trúc sản phẩm "
+
+#~ msgid "UPC"
+#~ msgstr "UPC"
+
+#~ msgid ""
+#~ "Universal Product Code (UPC) is an identifier for a product which is not "
+#~ "specific to a particular  supplier. Eg an ISBN for a book."
+#~ msgstr ""
+#~ "Mã vạch sản phẩm (UPC) là một định danh cho một sản phẩm mà không phải là "
+#~ "cụ thể cho một nhà cung cấp cụ thể. Ví dụ: mã vạch cho một cuốn sách. "
+
+#~ msgid ""
+#~ "Only choose a parent product if you're creating a child product.  For "
+#~ "example if this is a size 4 of a particular t-shirt.  Leave blank if this "
+#~ "is a stand-alone product (i.e. there is only one version of this product)."
+#~ msgstr ""
+#~ "Chỉ chọn một sản phẩm làm  gốc nếu bạn đang tạo ra một sản phẩm nhỏ hơn . "
+#~ "Ví dụ, nếu đây là một kích thước 4 của một t-shirt đặc biệt. Để trống nếu "
+#~ "điều này là một sản phẩm độc lập (tức là chỉ có một phiên bản của sản "
+#~ "phẩm này)."
+
+#~ msgctxt "Product title"
+#~ msgid "Title"
+#~ msgstr "Tiêu đề"
+
+#~ msgid "Product type"
+#~ msgstr "Kiểu sản phẩm "
+
+#~ msgid "Choose what type of product this is"
+#~ msgstr "Chọn loại sản phẩm này là"
+
+#~ msgid "Attributes"
+#~ msgstr "Thuộc tính "
+
+#~ msgid ""
+#~ "A product attribute is something that this product may have, such as a "
+#~ "size, as specified by its class"
+#~ msgstr ""
+#~ "Một thuộc tính của sản phẩm là điều mà sản phẩm này có thể có, chẳng hạn "
+#~ "như kích thước, màu sắc..."
+
+#~ msgid "Product options"
+#~ msgstr "Lựa chọn sản phẩm "
+
+#~ msgid ""
+#~ "Options are values that can be associated with a item when it is added to "
+#~ "a customer's basket.  This could be something like a personalised message "
+#~ "to be printed on a T-shirt."
+#~ msgstr ""
+#~ "Tùy chọn là giá trị mà có thể được liên kết với một mục khi nó được thêm "
+#~ "vào giỏ của khách hàng. Đây có thể là một cái gì đó giống như một tin "
+#~ "nhắn cá nhân để được in trên một T-shirt."
+
+#~ msgid "Recommended products"
+#~ msgstr "Sản phẩm đề xuất "
+
+#~ msgid ""
+#~ "These are products that are recommended to accompany the main product."
+#~ msgstr ""
+#~ "Đây là những sản phẩm được đề nghị để đi cùng với các sản phẩm chính."
+
+#~ msgid "Date updated"
+#~ msgstr "Ngày cập nhật "
+
+#~ msgid "Is discountable?"
+#~ msgstr "Là sản phẩm giảm giá ? "
+
+#~ msgid "This flag indicates if this product can be used in an offer or not"
+#~ msgstr ""
+#~ "Đánh dấu  này cho biết sản phẩm này có thể được sử dụng trong một đề xuất "
+#~ "hay không ? "
+
+#~ msgid "Your product must have a title."
+#~ msgstr "Sản phẩm của bạn cần một tiêu đề ."
+
+#~ msgid "Your product must have a product class."
+#~ msgstr "Sản phẩm của bạn cần một danh mục sản phẩm "
+
+#~ msgid "Only child products can have a parent."
+#~ msgstr "Chỉ sản phẩm con có sản phẩm cha "
+
+#~ msgid "A child product needs a parent."
+#~ msgstr "Một sản phẩm con cần sản phẩm cha "
+
+#~ msgid "You can only assign child products to parent products."
+#~ msgstr "Bạn chỉ có thể gán các sản phẩm  con với các sản phẩm cha ."
+
+#~ msgid "A child product can't have a product class."
+#~ msgstr "Một sản phẩm con không thể có một lớp sản phẩm."
+
+#~ msgid "A child product can't have a category assigned."
+#~ msgstr "Một sản phẩm con  không thể có một danh mục được giao."
+
+#~ msgid "A child product can't have options."
+#~ msgstr "Một sản phẩm con  không thể có nhiều lựa chọn."
+
+#~ msgid "A parent product can't have stockrecords."
+#~ msgstr "Một sản phẩm cha không có hồ sơ lưu trữ ."
+
+#~ msgid "The specified parent product is a child product."
+#~ msgstr "Các sản phẩm cha có chi tiết là một sản phẩm con."
+
+#~ msgid "One can't add a child product to a product with stock records."
+#~ msgstr ""
+#~ "Người ta không thể thêm một sản phẩm con cho một sản phẩm với các hồ sơ "
+#~ "lưu trữ ."
+
+#~ msgid "Primary product"
+#~ msgstr "Sản phẩm chính "
+
+#~ msgid "Recommended product"
+#~ msgstr "Sản phẩm đề nghị "
+
+#~ msgid "Ranking"
+#~ msgstr "Xếp hạng "
+
+#~ msgid ""
+#~ "Determines order of the products. A product with a higher value will "
+#~ "appear before one with a lower ranking."
+#~ msgstr ""
+#~ "Xác định thứ tự của các sản phẩm. Một sản phẩm có giá trị cao hơn sẽ xuất "
+#~ "hiện trước khi một người với một thứ hạng thấp hơn."
+
+#~ msgid "Product recommendation"
+#~ msgstr "Sản phẩm đề nghị "
+
+#~ msgid "Product recomendations"
+#~ msgstr "Những sản phẩm đề nghị "
+
+#~ msgid ""
+#~ "Code can only contain the letters a-z, A-Z, digits, and underscores, and "
+#~ "can't start with a digit."
+#~ msgstr ""
+#~ "Mã chỉ có thể bao gồm các ký tự  a-z, A-Z, số , gạch dưới, và không thể "
+#~ "bắt đầu với số."
+
+#~ msgid "Text"
+#~ msgstr "Chữ "
+
+#~ msgid "Integer"
+#~ msgstr "Số "
+
+#~ msgid "True / False"
+#~ msgstr "Đúng / Sai "
+
+#~ msgid "Float"
+#~ msgstr "Số nguyên "
+
+#~ msgid "Rich Text"
+#~ msgstr "Nhiều chữ "
+
+#~ msgid "Date"
+#~ msgstr "Ngày "
+
+#~ msgid "Entity"
+#~ msgstr "Chủ thể "
+
+#~ msgid "File"
+#~ msgstr "Thư mục "
+
+#~ msgid "Option Group"
+#~ msgstr "Lựa chọn nhóm "
+
+#~ msgid "Required"
+#~ msgstr "Yêu cầu "
+
+#~ msgid "Product attribute"
+#~ msgstr "Thuộc tính sản phẩm "
+
+#~ msgid "Product attributes"
+#~ msgstr "Những thuộc tính sản phẩm "
+
+#~ msgid "Must be str or unicode"
+#~ msgstr "Phải là chữ hoặc số "
+
+#~ msgid "Must be a float"
+#~ msgstr "Phải là số nguyên "
+
+#~ msgid "Must be an integer"
+#~ msgstr "Phải là số "
+
+#~ msgid "Must be a date or datetime"
+#~ msgstr "phải là ngày hoặc ngày giờ "
+
+#~ msgid "Must be a boolean"
+#~ msgstr "Phải là giá trị đúng/sai "
+
+#~ msgid "Must be a model instance"
+#~ msgstr "Phải là một ví dụ mô hình"
+
+#~ msgid "Must be an AttributeOption model object instance"
+#~ msgstr "Phải là thuộc tính "
+
+#~ msgid "AttributeOption has not been saved yet"
+#~ msgstr "Thuộc tính chưa được lưu "
+
+#~ msgid "%(enum)s is not a valid choice for %(attr)s"
+#~ msgstr "%(enum)s không là hợp lý cho  %(attr)s"
+
+#~ msgid "Must be a file field"
+#~ msgstr "Phải là thư mục "
+
+#~ msgid "Attribute"
+#~ msgstr "Thuộc tính "
+
+#~ msgid "Boolean"
+#~ msgstr "Đúng / Sai "
+
+#~ msgid "Richtext"
+#~ msgstr "Văn bản "
+
+#~ msgid "Value option"
+#~ msgstr "Giá trị lựa chọn "
+
+#~ msgid "Product attribute value"
+#~ msgstr "Giá trị thuộc tính sản phẩm "
+
+#~ msgid "Product attribute values"
+#~ msgstr "Những giá trị thuộc tính sản phẩm "
+
+#~ msgid "Attribute option group"
+#~ msgstr "Thuộc tính nhóm sản phẩm "
+
+#~ msgid "Attribute option groups"
+#~ msgstr "Những giá trị nhóm sản phẩm "
+
+#~ msgid "Group"
+#~ msgstr "Nhóm "
+
+#~ msgid "Attribute option"
+#~ msgstr "Thuộc tính lựa chọn "
+
+#~ msgid "Attribute options"
+#~ msgstr "Lựa chọn thuộc tính "
+
+#~ msgid "Required - a value for this option must be specified"
+#~ msgstr "Bắt buộc - giá trị cho tùy chọn này phải được cụ thể"
+
+#~ msgid "Optional - a value for this option can be omitted"
+#~ msgstr "Tùy chọn -  giá trị cho tùy chọn này có thể được bỏ qua"
+
+#~ msgid "Original"
+#~ msgstr "Nguồn gốc "
+
+#~ msgid "Caption"
+#~ msgstr "Chú thích "
+
+#~ msgid ""
+#~ "An image with a display order of zero will be the primary image for a "
+#~ "product"
+#~ msgstr ""
+#~ "Hình ảnh với số thứ tự hiển thị bằng 0 sẽ là hình ảnh chính cho sản phẩm"
+
+#~ msgid "Product image"
+#~ msgstr "Hình ảnh sản phẩm "
+
+#~ msgid "Product images"
+#~ msgstr "Những hình ảnh của sản phẩm "
+
+#~ msgid "%(obj)s has no attribute named '%(attr)s'"
+#~ msgstr "%(obj)s không có thuộc tính  '%(attr)s'"
+
+#~ msgid "%(attr)s attribute cannot be blank"
+#~ msgstr "%(attr)s thuộc tính không thể để trống "
+
+#~ msgid "%(attr)s attribute %(err)s"
+#~ msgstr "%(attr)s thuộc tính %(err)s"
+
+#~ msgctxt "Product review title"
+#~ msgid "Title"
+#~ msgstr "Tiêu đề"
+
+#~ msgid "Body"
+#~ msgstr "Sản phẩm "
+
+#~ msgctxt "Anonymous reviewer name"
+#~ msgid "Name"
+#~ msgstr "Tên"
+
+#~ msgid "URL"
+#~ msgstr "Đường dẫn "
+
+#~ msgid "Requires moderation"
+#~ msgstr "Bắt buộc kiểm duyệt "
+
+#~ msgid "Approved"
+#~ msgstr "Đồng ý "
+
+#~ msgid "Rejected"
+#~ msgstr "Loại bỏ "
+
+#~ msgid "Total Votes"
+#~ msgstr "Tổng phiếu "
+
+#~ msgid "Delta Votes"
+#~ msgstr "Phiếu Delta "
+
+#~ msgid "Product review"
+#~ msgstr "Xem trước sản phẩm "
+
+#~ msgid "Product reviews"
+#~ msgstr "Những lượt xem sản phẩm "
+
+#~ msgid "Anonymous reviews must include a name and an email"
+#~ msgstr "Người không phải là thành viên có thể đánh giá với tên và email "
+
+#~ msgid "anonymous"
+#~ msgstr "Người chưa đăng ký thành viên "
+
+#~ msgid "Only signed in users can vote"
+#~ msgstr "Chỉ người có thể bỏ phiếu"
+
+#~ msgid "Up"
+#~ msgstr "Lên trên "
+
+#~ msgid "Down"
+#~ msgstr "Xuống dưới "
+
+#~ msgid "Delta"
+#~ msgstr "Delta "
+
+#~ msgid "Vote"
+#~ msgstr "Phiếu "
+
+#~ msgid "Votes"
+#~ msgstr "Những phiếu bầu "
+
+#~ msgid "You cannot vote on your own reviews"
+#~ msgstr "Bạn không thể bỏ phiếu đánh giá của bạn "
+
+#~ msgid "Only signed-in users can vote on reviews"
+#~ msgstr "Chỉ thành viên mới có thể bỏ phiếu đánh giá "
+
+#~ msgid "You can only vote once on a review"
+#~ msgstr "Bạn chỉ được bỏ phiếu đánh giá "
+
+#~ msgid "Catalogue reviews"
+#~ msgstr "Đánh giá danh mục "
+
+#~ msgid "Recency"
+#~ msgstr "Gần nhất "
+
+#~ msgid "Sort by"
+#~ msgstr "Sắp xếp theo "
+
+#~ msgid "You have already reviewed this product!"
+#~ msgstr "Bạn đã đánh giá sản phẩm này "
+
+#~ msgid "You can't leave a review for this product."
+#~ msgstr "Bạn không thể rời trang đánh giá sản phẩm này "
+
+#~ msgid "Thank you for reviewing this product"
+#~ msgstr "Cảm ơn bạn đã đánh giá sản phẩm này "
+
+#~ msgid "Thanks for voting!"
+#~ msgstr "Cảm ơn về phiếu của bạn !"
+
+#~ msgid "%(filename)s is not a valid image (%(error)s)"
+#~ msgstr "%(filename)s không phải là hình hợp lệ (%(error)s)"
+
+#~ msgid "%s is not a valid image archive"
+#~ msgstr "%s không phải là một kho lưu trữ hình ảnh hợp lệ"
+
+#~ msgid "The given page number was invalid."
+#~ msgstr "Số trang không hợp lệ."
+
+#~ msgid "Checkout"
+#~ msgstr "Thanh toán"
+
+#~ msgid "My email address is"
+#~ msgstr "Địa chỉ email "
+
+#~ msgid "I am a new customer and want to checkout as a guest"
+#~ msgstr "Tôi là khách hàng mới và muốn thanh toán như là một khách vãn lai"
+
+#~ msgid ""
+#~ "I am a new customer and want to create an account before checking out"
+#~ msgstr "Tôi là khách hàng mới và muốn tạo một tài khoản trước khi thoát "
+
+#~ msgid "I am a returning customer, and my password is"
+#~ msgstr "Tôi là một khách hàng quay trở lại, và mật khẩu của tôi là "
+
+#~ msgid "A user with that email address already exists"
+#~ msgstr "Một người dùng có địa chỉ email đã tồn tại "
+
+#~ msgid "You need to add some items to your basket to checkout"
+#~ msgstr "Bạn cần phải thêm một số mặt hàng vào giỏ hàng của bạn để kiểm tra"
+
+#~ msgid ""
+#~ "'%(title)s' is no longer available to buy (%(reason)s). Please adjust "
+#~ "your basket to continue"
+#~ msgstr ""
+#~ "'%(title)s'không có sẵn (%(reason)s). Vui lòng điều chỉnh giỏ hàng của "
+#~ "bạn để tiếp tục"
+
+#~ msgid "Please either sign in or enter your email address"
+#~ msgstr "Vui lòng đăng nhập hoặc nhập địa chỉ email của bạn"
+
+#~ msgid "Please choose a shipping address"
+#~ msgstr "Vui lòng chọn địa chỉ giao hàng"
+
+#~ msgid ""
+#~ "Your previously chosen shipping address is no longer valid.  Please "
+#~ "choose another one"
+#~ msgstr ""
+#~ "Địa chỉ giao hàng cũ của bạn không chính xác. Vui lòng chọn một địa chỉ "
+#~ "khác "
+
+#~ msgid "Please choose a shipping method"
+#~ msgstr "Vui lòng chọn phương thức giao hàng "
+
+#~ msgid ""
+#~ "Your previously chosen shipping method is no longer valid.  Please choose "
+#~ "another one"
+#~ msgstr ""
+#~ "Phương thức vận chuyển được chọn trước đó của bạn không còn hợp lệ. Hãy "
+#~ "chọn một số khác"
+
+#~ msgid ""
+#~ "Create your account and then you will be redirected back to the checkout "
+#~ "process"
+#~ msgstr ""
+#~ "Tạo tài khoản của bạn và sau đó bạn sẽ được chuyển trở lại các quy trình "
+#~ "thanh toán"
+
+#~ msgid "Address saved"
+#~ msgstr "Lưu địa chỉ "
+
+#~ msgid "Address deleted"
+#~ msgstr "Xóa địa chỉ "
+
+#~ msgid ""
+#~ "Shipping is unavailable for your chosen address - please choose another"
+#~ msgstr ""
+#~ "Phương thức vận chuyển không có sẵn cho địa chỉ của bạn lựa chọn - hãy "
+#~ "chọn phương thức khác"
+
+#~ msgid "Your submitted shipping method is not permitted"
+#~ msgstr "Phương thức vận chuyển bạn chọn  không được phép"
+
+#~ msgid ""
+#~ "A problem occurred while processing payment for this order - no payment "
+#~ "has been taken.  Please contact customer services if this problem persists"
+#~ msgstr ""
+#~ "Một vấn đề xảy ra trong khi xử lý thanh toán cho đơn hàng này .Hãy liên "
+#~ "hệ với dịch vụ khách hàng nếu vấn đề này vẫn tồn tại !"
+
+#~ msgid "No order found"
+#~ msgstr "Không tìm thấy đơn hàng "
+
+#~ msgid "email address"
+#~ msgstr "Địa chỉ email "
+
+#~ msgid "Staff status"
+#~ msgstr "tình trạng nhân viên "
+
+#~ msgid "Designates whether the user can log into this admin site."
+#~ msgstr "Chỉ định xem ai có thể đăng nhập vào trang web quản trị này."
+
+#~ msgid "Active"
+#~ msgstr "Hoạt động "
+
+#~ msgid ""
+#~ "Designates whether this user should be treated as active. Unselect this "
+#~ "instead of deleting accounts."
+#~ msgstr ""
+#~ "Chỉ định cho người sử dụng này phải được coi là hoạt động. Bỏ chọn này "
+#~ "thay vì xóa tài khoản."
+
+#~ msgid "date joined"
+#~ msgstr "Ngày tham gia "
+
+#~ msgid "Users"
+#~ msgstr "Người sử dụng "
+
+#~ msgid "Subject"
+#~ msgstr "Chủ đề "
+
+#~ msgid "Body Text"
+#~ msgstr "Thông tin "
+
+#~ msgid "Body HTML"
+#~ msgstr "Body HTML "
+
+#~ msgid "Date Sent"
+#~ msgstr "Ngày gửi "
+
+#~ msgid "Emails"
+#~ msgstr "Email "
+
+#~ msgid "Email to %(user)s with subject '%(subject)s'"
+#~ msgstr "Email cho %(user)s với chủ đề  '%(subject)s'"
+
+#~ msgid "Code used for looking up this event programmatically"
+#~ msgstr "Mã khách hàng dùng cho chương trình tìm kiếm "
+
+#~ msgid "This is just used for organisational purposes"
+#~ msgstr "Điều này chỉ được sử dụng cho mục đích tổ chức "
+
+#~ msgid "Order related"
+#~ msgstr "Đơn hàng liên quan "
+
+#~ msgid "User related"
+#~ msgstr "Khách hàng có liên quan "
+
+#~ msgid "Email Subject Template"
+#~ msgstr "Tiêu đề mẫu email "
+
+#~ msgid "Email Body Template"
+#~ msgstr "Nội dung mẫu email "
+
+#~ msgid "Email Body HTML Template"
+#~ msgstr "Nội dung mẫu HTML "
+
+#~ msgid "HTML template"
+#~ msgstr "Mẫu HTML "
+
+#~ msgid "SMS Template"
+#~ msgstr "Mẫu SMS "
+
+#~ msgid "SMS template"
+#~ msgstr "Mẫu SMS "
+
+#~ msgid "Date Updated"
+#~ msgstr "Ngày cập nhật "
+
+#~ msgid "Communication event type"
+#~ msgstr "Truyền thông kiểu sự kiện"
+
+#~ msgid "Communication event types"
+#~ msgstr "Truyền thông kiểu sự kiện"
+
+#~ msgid "Inbox"
+#~ msgstr "Thư đến "
+
+#~ msgid "Archive"
+#~ msgstr "Lưu trữ "
+
+#~ msgid "Notification"
+#~ msgstr "Thông báo "
+
+#~ msgid "Notifications"
+#~ msgstr "Những thông báo "
+
+#~ msgid "Key"
+#~ msgstr "Chìa khóa "
+
+#~ msgid "Not yet confirmed"
+#~ msgstr "Chưa xác nhận "
+
+#~ msgid "Cancelled"
+#~ msgstr "Hủy bỏ "
+
+#~ msgid "Closed"
+#~ msgstr "Đóng "
+
+#~ msgid "Date confirmed"
+#~ msgstr "Ngày xác nhận "
+
+#~ msgid "Date cancelled"
+#~ msgstr "Ngày hủy bỏ "
+
+#~ msgid "Date closed"
+#~ msgstr "Ngày đóng cửa "
+
+#~ msgid "Product alert"
+#~ msgstr "Thông báo sản phẩm "
+
+#~ msgid "Product alerts"
+#~ msgstr "Những thông báo về  sản phẩm "
+
+#~ msgid "Product Alerts"
+#~ msgstr "Những thông báo của sản phẩm "
+
+#~ msgid "An alert has been created"
+#~ msgstr "Một thông báo đã được tạo "
+
+#~ msgid "A confirmation email has been sent to %s"
+#~ msgstr "Một  email xác nhận đã được gửi cho %s "
+
+#~ msgid "Your stock alert is now active"
+#~ msgstr "Thông báo kho của bạn hiện đang hoạt động"
+
+#~ msgid "Your stock alert cannot be confirmed"
+#~ msgstr "Thông báo kho của bạn hiện không được xác nhận "
+
+#~ msgid "Your stock alert has been cancelled"
+#~ msgstr "Thông báo kho của bạn đã bị hủy "
+
+#~ msgid "Your stock alert cannot be cancelled"
+#~ msgstr "Thông báo kho của bạn không thể hủy "
+
+#~ msgid "Customer"
+#~ msgstr "Khách hàng"
+
+#~ msgid "Email address"
+#~ msgstr "Địa chỉ email "
+
+#~ msgid "Password"
+#~ msgstr "Mật khẩu "
+
+#~ msgid "The entered password is not valid!"
+#~ msgstr "Mật khẩu bạn nhập không đúng "
+
+#~ msgid "Confirm password"
+#~ msgstr "Xác nhận mật khẩu "
+
+#~ msgid "The two password fields didn't match."
+#~ msgstr "Hai mật khẩu chưa giống nhau "
+
+#~ msgctxt "start date"
+#~ msgid "From"
+#~ msgstr "Từ "
+
+#~ msgctxt "end date"
+#~ msgid "To"
+#~ msgstr "Đến "
+
+#~ msgid "Order number"
+#~ msgstr "Số đơn đặt hàng "
+
+#~ msgid "At least one field is required."
+#~ msgstr "Cần ít nhất một dòng bắt buộc "
+
+#~ msgid "All orders"
+#~ msgstr "Tất cả các đơn hàng "
+
+#~ msgid ""
+#~ "Orders placed between %(date_from)s and %(date_to)s and order number "
+#~ "containing %(order_number)s"
+#~ msgstr ""
+#~ "Đơh hàng từ  %(date_from)s  đến  %(date_to)s và số đơn hàng  "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed between %(date_from)s and %(date_to)s"
+#~ msgstr "Đơn hàng từ ngày  %(date_from)s đến ngày  %(date_to)s"
+
+#~ msgid ""
+#~ "Orders placed since %(date_from)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "Đơn hàng từ ngày %(date_from)s và số hóa đơn bao gồm  %(order_number)s"
+
+#~ msgid "Orders placed since %(date_from)s"
+#~ msgstr "Đơn hàng từ %(date_from)s"
+
+#~ msgid ""
+#~ "Orders placed until %(date_to)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr " Đơn hàng đến ngày %(date_to)s và số đơn hàng %(order_number)s"
+
+#~ msgid "Orders placed until %(date_to)s"
+#~ msgstr "Đơn hàng đến ngày %(date_to)s"
+
+#~ msgid "Orders with order number containing %(order_number)s"
+#~ msgstr "Đơn hàng với số đơn hàng %(order_number)s"
+
+#~ msgid "A user with this email address already exists"
+#~ msgstr "Khách hàng với email này đã tồn tại "
+
+#~ msgid "Send notification to"
+#~ msgstr "Gửi thông báo đến cho "
+
+#~ msgid "Enter your email"
+#~ msgstr "Vui lòng nhập email của bạn "
+
+#~ msgid "There is already an active stock alert for %s"
+#~ msgstr "Đã có thông báo đang hoạt động cho %s"
+
+#~ msgid "You already have an active alert for this product"
+#~ msgstr "Bạn đã có thông báo cho sản phẩm này "
+
+#~ msgid "%(count)d notification archived"
+#~ msgid_plural "%(count)d notifications archived"
+#~ msgstr[0] "%(count)d thông báo đã lưu"
+
+#~ msgid "%(count)d notification deleted"
+#~ msgid_plural "%(count)d notifications deleted"
+#~ msgstr[0] "%(count)d thông báo đã xóa "
+
+#~ msgid "Welcome back"
+#~ msgstr "Chào mừng quay trở lại "
+
+#~ msgid "Thanks for registering!"
+#~ msgstr "Cảm ơn bạn đã đăng ký "
+
+#~ msgid "Profile"
+#~ msgstr "Thông tin cá nhân "
+
+#~ msgid "Edit Profile"
+#~ msgstr "Chỉnh sửa thông tin cá nhân "
+
+#~ msgid "Profile updated"
+#~ msgstr "Cập nhật thông tin "
+
+#~ msgid "Delete profile"
+#~ msgstr "Xóa thông tin cá nhân "
+
+#~ msgid "Your profile has now been deleted. Thanks for using the site."
+#~ msgstr ""
+#~ "Thông tin cá nhân của bạn đã được xóa. Cảm  ơn bạn đã ghé thăm chúng tôi "
+
+#~ msgid "Change Password"
+#~ msgstr "Thay đổi mật khẩu "
+
+#~ msgid "Password updated"
+#~ msgstr "Mật khẩu đã được cập nhật "
+
+#~ msgid "Email History"
+#~ msgstr "Lịch sử email "
+
+#~ msgid "Order History"
+#~ msgstr "Lịch sử đơn hàng "
+
+#~ msgid "Order"
+#~ msgstr "Đơn hàng "
+
+#~ msgid ""
+#~ "All available lines from order %(number)s have been added to your basket"
+#~ msgstr ""
+#~ "Tất cả các dòng có sẵn từ thứ tự %(number)s  đã được thêm vào giỏ hàng "
+#~ "của bạn"
+
+#~ msgid ""
+#~ "It is not possible to re-order order %(number)s as none of its lines are "
+#~ "available to purchase"
+#~ msgstr "Bạn không thể sắp xếp lại số đơn hàng %(number)s  "
+
+#~ msgid "%(qty)d copies of '%(product)s' have been added to your basket"
+#~ msgstr ""
+#~ "%(qty)d sao chép của '%(product)s' đã được thêm vào giỏ hàng của bạn ."
+
+#~ msgid "'%s' has been added to your basket"
+#~ msgstr "'%s' đã được thêm vào giỏ hàng của bạn "
+
+#~ msgid "Address Book"
+#~ msgstr "Sổ địa chỉ "
+
+#~ msgid "Add a new address"
+#~ msgstr "Thêm sổ địa chỉ mới "
+
+#~ msgid "Address '%s' created"
+#~ msgstr "Địa chỉ '%s' đã được tạo "
+
+#~ msgid "Edit address"
+#~ msgstr "Sửa lại địa chỉ  "
+
+#~ msgid "Address '%s' updated"
+#~ msgstr "Địa chỉ '%s'   đã được cập nhật "
+
+#~ msgid "Delete address?"
+#~ msgstr "Bạn muốn xóa địa chỉ này ?"
+
+#~ msgid "Address '%s' deleted"
+#~ msgstr "Địa chỉ này '%s'  đã được xóa "
+
+#~ msgid "We do not ship to this country"
+#~ msgstr "Chúng tôi không thể giao hàng tại quốc gia này "
+
+#~ msgid "Wish Lists"
+#~ msgstr "Danh sách mong muốn "
+
+#~ msgid "Quantities updated."
+#~ msgstr "Số lượng được cập nhật."
+
+#~ msgid "Create a new wish list"
+#~ msgstr "Tạo một danh sách mong muốn mới "
+
+#~ msgid "The requested product no longer exists"
+#~ msgstr "Các sản phẩm được yêu cầu không còn tồn tại "
+
+#~ msgid "Your wishlist has been created and '%(name)s has been added"
+#~ msgstr ""
+#~ "Danh sách mong muốn của bạn đã được tạo ra và '%(name)s đã được thêm"
+
+#~ msgid "Your wishlist has been created"
+#~ msgstr "Danh sách mong muốn đã được tạo "
+
+#~ msgid "%(title)s has been added to your wishlist"
+#~ msgstr "%(title)s đã được thêm vào danh sách mong muốn "
+
+#~ msgid "Your '%s' wishlist has been updated"
+#~ msgstr "Danh sách  yêu thích  '%s' của bạn đã được cập nhật "
+
+#~ msgid "Delete %s"
+#~ msgstr "Xóa %s "
+
+#~ msgid "Your '%s' wish list has been deleted"
+#~ msgstr "Danh sác yêu thích '%s' của bạn đã được xóa "
+
+#~ msgid "'%s' was added to your wish list."
+#~ msgstr "'%s'  đã được thêm vào danh sách yêu thích "
+
+#~ msgid "Remove %s"
+#~ msgstr "Xóa %s"
+
+#~ msgid "'%(title)s' was removed from your '%(name)s' wish list"
+#~ msgstr "'%(title)s' đã được xóa từ danh sách yêu thích '%(name)s' "
+
+#~ msgid "'%(title)s' moved to '%(name)s' wishlist"
+#~ msgstr "'%(title)s' di chuyển tới dánh sách yêu thích  '%(name)s' "
+
+#~ msgid "Create a new product of type"
+#~ msgstr "Tạo thêm một loại sản phẩm"
+
+#~ msgid "-- Choose type --"
+#~ msgstr "Chọn kiểu "
+
+#~ msgid "Product title"
+#~ msgstr "Tiêu đề sản phẩm "
+
+#~ msgid "Select an option group"
+#~ msgstr "Lựa chọn nhóm "
+
+#~ msgid ""
+#~ "At least one stock record must be set to a partner that you're associated "
+#~ "with."
+#~ msgstr "Cần ít nhất một tồn kho để thiết lập liên kết với đối tác "
+
+#~ msgid "Stand-alone and parent products must have at least one category"
+#~ msgstr "Sản phẩm riêng lẻ và dòng sản phẩm phải có ít nhất một danh mục "
+
+#~ msgid "A child product should not have categories"
+#~ msgstr "Sản phẩm con nên có danh mục "
+
+#~ msgid "Title"
+#~ msgstr "Tiêu đề"
+
+#~ msgid "Variants"
+#~ msgstr "Loại khác "
+
+#~ msgid "Stock records"
+#~ msgstr "Bản ghi lưu kho "
+
+#~ msgid "Actions"
+#~ msgstr "Hoạt động "
+
+#~ msgid "Number of child categories"
+#~ msgstr "Số danh mục con "
+
+#~ msgid "%s Category"
+#~ msgid_plural "%s Categories"
+#~ msgstr[0] "Danh mục  %s"
+
+#~ msgid "Product search results"
+#~ msgstr "Kết quả tìm kiếm sản phẩm "
+
+#~ msgid "Please choose a product type"
+#~ msgstr "Vui lòng chọn loại sản phẩm "
+
+#~ msgid "Create new %(product_class)s product"
+#~ msgstr "Tạo mới %(product_class)s sản phẩm "
+
+#~ msgid "Create new variant of %(parent_product)s"
+#~ msgstr "Tạo mới biến thể của %(parent_product)s "
+
+#~ msgid "Editing variant of %(parent_product)s"
+#~ msgstr "Chỉnh sửa biến thể của %(parent_product)s "
+
+#~ msgid "Your submitted data was not valid - please correct the errors below"
+#~ msgstr ""
+#~ "Yêu cầu của bạn chưa đúng - vui lòng kiểm tra lại thong tin bên dưới "
+
+#~ msgid "Delete product variant?"
+#~ msgstr "Xóa biến thể của sản phẩm "
+
+#~ msgid "Delete product?"
+#~ msgstr "Xóa sản phẩm "
+
+#~ msgid "Deleted product variant '%s'"
+#~ msgstr "Xóa biến thể của sản phẩm '%s'"
+
+#~ msgid "Deleted product '%s'"
+#~ msgstr "Xóa sản phẩm '%s'"
+
+#~ msgid "Alerts with status \"%s\""
+#~ msgstr "Thông báo với trạng thái \"%s\""
+
+#~ msgid "All alerts"
+#~ msgstr "Tất cả các thông báo "
+
+#~ msgid "Add a new category"
+#~ msgstr "Thêm mới danh mục "
+
+#~ msgid "Category created successfully"
+#~ msgstr "Danh mục đã được cập nhật thành công "
+
+#~ msgid "Update category '%s'"
+#~ msgstr "Cập nhật danh mục '%s'"
+
+#~ msgid "Category updated successfully"
+#~ msgstr "Danh mục đã cập nhật thành công "
+
+#~ msgid "Category deleted successfully"
+#~ msgstr "Danh mục đã được xóa "
+
+#~ msgid "Add a new product type"
+#~ msgstr "Thêm mới một loại sản phẩm "
+
+#~ msgid "Product type created successfully"
+#~ msgstr "Loại sản phẩm mới đã được tạo "
+
+#~ msgid "Update product type '%s'"
+#~ msgstr "Cập nhật loại sản phẩm '%s'"
+
+#~ msgid "Product type updated successfully"
+#~ msgstr "Loại sản phẩm mới đã được cập nhật "
+
+#~ msgid "Delete product type '%s'"
+#~ msgstr "Xóa loại sản phẩm '%s'"
+
+#~ msgid "Unable to delete '%s'"
+#~ msgstr "Không thể xóa '%s'"
+
+#~ msgid "%i products are still assigned to this type"
+#~ msgstr "%i sản phẩm vẫn được gán cho loại này"
+
+#~ msgid "Product type deleted successfully"
+#~ msgstr "Loại sản phẩm xóa thành công"
+
+#~ msgid "Communications dashboard"
+#~ msgstr "Bảng điều khiển "
+
+#~ msgid "Email subject template"
+#~ msgstr "Tiêu đề mẫu email "
+
+#~ msgid "Email body text template"
+#~ msgstr "Nội dung mẫu email "
+
+#~ msgid "Email body HTML template"
+#~ msgstr "Nội dung HTML mẫu email "
+
+#~ msgid "Preview email"
+#~ msgstr "Xem trước email "
+
+#~ msgid "No order found with this number"
+#~ msgstr "Không tìm thấy đơn hàng với mã số này "
+
+#~ msgid "Please enter an email address"
+#~ msgstr "Vui lòng nhập địa chỉ email "
+
+#~ msgid ""
+#~ "The submitted form was not valid, please correct the errors and resubmit"
+#~ msgstr ""
+#~ "Yêu cầu của bạn chưa hợp lệ, vui lòng kiểm tra lại thông tin bên dưới "
+
+#~ msgid "Email saved"
+#~ msgstr "Email đã được lưu "
+
+#~ msgid "A preview email has been sent to %s"
+#~ msgstr "Bản xem trước email đã được gửi tới %s"
+
+#~ msgid "Offers dashboard"
+#~ msgstr "Cung cấp bảng điều khiển"
+
+#~ msgid "Start date"
+#~ msgstr "Ngày bắt đầu "
+
+#~ msgid "End date"
+#~ msgstr "Ngày kết thúc "
+
+#~ msgid "The end date must be after the start date"
+#~ msgstr "Ngày kết thúc phải sau ngày bắt đầu"
+
+#~ msgid "Custom condition"
+#~ msgstr "Điều kiện khách hàng "
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom condition"
+#~ msgstr "Xin vui lòng chọn loại và giá trị hoặc chọn một điều kiện tùy chỉnh"
+
+#~ msgid "A range is required"
+#~ msgstr "Bạn cần cho biết phạm vi "
+
+#~ msgid "Custom incentive"
+#~ msgstr "Tuỳ chỉnh ưu đãi"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom incentive"
+#~ msgstr "Xin vui lòng chọn loại và giá trị hoặc chọn một ưu đãi tùy chỉnh"
+
+#~ msgid "No other options can be set if you are using a custom incentive"
+#~ msgstr ""
+#~ "Không có lựa chọn khác có thể được thiết lập nếu bạn đang sử dụng một ưu "
+#~ "đãi tùy chỉnh"
+
+#~ msgid "Offer name"
+#~ msgstr "Tên ưu đãi "
+
+#~ msgid "Is active?"
+#~ msgstr "Hoạt động ?"
+
+#~ msgid "Order date"
+#~ msgstr "Ngày đặt hàng "
+
+#~ msgid "Order total"
+#~ msgstr "Tổng số đơn hàng "
+
+#~ msgid "Cost"
+#~ msgstr "Chi phí "
+
+#~ msgid "All offers"
+#~ msgstr "Tất cả các ưu đãi "
+
+#~ msgid "Offers matching '%s'"
+#~ msgstr "Ưu đãi với '%s'"
+
+#~ msgid "%s step not complete"
+#~ msgstr "%s bước chưa hoàn thành "
+
+#~ msgid "Offer '%s' updated"
+#~ msgstr "Ưu đãi '%s' được cập nhật "
+
+#~ msgid "Offer '%s' created!"
+#~ msgstr "Ưu đãi '%s' được tạo "
+
+#~ msgid "Name and description"
+#~ msgstr "Tên và mô tả chi tiết "
+
+#~ msgid "Incentive"
+#~ msgstr "Khuyến khích"
+
+#~ msgid "Restrictions"
+#~ msgstr "Hạn chế"
+
+#~ msgid "Offer deleted!"
+#~ msgstr "Ưu đãi đã được xóa "
+
+#~ msgid "Offer is already suspended"
+#~ msgstr "Ưu đãi đã bị dừng lại "
+
+#~ msgid "Offer suspended"
+#~ msgstr "Ưu đãi bị treo  "
+
+#~ msgid "Offer cannot be reinstated as it is not currently suspended"
+#~ msgstr "Ưu đãi không thể được phục hồi"
+
+#~ msgid "Offer reinstated"
+#~ msgstr "Ưu đãi được phục hồi"
+
+#~ msgid "Orders dashboard"
+#~ msgstr "Bảng điều khiển đơn hàng "
+
+#~ msgid "Orders placed since %s"
+#~ msgstr "Các đơn hàng từ %s"
+
+#~ msgid "Orders placed until %s"
+#~ msgstr "Các đơn đặt hàng cho đến khi %s"
+
+#~ msgid "Customer name"
+#~ msgstr "Tên khách hàng "
+
+#~ msgid "Product name"
+#~ msgstr "Tên sản phẩm "
+
+#~ msgid "Partner SKU"
+#~ msgstr "Đối tác SKU "
+
+#~ msgid "Date from"
+#~ msgstr "Từ ngày "
+
+#~ msgid "Date to"
+#~ msgstr "Đến ngày "
+
+#~ msgid "Voucher code"
+#~ msgstr "Mã phiếu khuyến mãi "
+
+#~ msgid "Payment method"
+#~ msgstr "Phương thức thanh toán "
+
+#~ msgid "HTML"
+#~ msgstr "HTML "
+
+#~ msgid "CSV"
+#~ msgstr "CSV "
+
+#~ msgid "Get results as"
+#~ msgstr "Lấy kết quả với "
+
+#~ msgid "New order status"
+#~ msgstr "Trạng thái đơn đặt hàng mới "
+
+#~ msgid "Order number starts with \"{order_number}\""
+#~ msgstr "Số đơn hàng bắt đầu với \"{order_number}\""
+
+#~ msgid "Customer name matches \"{customer_name}\""
+#~ msgstr "Tên khách hàng với \"{customer_name}\""
+
+#~ msgid "Product name matches \"{product_name}\""
+#~ msgstr "Tên sản phẩm với \"{product_name}\""
+
+#~ msgid "Includes an item with UPC \"{upc}\""
+#~ msgstr "Bao gồm sản phẩm với UPC \"{upc}\""
+
+#~ msgid "Includes an item with partner SKU \"{partner_sku}\""
+#~ msgstr "Bao gồm sản phẩm với đối tác SKU \"{partner_sku}\""
+
+#~ msgid "Placed between {start_date} and {end_date}"
+#~ msgstr "Thời điểm từ  {start_date} đến  {end_date}"
+
+#~ msgid "Placed after {start_date}"
+#~ msgstr "Thời điểm từ  {start_date}"
+
+#~ msgid "Placed before {end_date}"
+#~ msgstr "Thời điểm trước {end_date}"
+
+#~ msgid "Used voucher code \"{voucher_code}\""
+#~ msgstr "Mã ưu đãi khách hàng số \"{voucher_code}\""
+
+#~ msgid "Paid using {payment_method}"
+#~ msgstr "Phương thức thanh toán {payment_method}"
+
+#~ msgid "Order status is {order_status}"
+#~ msgstr "Trạng thái đơn hàng {order_status}"
+
+#~ msgid "Order value"
+#~ msgstr "Giá trị đơn hàng "
+
+#~ msgid "Date of purchase"
+#~ msgstr "Ngày mua hàng "
+
+#~ msgid "Number of items"
+#~ msgstr "Số lượng sản phẩm "
+
+#~ msgid "Order status"
+#~ msgstr "Trạng thái đơn hàng "
+
+#~ msgid "Customer email address"
+#~ msgstr "Địa chỉ email khách hàng "
+
+#~ msgid "Deliver to name"
+#~ msgstr "Tên người nhận hàng "
+
+#~ msgid "Bill to name"
+#~ msgstr "Tên ghi trên hóa đơn "
+
+#~ msgid "The new status '%s' is not valid"
+#~ msgstr "Trạng thái mới '%s' không hợp lệ "
+
+#~ msgid "The new status '%s' is not valid for this order"
+#~ msgstr "Trạng thái mới '%s' không hợp lệ cho đơn hàng này "
+
+#~ msgid "Unable to change order status due to payment error: %s"
+#~ msgstr "Không thể thay đổi trạng thái đơn hàng do lỗi thanh toán: %s "
+
+#~ msgid "Order status changed from '%(old_status)s' to '%(new_status)s'"
+#~ msgstr ""
+#~ "Trạng thái đơn hàng thay đổi từ  '%(old_status)s' đến  '%(new_status)s'"
+
+#~ msgid "No valid action submitted"
+#~ msgstr "Yêu cầu gửi không hợp lệ "
+
+#~ msgid "Invalid action"
+#~ msgstr "Hành động không hợp lệ "
+
+#~ msgid "You must select some lines to act on"
+#~ msgstr "Bạn phải chọn vài dòng cho  hành động "
+
+#~ msgid "Invalid lines requested"
+#~ msgstr "Yêu cầu không hợp lệ "
+
+#~ msgid "The entered quantity for line #%s is not valid"
+#~ msgstr "Số lượng nhập cho dòng #%s không hợp lệ "
+
+#~ msgid ""
+#~ "The entered quantity for line #%(line_id)s should not be higher than "
+#~ "%(quantity)s"
+#~ msgstr "Số lượng nhập cho dòng #%(line_id)s không nên cao hơn %(quantity)s"
+
+#~ msgid "Note saved"
+#~ msgstr "Lưu ghi chú "
+
+#~ msgid "Note cannot be deleted"
+#~ msgstr "Không thể xóa "
+
+#~ msgid "Note deleted"
+#~ msgstr "Xóa ghi chú "
+
+#~ msgid "Invalid form submission"
+#~ msgstr "Yêu cầu gửi đi không hợp lệ "
+
+#~ msgid ""
+#~ "Unable to change order status as the requested new status is not valid"
+#~ msgstr "Không thể thay đổi trạng thái đơn đặt hàng "
+
+#~ msgid "Please choose a valid amount"
+#~ msgstr "Vui lòng chọn một số tiền hợp lệ"
+
+#~ msgid "'%(status)s' is not a valid new status for line %(line_id)d"
+#~ msgstr "'%(status)s' không hợp lệ cho  %(line_id)d"
+
+#~ msgid ""
+#~ "Status of line #%(line_id)d changed from '%(old_status)s' to "
+#~ "'%(new_status)s'"
+#~ msgstr ""
+#~ "Trạng thái của  #%(line_id)d thay đổi từ  '%(old_status)s'  sang "
+#~ "'%(new_status)s'"
+
+#~ msgid "The event type '%s' is not valid"
+#~ msgstr "Loại sự kiện '%s' không hợp lệ "
+
+#~ msgid "Unable to create shipping event: %s"
+#~ msgstr "Không thể tạo sự kiện vận chuyển : %s"
+
+#~ msgid "Unable to create shipping event due to payment error: %s"
+#~ msgstr "Không thể tạo sự kiện vận chuyển do lỗi thanh toán : %s"
+
+#~ msgid "Shipping event created"
+#~ msgstr "Sự kiện vận chuyển được tạo "
+
+#~ msgid "Unable to create payment event due to payment error: %s"
+#~ msgstr "Không thể tạo sự kiện thanh toán do lỗi thanh toán : %s"
+
+#~ msgid "Unable to create payment event: %s"
+#~ msgstr "Không thể tạo sự kiện thanh toán:%s"
+
+#~ msgid "Payment event created"
+#~ msgstr "Sự kiện thanh toán được tạo "
+
+#~ msgid "%(field)s changed from '%(old_value)s' to '%(new_value)s'"
+#~ msgstr "%(field)s thay đổi từ '%(old_value)s' sang  '%(new_value)s'"
+
+#~ msgid ""
+#~ "Delivery address updated:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Địa chỉ giao hàng được cập nhật :\n"
+#~ "%s"
+
+#~ msgid "Delivery address updated"
+#~ msgstr "Địa chỉ giao hàng được cập nhật"
+
+#~ msgid "Pages dashboard"
+#~ msgstr "Bảng điều khiển trang "
+
+#~ msgctxt "Page title"
+#~ msgid "Title"
+#~ msgstr "Tiêu đề"
+
+#~ msgid "Example: '/about/contact/'."
+#~ msgstr "Ví dụ : 'thông tin về chúng tôi/ liên hệ '."
+
+#~ msgid "All pages"
+#~ msgstr "Tất cả các trang "
+
+#~ msgid " with title containing '%s'"
+#~ msgstr "với tiêu đề bao gồm '%s'"
+
+#~ msgid "Create New Page"
+#~ msgstr "Tạo trang mới "
+
+#~ msgid "Deleted page '%s'"
+#~ msgstr "Xóa trang '%s'"
+
+#~ msgid "Partners dashboard"
+#~ msgstr "Bảng điều khiển đối tác "
+
+#~ msgctxt "Partner's name"
+#~ msgid "Name"
+#~ msgstr "Tên"
+
+#~ msgid "Full dashboard access"
+#~ msgstr "Đầy đủ quyền truy cập bảng điều khiển "
+
+#~ msgid "Limited dashboard access"
+#~ msgstr "Giới hạn truy cập bảng điều khiển "
+
+#~ msgid "User role"
+#~ msgstr "Vai trò người dùng"
+
+#~ msgid "Confirm Password"
+#~ msgstr "Xác nhận mật khẩu "
+
+#~ msgid "All partners"
+#~ msgstr "Tất cả các đối tác "
+
+#~ msgid "Partners matching '%s'"
+#~ msgstr "Tìm kiếm đối tác với '%s'"
+
+#~ msgid "Create new partner"
+#~ msgstr "Tạo đối tác mới "
+
+#~ msgid "Partner '%s' was created successfully."
+#~ msgstr "Đối  tác '%s' đã được tạo thành công "
+
+#~ msgid "Partner '%s' was updated successfully."
+#~ msgstr "Đối  tác '%s' đã được cập nhật thành công "
+
+#~ msgid "Partner '%s' was deleted successfully."
+#~ msgstr "Đối tác '%s' đã được xóa thành công "
+
+#~ msgid "Create user"
+#~ msgstr "Tạo người dùng "
+
+#~ msgid "User '%s' was created successfully."
+#~ msgstr "Người dung '%s' đã được tạo thành công "
+
+#~ msgid "User '%(name)s' was linked to '%(partner_name)s'"
+#~ msgstr "Người dùng  '%(name)s' đã liên kết với '%(partner_name)s'"
+
+#~ msgid "User '%(name)s' is already linked to '%(partner_name)s'"
+#~ msgstr "Người dùng '%(name)s' đã liên kết với %(partner_name)s'"
+
+#~ msgid "User '%(name)s' is not linked to '%(partner_name)s'"
+#~ msgstr "Người dùng %(name)s'chưa liên kết với  '%(partner_name)s'"
+
+#~ msgid "Edit user '%s'"
+#~ msgstr "Chỉnh sửa thông tin người dùng '%s'"
+
+#~ msgid "User '%s' was updated successfully."
+#~ msgstr "Người dùng '%s' đã được cập nhật thành công "
+
+#~ msgid "Promotions dashboard"
+#~ msgstr "Bảng điều khiển khuyến mãi "
+
+#~ msgid "Promotion type"
+#~ msgstr "Kiểu khuyến mãi "
+
+#~ msgid "Position"
+#~ msgstr "Vị trí"
+
+#~ msgid "Where in the page this content block will appear"
+#~ msgstr "Nơi trong trang khối nội dung này sẽ xuất hiện"
+
+#~ msgid "Content blocks can only be linked to internal URLs"
+#~ msgstr "Khối nội dung chỉ có thể được liên kết với địa chỉ URL"
+
+#~ msgid "Content block removed successfully"
+#~ msgstr "Khối nội dung đã được xóa bỏ "
+
+#~ msgid "Content block created successfully"
+#~ msgstr "Khối nội dung đã được tạo thành công "
+
+#~ msgid "Create a new %s content block"
+#~ msgstr "Tạo mới khối nội dung '%s'"
+
+#~ msgid "Product list content block created"
+#~ msgstr "Khối danh sách nội dung sản phẩm được tạo ra"
+
+#~ msgid "Update content block"
+#~ msgstr "Cập nhật khối nội dung "
+
+#~ msgid "Content block updated successfully"
+#~ msgstr "Khối nội dung được cập nhật thành công "
+
+#~ msgid "Content block '%(block)s' added to page '%(page)s'"
+#~ msgstr "Khối nội dung '%(block)s' đã được thêm vào trang  '%(page)s'"
+
+#~ msgid "No link found to delete"
+#~ msgstr "Không tìm thấy đường dẫn để xóa "
+
+#~ msgid "Content block removed from page '%s'"
+#~ msgstr "Khối nội dung đã được xóa khỏi trang '%s'"
+
+#~ msgid "Product list promotion updated"
+#~ msgstr "Danh sách sản phẩm khuyến mãi đã được cập nhật "
+
+#~ msgid "Content block deleted successfully"
+#~ msgstr "Khối nội dung đã được xóa thành công "
+
+#~ msgid "Ranges dashboard"
+#~ msgstr "Bảng điều khiển xếp hạng "
+
+#~ msgid "Product SKUs or UPCs"
+#~ msgstr "Sản phẩm SKUs hoặc UPCs"
+
+#~ msgid "You can paste in a selection of SKUs or UPCs"
+#~ msgstr "Bạn có thể dán vào một lựa chọn các SKUs hoặc UPCs"
+
+#~ msgid "File of SKUs or UPCs"
+#~ msgstr "Thư mục của SKUs or UPCs"
+
+#~ msgid "Either comma-separated, or one identifier per line"
+#~ msgstr "Hoặc bằng dấu phẩy, hoặc một định danh cho mỗi dòng"
+
+#~ msgid "You must submit either a list of SKU/UPCs or a file"
+#~ msgstr "Bạn phải gửi hoặc là một danh sách các SKU / UPCs hoặc một tập tin"
+
+#~ msgid "The products with SKUs or UPCs matching %s are already in this range"
+#~ msgstr "Sản phẩm với SKUs hoặc UPCs khớp với %s đã tồn tại trong phạm vi "
+
+#~ msgid "No products exist with a SKU or UPC matching %s"
+#~ msgstr "Không tồn tại sản phẩm với SKU or UPC khớp với %s"
+
+#~ msgid "Create range"
+#~ msgstr "Tạo phạm vi "
+
+#~ msgid "Range deleted"
+#~ msgstr "Phạm vi xóa"
+
+#~ msgid "Removed %d product from range"
+#~ msgid_plural "Removed %d products from range"
+#~ msgstr[0] "Xóa %d sản phẩm trong phạm vi "
+
+#~ msgid "%d product added to range"
+#~ msgid_plural "%d products added to range"
+#~ msgstr[0] "%d sản phẩm thêm vào phạm vi "
+
+#~ msgid "No product(s) were found with SKU or UPC matching %s"
+#~ msgstr "Không tồn tại (những sản phẩm )với  SKU or UPC khớp với  %s"
+
+#~ msgid "Reports dashboard"
+#~ msgstr "Bảng điều khiển báo cáo "
+
+#~ msgid "Report Type"
+#~ msgstr "Kiểu báo cáo "
+
+#~ msgid "Only the offer and order reports use the selected date range"
+#~ msgstr "Chỉ việc cung cấp và sử dụng để báo cáo phạm vi ngày đã chọn"
+
+#~ msgid "The report is inclusive of this date"
+#~ msgstr "Báo cáo này bao gồm ngày này"
+
+#~ msgid "Download"
+#~ msgstr "Tải"
+
+#~ msgid "Your start date must be before your end date"
+#~ msgstr "Ngày bắt đầu của bạn phải trước ngày kết thúc của bạn"
+
+#~ msgid "%(report_filter)s between %(start_date)s and %(end_date)s"
+#~ msgstr "%(report_filter)s giữa %(start_date)s và %(end_date)s"
+
+#~ msgid "You do not have access to this report"
+#~ msgstr "Bạn không có quyền truy cập vào báo cáo này"
+
+#~ msgid "Reviews dashboard"
+#~ msgstr "Nhận xét bảng điểu khiển"
+
+#~ msgid "Keyword"
+#~ msgstr "Từ khóa"
+
+#~ msgid "to"
+#~ msgstr "tới"
+
+#~ msgid ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+#~ msgstr ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+
+#~ msgid " created after %s"
+#~ msgstr "đã tạo sau %s"
+
+#~ msgid " created before %s"
+#~ msgstr "đã tạo trước %s"
+
+#~ msgid " created between %(start_date)s and %(end_date)s"
+#~ msgstr "đã tạo từ %(start_date)s đến %(end_date)s"
+
+#~ msgid "All reviews"
+#~ msgstr "Tất cả nhận xét"
+
+#~ msgid " with status matching '%s'"
+#~ msgstr "kết hợp với tình trạng '%s'"
+
+#~ msgid " with keyword matching '%s'"
+#~ msgstr "kết hợp với từ khóa '%s'"
+
+#~ msgid " with customer name matching '%s'"
+#~ msgstr "kết hợp với tên khách hàng '%s'"
+
+#~ msgid "Shipping dashboard"
+#~ msgstr "Bảng điều khiển vận chuyện"
+
+#~ msgid "%d Row"
+#~ msgid_plural "%d Rows"
+#~ msgstr[0] "%d những dòng"
+
+#~ msgid "Users dashboard"
+#~ msgstr "Bảng điểu khiển người dùng"
+
+#~ msgctxt "User's name"
+#~ msgid "Name"
+#~ msgstr "Tên"
+
+#~ msgid "%(main_filter)s %(email_filter)s %(name_filter)s"
+#~ msgstr "%(main_filter)s %(email_filter)s %(name_filter)s"
+
+#~ msgid "All users"
+#~ msgstr "Tất cả những người dùng"
+
+#~ msgid " with email matching '%s'"
+#~ msgstr "kết hợp với email '%s'"
+
+#~ msgid " with name matching '%s'"
+#~ msgstr "kết hợp với tên '%s'"
+
+#~ msgid "Users' status successfully changed"
+#~ msgstr "Tình trạng người sử dụng thay đổi thành công"
+
+#~ msgid "A password reset email has been sent"
+#~ msgstr "Một email khôi phục mật khẩu đã được gửi đi"
+
+#~ msgid "All Alerts"
+#~ msgstr "Tất cả thông báo"
+
+#~ msgid " with customer email matching '%s'"
+#~ msgstr "kết hợp với email khách hàng '%s'"
+
+#~ msgid "Product alert saved"
+#~ msgstr "Thông báo sản phẩm được lưu"
+
+#~ msgid "Product alert deleted"
+#~ msgstr "Thông báo sản phẩm đã xóa"
+
+#~ msgid "Vouchers dashboard"
+#~ msgstr "Bảng điều khiển phiếu giảm giá"
+
+#~ msgid "Start datetime"
+#~ msgstr "Thời gian bắt đầu"
+
+#~ msgid "End datetime"
+#~ msgstr "Thời gian kết thúc"
+
+#~ msgid "Usage"
+#~ msgstr "Cách sử dụng"
+
+#~ msgid "Which products get a discount?"
+#~ msgstr "Những sản phẩm nào được giảm giá?"
+
+#~ msgid "Percentage off of products in range"
+#~ msgstr "Tỷ lệ giảm giá của các sản phẩm trong phạm vi"
+
+#~ msgid "Fixed amount off of products in range"
+#~ msgstr "Cố định số tiền giảm giá của các sản phẩm trong phạm vi"
+
+#~ msgid "Discount is a percentage off of the shipping cost"
+#~ msgstr "Chiết khấu là một tỷ lệ phần trăm của chi phí vận chuyển"
+
+#~ msgid "Discount is a fixed amount of the shipping cost"
+#~ msgstr "Chiết khấu là một số tiền cố định của chi phí vận chuyển"
+
+#~ msgid "Get shipping for a fixed price"
+#~ msgstr "Nhận vận chuyển với một mức giá cố định"
+
+#~ msgid "Discount type"
+#~ msgstr "Loại giảm giá"
+
+#~ msgid "Discount value"
+#~ msgstr "Giá trị giảm giá"
+
+#~ msgid "The name '%s' is already in use"
+#~ msgstr "Tên '%s' đã được sử dụng "
+
+#~ msgid "The code '%s' is already in use"
+#~ msgstr "Mã  '%s' đã được sử dụng"
+
+#~ msgid "The start date must be before the end date"
+#~ msgstr "Ngày bắt đầu phải trước ngày kết thúc"
+
+#~ msgid "Is Active?"
+#~ msgstr "Hoạt động ?"
+
+#~ msgid "%(main_filter)s %(name_filter)s %(code_filter)s"
+#~ msgstr "%(main_filter)s %(name_filter)s %(code_filter)s"
+
+#~ msgid "All vouchers"
+#~ msgstr "Tất cả phiếu giảm giá"
+
+#~ msgid "with name matching '%s'"
+#~ msgstr "kết hợp với tên '%s'"
+
+#~ msgid "with code '%s'"
+#~ msgstr "với code '%s'"
+
+#~ msgid "Active vouchers"
+#~ msgstr "Kích hoạt phiếu giảm giá"
+
+#~ msgid "Create voucher"
+#~ msgstr "Tạo phiếu giảm giá"
+
+#~ msgid "Offer for voucher '%s'"
+#~ msgstr "Đưa cho phiếu giảm giá '%s'"
+
+#~ msgid "Voucher created"
+#~ msgstr "Phiếu giảm giá đã tạo"
+
+#~ msgid "Voucher updated"
+#~ msgstr "Phiếu giảm giá đã cập nhật"
+
+#~ msgid "Voucher deleted"
+#~ msgstr "Phiếu giảm giá đã xóa"
+
+#~ msgid "This is displayed within the customer's basket"
+#~ msgstr "Điều này được hiển thị trong giỏ của khách hàng"
+
+#~ msgid "This is displayed on the offer browsing page"
+#~ msgstr "Điều này được hiển thị trên trang trình duyệt "
+
+#~ msgid "Site offer - available to all users"
+#~ msgstr "Trang web cung cấp - có sẵn cho tất cả người dùng"
+
+#~ msgid ""
+#~ "Voucher offer - only available after entering the appropriate voucher code"
+#~ msgstr ""
+#~ "Phiếu giảm giá cung cấp - chỉ có sẵn sau khi nhập phiếu giảm giá phù hợp"
+
+#~ msgid "User offer - available to certain types of user"
+#~ msgstr "Người sử dụng cung cấp - có sẵn cho một số loại người dùng"
+
+#~ msgid ""
+#~ "Session offer - temporary offer, available for a user for the duration of "
+#~ "their session"
+#~ msgstr ""
+#~ "Phiên phục vụ - tạm thời phục vụ, sẵn sàng cho một người sử dụng trong "
+#~ "suốt thời gian của phiên họp của họ"
+
+#~ msgid "Condition"
+#~ msgstr "Điều kiện"
+
+#~ msgid "Benefit"
+#~ msgstr "Lợi ích"
+
+#~ msgid "Priority"
+#~ msgstr "Sự ưu tiên"
+
+#~ msgid "The highest priority offers are applied first"
+#~ msgstr "Những ưu tiên cao nhất được áp dụng đầu tiên"
+
+#~ msgid "Max global applications"
+#~ msgstr "Tối đa ứng dụng toàn cầu"
+
+#~ msgid "The number of times this offer can be used before it is unavailable"
+#~ msgstr "Số lần của đề nghị này có thể được dùng trước khi nó không có sẵn"
+
+#~ msgid "Max user applications"
+#~ msgstr "Tối đa ứng dụng người dùng"
+
+#~ msgid "The number of times a single user can use this offer"
+#~ msgstr "Số lần một người dùng có thể sử dụng dịch vụ này"
+
+#~ msgid "Max basket applications"
+#~ msgstr "Ứng dụng giỏ hàng"
+
+#~ msgid ""
+#~ "The number of times this offer can be applied to a basket (and order)"
+#~ msgstr "Số lần dịch vụ này có thể áp dụng cho một giỏ hàng (và trật tự)"
+
+#~ msgid "Max discount"
+#~ msgstr "Giảm giá tối đa"
+
+#~ msgid ""
+#~ "When an offer has given more discount to orders than this threshold, then "
+#~ "the offer becomes unavailable"
+#~ msgstr ""
+#~ "Khi một dịch vụ đã được giảm giá trên nhiều đơn hàng hơn ngưỡng này, thì "
+#~ "dịch vụ ngừng hoạt động"
+
+#~ msgid "Total Discount"
+#~ msgstr "Tổng cộng giảm giá"
+
+#~ msgid "Number of applications"
+#~ msgstr "Số ứng dụng"
+
+#~ msgid "Number of Orders"
+#~ msgstr "Số lượng đặt hàng"
+
+#~ msgid "URL redirect (optional)"
+#~ msgstr "URL chuyển hướng (tùy chọn)"
+
+#~ msgid "Conditional offer"
+#~ msgstr "Có điều kiện"
+
+#~ msgid "Conditional offers"
+#~ msgstr "Có những điều kiện"
+
+#~ msgid "End date should be later than start date"
+#~ msgstr "Ngày kết thúc phải sau ngày bắt đầu"
+
+#~ msgid "Offer is suspended"
+#~ msgstr "Đề nghị bị đình chỉ"
+
+#~ msgid "Limited to %(total)d uses (%(remainder)d remaining)"
+#~ msgstr "Hạn chế đến %(total)d sử dụng (%(remainder)d còn lại)"
+
+#~ msgid "Limited to 1 use per user"
+#~ msgstr "Giới hạn 1 lần sử dụng cho mỗi người dùng"
+
+#~ msgid "Limited to %(total)d uses per user"
+#~ msgstr "Giới hạn tới %(total)d lần sử dụng cho mỗi người dùng"
+
+#~ msgid "Limited to 1 use per basket"
+#~ msgstr "Giới hạn 1 lần sử dụng cho mỗi giỏ hàng"
+
+#~ msgid "Limited to %(total)d uses per basket"
+#~ msgstr "Giới hạn tới %(total)d lần sử dụng cho mỗi giỏ hàng"
+
+#~ msgid "Available between %(start)s and %(end)s"
+#~ msgstr "Khả dụng giữa %(start)s và %(end)s"
+
+#~ msgid "Available from %(start)s"
+#~ msgstr "Khả dụng từ %(start)s"
+
+#~ msgid "Available until %(end)s"
+#~ msgstr "Khả dụng tới %(end)s"
+
+#~ msgid "Limited to a cost of %(max)s"
+#~ msgstr "Giới hạn trong một chi phí %(max)s"
+
+#~ msgid "Range"
+#~ msgstr "Phạm vi"
+
+#~ msgid "Discount is a percentage off of the product's value"
+#~ msgstr "Chiết khấu là một tỷ lệ phần trăm giảm giá trị của sản phẩm"
+
+#~ msgid "Discount is a fixed amount off of the product's value"
+#~ msgstr "Chiết khấu là một số tiền cố định ra giá trị của sản phẩm"
+
+#~ msgid "Discount is to give the cheapest product for free"
+#~ msgstr "Chiết khấu là để cung cấp cho các sản phẩm với giá rẻ nhất miễn phí"
+
+#~ msgid "Get the products that meet the condition for a fixed price"
+#~ msgstr "Lấy sản phẩm đáp ứng các điều kiện cho một mức giá cố định"
+
+#~ msgid "Max Affected Items"
+#~ msgstr "Vật phẩm bị ảnh hưởng lớn nhất"
+
+#~ msgid ""
+#~ "Set this to prevent the discount consuming all items within the range "
+#~ "that are in the basket."
+#~ msgstr ""
+#~ "Thiết lập này để ngăn chặn chiết khấu trên tất cả các vật phẩm không nằm "
+#~ "trong phạm vi của giỏ hàng"
+
+#~ msgid "Custom class"
+#~ msgstr "Lớp tùy chọn"
+
+#~ msgid "Benefits"
+#~ msgstr "Những lợi ích"
+
+#~ msgid "Multibuy benefits require a product range"
+#~ msgstr "Lợi ích mua nhiều đòi hỏi một loạt sản phẩm"
+
+#~ msgid "Multibuy benefits don't require a value"
+#~ msgstr "Lợi ích mua nhiều không yêu cầu một giá trị"
+
+#~ msgid "Multibuy benefits don't require a 'max affected items' attribute"
+#~ msgstr ""
+#~ "Lợi ích mua nhiều không yêu cầu thuộc tính 'những vật phẩm ảnh hưởng lớn "
+#~ "nhất'"
+
+#~ msgid "Percentage benefits require a product range"
+#~ msgstr "Lợi ích phần trăm yêu cầu một phạm vi sản phẩm"
+
+#~ msgid "Percentage discount cannot be greater than 100"
+#~ msgstr "Chiết khấu phần trăm không thể lớn hơn 100"
+
+#~ msgid "A discount value is required"
+#~ msgstr "Giá trị chiết khấu là bắt buộc"
+
+#~ msgid ""
+#~ "No range should be selected as this benefit does not apply to products"
+#~ msgstr ""
+#~ "Chưa có phạm vi cần được lựa chọn như lợi ích này không áp dụng cho các "
+#~ "sản phẩm"
+
+#~ msgid "Shipping discounts don't require a 'max affected items' attribute"
+#~ msgstr ""
+#~ "Chiết khấu vận chuyển không yêu cầu thuộc tính 'những vật phẩm ảnh hưởng "
+#~ "lớn nhất'"
+
+#~ msgid ""
+#~ "No range should be selected as the condition range will be used instead."
+#~ msgstr ""
+#~ "Chưa có phạm vi cần được lựa chọn như phạm vi điều kiện sẽ được sử dụng "
+#~ "để thay thế."
+
+#~ msgid "Fixed discount benefits require a product range"
+#~ msgstr "Lợi ích chiết khấu cố định yêu cầu một phạm vi sản phẩm"
+
+#~ msgid "Fixed discount benefits require a value"
+#~ msgstr "Lợi ích chiết khấu cố định yêu cầu một giá trị"
+
+#~ msgid "Depends on number of items in basket that are in condition range"
+#~ msgstr "Phụ thuộc vào số vật phẩm trong giỏ hảng nằm trong vùng điều kiện"
+
+#~ msgid "Depends on value of items in basket that are in condition range"
+#~ msgstr ""
+#~ "Phụ thuộc vào giá trị của những vật phẩm trong giỏ hàng mà nằm trong phạm "
+#~ "vi điều kiện"
+
+#~ msgid ""
+#~ "Needs to contain a set number of DISTINCT items from the condition range"
+#~ msgstr ""
+#~ "Cần phải có một số thiết lập của các mặt hàng riêng biệt từ phạm vi điều "
+#~ "kiện"
+
+#~ msgid "Conditions"
+#~ msgstr "Những điều kiện"
+
+#~ msgid "Is public?"
+#~ msgstr "Công khai?"
+
+#~ msgid "Public ranges have a customer-facing page"
+#~ msgstr "Phạm vi công khai có một trang với khách hàng"
+
+#~ msgid "Includes all products?"
+#~ msgstr "Bao gồm tất cả các sản phẩm?"
+
+#~ msgid "Included Products"
+#~ msgstr "Đã bao gồm các sản phẩm"
+
+#~ msgid "Excluded Products"
+#~ msgstr "Các sản phẩm bị loại trừ"
+
+#~ msgid "Included Categories"
+#~ msgstr "Bao gồm các chủng loại"
+
+#~ msgid "File Path"
+#~ msgstr "Đường dẫn tập tin"
+
+#~ msgid "Size"
+#~ msgstr "Kích thước"
+
+#~ msgid "Uploaded By"
+#~ msgstr "Tải lên bởi"
+
+#~ msgid "Date Uploaded"
+#~ msgstr "Ngày tải lên"
+
+#~ msgid "Error Message"
+#~ msgstr "Thông báo lỗi"
+
+#~ msgid "Date Processed"
+#~ msgstr "Ngày xử lý"
+
+#~ msgid "Number of New SKUs"
+#~ msgstr "Số New SKUs"
+
+#~ msgid "Number of Unknown SKUs"
+#~ msgstr "Số không hiểu SKUs"
+
+#~ msgid "Number of Duplicate SKUs"
+#~ msgstr "Số nhân đôi SKUs"
+
+#~ msgid "Range Product Uploaded File"
+#~ msgstr "Phạm vi sản phẩm tập tin tải lên"
+
+#~ msgid "Range Product Uploaded Files"
+#~ msgstr "Phạm vi sản phẩm các tập tin tải lên"
+
+#~ msgid "%(value)s%% discount on %(range)s"
+#~ msgstr "%(value)s%% giảm %(range)s"
+
+#~ msgid "Percentage discount benefit"
+#~ msgstr "Lợi ích phần trăm chiết khấu"
+
+#~ msgid "Percentage discount benefits"
+#~ msgstr "Những lợi ích phần trăm chiết khấu"
+
+#~ msgid "%(value)s discount on %(range)s"
+#~ msgstr "%(value)s giảm %(range)s"
+
+#~ msgid "Absolute discount benefit"
+#~ msgstr "Lợi ích chiết khấu tuyệt đối"
+
+#~ msgid "Absolute discount benefits"
+#~ msgstr "Những lợi ích chiết khấu tuyệt đối"
+
+#~ msgid "The products that meet the condition are sold for %(amount)s"
+#~ msgstr "Các sản phẩm đáp ứng các điều kiện được bán cho %(amount)s"
+
+#~ msgid "Fixed price benefit"
+#~ msgstr "Lợi ích giá cố định"
+
+#~ msgid "Fixed price benefits"
+#~ msgstr "Những lợi ích giá cố định"
+
+#~ msgid "Cheapest product from %(range)s is free"
+#~ msgstr "Sản phẩm rẻ nhất từ %(range)s là miễn phí"
+
+#~ msgid "Multibuy discount benefit"
+#~ msgstr "Lợi ích chiết khấu mua nhiều"
+
+#~ msgid "Multibuy discount benefits"
+#~ msgstr "Những lợi ích chiết khấu mua nhiều"
+
+#~ msgid "%(amount)s off shipping cost"
+#~ msgstr "%(amount)s phí vận chuyển"
+
+#~ msgid "Shipping absolute discount benefit"
+#~ msgstr "Lợi ích tuyệt đối của chiết khấu phí vận chuyển"
+
+#~ msgid "Shipping absolute discount benefits"
+#~ msgstr "Những lợi ích tuyệt đối của chiết khấu phí vận chuyển"
+
+#~ msgid "Get shipping for %(amount)s"
+#~ msgstr "Nhận vận chuyển cho %(amount)s"
+
+#~ msgid "Fixed price shipping benefit"
+#~ msgstr "Lợi ích cố định giá vận chuyển"
+
+#~ msgid "Fixed price shipping benefits"
+#~ msgstr "Những lợi ích cố định giá vận chuyển"
+
+#~ msgid "%(value)s%% off of shipping cost"
+#~ msgstr "%(value)s%% của giá vận chuyển"
+
+#~ msgid "Shipping percentage discount benefit"
+#~ msgstr "Lợi ích phần trăm chiết khấu giá vận chuyển"
+
+#~ msgid "Shipping percentage discount benefits"
+#~ msgstr "Những lợi ích phần trăm chiết khấu giá vận chuyện"
+
+#~ msgid "Basket includes %(count)d item(s) from %(range)s"
+#~ msgstr "Giỏ hàng bao gồm %(count)d vật phẩm từ %(range)s"
+
+#~ msgid "Count condition"
+#~ msgstr "Số điều kiện"
+
+#~ msgid "Count conditions"
+#~ msgstr "Số điều kiện"
+
+#~ msgid "Buy %(delta)d more product from %(range)s"
+#~ msgid_plural "Buy %(delta)d more products from %(range)s"
+#~ msgstr[0] "Mua %(delta)d nhiều sản phẩm từ %(range)s"
+
+#~ msgid "Basket includes %(count)d distinct item(s) from %(range)s"
+#~ msgstr "Giỏ hàng bao gồm %(count)d những vật phẩm từ %(range)s"
+
+#~ msgid "Coverage Condition"
+#~ msgstr "Điều kiện bảo hành"
+
+#~ msgid "Coverage Conditions"
+#~ msgstr "Những điều kiện bảo hành"
+
+#~ msgid "Basket includes %(amount)s from %(range)s"
+#~ msgstr "Giỏ hàng bao gồm %(amount)s từ %(range)s"
+
+#~ msgid "Value condition"
+#~ msgstr "Điều kiện giá trị"
+
+#~ msgid "Value conditions"
+#~ msgstr "Những điều kiện giá trị"
+
+#~ msgid "Spend %(value)s more from %(range)s"
+#~ msgstr "Dành %(value)s nhiều hơn từ %(range)s"
+
+#~ msgid "Offer"
+#~ msgstr "Ưu đãi"
+
+#~ msgid "Total discount"
+#~ msgstr "Tổng chiết khấu"
+
+#~ msgid "Offer performance"
+#~ msgstr "Hiệu suất phục vụ"
+
+#~ msgid "Site"
+#~ msgstr "Trang"
+
+#~ msgid "Billing Address"
+#~ msgstr "Địa chỉ thanh toán"
+
+#~ msgid "Order total (inc. tax)"
+#~ msgstr "Tổng số thứ tự (inc thuế.)"
+
+#~ msgid "Order total (excl. tax)"
+#~ msgstr "Tổng số thứ tự (thuế excl.)"
+
+#~ msgid "Shipping charge (inc. tax)"
+#~ msgstr "Phí vận chuyển (inc thuế.)"
+
+#~ msgid "Shipping charge (excl. tax)"
+#~ msgstr "Phí vận chuyển (thuế excl.)"
+
+#~ msgid "Shipping Address"
+#~ msgstr "Địa chỉ giao hàng"
+
+#~ msgid "Shipping method"
+#~ msgstr "Phương thức giao hàng"
+
+#~ msgid "Guest email address"
+#~ msgstr "Địa chỉ email khách hàng"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status for order %(number)s (current "
+#~ "status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s' không phải là một trạng thái hợp lệ cho đơn hàng "
+#~ "%(number)s (trạng thái hiện tại: '%(status)s')"
+
+#~ msgid "In progress"
+#~ msgstr "Trong tiến trình"
+
+#~ msgid "Note Type"
+#~ msgstr "Loại chú ý"
+
+#~ msgid "Message"
+#~ msgstr "Tin nhắn"
+
+#~ msgid "Order Note"
+#~ msgstr "Lưu ý đơn hàng"
+
+#~ msgid "Order Notes"
+#~ msgstr "Những lưu ý đơn hàng"
+
+#~ msgid "Event Type"
+#~ msgstr "Loại sự kiện"
+
+#~ msgid "Communication Event"
+#~ msgstr "Sự kiện truyền thông"
+
+#~ msgid "Communication Events"
+#~ msgstr "Những sự kiện truyền thông"
+
+#~ msgid "'%(type)s' event for order #%(number)s"
+#~ msgstr "'%(type)s' sự kiện cho đơn hàng #%(number)s"
+
+#~ msgid "Partner name"
+#~ msgstr "Tên đối tác"
+
+#~ msgid "Partner reference"
+#~ msgstr "Tài liệu đối tác"
+
+#~ msgid "This is the item number that the partner uses within their system"
+#~ msgstr "Đây là số hàng mà các đối tác sử dụng trong hệ thống của họ"
+
+#~ msgid "Partner Notes"
+#~ msgstr "Những chú ý đối tác"
+
+#~ msgid "Stock record"
+#~ msgstr "Ghi lại tồn kho"
+
+#~ msgid "Price (inc. tax)"
+#~ msgstr "Giá (đã bao gồm thuế)"
+
+#~ msgid "Price (excl. tax)"
+#~ msgstr "Giá ( chưa thuế )"
+
+#~ msgid "Price before discounts (inc. tax)"
+#~ msgstr "Giá trước khi giảm giá (bao gồm thuế)"
+
+#~ msgid "Price before discounts (excl. tax)"
+#~ msgstr "Giá trước khi giảm giá (chưa thuế)"
+
+#~ msgid "Unit Cost Price"
+#~ msgstr "Đơn vị giá cả"
+
+#~ msgid "Unit Price (inc. tax)"
+#~ msgstr "Đơn vị giá (bao gồm thuế)"
+
+#~ msgid "Unit Price (excl. tax)"
+#~ msgstr "Đơn vị giá (không thuế)"
+
+#~ msgid "Unit Retail Price"
+#~ msgstr "Đơn vị giá bán lẻ"
+
+#~ msgid "Estimated Dispatch Date"
+#~ msgstr "Dự kiến ngày gửi"
+
+#~ msgid "Order Line"
+#~ msgstr "Số dòng"
+
+#~ msgid "<missing product>"
+#~ msgstr "<sản phẩm mất tích>"
+
+#~ msgid "Product '%(name)s', quantity '%(qty)s'"
+#~ msgstr "Sản phẩm '%(name)s', Số lượng '%(qty)s'"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status (current status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s' trạng thái không còn hiệu lực (trạng thái hiện tại: "
+#~ "'%(status)s')"
+
+#~ msgid "'%(title)s' is no longer available"
+#~ msgstr "'%(title)s'  không còn có sẵn"
+
+#~ msgid "Line Attribute"
+#~ msgstr "Thuộc tính dòng"
+
+#~ msgid "Line Attributes"
+#~ msgstr "Các thuộc tính dòng"
+
+#~ msgid "Shiping (inc. tax)"
+#~ msgstr "Giao hàng (bao gồm thuế)"
+
+#~ msgid "Shipping (excl. tax)"
+#~ msgstr "Giao hàng (không thuế)"
+
+#~ msgid "Line Price"
+#~ msgstr "Giá dòng"
+
+#~ msgid "Line Prices"
+#~ msgstr "Giá dòng"
+
+#~ msgid "Line '%(number)s' (quantity %(qty)d) price %(price)s"
+#~ msgstr "Dòng '%(number)s' (số lượng %(qty)d) giá %(price)s"
+
+#~ msgid "Payment Event Type"
+#~ msgstr "Loại sự kiên thanh toán"
+
+#~ msgid "Payment Event Types"
+#~ msgstr "Các loại sự kiện thanh toán"
+
+#~ msgid "Amount"
+#~ msgstr "Số lượng"
+
+#~ msgid "Reference"
+#~ msgstr "tài liêu tham khảo"
+
+#~ msgid "Lines"
+#~ msgstr "Các dòng"
+
+#~ msgid "Payment Event"
+#~ msgstr "Sự kiện thanh toán"
+
+#~ msgid "Payment Events"
+#~ msgstr "Những sự kiện thanh toán"
+
+#~ msgid "Payment event for order %s"
+#~ msgstr "Sự kiện thanh toán cho đơn hàng %s"
+
+#~ msgid "Event"
+#~ msgstr "Sự kiện"
+
+#~ msgid "Payment Event Quantity"
+#~ msgstr "Số lượng tổ chức sự kiện thanh toán"
+
+#~ msgid "Payment Event Quantities"
+#~ msgstr "Số lượng tổ chức sự kiện thanh toán"
+
+#~ msgid "Event notes"
+#~ msgstr "Ghi chú sự kiện"
+
+#~ msgid "This could be the dispatch reference, or a tracking number"
+#~ msgstr "Điều này có thể là tài liệu tham khảo, hoặc một số theo dõi"
+
+#~ msgid "Shipping Event"
+#~ msgstr "Sự kiện giao hàng"
+
+#~ msgid "Shipping Events"
+#~ msgstr "Các sự kiện giao hàng"
+
+#~ msgid "Order #%(number)s, type %(type)s"
+#~ msgstr "Đơn hàng #%(number)s, loại %(type)s"
+
+#~ msgid "Shipping Event Quantity"
+#~ msgstr "Số lượng sự kiện giao hàng"
+
+#~ msgid "Shipping Event Quantities"
+#~ msgstr "Số lượng những sự kiện giao hàng"
+
+#~ msgid "%(product)s - quantity %(qty)d"
+#~ msgstr "%(product)s - số lượng %(qty)d"
+
+#~ msgid "Shipping Event Type"
+#~ msgstr "Loại sự kiện giao hàng"
+
+#~ msgid "Shipping Event Types"
+#~ msgstr "Các loại sự kiện giao hàng"
+
+#~ msgid "Discount category"
+#~ msgstr "Danh mục giảm giá"
+
+#~ msgid "Offer ID"
+#~ msgstr "Ưu đãi ID"
+
+#~ msgid "Voucher ID"
+#~ msgstr "Phiếu giảm giá ID"
+
+#~ msgid "Frequency"
+#~ msgstr "Tần số"
+
+#~ msgid "Order Discount"
+#~ msgstr "Đơn hàng giảm giá"
+
+#~ msgid "Order Discounts"
+#~ msgstr "Các đơn hàng giảm giá"
+
+#~ msgid "Discount of %(amount)r from order %(order)s"
+#~ msgstr "Giảm giá của %(amount)r từ đơn hàng %(order)s"
+
+#~ msgid "The selected quantity for line #%(line_id)s is too large"
+#~ msgstr "Số lượng đã chọn cho dòng #%(line_id)s là quá lớn"
+
+#~ msgid "Total incl. tax"
+#~ msgstr "Tổng số đã bao gồm thuế"
+
+#~ msgid "Date placed"
+#~ msgstr "Ngày đặt"
+
+#~ msgid "Orders placed"
+#~ msgstr "Các đơn đặt hàng"
+
+#~ msgid "Empty baskets cannot be submitted"
+#~ msgstr "Giỏ hàng trống không thể gửi đi"
+
+#~ msgid "There is already an order with number %s"
+#~ msgstr "Đã có một đơn đặt hàng với số %s"
+
+#~ msgid "Fulfillment partner"
+#~ msgstr "Đối tác hoàn thành"
+
+#~ msgid "Fulfillment partners"
+#~ msgstr "Các đối tác hoàn thành"
+
+#~ msgid "Price (retail)"
+#~ msgstr "Giá (bán lẻ)"
+
+#~ msgid "Cost Price"
+#~ msgstr "Giá cả"
+
+#~ msgid "Number in stock"
+#~ msgstr "Số tồn kho"
+
+#~ msgid "Number allocated"
+#~ msgstr "Số phân bổ"
+
+#~ msgid "Low Stock Threshold"
+#~ msgstr "Ngưỡng tồn kho thấp"
+
+#~ msgid "Invalid stock consumption request"
+#~ msgstr "Yêu cầu tiêu thụ tồn kho không hợp lệ"
+
+#~ msgid "Stock Record"
+#~ msgstr "Ghi lại tồn kho"
+
+#~ msgid "Threshold"
+#~ msgstr "Ngưỡng"
+
+#~ msgid "Open"
+#~ msgstr "Mở"
+
+#~ msgid "Date Closed"
+#~ msgstr "Ngày đóng"
+
+#~ msgid "<stockalert for \"%(stock)s\" status %(status)s>"
+#~ msgstr "<stockalert for \"%(stock)s\" status %(status)s>"
+
+#~ msgid "Stock alert"
+#~ msgstr "Thông báo tồn kho"
+
+#~ msgid "Stock alerts"
+#~ msgstr "Những thông báo tồn kho"
+
+#~ msgid "unavailable"
+#~ msgstr "không sẵn có"
+
+#~ msgid "Unavailable"
+#~ msgstr "Không sẵn có"
+
+#~ msgid "Available"
+#~ msgstr "Sẵn có"
+
+#~ msgid "no stock available"
+#~ msgstr "Không tồn tại tồn kho"
+
+#~ msgid "a maximum of %(max)d can be bought"
+#~ msgstr "tối đa của %(max)d có thể được mua"
+
+#~ msgid "In stock"
+#~ msgstr "Trong kho"
+
+#~ msgid "In stock (%d available)"
+#~ msgstr "Trong kho ( %d có sẵn)"
+
+#~ msgid "No file path supplied"
+#~ msgstr "Không có đường dẫn tập tin cung cấp"
+
+#~ msgid "%s does not exist"
+#~ msgstr "%s không tồn tại"
+
+#~ msgid "%s is not a file"
+#~ msgstr "%s không phải một tập tin"
+
+#~ msgid "%s is not readable"
+#~ msgstr "%s là không thể đọc được"
+
+#~ msgid "Source"
+#~ msgstr "Nguồn"
+
+#~ msgid "%(type)s of %(amount).2f"
+#~ msgstr "%(type)s của %(amount).2f"
+
+#~ msgid "Transaction"
+#~ msgstr "Giao dịch"
+
+#~ msgid "Transactions"
+#~ msgstr "Các giao dịch"
+
+#~ msgid "Source Type"
+#~ msgstr "Loại nguồn"
+
+#~ msgid "Amount Allocated"
+#~ msgstr "Số tiền phân bổ"
+
+#~ msgid "Amount Debited"
+#~ msgstr "Số tiền nợ"
+
+#~ msgid "Amount Refunded"
+#~ msgstr "Số tiền hoàn trả"
+
+#~ msgid "Label"
+#~ msgstr "Nhãn"
+
+#~ msgid "Sources"
+#~ msgstr "Các nguồn"
+
+#~ msgid "Allocation of %(amount)s from type %(type)s"
+#~ msgstr "Phân bổ của %(amount)s từ loại %(type)s"
+
+#~ msgid " (reference: %s)"
+#~ msgstr "(tài liệu: %s)"
+
+#~ msgid "This is used within forms to identify this source type"
+#~ msgstr ""
+#~ "Điều này được sử dụng trong các hình thức để xác định nguồn loại này"
+
+#~ msgid "Source Types"
+#~ msgstr "Các loại nguồn"
+
+#~ msgid "Card Type"
+#~ msgstr "Loại thẻ"
+
+#~ msgid "Number"
+#~ msgstr "Số"
+
+#~ msgid "Expiry Date"
+#~ msgstr "Ngày hết hạn"
+
+#~ msgid "Partner Reference"
+#~ msgstr "Tài liều đối tác"
+
+#~ msgid "%(card_type)s %(number)s (Expires: %(expiry)s)"
+#~ msgstr "%(card_type)s %(number)s (Hết hạn: %(expiry)s)"
+
+#~ msgid "Bankcard"
+#~ msgstr "Thẻ ngân hàng"
+
+#~ msgid "Bankcards"
+#~ msgstr "Các loại thẻ ngân hàng"
+
+#~ msgid "Payment"
+#~ msgstr "Thanh toán"
+
+#~ msgid "Card number"
+#~ msgstr "Số thẻ"
+
+#~ msgid "Please enter a valid credit card number."
+#~ msgstr "Vui lòng nhập đúng số thẻ tín dụng."
+
+#~ msgid "%s cards are not accepted."
+#~ msgstr "%s thẻ không được chấp nhận."
+
+#~ msgid "Enter a valid month."
+#~ msgstr "Nhập một tháng có hiệu lực"
+
+#~ msgid "Enter a valid year."
+#~ msgstr "Nhập một năm có hiệu lực"
+
+#~ msgid "Valid to"
+#~ msgstr "Có hiệu lực đến"
+
+#~ msgid "The expiration date you entered is in the past."
+#~ msgstr "Ngày hết hạn bạn nhập vào là trong quá khứ."
+
+#~ msgid "Valid from"
+#~ msgstr "Có hiệu lực từ"
+
+#~ msgid "The starting date you entered is in the future."
+#~ msgstr "Ngày khởi đầu bạn nhập vào là trong tương lai."
+
+#~ msgid "CCV number"
+#~ msgstr "Số CCV"
+
+#~ msgid "Please enter a 3 or 4 digit number"
+#~ msgstr "Vui lòng nhập vào 3 hoặc 4 chữ số"
+
+#~ msgid ""
+#~ "This is the 3 or 4 digit security number on the back of your bankcard"
+#~ msgstr "Đây là số bảo mật 3 hoặc 4 chữ số trên mặt sau của thẻ tín dụng"
+
+#~ msgid "American Express cards use a 4 digit security code"
+#~ msgstr "Thẻ American Express sử dụng một mã số bảo mật 4 chữ số"
+
+#~ msgid "Promotions"
+#~ msgstr "Những khuyến mãi"
+
+#~ msgid "Display Order"
+#~ msgstr "Hiển thị thứ tự"
+
+#~ msgid "Clicks"
+#~ msgstr "Nhấp chuột"
+
+#~ msgid "Linked Promotion"
+#~ msgstr "Liên kết khuyến mãi"
+
+#~ msgid "Linked Promotions"
+#~ msgstr "Những liên kết khuyến mãi"
+
+#~ msgid "Page URL"
+#~ msgstr "Trang URL"
+
+#~ msgid "Page Promotion"
+#~ msgstr "Trang khuyến mãi"
+
+#~ msgid "Page Promotions"
+#~ msgstr "Những trang khuyến mãi"
+
+#~ msgid "Filter"
+#~ msgstr "Lọc"
+
+#~ msgid "Keyword Promotion"
+#~ msgstr "Từ khóa khuyến mãi"
+
+#~ msgid "Keyword Promotions"
+#~ msgstr "Những từ khóa khuyến mãi"
+
+#~ msgid "Keywords"
+#~ msgstr "Từ khóa"
+
+#~ msgid "Promotion"
+#~ msgstr "Khuyến mãi"
+
+#~ msgid "Display type"
+#~ msgstr "Hiển thị loại"
+
+#~ msgid ""
+#~ "This can be used to have different types of HTML blocks (eg different "
+#~ "widths)"
+#~ msgstr ""
+#~ "Điều này có thể được sử dụng để có các loại khác nhau của các khối HTML "
+#~ "(ví dụ như độ rộng khác nhau)"
+
+#~ msgid "Raw HTML"
+#~ msgstr "Raw HTML"
+
+#~ msgid "Link URL"
+#~ msgstr "Liên kết URL"
+
+#~ msgid "This is where this promotion links to"
+#~ msgstr "Đây là nơi khuyến mãi này liên kết đến"
+
+#~ msgid ""
+#~ "Choose the Image content blocks that this block will use. (You may need "
+#~ "to create some first)."
+#~ msgstr ""
+#~ "Chọn các khối Nội dung hình ảnh mà khối này sẽ sử dụng. (Bạn có thể cần "
+#~ "phải tạo ra một số đầu tiên)."
+
+#~ msgid "Multi Image"
+#~ msgstr "Đa hình ảnh"
+
+#~ msgid "Multi Images"
+#~ msgstr "Đa hình ảnh"
+
+#~ msgid "Single product"
+#~ msgstr "Sản phẩm đơn"
+
+#~ msgctxt "Promotion product list title"
+#~ msgid "Title"
+#~ msgstr "Tiêu đề"
+
+#~ msgid "Link text"
+#~ msgstr "Văn bản liên kết"
+
+#~ msgid "Product list"
+#~ msgstr "Danh sách sản phẩm"
+
+#~ msgid "Product lists"
+#~ msgstr "Những danh sách sản phẩm"
+
+#~ msgid "Hand Picked Product List"
+#~ msgstr "Danh sách sản phẩm chọn tay"
+
+#~ msgid "Hand Picked Product Lists"
+#~ msgstr "Những danh sách sản phẩm chọn tay"
+
+#~ msgid "List"
+#~ msgstr "Danh sách"
+
+#~ msgid "Ordered product"
+#~ msgstr "Sản phẩm sắp xếp thự tự"
+
+#~ msgid "Bestselling products"
+#~ msgstr "Những sản phẩm bán chạy nhất"
+
+#~ msgid "Recently added products"
+#~ msgstr "Các sản phẩm vừa thêm vào"
+
+#~ msgid "Method"
+#~ msgstr "Phương thức"
+
+#~ msgid "Number of Products"
+#~ msgstr "Số sản phẩm"
+
+#~ msgid "Automatic product list"
+#~ msgstr "Danh mục sản phẩm ngẫu nhiên"
+
+#~ msgid "Automatic product lists"
+#~ msgstr "Những danh mục sản phẩm ngẫu nhiên"
+
+#~ msgid "Tabbed Block"
+#~ msgstr "Tab khóa"
+
+#~ msgid "Ordered Product List"
+#~ msgstr "Danh mục sản phẩm được sắp xếp"
+
+#~ msgid "Ordered Product Lists"
+#~ msgstr "Những danh mục sản phẩm được sắp xếp"
+
+#~ msgctxt "Tabbed block title"
+#~ msgid "Title"
+#~ msgstr "Tiêu đề"
+
+#~ msgid "Tabbed Blocks"
+#~ msgstr "Tab khóa"
+
+#~ msgid "Search"
+#~ msgstr "Tìm kiếm"
+
+#~ msgid "Relevancy"
+#~ msgstr "Liên quan"
+
+#~ msgid "Customer rating"
+#~ msgstr "Xếp hạng khách hàng"
+
+#~ msgid "Newest"
+#~ msgstr "Mới nhất"
+
+#~ msgid "Price high to low"
+#~ msgstr "Giá cao tới thấp"
+
+#~ msgid "Price low to high"
+#~ msgstr "Giá thấp tới cao"
+
+#~ msgid "Title A to Z"
+#~ msgstr "Tiêu đề A tới Z"
+
+#~ msgid "Title Z to A"
+#~ msgstr "Tiêu đề Z tới A"
+
+#~ msgid "Page is not 'last', nor can it be converted to an int."
+#~ msgstr ""
+#~ "Trang không phải là 'cuối cùng', và cũng không thể chuyển đổi sang một "
+#~ "dạng int."
+
+#~ msgid "Shipping Method"
+#~ msgstr "Phương thức giao hàng"
+
+#~ msgid "Shipping Methods"
+#~ msgstr "Những phương thức giao hàng"
+
+#~ msgid "Price per order"
+#~ msgstr "Giá trên một đơn hàng"
+
+#~ msgid "Price per item"
+#~ msgstr "Giá trên một mặt hàng"
+
+#~ msgid "Free Shipping"
+#~ msgstr "Giao hàng miễn phí"
+
+#~ msgid "Order and Item Charge"
+#~ msgstr "Đơn hàng mà mặt hàng tính phí"
+
+#~ msgid "Order and Item Charges"
+#~ msgstr "Những đơn hàng và mặt hàng tính phí"
+
+#~ msgid "Default Weight"
+#~ msgstr "Cân nặng mặc định"
+
+#~ msgid "Default product weight in kg when no weight attribute is defined"
+#~ msgstr ""
+#~ "Cân nặng mặc định của sản phẩm tính bằng kg khi không có thuộc tính trọng "
+#~ "lượng được xác định"
+
+#~ msgid "Weight-based Shipping Method"
+#~ msgstr "Phương thức giao hàng dựa theo cân nặng"
+
+#~ msgid "Weight-based Shipping Methods"
+#~ msgstr "Những phương thức giao hàng dựa theo cân nặng"
+
+#~ msgid "Upper Limit"
+#~ msgstr "Giới hạn trên"
+
+#~ msgid ""
+#~ "Enter upper limit of this weight band in kg. The lower limit will be "
+#~ "determined by the other weight bands."
+#~ msgstr ""
+#~ "Nhập giới hạn trên của dải này trọng lượng tính bằng kg. Giới hạn thấp "
+#~ "hơn sẽ được quyết định bởi dải cân khác."
+
+#~ msgid "Charge"
+#~ msgstr "Tính phí"
+
+#~ msgid "Weight Band"
+#~ msgstr "Trọng lượng"
+
+#~ msgid "Weight Bands"
+#~ msgstr "Trọng lượng "
+
+#~ msgid "Charge for weights up to %s kg"
+#~ msgstr "Phí cho cân nặng hơn %s kg"
+
+#~ msgid "Shipping"
+#~ msgstr "Giao hàng"
+
+#~ msgid "Free shipping"
+#~ msgstr "Giao hàng miễn phí"
+
+#~ msgid "No shipping required"
+#~ msgstr "Không yêu cầu giao hàng"
+
+#~ msgid "Fixed price shipping"
+#~ msgstr "Đã sửa giá giao hàng"
+
+#~ msgid "You need to define some shipping methods"
+#~ msgstr "Bạn cần khai báo một vài phương thức giao hàng"
+
+#~ msgid ""
+#~ "This will be shown in the checkout and basket once the voucher is entered"
+#~ msgstr ""
+#~ "Điều này sẽ được hiển thị trong thanh toán và giỏ hàng một lần phiếu giảm "
+#~ "giá được nhập"
+
+#~ msgid "Case insensitive / No spaces allowed"
+#~ msgstr "Trường hợp không nhạy cảm / Không gian cho phép."
+
+#~ msgid "Can be used once by one customer"
+#~ msgstr "Có thể được sử dụng một lần bởi một khách hàng"
+
+#~ msgid "Can be used multiple times by multiple customers"
+#~ msgstr "Có thể được sử dụng nhiều lần bởi nhiều khách hàng"
+
+#~ msgid "Can only be used once per customer"
+#~ msgstr "Chỉ có thể được sử dụng một lần cho mỗi khách hàng"
+
+#~ msgid "Times added to basket"
+#~ msgstr "Lần thêm vào giỏ hàng"
+
+#~ msgid "Times on orders"
+#~ msgstr "Lần trên đơn đặt hàng"
+
+#~ msgid "Voucher"
+#~ msgstr "Phiếu giảm giá"
+
+#~ msgid "This voucher has already been used"
+#~ msgstr "Phiếu giảm giá này đã được sử dụng"
+
+#~ msgid "This voucher is only available to signed in users"
+#~ msgstr "Phiếu giảm giá này chỉ dành cho người dùng đã đăng nhập"
+
+#~ msgid "You have already used this voucher in a previous order"
+#~ msgstr "Bạn đã sử dụng phiếu giảm giá này trong một đơn hàng trước đó"
+
+#~ msgid "Voucher Application"
+#~ msgstr "Ứng dụng giảm giá"
+
+#~ msgid "Voucher Applications"
+#~ msgstr "Những ứng dụng giảm giá"
+
+#~ msgid "'%(voucher)s' used by '%(user)s'"
+#~ msgstr "'%(voucher)s' đã được sử dụng bởi '%(user)s'"
+
+#~ msgid "Added to a basket"
+#~ msgstr "Đã thêm vào túi hàng"
+
+#~ msgid "Used in an order"
+#~ msgstr "Đã dùng trong một đơn hàng"
+
+#~ msgid "Voucher performance"
+#~ msgstr "Trạng thái giảm giá"
+
+#~ msgid "Default"
+#~ msgstr "Mặc định"
+
+#~ msgid "Private - Only the owner can see the wish list"
+#~ msgstr "Riêng tư - Chỉ chủ sử hữu có thể nhìn thấy danh sách mong muốn"
+
+#~ msgid ""
+#~ "Shared - Only the owner and people with access to the obfuscated link can "
+#~ "see the wish list"
+#~ msgstr ""
+#~ "Chia sẻ - Chỉ người chủ sở hữu và những người có quyền truy cập vào các "
+#~ "liên kết phức tạp có thể nhìn thấy danh sách mong muốn"
+
+#~ msgid "Public - Everybody can see the wish list"
+#~ msgstr "Công khai - Mọi người có thể nhìn thấy danh sách mong muốn"
+
+#~ msgid "Visibility"
+#~ msgstr "Tầm nhìn"
+
+#~ msgid "Wish List"
+#~ msgstr "Danh sách mong muốn"
+
+#~ msgid "Wish list line"
+#~ msgstr "Dòng danh sách mong muốn"
+
+#~ msgid "Wishlists"
+#~ msgstr "Những danh sách mong muốn"
+
+#~ msgid "The URL \"%s\" does not exist"
+#~ msgstr "Địa chỉ liên kết \"%s\" không tồn tại"
+
+#~ msgid "Specified page already exists!"
+#~ msgstr "Trang đó đã tồn tại"
+
+#~ msgid "This field is required"
+#~ msgstr "Thông tin này là bắt buộc"
+
+#~ msgid "This field is invalid as its value is forbidden"
+#~ msgstr "Dòng này không hợp lệ do giá trị bị cấm"
+
+#~ msgid "This is not a valid international phone format."
+#~ msgstr "Đây không phải là một định dạng điện thoại quốc tế có giá trị."
+
+#~ msgid "This is not a valid local phone format for %s."
+#~ msgstr "Đây không phải là một định dạng điện thoại địa phương hợp lệ cho %s"
+
+#~ msgid "This is not a valid local or international phone format."
+#~ msgstr ""
+#~ "Đây không phải là một định dạng điện thoại địa phương hợp lệ hoặc một "
+#~ "định dạng điện thoại quốc tể hợp lệ."
+
+#~ msgid "Check for products that are back in stock and send out alerts"
+#~ msgstr "Kiểm tra các sản phẩm trả lại vào kho và gửi thông báo"
+
+#~ msgid "Permission denied!"
+#~ msgstr "Quyền bị từ chối"
+
+#~ msgid "We're sorry but you are not permitted to access this page."
+#~ msgstr ""
+#~ "Chúng tôi rất tiếc, nhưng bạn không được phép truy cập vào trang này."
+
+#~ msgid "Page not found"
+#~ msgstr "Trang không tìm thấy"
+
+#~ msgid "Page not found!"
+#~ msgstr "Trang không tìm thấy!"
+
+#~ msgid "We're sorry but the page you are looking for can't be found."
+#~ msgstr "Chúng tôi rất tiếc, nhưng trang mà bạn tìm kiếm không có"
+
+#~ msgid "Server error!"
+#~ msgstr "Máy chủ bị lỗi"
+
+#~ msgid ""
+#~ "We're sorry but something went terribly wrong and we've been unable to "
+#~ "generate the page you requested."
+#~ msgstr ""
+#~ "Chúng tôi xin lỗi nhưng có gì đó sai sót và chúng tôi đã không thể tạo ra "
+#~ "các trang mà bạn yêu cầu."
+
+#~ msgid ""
+#~ "This incident has been logged and will be addressed by an engineer as "
+#~ "soon as possible."
+#~ msgstr ""
+#~ "Sự cố này đã được ghi lại và sẽ được giải quyết bởi một kỹ sư càng sớm "
+#~ "càng tốt."
+
+#~ msgid "Home"
+#~ msgstr "Trang chủ"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(title)s</strong> has been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> đã được thêm vào giỏ hàng của bạn."
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(quantity)s</strong> copies of <strong>%(title)s</strong>\n"
+#~ "    have been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(quantity)s</strong> sao chép từ <strong>%(title)s</strong>\n"
+#~ "\n"
+#~ "đã thêm vào giỏ hàng của bạn."
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been moved back to your basket.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong>đã được xóa khỏi giỏ hàng của bạn.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been saved for later\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> đã được lưu cho sau này\n"
+
+#~ msgid "Your basket is now empty"
+#~ msgstr "Bây giờ giỏ hàng của bạn không có gì"
+
+#~ msgid ""
+#~ "\n"
+#~ "            Your basket total is now <strong>%(total)s</strong>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Tổng số giỏ hàng của bạn hiện tại <strong>%(total)s</strong>"
+
+#~ msgid "View basket"
+#~ msgstr "Hiển thị giỏ hàng"
+
+#~ msgid "Checkout now"
+#~ msgstr "Thanh toán ngay"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket now qualifies for the \n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Giỏ hàng của bạn không còn đủ điều kiện cho \n"
+#~ " <strong>%(name)s</strong> ưu đãi.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket no longer qualifies for the\n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Giỏ hàng của bạn không còn đủ điều kiện cho \n"
+#~ "<strong>%(name)s</strong> ưu đãi.\n"
+
+#~ msgid "Important messages about items in your basket"
+#~ msgstr "Tin nhắn quan trọng về những vật phẩm trong giỏ hàng của bạn"
+
+#~ msgid "You could be missing out on offers!"
+#~ msgstr "Bạn có thể bỏ lỡ những ưu đãi"
+
+#~ msgid ""
+#~ "\n"
+#~ "                <div class=\"warning\">%(message)s to qualify for the <a "
+#~ "href=\"%(url)s\">%(offer_name)s</a> special offer</div>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "<div class=\"warning\">%(message)s để đủ điều kiện cho <a href=\"%(url)s"
+#~ "\">%(offer_name)s</a> ưu đãi đặc biệt</div>"
+
+#~ msgid "Items to buy now"
+#~ msgstr "Những vật phẩm để mua bây giờ"
+
+#~ msgid "Price"
+#~ msgstr "Giá"
+
+#~ msgid "Total"
+#~ msgstr "Tổng cộng"
+
+#~ msgid "Updating..."
+#~ msgstr "Đang cập nhật..."
+
+#~ msgid "Update"
+#~ msgstr "Cập nhật"
+
+#~ msgid "Remove"
+#~ msgstr "Gỡ bỏ"
+
+#~ msgid "Save for later"
+#~ msgstr "Lưu lại sau"
+
+#~ msgid "Voucher/promo code"
+#~ msgstr "Mã phiếu giảm giá/khuyến mãi"
+
+#~ msgid "I have a voucher code..."
+#~ msgstr "Tôi có một mã phiếu giảm giá"
+
+#~ msgid "Adding..."
+#~ msgstr "Đang thêm..."
+
+#~ msgid "Add voucher"
+#~ msgstr "Thêm phiếu giảm giá"
+
+#~ msgid "or"
+#~ msgstr "hoặc"
+
+#~ msgid "cancel"
+#~ msgstr "Thoát"
+
+#~ msgid "Totals"
+#~ msgstr "Tổng số"
+
+#~ msgid "Proceed to checkout"
+#~ msgstr "Tiến hành thanh toán"
+
+#~ msgid "Your basket is empty."
+#~ msgstr "Giỏ hàng của bạn trống."
+
+#~ msgid "Continue shopping"
+#~ msgstr "Tiếp tục mua hàng"
+
+#~ msgid "Items to buy later"
+#~ msgstr "Các mặt hàng để mua sau"
+
+#~ msgid "Items"
+#~ msgstr "Những mặt hàng"
+
+#~ msgid "Move to basket"
+#~ msgstr "Di chuyển tới giỏ hàng"
+
+#~ msgid "Qty"
+#~ msgstr "Số lượng"
+
+#~ msgid "Total:"
+#~ msgstr "Tổng:"
+
+#~ msgid "Basket total (before discounts)"
+#~ msgstr "Tổng số giỏ hàng (trước khi giảm giá)"
+
+#~ msgid "Discount"
+#~ msgstr "Giảm giá"
+
+#~ msgid "Basket total (after discounts)"
+#~ msgstr "Tổng số giỏ hàng (sau giảm giá)"
+
+#~ msgid "Basket total"
+#~ msgstr "Tổng số giỏ hàng"
+
+#~ msgid "Alternative shipping methods can be chosen during checkout"
+#~ msgstr ""
+#~ "Phương pháp vận chuyển thay thế có thể được lựa chọn trong quá trình "
+#~ "thanh toán"
+
+#~ msgid "Shipping total (before discounts)"
+#~ msgstr "Tổng phí giao hàng (trước giảm giá)"
+
+#~ msgid "Shipping total (after discounts)"
+#~ msgstr "Tổng phí giao hàng (sau giảm giá)"
+
+#~ msgid "Tax"
+#~ msgstr "Thuế"
+
+#~ msgid "Post order actions"
+#~ msgstr "Đăng tải đơn đặt hàng"
+
+#~ msgid "These will be applied once your order is placed."
+#~ msgstr "Những điều này sẽ được áp dụng khi đơn hàng của bạn được đặt."
+
+#~ msgid "Taxes will be added during checkout."
+#~ msgstr "Thuế sẽ được thêm vào trong quá trình thanh toán."
+
+#~ msgid "Show results for"
+#~ msgstr "Hiện kết quả cho"
+
+#~ msgid "Refine by"
+#~ msgstr "Tinh chỉnh theo"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> kết quả - hiển thị  <strong>%(start)s</"
+#~ "strong> tới <strong>%(end)s</strong>."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> kết quả."
+
+#~ msgid "<strong>0</strong> results."
+#~ msgstr "<strong>0</strong> kết quả."
+
+#~ msgid "No products found."
+#~ msgstr "Không tìm thấy sản phẩm nào."
+
+#~ msgid "Edit this product"
+#~ msgstr "Sửa sản phẩm này"
+
+#~ msgid "Product Description"
+#~ msgstr "Miêu tả sản phẩm"
+
+#~ msgid "Product Information"
+#~ msgstr "Thông tin sản phẩm"
+
+#~ msgid "Product Type"
+#~ msgstr "Loại sản phẩm"
+
+#~ msgid "Price (incl. tax)"
+#~ msgstr "Giá ( bao gồm thuế)"
+
+#~ msgid "Availability"
+#~ msgstr "Sẵn có"
+
+#~ msgid "Number of reviews"
+#~ msgstr "Số đánh giá"
+
+#~ msgid "See all reviews"
+#~ msgstr "Xem tất cả đánh giá"
+
+#~ msgid "Customer Reviews"
+#~ msgstr "Đánh giá của khách hàng"
+
+#~ msgid ""
+#~ "This product does not have any reviews yet -\n"
+#~ "                            <a href=\"%(add_review_url)s#addreview\">be "
+#~ "the first to write one</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "Sản phẩm này chưa có đánh giá nào - \n"
+#~ "<a href=\"%(add_review_url)s#addreview\"> hãy là người đầu tiên</a>."
+
+#~ msgid "This product does not have any reviews yet"
+#~ msgstr "Sản phẩm này chưa có đánh giá nào."
+
+#~ msgid "Recommended items"
+#~ msgstr "Các mặt hàng được đề nghị"
+
+#~ msgid "Add to basket"
+#~ msgstr "Thêm vào giỏ hàng"
+
+#~ msgid "You have an active stock alert for this product."
+#~ msgstr "Bạn có một thông báo kích hoạt cho sản phẩm này."
+
+#~ msgid "You can get an email alert when this product is back in stock."
+#~ msgstr "Bạn có thể có một email thông báo khi sản phẩm này về kho"
+
+#~ msgid "Notify me"
+#~ msgstr "Thông báo cho tôi"
+
+#~ msgid "Add to wish list"
+#~ msgstr "Thêm vào danh sách yêu thích"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                            Add to '%(name)s' wish list\n"
+#~ "                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Thêm  '%(name)s' vào danh sách yêu thích"
+
+#~ msgid "Create a new wishlist"
+#~ msgstr "Tạo mới một danh sách yêu thích"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <span class=\"pull-left\">Product is in <a href="
+#~ "\"%(url)s\">'%(name)s'</a> wishlist.</span>\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "<span class=\"pull-left\"> Sản phẩm <a href=\"%(url)s\">'%(name)s'</a> "
+#~ "trong danh sách yêu thích. </span>"
+
+#~ msgid "Removing..."
+#~ msgstr "Đang xóa..."
+
+#~ msgid "Please login to add products to a wish list."
+#~ msgstr "Vui lòng đăng nhập để thêm sản phẩm vào danh sách yêu thích."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Reviewed by you on %(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Đánh giá bởi bạn vào ngày %(review_date)s"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Reviewed by <strong>%(name)s</strong> on "
+#~ "%(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Được đánh giá bởi <strong>%(name)s</strong> vào ngày %(review_date)s"
+
+#~ msgid "Is this review helpful?"
+#~ msgstr "Đó là một đánh giá có ích?"
+
+#~ msgid "Yes"
+#~ msgstr "Có"
+
+#~ msgid "No"
+#~ msgstr "Không"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customer "
+#~ "found this useful\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customers "
+#~ "found this useful\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(num_up_votes)s</strong> của %(num_votes)s khách hàng tìm kiếm "
+#~ "hữu ích"
+
+#~ msgid "This review has no votes."
+#~ msgstr "Đánh giá không có phiếu"
+
+#~ msgid "Free"
+#~ msgstr "Miễn phí"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer review\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer reviews\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "%(num_reviews)s đánh giá của khách hàng"
+
+#~ msgid "Write a review"
+#~ msgstr "Viết một đánh giá"
+
+#~ msgid "Customer reviews"
+#~ msgstr "Đánh giá khách hàng"
+
+#~ msgid "Leave a product review"
+#~ msgstr "Để lại một đánh giá sản phẩm"
+
+#~ msgid "Saving..."
+#~ msgstr "Đang lưu..."
+
+#~ msgid "Save review"
+#~ msgstr "Lưu xem trước"
+
+#~ msgid "This product does not have any reviews yet."
+#~ msgstr "Sản phẩm này không có bất cứ đánh giá nào."
+
+#~ msgid "Change"
+#~ msgstr "Thay đổi"
+
+#~ msgid "Contact"
+#~ msgstr "Liên hệ"
+
+#~ msgid "Phone"
+#~ msgstr "Điện thoại"
+
+#~ msgid "Payment details to go here"
+#~ msgstr "Chi tiết thanh toán để đi đây"
+
+#~ msgid "Edit order contents"
+#~ msgstr "Sửa nội dung đơn hàng"
+
+#~ msgid "Order contents"
+#~ msgstr "Nội dung đơn hàng"
+
+#~ msgid "Item"
+#~ msgstr "Mặt hàng"
+
+#~ msgid "Checkout gateway"
+#~ msgstr "Cổng thanh toán"
+
+#~ msgid "Who are you?"
+#~ msgstr "Bạn là ai?"
+
+#~ msgid "Get a password reminder"
+#~ msgstr "Nhận một lời nhắc nhở mật khẩu"
+
+#~ msgid "Continuing..."
+#~ msgstr "Tiếp tục..."
+
+#~ msgid "Continue"
+#~ msgstr "Tiếp tục"
+
+#~ msgid "1. Shipping address"
+#~ msgstr "1. Địa chỉ giao hàng"
+
+#~ msgid "2. Shipping method"
+#~ msgstr "2. Phương thức giao hàng"
+
+#~ msgid "3. Payment"
+#~ msgstr "3. Thanh toán"
+
+#~ msgid "4. Preview"
+#~ msgstr "4. Xem trước"
+
+#~ msgid "5. Confirmation"
+#~ msgstr "5. Xác nhận"
+
+#~ msgid "Payment details"
+#~ msgstr "Chi tiết thanh toán"
+
+#~ msgid "Enter payment details"
+#~ msgstr "Nhập chi tiết thanh toán"
+
+#~ msgid ""
+#~ "This page needs implementing within your project.  You may want to use "
+#~ "one of Oscar's payment gateway libraries:"
+#~ msgstr ""
+#~ "Trang này cần thực hiện trong dự án của bạn. Bạn có thể muốn sử dụng một "
+#~ "trong các thư viện cổng thanh toán của Oscar:"
+
+#~ msgid "Order preview"
+#~ msgstr "Xem trước đơn hàng"
+
+#~ msgid "Preview order"
+#~ msgstr "Xem trước đơn hàng"
+
+#~ msgid "Place order"
+#~ msgstr "Đặt hàng"
+
+#~ msgid "Where should we ship to?"
+#~ msgstr "Chúng tôi nên giao hàng tới đâu?"
+
+#~ msgid "An address from your address book?"
+#~ msgstr "Địa chỉ này có trong danh bạ của bạn?"
+
+#~ msgid "Ship to your default shipping address"
+#~ msgstr "Giao tới địa chỉ giao hàng mặc định của bạn"
+
+#~ msgid "Ship to this address"
+#~ msgstr "Giao tới địa chỉ này"
+
+#~ msgid "Delete"
+#~ msgstr "Xóa"
+
+#~ msgid "Or a new address?"
+#~ msgstr "Hoặc một địa chỉ mới?"
+
+#~ msgid "return to basket"
+#~ msgstr "Quay lại giỏ hàng"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                This includes a discount of <strong>"
+#~ "%(amount)s</strong> as\n"
+#~ "                                your basket qualifies for the <strong>"
+#~ "%(name)s</strong> offer.\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "Điều này bao gồm giảm giá của <strong>%(amount)s</strong> như \n"
+#~ "giỏ hàng của bạn đủ điều kiện cho <strong>%(name)s</strong> ưu đãi"
+
+#~ msgid "Select option"
+#~ msgstr "Chọn tùy chọn"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s: confirmation\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Đơn hàng %(number)s: xác nhận"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Your order has been placed and a confirmation email has been sent "
+#~ "- your order number is\n"
+#~ "        <strong>%(number)s</strong>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "Đơn hàng của bạn đã được đặt và một email xác nhận đã được gửi - số thứ "
+#~ "tự của bạn là\n"
+#~ "<strong>%(number)s</strong>."
+
+#~ msgid ""
+#~ "Please make a note of this reference or print this page and quote it in "
+#~ "any communication with us regarding your order."
+#~ msgstr ""
+#~ "Vui lòng ghi chú lại tài liệu này hoặc in trang này và trích dẫn chúng "
+#~ "trong bất cứ cuộc trao đổi với chúng tôi liên quan dến đơn hàng của bạn."
+
+#~ msgid "No shipping address required."
+#~ msgstr "Không có địa chỉ giao hàng yêu cầu."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s (reference: %(reference)s)\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "Phân bổ %(amount)s từ kiểu %(type)s (reference: %(reference)s)"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "Phân bổ của %(amount)s từ loại %(type)s"
+
+#~ msgid "No payment was required for this order."
+#~ msgstr "Không có thanh toán được yêu cầu cho đơn hàng này."
+
+#~ msgid "Items purchased"
+#~ msgstr "các mặt hàng mua"
+
+#~ msgid ""
+#~ "\n"
+#~ "                            Estimated dispatch: <strong>%(date)s</"
+#~ "strong>\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Ước tính <strong>%(date)s</strong> gửi hàng"
+
+#~ msgid "Shipping charge (before discounts)"
+#~ msgstr "Phis giao hàng (trước khi giảm giá)"
+
+#~ msgid "Shipping charge (after discounts)"
+#~ msgstr "Phí giao hàng ( sau khi giảm giá)"
+
+#~ msgid "Shipping charge"
+#~ msgstr "Phí giao hàng"
+
+#~ msgid "Order tax"
+#~ msgstr "Số thuế"
+
+#~ msgid "Tracking your order"
+#~ msgstr "Đang theo dõi đơn hàng của bạn"
+
+#~ msgid "You can track the status of your order"
+#~ msgstr "Bạn có thể theo dõi trạng thái của đơn hàng của bạn"
+
+#~ msgid "View order status"
+#~ msgstr "Xem trạng thái đơn hàng"
+
+#~ msgid "Print this page"
+#~ msgstr "In trang này"
+
+#~ msgid "Are you sure you want to delete this address?"
+#~ msgstr "Bạn có chắc bạn muốn xóa địa chỉ này?"
+
+#~ msgid "Yes!"
+#~ msgstr "Đồng ý!"
+
+#~ msgid "Save"
+#~ msgstr "Lưu"
+
+#~ msgid "Address book"
+#~ msgstr "Sổ địa chỉ"
+
+#~ msgid "Deleting..."
+#~ msgstr "Đang xóa..."
+
+#~ msgid "Default shipping address"
+#~ msgstr "Địa chỉ giao hàng mặc định"
+
+#~ msgid "Default billing address"
+#~ msgstr "Địa chỉ thanh toán mặc định"
+
+#~ msgid "Edit"
+#~ msgstr "Sửa"
+
+#~ msgid "Set as default shipping address"
+#~ msgstr "Đặt làm địa chỉ giao hàng mặc định"
+
+#~ msgid "Set as default billing address"
+#~ msgstr "Đặt làm địa chỉ thanh toán mặc định"
+
+#~ msgid "There are no addresses in your address book."
+#~ msgstr "Không có địa chỉ nào trong sổ địa chỉ của bạn."
+
+#~ msgid "You do not have any active alerts for out-of-stock products."
+#~ msgstr "Bạn không có bất cứ kích hoạt thông báo nào cho sản phẩm hết hàng."
+
+#~ msgid "Cancel"
+#~ msgstr "Thoát"
+
+#~ msgid ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> is back in stock\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> quay lại hàng tồn kho\n"
+
+#~ msgid "Order #%(number)s"
+#~ msgstr "Đơn hàng #%(number)s"
+
+#~ msgid "Contact number"
+#~ msgstr "Số liên hệ"
+
+#~ msgid "Notes"
+#~ msgstr "Chú ý"
+
+#~ msgid "Estimated dispatch date"
+#~ msgstr "Ước tính ngày gửi"
+
+#~ msgid "Line price excl. tax"
+#~ msgstr "Giá dòng không gồm thuế"
+
+#~ msgid "Line price incl. tax"
+#~ msgstr "Giá dòng bao gồm thuế"
+
+#~ msgid "Basket total (inc. tax)"
+#~ msgstr "Tổng giỏ hàng (đã bao gồm thuế)"
+
+#~ msgid "Email history"
+#~ msgstr "Lịch sử email"
+
+#~ msgid "Date sent"
+#~ msgstr "Ngày gửi"
+
+#~ msgid "No emails found"
+#~ msgstr "Không tìm thấy email"
+
+#~ msgid "Thanks for using our site!"
+#~ msgstr "Cám ơn vì bạn đã sử dụng website của chúng tôi!"
+
+#~ msgid "The %(name)s team"
+#~ msgstr "Nhóm %(name)s"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately "
+#~ "and correct your email address:"
+#~ msgstr ""
+#~ "Nếu bạn không phải là người thay đổi nó, vui lòng thiết lập lại mật khẩu "
+#~ "của bạn ngay lập tức và đúng địa chỉ email của bạn:"
+
+#~ msgid ""
+#~ "If it was you who changed the email address, you can ignore this email."
+#~ msgstr ""
+#~ "nếu bạn là người thay đổi địa chỉ email, bạn có thể bỏ qua email này."
+
+#~ msgid ""
+#~ "You're receiving this email because your email address has been changed "
+#~ "to %(email)s."
+#~ msgstr ""
+#~ "Bạn nhận được email này vì địa chỉ email của bạn đã được thay đổi thành "
+#~ "%(email)s."
+
+#~ msgid "Your email address has changed at %(site_name)s."
+#~ msgstr "Địa chỉ email của bạn đã thay đổi tại %(site_name)s."
+
+#~ msgid "Hello,"
+#~ msgstr "Xin chào,"
+
+#~ msgid "Your order contains:"
+#~ msgstr "Đơn hàng của bạn chưa: "
+
+#~ msgid "Basket total:"
+#~ msgstr "Tổng giỏ hàng:"
+
+#~ msgid "Shipping:"
+#~ msgstr "Giao hàng:"
+
+#~ msgid "Order Total:"
+#~ msgstr "Tổng đơn hàng:"
+
+#~ msgid "Shipping address:"
+#~ msgstr "Địa chỉ giao hàng:"
+
+#~ msgid ""
+#~ "You can view the status of this order by clicking <a href=\"%(status_url)s"
+#~ "\" title=\"order status\">here</a>"
+#~ msgstr ""
+#~ "Bạn có thể xem trạng thái của đơn hàng này bằng cách nhấn vào <a href="
+#~ "\"%(status_url)s\" title=\"order status\">đây</a>"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "We are pleased to confirm your order %(order_number)s has been received "
+#~ "and\n"
+#~ "will be processed shortly."
+#~ msgstr ""
+#~ "Xin chào, \n"
+#~ "\n"
+#~ "Chúng tôi xin được xác nhận đơn hàng của bạn %(order_number)s đã được "
+#~ "nhận và\n"
+#~ "sẽ xử lý ngay."
+
+#~ msgid "quantity:"
+#~ msgstr "Số lượng:"
+
+#~ msgid "price:"
+#~ msgstr "Giá: "
+
+#~ msgid ""
+#~ "You can view the status of this order at the below URL:\n"
+#~ "%(status_url)s"
+#~ msgstr ""
+#~ "Bạn có thể xem trạng thái của đơn hàng này bên dưới URL: \n"
+#~ "%(status_url)s"
+
+#~ msgid "The team"
+#~ msgstr "Nhóm"
+
+#~ msgid "Confirmation of order %(number)s"
+#~ msgstr "Xác nhận của đơn hàng %(number)s"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately:"
+#~ msgstr ""
+#~ "Nếu không phải là bạn thay đổi nó, vui lòng thiết lập lại mật khẩu của "
+#~ "bạn ngay lập tức:"
+
+#~ msgid "Otherwise, you can ignore this email."
+#~ msgstr "Nếu không thì bạn có thể bỏ qua email này."
+
+#~ msgid ""
+#~ "\n"
+#~ "You're receiving this email because your password has been changed at "
+#~ "%(name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Bạn nhận được email này bởi vì mật khẩu của bạn đã được thay đổi tại  "
+#~ "%(name)s.\n"
+
+#~ msgid "Your password changed at %(site_name)s."
+#~ msgstr "Mật khẩu của bạn đã được thay đổi tại %(site_name)s."
+
+#~ msgid ""
+#~ "You're receiving this e-mail because you requested a password reset for "
+#~ "your user account at %(name)s."
+#~ msgstr ""
+#~ "Bạn nhận được e-mail này bởi vì bạn yêu cầu một thiết lập mật khẩu cho  "
+#~ "tài khoản của bạn tại %(name)s."
+
+#~ msgid "Please go to the following page and choose a new password:"
+#~ msgstr "Vui lòng đi đến trang dưới đây và chọn mật khẩu mới:"
+
+#~ msgid "Resetting your password at %(site_name)s."
+#~ msgstr "Thiết lập lại mật khẩu của bạn tại %(site_name)s."
+
+#~ msgid "Dear %(name)s,"
+#~ msgstr "Kính gửi %(name)s,"
+
+#~ msgid ""
+#~ "\n"
+#~ "Beware that the amount of items in stock is limited. Be quick or someone "
+#~ "might get there first.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Ghi nhớ rằng việc số tiền ghi trong tồn kho bị hạn chế. Hãy nhanh chóng "
+#~ "hoặc một người nào đó có thể đạt được điều đó đầu tiên.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "With this email we have disabled your alert automatically and you will "
+#~ "not\n"
+#~ "receive any further email regarding this product.\n"
+#~ "\n"
+#~ "Thanks for your interest,\n"
+#~ "The %(site_name)s Team\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Với email này chúng tôi vô hiệu hóa tự động thông báo của bạn và bạn sẽ "
+#~ "không\n"
+#~ "nhận bất cứ email nào liên quan tới sản phẩm này.\n"
+#~ "\n"
+#~ "Cảm ơn vì sự quan tâm của bạn,\n"
+#~ "Nhóm  %(site_name)s \n"
+
+#~ msgid "Confirmation required for stock alert"
+#~ msgstr "Xác nhận bắt buộc cho thông báo hàng tồn kho"
+
+#~ msgid "Thank you for registering."
+#~ msgstr "Cảm ơn bạn đã đăng ký."
+
+#~ msgid "Products you recently viewed"
+#~ msgstr "Những sản phẩm bạn đã xem gần đây"
+
+#~ msgid "Log In"
+#~ msgstr "Đăng nhập"
+
+#~ msgid "I've forgotten my password"
+#~ msgstr "Tôi quên mật khẩu của tôi"
+
+#~ msgid "Logging in..."
+#~ msgstr "Đang đăng nhập..."
+
+#~ msgid "Register"
+#~ msgstr "Đăng ký"
+
+#~ msgid "Registering..."
+#~ msgstr "Đang đăng ký..."
+
+#~ msgid "Notifications inbox"
+#~ msgstr "Hộp thư thông báo"
+
+#~ msgid "Sender"
+#~ msgstr "Người gửi"
+
+#~ msgid "Return to notifications inbox"
+#~ msgstr "Quay trở lại hộp thư thông báo"
+
+#~ msgctxt "noun"
+#~ msgid "Archive"
+#~ msgstr "Lưu trữ"
+
+#~ msgid "View"
+#~ msgstr "Xem"
+
+#~ msgctxt "verb"
+#~ msgid "Archive"
+#~ msgstr "Lưu trữ"
+
+#~ msgid "With selected items:"
+#~ msgstr "với mục đã chọn: "
+
+#~ msgid "Archiving..."
+#~ msgstr "Đang lưu trữ..."
+
+#~ msgid "There are no notifications to display."
+#~ msgstr "Không có thông báo để hiển thị."
+
+#~ msgid "Order history"
+#~ msgstr "Lịch sử đơn hàng"
+
+#~ msgid "Dispatch date"
+#~ msgstr "Ngày gửi đi"
+
+#~ msgid "Re-ordering..."
+#~ msgstr "Đặt hàng lại..."
+
+#~ msgid "Re-order"
+#~ msgstr "Đặt hàng lại"
+
+#~ msgid "Not available anymore"
+#~ msgstr "Không tồn tại nữa"
+
+#~ msgid "Basket total (excl. discounts)"
+#~ msgstr "Tổng giỏ hàng (chưa giam giá)"
+
+#~ msgid "Basket total (inc. discounts)"
+#~ msgstr "Tổng giỏ hàng ( đã giảm giá )"
+
+#~ msgid "Shipping total (excl. discounts)"
+#~ msgstr "Tổng giao hàng ( chưa giảm giá)"
+
+#~ msgid "Shipping total (inc. discounts)"
+#~ msgstr "Tổng giao hàng ( đã giảm giá )"
+
+#~ msgid "Shipping total"
+#~ msgstr "Tổng giao hàng"
+
+#~ msgid "Re-order all items"
+#~ msgstr "đặt hàng lại tất cả mặt hàng"
+
+#~ msgid "Contact Number"
+#~ msgstr "Số liên lạc"
+
+#~ msgid "Shipping Notes"
+#~ msgstr "Chú ý giao hàng"
+
+#~ msgid "Filtering..."
+#~ msgstr "Đang lọc..."
+
+#~ msgid "Filter results"
+#~ msgstr "Lọc kết quả"
+
+#~ msgid "Reset"
+#~ msgstr "Thiết lập lại"
+
+#~ msgid "Total inc tax"
+#~ msgstr "Giá bao gồm thuế"
+
+#~ msgid "No orders match your search."
+#~ msgstr "Không có đơn hàng nào phù hợp tìm kiếm của bạn."
+
+#~ msgid "You haven't placed any orders."
+#~ msgstr "Bạn đã không đặt bất kỳ đơn đặt hàng nào."
+
+#~ msgid "Change password"
+#~ msgstr "Thay đổi mật khẩu"
+
+#~ msgid "Edit profile"
+#~ msgstr "Sửa hồ sơ"
+
+#~ msgid "Please confirm your password to delete your profile."
+#~ msgstr "Vui lòng xác nhận mật khẩu của bạn để xóa hồ sơ của bạn."
+
+#~ msgid "Warning"
+#~ msgstr "Cảnh báo"
+
+#~ msgid ""
+#~ "\n"
+#~ "                This will delete all information about you from the "
+#~ "site.  Deleting your profile cannot be\n"
+#~ "                undone.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Điều này sẽ xóa tất cả các thông tin cá nhân  \n"
+#~ "nhân \n"
+#~ "của bạn. "
+
+#~ msgid "Delete?"
+#~ msgstr "Xóa?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Bạn có chắc muốn xóa %(name)s?"
+
+#~ msgid "Remove product"
+#~ msgstr "Xóa sản phẩm"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(product_name)s from "
+#~ "wish list %(wishlist_name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Bạn có chăcs bạn muốn xóa %(product_name)s ra khỏi danh sách yêu thích "
+#~ "%(wishlist_name)s?"
+
+#~ msgid "Action"
+#~ msgstr "Hành động"
+
+#~ msgid "View product"
+#~ msgstr "Xem sản phẩm"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                            Move to "
+#~ "'%(name)s' wish list\n"
+#~ "                                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Di chuyển  '%(name)s' đến danh sách yêu thích"
+
+#~ msgid "Update quantities"
+#~ msgstr "Cập nhật số lượng"
+
+#~ msgid "Your wish list is empty."
+#~ msgstr "Danh sách yêu thích của bạn trống."
+
+#~ msgid "Create"
+#~ msgstr "Tạo"
+
+#~ msgid "What should your new wish list be called?"
+#~ msgstr "Danh sách yêu thích mới của bạn nên gọi là gì?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    After your wishlist is created, <strong>%(title)s</"
+#~ "strong> will be added.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Sau khi danh sách yêu thích của bạn được tạo, <strong>%(title)s</strong> "
+#~ "sẽ được thêm vào."
+
+#~ msgid "Number of products"
+#~ msgstr "Số sản phẩm"
+
+#~ msgid "Wish list settings"
+#~ msgstr "Cài đặt danh sách yêu thích"
+
+#~ msgid "You don't have any wish lists yet."
+#~ msgstr "Hiện tại bạn không có bất cứ yêu thích nào."
+
+#~ msgid "Sections"
+#~ msgstr "Các mục"
+
+#~ msgid "Delete category?"
+#~ msgstr "Xóa danh mục?"
+
+#~ msgid "Delete category"
+#~ msgstr "Xóa danh mục"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <p>Delete category <strong>%(name)s</strong> - are you sure?</"
+#~ "p>\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Xóa danh mục <strong>%(name)s</strong> - bạn có chắc không?</p>"
+
+#~ msgid "Create new category"
+#~ msgstr "Tạo mới danh mục"
+
+#~ msgid "You are editing:"
+#~ msgstr "Bạn đang sửa: "
+
+#~ msgid "There are no categories."
+#~ msgstr "Không có danh mục nào."
+
+#~ msgid "Edit category"
+#~ msgstr "Sửa danh mục"
+
+#~ msgid "Add child category"
+#~ msgstr "Thêm danh mục con"
+
+#~ msgid "Edit children"
+#~ msgstr "Sửa con"
+
+#~ msgid "View on site"
+#~ msgstr "Xem trên web"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Đã tạo biến thể sản phẩm  '%(name)s'."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Đã tạo biến thể của '%(parent_name)s'."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Đã cập nhật biến thể sản phẩm  '%(name)s'."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated a variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Đã cập nhật biến thể của '%(parent_name)s'."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Created product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Đã tạo sản phẩm '%(name)s'."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Updated product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Đã cập nhật sản phẩm '%(name)s'."
+
+#~ msgid "Edit again"
+#~ msgstr "Sửa lại"
+
+#~ msgid "View it on the site"
+#~ msgstr "Xem trên trang web"
+
+#~ msgid "Delete product type?"
+#~ msgstr "Xóa loại sản phẩm?"
+
+#~ msgid ""
+#~ "Please make sure all products are assigned to another type before "
+#~ "deletion."
+#~ msgstr ""
+#~ "Vui lòng chắc chắn rằng tất cả sản phẩm đã gán cho một loại khác trước "
+#~ "khi xóa bỏ."
+
+#~ msgid "Delete product type"
+#~ msgstr "Xóa loại sản phẩm"
+
+#~ msgid "Delete product type <strong>%(name)s</strong> - are you sure?"
+#~ msgstr "Xóa loại sản phẩm <strong>%(name)s</strong> - bạn có chắc không?"
+
+#~ msgid "Create product type"
+#~ msgstr "Tạo loại sản phẩm"
+
+#~ msgid "Product Class details"
+#~ msgstr "Chi tiết lớp sản phẩm"
+
+#~ msgid "Create new product type"
+#~ msgstr "Tạo loại sản phẩm mới"
+
+#~ msgid "Product types"
+#~ msgstr "Loại sản phẩm"
+
+#~ msgid "Requires shipping"
+#~ msgstr "Giao hàng bắt buộc"
+
+#~ msgid "Track stock?"
+#~ msgstr "Theo dõi hàng tồn kho?"
+
+#~ msgid "Edit product type"
+#~ msgstr "Sửa loại sản phẩm"
+
+#~ msgid "There are no product types."
+#~ msgstr "Không có loại sản phẩm nào."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product variant <strong>%(title)s</strong> - "
+#~ "are you sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Xóa biến thể sản phẩm <strong>%(title)s</strong> - bạn có chắc không?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product <strong>%(title)s</strong> - are you "
+#~ "sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Xóa sản phẩm <strong>%(title)s</strong> - bạn có chắc không?"
+
+#~ msgid "This will also delete the following child products:"
+#~ msgstr "Điều này cũng sẽ xóa các sản phẩm con dưới đây:"
+
+#~ msgid "Create new product"
+#~ msgstr "Tạo một sản phẩm mới"
+
+#~ msgid "New Product"
+#~ msgstr "Sản phẩm mới"
+
+#~ msgid "Search Products"
+#~ msgstr "Tìm kiếm sản phẩm"
+
+#~ msgid "Searching..."
+#~ msgstr "Tìm kiếm..."
+
+#~ msgid ""
+#~ "\n"
+#~ "                            You are currently editing a product variant "
+#~ "of\n"
+#~ "                            <a href=\"%(parent_url)s\">%(title)s</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Bạn hiện đang chỉnh sửa một biến thể sản phẩm của \n"
+#~ "<a href=\"%(parent_url)s\">%(title)s</a>."
+
+#~ msgid "Product details"
+#~ msgstr "Chi tiết sản phẩm"
+
+#~ msgid "Images"
+#~ msgstr "Hình ảnh"
+
+#~ msgid "Stock and pricing"
+#~ msgstr "Tồn kho và giá cả"
+
+#~ msgid "Upselling"
+#~ msgstr "Bán hàng nâng cao"
+
+#~ msgid "Product Type:"
+#~ msgstr "Loại hàng hóa:"
+
+#~ msgid "Upload, change or remove images"
+#~ msgstr "Cập nhật, thay đổi hoặc xóa hình ảnh"
+
+#~ msgid "SKU"
+#~ msgstr "SKU"
+
+#~ msgid "Num in stock"
+#~ msgstr "Số tồn kho"
+
+#~ msgid "Num allocated"
+#~ msgstr "Số phân bổ"
+
+#~ msgid "Low stock threshold"
+#~ msgstr "Ngưỡng tồn kho thấp"
+
+#~ msgid "Cost price"
+#~ msgstr "Giá cả"
+
+#~ msgid "Price (excl tax)"
+#~ msgstr "Giá (chưa bao gồm thuế)"
+
+#~ msgid "Retail price"
+#~ msgstr "Giá bán lẻ"
+
+#~ msgid "Add variant"
+#~ msgstr "Thêm biến thể"
+
+#~ msgid "This product does not have any variants."
+#~ msgstr "Sản phẩm này không có bất cứ biến thể nào."
+
+#~ msgid "One can't add variants to this product at this point."
+#~ msgstr "Người ta không thể thêm biến thể cho sản phẩm này ở điểm này."
+
+#~ msgid "This is likely because this product still has stock records."
+#~ msgstr "Điều này có thể bởi vì sản phẩm này vẫn có tồn trong kho"
+
+#~ msgid "Save and add another variant"
+#~ msgstr "Lưu và tiếp tục thêm biến khác"
+
+#~ msgid "Save and continue editing"
+#~ msgstr "Lưu và tiếp tục sửa"
+
+#~ msgid "All"
+#~ msgstr "Tất cả"
+
+#~ msgid "Current available stock"
+#~ msgstr "tồn kho sẵn có"
+
+#~ msgid "Date alert raised"
+#~ msgstr "Ngày thông báo nêu ra"
+
+#~ msgid "No stock alerts found."
+#~ msgstr "Không có thông báo tồn kho nào được tìm thấy."
+
+#~ msgid "Preview"
+#~ msgstr "Xem trước"
+
+#~ msgid "Edit email"
+#~ msgstr "Sửa email"
+
+#~ msgid "Email content"
+#~ msgstr "Nội dung email"
+
+#~ msgid "These fields are rendered using Django's template system."
+#~ msgstr ""
+#~ "Các trường được kiết xuất bằng cách sử dụng hệ thống mẫu của Django."
+
+#~ msgid "You can use the following variables:"
+#~ msgstr "Bạn có thể sử dụng biến dưới đây:"
+
+#~ msgid "The full name of the user (if they have one)"
+#~ msgstr "Tên đầy đủ của người dùng (nếu họ có một)"
+
+#~ msgid "The user's email address"
+#~ msgstr "Địa chỉ email người dùng"
+
+#~ msgid "The name of the site (eg example.com)"
+#~ msgstr "Tên của trang web (ví dụ: example.com)"
+
+#~ msgid "View a preview of this email using order:"
+#~ msgstr "Xem một bản xem trước của của email sử dụng đơn hàng: "
+
+#~ msgid "View preview"
+#~ msgstr "Xem xem trước"
+
+#~ msgid "or send a preview to:"
+#~ msgstr "hoặc gửi một xem trước tới: "
+
+#~ msgid "Sending..."
+#~ msgstr "Đang gửi..."
+
+#~ msgid "Send preview email"
+#~ msgstr "Gửi email xem trước"
+
+#~ msgid "Body text"
+#~ msgstr "Nội dung"
+
+#~ msgid "There are no defined emails to edit."
+#~ msgstr "Không có email được xác định để chỉnh sửa."
+
+#~ msgid "Your Store Statistics"
+#~ msgstr "Thống kê cửa hàng của bạn"
+
+#~ msgid "Total Orders"
+#~ msgstr "Tổng số đơn hàng"
+
+#~ msgid "New Customers"
+#~ msgstr "Khách hàng mới"
+
+#~ msgid "Total Customers"
+#~ msgstr "Tổng số khách hàng"
+
+#~ msgid "Total Products"
+#~ msgstr "Tổng số sản phẩm"
+
+#~ msgid "Latest Orders (last 24 hours)"
+#~ msgstr "Đơn hàng cuối (trong 24h gần nhất)"
+
+#~ msgid "Orders - Last 24 Hours"
+#~ msgstr "Đơn hàng - 24h gần nhất"
+
+#~ msgid "Total orders"
+#~ msgstr "Tổng số đơn hàng"
+
+#~ msgid "Total lines"
+#~ msgstr "Tổng số dòng"
+
+#~ msgid "Total revenue"
+#~ msgstr "Tổng doanh thu"
+
+#~ msgid "Average order costs"
+#~ msgstr "Chi phí đặt hàng trung bình"
+
+#~ msgid "Manage"
+#~ msgstr "Quản lý"
+
+#~ msgid "Orders - All Time"
+#~ msgstr "Đơn hàng - Tất cả thời gian"
+
+#~ msgid "Total <em>open</em> baskets"
+#~ msgstr "Tổng số  giỏ hàng <em>mở</em>"
+
+#~ msgid "Total customers"
+#~ msgstr "Tổng số khách hàng"
+
+#~ msgid "New customers"
+#~ msgstr "Những hách hàng mới"
+
+#~ msgid "View Stock Alerts"
+#~ msgstr "Xem thông báo tồn kho"
+
+#~ msgid "Catalogue and stock"
+#~ msgstr "Danh mục hàng và tồn kho"
+
+#~ msgid "Total products"
+#~ msgstr "Tổng số sản phẩm"
+
+#~ msgid "<em>Open</em> stock alerts"
+#~ msgstr "<em> Mở </em> thông báo tồn kho"
+
+#~ msgid "<em>Closed</em> stock alerts"
+#~ msgstr "<em> Đã đóng </em> thông báo tồn kho"
+
+#~ msgid "Offers, vouchers and promotions"
+#~ msgstr "Ưu đãi, phiếu giảm giá và chương trình khuyến mãi"
+
+#~ msgid "Active <em>Site</em> Offers"
+#~ msgstr "Hoạt động <em> Trang web </em> ưu đãi"
+
+#~ msgid "Active <em>Vouchers</em>"
+#~ msgstr "Kích hoạt <em>Phiếu quà tặng </em>"
+
+#~ msgid "Welcome"
+#~ msgstr "Chào mừng"
+
+#~ msgid "Return to site"
+#~ msgstr "Quay lại trang"
+
+#~ msgid "Log out"
+#~ msgstr "Đăng xuất"
+
+#~ msgid "Build a new incentive"
+#~ msgstr "Xây dựng một khuyến khích mới"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Ranges can be created and edited from within the <a href="
+#~ "\"%(range_list_url)s\">range dashboard</a>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "Phạm vi có thể được tạo và sửa từ trong <a href=\"%(range_list_url)s\"> "
+#~ "phạm vi bảng điều khiển."
+
+#~ msgid "...or choose a pre-defined one"
+#~ msgstr "... hoặc chọn một cái định sẵn"
+
+#~ msgid "Continue to step 3"
+#~ msgstr "Tiếp tục tới bước 3"
+
+#~ msgid "Build a new condition"
+#~ msgstr "Xây dựng điều kiện mới"
+
+#~ msgid "Continue to step 4"
+#~ msgstr "Tiếp tục tới bước 4"
+
+#~ msgid "Continue to step 2"
+#~ msgstr "Tiếp tục tới bước 2"
+
+#~ msgid "Delete offer"
+#~ msgstr "Xóa ưu đãi"
+
+#~ msgid "Are you sure you want to delete this offer?"
+#~ msgstr "Bạn có chăc bạn muốn xóa ưu đãi này?"
+
+#~ msgid ""
+#~ "\n"
+#~ "        %(name)s | Offers\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "%(name)s | Ưu đãi"
+
+#~ msgid "Reinstating..."
+#~ msgstr "Khôi phục..."
+
+#~ msgid "Reinstate offer"
+#~ msgstr "Khôi phục ưu đãi"
+
+#~ msgid "Suspending..."
+#~ msgstr "Tạm ngưng..."
+
+#~ msgid "Suspend offer"
+#~ msgstr "Tạm ngưng ưu đãi"
+
+#~ msgid "Offer currently available"
+#~ msgstr "Ưu đãi hiện đang có sẵn"
+
+#~ msgid "Offer not available due to restrictions!"
+#~ msgstr "Ưu đãi không có sẵn do hạn chế!"
+
+#~ msgid "Total cost:"
+#~ msgstr "Tổng chi phí:"
+
+#~ msgid "Number of orders:"
+#~ msgstr "Số đơn đặt hàng:"
+
+#~ msgid "Number of uses:"
+#~ msgstr "Số lần sử dụng:"
+
+#~ msgid "Date created:"
+#~ msgstr "Ngày tạo: "
+
+#~ msgid "Offer details"
+#~ msgstr "Chi tiết ưu đãi"
+
+#~ msgid "Export to CSV"
+#~ msgstr "Xuất ra CSV"
+
+#~ msgid "Orders that used this offer"
+#~ msgstr "Đơn hàng đã sử dụng ưu đãi này"
+
+#~ msgid "Create new offer"
+#~ msgstr "Tạo ưu đãi mới"
+
+#~ msgid "Is available?"
+#~ msgstr "Có sẵn?"
+
+#~ msgid "Uses"
+#~ msgstr "Sử dụng"
+
+#~ msgid "Browse"
+#~ msgstr "Duyệt"
+
+#~ msgid "Stats"
+#~ msgstr "Thống kê"
+
+#~ msgid "No offers found."
+#~ msgstr "Không tìm thấy ưu đãi."
+
+#~ msgid "Steps"
+#~ msgstr "Các bước"
+
+#~ msgid "1. Name and description"
+#~ msgstr "1. Tên và miêu tả"
+
+#~ msgid "2. Incentive"
+#~ msgstr "2. Khuyến khích"
+
+#~ msgid "3. Condition"
+#~ msgstr "3. Điều kiện"
+
+#~ msgid "4. Restrictions"
+#~ msgstr "4. Các hạn chế"
+
+#~ msgid "Save this offer"
+#~ msgstr "Lưu ưu đãi"
+
+#~ msgid "Fields marked with * are mandatory."
+#~ msgstr "Các trường có dấu * là bắt buộc."
+
+#~ msgid "Save changes"
+#~ msgstr "Lưu thay đổi"
+
+#~ msgid "Offer summary"
+#~ msgstr "Tổng số ưu đãi"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s - Line #%(id)s\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Đơn hàng %(number)s - Dòng #%(id)s"
+
+#~ msgid "Line #%(id)s"
+#~ msgstr "Dòng #%(id)s"
+
+#~ msgid "Order #%(number)s - Line #%(id)s"
+#~ msgstr "Đơn hàng #%(number)s - Dòng #%(id)s"
+
+#~ msgid "Product Options"
+#~ msgstr "Tùy chọn sản phẩm"
+
+#~ msgid "Partner details"
+#~ msgstr "Chi tiết đối tác"
+
+#~ msgid "Shipping details"
+#~ msgstr "Chi tiết giao hàng"
+
+#~ msgid "Partner reference number"
+#~ msgstr "Số tài liệu tham khảo đối tác"
+
+#~ msgid "Partner notes"
+#~ msgstr "Những chú ý đối tác"
+
+#~ msgid "Estimate dispatch date"
+#~ msgstr "Ước tính ngày gửi đi"
+
+#~ msgid "Shipping status"
+#~ msgstr "Trạng thái giao hàng"
+
+#~ msgid "State"
+#~ msgstr "Tiểu bang"
+
+#~ msgid "No shipping events have occurred."
+#~ msgstr "Không có sự kiện giao hàng đã xảy ra."
+
+#~ msgid "Shipping events"
+#~ msgstr "Sự kiện giao hàng"
+
+#~ msgid "Payment events"
+#~ msgstr "Sự kiện thanh toán"
+
+#~ msgid "No payment events have occurred."
+#~ msgstr "Không có sự kiện thanh toán đã xảy ra."
+
+#~ msgid "Order %(number)s"
+#~ msgstr "Đơn hàng %(number)s"
+
+#~ msgid "Customer Information"
+#~ msgstr "Thông tin khách hàng"
+
+#~ msgid "Customer checked out as a guest."
+#~ msgstr "Khách hàng đã kiểm tra như là một khách."
+
+#~ msgid "Customer has deleted their account."
+#~ msgstr "Khách hàng đã xóa tài khoản của họ."
+
+#~ msgid "Order information"
+#~ msgstr "Thông tin đơn hàng"
+
+#~ msgid "Order Total"
+#~ msgstr "Tổng số đơn hàng"
+
+#~ msgid "Time of purchase"
+#~ msgstr "Thời điểm mua hàng"
+
+#~ msgid "Order Details"
+#~ msgstr "Chi tiết đơn hàng"
+
+#~ msgid "Discounts"
+#~ msgstr "Giảm giá"
+
+#~ msgid "Items ordered"
+#~ msgstr "Các mặt hàng đặt mua"
+
+#~ msgid "Line ID"
+#~ msgstr "Dòng ID"
+
+#~ msgid "Supplier"
+#~ msgstr "Nhà cung cấp"
+
+#~ msgid "Supplier SKU"
+#~ msgstr "Nhà cung cấp SKU"
+
+#~ msgid "Est. dispatch date"
+#~ msgstr "Est. ngày gửi đi"
+
+#~ msgid "Price excl tax (before discounts)"
+#~ msgstr "Giá chưa bao gồm thuêus (trước khi giảm giá)"
+
+#~ msgid "Price inc tax (before discounts)"
+#~ msgstr "Giá bao gồm thuế (trước khi giảm giá)"
+
+#~ msgid "With selected lines"
+#~ msgstr "Với những dòng đã chọn"
+
+#~ msgid "Change line status to"
+#~ msgstr "Thay đổi dòng trạng thái thành"
+
+#~ msgid "choose new status"
+#~ msgstr "chọn trạng thái mới"
+
+#~ msgid "Create shipping event"
+#~ msgstr "Tạo sự kiện giao hàng"
+
+#~ msgid "choose event type"
+#~ msgstr "chọn loại sự kiện"
+
+#~ msgid "with reference"
+#~ msgstr "với tài liệu tham khảo"
+
+#~ msgid "Create payment event"
+#~ msgstr "Tạo sự kiện thanh toán"
+
+#~ msgid "with amount"
+#~ msgstr "với số tiền"
+
+#~ msgid "Go!"
+#~ msgstr "Đi!"
+
+#~ msgid "Change order status"
+#~ msgstr "Thay đổi trạng thái đơn hàng"
+
+#~ msgid "Change status"
+#~ msgstr "Thay đổi trạng thái"
+
+#~ msgid "This order can't have its status changed."
+#~ msgstr "Đơn hàng này không thể có tình trạng thay đổi của nó."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                                %(title)s "
+#~ "(quantity %(event_qty)s/%(total_qty)s)\n"
+#~ "                                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "%(title)s (quantity %(event_qty)s/%(total_qty)s)"
+
+#~ msgid "No shipping events."
+#~ msgstr "Không có sự kiện thanh toán nào."
+
+#~ msgid "Product:"
+#~ msgstr "Sản phẩm:"
+
+#~ msgid "quantity"
+#~ msgstr "Số lượng"
+
+#~ msgid "No payment events."
+#~ msgstr "Không có sự kiện thanh toán nào."
+
+#~ msgid "Method name"
+#~ msgstr "Tên phương pháp"
+
+#~ msgid "Method code"
+#~ msgstr "Phương pháp mã hóa"
+
+#~ msgid "Charge (incl tax)"
+#~ msgstr "Phí (bao gồm thuế)"
+
+#~ msgid "Charge (excl tax)"
+#~ msgstr "Phí (chưa thuế)"
+
+#~ msgid "Payment sources"
+#~ msgstr "Nguồn thanh toán"
+
+#~ msgid "Allocation"
+#~ msgstr "Phân bổ"
+
+#~ msgid "Amount debited"
+#~ msgstr "Số tiền ghi nợ"
+
+#~ msgid "Amount refunded"
+#~ msgstr "Số tiền hoàn trả"
+
+#~ msgid "No payment sources found for this order."
+#~ msgstr "Không có nguồn thanh toán cho đơn hàng này."
+
+#~ msgid "No discounts were applied to this order."
+#~ msgstr "Không có giảm giá nào được áp dụng cho đơn hàng này."
+
+#~ msgid "Admin"
+#~ msgstr "Admin"
+
+#~ msgid "No notes available."
+#~ msgstr "Không có chú ý nào tồn tại."
+
+#~ msgid "Save note"
+#~ msgstr "Lưu chú ý"
+
+#~ msgid "Notes are only editable for 5 minutes after being saved."
+#~ msgstr "Những chú ý chỉ thay đổi trong 5 phút sau khi lưu."
+
+#~ msgid "Advanced Search"
+#~ msgstr "Tìm kiếm nâng cao"
+
+#~ msgid "Close"
+#~ msgstr "Đóng"
+
+#~ msgid "Order Search Results"
+#~ msgstr "Thứ tự kết quả tìm kiếm"
+
+#~ msgid "All Orders"
+#~ msgstr "Tất cả đơn hàng"
+
+#~ msgid "Download selected orders as a CSV"
+#~ msgstr "Tải về đơn hàng đã chọn như một CSV"
+
+#~ msgid "Deleted"
+#~ msgstr "Đã xóa"
+
+#~ msgid "Changing..."
+#~ msgstr "Thay đổi..."
+
+#~ msgid "No orders found."
+#~ msgstr "Không tìm thấy đơn hàng nào."
+
+#~ msgid "Print Packaging Slips"
+#~ msgstr "In nhãn hàng "
+
+#~ msgid "Mark as"
+#~ msgstr "Đánh dấu"
+
+#~ msgid "Change order status to"
+#~ msgstr "Thay đổi trạng thái đơn hàng thành "
+
+#~ msgid "Done"
+#~ msgstr "Hoàn thành"
+
+#~ msgid "Edit shipping address"
+#~ msgstr "Sửa địa chỉ giao hàng"
+
+#~ msgid "Edit shipping address for order %(order.number)s"
+#~ msgstr "Sửa địa chỉ giao hàng cho đơn hàng %(order.number)s"
+
+#~ msgid "Update address"
+#~ msgstr "Cập nhật địa chỉ"
+
+#~ msgid "Order statistics"
+#~ msgstr "Thứ tự số liệu thống kê"
+
+#~ msgid "Filter result"
+#~ msgstr "Lọc kết quả"
+
+#~ msgid "Summary"
+#~ msgstr "Tổng kết"
+
+#~ msgid "Order status breakdown"
+#~ msgstr "Thứ tự trạng thái đặt hàng"
+
+#~ msgid "Delete page '%(title)s'?"
+#~ msgstr "Xóa trang  '%(title)s'?"
+
+#~ msgid "Delete page"
+#~ msgstr "Xóa trang"
+
+#~ msgid "Delete page <strong>%(title)s</strong> - are you sure?"
+#~ msgstr "Xóa trang <strong>%(title)s</strong>  - bạn có chắc không?"
+
+#~ msgid "Create new page"
+#~ msgstr "Tạo trang mới"
+
+#~ msgid "No pages found."
+#~ msgstr "Không có trang nào được tìm thấy."
+
+#~ msgid ""
+#~ "\n"
+#~ "        Page <strong>%(title)s</strong> saved!\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Trang <strong>%(title)s</strong> đã được lưu!"
+
+#~ msgid "Oops! We found some errors"
+#~ msgstr "Oops! Chúng tôi tìm thấy vài lỗi"
+
+#~ msgid "please check the error messages below and try again"
+#~ msgstr "Vui lòng kiểm tra thông báo lỗi bên dưới và thử lại"
+
+#~ msgid "previous"
+#~ msgstr "Trước"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Page %(page_num)s of %(total_pages)s\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Trang %(page_num)s của %(total_pages)s"
+
+#~ msgid "next"
+#~ msgstr "Kết tiếp"
+
+#~ msgid ""
+#~ "\n"
+#~ "User %(user_name)s was unlinked from %(partner_name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Người dùng  %(user_name)s vừa ngắt kết nối với %(partner_name)s.\n"
+
+#~ msgid "Undo"
+#~ msgstr "Hủy bỏ"
+
+#~ msgid "Delete partner"
+#~ msgstr "Xóa đối tác"
+
+#~ msgid "Are you sure you want to delete this partner?"
+#~ msgstr "Bạn có chắc bạn muốn xóa đối tác này?"
+
+#~ msgid "Edit the user's details"
+#~ msgstr "Sửa chi tiết người dùng"
+
+#~ msgid "No users associated."
+#~ msgstr "Không có người dùng liên kết."
+
+#~ msgid "No address associated."
+#~ msgstr "Không có địa chỉ liên kết."
+
+#~ msgid "Manage partner and users"
+#~ msgstr "Quản lý đối tác và người dùng"
+
+#~ msgid "Link an existing user"
+#~ msgstr "Liên kết người dùng hiện tại"
+
+#~ msgid "Link a new user"
+#~ msgstr "Liên kết một người dùng mới"
+
+#~ msgid "No partners found."
+#~ msgstr "Không tìm thấy đối tác nào."
+
+#~ msgid "Unlinking..."
+#~ msgstr "Đang bỏ liên kết..."
+
+#~ msgid "Unlink user"
+#~ msgstr "Bỏ liên kết người dùng"
+
+#~ msgid "No users linked."
+#~ msgstr "Không có người dùng nào liên kết."
+
+#~ msgid "Link a user"
+#~ msgstr "Liên kết một người dùng"
+
+#~ msgid "Manage users"
+#~ msgstr "Quản lý người dùng"
+
+#~ msgid "Update details"
+#~ msgstr "Cập nhật chi tiết"
+
+#~ msgid ""
+#~ "A partial email address can be entered (eg '@example.com') to match "
+#~ "multiple addresses."
+#~ msgstr ""
+#~ "Một phần địa chỉ email có thể nhập vào (ví dụ: '@example.com') để phù hợp "
+#~ "với nhiều địa chỉ."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                User is already linked to "
+#~ "%(name)s.\n"
+#~ "                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "Người dùng đã liên kết tới %(name)s."
+
+#~ msgid "Linking..."
+#~ msgstr "Đang liên kết..."
+
+#~ msgid "Link user"
+#~ msgstr "liên kết người dùng"
+
+#~ msgid "No users found."
+#~ msgstr "Không tìm thấy người dùng."
+
+#~ msgid "Delete content block '%(name)s'?\""
+#~ msgstr "Xóa khối nội dung '%(name)s'?\""
+
+#~ msgid "Delete content block"
+#~ msgstr "Xóa khối nội dung"
+
+#~ msgid ""
+#~ "Delete %(object.type)s content block <strong>%(object.name)s</strong> - "
+#~ "are you sure?"
+#~ msgstr ""
+#~ "Xóa %(object.type)s khối nội dung <strong>%(object.name)s</strong> - bạn "
+#~ "có chắc không?"
+
+#~ msgid "Remove promotion from page?"
+#~ msgstr "Xóa chương trình khuyến mãi từ trang?"
+
+#~ msgid "Remove promotion"
+#~ msgstr "Xóa chương trình khuyến mãi"
+
+#~ msgid ""
+#~ "Remove %(object.content_object.type)s content block <strong>%(object."
+#~ "name)s</strong> from page <strong>%(object.page_url)s</strong> - are you "
+#~ "sure?"
+#~ msgstr ""
+#~ "Xóa  %(object.content_object.type)s khối nội dung <strong>%(object."
+#~ "name)s</strong> từ trang <strong>%(object.page_url)s</strong> - bạn có "
+#~ "chắc không?"
+
+#~ msgid "Content block"
+#~ msgstr "Khối nội dung"
+
+#~ msgid "Pages displaying this content blocks"
+#~ msgstr "Các trang hiển thị nội dung khóa này"
+
+#~ msgid "Position on page"
+#~ msgstr "Vị trí trên trang"
+
+#~ msgid "View all blocks on this page"
+#~ msgstr "Xem tất cả các khóa trên trang này"
+
+#~ msgid "Remove from page"
+#~ msgstr "Xóa từ trang"
+
+#~ msgid "This promotion is not displayed anywhere at the moment."
+#~ msgstr ""
+#~ "Khuyến mãi này không được hiển thị bất cứ nơi nào tại thời điểm này."
+
+#~ msgid "Add to a page"
+#~ msgstr "Thêm vào một trang"
+
+#~ msgid "Add to page"
+#~ msgstr "Thêm vào trang"
+
+#~ msgid "Content blocks for page %(page_url)s"
+#~ msgstr "Khóa nội dung cho  trang '%(page_url)s'"
+
+#~ msgid "Content blocks on page '%(page_url)s'"
+#~ msgstr "Khóa nội dung trên trang '%(page_url)s'"
+
+#~ msgid "Edit promotions in position '%(name)s'"
+#~ msgstr "Sửa chương trình khuyến mãi tại vị trí '%(name)s'"
+
+#~ msgid "Promotion Name"
+#~ msgstr "Tên chương trình khuyến mãi"
+
+#~ msgid "Change display order"
+#~ msgstr "Thay đổi thứ tự hiển thị"
+
+#~ msgid "No promotions in this position."
+#~ msgstr "Không có chương trình khuyến mãi ở vị trí này."
+
+#~ msgid "Pages with content blocks"
+#~ msgstr "Các trang với các nội dung khóa"
+
+#~ msgid "View by page"
+#~ msgstr "Xem theo trang"
+
+#~ msgid "View all content blocks"
+#~ msgstr "Xem tất cả các khóa nội dung"
+
+#~ msgid "View content blocks by page"
+#~ msgstr "Xem các nội dung khóa của trang"
+
+#~ msgid "Pages with content blocks on them"
+#~ msgstr "Các trang với các nội dung khóa trên chúng"
+
+#~ msgid "Number of content blocks"
+#~ msgstr "Số nội dung khóa"
+
+#~ msgid "No content blocks found."
+#~ msgstr "Không tìm thấy nội dung khóa"
+
+#~ msgid "Create a new content block"
+#~ msgstr "Tạo mới  khối nội dung"
+
+#~ msgid "Creating..."
+#~ msgstr "Đang tạo..."
+
+#~ msgid "Create block"
+#~ msgstr "Tạo khối"
+
+#~ msgid "Number of times used"
+#~ msgstr "Số lần sử dụng"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>File <strong>%(filename)s</strong> processed.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Tập tin <strong>%(filename)s</strong> được xử lý.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> product added\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> products added\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(n)s</strong> sản phẩm được thêm vào"
+
+#~ msgid ""
+#~ "\n"
+#~ "                There was <strong>%(n)s</strong> duplicate product in the "
+#~ "file\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                There were <strong>%(n)s</strong> duplicate products in "
+#~ "the file\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "Đây là  <strong>%(n)s</strong> trùng sản phẩm trong thư mục"
+
+#~ msgid ""
+#~ "\n"
+#~ "                There was <strong>%(n)s</strong> product in the file that "
+#~ "couldn't be found in the catalogue\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                There were <strong>%(n)s</strong> products in the file "
+#~ "that couldn't be found in the catalogue\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "Có <strong>%(n)s</strong>sản phẩm trong thư mục không tìm thấy trong danh "
+#~ "mục sản phẩm ."
+
+#~ msgid "Edit range metadata"
+#~ msgstr "Chỉnh sửa siêu dữ liệu phạm vi"
+
+#~ msgid "Return to ranges homepage"
+#~ msgstr "Quay lại phạm vi trang chủ"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>Range <strong>%(name)s</strong> saved.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p> Phạm vi <strong>%(name)s</strong> đã được lưu.</p>\n"
+
+#~ msgid "Edit included products"
+#~ msgstr "Sửa sản phẩm đính kèm"
+
+#~ msgid "Delete range '%(name)s'?"
+#~ msgstr "Xóa phạm vi '%(name)s'?"
+
+#~ msgid "Are you sure you want to delete this range?"
+#~ msgstr "Bạn có chắc bạn muốn xóa phạm vi này?"
+
+#~ msgid "Create new range"
+#~ msgstr "Tạo mới phạm vi"
+
+#~ msgid "Save and edit products"
+#~ msgstr "Lưu và sửa sản phẩm"
+
+#~ msgid "Num products"
+#~ msgstr "Số sản phẩm"
+
+#~ msgid "Edit products"
+#~ msgstr "Sửa sản phẩm"
+
+#~ msgid "No ranges found."
+#~ msgstr "Không tìm thấy phạm vi"
+
+#~ msgid "Products in range '%(name)s'"
+#~ msgstr "Những sản phẩm trong phạm vi '%(name)s'"
+
+#~ msgid "products"
+#~ msgstr "những sản phẩm"
+
+#~ msgid ""
+#~ "This range contains all products. To add products manually, please "
+#~ "unselect the 'Includes All Products' option on the edit range page."
+#~ msgstr ""
+#~ "Dòng sản phẩm này có chứa tất cả các sản phẩm. Để thêm các sản phẩm thủ "
+#~ "công, hãy bỏ chọn 'Bao gồm tất cả các sản phẩm' tùy chọn trên trang chỉnh "
+#~ "sửa nhiều."
+
+#~ msgid "Add products"
+#~ msgstr "Thêm sản phẩm"
+
+#~ msgid "Running..."
+#~ msgstr "Đang chạy ..."
+
+#~ msgid "Upload history"
+#~ msgstr "Lịch sử tải lên"
+
+#~ msgid "Filename"
+#~ msgstr "Tên tập tin"
+
+#~ msgid "New products"
+#~ msgstr "Những sản phẩm mới"
+
+#~ msgid "Duplicate products"
+#~ msgstr "Những sản phẩm trùng lặp"
+
+#~ msgid "Unknown products"
+#~ msgstr "Sản phẩm không xác định"
+
+#~ msgid "Date uploaded"
+#~ msgstr "Đã cập nhật ngày"
+
+#~ msgid "Products in range"
+#~ msgstr "Sản phẩm trong phạm vi"
+
+#~ msgid "Remove selected products"
+#~ msgstr "Xóa sản phẩm đã chọn"
+
+#~ msgid "Is product discountable?"
+#~ msgstr "Là sản phẩm chiết khấu?"
+
+#~ msgid "Products in Range"
+#~ msgstr "Sản phẩm trong phạm vi"
+
+#~ msgid "Edit range"
+#~ msgstr "Sửa phạm vi"
+
+#~ msgid "return to range list"
+#~ msgstr "Quay lại danh sách phạm vi"
+
+#~ msgid "Reporting Dashboard"
+#~ msgstr "Bảng điều khiển báo cáo"
+
+#~ msgid "Reporting dashboard"
+#~ msgstr "Bảng điều khiển báo cáo"
+
+#~ msgid "Generating..."
+#~ msgstr "Đang tạo ..."
+
+#~ msgid "Generate report"
+#~ msgstr "Tạo báo cáo"
+
+#~ msgid "No results found."
+#~ msgstr "Không tìm thấy kết quả."
+
+#~ msgid "No vouchers were used in this period"
+#~ msgstr "Không có phiếu giảm giá đã được sử dụng trong giai đoạn này"
+
+#~ msgid "Delete review '%(title)s'?"
+#~ msgstr "Xóa xem lại \"%(title)s\"?"
+
+#~ msgid "Delete review \"%(title)s\"?"
+#~ msgstr "Xóa xem lại \"%(title)s\"?"
+
+#~ msgid "Review"
+#~ msgstr "Xem lại"
+
+#~ msgid "Review Search"
+#~ msgstr "Tìm kiếm xem lại"
+
+#~ msgid "Update status of selected reviews"
+#~ msgstr "Cập nhật trạng thái của đánh giá đã chọn"
+
+#~ msgctxt "Review title"
+#~ msgid "Title"
+#~ msgstr "Tiêu đề"
+
+#~ msgid "[Product deleted]"
+#~ msgstr "[Đã xóa sản phẩm]"
+
+#~ msgid "No reviews found."
+#~ msgstr "Không tìm thấy đánh giá"
+
+#~ msgid "Update review"
+#~ msgstr "Cập nhật Xem lại"
+
+#~ msgid "Review #%(review.id)s"
+#~ msgstr "Xem lại #%(review.id)s"
+
+#~ msgid "Review information"
+#~ msgstr "Kiểm tra thông tin"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>A weight band has been added to the <strong>%(name)s</strong> "
+#~ "shipping method.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Một khối lượng nhóm đã được thêm vào <strong>%(name)s</strong> phương "
+#~ "thức giao hàng.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>Weight band deleted from the <strong>%(name)s</strong> shipping "
+#~ "method \n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Trọng lượng nhóm bị xóa từ <strong>%(name)s</strong> phương thức giao "
+#~ "hàng\n"
+
+#~ msgid "Weight band updated"
+#~ msgstr "Trọng lượng nhóm đã cập nhật"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>A shipping method <strong>%(name)s</strong> has been created.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p> Phương thức vận chuyển <strong>%(name)s</strong> đã được tạo.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been deleted.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p> Phương thức vận chuyển <strong>%(name)s</strong> đã được xóa.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been updated.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p> Phương thức vận chuyển <strong>%(name)s</strong> đã được cập nhật.</"
+#~ "p>\n"
+
+#~ msgid "Delete weight band?"
+#~ msgstr "Xóa trọng lượng nhóm"
+
+#~ msgid "Shipping methods"
+#~ msgstr "phương thức vận chuyển"
+
+#~ msgid "Weight range (kg)"
+#~ msgstr "Phạm vi trọng lượng (kg)"
+
+#~ msgid "Are you sure you want to delete this weight band method?"
+#~ msgstr "Bạn có chắc rằng bạn muốn xóa phương thức trọng lượng nhóm này?"
+
+#~ msgid "Edit weight band"
+#~ msgstr "Chỉnh sửa dải cân nặng "
+
+#~ msgid "Delete shipping method '%(name)s'?"
+#~ msgstr "Xóa phương thức vận chuyển '%(name)s'?"
+
+#~ msgid "Are you sure you want to delete this shipping method?"
+#~ msgstr "Bạn có chắc rằng bạn muốn xóa phương thức vận chuyển?"
+
+#~ msgid "Applies to countries"
+#~ msgstr "Áp dụng cho các nước"
+
+#~ msgid "Default product weight (kg)"
+#~ msgstr "Mặc định cân nặng sản phẩm (kg)"
+
+#~ msgid "Edit shipping method"
+#~ msgstr "Sửa phương thức vận chuyển"
+
+#~ msgid "Delete shipping method"
+#~ msgstr "Xóa phương thức giao hàng"
+
+#~ msgid "Weight bands"
+#~ msgstr "Dải cân nặng "
+
+#~ msgid "No weight bands have been added yet."
+#~ msgstr "."
+
+#~ msgid "Add a new weight band"
+#~ msgstr "."
+
+#~ msgid "Add weight band"
+#~ msgstr "."
+
+#~ msgid "Create a new shipping method"
+#~ msgstr "Tạo phương thức vận chuyển mới"
+
+#~ msgid "Create new shipping charge"
+#~ msgstr "Tạo phí vận chuyển mới"
+
+#~ msgid "Number of weight bands"
+#~ msgstr "."
+
+#~ msgid "Default weight (kg)"
+#~ msgstr "Trọng lượng mặc định (kg)"
+
+#~ msgid "No shipping methods found."
+#~ msgstr "Không có phương pháp vận chuyển được tìm thấy."
+
+#~ msgid "Alert #%(id)s"
+#~ msgstr "Thông báo #%(id)s?"
+
+#~ msgid "Delete alert #%(id)s?"
+#~ msgstr "Xóa thông báo #%(id)s?"
+
+#~ msgid "Product alert #%(id)s"
+#~ msgstr "Thông báo sản phẩm #%(id)s"
+
+#~ msgid "Are you sure that you want to delete this alert?"
+#~ msgstr "Bạn có chắc rằng bạn muốn xóa thông báo này?"
+
+#~ msgid "Search product alerts"
+#~ msgstr "Tìm kiếm thông báo sản phẩm"
+
+#~ msgid "reset"
+#~ msgstr "Thiết lập lại"
+
+#~ msgid "Date alert sent"
+#~ msgstr "Ngày gửi thông báo"
+
+#~ msgid "(Anonymous)"
+#~ msgstr "(Vô danh)"
+
+#~ msgid "No alerts found."
+#~ msgstr "Không tìm thấy thông báo"
+
+#~ msgid "Update alert #%(id)s"
+#~ msgstr "Cập nhật thông báo #%(id)s"
+
+#~ msgid "General"
+#~ msgstr "Tổng hợp"
+
+#~ msgid "Yes,No"
+#~ msgstr "Có,Không"
+
+#~ msgid "Superuser"
+#~ msgstr "Superuser"
+
+#~ msgid "True,False"
+#~ msgstr "Đúng,Sai"
+
+#~ msgid "Staff"
+#~ msgstr "Nhân viên"
+
+#~ msgid "Last login"
+#~ msgstr "Lần đăng nhập cuối"
+
+#~ msgid "Date joined"
+#~ msgstr "Ngày tham gia"
+
+#~ msgid "Products viewed"
+#~ msgstr "Sản phẩm đã xem"
+
+#~ msgid "Number of orders"
+#~ msgstr "Số đơn hàng"
+
+#~ msgid "Number of ordered items"
+#~ msgstr "Số mục đặt hàng"
+
+#~ msgid "Reviews written"
+#~ msgstr "Viết đánh giá"
+
+#~ msgid "Send password reset email"
+#~ msgstr "Gửi mật khẩu khôi phục email"
+
+#~ msgid "Order Number"
+#~ msgstr "Số đơn đặt hàng"
+
+#~ msgid "Total value"
+#~ msgstr "Tổng giá trị"
+
+#~ msgid "This customer has not placed any orders yet."
+#~ msgstr "Khách hàng này không đặt bất kì đơn đặt hàng nào."
+
+#~ msgid "This customer has not saved any addresses."
+#~ msgstr "Khách hàng này không lưu bất cứ địa chỉ nào."
+
+#~ msgid "Product ID"
+#~ msgstr "Mã hàng"
+
+#~ msgid "This customer has not written any reviews yet."
+#~ msgstr "Khách hàng này không được viết bất cứ đánh giá nào."
+
+#~ msgid "No customers found."
+#~ msgstr "Không tìm thấy khách hàng."
+
+#~ msgid "Bulk Actions"
+#~ msgstr "Hoạt động với số lượng lớn"
+
+#~ msgid "With selected customers:"
+#~ msgstr "Với khách hàng lựa chọn:"
+
+#~ msgid "Make active"
+#~ msgstr "Làm hoạt động"
+
+#~ msgid "Make inactive"
+#~ msgstr "Làm không hoạt động"
+
+#~ msgid "Delete voucher '%(name)s'?"
+#~ msgstr "Xóa phiếu mua '%(name)s'?"
+
+#~ msgid "Voucher details"
+#~ msgstr "Chi tiết phiếu mua"
+
+#~ msgid "Number of basket additions"
+#~ msgstr "Số giỏ hàng bổ sung"
+
+#~ msgid "Recent orders"
+#~ msgstr "Những đơn đặt hàng gần đây"
+
+#~ msgid "No orders have been placed that use this voucher."
+#~ msgstr "Không có đơn đặt hàng đã được đặt sử dụng phiếu mua này."
+
+#~ msgid "Edit voucher"
+#~ msgstr "Sửa phiếu mua"
+
+#~ msgid "Create new voucher"
+#~ msgstr "Tạo Phiếu mua mới"
+
+#~ msgid "Num baskets"
+#~ msgstr "Số giỏ hàng"
+
+#~ msgid "Num orders"
+#~ msgstr "Số đơn đặt hàng"
+
+#~ msgid "Inactive"
+#~ msgstr "không hoạt động"
+
+#~ msgid "No vouchers found."
+#~ msgstr "Không tìm thấy phiếu giảm giá."
+
+#~ msgid "Sorry!"
+#~ msgstr "Xin lỗi! "
+
+#~ msgid "Return to previous page"
+#~ msgstr "Quay lại trang trước"
+
+#~ msgid "Go to homepage"
+#~ msgstr "Về trang chủ"
+
+#~ msgid "Edit this page"
+#~ msgstr "Chỉnh sửa trang"
+
+#~ msgid "thumbnail"
+#~ msgstr "Thu nhỏ"
+
+#~ msgid "Unrecognized image type!"
+#~ msgstr "Loại hình ảnh không được công nhận "
+
+#~ msgid "Upload Image"
+#~ msgstr "Tải lên hình ảnh"
+
+#~ msgid "This page is only available to users who aren't logged in."
+#~ msgstr "Trang này là chỉ dành cho người dùng chưa đăng nhập."
+
+#~ msgid " This offer is no longer available."
+#~ msgstr "Ưu đãi này là không còn nữa."
+
+#~ msgid "What you need to do"
+#~ msgstr "Những gì bạn cần làm"
+
+#~ msgid "There are no site offers at the moment."
+#~ msgstr "Không có trang web ưu đãi tại thời điểm này."
+
+#~ msgid "Browse products in offer"
+#~ msgstr "Duyệt sản phẩm được ưu đãi"
+
+#~ msgid "See more"
+#~ msgstr "Xem thêm"
+
+#~ msgid "Password reset complete"
+#~ msgstr "Hoàn thành khôi phục mật khẩu"
+
+#~ msgid "Password reset"
+#~ msgstr "Khôi phục mật khẩu"
+
+#~ msgid "Complete"
+#~ msgstr "Hoàn thành"
+
+#~ msgid "Your password has been set.  You may go ahead and log in now."
+#~ msgstr ""
+#~ "Mật khẩu của bạn đã được thiết lập, bạn có thể lên trên và đăng nhập ngay"
+
+#~ msgid "Log in"
+#~ msgstr "Đăng nhập"
+
+#~ msgid "Enter a new password"
+#~ msgstr "Nhập mật khẩu mới"
+
+#~ msgid ""
+#~ "Please enter your new password twice so we can verify you typed it in "
+#~ "correctly."
+#~ msgstr ""
+#~ "Vui lòng nhập mật khẩu mới của bạn hai lần vì vậy chúng tôi có thể xác "
+#~ "minh bạn đã nhập vào chính xác."
+
+#~ msgid "Change my password"
+#~ msgstr "Thay đổi mật khẩu của tôi"
+
+#~ msgid "Password reset unsuccessful"
+#~ msgstr "khôi phục mật khẩu không thành công"
+
+#~ msgid ""
+#~ "The password reset link was invalid, possibly because it has already been "
+#~ "used.  Please request a new password reset."
+#~ msgstr ""
+#~ "Các liên kết đặt lại mật khẩu là không hợp lệ, có thể nó đã được sử dụng. "
+#~ "Vui lòng yêu cầu một thiết lập lại mật khẩu mới."
+
+#~ msgid "Password reset email sent"
+#~ msgstr "Email khôi phục mật khẩu đã gửi"
+
+#~ msgid "Email sent"
+#~ msgstr "Đã gửi Email"
+
+#~ msgid ""
+#~ "\n"
+#~ "        We've e-mailed you instructions for resetting your password. You "
+#~ "should be receiving it shortly.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Chúng tôi đã gửi qua email hướng dẫn đặt lại mật khẩu cho bạn. Bạn nên "
+#~ "kiểm tra nó ngay."
+
+#~ msgid ""
+#~ "\n"
+#~ "        If you don't receive an email, please make sure you've entered "
+#~ "the address you registered with, and check\n"
+#~ "        your spam folder.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Nếu bạn không nhận được một email, hãy chắc chắn rằng bạn đã nhập đúng "
+#~ "địa chỉ bạn đã đăng ký, và kiểm tra \n"
+#~ "thư mục rác của bạn "
+
+#~ msgid ""
+#~ "Forgotten your password? Enter your e-mail address below, and we'll e-"
+#~ "mail instructions for setting a new one."
+#~ msgstr ""
+#~ "Quên mật khẩu của bạn? Nhập địa chỉ e-mail của bạn dưới đây, và chúng tôi "
+#~ "sẽ gửi e-mail hướng dẫn cách thiết lập một mật khẩu mới."
+
+#~ msgid "Send reset email"
+#~ msgstr "Gửi email khôi phục"
+
+#~ msgid "Refine your search"
+#~ msgstr "Lọc tìm kiếm của bạn"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Products matching \"%(q)s\"\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Sản phẩm phù hợp \"%(q)s\""
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Found <strong>%(num_results)s</strong> results, "
+#~ "showing <strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Tìm thấy <strong>%(num_results)s</strong> kết quả, hiển thị <strong>"
+#~ "%(start)s</strong> đến <strong>%(end)s</strong>."
+
+#~ msgid "Found <strong>0</strong> results."
+#~ msgstr "Tìm thấy <strong>0</strong> kết quả."
+
+#~ msgid ""
+#~ "\n"
+#~ "                        Did you mean <a href=\"%(search_url)s?q="
+#~ "%(suggestion)s\">\"%(suggestion)s\"</a>?\n"
+#~ "                    "
+#~ msgstr ""
+#~ "\n"
+#~ "Ý của bạn là <a href=\"%(search_url)s?q=%(suggestion)s\">\"%(suggestion)s"
+#~ "\"</a>?"
+
+#~ msgid "Back to search results"
+#~ msgstr "Quay lại kết quả tìm kiếm"
+
+#~ msgid "You need to select some %ss"
+#~ msgstr "Bạn cần chọn vài %ss"

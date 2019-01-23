@@ -1,0 +1,675 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Bruce You <bruce.you@gmail.com>, 2018
+# cody lee <wuchangx@gmail.com>, 2018
+# 猫 懒 <roheike@gmail.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-05-01 07:30+0000\n"
+"Last-Translator: 猫 懒 <roheike@gmail.com>\n"
+"Language-Team: Chinese Simplified (http://www.transifex.com/codeinthehole/"
+"django-oscar/language/zh-Hans/)\n"
+"Language: zh-Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr ""
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr ""
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr ""
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr ""
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr ""
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr ""
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr ""
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr ""
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr ""
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "订单"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr ""
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr ""
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr ""
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr ""
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr ""
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "优惠券"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr ""
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr ""
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr ""
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr ""
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr ""
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr ""
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr ""
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr ""
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr ""
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr ""
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr ""
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr ""
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr ""
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr ""
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+msgid "Catalan"
+msgstr ""
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+msgid "German"
+msgstr ""
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr ""
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "购物车"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr "浏览商定"
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr ""
+
+#~ msgid "Mr"
+#~ msgstr "先生"
+
+#~ msgid "Miss"
+#~ msgstr "小姐"
+
+#~ msgid "Mrs"
+#~ msgstr "太太"
+
+#~ msgid "Ms"
+#~ msgstr "女士"
+
+#~ msgid "Dr"
+#~ msgstr "博士"
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "标题"
+
+#~ msgid "First name"
+#~ msgstr "名字"
+
+#~ msgid "Last name"
+#~ msgstr "姓"
+
+#~ msgid "First line of address"
+#~ msgstr "地址第一行"
+
+#~ msgid "Second line of address"
+#~ msgstr "地址第二行"
+
+#~ msgid "Third line of address"
+#~ msgstr "地址第三行"
+
+#~ msgid "City"
+#~ msgstr "城市"
+
+#~ msgid "State/County"
+#~ msgstr "国家"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "邮编"
+
+#~ msgid "Country"
+#~ msgstr "国家"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "搜索内容"
+
+#~ msgid "Address"
+#~ msgstr "地址"
+
+#~ msgid "Addresses"
+#~ msgstr "地址"
+
+#~ msgid "Addresses in %(country)s require a valid postcode"
+#~ msgstr "此地址需要有效的邮政编码： %(country)s "
+
+#~ msgid "The postcode '%(postcode)s' is not valid for %(country)s"
+#~ msgstr "地址 %(country)s的邮编 '%(postcode)s' 无效"
+
+#~ msgid "ISO 3166-1 alpha-2"
+#~ msgstr "ISO 3166-1 alpha-2"
+
+#~ msgid "ISO 3166-1 alpha-3"
+#~ msgstr "ISO 3166-1 alpha-3"
+
+#~ msgid "ISO 3166-1 numeric"
+#~ msgstr "ISO 3166-1 numeric"
+
+#~ msgid "Country name"
+#~ msgstr "国家名称"
+
+#~ msgid "Official name"
+#~ msgstr "官方名称"
+
+#~ msgid "Display order"
+#~ msgstr "显示次序"
+
+#~ msgid "Higher the number, higher the country in the list."
+#~ msgstr "国家列表，由高到低排序"
+
+#~ msgid "Is shipping country"
+#~ msgstr "到货国家"
+
+#~ msgid "Countries"
+#~ msgstr "国家"
+
+#~ msgid "Phone number"
+#~ msgstr "电话号码"
+
+#~ msgid "In case we need to call you about your order"
+#~ msgstr "订单在这种情况我们需要电话联系您"
+
+#~ msgid "Instructions"
+#~ msgstr "介绍"
+
+#~ msgid "Tell us anything we should know when delivering your order."
+#~ msgstr "告诉我们什么时候派送您的订单"
+
+#~ msgid "Shipping address"
+#~ msgstr "收货地址"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "收货地址"
+
+#~ msgid "User"
+#~ msgstr "用户"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "默认送货地址？"
+
+#~ msgid "Default billing address?"
+#~ msgstr "默认账单地址？"
+
+#~ msgid "Number of Orders as Shipping Address"
+#~ msgstr "设置默认快递地址"
+
+#~ msgid "Number of Orders as Billing Address"
+#~ msgstr "订单数量"
+
+#~ msgid "Address Hash"
+#~ msgstr "地址的Hash值"
+
+#~ msgid "Date Created"
+#~ msgstr "创建日期"
+
+#~ msgid "User address"
+#~ msgstr "用户地址"
+
+#~ msgid "User addresses"
+#~ msgstr "用户地址"
+
+#~ msgid "This address is already in your address book"
+#~ msgstr "您的地址本中已经存在此地址"
+
+#~ msgid "Billing address"
+#~ msgstr "账单地址"
+
+#~ msgid "Billing addresses"
+#~ msgstr "账单地址"
+
+#~ msgid "Partner"
+#~ msgstr "合作伙伴"
+
+#~ msgid "Partner address"
+#~ msgstr "合作伙伴地址"
+
+#~ msgid "Partner addresses"
+#~ msgstr "合作伙伴"
+
+#~ msgid "Product"
+#~ msgstr "商品"
+
+#~ msgid "Views"
+#~ msgstr "查看"
+
+#~ msgid "Basket Additions"
+#~ msgstr "添加到购物车"
+
+#~ msgid "Purchases"
+#~ msgstr "购买"
+
+#~ msgid "Score"
+#~ msgstr "评分"
+
+#~ msgid "Product record"
+#~ msgstr "商品记录"
+
+#~ msgid "Product records"
+#~ msgstr "商品记录"
+
+#~ msgid "Record for '%s'"
+#~ msgstr " '%s'的记录"
+
+#~ msgid "Product Views"
+#~ msgstr "产品信息"
+
+#~ msgid "Order Lines"
+#~ msgstr "订单清单"
+
+#~ msgid "Order Items"
+#~ msgstr "订单项"
+
+#~ msgid "Total Spent"
+#~ msgstr "合计"
+
+#~ msgid "Last Order Date"
+#~ msgstr "上次订购日期"
+
+#~ msgid "User record"
+#~ msgstr "用户记录"
+
+#~ msgid "User records"
+#~ msgstr "用户记录"
+
+#~ msgid "User product view"
+#~ msgstr "用户查看过的商品"
+
+#~ msgid "User product views"
+#~ msgstr "用户查看过的商品"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "%(user)s 看过'%(product)s'"
+
+#~ msgid "Search term"
+#~ msgstr "搜索关键词"
+
+#~ msgid "User search query"
+#~ msgstr "用户搜索查询"
+
+#~ msgid "User search queries"
+#~ msgstr "用户搜索查询"
+
+#~ msgid "%(user)s searched for '%(query)s'"
+#~ msgstr "%(user)s 搜索过 '%(query)s'"
+
+#~ msgid "Analytics"
+#~ msgstr "分析"
+
+#~ msgid "Basket additions"
+#~ msgstr "添加到购物车"
+
+#~ msgid "Product analytics"
+#~ msgstr "产品分析"
+
+#~ msgid "Name"
+#~ msgstr "姓名"
+
+#~ msgid "Date registered"
+#~ msgstr "注册日期"
+
+#~ msgid "Product views"
+#~ msgstr "产品视图"
+
+#~ msgid "Order lines"
+#~ msgstr "订单清单"
+
+#~ msgid "Order items"
+#~ msgstr "订单项"
+
+#~ msgid "Total spent"
+#~ msgstr "合计"
+
+#~ msgid "Date of last order"
+#~ msgstr "上次订单日期"
+
+#~ msgid "User analytics"
+#~ msgstr "用户分析"
+
+#~ msgid "Owner"
+#~ msgstr "所有者"
+
+#~ msgid "Open - currently active"
+#~ msgstr "打开-当前可用"
+
+#~ msgid "Merged - superceded by another basket"
+#~ msgstr "合并-被另外一个购物车代替"
+
+#~ msgid "Saved - for items to be purchased later"
+#~ msgstr "保存-稍后购买的项目"
+
+#~ msgid "Frozen - the basket cannot be modified"
+#~ msgstr "冻结 - 购物车无法修改"
+
+#~ msgid "Submitted - has been ordered at the checkout"
+#~ msgstr "提交-已经提交订单"
+
+#~ msgid "Status"
+#~ msgstr "状态"
+
+#~ msgid "Date created"
+#~ msgstr "创建时间"
+
+#~ msgid "Date merged"
+#~ msgstr "合并时间"
+
+#~ msgid "Date submitted"
+#~ msgstr "提交时间"
+
+#~ msgid "Baskets"
+#~ msgstr "购物车"
+
+#~ msgid "%(status)s basket (owner: %(owner)s, lines: %(num_lines)d)"
+#~ msgstr "%(status)s 购物车(属于： %(owner)s, 商品数: %(num_lines)d)"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order."
+#~ msgstr "由于技术原因，单个订单不能超过 %(threshold)d 件商品。"
+
+#~ msgid "Quantity"
+#~ msgstr "数量"
+
+#~ msgid "Currency"
+#~ msgstr "货币"
+
+#~ msgid "Option"
+#~ msgstr "选项"
+
+#~ msgid "Move to Basket"
+#~ msgstr "移到购物车"
+
+#~ msgid "Move to basket"
+#~ msgstr "移动到购物车"
+
+#~ msgid "Add to basket"
+#~ msgstr "添加至购物车"
+
+#~ msgid "return to basket"
+#~ msgstr "返回购物车"
+
+#~ msgid "No vouchers found."
+#~ msgstr "没有可用的优惠券。"
+
+#~ msgid "Update voucher set"
+#~ msgstr "刷新优惠券"
+
+#~ msgid "Download CSV"
+#~ msgstr "下载CSV"
+
+#~ msgid "Voucher set"
+#~ msgstr "优惠券"
+
+#~ msgid "Start"
+#~ msgstr "开始时间"
+
+#~ msgid "End"
+#~ msgstr "结束时间"
+
+#~ msgid "Created"
+#~ msgstr "已创建"
+
+#~ msgid "Change selected %(model)s"
+#~ msgstr "修改选中的 %(model)s"
+
+#~ msgid "Add another %(model)s"
+#~ msgstr "添加另一个 %(model)s"
+
+#~ msgid "Add"
+#~ msgstr "添加"
+
+#~ msgid "Delete selected %(model)s"
+#~ msgstr "删除已选中的 %(model)s"
+
+#~ msgid "Sorry!"
+#~ msgstr "抱歉！"
+
+#~ msgid "Edit this page"
+#~ msgstr "编辑此页面"
+
+#~ msgid "See more"
+#~ msgstr "查看更多"
+
+#~ msgid "Password reset complete"
+#~ msgstr "密码重置完成"
+
+#~ msgid "Password reset"
+#~ msgstr "重置密码"
+
+#~ msgid "Complete"
+#~ msgstr "完成"
+
+#~ msgid "Change my password"
+#~ msgstr "修改我的密码"
+
+#~ msgid "Password reset unsuccessful"
+#~ msgstr "密码重置失败"
+
+#~ msgid "Password reset email sent"
+#~ msgstr "重置密码邮件已发送"
+
+#~ msgid "Email sent"
+#~ msgstr "邮件已发送"
+
+#~ msgid ""
+#~ "Forgotten your password? Enter your e-mail address below, and we'll e-"
+#~ "mail instructions for setting a new one."
+#~ msgstr ""
+#~ "忘记密码了？请在下面输入你注册帐号的e-mail地址，我们将给您发送邮件说明以便"
+#~ "设置新密码。"
+
+#~ msgid "Send reset email"
+#~ msgstr "发送重置邮件"
+
+#~ msgid "Refine your search"
+#~ msgstr "优化你的搜索"
+
+#~ msgid "Found <strong>0</strong> results."
+#~ msgstr "找到 <strong>0</strong> 个结果。"
+
+#~ msgid "Back to search results"
+#~ msgstr "返回搜索结果"

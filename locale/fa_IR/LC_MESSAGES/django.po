@@ -1,0 +1,478 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# BenYamin Salimi <benyamin.salimi@gmail.com>, 2017
+# Mehrshad Golesorkhi <mehrshad_g@outlook.com>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-11 08:36+0000\n"
+"Last-Translator: Oscar Bot <maik.hoepfel@tangentsnowball.com>\n"
+"Language-Team: Persian (Iran) (http://www.transifex.com/codeinthehole/django-"
+"oscar/language/fa_IR/)\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr ""
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr ""
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "محصولات"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr ""
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "دسته بندی ها"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr ""
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr ""
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr "تنظیمات"
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr ""
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "سفارشات"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr ""
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr ""
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr ""
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr ""
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr ""
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr ""
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr ""
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr ""
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr ""
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr ""
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr ""
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr ""
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr ""
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr "نوع"
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr ""
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr ""
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr ""
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr ""
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr ""
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr ""
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+msgid "Catalan"
+msgstr ""
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+msgid "German"
+msgstr ""
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr ""
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr ""
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr ""
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "کل محصولات "
+
+#~ msgid "Mr"
+#~ msgstr "آقای"
+
+#~ msgid "Miss"
+#~ msgstr "خانم"
+
+#~ msgid "Mrs"
+#~ msgstr "خانم"
+
+#~ msgid "Ms"
+#~ msgstr "خانم"
+
+#~ msgid "Dr"
+#~ msgstr "دکتر"
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+#~ msgid "First name"
+#~ msgstr "نام"
+
+#~ msgid "Last name"
+#~ msgstr "نام خانوادگی"
+
+#~ msgid "First line of address"
+#~ msgstr "خط اول آدرس"
+
+#~ msgid "Second line of address"
+#~ msgstr "خط دوم آدرس"
+
+#~ msgid "Third line of address"
+#~ msgstr "خط سوم آدرس"
+
+#~ msgid "City"
+#~ msgstr "شهر"
+
+#~ msgid "State/County"
+#~ msgstr "استان"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "کد پستی"
+
+#~ msgid "Country"
+#~ msgstr "کشور"
+
+#~ msgid "Address"
+#~ msgstr "آدرس"
+
+#~ msgid "Addresses"
+#~ msgstr "آدرس‌ها"
+
+#~ msgid "Country name"
+#~ msgstr "نام کشور"
+
+#~ msgid "Official name"
+#~ msgstr "نام رسمی"
+
+#~ msgid "Display order"
+#~ msgstr "ترتیب نمایش"
+
+#~ msgid "Countries"
+#~ msgstr "کشور‌ها"
+
+#~ msgid "Phone number"
+#~ msgstr "شماره تلقن"
+
+#~ msgid "Instructions"
+#~ msgstr "دستورالعمل‌ها"
+
+#~ msgid "Product"
+#~ msgstr "محصول"
+
+#~ msgid "Purchases"
+#~ msgstr "خریدها"
+
+#~ msgid "Score"
+#~ msgstr "امتیاز"
+
+#~ msgid "Name"
+#~ msgstr "نام"
+
+#~ msgid "Owner"
+#~ msgstr "مالک"
+
+#~ msgid "Status"
+#~ msgstr "وضعیت"
+
+#~ msgid "Code"
+#~ msgstr "د"
+
+#~ msgid "Email"
+#~ msgstr "پست الکترونیک"
+
+#~ msgid "Image"
+#~ msgstr "تصویر"
+
+#~ msgid "Category"
+#~ msgstr "دسته بندی"
+
+#~ msgctxt "Product title"
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+#~ msgid "Product type"
+#~ msgstr "نوع محصول"
+
+#~ msgid "Attributes"
+#~ msgstr "ویژگی ها"
+
+#~ msgid "Product options"
+#~ msgstr "تنظیمات محصول"
+
+#~ msgid "Recommended products"
+#~ msgstr "محصولات پیشنهادی"
+
+#~ msgid "Your product must have a title."
+#~ msgstr "محصول شما باید عنوان داشته باشد."
+
+#~ msgid "Your product must have a product class."
+#~ msgstr "محصول شما باید کلاس داشته باشد."
+
+#~ msgid "Primary product"
+#~ msgstr "محصول اصلی"
+
+#~ msgid "Recommended product"
+#~ msgstr "محصول پیشنهادی"
+
+#~ msgid "Text"
+#~ msgstr "متن"
+
+#~ msgid "Date"
+#~ msgstr "تاریخ"
+
+#~ msgid "File"
+#~ msgstr "پرورنده"
+
+#~ msgid "Required"
+#~ msgstr "اجباری"
+
+#~ msgid "Product attribute"
+#~ msgstr "ویژگی محصول"
+
+#~ msgid "Product attributes"
+#~ msgstr "ویژگی های محصول"
+
+#~ msgid "Must be a date or datetime"
+#~ msgstr "باید تاریخ یا تاریخ و ساعت باشد"
+
+#~ msgid "Must be a boolean"
+#~ msgstr " صحیح یا غلط باشد"
+
+#~ msgid "Attribute"
+#~ msgstr "ویژگی"
+
+#~ msgid "Group"
+#~ msgstr "گروه"
+
+#~ msgid "Product image"
+#~ msgstr "تصویر محصول"
+
+#~ msgid "Product images"
+#~ msgstr "تصاویر محصول"
+
+#~ msgid "Body"
+#~ msgstr "بدنه"
+
+#~ msgctxt "Anonymous reviewer name"
+#~ msgid "Name"
+#~ msgstr "نام"
+
+#~ msgid "URL"
+#~ msgstr "پیوند"
+
+#~ msgid "Approved"
+#~ msgstr "تایید شده"
+
+#~ msgid "Rejected"
+#~ msgstr "رد شده"
+
+#~ msgid "Total Votes"
+#~ msgstr "مجموع رای ها"
+
+#~ msgid "Up"
+#~ msgstr "بالا"
+
+#~ msgid "Down"
+#~ msgstr "پایین"
+
+#~ msgid "Vote"
+#~ msgstr "رای"
+
+#~ msgid "Votes"
+#~ msgstr "آرا"
+
+#~ msgid "Thanks for voting!"
+#~ msgstr "ممنون که رای دادید"

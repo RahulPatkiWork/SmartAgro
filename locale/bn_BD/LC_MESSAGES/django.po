@@ -1,0 +1,420 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Tahmid Rafi <rafi.tahmid@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-11 08:36+0000\n"
+"Last-Translator: Oscar Bot <maik.hoepfel@tangentsnowball.com>\n"
+"Language-Team: Bengali (Bangladesh) (http://www.transifex.com/codeinthehole/"
+"django-oscar/language/bn_BD/)\n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr "ড্যাসবোর্ড"
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr "ক্যাটালগ"
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "পন্য"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr "পন্যের ধরন"
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "ক্যাটাগরি"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr ""
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr ""
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr ""
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr ""
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "অর্ডার"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr "পরিসংখ্যান"
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr "পার্টনার"
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr "কাস্টমার"
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr ""
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr "অফার"
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "ভাউচার"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr ""
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr ""
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr ""
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr ""
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr "ইমেইল টেমপ্লেট"
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr "রিভিউ"
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr "রিপোর্ট"
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr ""
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr "রেটিং"
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr "মূল্যসীমা"
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr "0 থেকে 20"
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr "20 থেকে 40"
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr "40 থেকে 60"
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr "60+"
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+#, fuzzy
+#| msgid "Catalogue"
+msgid "Catalan"
+msgstr "ক্যাটালগ"
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+msgid "German"
+msgstr ""
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr ""
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr ""
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr ""
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr ""
+
+#~ msgid "Mr"
+#~ msgstr "জনাব"
+
+#~ msgid "Miss"
+#~ msgstr "জনাবা"
+
+#~ msgid "Mrs"
+#~ msgstr "জনাবা"
+
+#~ msgid "Ms"
+#~ msgstr "জনাবা"
+
+#~ msgid "Dr"
+#~ msgstr "ড."
+
+#~ msgid "First line of address"
+#~ msgstr "ঠিকানার প্রথম লাইন"
+
+#~ msgid "Second line of address"
+#~ msgstr "ঠিকানার দ্বিতীয় লাইন"
+
+#~ msgid "Third line of address"
+#~ msgstr "ঠিকানার তৃতীয় লাইন"
+
+#~ msgid "City"
+#~ msgstr "শহর"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "পোস্ট ক‌োড/ZIP কোড"
+
+#~ msgid "Country"
+#~ msgstr "দেশ"
+
+#~ msgid "Address"
+#~ msgstr "ঠিকানা"
+
+#~ msgid "Phone number"
+#~ msgstr "ফোন নম্বর"
+
+#~ msgid "Instructions"
+#~ msgstr "নির্দেশাবলী"
+
+#~ msgid "Shipping address"
+#~ msgstr "শিপিং এর ঠিকানা"
+
+#~ msgid "Date Created"
+#~ msgstr "তৈরীর তারিখ"
+
+#~ msgid "Product"
+#~ msgstr "পন্য"
+
+#~ msgid "Purchases"
+#~ msgstr "ক্রয়সমূহ"
+
+#~ msgid "Score"
+#~ msgstr "স্কোর"
+
+#~ msgid "Name"
+#~ msgstr "নাম"
+
+#~ msgid "Date registered"
+#~ msgstr "রেজিস্ট্রেশনের তারিখ"
+
+#~ msgid "Date of last order"
+#~ msgstr "সর্বশেষ অর্ডারের তারিখ"
+
+#~ msgid "Date created"
+#~ msgstr "তৈরীর তারিখ"
+
+#~ msgid "Date submitted"
+#~ msgstr "জমাদানের তারিখ"
+
+#~ msgid "Quantity"
+#~ msgstr "পরিমান"
+
+#~ msgid "Currency"
+#~ msgstr "মুদ্রা"
+
+#~ msgid "Price excl. Tax"
+#~ msgstr "ট্যাক্স ছাড়া মূল্য"
+
+#~ msgid "Price incl. Tax"
+#~ msgstr "ট্যাক্সসহ মূল্য"
+
+#~ msgid "Value"
+#~ msgstr "মান"
+
+#~ msgid "Code"
+#~ msgstr "কোড"
+
+#~ msgid "User ID"
+#~ msgstr "ইউজার আইডি"
+
+#~ msgid "Email"
+#~ msgstr "ইমেইল"
+
+#~ msgid "Date of creation"
+#~ msgstr "তৈরীর তারিখ"
+
+#~ msgid "Slug"
+#~ msgstr "স্লাগ"
+
+#~ msgid "Description"
+#~ msgstr "বিবরন"
+
+#~ msgid "Image"
+#~ msgstr "ছবি"
+
+#~ msgid "Category"
+#~ msgstr "ক্যাটাগরি"
+
+#~ msgid "Product category"
+#~ msgstr "পন্যের ক্যাটাগরি"
+
+#~ msgid "Product categories"
+#~ msgstr "পন্যের ক্যাটাগরিসমূহ"
+
+#~ msgctxt "Product title"
+#~ msgid "Title"
+#~ msgstr "শিরোনাম"
+
+#~ msgid "Product type"
+#~ msgstr "পন্যের ধরন"
+
+#~ msgid "Integer"
+#~ msgstr "পূর্ণ সংখ্যা"
+
+#~ msgid "True / False"
+#~ msgstr "সত্য / মিথ্যা"
+
+#~ msgid "Date"
+#~ msgstr "তারিখ"
+
+#~ msgid "File"
+#~ msgstr "ফাইল"
+
+#~ msgid "Number of Orders"
+#~ msgstr "অর্ডারের সংখ্যা"

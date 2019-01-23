@@ -1,0 +1,5833 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Aaron Kim <ahkim@ahkim.com>, 2016
+# astyfx <astyfx@gmail.com>, 2014
+# astyfx <astyfx@gmail.com>, 2014
+# astyfx <astyfx@gmail.com>, 2014
+# Choi Gyeong Cheol <ckc6842@gmail.com>, 2014
+# Choi Gyeong Cheol <ckc6842@gmail.com>, 2014
+# DOJUN LEE <leedoe0709@gmail.com>, 2016
+# bootinge, 2016
+# Haedal <luccasya@hanmail.net>, 2014
+# Haedal <luccasya@hanmail.net>, 2014
+# Jay Oh <theanswer.jay@gmail.com>, 2016
+# Oh-Hyun Kwon <oh.kwon@datasquare.co.kr>, 2014
+# 이혜민 <luccasya@datasquare.co.kr>, 2014
+# 이혜민 <luccasya@datasquare.co.kr>, 2014
+# Haedal <luccasya@hanmail.net>, 2014
+# NS Kim <nasol.kim@gmail.com>, 2016
+# Oh-Hyun Kwon <oh.kwon@datasquare.co.kr>, 2014
+# Oh-Hyun Kwon <oh.kwon@datasquare.co.kr>, 2014
+# SungChan YUN, 2016
+# WONHEE JUNG <wonhee.jung@gmail.com>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-11 08:36+0000\n"
+"Last-Translator: Oscar Bot <maik.hoepfel@tangentsnowball.com>\n"
+"Language-Team: Korean (http://www.transifex.com/codeinthehole/django-oscar/"
+"language/ko/)\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr "대시보드"
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr "카탈로그"
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "상품"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr "상품 종류"
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "카테고리"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr "카테고리 그룹"
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr "재고 부족 알림"
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr "옵션"
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr "관리"
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "주문"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr "통계"
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr "파트너"
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr "고객 관리"
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr "재고 알림 요청"
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr "행사"
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "쿠폰"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr "내용"
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr "내용 블럭"
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr "페이지별 내용 블럭"
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr "페이지"
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr "이메일 템플릿"
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr "후기"
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr "보고서"
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr "종류"
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr "평가"
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr "가격 범위"
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr "0 부터 20"
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr "20부터 40"
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr "40부터 60"
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr "60 이상"
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+#, fuzzy
+#| msgid "Catalogue"
+msgid "Catalan"
+msgstr "카탈로그"
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+#, fuzzy
+#| msgid "Permalink"
+msgid "German"
+msgstr "고정 주소"
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr "등록중..."
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr "이동"
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr "계정 관리"
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr "로그아웃"
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr "로그인 또는 가입하기"
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "장바구니"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+"\n"
+"총계: %(total)s"
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr "전체 카테고리"
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "전체 상품"
+
+#~ msgid "Mr"
+#~ msgstr "Mr"
+
+#~ msgid "Miss"
+#~ msgstr "Miss"
+
+#~ msgid "Mrs"
+#~ msgstr "Mrs"
+
+#~ msgid "Ms"
+#~ msgstr "Ms"
+
+#~ msgid "Dr"
+#~ msgstr "Dr"
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "제목"
+
+#~ msgid "First name"
+#~ msgstr "이름"
+
+#~ msgid "Last name"
+#~ msgstr "성"
+
+#~ msgid "First line of address"
+#~ msgstr "주소"
+
+#~ msgid "Second line of address"
+#~ msgstr "상세 주소"
+
+#~ msgid "Third line of address"
+#~ msgstr "상세 주소"
+
+#~ msgid "City"
+#~ msgstr "시"
+
+#~ msgid "State/County"
+#~ msgstr "도"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "우편번호"
+
+#~ msgid "Country"
+#~ msgstr "국가"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "텍스트 검색 - 주소 검색에만 사용됩니다."
+
+#~ msgid "Address"
+#~ msgstr "주소"
+
+#~ msgid "Addresses"
+#~ msgstr "주소"
+
+#~ msgid "Addresses in %(country)s require a valid postcode"
+#~ msgstr "%(country)s의 주소는 유효한 우편 번호를 필요로 합니다."
+
+#~ msgid "The postcode '%(postcode)s' is not valid for %(country)s"
+#~ msgstr "'%(postcode)s 우편 번호는 %(country)s에서 유효하지 않습니다."
+
+#~ msgid "ISO 3166-1 alpha-2"
+#~ msgstr "ISO 3166-1 alpha-2"
+
+#~ msgid "ISO 3166-1 alpha-3"
+#~ msgstr "ISO 3166-1 alpha-3"
+
+#~ msgid "ISO 3166-1 numeric"
+#~ msgstr "ISO 3166-1 numeric"
+
+#~ msgid "Country name"
+#~ msgstr "국가명"
+
+#~ msgid "Official name"
+#~ msgstr "공식 명칭"
+
+#~ msgid "Display order"
+#~ msgstr "출력 순서"
+
+#~ msgid "Higher the number, higher the country in the list."
+#~ msgstr "높은 숫자일수록, 해당 국가가 리스트 상위에 리스트됩니다."
+
+#~ msgid "Is shipping country"
+#~ msgstr "배송 가능 국가"
+
+#~ msgid "Countries"
+#~ msgstr "국가"
+
+#~ msgid "Phone number"
+#~ msgstr "전화번호"
+
+#~ msgid "In case we need to call you about your order"
+#~ msgstr "주문에 대한 연락이 필요할 시 사용될 번호를 기입해주세요."
+
+#~ msgid "Instructions"
+#~ msgstr "메모"
+
+#~ msgid "Tell us anything we should know when delivering your order."
+#~ msgstr "주문 내역을 배송할 때 유의해야 할 점을 말해주세요."
+
+#~ msgid "Shipping address"
+#~ msgstr "배송지 주소"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "배송지 주소"
+
+#~ msgid "User"
+#~ msgstr "사용자"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "기본 배송지 주소"
+
+#~ msgid "Default billing address?"
+#~ msgstr "기본 청구지 주소"
+
+#~ msgid "Address Hash"
+#~ msgstr "주소 해시"
+
+#~ msgid "Date Created"
+#~ msgstr "생성일"
+
+#~ msgid "User address"
+#~ msgstr "사용자 주소"
+
+#~ msgid "User addresses"
+#~ msgstr "사용자 주소"
+
+#~ msgid "This address is already in your address book"
+#~ msgstr "이미 주소록에 존재하는 주소입니다."
+
+#~ msgid "Billing address"
+#~ msgstr "청구지 주소"
+
+#~ msgid "Billing addresses"
+#~ msgstr "청구지 주소"
+
+#~ msgid "Partner"
+#~ msgstr "파트너"
+
+#~ msgid "Partner address"
+#~ msgstr "파트너 주소"
+
+#~ msgid "Partner addresses"
+#~ msgstr "파트너 주소들"
+
+#~ msgid "Product"
+#~ msgstr "상품"
+
+#~ msgid "Views"
+#~ msgstr "뷰"
+
+#~ msgid "Basket Additions"
+#~ msgstr "장바구니 추가"
+
+#~ msgid "Purchases"
+#~ msgstr "구매"
+
+#~ msgid "Score"
+#~ msgstr "점수"
+
+#~ msgid "Product record"
+#~ msgstr "상품 기록"
+
+#~ msgid "Product records"
+#~ msgstr "상품 기록"
+
+#~ msgid "Record for '%s'"
+#~ msgstr "'%s'의 기록"
+
+#~ msgid "Product Views"
+#~ msgstr "상품 Views"
+
+#~ msgid "Order Lines"
+#~ msgstr "주문 항목들"
+
+#~ msgid "Order Items"
+#~ msgstr "주문 내역"
+
+#~ msgid "Total Spent"
+#~ msgstr "총 지출액"
+
+#~ msgid "Last Order Date"
+#~ msgstr "마지막 주문일"
+
+#~ msgid "User record"
+#~ msgstr "사용자 기록"
+
+#~ msgid "User records"
+#~ msgstr "사용자 기록"
+
+#~ msgid "User product view"
+#~ msgstr "사용자 상품 조회"
+
+#~ msgid "User product views"
+#~ msgstr "사용자 상품 조회"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "%(user)s가 '%(product)s를 봤습니다."
+
+#~ msgid "Search term"
+#~ msgstr "검색 용어"
+
+#~ msgid "User search query"
+#~ msgstr "사용자 검색어"
+
+#~ msgid "User search queries"
+#~ msgstr "사용자 검색어"
+
+#~ msgid "%(user)s searched for '%(query)s'"
+#~ msgstr "%(user)s가 '%(query)s'를 검색하였습니다 "
+
+#~ msgid "Analytics"
+#~ msgstr "분석"
+
+#~ msgid "Basket additions"
+#~ msgstr "장바구니 추가"
+
+#~ msgid "Product analytics"
+#~ msgstr "상품 분석"
+
+#~ msgid "Name"
+#~ msgstr "이름"
+
+#~ msgid "Date registered"
+#~ msgstr "등록일"
+
+#~ msgid "Product views"
+#~ msgstr "상품 Views"
+
+#~ msgid "Order lines"
+#~ msgstr "주문 항목들"
+
+#~ msgid "Order items"
+#~ msgstr "주문 내역"
+
+#~ msgid "Total spent"
+#~ msgstr "전체 가격"
+
+#~ msgid "Date of last order"
+#~ msgstr "마지막 주문날짜"
+
+#~ msgid "User analytics"
+#~ msgstr "사용자 분석"
+
+#~ msgid "Owner"
+#~ msgstr "소유자"
+
+#~ msgid "Open - currently active"
+#~ msgstr "Open - 현재 활성화됨"
+
+#~ msgid "Merged - superceded by another basket"
+#~ msgstr "Merged - 다른 장바구니로 대체됨"
+
+#~ msgid "Saved - for items to be purchased later"
+#~ msgstr "Saved - 향후 구매로 저장됨"
+
+#~ msgid "Frozen - the basket cannot be modified"
+#~ msgstr "Frozen - 장바구니를 수정할 수 없음"
+
+#~ msgid "Submitted - has been ordered at the checkout"
+#~ msgstr "Submitted - 주문이 완료됨"
+
+#~ msgid "Status"
+#~ msgstr "상태"
+
+#~ msgid "Date created"
+#~ msgstr "생성일"
+
+#~ msgid "Date merged"
+#~ msgstr "합쳐진 날짜"
+
+#~ msgid "Date submitted"
+#~ msgstr "등록일"
+
+#~ msgid "Baskets"
+#~ msgstr "장바구니"
+
+#~ msgid "%(status)s basket (owner: %(owner)s, lines: %(num_lines)d)"
+#~ msgstr "%(status)s 장바구니 (주인: %(owner)s, 항목: %(num_lines)d)"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order."
+#~ msgstr "기술적인 문제로 %(threshold)d개 이상을 한 번에 주문할 수 없습니다."
+
+#~ msgid "Line Reference"
+#~ msgstr "항목 번호"
+
+#~ msgid "Quantity"
+#~ msgstr "양"
+
+#~ msgid "Currency"
+#~ msgstr "통화"
+
+#~ msgid "Price excl. Tax"
+#~ msgstr "세금 제외 가격"
+
+#~ msgid "Price incl. Tax"
+#~ msgstr "세금 포함 가격"
+
+#~ msgid "Basket line"
+#~ msgstr "장바구니 항목"
+
+#~ msgid "Basket lines"
+#~ msgstr "장바구니 항목들"
+
+#~ msgid ""
+#~ "Basket #%(basket_id)d, Product #%(product_id)d, quantity %(quantity)d"
+#~ msgstr "장바구니 #%(basket_id)d, 상품 #%(product_id)d, 수량 %(quantity)d"
+
+#~ msgid "You cannot modify a %s basket"
+#~ msgstr "%s 장바구니를 변경할 수 없습니다."
+
+#~ msgid ""
+#~ "The price of '%(product)s' has increased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "장바구니에 '%(product)s' 상품을 추가한 이후로 가격이 %(old_price)s원에서 "
+#~ "%(new_price)s로 인상되었습니다."
+
+#~ msgid ""
+#~ "The price of '%(product)s' has decreased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "장바구니에 '%(product)s' 상품을 추가한 이후로 가격이 %(old_price)s원에서 "
+#~ "%(new_price)s로 인하되었습니다."
+
+#~ msgid "Line"
+#~ msgstr "항목"
+
+#~ msgid "Option"
+#~ msgstr "옵션"
+
+#~ msgid "Value"
+#~ msgstr "값"
+
+#~ msgid "Line attribute"
+#~ msgstr "항목 속성"
+
+#~ msgid "Line attributes"
+#~ msgstr "항목 속성들"
+
+#~ msgid "Save for Later"
+#~ msgstr "저장"
+
+#~ msgid "Move to Basket"
+#~ msgstr "장바구니로 옮기기"
+
+#~ msgid "Code"
+#~ msgstr "코드"
+
+#~ msgid "Variant"
+#~ msgstr "차이점"
+
+#~ msgid "Please select a valid product"
+#~ msgstr "유효한 상품을 선택해주세요"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order. Your basket currently has %(basket)d "
+#~ "items."
+#~ msgstr ""
+#~ "기술적인 문제로 %(threshold)d개 이상의 아이템을 한 주문에 배송할 수 없습니"
+#~ "다. 현재 장바구니에 %(basket)d개의 아이템이 있습니다."
+
+#~ msgid ""
+#~ "This product cannot be added to the basket as its currency isn't the same "
+#~ "as other products in your basket"
+#~ msgstr ""
+#~ "해당 상품은 장바구니에 담긴 다른 상품들과 통화가 일치하지 않기에 장바구니"
+#~ "에 담을 수 없습니다"
+
+#~ msgid ""
+#~ "We have merged a basket from a previous session. Its contents might have "
+#~ "changed."
+#~ msgstr ""
+#~ "장바구니에 담긴 상품 내역을 이전 세션과 병합했습니다. 장바구니에 담긴 상"
+#~ "품 내역이 변경 됐을 수도 있습니다. "
+
+#~ msgid "User ID"
+#~ msgstr "사용자 ID"
+
+#~ msgid "Email"
+#~ msgstr "이메일"
+
+#~ msgid "Basket status"
+#~ msgstr "장바구니 상태"
+
+#~ msgid "Num lines"
+#~ msgstr "항목 개수"
+
+#~ msgid "Num items"
+#~ msgstr "아이템 개수"
+
+#~ msgid "Date of creation"
+#~ msgstr "생성일"
+
+#~ msgid "Time since creation"
+#~ msgstr "생성일로 부터"
+
+#~ msgid "Open baskets"
+#~ msgstr "오픈 장바구니"
+
+#~ msgid "Time between creation and submission"
+#~ msgstr "생성과 등록 사이 시간"
+
+#~ msgid "Submitted baskets"
+#~ msgstr "등록된 장바구니"
+
+#~ msgid "You can't save an item for later if you're not logged in!"
+#~ msgstr "로그인하지 않아 저장할 수 없습니다"
+
+#~ msgid ""
+#~ "Your basket couldn't be updated. Please correct any validation errors "
+#~ "below."
+#~ msgstr "장바구니를 변경할 수 없습니다. 아래 오류를 정정해주세요."
+
+#~ msgid "The '%(code)s' voucher has expired"
+#~ msgstr "쿠폰 '%(code)s' 은(는) 만료되었습니다."
+
+#~ msgid "The '%(code)s' voucher is not active"
+#~ msgstr "쿠폰 '%(code)s' 는 비활성화 상태입니다."
+
+#~ msgid "Your basket does not qualify for a voucher discount"
+#~ msgstr "쿠폰 할인에 대한 권한이 없습니다."
+
+#~ msgid "Voucher '%(code)s' added to basket"
+#~ msgstr "'%(code)s' 쿠폰이 장바구니에 추가되었습니다."
+
+#~ msgid "You have already added the '%(code)s' voucher to your basket"
+#~ msgstr "이미 '%(code)s' 쿠폰이 장바구니에 추가되어 있습니다."
+
+#~ msgid "No voucher found with code '%(code)s'"
+#~ msgstr "코드 '%(code)s' 와 일치하는 쿠폰을 찾을 수 없습니다."
+
+#~ msgid "Please enter a voucher code"
+#~ msgstr "쿠폰 코드를 입력하시기 바랍니다."
+
+#~ msgid "Voucher '%s' removed from basket"
+#~ msgstr "'%s' 쿠폰이 장바구니에서 제거되었습니다."
+
+#~ msgid "Slug"
+#~ msgstr "슬러그"
+
+#~ msgid "Requires shipping?"
+#~ msgstr "배송이 필요합니까?"
+
+#~ msgid "Track stock levels?"
+#~ msgstr "재고량 체크?"
+
+#~ msgid "Product class"
+#~ msgstr "상품 분류"
+
+#~ msgid "Product classes"
+#~ msgstr "상품 분류들"
+
+#~ msgid "Description"
+#~ msgstr "설명"
+
+#~ msgid "Image"
+#~ msgstr "이미지"
+
+#~ msgid "Category"
+#~ msgstr "카테고리"
+
+#~ msgid "Product category"
+#~ msgstr "상품 카테고리"
+
+#~ msgid "Product categories"
+#~ msgstr "상품 카테고리"
+
+#~ msgid "Stand-alone product"
+#~ msgstr "단일 상품"
+
+#~ msgid "Parent product"
+#~ msgstr "부모 상품"
+
+#~ msgid "Child product"
+#~ msgstr "자식 상품"
+
+#~ msgid "Product structure"
+#~ msgstr "상품 구조"
+
+#~ msgid "UPC"
+#~ msgstr "상품 코드"
+
+#~ msgid ""
+#~ "Universal Product Code (UPC) is an identifier for a product which is not "
+#~ "specific to a particular  supplier. Eg an ISBN for a book."
+#~ msgstr "상품 코드는 상품에 대한 식별자입니다."
+
+#~ msgid ""
+#~ "Only choose a parent product if you're creating a child product.  For "
+#~ "example if this is a size 4 of a particular t-shirt.  Leave blank if this "
+#~ "is a stand-alone product (i.e. there is only one version of this product)."
+#~ msgstr ""
+#~ "자식 상품을 만들때만 부모 상품을 선택하세요. 예를 들어 이 상품이 어떤 티셔"
+#~ "츠의 사이즈 4인 상품일 경우. 독립 상품일 경우 빈칸으로 남겨 주세요.(예를 "
+#~ "들어 이 상품이 한 유형만 있을 때)"
+
+#~ msgctxt "Product title"
+#~ msgid "Title"
+#~ msgstr "제목"
+
+#~ msgid "Product type"
+#~ msgstr "상품 종류"
+
+#~ msgid "Choose what type of product this is"
+#~ msgstr "상품의 종류를 선택하세요"
+
+#~ msgid "Attributes"
+#~ msgstr "속성"
+
+#~ msgid ""
+#~ "A product attribute is something that this product may have, such as a "
+#~ "size, as specified by its class"
+#~ msgstr ""
+#~ "상품의 속성이라 함은 이 제품이 가질 수도 있는 무언가. 이를테면 크기 같은, "
+#~ "것을 뜻합니다. 이것은 제품의 클래스에서 지정해둔 것입니다."
+
+#~ msgid "Product options"
+#~ msgstr "상품 옵션"
+
+#~ msgid ""
+#~ "Options are values that can be associated with a item when it is added to "
+#~ "a customer's basket.  This could be something like a personalised message "
+#~ "to be printed on a T-shirt."
+#~ msgstr ""
+#~ "옵션은 장바구니에 추가될 때 아이템과 연결될 수 있는 값입니다. 이 값은 티셔"
+#~ "츠 위에 새겨지는 개인 문구 같은 것입니다."
+
+#~ msgid "Recommended products"
+#~ msgstr "추천 상품"
+
+#~ msgid ""
+#~ "These are products that are recommended to accompany the main product."
+#~ msgstr "이 상품들은 주요 상품과 같이 나오도록 권장되는 상품들입니다."
+
+#~ msgid "Date updated"
+#~ msgstr "수정일"
+
+#~ msgid "Is discountable?"
+#~ msgstr "할인 가능합니까?"
+
+#~ msgid "This flag indicates if this product can be used in an offer or not"
+#~ msgstr "이 항목은 이 상품이 행사에 사용 될 수 있는지 묻는 항목입니다."
+
+#~ msgid "Your product must have a title."
+#~ msgstr "상품 제목이 필요합니다."
+
+#~ msgid "Your product must have a product class."
+#~ msgstr "상품 클래스가 필요합니다."
+
+#~ msgid "Only child products can have a parent."
+#~ msgstr "자식 상품만 부모를 가질 수 있습니다."
+
+#~ msgid "A child product needs a parent."
+#~ msgstr "자식 상품은 부모가 필요합니다."
+
+#~ msgid "You can only assign child products to parent products."
+#~ msgstr "자식 상품은 부모 상품에만 연결할 수 있습니다."
+
+#~ msgid "A child product can't have a product class."
+#~ msgstr "자식 상품은 상품 분류를 가질 수 없습니다."
+
+#~ msgid "A child product can't have a category assigned."
+#~ msgstr "자식 상품은 카테고리를 부여받을 수 없습니다."
+
+#~ msgid "A child product can't have options."
+#~ msgstr "자식 상품은 옵션을 가질 수 없습니다."
+
+#~ msgid "A parent product can't have stockrecords."
+#~ msgstr "부모 상품은 재고 기록을 가질 수 없습니다."
+
+#~ msgid "The specified parent product is a child product."
+#~ msgstr "지정된 부모 제품은 자식 제품이 됩니다."
+
+#~ msgid "One can't add a child product to a product with stock records."
+#~ msgstr "재고 기록을 가지고 있는 상품에는 자식 상품을 붙일 수 없습니다."
+
+#~ msgid "Primary product"
+#~ msgstr "주요 상품"
+
+#~ msgid "Recommended product"
+#~ msgstr "추천 상품"
+
+#~ msgid "Ranking"
+#~ msgstr "순위"
+
+#~ msgid ""
+#~ "Determines order of the products. A product with a higher value will "
+#~ "appear before one with a lower ranking."
+#~ msgstr ""
+#~ "상품 나열 순서를 결정합니다. 높은 숫자를 가진 상품 순서대로 나열됩니다."
+
+#~ msgid "Product recommendation"
+#~ msgstr "상품 추천"
+
+#~ msgid "Product recomendations"
+#~ msgstr "상품 추천"
+
+#~ msgid ""
+#~ "Code can only contain the letters a-z, A-Z, digits, and underscores, and "
+#~ "can't start with a digit."
+#~ msgstr ""
+#~ "코드는 알파벳 대문자, 소문자, 숫자 그리고 _ 표시만 가능하며, 숫자로 시작"
+#~ "할 수 없습니다."
+
+#~ msgid "Text"
+#~ msgstr "문자열"
+
+#~ msgid "Integer"
+#~ msgstr "정수"
+
+#~ msgid "True / False"
+#~ msgstr "참 / 거짓"
+
+#~ msgid "Float"
+#~ msgstr "실수"
+
+#~ msgid "Rich Text"
+#~ msgstr "리치 텍스트"
+
+#~ msgid "Date"
+#~ msgstr "날짜"
+
+#~ msgid "Entity"
+#~ msgstr "개체"
+
+#~ msgid "File"
+#~ msgstr "파일"
+
+#~ msgid "Option Group"
+#~ msgstr "옵션 그룹"
+
+#~ msgid "Required"
+#~ msgstr "필요함"
+
+#~ msgid "Product attribute"
+#~ msgstr "상품 속성"
+
+#~ msgid "Product attributes"
+#~ msgstr "상품 속성"
+
+#~ msgid "Must be str or unicode"
+#~ msgstr "str 또는 unicode 형식이어야 합니다."
+
+#~ msgid "Must be a float"
+#~ msgstr "float 형식이어야 합니다."
+
+#~ msgid "Must be an integer"
+#~ msgstr "integer 형식이어야 합니다."
+
+#~ msgid "Must be a date or datetime"
+#~ msgstr "date 또는 datetime 형식이어야 합니다."
+
+#~ msgid "Must be a boolean"
+#~ msgstr "boolean 형식이어야 합니다."
+
+#~ msgid "Must be a model instance"
+#~ msgstr "모델 인스턴스여야 합니다."
+
+#~ msgid "Must be an AttributeOption model object instance"
+#~ msgstr "AttributeOption 모델 개체 인스턴스여야 합니다."
+
+#~ msgid "AttributeOption has not been saved yet"
+#~ msgstr "아직 AttributeOption이 저장되지 않았습니다."
+
+#~ msgid "%(enum)s is not a valid choice for %(attr)s"
+#~ msgstr "%(attr)s에 대해 %(enum)s은(는) 유효하지 않은 선택입니다."
+
+#~ msgid "Must be a file field"
+#~ msgstr "파일 필드이어야 합니다."
+
+#~ msgid "Attribute"
+#~ msgstr "속성"
+
+#~ msgid "Boolean"
+#~ msgstr "Boolean"
+
+#~ msgid "Richtext"
+#~ msgstr "리치텍스트"
+
+#~ msgid "Value option"
+#~ msgstr "값 옵션"
+
+#~ msgid "Product attribute value"
+#~ msgstr "상품 속성값"
+
+#~ msgid "Product attribute values"
+#~ msgstr "상품 속성값"
+
+#~ msgid "Attribute option group"
+#~ msgstr "속성 옵션 그룹"
+
+#~ msgid "Attribute option groups"
+#~ msgstr "속성 옵션 그룹"
+
+#~ msgid "Group"
+#~ msgstr "그룹"
+
+#~ msgid "Attribute option"
+#~ msgstr "속성 옵션"
+
+#~ msgid "Attribute options"
+#~ msgstr "속성 옵션"
+
+#~ msgid "Required - a value for this option must be specified"
+#~ msgstr "필수 - 이 옵션에 대한 값은 정확해야 합니다."
+
+#~ msgid "Optional - a value for this option can be omitted"
+#~ msgstr "선택 - 이 옵션에 대한 값은 생략할 수 있습니다."
+
+#~ msgid "Original"
+#~ msgstr "원본"
+
+#~ msgid "Caption"
+#~ msgstr "캡션"
+
+#~ msgid ""
+#~ "An image with a display order of zero will be the primary image for a "
+#~ "product"
+#~ msgstr "주문하지 않았을 때 출력되는 이미지는 상품에 대한 초기 이미지입니다."
+
+#~ msgid "Product image"
+#~ msgstr "상품 이미지"
+
+#~ msgid "Product images"
+#~ msgstr "상품 이미지"
+
+#~ msgid "%(obj)s has no attribute named '%(attr)s'"
+#~ msgstr "%(obj)s에 '%(attr)s' 이름의 속성이 없습니다."
+
+#~ msgid "%(attr)s attribute cannot be blank"
+#~ msgstr "%(attr)s 속성은 빈 칸일 수 없습니다."
+
+#~ msgid "%(attr)s attribute %(err)s"
+#~ msgstr "%(attr)s 속성 %(err)s"
+
+#~ msgctxt "Product review title"
+#~ msgid "Title"
+#~ msgstr "제목"
+
+#~ msgid "Body"
+#~ msgstr "본문"
+
+#~ msgctxt "Anonymous reviewer name"
+#~ msgid "Name"
+#~ msgstr "이름"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Requires moderation"
+#~ msgstr "수정 필요"
+
+#~ msgid "Approved"
+#~ msgstr "승인됨"
+
+#~ msgid "Rejected"
+#~ msgstr "승인거부"
+
+#~ msgid "Total Votes"
+#~ msgstr "총 투표수"
+
+#~ msgid "Product review"
+#~ msgstr "상품 리뷰"
+
+#~ msgid "Product reviews"
+#~ msgstr "상품 리뷰들"
+
+#~ msgid "Anonymous reviews must include a name and an email"
+#~ msgstr "익명의 리뷰를 작성할 때는 이름과 이메일을 작성해야합니다."
+
+#~ msgid "anonymous"
+#~ msgstr "익명의"
+
+#~ msgid "Only signed in users can vote"
+#~ msgstr "가입된 사용자만 투표할 수 있습니다."
+
+#~ msgid "Up"
+#~ msgstr "추천"
+
+#~ msgid "Down"
+#~ msgstr "비추천"
+
+#~ msgid "Vote"
+#~ msgstr "투표"
+
+#~ msgid "Votes"
+#~ msgstr "투표"
+
+#~ msgid "You cannot vote on your own reviews"
+#~ msgstr "자신의 리뷰에 투표할 수 없습니다."
+
+#~ msgid "Only signed-in users can vote on reviews"
+#~ msgstr "가입된 사용자만 리뷰에 투표할 수 있습니다."
+
+#~ msgid "You can only vote once on a review"
+#~ msgstr "한 리뷰에 한번의 투표만 가능합니다."
+
+#~ msgid "Catalogue reviews"
+#~ msgstr "카탈로그 리뷰"
+
+#~ msgid "Recency"
+#~ msgstr "최신"
+
+#~ msgid "Sort by"
+#~ msgstr "정렬 방식:"
+
+#~ msgid "You have already reviewed this product!"
+#~ msgstr "이 상품에 이미 리뷰를 남겼습니다!"
+
+#~ msgid "You can't leave a review for this product."
+#~ msgstr "이 상품에 후기를 남길 수 없습니다."
+
+#~ msgid "Thank you for reviewing this product"
+#~ msgstr "이 상품에 리뷰를 남겨주셔서 감사합니다."
+
+#~ msgid "Thanks for voting!"
+#~ msgstr "투표해주셔서 감사합니다!"
+
+#~ msgid "%(filename)s is not a valid image (%(error)s)"
+#~ msgstr "%(filename)s는 유효한 이미지가 아닙니다. (%(error)s)"
+
+#~ msgid "%s is not a valid image archive"
+#~ msgstr "%s는 유효한 이미지 저장소가 아닙니다."
+
+#~ msgid "The given page number was invalid."
+#~ msgstr "페이지 번호가 유효하지 않습니다."
+
+#~ msgid "Checkout"
+#~ msgstr "체크아웃"
+
+#~ msgid "My email address is"
+#~ msgstr "이메일 주소는"
+
+#~ msgid "I am a new customer and want to checkout as a guest"
+#~ msgstr "새로운 고객이고 비회원으로 구매하고 싶습니다."
+
+#~ msgid ""
+#~ "I am a new customer and want to create an account before checking out"
+#~ msgstr "새로운 고객이고 구매 전에 새로운 계정을 생성하고 싶습니다."
+
+#~ msgid "I am a returning customer, and my password is"
+#~ msgstr "이미 가입한 고객이고 비밀번호는"
+
+#~ msgid "A user with that email address already exists"
+#~ msgstr "입력한 이메일의 사용자가 이미 존재합니다."
+
+#~ msgid "You need to add some items to your basket to checkout"
+#~ msgstr "장바구니에 결제하기 위한 상품을 추가해야 합니다."
+
+#~ msgid ""
+#~ "'%(title)s' is no longer available to buy (%(reason)s). Please adjust "
+#~ "your basket to continue"
+#~ msgstr ""
+#~ "'%(title)s'는 다음과 같은 이유로 구매를 진행 할 수 없습니다(%(reason)s). "
+#~ "구매를 진행하려면 장바구니에 담긴 상품들을 수정/삭제 해야 됩니다"
+
+#~ msgid "Please either sign in or enter your email address"
+#~ msgstr "가입하거나 이메일 주소를 입력해주세요."
+
+#~ msgid "Please choose a shipping address"
+#~ msgstr "배송지를 선택해주세요"
+
+#~ msgid ""
+#~ "Your previously chosen shipping address is no longer valid.  Please "
+#~ "choose another one"
+#~ msgstr ""
+#~ "당신이 이전에 선택한 배송지 주소는 더이상 유효하지 않습니다. 다른 배송지 "
+#~ "주소를 선택하십시오"
+
+#~ msgid "Please choose a shipping method"
+#~ msgstr "배송 방법을 선택해주세요."
+
+#~ msgid ""
+#~ "Your previously chosen shipping method is no longer valid.  Please choose "
+#~ "another one"
+#~ msgstr ""
+#~ "이전에 선택한 배송방법은 더 이상 유효하지 않습니다. 다른 것을 선택해 주세"
+#~ "요."
+
+#~ msgid ""
+#~ "Create your account and then you will be redirected back to the checkout "
+#~ "process"
+#~ msgstr "계정을 생성하면 구매 과정으로 다시 이동됩니다."
+
+#~ msgid "Address saved"
+#~ msgstr "주소가 저장되었습니다."
+
+#~ msgid "Address deleted"
+#~ msgstr "주소가 삭제되었습니다."
+
+#~ msgid ""
+#~ "Shipping is unavailable for your chosen address - please choose another"
+#~ msgstr "선택한 주소로 배송할 수 없습니다. - 다른 주소를 선택해주세요."
+
+#~ msgid "Your submitted shipping method is not permitted"
+#~ msgstr "등록된 배송 방법은 허가되지 않았습니다."
+
+#~ msgid ""
+#~ "A problem occurred while processing payment for this order - no payment "
+#~ "has been taken.  Please contact customer services if this problem persists"
+#~ msgstr ""
+#~ "이 주문에 대한 결제를 진행하던 중 문제가 발생하였습니다. - 결제가 이루어지"
+#~ "지 않았습니다. 만약 이 문제가 지속되면 고객 서비스에 연락하세요."
+
+#~ msgid "No order found"
+#~ msgstr "주문을 찾을 수 없습니다."
+
+#~ msgid "email address"
+#~ msgstr "이메일 주소"
+
+#~ msgid "Staff status"
+#~ msgstr "직원 상태"
+
+#~ msgid "Designates whether the user can log into this admin site."
+#~ msgstr "해당 사용자가 관리자 사이트를 볼 수 있는지 설정하십시오."
+
+#~ msgid "Active"
+#~ msgstr "활성화"
+
+#~ msgid ""
+#~ "Designates whether this user should be treated as active. Unselect this "
+#~ "instead of deleting accounts."
+#~ msgstr ""
+#~ "이 사용자를 액티브 사용자로 여겨야 하는지 여부를 표기합니다. 계정을 삭제하"
+#~ "는 대신에 이 옵션을 선택해제 하십시오."
+
+#~ msgid "date joined"
+#~ msgstr "가입일"
+
+#~ msgid "Users"
+#~ msgstr "사용자"
+
+#~ msgid "Subject"
+#~ msgstr "주제"
+
+#~ msgid "Body Text"
+#~ msgstr "본문 텍스트"
+
+#~ msgid "Body HTML"
+#~ msgstr "본문 HTML"
+
+#~ msgid "Date Sent"
+#~ msgstr "보낸 날짜"
+
+#~ msgid "Emails"
+#~ msgstr "이메일"
+
+#~ msgid "Email to %(user)s with subject '%(subject)s'"
+#~ msgstr "'%(subject)s' 제목으로 %(user)s 에게 이메일 보내기"
+
+#~ msgid "Code used for looking up this event programmatically"
+#~ msgstr "프로그램적으로 이 이벤트를 찾을 때 사용되는 코드입니다."
+
+#~ msgid "Order related"
+#~ msgstr "주문 관련"
+
+#~ msgid "User related"
+#~ msgstr "사용자 관련"
+
+#~ msgid "Email Subject Template"
+#~ msgstr "이메일 제목 템플릿"
+
+#~ msgid "Email Body Template"
+#~ msgstr "이메일 본문 템플릿"
+
+#~ msgid "Email Body HTML Template"
+#~ msgstr "이메일 본문 HTML 템플릿"
+
+#~ msgid "HTML template"
+#~ msgstr "HTML 템플릿"
+
+#~ msgid "SMS Template"
+#~ msgstr "SMS 템플릿"
+
+#~ msgid "SMS template"
+#~ msgstr "SMS 템플릿"
+
+#~ msgid "Date Updated"
+#~ msgstr "수정일"
+
+#~ msgid "Communication event type"
+#~ msgstr "커뮤니케이션 이벤트 종류"
+
+#~ msgid "Communication event types"
+#~ msgstr "커뮤니케이션 이벤트 종류"
+
+#~ msgid "Inbox"
+#~ msgstr "보관함"
+
+#~ msgid "Archive"
+#~ msgstr "저장소"
+
+#~ msgid "Notification"
+#~ msgstr "알림"
+
+#~ msgid "Notifications"
+#~ msgstr "알림"
+
+#~ msgid "Key"
+#~ msgstr "키"
+
+#~ msgid "Not yet confirmed"
+#~ msgstr "아직 승인되지 않았습니다."
+
+#~ msgid "Cancelled"
+#~ msgstr "취소됨"
+
+#~ msgid "Closed"
+#~ msgstr "종료됨"
+
+#~ msgid "Date confirmed"
+#~ msgstr "승인 날짜"
+
+#~ msgid "Date cancelled"
+#~ msgstr "취소 날짜"
+
+#~ msgid "Date closed"
+#~ msgstr "종료 날짜"
+
+#~ msgid "Product alert"
+#~ msgstr "상품 알림"
+
+#~ msgid "Product alerts"
+#~ msgstr "상품 알림"
+
+#~ msgid "Product Alerts"
+#~ msgstr "상품 알림"
+
+#~ msgid "An alert has been created"
+#~ msgstr "알림이 생성되었습니다."
+
+#~ msgid "A confirmation email has been sent to %s"
+#~ msgstr "확인 메일이 %s로 전송되었습니다."
+
+#~ msgid "Your stock alert is now active"
+#~ msgstr "재고 알림이 활성화 되었습니다."
+
+#~ msgid "Your stock alert cannot be confirmed"
+#~ msgstr "재고 알림을 승인할 수 없습니다."
+
+#~ msgid "Your stock alert has been cancelled"
+#~ msgstr "재고 알림이 취소되었습니다."
+
+#~ msgid "Your stock alert cannot be cancelled"
+#~ msgstr "재고 알림을 취소할 수 없습니다."
+
+#~ msgid "Customer"
+#~ msgstr "고객"
+
+#~ msgid "Email address"
+#~ msgstr "Email 주소"
+
+#~ msgid "Password"
+#~ msgstr "비밀번호"
+
+#~ msgid "The entered password is not valid!"
+#~ msgstr "입력된 비밀번호는 유효하지 않습니다."
+
+#~ msgid "Confirm password"
+#~ msgstr "비밀번호 확인"
+
+#~ msgid "The two password fields didn't match."
+#~ msgstr "입력한 비밀번호가 일치하지 않습니다."
+
+#~ msgctxt "start date"
+#~ msgid "From"
+#~ msgstr "발신"
+
+#~ msgctxt "end date"
+#~ msgid "To"
+#~ msgstr "수신"
+
+#~ msgid "Order number"
+#~ msgstr "주문번호"
+
+#~ msgid "At least one field is required."
+#~ msgstr "최소한 하나의 필드에 대한 입력이 필요합니다."
+
+#~ msgid "All orders"
+#~ msgstr "모든 주문"
+
+#~ msgid ""
+#~ "Orders placed between %(date_from)s and %(date_to)s and order number "
+#~ "containing %(order_number)s"
+#~ msgstr ""
+#~ "%(date_from)s ~ %(date_to)s 사이에 주문되었고 주문 번호가 %(order_number)s"
+#~ "을(를) 포함하는 주문"
+
+#~ msgid "Orders placed between %(date_from)s and %(date_to)s"
+#~ msgstr "%(date_from)s ~ %(date_to)s 기간의 상품 주문 결과"
+
+#~ msgid ""
+#~ "Orders placed since %(date_from)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "%(date_from)s 이후에 주문되었고 주문 번호가 %(order_number)s을(를) 포함하"
+#~ "는 주문"
+
+#~ msgid "Orders placed since %(date_from)s"
+#~ msgstr "%(date_from)s 이후에 주문된 주문"
+
+#~ msgid ""
+#~ "Orders placed until %(date_to)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "%(date_to)s 이전에 주문되었고 주문 번호가 %(order_number)s을(를) 포함하는 "
+#~ "주문"
+
+#~ msgid "Orders placed until %(date_to)s"
+#~ msgstr "%(date_to)s 이전에 주문된 주문"
+
+#~ msgid "Orders with order number containing %(order_number)s"
+#~ msgstr "주문 번호가 %(order_number)s을(를) 포함하는 주문"
+
+#~ msgid "A user with this email address already exists"
+#~ msgstr "입력한 이메일의 사용자가 이미 존재합니다."
+
+#~ msgid "Send notification to"
+#~ msgstr "알림 전송"
+
+#~ msgid "Enter your email"
+#~ msgstr "Email을 입력하시기 바랍니다."
+
+#~ msgid "There is already an active stock alert for %s"
+#~ msgstr "%s에 대해 이미 활성화된 재고 알림이 있습니다."
+
+#~ msgid "You already have an active alert for this product"
+#~ msgstr "이미 이 상품에 대해 활성화된 알림이 있습니다."
+
+#~ msgid "%(count)d notification archived"
+#~ msgid_plural "%(count)d notifications archived"
+#~ msgstr[0] "%(count)d 알림 저장됨"
+
+#~ msgid "%(count)d notification deleted"
+#~ msgid_plural "%(count)d notifications deleted"
+#~ msgstr[0] "%(count)d 알림 삭제됨"
+
+#~ msgid "Welcome back"
+#~ msgstr "환영합니다"
+
+#~ msgid "Thanks for registering!"
+#~ msgstr "가입해주셔서 감사합니다."
+
+#~ msgid "Profile"
+#~ msgstr "프로필"
+
+#~ msgid "Edit Profile"
+#~ msgstr "프로필 수정"
+
+#~ msgid "Profile updated"
+#~ msgstr "프로필이 수정 되었습니다."
+
+#~ msgid "Delete profile"
+#~ msgstr "프로필 삭제"
+
+#~ msgid "Your profile has now been deleted. Thanks for using the site."
+#~ msgstr "프로필이 삭제 되었습니다. 저희 사이트를 이용해주셔서 감사합니다."
+
+#~ msgid "Change Password"
+#~ msgstr "비밀번호 변경"
+
+#~ msgid "Password updated"
+#~ msgstr "비밀번호가 업데이트 되었습니다."
+
+#~ msgid "Email History"
+#~ msgstr "이메일 기록"
+
+#~ msgid "Order History"
+#~ msgstr "주문 내역"
+
+#~ msgid "Order"
+#~ msgstr "주문"
+
+#~ msgid ""
+#~ "All available lines from order %(number)s have been added to your basket"
+#~ msgstr ""
+#~ "%(number)s 주문에 대해 모든 이용가능한 항목이 장바구니에 추가되었습니다."
+
+#~ msgid ""
+#~ "It is not possible to re-order order %(number)s as none of its lines are "
+#~ "available to purchase"
+#~ msgstr ""
+#~ "구매할 수 있는 항목이 없는 %(number)s 주문을 재주문 하는 것은 불가능합니"
+#~ "다."
+
+#~ msgid "%(qty)d copies of '%(product)s' have been added to your basket"
+#~ msgstr "'%(product)s' 상품 %(qty)d개가 장바구니에 추가되었습니다."
+
+#~ msgid "'%s' has been added to your basket"
+#~ msgstr "'%s'는 이미 장바구니에 추가되어 있습니다."
+
+#~ msgid "Address Book"
+#~ msgstr "주소록"
+
+#~ msgid "Add a new address"
+#~ msgstr "새로운 주소 추가하기"
+
+#~ msgid "Address '%s' created"
+#~ msgstr "'%s' 주소가 생성되었습니다."
+
+#~ msgid "Edit address"
+#~ msgstr "주소 편집"
+
+#~ msgid "Address '%s' updated"
+#~ msgstr "'%s' 주소가 업데이트 되었습니다."
+
+#~ msgid "Delete address?"
+#~ msgstr "주소를 삭제하시겠습니까?"
+
+#~ msgid "Address '%s' deleted"
+#~ msgstr "'%s' 주소가 삭제되었습니다."
+
+#~ msgid "We do not ship to this country"
+#~ msgstr "배송할 수 없는 지역입니다."
+
+#~ msgid "Wish Lists"
+#~ msgstr "위시 리스트"
+
+#~ msgid "Quantities updated."
+#~ msgstr "수량이 업데이트 되었습니다."
+
+#~ msgid "Create a new wish list"
+#~ msgstr "새 위시 리스트 만들기"
+
+#~ msgid "The requested product no longer exists"
+#~ msgstr "요청한 상품이 더이상 존재하지 않습니다."
+
+#~ msgid "Your wishlist has been created and '%(name)s has been added"
+#~ msgstr "위시리스트가 생성되었고 '%(name)s가 추가되었습니다."
+
+#~ msgid "Your wishlist has been created"
+#~ msgstr "위시 리스트가 생성되었습니다."
+
+#~ msgid "%(title)s has been added to your wishlist"
+#~ msgstr "위시리스트에 %(title)s 상품이 추가되었습니다."
+
+#~ msgid "Your '%s' wishlist has been updated"
+#~ msgstr "위시리스트 '%s'가 업데이트 되었습니다."
+
+#~ msgid "Delete %s"
+#~ msgstr "%s 삭제"
+
+#~ msgid "Your '%s' wish list has been deleted"
+#~ msgstr "위시리스트 '%s'가 삭제되었습니다."
+
+#~ msgid "'%s' was added to your wish list."
+#~ msgstr "'%s' 상품이 위시리스트에 추가되었습니다."
+
+#~ msgid "Remove %s"
+#~ msgstr "%s 제거"
+
+#~ msgid "'%(title)s' was removed from your '%(name)s' wish list"
+#~ msgstr "'%(title)s' 상품이 '%(name)s' 위시리스트에서 제거되었습니다."
+
+#~ msgid "'%(title)s' moved to '%(name)s' wishlist"
+#~ msgstr "'%(title)s' 상품이 '%(name)s' 위시리스트로 이동되었습니다."
+
+#~ msgid "Create a new product of type"
+#~ msgstr "새 상품 종류 선택"
+
+#~ msgid "-- Choose type --"
+#~ msgstr "--종류 선택--"
+
+#~ msgid "Product title"
+#~ msgstr "상품명"
+
+#~ msgid "Select an option group"
+#~ msgstr "옵션 그룹 선택"
+
+#~ msgid ""
+#~ "At least one stock record must be set to a partner that you're associated "
+#~ "with."
+#~ msgstr "파트너에는 하나 이상의 재고 기록이 설정되어야 합니다."
+
+#~ msgid "Stand-alone and parent products must have at least one category"
+#~ msgstr "단일 상품과 부모 상품은 하나 이상의 카테고리를 가져야 합니다."
+
+#~ msgid "A child product should not have categories"
+#~ msgstr "자식 상품은 카테고리를 가질 수 없습니다."
+
+#~ msgid "Title"
+#~ msgstr "제목"
+
+#~ msgid "Variants"
+#~ msgstr "세부옵션"
+
+#~ msgid "Stock records"
+#~ msgstr "재고 기록"
+
+#~ msgid "Actions"
+#~ msgstr "기능"
+
+#~ msgid "Number of child categories"
+#~ msgstr "하위 카테고리 수"
+
+#~ msgid "%s Category"
+#~ msgid_plural "%s Categories"
+#~ msgstr[0] "%s 카테고리"
+
+#~ msgid "Product search results"
+#~ msgstr "상품 검색 결과"
+
+#~ msgid "Please choose a product type"
+#~ msgstr "상품 종류를 선택해주세요."
+
+#~ msgid "Create new %(product_class)s product"
+#~ msgstr "새 %(product_class)s 상품 만들기"
+
+#~ msgid "Create new variant of %(parent_product)s"
+#~ msgstr "%(parent_product)s의 새로운 상품 변형 만들기"
+
+#~ msgid "Your submitted data was not valid - please correct the errors below"
+#~ msgstr "등록된 데이터는 유효하지 않습니다 - 아래 오류를 정정해주세요."
+
+#~ msgid "Delete product variant?"
+#~ msgstr "상품 변형을 삭제하시겠습니까?"
+
+#~ msgid "Delete product?"
+#~ msgstr "상품을 삭제하시겠습니까?"
+
+#~ msgid "Deleted product '%s'"
+#~ msgstr "상품 삭제됨 '%s'"
+
+#~ msgid "Alerts with status \"%s\""
+#~ msgstr "\"%s\" 상태 알림"
+
+#~ msgid "All alerts"
+#~ msgstr "모든 알림"
+
+#~ msgid "Add a new category"
+#~ msgstr "새 카테고리 추가"
+
+#~ msgid "Category created successfully"
+#~ msgstr "카테고리를 성공적으로 생성했습니다."
+
+#~ msgid "Update category '%s'"
+#~ msgstr "'%s' 카테고리 업데이트"
+
+#~ msgid "Category updated successfully"
+#~ msgstr "카테고리를 성공적으로 업데이트 했습니다."
+
+#~ msgid "Category deleted successfully"
+#~ msgstr "카테고리를 성공적으로 삭제하였습니다."
+
+#~ msgid "Add a new product type"
+#~ msgstr "새 상품 종류 만들기"
+
+#~ msgid "Product type created successfully"
+#~ msgstr "상품 종류를 성공적으로 생성했습니다."
+
+#~ msgid "Update product type '%s'"
+#~ msgstr "상품 종류 '%s' 갱신하기"
+
+#~ msgid "Product type updated successfully"
+#~ msgstr "상품 유형이 성공적으로 업데이트되었습니다."
+
+#~ msgid "Delete product type '%s'"
+#~ msgstr "'%s' 상품 종류 삭제"
+
+#~ msgid "Unable to delete '%s'"
+#~ msgstr "'%s'를 삭제할 수 없습니다."
+
+#~ msgid "%i products are still assigned to this type"
+#~ msgstr "%i 상품들이 여전히 이 유형에 할당되어 있습니다."
+
+#~ msgid "Product type deleted successfully"
+#~ msgstr "상품 종류가 성공적으로 삭제되었습니다."
+
+#~ msgid "Communications dashboard"
+#~ msgstr "커뮤니케이션 대시보드"
+
+#~ msgid "Email subject template"
+#~ msgstr "이메일 제목 템플릿"
+
+#~ msgid "Email body text template"
+#~ msgstr "이메일 본문 템플릿"
+
+#~ msgid "Email body HTML template"
+#~ msgstr "이메일 본문 HTML 템플릿"
+
+#~ msgid "Preview email"
+#~ msgstr "프리뷰 이메일"
+
+#~ msgid "No order found with this number"
+#~ msgstr "주어진 번호와 일치하는 주문 내용이 없습니다."
+
+#~ msgid "Please enter an email address"
+#~ msgstr "이메일 주소를 입력해주세요"
+
+#~ msgid ""
+#~ "The submitted form was not valid, please correct the errors and resubmit"
+#~ msgstr "등록된 양식은 유효하지 않습니다. 오류를 정정하고 다시 등록해주세요."
+
+#~ msgid "Email saved"
+#~ msgstr "이메일 저장됨"
+
+#~ msgid "A preview email has been sent to %s"
+#~ msgstr "프리뷰 메일이 %s로 전송되었습니다."
+
+#~ msgid "Start date"
+#~ msgstr "시작일"
+
+#~ msgid "End date"
+#~ msgstr "종료일"
+
+#~ msgid "The end date must be after the start date"
+#~ msgstr "종료일은 시작일보다 늦어야 합니다."
+
+#~ msgid "Custom condition"
+#~ msgstr "사용자 지정 조건"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom condition"
+#~ msgstr ""
+#~ "카테고리 그룹, 종류, 값을 선택하거나 또는 사용자 지정 조건을 선택해주시기 "
+#~ "바랍니다."
+
+#~ msgid "A range is required"
+#~ msgstr "세트가 필요합니다."
+
+#~ msgid "Custom incentive"
+#~ msgstr "사용자 지정 인센티브"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom incentive"
+#~ msgstr ""
+#~ "범위, 종류, 값을 선택하거나 또는 사용자 지정 인센티브를 선택해주시기 바랍"
+#~ "니다."
+
+#~ msgid "No other options can be set if you are using a custom incentive"
+#~ msgstr "사용자 지정 인센티브를 사용하면 옵션을 설정할 수 없습니다."
+
+#~ msgid "Offer name"
+#~ msgstr "행사 이름"
+
+#~ msgid "Is active?"
+#~ msgstr "활성화?"
+
+#~ msgid "Order date"
+#~ msgstr "주문일"
+
+#~ msgid "Order total"
+#~ msgstr "총 주문"
+
+#~ msgid "Cost"
+#~ msgstr "비용"
+
+#~ msgid "All offers"
+#~ msgstr "모든 행사"
+
+#~ msgid "Offers matching '%s'"
+#~ msgstr "'%s'와(과) 일치하는 행사"
+
+#~ msgid "%s step not complete"
+#~ msgstr "%s 단계가 완료되지 않았습니다."
+
+#~ msgid "Offer '%s' updated"
+#~ msgstr "'%s' 행사가 업데이트 되었습니다."
+
+#~ msgid "Offer '%s' created!"
+#~ msgstr "'%s' 행사가 생성되었습니다!"
+
+#~ msgid "Name and description"
+#~ msgstr "이름과 설명"
+
+#~ msgid "Incentive"
+#~ msgstr "인센티브"
+
+#~ msgid "Restrictions"
+#~ msgstr "제한사항"
+
+#~ msgid "Offer deleted!"
+#~ msgstr "행사가 삭제되었습니다!"
+
+#~ msgid "Offer is already suspended"
+#~ msgstr "행사가 이미 중지되었습니다."
+
+#~ msgid "Offer suspended"
+#~ msgstr "중단된 행사"
+
+#~ msgid "Offer cannot be reinstated as it is not currently suspended"
+#~ msgstr "행사를 지금 중지되지 않은 상태로 복원할 수 없습니다."
+
+#~ msgid "Offer reinstated"
+#~ msgstr "복원된 행사"
+
+#~ msgid "Orders dashboard"
+#~ msgstr "주문 대시보드"
+
+#~ msgid "Orders placed since %s"
+#~ msgstr "%s 이후에 주문된 주문"
+
+#~ msgid "Orders placed until %s"
+#~ msgstr "%s 이전에 주문된 주문"
+
+#~ msgid "Customer name"
+#~ msgstr "고객 이름"
+
+#~ msgid "Product name"
+#~ msgstr "상품명"
+
+#~ msgid "Partner SKU"
+#~ msgstr "파트너 SKU"
+
+#~ msgid "Date from"
+#~ msgstr "시작일"
+
+#~ msgid "Date to"
+#~ msgstr "종료일"
+
+#~ msgid "Voucher code"
+#~ msgstr "쿠폰 코드"
+
+#~ msgid "Payment method"
+#~ msgstr "결제 방법"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "CSV"
+#~ msgstr "CSV"
+
+#~ msgid "Get results as"
+#~ msgstr "결과 종류 선택"
+
+#~ msgid "New order status"
+#~ msgstr "새 주문 상태"
+
+#~ msgid "Order number starts with \"{order_number}\""
+#~ msgstr "순서의 번호는 \"{order_number}\"부터 시작합니다."
+
+#~ msgid "Customer name matches \"{customer_name}\""
+#~ msgstr "고객의 이름이 \"{customer_name}\"과 일치합니다."
+
+#~ msgid "Product name matches \"{product_name}\""
+#~ msgstr "상품의 이름이 \"{product_name}\"과 일치합니다."
+
+#~ msgid "Includes an item with UPC \"{upc}\""
+#~ msgstr "상품고유코드 \"{upc}\"가 있는 상품을 포함합니다."
+
+#~ msgid "Includes an item with partner SKU \"{partner_sku}\""
+#~ msgstr "협력공급업체 재고품 \"{partner_sku}\"를 갖는 상품을 포함합니다."
+
+#~ msgid "Placed between {start_date} and {end_date}"
+#~ msgstr "{start_date}와 {end_date} 사이에 주문되었습니다."
+
+#~ msgid "Placed after {start_date}"
+#~ msgstr "{start_date} 이후에 주문되었습니다."
+
+#~ msgid "Placed before {end_date}"
+#~ msgstr "{end_date} 이전에 주문되었습니다."
+
+#~ msgid "Used voucher code \"{voucher_code}\""
+#~ msgstr "할인쿠폰 \"{voucher_code}\"을 사용했습니다."
+
+#~ msgid "Paid using {payment_method}"
+#~ msgstr "{payment_method}을(를) 통해 결제됨"
+
+#~ msgid "Order status is {order_status}"
+#~ msgstr "주문 상태는 {order_status} 입니다."
+
+#~ msgid "Order value"
+#~ msgstr "주문값"
+
+#~ msgid "Date of purchase"
+#~ msgstr "구매일"
+
+#~ msgid "Number of items"
+#~ msgstr "아이템수"
+
+#~ msgid "Order status"
+#~ msgstr "주문 상태"
+
+#~ msgid "Customer email address"
+#~ msgstr "고객 이메일 주소"
+
+#~ msgid "Deliver to name"
+#~ msgstr "이름으로 배송"
+
+#~ msgid "Bill to name"
+#~ msgstr "주문하시는 분 성함"
+
+#~ msgid "The new status '%s' is not valid"
+#~ msgstr "새로운 상태 '%s'은(는) 유효하지 않습니다."
+
+#~ msgid "The new status '%s' is not valid for this order"
+#~ msgstr "새로운상태 '%s'은(는) 이 주문에 유효하지 않습니다."
+
+#~ msgid "Unable to change order status due to payment error: %s"
+#~ msgstr "결제 오류 때문에 주문 상태를 변경할 수 없습니다: %s"
+
+#~ msgid "Order status changed from '%(old_status)s' to '%(new_status)s'"
+#~ msgstr "주문 상태가 '%(old_status)s'에서 '%(new_status)s'로 변경되었습니다."
+
+#~ msgid "No valid action submitted"
+#~ msgstr "유효하지 않은 행동이 등록되었습니다."
+
+#~ msgid "Invalid action"
+#~ msgstr "유효하지 않은 행동"
+
+#~ msgid "You must select some lines to act on"
+#~ msgstr "실행하기 위해서는 몇몇 항목들을 선택해야 합니다."
+
+#~ msgid "The entered quantity for line #%s is not valid"
+#~ msgstr "#%s줄의 수량이 적절하지 않습니다."
+
+#~ msgid ""
+#~ "The entered quantity for line #%(line_id)s should not be higher than "
+#~ "%(quantity)s"
+#~ msgstr "#%(line_id)s 상품의 수량은 %(quantity)s보다 크면 안됩니다."
+
+#~ msgid "Note saved"
+#~ msgstr "기록이 저장되었습니다."
+
+#~ msgid "Note cannot be deleted"
+#~ msgstr "기록을 삭제할 수 없습니다."
+
+#~ msgid "Note deleted"
+#~ msgstr "기록이 삭제되었습니다."
+
+#~ msgid "Invalid form submission"
+#~ msgstr "유효하지 않은 형식 제출"
+
+#~ msgid ""
+#~ "Unable to change order status as the requested new status is not valid"
+#~ msgstr "새로운 주문상태가 적절하지 않으므로 주문상태를 변경할 수 없습니다."
+
+#~ msgid "Please choose a valid amount"
+#~ msgstr "유효한 수량을 선택해주세요."
+
+#~ msgid "'%(status)s' is not a valid new status for line %(line_id)d"
+#~ msgstr ""
+#~ "'%(status)s'은(는) %(line_id)d 항목에 대해 유효한 새 상태가 아닙니다."
+
+#~ msgid ""
+#~ "Status of line #%(line_id)d changed from '%(old_status)s' to "
+#~ "'%(new_status)s'"
+#~ msgstr ""
+#~ "#%(line_id)d 항목의 상태가 '%(old_status)s'에서 '%(new_status)s'로 변경되"
+#~ "었습니다."
+
+#~ msgid "The event type '%s' is not valid"
+#~ msgstr "'%s' 이벤트 타입은 유효하지 않습니다."
+
+#~ msgid "Unable to create shipping event: %s"
+#~ msgstr "배송 이벤트를 생성할 수 없습니다: %s"
+
+#~ msgid "Unable to create shipping event due to payment error: %s"
+#~ msgstr "결제 오류 때문에 배송 이벤트를 생성할 수 없습니다: %s"
+
+#~ msgid "Shipping event created"
+#~ msgstr "배송 이벤트가 생성되었습니다."
+
+#~ msgid "Unable to create payment event due to payment error: %s"
+#~ msgstr "결제 오류때문에 결제 이벤트를 생성할 수 없습니다: %s"
+
+#~ msgid "Unable to create payment event: %s"
+#~ msgstr "결제 이벤트를 생성할 수 없습니다: %s"
+
+#~ msgid "Payment event created"
+#~ msgstr "결제 이벤트가 생성되었습니다."
+
+#~ msgid "%(field)s changed from '%(old_value)s' to '%(new_value)s'"
+#~ msgstr ""
+#~ "%(field)s이(가) '%(old_value)s' 에서 '%(new_value)s'로 변경되었습니다."
+
+#~ msgid ""
+#~ "Delivery address updated:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "배송 주소가 업데이트 되었습니다.\n"
+#~ "%s"
+
+#~ msgid "Delivery address updated"
+#~ msgstr "배송 주소가 업데이트 되었습니다."
+
+#~ msgid "Pages dashboard"
+#~ msgstr "페이지 대시보드"
+
+#~ msgctxt "Page title"
+#~ msgid "Title"
+#~ msgstr "제목"
+
+#~ msgid "Example: '/about/contact/'."
+#~ msgstr "예: '/about/contact/'."
+
+#~ msgid "All pages"
+#~ msgstr "모든 페이지"
+
+#~ msgid " with title containing '%s'"
+#~ msgstr "'%s'를 포함하는 제목"
+
+#~ msgid "Create New Page"
+#~ msgstr "새 페이지 만들기"
+
+#~ msgid "Deleted page '%s'"
+#~ msgstr "'%s' 페이지 삭제"
+
+#~ msgid "Partners dashboard"
+#~ msgstr "파트너 대시보드"
+
+#~ msgctxt "Partner's name"
+#~ msgid "Name"
+#~ msgstr "이름"
+
+#~ msgid "Full dashboard access"
+#~ msgstr "전체 대시보드 접근"
+
+#~ msgid "Limited dashboard access"
+#~ msgstr "제한된 대시보드 접근"
+
+#~ msgid "User role"
+#~ msgstr "사용자 역할"
+
+#~ msgid "Confirm Password"
+#~ msgstr "비밀번호 확인"
+
+#~ msgid "All partners"
+#~ msgstr "모든 파트너"
+
+#~ msgid "Partners matching '%s'"
+#~ msgstr "'%s'와(과) 일치하는 파트너"
+
+#~ msgid "Create new partner"
+#~ msgstr "새 파트너 만들기"
+
+#~ msgid "Partner '%s' was created successfully."
+#~ msgstr "'%s' 파트너를 성공적으로 생성했습니다."
+
+#~ msgid "Partner '%s' was updated successfully."
+#~ msgstr "'%s' 파트너를 성공적으로 업데이트 했습니다."
+
+#~ msgid "Partner '%s' was deleted successfully."
+#~ msgstr "'%s' 파트너를 성공적으로 삭제했습니다."
+
+#~ msgid "Create user"
+#~ msgstr "사용자 생성"
+
+#~ msgid "User '%s' was created successfully."
+#~ msgstr "'%s' 사용자를 성공적으로 생성했습니다."
+
+#~ msgid "User '%(name)s' was linked to '%(partner_name)s'"
+#~ msgstr "'%(name)s' 유저가 '%(partner_name)s' 파트너와 연결되었습니다."
+
+#~ msgid "User '%(name)s' is already linked to '%(partner_name)s'"
+#~ msgstr ""
+#~ "'%(name)s' 유저는 이미 '%(partner_name)s' 파트너와 연결되어 있습니다."
+
+#~ msgid "User '%(name)s' is not linked to '%(partner_name)s'"
+#~ msgstr ""
+#~ "'%(name)s' 유저는 '%(partner_name)s' 파트너와 연결되어 있지 않습니다."
+
+#~ msgid "Edit user '%s'"
+#~ msgstr "'%s' 유저 수정"
+
+#~ msgid "User '%s' was updated successfully."
+#~ msgstr "'%s' 유저를 성공적으로 업데이트 했습니다."
+
+#~ msgid "Promotions dashboard"
+#~ msgstr "프로모션 대시보드"
+
+#~ msgid "Promotion type"
+#~ msgstr "프로모션 종류"
+
+#~ msgid "Position"
+#~ msgstr "위치"
+
+#~ msgid "Where in the page this content block will appear"
+#~ msgstr "페이지에 이 내용 블럭이 보입니다"
+
+#~ msgid "Content blocks can only be linked to internal URLs"
+#~ msgstr "내용 블럭은 오직 내부 URL만 연결할 수 있습니다."
+
+#~ msgid "Content block removed successfully"
+#~ msgstr "내용 블럭을 성공적으로 제거했습니다."
+
+#~ msgid "Content block created successfully"
+#~ msgstr "내용 블럭을 성공적으로 생성했습니다."
+
+#~ msgid "Create a new %s content block"
+#~ msgstr "새 %s 내용 블럭 만들기"
+
+#~ msgid "Product list content block created"
+#~ msgstr "상품 목록 내용 목록을 생성했습니다."
+
+#~ msgid "Update content block"
+#~ msgstr "내용 블럭 업데이트"
+
+#~ msgid "Content block updated successfully"
+#~ msgstr "내용 블럭을 성공적으로 업데이트 했습니다."
+
+#~ msgid "Content block '%(block)s' added to page '%(page)s'"
+#~ msgstr "'%(block)s' 내용 블럭을 '%(page)s' 페이지에 추가했습니다."
+
+#~ msgid "No link found to delete"
+#~ msgstr "삭제할 링크를 찾을 수 없습니다."
+
+#~ msgid "Content block removed from page '%s'"
+#~ msgstr "내용 블럭을 페이지 '%s'에서 제거했습니다."
+
+#~ msgid "Product list promotion updated"
+#~ msgstr "상품 목록 프로모션이 업데이트 되었습니다."
+
+#~ msgid "Content block deleted successfully"
+#~ msgstr "내용 블럭을 성공적으로 제거했습니다."
+
+#~ msgid "Product SKUs or UPCs"
+#~ msgstr "상품재고관리코드 또는 공통상품코드"
+
+#~ msgid "You can paste in a selection of SKUs or UPCs"
+#~ msgstr "재고관리코드 또는 공통상품코드를 선택하여 쓸 수 있습니다."
+
+#~ msgid "File of SKUs or UPCs"
+#~ msgstr "재고관리코드 또는 공통상품코드 파일"
+
+#~ msgid "Either comma-separated, or one identifier per line"
+#~ msgstr "쉼포로 구분하거나 항목마다 하나의 식별자를 넣어주세요."
+
+#~ msgid "You must submit either a list of SKU/UPCs or a file"
+#~ msgstr "재고관리코드 또는 공통상품코드 리스트나 파일을 제출하여야 합니다."
+
+#~ msgid "The products with SKUs or UPCs matching %s are already in this range"
+#~ msgstr ""
+#~ "재고관리코드 또는 공통상품코드 %s 와 일치하는 상품이 이미 이 세트에 있습니"
+#~ "다."
+
+#~ msgid "No products exist with a SKU or UPC matching %s"
+#~ msgstr ""
+#~ "재고관리코드 또는 공통상품코드 %s 에 해당하는 상품이 존재하지 않습니다."
+
+#~ msgid "Create range"
+#~ msgstr "카테고리 그룹 만들기"
+
+#~ msgid "Range deleted"
+#~ msgstr "카테고리 그룹이 삭제되었습니다."
+
+#~ msgid "Removed %d product from range"
+#~ msgid_plural "Removed %d products from range"
+#~ msgstr[0] "%d 상품은 카테고리 그룹에서 삭제되었습니다."
+
+#~ msgid "%d product added to range"
+#~ msgid_plural "%d products added to range"
+#~ msgstr[0] "%d 상품이 세트에 추가되었습니다."
+
+#~ msgid "No product(s) were found with SKU or UPC matching %s"
+#~ msgstr ""
+#~ "재고관리코드 또는 공통상품코드 %s 와 일치하는 상품을 찾을 수 없습니다."
+
+#~ msgid "Reports dashboard"
+#~ msgstr "보고서 대시보드"
+
+#~ msgid "Report Type"
+#~ msgstr "보고서 종류"
+
+#~ msgid "Only the offer and order reports use the selected date range"
+#~ msgstr "행사와 주문 보고서는 오직 선택된 날짜 범위만 사용합니다."
+
+#~ msgid "The report is inclusive of this date"
+#~ msgstr "보고서는 이 날짜를 포함합니다."
+
+#~ msgid "Download"
+#~ msgstr "다운로드"
+
+#~ msgid "Your start date must be before your end date"
+#~ msgstr "시작일은 종료일 이전이어야 합니다."
+
+#~ msgid "%(report_filter)s between %(start_date)s and %(end_date)s"
+#~ msgstr "%(start_date)s와(과) %(end_date)s 사이의 %(report_filter)s"
+
+#~ msgid "You do not have access to this report"
+#~ msgstr "이 보고서에 접근할 수 없습니다."
+
+#~ msgid "Reviews dashboard"
+#~ msgstr "리뷰 대시보드"
+
+#~ msgid "Keyword"
+#~ msgstr "키워드"
+
+#~ msgid ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+#~ msgstr ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+
+#~ msgid " created after %s"
+#~ msgstr "%s 다음에 생성됨"
+
+#~ msgid " created before %s"
+#~ msgstr "%s 이전에 생성됨"
+
+#~ msgid " created between %(start_date)s and %(end_date)s"
+#~ msgstr "%(start_date)s와(과) %(end_date)s 사이에 생성됨"
+
+#~ msgid "All reviews"
+#~ msgstr "모든 리뷰"
+
+#~ msgid " with status matching '%s'"
+#~ msgstr "'%s'와(과) 일치하는 상태"
+
+#~ msgid " with keyword matching '%s'"
+#~ msgstr "'%s'와(과) 일치하는 키워드"
+
+#~ msgid " with customer name matching '%s'"
+#~ msgstr "'%s'와 일치하는 고객명"
+
+#~ msgid "Shipping dashboard"
+#~ msgstr "배송 대시보드"
+
+#~ msgid "%d Row"
+#~ msgid_plural "%d Rows"
+#~ msgstr[0] "%d 행(개수)"
+
+#~ msgid "Users dashboard"
+#~ msgstr "사용자 대시보드"
+
+#~ msgctxt "User's name"
+#~ msgid "Name"
+#~ msgstr "이름"
+
+#~ msgid "%(main_filter)s %(email_filter)s %(name_filter)s"
+#~ msgstr "%(main_filter)s %(email_filter)s %(name_filter)s"
+
+#~ msgid "All users"
+#~ msgstr "모든 사용자"
+
+#~ msgid " with email matching '%s'"
+#~ msgstr "'%s'와(과) 일치하는 이메일"
+
+#~ msgid " with name matching '%s'"
+#~ msgstr "'%s'와(과) 일치하는 이름"
+
+#~ msgid "Users' status successfully changed"
+#~ msgstr "사용자의 상태가 성공적으로 변경되었습니다."
+
+#~ msgid "A password reset email has been sent"
+#~ msgstr "비밀번호 변경 메일이 전송되었습니다."
+
+#~ msgid "All Alerts"
+#~ msgstr "모든 알림"
+
+#~ msgid " with customer email matching '%s'"
+#~ msgstr "'%s'와(과) 일치하는 고객 이메일"
+
+#~ msgid "Product alert saved"
+#~ msgstr "상품 알림이 저장되었습니다."
+
+#~ msgid "Product alert deleted"
+#~ msgstr "상품 알림이 삭제되었습니다."
+
+#~ msgid "Vouchers dashboard"
+#~ msgstr "쿠폰 대시보드"
+
+#~ msgid "Start datetime"
+#~ msgstr "시작일"
+
+#~ msgid "End datetime"
+#~ msgstr "종료일"
+
+#~ msgid "Usage"
+#~ msgstr "사용법"
+
+#~ msgid "Which products get a discount?"
+#~ msgstr "어떤 상품을 할인할까요?"
+
+#~ msgid "Percentage off of products in range"
+#~ msgstr "세트 상품 비율할인"
+
+#~ msgid "Fixed amount off of products in range"
+#~ msgstr "세트 상품 고정 가격 할인"
+
+#~ msgid "Discount is a percentage off of the shipping cost"
+#~ msgstr "배송비 비율 할인"
+
+#~ msgid "Discount is a fixed amount of the shipping cost"
+#~ msgstr "배송비 고정가 할인"
+
+#~ msgid "Get shipping for a fixed price"
+#~ msgstr "고정가로 배송하기"
+
+#~ msgid "Discount type"
+#~ msgstr "할인 종류"
+
+#~ msgid "Discount value"
+#~ msgstr "할인율"
+
+#~ msgid "The name '%s' is already in use"
+#~ msgstr "'%s' 이름이 이미 사용 중 입니다."
+
+#~ msgid "The code '%s' is already in use"
+#~ msgstr "'%s' 코드가 이미 사용 중입니다."
+
+#~ msgid "The start date must be before the end date"
+#~ msgstr "시작일은 종료일보다 빨라야합니다."
+
+#~ msgid "Is Active?"
+#~ msgstr "활성화?"
+
+#~ msgid "%(main_filter)s %(name_filter)s %(code_filter)s"
+#~ msgstr "%(main_filter)s %(name_filter)s %(code_filter)s"
+
+#~ msgid "All vouchers"
+#~ msgstr "모든 쿠폰"
+
+#~ msgid "with name matching '%s'"
+#~ msgstr "'%s'와 일치하는 이름"
+
+#~ msgid "with code '%s'"
+#~ msgstr "코드 '%s'"
+
+#~ msgid "Active vouchers"
+#~ msgstr "활성화 쿠폰"
+
+#~ msgid "Create voucher"
+#~ msgstr "쿠폰 생성"
+
+#~ msgid "Offer for voucher '%s'"
+#~ msgstr "'%s' 쿠폰에 대한 행사"
+
+#~ msgid "Voucher created"
+#~ msgstr "쿠폰이 생성되었습니다."
+
+#~ msgid "Voucher updated"
+#~ msgstr "쿠폰이 업데이트 되었습니다."
+
+#~ msgid "Voucher deleted"
+#~ msgstr "쿠폰이 삭제되었습니다."
+
+#~ msgid "This is displayed within the customer's basket"
+#~ msgstr "고객의 장바구니에 표시됩니다."
+
+#~ msgid "This is displayed on the offer browsing page"
+#~ msgstr "이것은 행사 보기 페이지에서 표시됩니다."
+
+#~ msgid "Site offer - available to all users"
+#~ msgstr "사이트 행사 - 모든 유저가 사용 가능합니다."
+
+#~ msgid ""
+#~ "Voucher offer - only available after entering the appropriate voucher code"
+#~ msgstr "쿠폰 행사 - 알맞는 쿠폰 번호를 입력한 후에 이용 가능합니다."
+
+#~ msgid "User offer - available to certain types of user"
+#~ msgstr "유저 행사 - 특정 종류의 유저만 사용 가능합니다."
+
+#~ msgid ""
+#~ "Session offer - temporary offer, available for a user for the duration of "
+#~ "their session"
+#~ msgstr "기간 행사 - 일시적인 행사, 행사 기간 동안 이용 가능합니다."
+
+#~ msgid "Condition"
+#~ msgstr "조건"
+
+#~ msgid "Benefit"
+#~ msgstr "혜택"
+
+#~ msgid "Priority"
+#~ msgstr "중요도"
+
+#~ msgid "The highest priority offers are applied first"
+#~ msgstr "최상위 행사가 첫 번째로 적용되었습니다."
+
+#~ msgid "Max global applications"
+#~ msgstr "최대 적용 횟수"
+
+#~ msgid "The number of times this offer can be used before it is unavailable"
+#~ msgstr "이 행사를 이용할 수 있는 횟수"
+
+#~ msgid "Max user applications"
+#~ msgstr "최대 유저 적용 수"
+
+#~ msgid "The number of times a single user can use this offer"
+#~ msgstr "이 행사를 한 사용자가 이용할 수 있는 횟수"
+
+#~ msgid "Max basket applications"
+#~ msgstr "최대 장바구니 적용 수"
+
+#~ msgid ""
+#~ "The number of times this offer can be applied to a basket (and order)"
+#~ msgstr "이 행사를 장바구니와 주문에 적용할 수 있는 횟수"
+
+#~ msgid "Max discount"
+#~ msgstr "최대 할인"
+
+#~ msgid ""
+#~ "When an offer has given more discount to orders than this threshold, then "
+#~ "the offer becomes unavailable"
+#~ msgstr ""
+#~ "이 범위보다 행사가 주문에 더 많은 할인을 적용하면 그 행사는 이용 불가능 상"
+#~ "태가 됩니다."
+
+#~ msgid "Total Discount"
+#~ msgstr "총 할인액"
+
+#~ msgid "Number of applications"
+#~ msgstr "적용 수"
+
+#~ msgid "Number of Orders"
+#~ msgstr "주문량"
+
+#~ msgid "URL redirect (optional)"
+#~ msgstr "URL 리다이렉트(선택)"
+
+#~ msgid "Conditional offer"
+#~ msgstr "조건부 행사"
+
+#~ msgid "Conditional offers"
+#~ msgstr "조건부 행사"
+
+#~ msgid "End date should be later than start date"
+#~ msgstr "종료일은 시작일보다 늦어야 합니다."
+
+#~ msgid "Offer is suspended"
+#~ msgstr "행사 중단"
+
+#~ msgid "Limited to %(total)d uses (%(remainder)d remaining)"
+#~ msgstr "총 %(total)d 회 사용 가능 (현재 %(remainder)d 회 남음)"
+
+#~ msgid "Limited to 1 use per user"
+#~ msgstr "유저 당 1번 사용으로 제한됨"
+
+#~ msgid "Limited to %(total)d uses per user"
+#~ msgstr "유저당 %(total)d번 사용으로 제한"
+
+#~ msgid "Limited to 1 use per basket"
+#~ msgstr "장바구니 당 1번 사용으로 제한"
+
+#~ msgid "Limited to %(total)d uses per basket"
+#~ msgstr "장바구니 당 %(total)d번 사용으로 제한"
+
+#~ msgid "Available between %(start)s and %(end)s"
+#~ msgstr "%(start)s부터 %(end)s까지 사용 가능"
+
+#~ msgid "Available from %(start)s"
+#~ msgstr "%(start)s부터 사용 가능"
+
+#~ msgid "Available until %(end)s"
+#~ msgstr "%(end)s까지 사용 가능"
+
+#~ msgid "Limited to a cost of %(max)s"
+#~ msgstr "%(max)s 이하로 가격이 제한됨"
+
+#~ msgid "Range"
+#~ msgstr "카테고리 그룹"
+
+#~ msgid "Discount is a percentage off of the product's value"
+#~ msgstr "상품 가격에 비율할인을 합니다."
+
+#~ msgid "Discount is a fixed amount off of the product's value"
+#~ msgstr "상품 가격에 고정가격을 할인합니다."
+
+#~ msgid "Discount is to give the cheapest product for free"
+#~ msgstr "할인은 제일 싼 상품을 무료로 제공하기 위한 것입니다."
+
+#~ msgid "Get the products that meet the condition for a fixed price"
+#~ msgstr "조건을 만족시키는 상품들을 고정가에 판매합니다."
+
+#~ msgid "Max Affected Items"
+#~ msgstr "최대 적용 아이템 수"
+
+#~ msgid ""
+#~ "Set this to prevent the discount consuming all items within the range "
+#~ "that are in the basket."
+#~ msgstr "장바구니 당 최대 제품할인 갯수를 적어주세요"
+
+#~ msgid "Custom class"
+#~ msgstr "커스텀 분류"
+
+#~ msgid "Benefits"
+#~ msgstr "혜택"
+
+#~ msgid "Multibuy benefits require a product range"
+#~ msgstr "다량구매 혜택은 상품세트를 필요로 합니다."
+
+#~ msgid "Multibuy benefits don't require a value"
+#~ msgstr "다량구매 혜택은 값을 필요로 합니다."
+
+#~ msgid "Multibuy benefits don't require a 'max affected items' attribute"
+#~ msgstr "다량 구매 혜택은 최대 적용 아이템 수 속성이 필요하지 않습니다."
+
+#~ msgid "Percentage benefits require a product range"
+#~ msgstr "비율 혜택은 상품 세트를 필요로 합니다."
+
+#~ msgid "Percentage discount cannot be greater than 100"
+#~ msgstr "할인율은 100을 넘을 수 없습니다."
+
+#~ msgid "A discount value is required"
+#~ msgstr "할인 값이 필요합니다."
+
+#~ msgid ""
+#~ "No range should be selected as this benefit does not apply to products"
+#~ msgstr ""
+#~ "상품에 이 혜택이 적용되지 않으므로 어떤 세트도 설정되어 있지 않아야 합니"
+#~ "다."
+
+#~ msgid "Shipping discounts don't require a 'max affected items' attribute"
+#~ msgstr "배송 할인은 최대 적용 아이템 수 속성이 필요하지 않습니다."
+
+#~ msgid ""
+#~ "No range should be selected as the condition range will be used instead."
+#~ msgstr ""
+#~ "조건 세트가 대신하여 쓰이므로 아무 세트도 설정되어 있지 않아야 합니다."
+
+#~ msgid "Fixed discount benefits require a product range"
+#~ msgstr "고정 할인 혜택은 상품 범위를 필요로 합니다."
+
+#~ msgid "Fixed discount benefits require a value"
+#~ msgstr "고정 할인 혜택은 값을 필요로 합니다."
+
+#~ msgid "Depends on number of items in basket that are in condition range"
+#~ msgstr "조건 범위 내의 장바구니에 있는 아이템의 수에 달려있습니다."
+
+#~ msgid "Depends on value of items in basket that are in condition range"
+#~ msgstr "조건 범위 내의 장바구니에 있는 아이템의 값에 달려있습니다."
+
+#~ msgid ""
+#~ "Needs to contain a set number of DISTINCT items from the condition range"
+#~ msgstr ""
+#~ "장바구니에 위 세트에서 정해진 수 만큼의 서로 다른 종류의 제품이 포함되어 "
+#~ "있어야 합니다."
+
+#~ msgid "Conditions"
+#~ msgstr "조건"
+
+#~ msgid "Is public?"
+#~ msgstr "공개합니까?"
+
+#~ msgid "Public ranges have a customer-facing page"
+#~ msgstr "공개된 세트는 고객이 볼 수 있는 페이지입니다."
+
+#~ msgid "Includes all products?"
+#~ msgstr "모든 상품을 포함합니까?"
+
+#~ msgid "Included Products"
+#~ msgstr "포함된 상품"
+
+#~ msgid "Excluded Products"
+#~ msgstr "제외된 상품"
+
+#~ msgid "Included Categories"
+#~ msgstr "포함된 카테고리"
+
+#~ msgid "File Path"
+#~ msgstr "파일 경로"
+
+#~ msgid "Size"
+#~ msgstr "크기"
+
+#~ msgid "Uploaded By"
+#~ msgstr "올린이"
+
+#~ msgid "Date Uploaded"
+#~ msgstr "날짜가 업로드되었습니다."
+
+#~ msgid "Error Message"
+#~ msgstr "에러 메시지"
+
+#~ msgid "Date Processed"
+#~ msgstr "데이터가 처리되었습니다."
+
+#~ msgid "Number of New SKUs"
+#~ msgstr "새로 생성된 재고관리코드 개수"
+
+#~ msgid "Number of Unknown SKUs"
+#~ msgstr "알 수 없는 재고관리코드 개수"
+
+#~ msgid "Number of Duplicate SKUs"
+#~ msgstr "중복되는 재고관리코드 개수"
+
+#~ msgid "Range Product Uploaded File"
+#~ msgstr "파일이 업로드 된 세트 상품"
+
+#~ msgid "Range Product Uploaded Files"
+#~ msgstr "파일이 업로드 된 세트상품"
+
+#~ msgid "%(value)s%% discount on %(range)s"
+#~ msgstr "%(range)s에서 %(value)s%% 할인"
+
+#~ msgid "Percentage discount benefit"
+#~ msgstr "할인율 혜택"
+
+#~ msgid "Percentage discount benefits"
+#~ msgstr "할인율 혜택"
+
+#~ msgid "%(value)s discount on %(range)s"
+#~ msgstr "%(range)s에서 %(value)s 할인"
+
+#~ msgid "Absolute discount benefit"
+#~ msgstr "할인 혜택"
+
+#~ msgid "Absolute discount benefits"
+#~ msgstr "할인 혜택"
+
+#~ msgid "The products that meet the condition are sold for %(amount)s"
+#~ msgstr "조건을 만족시키는 상품을 %(amount)s에 판매합니다."
+
+#~ msgid "Fixed price benefit"
+#~ msgstr "고정가 혜택"
+
+#~ msgid "Fixed price benefits"
+#~ msgstr "고정가 혜택"
+
+#~ msgid "Cheapest product from %(range)s is free"
+#~ msgstr "%(range)s 에서 가장 저렴한 상품은 무료입니다."
+
+#~ msgid "Multibuy discount benefit"
+#~ msgstr "다량 구매 할인 혜택"
+
+#~ msgid "Multibuy discount benefits"
+#~ msgstr "다량 구매 할인 혜택"
+
+#~ msgid "%(amount)s off shipping cost"
+#~ msgstr "배송비 %(amount)s 할인"
+
+#~ msgid "Shipping absolute discount benefit"
+#~ msgstr "배송 할인 혜택"
+
+#~ msgid "Shipping absolute discount benefits"
+#~ msgstr "배송 할인 혜택"
+
+#~ msgid "Get shipping for %(amount)s"
+#~ msgstr "%(amount)s 으로 배송하기"
+
+#~ msgid "Fixed price shipping benefit"
+#~ msgstr "고정가 배송 혜택"
+
+#~ msgid "Fixed price shipping benefits"
+#~ msgstr "고정가 배송 혜택"
+
+#~ msgid "%(value)s%% off of shipping cost"
+#~ msgstr "배송비 %(value)s%% 할인"
+
+#~ msgid "Shipping percentage discount benefit"
+#~ msgstr "배송 할인율 혜택"
+
+#~ msgid "Shipping percentage discount benefits"
+#~ msgstr "배송 할인율 혜택"
+
+#~ msgid "Basket includes %(count)d item(s) from %(range)s"
+#~ msgstr "장바구니가 %(range)s에서 %(count)d 아이템을 포함합니다."
+
+#~ msgid "Count condition"
+#~ msgstr "수량 조건"
+
+#~ msgid "Count conditions"
+#~ msgstr "수량 조건"
+
+#~ msgid "Buy %(delta)d more product from %(range)s"
+#~ msgid_plural "Buy %(delta)d more products from %(range)s"
+#~ msgstr[0] "%(range)s 중 %(delta)d 개 상품을 더 구매하셔야합니다."
+
+#~ msgid "Basket includes %(count)d distinct item(s) from %(range)s"
+#~ msgstr "장바구니가 %(range)s에서 %(count)d 다른 아이템을 포함합니다."
+
+#~ msgid "Coverage Condition"
+#~ msgstr "적용 범위 조건"
+
+#~ msgid "Coverage Conditions"
+#~ msgstr "적용 범위 조건"
+
+#~ msgid "Basket includes %(amount)s from %(range)s"
+#~ msgstr "장바구니가 %(range)s에서 %(amount)s 포함합니다."
+
+#~ msgid "Value condition"
+#~ msgstr "값 조건"
+
+#~ msgid "Value conditions"
+#~ msgstr "값 조건"
+
+#~ msgid "Spend %(value)s more from %(range)s"
+#~ msgstr "%(range)s 에서 %(value)s 만큼 더 써야 합니다."
+
+#~ msgid "Offer"
+#~ msgstr "행사"
+
+#~ msgid "Total discount"
+#~ msgstr "총 할인액"
+
+#~ msgid "Offer performance"
+#~ msgstr "행사 진행"
+
+#~ msgid "Site"
+#~ msgstr "사이트"
+
+#~ msgid "Billing Address"
+#~ msgstr "청구지 주소"
+
+#~ msgid "Order total (inc. tax)"
+#~ msgstr "총 주문 (세금 포함)"
+
+#~ msgid "Order total (excl. tax)"
+#~ msgstr "총 주문 (세금 제외)"
+
+#~ msgid "Shipping charge (inc. tax)"
+#~ msgstr "배송비 (세금 포함)"
+
+#~ msgid "Shipping charge (excl. tax)"
+#~ msgstr "배송비 (세금 제외)"
+
+#~ msgid "Shipping Address"
+#~ msgstr "배송지 주소"
+
+#~ msgid "Shipping method"
+#~ msgstr "배송 방법"
+
+#~ msgid "Guest email address"
+#~ msgstr "고객 이메일 주소"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status for order %(number)s (current "
+#~ "status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s' 상태는 %(number)s 주문에 유효하지 않은 상태입니다. (현재 "
+#~ "상태: '%(status)s')"
+
+#~ msgid "In progress"
+#~ msgstr "진행중"
+
+#~ msgid "Note Type"
+#~ msgstr "기록 종류"
+
+#~ msgid "Message"
+#~ msgstr "메시지"
+
+#~ msgid "Order Note"
+#~ msgstr "주문 기록"
+
+#~ msgid "Order Notes"
+#~ msgstr "주문 기록"
+
+#~ msgid "Event Type"
+#~ msgstr "이벤트 종류"
+
+#~ msgid "Communication Event"
+#~ msgstr "커뮤니케이션 이벤트"
+
+#~ msgid "Communication Events"
+#~ msgstr "커뮤니케이션 이벤트"
+
+#~ msgid "'%(type)s' event for order #%(number)s"
+#~ msgstr "#%(number)s 주문에 대한 '%(type)s' 이벤트"
+
+#~ msgid "Partner name"
+#~ msgstr "파트너 이름"
+
+#~ msgid "Partner reference"
+#~ msgstr "파트너 번호"
+
+#~ msgid "This is the item number that the partner uses within their system"
+#~ msgstr "파트너가 파트너 시스템에서 사용한 아이템 번호입니다."
+
+#~ msgid "Partner Notes"
+#~ msgstr "파트너 기록"
+
+#~ msgid "Stock record"
+#~ msgstr "재고 기록"
+
+#~ msgid "Price (inc. tax)"
+#~ msgstr "가격 (세금 포함)"
+
+#~ msgid "Price (excl. tax)"
+#~ msgstr "가격 (세금 제외)"
+
+#~ msgid "Price before discounts (inc. tax)"
+#~ msgstr "할인 전 가격 (세금 포함)"
+
+#~ msgid "Price before discounts (excl. tax)"
+#~ msgstr "할인 전 가격 (세금 제외)"
+
+#~ msgid "Unit Cost Price"
+#~ msgstr "개당 원가"
+
+#~ msgid "Unit Price (inc. tax)"
+#~ msgstr "개당 가격 (세금 포함)"
+
+#~ msgid "Unit Price (excl. tax)"
+#~ msgstr "개당 가격 (세금 제외)"
+
+#~ msgid "Unit Retail Price"
+#~ msgstr "개당 소매가"
+
+#~ msgid "Estimated Dispatch Date"
+#~ msgstr "예상 발송일"
+
+#~ msgid "Order Line"
+#~ msgstr "주문 항목"
+
+#~ msgid "<missing product>"
+#~ msgstr "<제거된 상품>"
+
+#~ msgid "Product '%(name)s', quantity '%(qty)s'"
+#~ msgstr "상품 '%(name)s', 수량 '%(qty)s'"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status (current status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s' 은/는 유효하지 않은 상태입니다.(현재 상태 : '%(status)s')"
+
+#~ msgid "'%(title)s' is no longer available"
+#~ msgstr "'%(title)s'은(는) 더 이상 이용할 수 없습니다."
+
+#~ msgid "Line Attribute"
+#~ msgstr "항목 속성"
+
+#~ msgid "Line Attributes"
+#~ msgstr "항목 속성"
+
+#~ msgid "Shiping (inc. tax)"
+#~ msgstr "배송 (세금 포함)"
+
+#~ msgid "Shipping (excl. tax)"
+#~ msgstr "배송 (세금 제외)"
+
+#~ msgid "Line Price"
+#~ msgstr "항목 가격"
+
+#~ msgid "Line Prices"
+#~ msgstr "항목 가격"
+
+#~ msgid "Line '%(number)s' (quantity %(qty)d) price %(price)s"
+#~ msgstr "항목 '%(number)s' (수량 %(qty)d) 가격 %(price)s"
+
+#~ msgid "Payment Event Type"
+#~ msgstr "결제 이벤트 종류"
+
+#~ msgid "Payment Event Types"
+#~ msgstr "결제 이벤트 종류"
+
+#~ msgid "Amount"
+#~ msgstr "수량"
+
+#~ msgid "Reference"
+#~ msgstr "참조 번호"
+
+#~ msgid "Lines"
+#~ msgstr "항목"
+
+#~ msgid "Payment Event"
+#~ msgstr "결제 이벤트"
+
+#~ msgid "Payment Events"
+#~ msgstr "결제 이벤트"
+
+#~ msgid "Payment event for order %s"
+#~ msgstr "주문 %s에 대한 결제 이벤트"
+
+#~ msgid "Event"
+#~ msgstr "이벤트"
+
+#~ msgid "Payment Event Quantity"
+#~ msgstr "결제 이벤트 수량"
+
+#~ msgid "Payment Event Quantities"
+#~ msgstr "결제 이벤트 수량"
+
+#~ msgid "Event notes"
+#~ msgstr "이벤트 기록"
+
+#~ msgid "Shipping Event"
+#~ msgstr "배송 이벤트"
+
+#~ msgid "Shipping Events"
+#~ msgstr "배송 이벤트"
+
+#~ msgid "Order #%(number)s, type %(type)s"
+#~ msgstr "주문 #%(number)s, 종류 %(type)s"
+
+#~ msgid "Shipping Event Quantity"
+#~ msgstr "배송 이벤트 수량"
+
+#~ msgid "Shipping Event Quantities"
+#~ msgstr "배송 이벤트 수량"
+
+#~ msgid "%(product)s - quantity %(qty)d"
+#~ msgstr "%(product)s - 수량 %(qty)d"
+
+#~ msgid "Shipping Event Type"
+#~ msgstr "배송 이벤트 종류"
+
+#~ msgid "Shipping Event Types"
+#~ msgstr "배송 이벤트 종류"
+
+#~ msgid "Discount category"
+#~ msgstr "할인 카테고리"
+
+#~ msgid "Offer ID"
+#~ msgstr "행사 ID"
+
+#~ msgid "Voucher ID"
+#~ msgstr "쿠폰 ID"
+
+#~ msgid "Frequency"
+#~ msgstr "빈도"
+
+#~ msgid "Order Discount"
+#~ msgstr "주문 할인"
+
+#~ msgid "Order Discounts"
+#~ msgstr "주문 할인"
+
+#~ msgid "Discount of %(amount)r from order %(order)s"
+#~ msgstr "%(order)s 에서 %(amount)r 원 만큼 할인합니다."
+
+#~ msgid "The selected quantity for line #%(line_id)s is too large"
+#~ msgstr "#%(line_id)s 항목에 대해 선택된 양이 너무 큽니다."
+
+#~ msgid "Total incl. tax"
+#~ msgstr "세금 총합"
+
+#~ msgid "Date placed"
+#~ msgstr "주문일"
+
+#~ msgid "Orders placed"
+#~ msgstr "주문된 주문"
+
+#~ msgid "Empty baskets cannot be submitted"
+#~ msgstr "빈 장바구니는 등록할 수 없습니다."
+
+#~ msgid "There is already an order with number %s"
+#~ msgstr "이미 %s 주문번호가 존재합니다."
+
+#~ msgid "Fulfillment partner"
+#~ msgstr "재고관리 파트너"
+
+#~ msgid "Fulfillment partners"
+#~ msgstr "재고관리 파트너"
+
+#~ msgid "Price (retail)"
+#~ msgstr "가격 (소매가)"
+
+#~ msgid "Cost Price"
+#~ msgstr "원가"
+
+#~ msgid "Number in stock"
+#~ msgstr "재고량"
+
+#~ msgid "Number allocated"
+#~ msgstr "할당된 번호"
+
+#~ msgid "Low Stock Threshold"
+#~ msgstr "재고 부족 한계치"
+
+#~ msgid "Invalid stock consumption request"
+#~ msgstr "유효하지 않은 재고 소비 요청"
+
+#~ msgid "Stock Record"
+#~ msgstr "재고 기록"
+
+#~ msgid "Threshold"
+#~ msgstr "한계치"
+
+#~ msgid "Open"
+#~ msgstr "열기"
+
+#~ msgid "Date Closed"
+#~ msgstr "종료된 날짜"
+
+#~ msgid "<stockalert for \"%(stock)s\" status %(status)s>"
+#~ msgstr "<\"%(stock)s\"에 대한 재고 알림 상태 %(status)s>"
+
+#~ msgid "Stock alert"
+#~ msgstr "재고 알림"
+
+#~ msgid "Stock alerts"
+#~ msgstr "재고 알림"
+
+#~ msgid "unavailable"
+#~ msgstr "이용 불가"
+
+#~ msgid "Unavailable"
+#~ msgstr "이용 불가"
+
+#~ msgid "Available"
+#~ msgstr "이용 가능"
+
+#~ msgid "no stock available"
+#~ msgstr "재고 없음"
+
+#~ msgid "a maximum of %(max)d can be bought"
+#~ msgstr "최대 %(max)d개 구매가능합니다."
+
+#~ msgid "In stock"
+#~ msgstr "재고"
+
+#~ msgid "In stock (%d available)"
+#~ msgstr "재고있음( %d 개 )"
+
+#~ msgid "No file path supplied"
+#~ msgstr "파일 경로를 찾을 수 없습니다."
+
+#~ msgid "%s does not exist"
+#~ msgstr "%s 존재하지 않습니다."
+
+#~ msgid "%s is not a file"
+#~ msgstr "%s 파일이 아닙니다."
+
+#~ msgid "%s is not readable"
+#~ msgstr "%s 읽을 수 없습니다."
+
+#~ msgid "Source"
+#~ msgstr "소스"
+
+#~ msgid "%(type)s of %(amount).2f"
+#~ msgstr "%(type)s 유형 %(amount).2f개"
+
+#~ msgid "Transaction"
+#~ msgstr "트랜잭션"
+
+#~ msgid "Transactions"
+#~ msgstr "트랜잭션"
+
+#~ msgid "Source Type"
+#~ msgstr "소스 종류"
+
+#~ msgid "Amount Allocated"
+#~ msgstr "할당된 총계"
+
+#~ msgid "Amount Debited"
+#~ msgstr "ls"
+
+#~ msgid "Amount Refunded"
+#~ msgstr "환불 총액"
+
+#~ msgid "Label"
+#~ msgstr "라벨"
+
+#~ msgid "Sources"
+#~ msgstr "소스"
+
+#~ msgid "Allocation of %(amount)s from type %(type)s"
+#~ msgstr "소스 %(type)s에 따른 %(amount)s 할당"
+
+#~ msgid " (reference: %s)"
+#~ msgstr "(참조 번호 : %s)"
+
+#~ msgid "This is used within forms to identify this source type"
+#~ msgstr "이것은 양식안에서 이 소스 유형을 식별하기 위해 사용됩니다."
+
+#~ msgid "Source Types"
+#~ msgstr "소스 종류"
+
+#~ msgid "Card Type"
+#~ msgstr "카드 종류"
+
+#~ msgid "Number"
+#~ msgstr "번호"
+
+#~ msgid "Expiry Date"
+#~ msgstr "소멸일"
+
+#~ msgid "Partner Reference"
+#~ msgstr "파트너정보"
+
+#~ msgid "%(card_type)s %(number)s (Expires: %(expiry)s)"
+#~ msgstr "%(card_type)s %(number)s (만기: %(expiry)s)"
+
+#~ msgid "Bankcard"
+#~ msgstr "은행카드"
+
+#~ msgid "Bankcards"
+#~ msgstr "은행카드들"
+
+#~ msgid "Payment"
+#~ msgstr "결제"
+
+#~ msgid "Card number"
+#~ msgstr "카드 번호"
+
+#~ msgid "Please enter a valid credit card number."
+#~ msgstr "올바른 신용 카드 번호를 입력하시기 바랍니다."
+
+#~ msgid "%s cards are not accepted."
+#~ msgstr "%s 카드는 사용할 수 없습니다."
+
+#~ msgid "Enter a valid month."
+#~ msgstr "올바른 월을 입력하시기 바랍니다."
+
+#~ msgid "Enter a valid year."
+#~ msgstr "올바른 년도를 입력하시기 바랍니다."
+
+#~ msgid "Valid to"
+#~ msgstr "~까지 유효"
+
+#~ msgid "The expiration date you entered is in the past."
+#~ msgstr "입력한 종료일이 과거 시점입니다."
+
+#~ msgid "Valid from"
+#~ msgstr "~부터 유효"
+
+#~ msgid "The starting date you entered is in the future."
+#~ msgstr "입력한 시작일이 미래 시점입니다."
+
+#~ msgid "CCV number"
+#~ msgstr "CVC번호"
+
+#~ msgid "Please enter a 3 or 4 digit number"
+#~ msgstr "3, 4 자리의 번호를 입력해주세요."
+
+#~ msgid ""
+#~ "This is the 3 or 4 digit security number on the back of your bankcard"
+#~ msgstr "카드 뒷면에 있는 3, 4자리의 보안 번호입니다."
+
+#~ msgid "American Express cards use a 4 digit security code"
+#~ msgstr "아메리칸 익스프레스 카드는 4자리의 보안 코드를 사용합니다."
+
+#~ msgid "Promotions"
+#~ msgstr "프로모션"
+
+#~ msgid "Display Order"
+#~ msgstr "출력 순서"
+
+#~ msgid "Clicks"
+#~ msgstr "클릭수"
+
+#~ msgid "Linked Promotion"
+#~ msgstr "연결된 프로모션"
+
+#~ msgid "Linked Promotions"
+#~ msgstr "연결된 프로모션들"
+
+#~ msgid "Page URL"
+#~ msgstr "페이지 URL"
+
+#~ msgid "Page Promotion"
+#~ msgstr "페이지 프로모션"
+
+#~ msgid "Page Promotions"
+#~ msgstr "페이지 프로모션들"
+
+#~ msgid "Filter"
+#~ msgstr "필터"
+
+#~ msgid "Keyword Promotion"
+#~ msgstr "키워드 프로모션"
+
+#~ msgid "Keyword Promotions"
+#~ msgstr "키워드 프로모션들"
+
+#~ msgid "Keywords"
+#~ msgstr "키워드들"
+
+#~ msgid "Promotion"
+#~ msgstr "프로모션"
+
+#~ msgid "Display type"
+#~ msgstr "출력 종류"
+
+#~ msgid ""
+#~ "This can be used to have different types of HTML blocks (eg different "
+#~ "widths)"
+#~ msgstr "이것은 서로 다른 타입의 HTML블록에 이용될 수 있습니다.(너비 등등)"
+
+#~ msgid "Raw HTML"
+#~ msgstr "Raw HTML"
+
+#~ msgid "Link URL"
+#~ msgstr "링크 URL"
+
+#~ msgid "This is where this promotion links to"
+#~ msgstr "이 행사 링크를 클릭하면 이곳으로 이동합니다."
+
+#~ msgid ""
+#~ "Choose the Image content blocks that this block will use. (You may need "
+#~ "to create some first)."
+#~ msgstr ""
+#~ "이 블럭이 사용할 이미지 컨텐츠 블럭을 선택하십시오.(처음 사용하실 경우 만"
+#~ "드셔야 합니다.)"
+
+#~ msgid "Multi Image"
+#~ msgstr "다중 이미지"
+
+#~ msgid "Multi Images"
+#~ msgstr "다중 이미지들"
+
+#~ msgid "Single product"
+#~ msgstr "단일 상품"
+
+#~ msgctxt "Promotion product list title"
+#~ msgid "Title"
+#~ msgstr "제목"
+
+#~ msgid "Link text"
+#~ msgstr "링크 텍스트"
+
+#~ msgid "Product list"
+#~ msgstr "상품 리스트"
+
+#~ msgid "Product lists"
+#~ msgstr "상품 리스트들"
+
+#~ msgid "Hand Picked Product List"
+#~ msgstr "직접 선택한 상품 리스트"
+
+#~ msgid "Hand Picked Product Lists"
+#~ msgstr "직접 선택한 상품 리스트들"
+
+#~ msgid "List"
+#~ msgstr "리스트"
+
+#~ msgid "Ordered product"
+#~ msgstr "주문한 상품"
+
+#~ msgid "Bestselling products"
+#~ msgstr "베스트 셀링 상품들"
+
+#~ msgid "Recently added products"
+#~ msgstr "최근 추가된 상품들"
+
+#~ msgid "Method"
+#~ msgstr "방법"
+
+#~ msgid "Number of Products"
+#~ msgstr "상품 개수"
+
+#~ msgid "Automatic product list"
+#~ msgstr "자동생성 상품 리스트"
+
+#~ msgid "Automatic product lists"
+#~ msgstr "자동생성 상품 리스트들"
+
+#~ msgid "Ordered Product List"
+#~ msgstr "주문된 상품 리스트"
+
+#~ msgid "Ordered Product Lists"
+#~ msgstr "주문된 상품 리스트들"
+
+#~ msgctxt "Tabbed block title"
+#~ msgid "Title"
+#~ msgstr "제목"
+
+#~ msgid "Search"
+#~ msgstr "검색"
+
+#~ msgid "Relevancy"
+#~ msgstr "연관성"
+
+#~ msgid "Customer rating"
+#~ msgstr "고객 평점"
+
+#~ msgid "Newest"
+#~ msgstr "최신의"
+
+#~ msgid "Price high to low"
+#~ msgstr "높은 가격 순"
+
+#~ msgid "Price low to high"
+#~ msgstr "낮은 가격 순"
+
+#~ msgid "Title A to Z"
+#~ msgstr "이름 순"
+
+#~ msgid "Title Z to A"
+#~ msgstr "이름 역순"
+
+#~ msgid "Shipping Method"
+#~ msgstr "배송 방법"
+
+#~ msgid "Shipping Methods"
+#~ msgstr "배송 방법"
+
+#~ msgid "Price per order"
+#~ msgstr "주문 당 가격"
+
+#~ msgid "Price per item"
+#~ msgstr "아이템 당 가격"
+
+#~ msgid "Free Shipping"
+#~ msgstr "무료 배송"
+
+#~ msgid "Order and Item Charge"
+#~ msgstr "주문과 아이템 요금"
+
+#~ msgid "Order and Item Charges"
+#~ msgstr "주문과 아이템 요금"
+
+#~ msgid "Default Weight"
+#~ msgstr "기본 무게"
+
+#~ msgid "Default product weight in kg when no weight attribute is defined"
+#~ msgstr ""
+#~ "상품의 무게 속성이 정의되지 않았을 때 기본 중량으로 지정되는 무게(Kg)입니"
+#~ "다."
+
+#~ msgid "Weight-based Shipping Method"
+#~ msgstr "무게 기반 배송 방법"
+
+#~ msgid "Weight-based Shipping Methods"
+#~ msgstr "무게 기반 배송 방법"
+
+#~ msgid "Upper Limit"
+#~ msgstr "최대 무게 제한"
+
+#~ msgid "Charge"
+#~ msgstr "요금"
+
+#~ msgid "Weight Band"
+#~ msgstr "기준 배송 무게"
+
+#~ msgid "Charge for weights up to %s kg"
+#~ msgstr "%s 킬로그램까지의 요금"
+
+#~ msgid "Shipping"
+#~ msgstr "배송"
+
+#~ msgid "Free shipping"
+#~ msgstr "무료 배송"
+
+#~ msgid "No shipping required"
+#~ msgstr "배송 필요 없음"
+
+#~ msgid "Fixed price shipping"
+#~ msgstr "고정가 배송"
+
+#~ msgid "You need to define some shipping methods"
+#~ msgstr "배송 방법을 정해야 합니다."
+
+#~ msgid ""
+#~ "This will be shown in the checkout and basket once the voucher is entered"
+#~ msgstr "쿠폰이 들어가면 장바구나와 결제화면에서 보이게 됩니다."
+
+#~ msgid "Case insensitive / No spaces allowed"
+#~ msgstr "대소문자 구분안함 / 공백불가"
+
+#~ msgid "Can be used once by one customer"
+#~ msgstr "한 고객이 한 번만 사용할 수 있습니다."
+
+#~ msgid "Can be used multiple times by multiple customers"
+#~ msgstr "여러 고객이 여러번 사용할 수 있습니다."
+
+#~ msgid "Can only be used once per customer"
+#~ msgstr "고객 당 한 번만 사용할 수 있습니다."
+
+#~ msgid "Times added to basket"
+#~ msgstr "장바구니에 추가된 시간"
+
+#~ msgid "Times on orders"
+#~ msgstr "주문 시간"
+
+#~ msgid "Voucher"
+#~ msgstr "쿠폰"
+
+#~ msgid "This voucher has already been used"
+#~ msgstr "이 쿠폰은 이미 사용되었습니다."
+
+#~ msgid "This voucher is only available to signed in users"
+#~ msgstr "이 쿠폰은 가입한 사용자만 사용가능합니다."
+
+#~ msgid "You have already used this voucher in a previous order"
+#~ msgstr "이 쿠폰은 이전 주문에서 이미 사용되었습니다."
+
+#~ msgid "Voucher Application"
+#~ msgstr "쿠폰 적용"
+
+#~ msgid "Voucher Applications"
+#~ msgstr "쿠폰 적용"
+
+#~ msgid "'%(voucher)s' used by '%(user)s'"
+#~ msgstr "'%(user)s' 유저가 '%(voucher)s' 쿠폰을 사용하였습니다."
+
+#~ msgid "Added to a basket"
+#~ msgstr "장바구니에 추가됨"
+
+#~ msgid "Used in an order"
+#~ msgstr "순서에서 사용됨"
+
+#~ msgid "Voucher performance"
+#~ msgstr "쿠폰 사용"
+
+#~ msgid "Default"
+#~ msgstr "기본"
+
+#~ msgid "Private - Only the owner can see the wish list"
+#~ msgstr "개인 - 본인만 위시 리스트를 볼 수 있습니다."
+
+#~ msgid ""
+#~ "Shared - Only the owner and people with access to the obfuscated link can "
+#~ "see the wish list"
+#~ msgstr ""
+#~ "공유 - 본인과 링크 주소에 접근할 수 있는 사람만 위시 리스트를 볼 수 있습니"
+#~ "다."
+
+#~ msgid "Public - Everybody can see the wish list"
+#~ msgstr "공개 - 모든 사람이 위시 리스트를 볼 수 있습니다."
+
+#~ msgid "Visibility"
+#~ msgstr "가시성"
+
+#~ msgid "Wish List"
+#~ msgstr "위시 리스트"
+
+#~ msgid "Wish list line"
+#~ msgstr "위시 리스트 항목"
+
+#~ msgid "Wishlists"
+#~ msgstr "위시 리스트"
+
+#~ msgid "The URL \"%s\" does not exist"
+#~ msgstr "\"%s\" URL이 존재하지 않습니다."
+
+#~ msgid "Specified page already exists!"
+#~ msgstr "지정된 페이지는 이미 존재합니다!"
+
+#~ msgid "This field is required"
+#~ msgstr "이 필드는 필수입니다."
+
+#~ msgid "This field is invalid as its value is forbidden"
+#~ msgstr "이 필드의 값이 사용금지상태이므로 이 필드는 유효하지 않습니다."
+
+#~ msgid "This is not a valid international phone format."
+#~ msgstr "국제적인 휴대폰 번호 규격에 맞지 않습니다."
+
+#~ msgid "This is not a valid local phone format for %s."
+#~ msgstr "%s에 대해 유효하지 않은 지역번호입니다."
+
+#~ msgid "This is not a valid local or international phone format."
+#~ msgstr "지역 혹은 국제 휴대폰 번호 규격에 맞지 않습니다."
+
+#~ msgid "Check for products that are back in stock and send out alerts"
+#~ msgstr "재입고 상품을 확인하고 알림을 전송합니다."
+
+#~ msgid "Permission denied!"
+#~ msgstr "권한 없음!"
+
+#~ msgid "We're sorry but you are not permitted to access this page."
+#~ msgstr "이 페이지에 접근하도록 허가되지 않았습니다."
+
+#~ msgid "Page not found"
+#~ msgstr "페이지를 찾을 수 없습니다."
+
+#~ msgid "Page not found!"
+#~ msgstr "페이지를 찾을 수 없습니다!"
+
+#~ msgid "We're sorry but the page you are looking for can't be found."
+#~ msgstr "당신이 찾고 있는 페이지를 찾을 수 없습니다. 죄송합니다."
+
+#~ msgid "Server error!"
+#~ msgstr "서버 에러!"
+
+#~ msgid ""
+#~ "We're sorry but something went terribly wrong and we've been unable to "
+#~ "generate the page you requested."
+#~ msgstr ""
+#~ "죄송하지만 치명적인 문제가 발생해서 요청하신 페이지를 생성할 수 없습니다."
+
+#~ msgid ""
+#~ "This incident has been logged and will be addressed by an engineer as "
+#~ "soon as possible."
+#~ msgstr "이 사고는 기록되었고 최대한 빨리 개발자가 해결할 것입니다."
+
+#~ msgid "Home"
+#~ msgstr "홈"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(title)s</strong> has been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong>이(가) 장바구니에 추가되었습니다."
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(quantity)s</strong> copies of <strong>%(title)s</strong>\n"
+#~ "    have been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> <strong>%(quantity)s</strong>개가 장바구니에 추"
+#~ "가되었습니다."
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been moved back to your basket.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong>이(가) 장바구니에서 제거되었습니다.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been saved for later\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong>은 나중에 구매하기 위해 저장되었습니다.\n"
+
+#~ msgid "Your basket is now empty"
+#~ msgstr "장바구니가 비었습니다."
+
+#~ msgid ""
+#~ "\n"
+#~ "            Your basket total is now <strong>%(total)s</strong>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "총 장바구니 수는 <strong>%(total)s</strong>입니다."
+
+#~ msgid "View basket"
+#~ msgstr "장바구니"
+
+#~ msgid "Checkout now"
+#~ msgstr "지금 결제하기"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket now qualifies for the \n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "장바구니가 <strong>%(name)s</strong>에 대한\n"
+#~ "권한을 부여받았습니다.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket no longer qualifies for the\n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "장바구니의 <strong>%(name)s</strong>에 대한\n"
+#~ "권한이 종료되었습니다.\n"
+
+#~ msgid "Important messages about items in your basket"
+#~ msgstr "장바구니 아이템에 대한 중요한 메시지"
+
+#~ msgid "You could be missing out on offers!"
+#~ msgstr "할인 행사가 진행중입니다. 놓치지마세요!"
+
+#~ msgid "Items to buy now"
+#~ msgstr "현재 구매 상품"
+
+#~ msgid "Price"
+#~ msgstr "가격"
+
+#~ msgid "Total"
+#~ msgstr "총"
+
+#~ msgid "Updating..."
+#~ msgstr "업데이트 중..."
+
+#~ msgid "Update"
+#~ msgstr "업데이트"
+
+#~ msgid "Remove"
+#~ msgstr "제거"
+
+#~ msgid "Save for later"
+#~ msgstr "저장"
+
+#~ msgid "Voucher/promo code"
+#~ msgstr "쿠폰/프로모션 코드"
+
+#~ msgid "I have a voucher code..."
+#~ msgstr "쿠폰 코드가 있습니다."
+
+#~ msgid "Adding..."
+#~ msgstr "추가 중..."
+
+#~ msgid "Add voucher"
+#~ msgstr "쿠폰 추가"
+
+#~ msgid "or"
+#~ msgstr "또는"
+
+#~ msgid "cancel"
+#~ msgstr "취소"
+
+#~ msgid "Totals"
+#~ msgstr "총"
+
+#~ msgid "Proceed to checkout"
+#~ msgstr "결제 진행하기"
+
+#~ msgid "Your basket is empty."
+#~ msgstr "장바구니가 비었습니다."
+
+#~ msgid "Continue shopping"
+#~ msgstr "쇼핑 계속하기"
+
+#~ msgid "Items to buy later"
+#~ msgstr "찜한 상품"
+
+#~ msgid "Items"
+#~ msgstr "아이템"
+
+#~ msgid "Move to basket"
+#~ msgstr "장바구니로 옮기기"
+
+#~ msgid "Qty"
+#~ msgstr "수량"
+
+#~ msgid "Total:"
+#~ msgstr "총:"
+
+#~ msgid "Basket total (before discounts)"
+#~ msgstr "장바구니 총합 (할인 미적용 가격)"
+
+#~ msgid "Discount"
+#~ msgstr "할인"
+
+#~ msgid "Basket total (after discounts)"
+#~ msgstr "장바구니 총합 (할인 적용 가격)"
+
+#~ msgid "Basket total"
+#~ msgstr "장바구니 총합"
+
+#~ msgid "Alternative shipping methods can be chosen during checkout"
+#~ msgstr "결제 중에 다른 배송 방법을 선택할 수 있습니다."
+
+#~ msgid "Shipping total (before discounts)"
+#~ msgstr "배송 총합 (할인 미적용 가격)"
+
+#~ msgid "Shipping total (after discounts)"
+#~ msgstr "배송 총합 (할인 적용 가격)"
+
+#~ msgid "Tax"
+#~ msgstr "세금"
+
+#~ msgid "These will be applied once your order is placed."
+#~ msgstr "주문이 완료되면 적용될 것입니다."
+
+#~ msgid "Taxes will be added during checkout."
+#~ msgstr "계산 중에 세금이 추가될 것입니다."
+
+#~ msgid "Show results for"
+#~ msgstr "결과를 보여줍니다"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> 상품 - <strong>"
+#~ "%(start)s</strong> 부터 <strong>%(end)s</strong> 까지.\n"
+#~ "                "
+
+#~ msgid "<strong>0</strong> results."
+#~ msgstr "<strong>0</strong> 결과."
+
+#~ msgid "No products found."
+#~ msgstr "상품을 찾을 수 없습니다."
+
+#~ msgid "Edit this product"
+#~ msgstr "이 상품 수정"
+
+#~ msgid "Product Description"
+#~ msgstr "상품 설명"
+
+#~ msgid "Product Information"
+#~ msgstr "상품 정보"
+
+#~ msgid "Product Type"
+#~ msgstr "상품 종류"
+
+#~ msgid "Price (incl. tax)"
+#~ msgstr "가격 (세금포함)"
+
+#~ msgid "Availability"
+#~ msgstr "이용 가능"
+
+#~ msgid "Number of reviews"
+#~ msgstr "상품평 수"
+
+#~ msgid "See all reviews"
+#~ msgstr "전체 후기 보기"
+
+#~ msgid "Customer Reviews"
+#~ msgstr "고객 후기"
+
+#~ msgid ""
+#~ "This product does not have any reviews yet -\n"
+#~ "                            <a href=\"%(add_review_url)s#addreview\">be "
+#~ "the first to write one</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "아직 상품평이 없습니다. -\n"
+#~ "<a href=\"%(add_review_url)s#addreview\">첫 상품평 쓰기</a>"
+
+#~ msgid "This product does not have any reviews yet"
+#~ msgstr "아직 이 상품에 대한 리뷰가 없습니다."
+
+#~ msgid "Recommended items"
+#~ msgstr "추천 아이템"
+
+#~ msgid "Add to basket"
+#~ msgstr "장바구니 담기"
+
+#~ msgid "You have an active stock alert for this product."
+#~ msgstr "이 상품에 대한 활성화 된 재고 알림이 있습니다."
+
+#~ msgid "You can get an email alert when this product is back in stock."
+#~ msgstr "이 상품이 재입고되면 이메일 알림을 받을 수 있습니다."
+
+#~ msgid "Notify me"
+#~ msgstr "나에게 알리기"
+
+#~ msgid "Add to wish list"
+#~ msgstr "위시 리스트에 추가"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                            Add to '%(name)s' wish list\n"
+#~ "                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "'%(name)s'를 위시리스트에 추가"
+
+#~ msgid "Create a new wishlist"
+#~ msgstr "새로운 위시 리스트 만들기"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <span class=\"pull-left\">Product is in <a href="
+#~ "\"%(url)s\">'%(name)s'</a> wishlist.</span>\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "<span class=\"pull-left\"> 상품은 <a href=\"%(url)s\">'%(name)s'</a> 위시"
+#~ "리스트에 포함되어 있습니다.</span>"
+
+#~ msgid "Removing..."
+#~ msgstr "삭제중..."
+
+#~ msgid "Please login to add products to a wish list."
+#~ msgstr "상품을 위시리스트에 추가하려면 로그인해주세요."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Reviewed by you on %(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "%(review_date)s에 고객님이 작성한 리뷰입니다."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Reviewed by <strong>%(name)s</strong> on "
+#~ "%(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "%(review_date)s에 <strong>%(name)s</strong>님이 작성한 리뷰입니다."
+
+#~ msgid "Is this review helpful?"
+#~ msgstr "이 리뷰가 도움이 되었습니까?"
+
+#~ msgid "Yes"
+#~ msgstr "네"
+
+#~ msgid "No"
+#~ msgstr "아니오"
+
+#~ msgid "This review has no votes."
+#~ msgstr "이 후기는 투표를 받지 않았습니다."
+
+#~ msgid "Free"
+#~ msgstr "무료"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer review\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer reviews\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "%(num_reviews)s개의 고객 상품평"
+
+#~ msgid "Write a review"
+#~ msgstr "리뷰 작성"
+
+#~ msgid "Customer reviews"
+#~ msgstr "고객 후기"
+
+#~ msgid "Leave a product review"
+#~ msgstr "상품평 남기기"
+
+#~ msgid "Saving..."
+#~ msgstr "저장중..."
+
+#~ msgid "Save review"
+#~ msgstr "후기 저장"
+
+#~ msgid "This product does not have any reviews yet."
+#~ msgstr "아직 이 상품에 대한 리뷰가 없습니다."
+
+#~ msgid "Change"
+#~ msgstr "변경"
+
+#~ msgid "Contact"
+#~ msgstr "연락"
+
+#~ msgid "Phone"
+#~ msgstr "휴대폰"
+
+#~ msgid "Payment details to go here"
+#~ msgstr "결제 상세 페이지로 가려면 여기를 누르세요"
+
+#~ msgid "Edit order contents"
+#~ msgstr "주문 내용 수정"
+
+#~ msgid "Order contents"
+#~ msgstr "주문 내용"
+
+#~ msgid "Item"
+#~ msgstr "아이템"
+
+#~ msgid "Checkout gateway"
+#~ msgstr "체크아웃 게이트웨이"
+
+#~ msgid "Who are you?"
+#~ msgstr "당신은 누구 입니까?"
+
+#~ msgid "Get a password reminder"
+#~ msgstr "주기적 비밀번호 변경 알림 받기"
+
+#~ msgid "Continuing..."
+#~ msgstr "진행중..."
+
+#~ msgid "Continue"
+#~ msgstr "계속"
+
+#~ msgid "1. Shipping address"
+#~ msgstr "1. 배송 주소"
+
+#~ msgid "2. Shipping method"
+#~ msgstr "2. 배송 방법"
+
+#~ msgid "3. Payment"
+#~ msgstr "3. 결제"
+
+#~ msgid "4. Preview"
+#~ msgstr "4. 프리뷰"
+
+#~ msgid "5. Confirmation"
+#~ msgstr "5. 확인"
+
+#~ msgid "Payment details"
+#~ msgstr "결제 상세"
+
+#~ msgid "Enter payment details"
+#~ msgstr "결제 상세 입력"
+
+#~ msgid ""
+#~ "This page needs implementing within your project.  You may want to use "
+#~ "one of Oscar's payment gateway libraries:"
+#~ msgstr ""
+#~ "이 페이지는 당신의 프로젝트 안에 구현되어야 합니다. 당신은 Oscar 결제 게이"
+#~ "트웨이 라이브러리 중 하나를 이용할 수도 있습니다."
+
+#~ msgid "Order preview"
+#~ msgstr "주문 프리뷰"
+
+#~ msgid "Preview order"
+#~ msgstr "주문 미리보기"
+
+#~ msgid "Place order"
+#~ msgstr "주문하기"
+
+#~ msgid "Where should we ship to?"
+#~ msgstr "어디로 배송해야 하나요?"
+
+#~ msgid "An address from your address book?"
+#~ msgstr "주소록에 있는 주소를 사용하시겠습니까?"
+
+#~ msgid "Ship to your default shipping address"
+#~ msgstr "기본 배송 주소로 배송"
+
+#~ msgid "Ship to this address"
+#~ msgstr "이 주소로 배송하기"
+
+#~ msgid "Delete"
+#~ msgstr "삭제"
+
+#~ msgid "Or a new address?"
+#~ msgstr "또는 새로운 주소?"
+
+#~ msgid "return to basket"
+#~ msgstr "장바구니로 돌아가기"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                This includes a discount of <strong>"
+#~ "%(amount)s</strong> as\n"
+#~ "                                your basket qualifies for the <strong>"
+#~ "%(name)s</strong> offer.\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "장바구니에 <strong>%(name)s</strong>행사가 적용되어, 이 주문에 <strong>"
+#~ "%(amount)s</strong>  할인이 포함욉니다."
+
+#~ msgid "Select option"
+#~ msgstr "선택 옵션"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s: confirmation\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "주문 %(number)s: 확인"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Your order has been placed and a confirmation email has been sent "
+#~ "- your order number is\n"
+#~ "        <strong>%(number)s</strong>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "주문이 완료되었고 확인 이메일을 전송했습니다. 주문번호는 \n"
+#~ "<strong>%(number)s</strong>입니다."
+
+#~ msgid ""
+#~ "Please make a note of this reference or print this page and quote it in "
+#~ "any communication with us regarding your order."
+#~ msgstr ""
+#~ "이 내용을 적어두거나 프린트하신 후 주문에 관한 연락이 필요할 때 사용하시"
+#~ "기 바랍니다."
+
+#~ msgid "No shipping address required."
+#~ msgstr "배송지 주소 필요없음."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s (reference: %(reference)s)\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "소스 %(type)s 에 따른 %(amount)s 할당 (참조 번호 : %(reference)s)"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "소스 %(type)s에 따른 %(amount)s 할당"
+
+#~ msgid "No payment was required for this order."
+#~ msgstr "이 주문에는 결제가 필요하지 않습니다."
+
+#~ msgid "Items purchased"
+#~ msgstr "구매된 아이템"
+
+#~ msgid ""
+#~ "\n"
+#~ "                            Estimated dispatch: <strong>%(date)s</"
+#~ "strong>\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "발송 예정일: <strong>%(date)s</strong>"
+
+#~ msgid "Shipping charge (before discounts)"
+#~ msgstr "배송 요금 (할인 미적용 가격)"
+
+#~ msgid "Shipping charge (after discounts)"
+#~ msgstr "배송 요금 (할인 적용 가격)"
+
+#~ msgid "Shipping charge"
+#~ msgstr "배송비"
+
+#~ msgid "Order tax"
+#~ msgstr "주문 세금"
+
+#~ msgid "Tracking your order"
+#~ msgstr "주문 따라가기"
+
+#~ msgid "You can track the status of your order"
+#~ msgstr "주문 상태를 확인할 수 있습니다."
+
+#~ msgid "View order status"
+#~ msgstr "주문 상태 보기"
+
+#~ msgid "Print this page"
+#~ msgstr "이 페이지 출력하기"
+
+#~ msgid "Are you sure you want to delete this address?"
+#~ msgstr "이 주소를 삭제하시겠습니까?"
+
+#~ msgid "Yes!"
+#~ msgstr "네!"
+
+#~ msgid "Save"
+#~ msgstr "저장"
+
+#~ msgid "Address book"
+#~ msgstr "주소록"
+
+#~ msgid "Deleting..."
+#~ msgstr "삭제중..."
+
+#~ msgid "Default shipping address"
+#~ msgstr "기본 배송 주소"
+
+#~ msgid "Default billing address"
+#~ msgstr "기본 영수증 발행 주소"
+
+#~ msgid "Edit"
+#~ msgstr "수정"
+
+#~ msgid "Set as default shipping address"
+#~ msgstr "기본 배송지 주소로 설정"
+
+#~ msgid "Set as default billing address"
+#~ msgstr "기본 청구지 주소로 설정"
+
+#~ msgid "There are no addresses in your address book."
+#~ msgstr "주소록에 주소가 존재하지 않습니다."
+
+#~ msgid "You do not have any active alerts for out-of-stock products."
+#~ msgstr "재고가 없는 상품에 대한 활성화 된 알림이 없습니다."
+
+#~ msgid "Cancel"
+#~ msgstr "취소"
+
+#~ msgid ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> is back in stock\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> 이 재입고 되었습니다.\n"
+
+#~ msgid "Order #%(number)s"
+#~ msgstr "주문 #%(number)s"
+
+#~ msgid "Contact number"
+#~ msgstr "연락처"
+
+#~ msgid "Notes"
+#~ msgstr "기록"
+
+#~ msgid "Estimated dispatch date"
+#~ msgstr "예상 발송일"
+
+#~ msgid "Line price excl. tax"
+#~ msgstr "항목 세금 제외 가격"
+
+#~ msgid "Line price incl. tax"
+#~ msgstr "항목 세금 포함 가격"
+
+#~ msgid "Basket total (inc. tax)"
+#~ msgstr "장바구니 총합 (세금 포함)"
+
+#~ msgid "Email history"
+#~ msgstr "이메일 기록"
+
+#~ msgid "Date sent"
+#~ msgstr "보낸 날짜"
+
+#~ msgid "No emails found"
+#~ msgstr "이메일을 찾을 수 없습니다."
+
+#~ msgid "Thanks for using our site!"
+#~ msgstr "우리 사이트를 이용해주셔서 감사합니다."
+
+#~ msgid "The %(name)s team"
+#~ msgstr "%(name)s팀"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately "
+#~ "and correct your email address:"
+#~ msgstr ""
+#~ "만약 고객님이 비밀번호를 변경하지 않으셨다면, 지금 즉시 비밀번호를 변경하"
+#~ "고 이메일 주소를 확인해주세요."
+
+#~ msgid ""
+#~ "If it was you who changed the email address, you can ignore this email."
+#~ msgstr ""
+#~ "만약 귀하께서 이메일 주소를 변경하셨다면, 이 이메일은 무시하셔도 됩니다."
+
+#~ msgid ""
+#~ "You're receiving this email because your email address has been changed "
+#~ "to %(email)s."
+#~ msgstr "이메일 주소가 %(email)s로 변경되어 메일을 발신했습니다."
+
+#~ msgid "Your email address has changed at %(site_name)s."
+#~ msgstr "이메일 주소가 %(site_name)s에서 변경되었습니다."
+
+#~ msgid "Hello,"
+#~ msgstr "안녕하세요,"
+
+#~ msgid "Your order contains:"
+#~ msgstr "주문 내용:"
+
+#~ msgid "Basket total:"
+#~ msgstr "장바구니 전체"
+
+#~ msgid "Shipping:"
+#~ msgstr "배송지"
+
+#~ msgid "Order Total:"
+#~ msgstr "총 주문:"
+
+#~ msgid "Shipping address:"
+#~ msgstr "배송 주소\""
+
+#~ msgid ""
+#~ "You can view the status of this order by clicking <a href=\"%(status_url)s"
+#~ "\" title=\"order status\">here</a>"
+#~ msgstr ""
+#~ "<a href=\"%(status_url)s\" title=\"order status\">여기</a>에서 주문 상태"
+#~ "를 확인할 수 있습니다."
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "We are pleased to confirm your order %(order_number)s has been received "
+#~ "and\n"
+#~ "will be processed shortly."
+#~ msgstr ""
+#~ "안녕하세요,\n"
+#~ "\n"
+#~ "고객님의 주문 %(order_number)s가 접수되었음을 알려드립니다. \n"
+#~ "곧 처리될 것입니다."
+
+#~ msgid "quantity:"
+#~ msgstr "수량:"
+
+#~ msgid "price:"
+#~ msgstr "가격:"
+
+#~ msgid ""
+#~ "You can view the status of this order at the below URL:\n"
+#~ "%(status_url)s"
+#~ msgstr ""
+#~ "아래 URL에서 이 주문의 상태를 볼 수 있습니다.\n"
+#~ "%(status_url)s"
+
+#~ msgid "The team"
+#~ msgstr "팀"
+
+#~ msgid "Confirmation of order %(number)s"
+#~ msgstr "주문 %(number)s 확인"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately:"
+#~ msgstr ""
+#~ "만약 고객님이 비밀번호를 변경하지 않으셨다면, 지금 즉시 비밀번호를 변경해"
+#~ "주세요."
+
+#~ msgid "Otherwise, you can ignore this email."
+#~ msgstr "만약 그렇지 않으면, 이 이메일을 무시하시면 됩니다."
+
+#~ msgid ""
+#~ "\n"
+#~ "You're receiving this email because your password has been changed at "
+#~ "%(name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "비밀번호가 %(name)s 로 변경되었습니다.\n"
+
+#~ msgid "Your password changed at %(site_name)s."
+#~ msgstr "비밀번호가 %(site_name)s 에서 변경되었습니다."
+
+#~ msgid ""
+#~ "You're receiving this e-mail because you requested a password reset for "
+#~ "your user account at %(name)s."
+#~ msgstr "고객님의 계정 %(name)s 대한 비밀번호 재설정 메일을 발송하였습니다."
+
+#~ msgid "Please go to the following page and choose a new password:"
+#~ msgstr "이 페이지에서 새로운 비밀번호를 변경해주세요:"
+
+#~ msgid "Resetting your password at %(site_name)s."
+#~ msgstr "%(site_name)s 에서 비밀번호를 재설정 하십시오."
+
+#~ msgid "Dear %(name)s,"
+#~ msgstr "친애하는 %(name)s,"
+
+#~ msgid ""
+#~ "\n"
+#~ "Beware that the amount of items in stock is limited. Be quick or someone "
+#~ "might get there first.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "한정수량인 제품의 양에 주의하세요, 서두르지 않으면 다른 고객이 먼저 구매"
+#~ "할 수 있습니다.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "With this email we have disabled your alert automatically and you will "
+#~ "not\n"
+#~ "receive any further email regarding this product.\n"
+#~ "\n"
+#~ "Thanks for your interest,\n"
+#~ "The %(site_name)s Team\n"
+#~ msgstr ""
+#~ "\n"
+#~ "이 이메일을 통해 자동적으로 고객님의 알림을 비활성화 하고 고객님은 이 상품"
+#~ "에 대해 더 이상 메일을 받지 않을 것입니다.\n"
+#~ "\n"
+#~ "관심을 가져주셔서 감사합니다.\n"
+#~ "%(site_name)s팀\n"
+
+#~ msgid "Confirmation required for stock alert"
+#~ msgstr "재고 알림에 필요한 확인"
+
+#~ msgid "Thank you for registering."
+#~ msgstr "가입해주셔서 감사합니다."
+
+#~ msgid "Products you recently viewed"
+#~ msgstr "최근 본 상품"
+
+#~ msgid "Log In"
+#~ msgstr "로그인"
+
+#~ msgid "I've forgotten my password"
+#~ msgstr "비밀번호 찾기"
+
+#~ msgid "Logging in..."
+#~ msgstr "로그인 중..."
+
+#~ msgid "Register"
+#~ msgstr "가입하기"
+
+#~ msgid "Registering..."
+#~ msgstr "등록중..."
+
+#~ msgid "Notifications inbox"
+#~ msgstr "알림함"
+
+#~ msgid "Sender"
+#~ msgstr "보낸이"
+
+#~ msgid "Return to notifications inbox"
+#~ msgstr "알림함으로 돌아가기"
+
+#~ msgctxt "noun"
+#~ msgid "Archive"
+#~ msgstr "저장소"
+
+#~ msgid "View"
+#~ msgstr "뷰"
+
+#~ msgctxt "verb"
+#~ msgid "Archive"
+#~ msgstr "저장소"
+
+#~ msgid "With selected items:"
+#~ msgstr "선택된 상품들을"
+
+#~ msgid "Archiving..."
+#~ msgstr "저장소에 보관중..."
+
+#~ msgid "There are no notifications to display."
+#~ msgstr "표시할 알림이 없습니다."
+
+#~ msgid "Order history"
+#~ msgstr "주문 기록"
+
+#~ msgid "Dispatch date"
+#~ msgstr "발송일"
+
+#~ msgid "Re-ordering..."
+#~ msgstr "재정렬중..."
+
+#~ msgid "Re-order"
+#~ msgstr "재정렬"
+
+#~ msgid "Not available anymore"
+#~ msgstr "더 이상 이용할 수 없습니다."
+
+#~ msgid "Basket total (excl. discounts)"
+#~ msgstr "장바구니 총합 (할인 제외)"
+
+#~ msgid "Basket total (inc. discounts)"
+#~ msgstr "장바구니 총합 (할인 포함)"
+
+#~ msgid "Shipping total (excl. discounts)"
+#~ msgstr "배송 총합 (할인 제외)"
+
+#~ msgid "Shipping total (inc. discounts)"
+#~ msgstr "배송 총합 (할인 포함)"
+
+#~ msgid "Shipping total"
+#~ msgstr "배송 총합"
+
+#~ msgid "Re-order all items"
+#~ msgstr "모든 아이템 재정렬"
+
+#~ msgid "Contact Number"
+#~ msgstr "연락처"
+
+#~ msgid "Shipping Notes"
+#~ msgstr "배송 메모:"
+
+#~ msgid "Filtering..."
+#~ msgstr "필터링중..."
+
+#~ msgid "Filter results"
+#~ msgstr "정렬 결과"
+
+#~ msgid "Reset"
+#~ msgstr "초기화"
+
+#~ msgid "Total inc tax"
+#~ msgstr "세금 총합"
+
+#~ msgid "No orders match your search."
+#~ msgstr "검색 조건에 맞는 주문이 없습니다."
+
+#~ msgid "You haven't placed any orders."
+#~ msgstr "주문 내역이 없습니다."
+
+#~ msgid "Change password"
+#~ msgstr "비밀번호 변경"
+
+#~ msgid "Edit profile"
+#~ msgstr "프로필 수정"
+
+#~ msgid "Please confirm your password to delete your profile."
+#~ msgstr "프로필 삭제를 위해 비밀번호를 입력해주시기 바랍니다."
+
+#~ msgid "Warning"
+#~ msgstr "경고"
+
+#~ msgid ""
+#~ "\n"
+#~ "                This will delete all information about you from the "
+#~ "site.  Deleting your profile cannot be\n"
+#~ "                undone.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "이 사이트의 모든 정보가 삭제됩니다. 삭제된 프로필은 복구 할 수 없습니다."
+
+#~ msgid "Delete?"
+#~ msgstr "삭제하시겠습니까?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "%(name)s을(를) 삭제하시겠습니까?"
+
+#~ msgid "Remove product"
+#~ msgstr "상품 삭제"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(product_name)s from "
+#~ "wish list %(wishlist_name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "%(product_name)s 상품을 %(wishlist_name)s 위시리스트에서 제거하시겠습니까?"
+
+#~ msgid "Action"
+#~ msgstr "기능"
+
+#~ msgid "View product"
+#~ msgstr "상품 보기"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                            Move to "
+#~ "'%(name)s' wish list\n"
+#~ "                                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "'%(name)s' 위시리스트로 이동"
+
+#~ msgid "Update quantities"
+#~ msgstr "수량 업데이트"
+
+#~ msgid "Your wish list is empty."
+#~ msgstr "위시 리스트가 비었습니다."
+
+#~ msgid "Create"
+#~ msgstr "생성"
+
+#~ msgid "What should your new wish list be called?"
+#~ msgstr "어떤 위시리스트를 불러올까요?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    After your wishlist is created, <strong>%(title)s</"
+#~ "strong> will be added.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "위시리스트를 생성한 후, <strong>%(title)s</strong>이(가) 추가됩니다."
+
+#~ msgid "Number of products"
+#~ msgstr "상품 개수"
+
+#~ msgid "Wish list settings"
+#~ msgstr "위시리스트 설정"
+
+#~ msgid "You don't have any wish lists yet."
+#~ msgstr "아직 위시 리스트가 없습니다."
+
+#~ msgid "Sections"
+#~ msgstr "섹션"
+
+#~ msgid "Delete category?"
+#~ msgstr "카테고리를 삭제하시겠습니까?"
+
+#~ msgid "Delete category"
+#~ msgstr "카테고리 삭제"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <p>Delete category <strong>%(name)s</strong> - are you sure?</"
+#~ "p>\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "<p><strong>%(name)s</strong> 카테고리를 삭제하시겠습니까?</p>"
+
+#~ msgid "Create new category"
+#~ msgstr "새 카테고리 생성"
+
+#~ msgid "You are editing:"
+#~ msgstr "수정중:"
+
+#~ msgid "There are no categories."
+#~ msgstr "카테고리가 존재하지 않습니다."
+
+#~ msgid "Edit category"
+#~ msgstr "카테고리 수정"
+
+#~ msgid "Add child category"
+#~ msgstr "하위 카테고리 추가하기"
+
+#~ msgid "Edit children"
+#~ msgstr "하위 카테고리 수정"
+
+#~ msgid "View on site"
+#~ msgstr "사이트에서 보기"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "'%(name)s' 상품이 생성되었습니다."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "부모상품 '%(parent_name)s'이 생성되었습니다."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "'%(name)s' 상품을 업데이트했습니다."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated a variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "부모상품 '%(parent_name)s'을 업데이트했습니다."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Created product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "'%(name)s' 상품이 생성되었습니다."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Updated product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ " '%(name)s' 상품을 업데이트했습니다."
+
+#~ msgid "Edit again"
+#~ msgstr "재 수정"
+
+#~ msgid "View it on the site"
+#~ msgstr "사이트에서 보기"
+
+#~ msgid "Delete product type?"
+#~ msgstr "상품 종류를 삭제하시겠습니까?"
+
+#~ msgid ""
+#~ "Please make sure all products are assigned to another type before "
+#~ "deletion."
+#~ msgstr ""
+#~ "상품 종류를 삭제하시기전에 모든 상품을 다른 상품 종류에 할당했는지 확인하"
+#~ "시기 바랍니다."
+
+#~ msgid "Delete product type"
+#~ msgstr "상품 종류 삭제"
+
+#~ msgid "Delete product type <strong>%(name)s</strong> - are you sure?"
+#~ msgstr "상품 종류, <strong>%(name)s</strong>를 삭제 하시겠습니까?"
+
+#~ msgid "Create product type"
+#~ msgstr "상품 종류 만들기"
+
+#~ msgid "Product Class details"
+#~ msgstr "상품 분류의 세부사항"
+
+#~ msgid "Create new product type"
+#~ msgstr "새 상품 종류 만들기"
+
+#~ msgid "Product types"
+#~ msgstr "상품 종류"
+
+#~ msgid "Requires shipping"
+#~ msgstr "배송 필요"
+
+#~ msgid "Track stock?"
+#~ msgstr "재고 체크?"
+
+#~ msgid "Edit product type"
+#~ msgstr "상품 종류 수정"
+
+#~ msgid "There are no product types."
+#~ msgstr "상품 종류가 존재하지 않습니다."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product variant <strong>%(title)s</strong> - "
+#~ "are you sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> 상품을 정말로 삭제하시겠습니까?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product <strong>%(title)s</strong> - are you "
+#~ "sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ " <strong>%(title)s</strong>상품을 정말로 삭제하시겠습니까?"
+
+#~ msgid "This will also delete the following child products:"
+#~ msgstr "이렇게 하면 다음의 세부 상품들도 삭제됩니다."
+
+#~ msgid "Create new product"
+#~ msgstr "새 상품 만들기"
+
+#~ msgid "New Product"
+#~ msgstr "새 상품"
+
+#~ msgid "Search Products"
+#~ msgstr "상품 검색"
+
+#~ msgid "Searching..."
+#~ msgstr "검색중..."
+
+#~ msgid ""
+#~ "\n"
+#~ "                            You are currently editing a product variant "
+#~ "of\n"
+#~ "                            <a href=\"%(parent_url)s\">%(title)s</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "현재 <a href=\"%(parent_url)s\">%(title)s</a>상품을 수정하고 있습니다."
+
+#~ msgid "Product details"
+#~ msgstr "상품 상세"
+
+#~ msgid "Images"
+#~ msgstr "이미지"
+
+#~ msgid "Stock and pricing"
+#~ msgstr "재고와 가격"
+
+#~ msgid "Product Type:"
+#~ msgstr "상품 종류:"
+
+#~ msgid "Upload, change or remove images"
+#~ msgstr "이미지 올리기, 변경하기, 혹은 제거하기"
+
+#~ msgid "SKU"
+#~ msgstr "제품 관리 번호"
+
+#~ msgid "Num in stock"
+#~ msgstr "재고량"
+
+#~ msgid "Num allocated"
+#~ msgstr "할당된 번호"
+
+#~ msgid "Low stock threshold"
+#~ msgstr "재고 부족 한계치"
+
+#~ msgid "Cost price"
+#~ msgstr "원가"
+
+#~ msgid "Price (excl tax)"
+#~ msgstr "세금 제외 가격"
+
+#~ msgid "Retail price"
+#~ msgstr "소매가"
+
+#~ msgid "This is likely because this product still has stock records."
+#~ msgstr "이 상품이 아직도 재고 기록이 있어서 그런 것 같습니다."
+
+#~ msgid "Save and add another variant"
+#~ msgstr "저장하고 또다른 변형을 추가"
+
+#~ msgid "Save and continue editing"
+#~ msgstr "저장하고 수정을 계속합니다."
+
+#~ msgid "All"
+#~ msgstr "모두"
+
+#~ msgid "Current available stock"
+#~ msgstr "현재 이용 가능 재고"
+
+#~ msgid "Date alert raised"
+#~ msgstr "알림일"
+
+#~ msgid "No stock alerts found."
+#~ msgstr "재고 알림를 찾을 수 없습니다."
+
+#~ msgid "Preview"
+#~ msgstr "프리뷰"
+
+#~ msgid "Edit email"
+#~ msgstr "이메일 수정"
+
+#~ msgid "Email content"
+#~ msgstr "이메일 내용"
+
+#~ msgid "These fields are rendered using Django's template system."
+#~ msgstr "이 필드는 Django의 템플릿 시스템을 이용하여 구현되었습니다."
+
+#~ msgid "You can use the following variables:"
+#~ msgstr "다음과 같은 변수를 사용할 수 있음:"
+
+#~ msgid "The full name of the user (if they have one)"
+#~ msgstr "(존재한다면) 사용자의 전체 이름"
+
+#~ msgid "The user's email address"
+#~ msgstr "사용자 이메일 주소"
+
+#~ msgid "The name of the site (eg example.com)"
+#~ msgstr "사이트 이름(ex. www.example.com)"
+
+#~ msgid "View preview"
+#~ msgstr "프리뷰 보기"
+
+#~ msgid "or send a preview to:"
+#~ msgstr "미리보기를 이메일로 다음으로 전송: "
+
+#~ msgid "Sending..."
+#~ msgstr "보내는중..."
+
+#~ msgid "Send preview email"
+#~ msgstr "프리뷰 메일 전송"
+
+#~ msgid "Body text"
+#~ msgstr "본문 텍스트"
+
+#~ msgid "There are no defined emails to edit."
+#~ msgstr "수정할 미리 정의된 이메일이 없습니다."
+
+#~ msgid "Your Store Statistics"
+#~ msgstr "상점 통계표"
+
+#~ msgid "Total Orders"
+#~ msgstr "총 주문량"
+
+#~ msgid "New Customers"
+#~ msgstr "신규 고객수"
+
+#~ msgid "Total Customers"
+#~ msgstr "총 고객수"
+
+#~ msgid "Total Products"
+#~ msgstr "총 상품들"
+
+#~ msgid "Latest Orders (last 24 hours)"
+#~ msgstr "최근 주문들(24시간 이내)"
+
+#~ msgid "Orders - Last 24 Hours"
+#~ msgstr "주문들 - 지난 24시간"
+
+#~ msgid "Total orders"
+#~ msgstr "총 주문량"
+
+#~ msgid "Total lines"
+#~ msgstr "총 항목"
+
+#~ msgid "Total revenue"
+#~ msgstr "총 수입"
+
+#~ msgid "Average order costs"
+#~ msgstr "평균 주문 가격"
+
+#~ msgid "Manage"
+#~ msgstr "관리"
+
+#~ msgid "Orders - All Time"
+#~ msgstr "주문들 - 모든 시간"
+
+#~ msgid "Total <em>open</em> baskets"
+#~ msgstr "전체 <em>열린</em> 장바구니"
+
+#~ msgid "Total customers"
+#~ msgstr "총 고객수"
+
+#~ msgid "New customers"
+#~ msgstr "신규 고객"
+
+#~ msgid "View Stock Alerts"
+#~ msgstr "재고 알림 보기"
+
+#~ msgid "Catalogue and stock"
+#~ msgstr "목록과 재고"
+
+#~ msgid "Total products"
+#~ msgstr "총 상품들"
+
+#~ msgid "<em>Open</em> stock alerts"
+#~ msgstr "<em>열기</em> 재고 알림"
+
+#~ msgid "<em>Closed</em> stock alerts"
+#~ msgstr "<em>닫기</em> 재고 알림"
+
+#~ msgid "Offers, vouchers and promotions"
+#~ msgstr "행사, 쿠폰, 그리고 프로모션"
+
+#~ msgid "Active <em>Site</em> Offers"
+#~ msgstr "활성화 <em>사이트</em> 행사"
+
+#~ msgid "Active <em>Vouchers</em>"
+#~ msgstr "활성화 쿠폰"
+
+#~ msgid "Welcome"
+#~ msgstr "환영합니다"
+
+#~ msgid "Return to site"
+#~ msgstr "사이트로 돌아가기"
+
+#~ msgid "Log out"
+#~ msgstr "로그아웃"
+
+#~ msgid "Build a new incentive"
+#~ msgstr "새 인센티브 만들기"
+
+#~ msgid "...or choose a pre-defined one"
+#~ msgstr "또는 미리 정의된 것"
+
+#~ msgid "Continue to step 3"
+#~ msgstr "3 단계로 이동"
+
+#~ msgid "Build a new condition"
+#~ msgstr "새 조건 만들기"
+
+#~ msgid "Continue to step 4"
+#~ msgstr "4 단계로 이동"
+
+#~ msgid "Continue to step 2"
+#~ msgstr "2 단계로 이동"
+
+#~ msgid "Delete offer"
+#~ msgstr "행사 삭제"
+
+#~ msgid "Are you sure you want to delete this offer?"
+#~ msgstr "이 행사을 삭제하시겠습니까?"
+
+#~ msgid "Reinstating..."
+#~ msgstr "복원중..."
+
+#~ msgid "Reinstate offer"
+#~ msgstr "행사 복원"
+
+#~ msgid "Suspend offer"
+#~ msgstr "행사 중지"
+
+#~ msgid "Offer currently available"
+#~ msgstr "현재 이용가능한 행사"
+
+#~ msgid "Offer not available due to restrictions!"
+#~ msgstr "제한 때문에 행사를 이용할 수 없습니다!"
+
+#~ msgid "Total cost:"
+#~ msgstr "총 지출:"
+
+#~ msgid "Number of orders:"
+#~ msgstr "주문량:"
+
+#~ msgid "Number of uses:"
+#~ msgstr "사용자수:"
+
+#~ msgid "Date created:"
+#~ msgstr "생성일:"
+
+#~ msgid "Offer details"
+#~ msgstr "행사 상세"
+
+#~ msgid "Export to CSV"
+#~ msgstr "CSV로 내보내기"
+
+#~ msgid "Orders that used this offer"
+#~ msgstr "이 행사를 이용한 주문"
+
+#~ msgid "Create new offer"
+#~ msgstr "새 행사 만들기"
+
+#~ msgid "Is available?"
+#~ msgstr "이용가능합니까?"
+
+#~ msgid "Uses"
+#~ msgstr "이용"
+
+#~ msgid "Browse"
+#~ msgstr "보기"
+
+#~ msgid "Stats"
+#~ msgstr "상태"
+
+#~ msgid "No offers found."
+#~ msgstr "행사를 찾을 수 없습니다."
+
+#~ msgid "Steps"
+#~ msgstr "단계"
+
+#~ msgid "1. Name and description"
+#~ msgstr "1. 이름과 설명"
+
+#~ msgid "2. Incentive"
+#~ msgstr "2. 인센티브"
+
+#~ msgid "3. Condition"
+#~ msgstr "3. 조건"
+
+#~ msgid "4. Restrictions"
+#~ msgstr "4. 제한사항"
+
+#~ msgid "Save this offer"
+#~ msgstr "행사 저장"
+
+#~ msgid "Fields marked with * are mandatory."
+#~ msgstr "* 항목은 필수입니다."
+
+#~ msgid "Save changes"
+#~ msgstr "변경사항 저장"
+
+#~ msgid "Offer summary"
+#~ msgstr "행사 개요"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s - Line #%(id)s\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "주문 %(number)s - 항목 #%(id)s"
+
+#~ msgid "Line #%(id)s"
+#~ msgstr "항목 #%(id)s"
+
+#~ msgid "Order #%(number)s - Line #%(id)s"
+#~ msgstr "주문 #%(number)s - 항목 #%(id)s"
+
+#~ msgid "Product Options"
+#~ msgstr "상품 옵션"
+
+#~ msgid "Partner details"
+#~ msgstr "파트너 상세"
+
+#~ msgid "Shipping details"
+#~ msgstr "배송 상세"
+
+#~ msgid "Partner reference number"
+#~ msgstr "파트너 참조 번호"
+
+#~ msgid "Partner notes"
+#~ msgstr "파트너 기록"
+
+#~ msgid "Estimate dispatch date"
+#~ msgstr "예상 발송일"
+
+#~ msgid "Shipping status"
+#~ msgstr "배송 상태"
+
+#~ msgid "State"
+#~ msgstr "상태"
+
+#~ msgid "No shipping events have occurred."
+#~ msgstr "발생한 배송 이벤트가 없습니다."
+
+#~ msgid "Shipping events"
+#~ msgstr "배송 이벤트"
+
+#~ msgid "Payment events"
+#~ msgstr "결제 이벤트"
+
+#~ msgid "No payment events have occurred."
+#~ msgstr "발생한 결제 이벤트가 없습니다"
+
+#~ msgid "Order %(number)s"
+#~ msgstr "주문 %(number)s"
+
+#~ msgid "Customer Information"
+#~ msgstr "고객 정보"
+
+#~ msgid "Customer checked out as a guest."
+#~ msgstr "고객이 비회원으로 구매하였습니다."
+
+#~ msgid "Customer has deleted their account."
+#~ msgstr "고객이 계정을 삭제했습니다."
+
+#~ msgid "Order information"
+#~ msgstr "주문 정보"
+
+#~ msgid "Order Total"
+#~ msgstr "총 주문"
+
+#~ msgid "Time of purchase"
+#~ msgstr "구매 시각"
+
+#~ msgid "Order Details"
+#~ msgstr "주문 상세"
+
+#~ msgid "Discounts"
+#~ msgstr "할인"
+
+#~ msgid "Items ordered"
+#~ msgstr "주문된 아이템"
+
+#~ msgid "Line ID"
+#~ msgstr "Line ID"
+
+#~ msgid "Supplier"
+#~ msgstr "공급자"
+
+#~ msgid "Supplier SKU"
+#~ msgstr "공급자 번호"
+
+#~ msgid "Est. dispatch date"
+#~ msgstr "예상 발송일"
+
+#~ msgid "Price excl tax (before discounts)"
+#~ msgstr "세금 제외 가격 (할인 미적용 가격)"
+
+#~ msgid "Price inc tax (before discounts)"
+#~ msgstr "세금 포함 가격 (할인 미적용 가격)"
+
+#~ msgid "With selected lines"
+#~ msgstr "선택된 항목들"
+
+#~ msgid "choose new status"
+#~ msgstr "새 상태 선택"
+
+#~ msgid "Create shipping event"
+#~ msgstr "배송 이벤트 만들기"
+
+#~ msgid "choose event type"
+#~ msgstr "이벤트 종류 선택"
+
+#~ msgid "with reference"
+#~ msgstr "참조번호로"
+
+#~ msgid "Create payment event"
+#~ msgstr "결제 이벤트 생성"
+
+#~ msgid "with amount"
+#~ msgstr "가격으로"
+
+#~ msgid "Go!"
+#~ msgstr "이동!"
+
+#~ msgid "Change order status"
+#~ msgstr "주문 상태 변경"
+
+#~ msgid "Change status"
+#~ msgstr "상태 변경"
+
+#~ msgid "This order can't have its status changed."
+#~ msgstr "해당 주문은 상태를 변경 할 수 없습니다."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                                %(title)s "
+#~ "(quantity %(event_qty)s/%(total_qty)s)\n"
+#~ "                                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "%(title)s (수량 %(event_qty)s/%(total_qty)s)"
+
+#~ msgid "No shipping events."
+#~ msgstr "배송 이벤트가 없습니다."
+
+#~ msgid "Product:"
+#~ msgstr "상품:"
+
+#~ msgid "quantity"
+#~ msgstr "수량"
+
+#~ msgid "No payment events."
+#~ msgstr "결제 이벤트가 없습니다."
+
+#~ msgid "Method name"
+#~ msgstr "방법 이름"
+
+#~ msgid "Method code"
+#~ msgstr "방법 코드"
+
+#~ msgid "Charge (incl tax)"
+#~ msgstr "요금 (세금 포함)"
+
+#~ msgid "Charge (excl tax)"
+#~ msgstr "요금 (세금 제외)"
+
+#~ msgid "Payment sources"
+#~ msgstr "결제 수단"
+
+#~ msgid "Allocation"
+#~ msgstr "할당"
+
+#~ msgid "Amount debited"
+#~ msgstr "인출 총액"
+
+#~ msgid "Amount refunded"
+#~ msgstr "환불 총액"
+
+#~ msgid "No payment sources found for this order."
+#~ msgstr "이 주문에 대한 결제 수단을 찾을 수 없습니다."
+
+#~ msgid "No discounts were applied to this order."
+#~ msgstr "이 주문에는 할인을 적용할 수 없습니다."
+
+#~ msgid "Admin"
+#~ msgstr "관리자"
+
+#~ msgid "No notes available."
+#~ msgstr "기록을 찾을 수 없습니다."
+
+#~ msgid "Save note"
+#~ msgstr "기록 저장"
+
+#~ msgid "Notes are only editable for 5 minutes after being saved."
+#~ msgstr "기록은 저장한 후 5분간만 수정할 수 있습니다."
+
+#~ msgid "Advanced Search"
+#~ msgstr "고급 검색"
+
+#~ msgid "Close"
+#~ msgstr "닫기"
+
+#~ msgid "Order Search Results"
+#~ msgstr "주문 검색 결과"
+
+#~ msgid "All Orders"
+#~ msgstr "모든 주문"
+
+#~ msgid "Download selected orders as a CSV"
+#~ msgstr "선택한 주문을 CSV로 내보내기"
+
+#~ msgid "Deleted"
+#~ msgstr "삭제됨"
+
+#~ msgid "Changing..."
+#~ msgstr "변경 중..."
+
+#~ msgid "No orders found."
+#~ msgstr "주문을 찾을 수 없습니다."
+
+#~ msgid "Print Packaging Slips"
+#~ msgstr "포장명세서 인쇄하기"
+
+#~ msgid "Mark as"
+#~ msgstr "표시"
+
+#~ msgid "Change order status to"
+#~ msgstr "주문 상태 변경"
+
+#~ msgid "Done"
+#~ msgstr "완료"
+
+#~ msgid "Edit shipping address"
+#~ msgstr "배송 주소 수정"
+
+#~ msgid "Edit shipping address for order %(order.number)s"
+#~ msgstr "%(order.number)s 주문의 배송 주소 수정하기"
+
+#~ msgid "Update address"
+#~ msgstr "주소 업데이트"
+
+#~ msgid "Order statistics"
+#~ msgstr "주문 통계"
+
+#~ msgid "Filter result"
+#~ msgstr "정렬 결과"
+
+#~ msgid "Summary"
+#~ msgstr "개요"
+
+#~ msgid "Order status breakdown"
+#~ msgstr "결제 상태 명세"
+
+#~ msgid "Delete page '%(title)s'?"
+#~ msgstr "'%(title)s' 페이지 삭제"
+
+#~ msgid "Delete page"
+#~ msgstr "페이지 삭제"
+
+#~ msgid "Delete page <strong>%(title)s</strong> - are you sure?"
+#~ msgstr "<strong>%(title)s</strong> 페이지를 삭제하시겠습니까?"
+
+#~ msgid "Create new page"
+#~ msgstr "새 페이지 만들기"
+
+#~ msgid "No pages found."
+#~ msgstr "페이지를 찾을 수 없습니다."
+
+#~ msgid ""
+#~ "\n"
+#~ "        Page <strong>%(title)s</strong> saved!\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> 페이지가 저장되었습니다!"
+
+#~ msgid "Oops! We found some errors"
+#~ msgstr "이런! 에러가 발생했습니다."
+
+#~ msgid "please check the error messages below and try again"
+#~ msgstr "아래의 에러 메시지를 확인하시고 다시 시도하시기 바랍니다."
+
+#~ msgid "previous"
+#~ msgstr "이전"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Page %(page_num)s of %(total_pages)s\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "총 %(total_pages)s 페이지 중 %(page_num)s 페이지"
+
+#~ msgid "next"
+#~ msgstr "다음"
+
+#~ msgid ""
+#~ "\n"
+#~ "User %(user_name)s was unlinked from %(partner_name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "%(user_name)s 유저가 %(partner_name)s 파트너와 연결 해제되었습니다.\n"
+
+#~ msgid "Undo"
+#~ msgstr "실행 취소"
+
+#~ msgid "Delete partner"
+#~ msgstr "파트너 삭제"
+
+#~ msgid "Are you sure you want to delete this partner?"
+#~ msgstr "이 파트너를 삭제하시겠습니까?"
+
+#~ msgid "Edit the user's details"
+#~ msgstr "유저 상세 정보 수정"
+
+#~ msgid "No users associated."
+#~ msgstr "연관된 유저가 없습니다."
+
+#~ msgid "No address associated."
+#~ msgstr "연관된 주소가 없습니다."
+
+#~ msgid "Manage partner and users"
+#~ msgstr "파트너와 유저 관리"
+
+#~ msgid "Link an existing user"
+#~ msgstr "기존 유저 연결"
+
+#~ msgid "Link a new user"
+#~ msgstr "새 유저 연결"
+
+#~ msgid "No partners found."
+#~ msgstr "파트너를 찾을 수 없습니다."
+
+#~ msgid "Unlinking..."
+#~ msgstr "링크 해제 중..."
+
+#~ msgid "Unlink user"
+#~ msgstr "유저 연결 해제"
+
+#~ msgid "No users linked."
+#~ msgstr "연결된 유저가 없습니다."
+
+#~ msgid "Link a user"
+#~ msgstr "유저 연결"
+
+#~ msgid "Manage users"
+#~ msgstr "유저 관리"
+
+#~ msgid "Update details"
+#~ msgstr "세부사항 업데이트"
+
+#~ msgid ""
+#~ "A partial email address can be entered (eg '@example.com') to match "
+#~ "multiple addresses."
+#~ msgstr ""
+#~ "다중 주소를 맞추기 위해 부분적인 이메일 주소(예 '@example.com')를 입력할 "
+#~ "수 있습니다."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                User is already linked to "
+#~ "%(name)s.\n"
+#~ "                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "사용자는 이미 %(name)s에 연결되어 있습니다."
+
+#~ msgid "Linking..."
+#~ msgstr "링크 중..."
+
+#~ msgid "Link user"
+#~ msgstr "유저 연결"
+
+#~ msgid "No users found."
+#~ msgstr "유저를 찾을 수 없습니다."
+
+#~ msgid "Delete content block '%(name)s'?\""
+#~ msgstr "'%(name)s'?\" 내용 블럭을 삭제하시겠습니까?"
+
+#~ msgid "Delete content block"
+#~ msgstr "내용 블럭 삭제"
+
+#~ msgid ""
+#~ "Delete %(object.type)s content block <strong>%(object.name)s</strong> - "
+#~ "are you sure?"
+#~ msgstr ""
+#~ "%(object.type)s 내용 블럭 <strong>%(object.name)s</strong> 삭제 - 삭제하시"
+#~ "겠습니까?"
+
+#~ msgid "Remove promotion from page?"
+#~ msgstr "이 페이지에서 프로모션을 삭제하시겠습니까?"
+
+#~ msgid "Remove promotion"
+#~ msgstr "프로모션 삭제"
+
+#~ msgid ""
+#~ "Remove %(object.content_object.type)s content block <strong>%(object."
+#~ "name)s</strong> from page <strong>%(object.page_url)s</strong> - are you "
+#~ "sure?"
+#~ msgstr ""
+#~ "페이지 <strong>%(object.page_url)s</strong>에서 %(object.content_object."
+#~ "type)s 내용 블럭 <strong>%(object.name)s</strong> 삭제 - 삭제하시겠습니까?"
+
+#~ msgid "Content block"
+#~ msgstr "내용 블럭"
+
+#~ msgid "Pages displaying this content blocks"
+#~ msgstr "이 내용 블럭을 표시하는 페이지"
+
+#~ msgid "Position on page"
+#~ msgstr "페이지 상 위치"
+
+#~ msgid "View all blocks on this page"
+#~ msgstr "이 페이지의 모든 블럭 보기"
+
+#~ msgid "Remove from page"
+#~ msgstr "페이지에서 삭제"
+
+#~ msgid "This promotion is not displayed anywhere at the moment."
+#~ msgstr "이 프로모션은 현재 어디에서도 보이지 않습니다."
+
+#~ msgid "Add to a page"
+#~ msgstr "페이지에 추가"
+
+#~ msgid "Add to page"
+#~ msgstr "페이지에 추가하기"
+
+#~ msgid "Content blocks for page %(page_url)s"
+#~ msgstr "페이지 %(page_url)s에 대한 내용 블럭"
+
+#~ msgid "Content blocks on page '%(page_url)s'"
+#~ msgstr "'%(page_url)s'의 내용 블럭"
+
+#~ msgid "Edit promotions in position '%(name)s'"
+#~ msgstr "'%(name)s'에서 프로모션 편집하기"
+
+#~ msgid "Promotion Name"
+#~ msgstr "프로모션 이름"
+
+#~ msgid "Change display order"
+#~ msgstr "표시 순서 변경"
+
+#~ msgid "No promotions in this position."
+#~ msgstr "이 위치에는 프로모션이 없습니다."
+
+#~ msgid "Pages with content blocks"
+#~ msgstr "내용 블럭과 페이지"
+
+#~ msgid "View by page"
+#~ msgstr "페이지 별로 보기"
+
+#~ msgid "View all content blocks"
+#~ msgstr "모든 내용 블럭 보기"
+
+#~ msgid "View content blocks by page"
+#~ msgstr "페이지 별로 내용 블럭 보기"
+
+#~ msgid "Number of content blocks"
+#~ msgstr "내용 블럭 수"
+
+#~ msgid "No content blocks found."
+#~ msgstr "내용 블럭을 찾을 수 없습니다."
+
+#~ msgid "Create a new content block"
+#~ msgstr "새 내용 블럭 만들기"
+
+#~ msgid "Creating..."
+#~ msgstr "생성 중..."
+
+#~ msgid "Create block"
+#~ msgstr "블럭 만들기"
+
+#~ msgid "Number of times used"
+#~ msgstr "사용된 회수"
+
+#~ msgid "Edit range metadata"
+#~ msgstr "세트 메타데이터 수정"
+
+#~ msgid "Return to ranges homepage"
+#~ msgstr "세트 홈페이지로 돌아가기"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>Range <strong>%(name)s</strong> saved.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p><strong>%(name)s</strong> 범위가 저장되었습니다.</p>\n"
+
+#~ msgid "Edit included products"
+#~ msgstr "포함된 상품 수정"
+
+#~ msgid "Delete range '%(name)s'?"
+#~ msgstr "'%(name)s' 세트 삭제"
+
+#~ msgid "Are you sure you want to delete this range?"
+#~ msgstr "이 세트를 삭제하시겠습니까?"
+
+#~ msgid "Create new range"
+#~ msgstr "새 세트 만들기"
+
+#~ msgid "Save and edit products"
+#~ msgstr "상품 저장 및 수정"
+
+#~ msgid "Num products"
+#~ msgstr "상품 수"
+
+#~ msgid "Edit products"
+#~ msgstr "상품 수정"
+
+#~ msgid "No ranges found."
+#~ msgstr "세트를 찾을 수 없습니다."
+
+#~ msgid "Products in range '%(name)s'"
+#~ msgstr "'%(name)s' 세트의 상품"
+
+#~ msgid "products"
+#~ msgstr "상품"
+
+#~ msgid ""
+#~ "This range contains all products. To add products manually, please "
+#~ "unselect the 'Includes All Products' option on the edit range page."
+#~ msgstr ""
+#~ "이 범위는 모든 상품을 포함합니다. 수동으로 상품을 선택하기 위해서 범위 수"
+#~ "정 페이지에서 '모든 상품 포함'을 선택 해제해주세요."
+
+#~ msgid "Add products"
+#~ msgstr "상품 추가"
+
+#~ msgid "Running..."
+#~ msgstr "진행 중..."
+
+#~ msgid "Upload history"
+#~ msgstr "히스토리 업로드"
+
+#~ msgid "Filename"
+#~ msgstr "파일명"
+
+#~ msgid "New products"
+#~ msgstr "새 상품"
+
+#~ msgid "Duplicate products"
+#~ msgstr "상품 복사"
+
+#~ msgid "Unknown products"
+#~ msgstr "알수 없는 상품"
+
+#~ msgid "Date uploaded"
+#~ msgstr "날짜가 업로드되었습니다."
+
+#~ msgid "Products in range"
+#~ msgstr "세트에 포함된 상품"
+
+#~ msgid "Remove selected products"
+#~ msgstr "선택한 상품 삭제"
+
+#~ msgid "Is product discountable?"
+#~ msgstr "할인 가능한 상품입니까?"
+
+#~ msgid "Products in Range"
+#~ msgstr "세트의 상품"
+
+#~ msgid "Edit range"
+#~ msgstr "세트 수정"
+
+#~ msgid "return to range list"
+#~ msgstr "세트 리스트로 돌아가기"
+
+#~ msgid "Reporting Dashboard"
+#~ msgstr "보고서 대시보드"
+
+#~ msgid "Reporting dashboard"
+#~ msgstr "보고서 대시보드"
+
+#~ msgid "Generating..."
+#~ msgstr "생성중..."
+
+#~ msgid "Generate report"
+#~ msgstr "보고서 생성"
+
+#~ msgid "No results found."
+#~ msgstr "결과를 찾을 수 없습니다."
+
+#~ msgid "No vouchers were used in this period"
+#~ msgstr "이 기간에 사용된 쿠폰이 없습니다."
+
+#~ msgid "Delete review '%(title)s'?"
+#~ msgstr "'%(title)s' 후기를 삭제하시겠습니까?"
+
+#~ msgid "Delete review \"%(title)s\"?"
+#~ msgstr "\"%(title)s\" 후기를 삭제하시겠습니까?"
+
+#~ msgid "Review"
+#~ msgstr "리뷰"
+
+#~ msgid "Review Search"
+#~ msgstr "후기 검색"
+
+#~ msgid "Update status of selected reviews"
+#~ msgstr "선택된 후기의 상태를 업데이트합니다."
+
+#~ msgctxt "Review title"
+#~ msgid "Title"
+#~ msgstr "제목"
+
+#~ msgid "[Product deleted]"
+#~ msgstr "[상품이 삭제되었습니다.]"
+
+#~ msgid "No reviews found."
+#~ msgstr "후기를 찾을 수 없습니다."
+
+#~ msgid "Update review"
+#~ msgstr "후기 업데이트"
+
+#~ msgid "Review #%(review.id)s"
+#~ msgstr "후기 #%(review.id)s"
+
+#~ msgid "Review information"
+#~ msgstr "후기 정보"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>A shipping method <strong>%(name)s</strong> has been created.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>다음과 같은 배송 방식이 추가 되었습니다 <strong>%(name)s</strong>.</"
+#~ "p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been deleted.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>다음과 같은 배송 방식이 삭제되었습니다 <strong>%(name)s</strong>.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been updated.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>다음과 같은 배송 방식이 업데이트 되었습니다 <strong>%(name)s</strong>."
+#~ "</p>\n"
+
+#~ msgid "Shipping methods"
+#~ msgstr "배송 방법"
+
+#~ msgid "Weight range (kg)"
+#~ msgstr "무게 범위(kg)"
+
+#~ msgid "Delete shipping method '%(name)s'?"
+#~ msgstr "'%(name)s' 배송 방법을 삭제하시겠습니까?"
+
+#~ msgid "Are you sure you want to delete this shipping method?"
+#~ msgstr "이 배송 방식을 삭제하시겠습니까?"
+
+#~ msgid "Applies to countries"
+#~ msgstr "국가들에 적용된다"
+
+#~ msgid "Edit shipping method"
+#~ msgstr "배송 방법 편집"
+
+#~ msgid "Delete shipping method"
+#~ msgstr "배송 방법 삭제"
+
+#~ msgid "Create a new shipping method"
+#~ msgstr "새 배송 방법 만들기"
+
+#~ msgid "Create new shipping charge"
+#~ msgstr "새 배송비 생성하기"
+
+#~ msgid "Default weight (kg)"
+#~ msgstr "기본 무게(kg)"
+
+#~ msgid "No shipping methods found."
+#~ msgstr "배송 벙법을 찾지 못했습니다."
+
+#~ msgid "Alert #%(id)s"
+#~ msgstr "알림 #%(id)s"
+
+#~ msgid "Delete alert #%(id)s?"
+#~ msgstr "#%(id)s 알림을 삭제하시겠습니까?"
+
+#~ msgid "Product alert #%(id)s"
+#~ msgstr "상품 알림 #%(id)s"
+
+#~ msgid "Are you sure that you want to delete this alert?"
+#~ msgstr "이 알림을 삭제하시겠습니까?"
+
+#~ msgid "Search product alerts"
+#~ msgstr "검색 상품 알림"
+
+#~ msgid "reset"
+#~ msgstr "초기화"
+
+#~ msgid "Date alert sent"
+#~ msgstr "알림 전송일"
+
+#~ msgid "(Anonymous)"
+#~ msgstr "(익명)"
+
+#~ msgid "No alerts found."
+#~ msgstr "알림를 찾을 수 없습니다."
+
+#~ msgid "Update alert #%(id)s"
+#~ msgstr "#%(id)s 알림 업데이트"
+
+#~ msgid "General"
+#~ msgstr "일반"
+
+#~ msgid "Yes,No"
+#~ msgstr "예,아니오"
+
+#~ msgid "Superuser"
+#~ msgstr "관리자"
+
+#~ msgid "True,False"
+#~ msgstr "참, 거짓"
+
+#~ msgid "Staff"
+#~ msgstr "직원"
+
+#~ msgid "Last login"
+#~ msgstr "마지막 로그인"
+
+#~ msgid "Date joined"
+#~ msgstr "가입일"
+
+#~ msgid "Products viewed"
+#~ msgstr "상품 조회수"
+
+#~ msgid "Number of orders"
+#~ msgstr "주문량"
+
+#~ msgid "Number of ordered items"
+#~ msgstr "주문된 아이템수"
+
+#~ msgid "Reviews written"
+#~ msgstr "작성된 리뷰"
+
+#~ msgid "Send password reset email"
+#~ msgstr "비밀번호 변경 메일 전송"
+
+#~ msgid "Order Number"
+#~ msgstr "주문 번호"
+
+#~ msgid "Total value"
+#~ msgstr "전체 값"
+
+#~ msgid "This customer has not placed any orders yet."
+#~ msgstr "이 고객은 아직 아무 주문도 하지 않았습니다."
+
+#~ msgid "This customer has not saved any addresses."
+#~ msgstr "이 고객은 아무 주소도 저장하지 않았습니다."
+
+#~ msgid "Product ID"
+#~ msgstr "상품 ID"
+
+#~ msgid "This customer has not written any reviews yet."
+#~ msgstr "이 고객은 아직 아무 후기도 작성하지 않았습니다."
+
+#~ msgid "No customers found."
+#~ msgstr "고객을 찾을 수 없습니다."
+
+#~ msgid "Bulk Actions"
+#~ msgstr "다중 명령"
+
+#~ msgid "With selected customers:"
+#~ msgstr "선택된 고객들을"
+
+#~ msgid "Make active"
+#~ msgstr "활성화하기"
+
+#~ msgid "Make inactive"
+#~ msgstr "비 활성화하기"
+
+#~ msgid "Delete voucher '%(name)s'?"
+#~ msgstr "'%(name)s'? 쿠폰을 삭제하시겠습니까?"
+
+#~ msgid "Voucher details"
+#~ msgstr "쿠폰 세부사항"
+
+#~ msgid "Number of basket additions"
+#~ msgstr "장바구니 추가 횟수"
+
+#~ msgid "Recent orders"
+#~ msgstr "최근 주문 리스트"
+
+#~ msgid "No orders have been placed that use this voucher."
+#~ msgstr "이 쿠폰이 이용된 주문이 없습니다."
+
+#~ msgid "Edit voucher"
+#~ msgstr "쿠폰 편집"
+
+#~ msgid "Create new voucher"
+#~ msgstr "새 쿠폰 생성"
+
+#~ msgid "Num baskets"
+#~ msgstr "장바구니 수"
+
+#~ msgid "Num orders"
+#~ msgstr "주문 수"
+
+#~ msgid "Inactive"
+#~ msgstr "비활성화"
+
+#~ msgid "No vouchers found."
+#~ msgstr "쿠폰을 찾을 수 없습니다."
+
+#~ msgid "Sorry!"
+#~ msgstr "죄송합니다!"
+
+#~ msgid "Return to previous page"
+#~ msgstr "이전 페이지로"
+
+#~ msgid "Go to homepage"
+#~ msgstr "홈페이지로"
+
+#~ msgid "Edit this page"
+#~ msgstr "이 페이지 편집"
+
+#~ msgid "thumbnail"
+#~ msgstr "썸네일"
+
+#~ msgid "Unrecognized image type!"
+#~ msgstr "알 수 없는 이미지 종류입니다!"
+
+#~ msgid "Upload Image"
+#~ msgstr "이미지 올리기"
+
+#~ msgid "This page is only available to users who aren't logged in."
+#~ msgstr "이 페이지는 로그인 하지 않은 유저만 이용할 수 있습니다."
+
+#~ msgid " This offer is no longer available."
+#~ msgstr "이 행사는 더 이상 이용할 수 없습니다."
+
+#~ msgid "What you need to do"
+#~ msgstr "당신이 해야 하는 것들"
+
+#~ msgid "There are no site offers at the moment."
+#~ msgstr "현재 진행중인 사이트 행사가 없습니다."
+
+#~ msgid "Browse products in offer"
+#~ msgstr "행사 상품을 검색합니다."
+
+#~ msgid "See more"
+#~ msgstr "더보기"
+
+#~ msgid "Password reset complete"
+#~ msgstr "비밀번호가 변경되었습니다."
+
+#~ msgid "Password reset"
+#~ msgstr "비밀번호 변경"
+
+#~ msgid "Complete"
+#~ msgstr "완료"
+
+#~ msgid "Your password has been set.  You may go ahead and log in now."
+#~ msgstr "비밀번호가 설정되었습니다. 로그인 해주세요."
+
+#~ msgid "Log in"
+#~ msgstr "로그인"
+
+#~ msgid "Enter a new password"
+#~ msgstr "새 비밀번호를 입력해주세요."
+
+#~ msgid ""
+#~ "Please enter your new password twice so we can verify you typed it in "
+#~ "correctly."
+#~ msgstr ""
+#~ "올바르게 입력했는지 확인하기 위해 비밀번호를 다시 한 번 입력해주세요."
+
+#~ msgid "Change my password"
+#~ msgstr "비밀번호 변경"
+
+#~ msgid "Password reset unsuccessful"
+#~ msgstr "비밀번호 변경에 실패하였습니다."
+
+#~ msgid ""
+#~ "The password reset link was invalid, possibly because it has already been "
+#~ "used.  Please request a new password reset."
+#~ msgstr ""
+#~ "비밀번호 변경 링크가 유효하지 않습니다. 아마도 이 링크는 이미 사용되었을 "
+#~ "것입니다. 새로 비밀번호 변경을 요청해주세요."
+
+#~ msgid "Password reset email sent"
+#~ msgstr "비밀번호 변경 메일이 전송되었습니다."
+
+#~ msgid "Email sent"
+#~ msgstr "이메일이 발송되었습니다."
+
+#~ msgid ""
+#~ "\n"
+#~ "        We've e-mailed you instructions for resetting your password. You "
+#~ "should be receiving it shortly.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "고객님의 이메일 주소로 비밀번호 변경을 위한 이메일을 보냈습니다. 받은편지"
+#~ "함을 확인하세요."
+
+#~ msgid ""
+#~ "\n"
+#~ "        If you don't receive an email, please make sure you've entered "
+#~ "the address you registered with, and check\n"
+#~ "        your spam folder.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "이메일을 받지 못하셨다면 이메일 주소를 확인하거나 \n"
+#~ "스펨폴더를 확인해주세요"
+
+#~ msgid ""
+#~ "Forgotten your password? Enter your e-mail address below, and we'll e-"
+#~ "mail instructions for setting a new one."
+#~ msgstr ""
+#~ "비밀번호를 잊으셨나요? 하단에 이메일 주소를 입력하면 새로운 비밀번호를 설"
+#~ "정할 수 있는 이메일을 보내드립니다."
+
+#~ msgid "Send reset email"
+#~ msgstr "변경 메일이 전송되었습니다."
+
+#~ msgid "Refine your search"
+#~ msgstr "고급 검색하기"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Products matching \"%(q)s\"\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "\"%(q)s\"와(과) 일치하는 상품"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Found <strong>%(num_results)s</strong> results, "
+#~ "showing <strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> 상품, <strong>"
+#~ "%(start)s</strong> 부터 <strong>%(end)s</strong> 까지.\n"
+#~ "                "
+
+#~ msgid "Found <strong>0</strong> results."
+#~ msgstr "<strong>0</strong> 개의 결과를 찾았습니다."
+
+#~ msgid ""
+#~ "\n"
+#~ "                        Did you mean <a href=\"%(search_url)s?q="
+#~ "%(suggestion)s\">\"%(suggestion)s\"</a>?\n"
+#~ "                    "
+#~ msgstr ""
+#~ "\n"
+#~ "<a href =\"%(search_url)s?q = %(suggestion)s\">\"%(suggestion)s\"</a> 을 "
+#~ "찾으시나요? "
+
+#~ msgid "Back to search results"
+#~ msgstr "검색 결과로 돌아가기"
+
+#~ msgid "You need to select some %ss"
+#~ msgstr "몇몇 %ss을(를) 선택해야 합니다."

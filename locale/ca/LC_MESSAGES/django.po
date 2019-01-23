@@ -1,0 +1,3642 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Arturo Bermejo <abermejo20@gmail.com>, 2013
+# Arturo Bermejo <abermejo20@gmail.com>, 2013
+# daniel herrera <ctrl.alt.d@gmail.com>, 2013
+# daniel herrera <ctrl.alt.d@gmail.com>, 2013
+# Henry Aveiga <haveigag@gmail.com>, 2013
+# Henry Aveiga <haveigag@gmail.com>, 2013
+# Juan Saavedra <jsaavedra@trea.uy>, 2013
+# Luciano <lferrari@trea.uy>, 2013
+# Luciano <lferrari@trea.uy>, 2013
+# Juan Saavedra <jsaavedra@trea.uy>, 2013
+# raimon <raimonesteve@gmail.com>, 2013
+# raimon <raimonesteve@gmail.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-11 08:36+0000\n"
+"Last-Translator: Oscar Bot <maik.hoepfel@tangentsnowball.com>\n"
+"Language-Team: Catalan (http://www.transifex.com/codeinthehole/django-oscar/"
+"language/ca/)\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr "Taulell"
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr "Catàleg"
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "Productes"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr ""
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "Categories"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr "Rangs"
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr "Alertas d'estoc baix"
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr "Opciones"
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr "Acompliment"
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "Comandes"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr "Estadísticas"
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr ""
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr "Clients"
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr "Peticions d'alertes d'estoc"
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr "Ofertes"
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "Vals de descompte"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr "Contingut"
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr "Mòduls"
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr "Mòduls per pàgina"
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr "Pàgines"
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr "Plantilles de correu"
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr "Comentaris"
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr "Informes"
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr "Tipo "
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr "Puntuació"
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr ""
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr ""
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr ""
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr ""
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr ""
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+#, fuzzy
+#| msgid "Catalogue"
+msgid "Catalan"
+msgstr "Catàleg"
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+msgid "German"
+msgstr ""
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr "Enviant-se ..."
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr "Compte"
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr "Tancar sessió"
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr "Inici de sessió o registre"
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "Cistella"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr ""
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "Tots els productes"
+
+#~ msgid "Mr"
+#~ msgstr "Sr."
+
+#~ msgid "Miss"
+#~ msgstr "Srta."
+
+#~ msgid "Mrs"
+#~ msgstr "Sra."
+
+#~ msgid "Ms"
+#~ msgstr "Srta."
+
+#~ msgid "Dr"
+#~ msgstr "Dr."
+
+#~ msgid "First name"
+#~ msgstr "Nom"
+
+#~ msgid "Last name"
+#~ msgstr "Cognoms"
+
+#~ msgid "First line of address"
+#~ msgstr "Adreça"
+
+#~ msgid "Second line of address"
+#~ msgstr "Segona línia de l'adreça"
+
+#~ msgid "Third line of address"
+#~ msgstr "Tercera línia de l'adreça"
+
+#~ msgid "City"
+#~ msgstr "Ciutat"
+
+#~ msgid "State/County"
+#~ msgstr "Estat/País"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "Codi postal"
+
+#~ msgid "Country"
+#~ msgstr "País"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "Buscar texto - usado solamente para buscar direcciones"
+
+#~ msgid "Address"
+#~ msgstr "Adreça"
+
+#~ msgid "Addresses"
+#~ msgstr "Adreces"
+
+#~ msgid "ISO 3166-1 alpha-2"
+#~ msgstr "ISO 3166-1 alpha-2"
+
+#~ msgid "ISO 3166-1 alpha-3"
+#~ msgstr "ISO 3166-1 alpha-3"
+
+#~ msgid "ISO 3166-1 numeric"
+#~ msgstr "ISO 3166-1 numeric"
+
+#~ msgid "Country name"
+#~ msgstr "Nom del pais"
+
+#~ msgid "Countries"
+#~ msgstr "Països"
+
+#~ msgid "Phone number"
+#~ msgstr "Telèfon"
+
+#~ msgid "Shipping address"
+#~ msgstr "Adreça d'enviament"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "Adreces d'enviament"
+
+#~ msgid "User"
+#~ msgstr "Usuari"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "Adreça d'enviament per defecte?"
+
+#~ msgid "Default billing address?"
+#~ msgstr "Adreça de facturació per defecte?"
+
+#~ msgid "Address Hash"
+#~ msgstr "Codi d'adreça"
+
+#~ msgid "Date Created"
+#~ msgstr "Data creació"
+
+#~ msgid "User address"
+#~ msgstr "Adreça de l'usuari"
+
+#~ msgid "User addresses"
+#~ msgstr "Adreces de l'usuari"
+
+#~ msgid "Billing address"
+#~ msgstr "Adreça de facturació"
+
+#~ msgid "Billing addresses"
+#~ msgstr "Adreces de facturació"
+
+#~ msgid "Partner"
+#~ msgstr "Cliente "
+
+#~ msgid "Product"
+#~ msgstr "Producte"
+
+#~ msgid "Views"
+#~ msgstr "Vistes"
+
+#~ msgid "Basket Additions"
+#~ msgstr "Contingut de la cistella"
+
+#~ msgid "Purchases"
+#~ msgstr "Compres"
+
+#~ msgid "Score"
+#~ msgstr "Puntuació"
+
+#~ msgid "Product record"
+#~ msgstr "Registre de producte"
+
+#~ msgid "Product records"
+#~ msgstr "Registress de producte"
+
+#~ msgid "Record for '%s'"
+#~ msgstr "Registre per '%s'"
+
+#~ msgid "Product Views"
+#~ msgstr "Vistes de producte"
+
+#~ msgid "Order Lines"
+#~ msgstr "Línies de comanda"
+
+#~ msgid "Order Items"
+#~ msgstr "Articles de la comanda"
+
+#~ msgid "Total Spent"
+#~ msgstr "Despesa total"
+
+#~ msgid "Last Order Date"
+#~ msgstr "Data darrera comanda"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "%(user)s va mirar '%(product)s'"
+
+#~ msgid "Search term"
+#~ msgstr "Paraules de cerca"
+
+#~ msgid "User search queries"
+#~ msgstr "Consultes d'usuari"
+
+#~ msgid "%(user)s searched for '%(query)s'"
+#~ msgstr "%(user)s ha recercat per  '%(query)s'"
+
+#~ msgid "Basket additions"
+#~ msgstr "Continguts de la cistella"
+
+#~ msgid "Product analytics"
+#~ msgstr "Estadístiques de producte"
+
+#~ msgid "Name"
+#~ msgstr "Nom"
+
+#~ msgid "Date registered"
+#~ msgstr "Data d'enregistrament"
+
+#~ msgid "Product views"
+#~ msgstr "Vistes del Producte"
+
+#~ msgid "Order lines"
+#~ msgstr "Línies de la Comanda"
+
+#~ msgid "Order items"
+#~ msgstr "Articles de la comanda"
+
+#~ msgid "Total spent"
+#~ msgstr "Despesa total"
+
+#~ msgid "Date of last order"
+#~ msgstr "Data darrera comanda"
+
+#~ msgid "User analytics"
+#~ msgstr "Estadístiques de l'Usuari"
+
+#~ msgid "Owner"
+#~ msgstr "Propietari"
+
+#~ msgid "Open - currently active"
+#~ msgstr "Obert - Actiu"
+
+#~ msgid "Merged - superceded by another basket"
+#~ msgstr "Unit - substituit per una altra cistella"
+
+#~ msgid "Saved - for items to be purchased later"
+#~ msgstr "Desat - per artícles que es compraran més endavant"
+
+#~ msgid "Frozen - the basket cannot be modified"
+#~ msgstr "Congelat - la cistella no pot ser modificada"
+
+#~ msgid "Submitted - has been ordered at the checkout"
+#~ msgstr "Enviat - comanda passada per caixa"
+
+#~ msgid "Status"
+#~ msgstr "Estat"
+
+#~ msgid "Date created"
+#~ msgstr "Data creació"
+
+#~ msgid "Date merged"
+#~ msgstr "Data de fusionat"
+
+#~ msgid "Date submitted"
+#~ msgstr "Data enviament"
+
+#~ msgid "Baskets"
+#~ msgstr "Cistelles"
+
+#~ msgid "%(status)s basket (owner: %(owner)s, lines: %(num_lines)d)"
+#~ msgstr "Cistella %(status)s  (propietari: %(owner)s, línies: %(num_lines)d)"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order."
+#~ msgstr ""
+#~ "Debido a limitaciones técnicas no podemos enviar mas de %(threshold)d "
+#~ "productos por pedido."
+
+#~ msgid "Line Reference"
+#~ msgstr "Línia de Referència"
+
+#~ msgid "Quantity"
+#~ msgstr "Quantitat"
+
+#~ msgid "Currency"
+#~ msgstr "Moneda "
+
+#~ msgid "Price excl. Tax"
+#~ msgstr "Preu excl. impost"
+
+#~ msgid "Price incl. Tax"
+#~ msgstr "Preu incl. impost"
+
+#~ msgid "Basket line"
+#~ msgstr "Linea de la cistella"
+
+#~ msgid "Basket lines"
+#~ msgstr "Linies de la cistella"
+
+#~ msgid ""
+#~ "Basket #%(basket_id)d, Product #%(product_id)d, quantity %(quantity)d"
+#~ msgstr ""
+#~ "Cistella #%(basket_id)d, Producte #%(product_id)d, quantitat %(quantity)d"
+
+#~ msgid "You cannot modify a %s basket"
+#~ msgstr "No es posible modificar la cistella %s"
+
+#~ msgid "Line"
+#~ msgstr "Linea"
+
+#~ msgid "Option"
+#~ msgstr "Opcion"
+
+#~ msgid "Value"
+#~ msgstr "Valor"
+
+#~ msgid "Line attribute"
+#~ msgstr "Atributo de Linea"
+
+#~ msgid "Line attributes"
+#~ msgstr "Atributos de Linea"
+
+#~ msgid "Save for Later"
+#~ msgstr "Guardar per mes tard"
+
+#~ msgid "Move to Basket"
+#~ msgstr "Moure a la cistella"
+
+#~ msgid "Code"
+#~ msgstr "Codi"
+
+#~ msgid "Variant"
+#~ msgstr "Variante"
+
+#~ msgid "Please select a valid product"
+#~ msgstr "Elija un producto valido"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order. Your basket currently has %(basket)d "
+#~ "items."
+#~ msgstr ""
+#~ "Degut a limitacions tècniques, no podem enviar més de %(threshold)d "
+#~ "artícles per comanda. La teva cistella en té %(basket)d."
+
+#~ msgid "User ID"
+#~ msgstr "ID de Usuario"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Basket status"
+#~ msgstr "Estat de la cistella"
+
+#~ msgid "Num lines"
+#~ msgstr "Número de líneas"
+
+#~ msgid "Num items"
+#~ msgstr "Número d'artícules"
+
+#~ msgid "Date of creation"
+#~ msgstr "Data de creació"
+
+#~ msgid "Time since creation"
+#~ msgstr "Tiempo desde la creación"
+
+#~ msgid "Open baskets"
+#~ msgstr "Cistelles obertes"
+
+#~ msgid "Time between creation and submission"
+#~ msgstr "Tiempo entre creación y presentación"
+
+#~ msgid "Submitted baskets"
+#~ msgstr "Cistelles enviades"
+
+#~ msgid "You can't save an item for later if you're not logged in!"
+#~ msgstr "No pot guardar un article per després si no t'has registrat."
+
+#~ msgid "The '%(code)s' voucher has expired"
+#~ msgstr "El cupón '%(code)s' ha expirado"
+
+#~ msgid "Your basket does not qualify for a voucher discount"
+#~ msgstr "No disposa de cap cupó de descompte per la seva cistella."
+
+#~ msgid "Voucher '%(code)s' added to basket"
+#~ msgstr "El cupó '%(code)s' s'ha afegit a la teva cistella."
+
+#~ msgid "You have already added the '%(code)s' voucher to your basket"
+#~ msgstr "El cupó '%(code)s' ja está disponible a la teva cistella."
+
+#~ msgid "No voucher found with code '%(code)s'"
+#~ msgstr "No s'ha trobat cap cupó amb el codi '%(code)s'"
+
+#~ msgid "Please enter a voucher code"
+#~ msgstr "Envíe un código del cupón."
+
+#~ msgid "Voucher '%s' removed from basket"
+#~ msgstr "El codi '%s' s'ha eliminat de la seva cistella."
+
+#~ msgid "Slug"
+#~ msgstr "Slug"
+
+#~ msgid "Requires shipping?"
+#~ msgstr "Requiere envío?"
+
+#~ msgid "Track stock levels?"
+#~ msgstr "Buscar nivells d'estoc?"
+
+#~ msgid "Product class"
+#~ msgstr "Tipus de producte"
+
+#~ msgid "Description"
+#~ msgstr "Descripción"
+
+#~ msgid "Image"
+#~ msgstr "Imagen"
+
+#~ msgid "Category"
+#~ msgstr "Categoría"
+
+#~ msgid "Product category"
+#~ msgstr "Categorías del producto"
+
+#~ msgid "UPC"
+#~ msgstr "UPC"
+
+#~ msgid ""
+#~ "Universal Product Code (UPC) is an identifier for a product which is not "
+#~ "specific to a particular  supplier. Eg an ISBN for a book."
+#~ msgstr ""
+#~ "Universal Product Code (UPC) es un identificador de producto que no es "
+#~ "especifico a un proveedor en particular. Eg un ISBN para un libro. "
+
+#~ msgid "Choose what type of product this is"
+#~ msgstr "Elije que tipo de producto es este"
+
+#~ msgid "Attributes"
+#~ msgstr "Atributos"
+
+#~ msgid ""
+#~ "Options are values that can be associated with a item when it is added to "
+#~ "a customer's basket.  This could be something like a personalised message "
+#~ "to be printed on a T-shirt."
+#~ msgstr ""
+#~ "Opciones son valores que pueden ser asociados con un item cuando es "
+#~ "agregado al carrito de un cliente. Esto puede ser algo como un mensage "
+#~ "personalizado para ser impreso en una remera."
+
+#~ msgid "Recommended products"
+#~ msgstr "Productes recomanats"
+
+#~ msgid "Date updated"
+#~ msgstr "Fecha actualizada "
+
+#~ msgid "Ranking"
+#~ msgstr "Ranking"
+
+#~ msgid "Text"
+#~ msgstr "Texto"
+
+#~ msgid "Integer"
+#~ msgstr "Entero"
+
+#~ msgid "True / False"
+#~ msgstr "Verdadero / Falso"
+
+#~ msgid "Float"
+#~ msgstr "Flotar"
+
+#~ msgid "Rich Text"
+#~ msgstr "Texto Rico"
+
+#~ msgid "Date"
+#~ msgstr "Data"
+
+#~ msgid "Entity"
+#~ msgstr "Entidad"
+
+#~ msgid "Option Group"
+#~ msgstr "Grupo de Opcion"
+
+#~ msgid "Required"
+#~ msgstr "Requerido "
+
+#~ msgid "Product attributes"
+#~ msgstr "Atributos de producto"
+
+#~ msgid "Must be str or unicode"
+#~ msgstr "Debe ser str o unicode "
+
+#~ msgid "Must be a float"
+#~ msgstr "Debe ser un flotante"
+
+#~ msgid "Must be an integer"
+#~ msgstr "Debe ser un entero"
+
+#~ msgid "Must be a date or datetime"
+#~ msgstr "Debe ser una fecha o hora"
+
+#~ msgid "Must be a boolean"
+#~ msgstr "Debe ser un booleano"
+
+#~ msgid "Must be an AttributeOption model object instance"
+#~ msgstr "Debe ser una instancia del modelo AttributeOption"
+
+#~ msgid "AttributeOption has not been saved yet"
+#~ msgstr "Opción de atributo aun no ha sido guardado "
+
+#~ msgid "%(enum)s is not a valid choice for %(attr)s"
+#~ msgstr "%(enum)s no es una válida elección para %(attr)s"
+
+#~ msgid "Attribute"
+#~ msgstr "Atributo "
+
+#~ msgid "Boolean"
+#~ msgstr "Booleano"
+
+#~ msgid "Richtext"
+#~ msgstr "Texto Enriquecido"
+
+#~ msgid "Group"
+#~ msgstr "Grupo"
+
+#~ msgid "Attribute option"
+#~ msgstr "Opción atributo"
+
+#~ msgid "Required - a value for this option must be specified"
+#~ msgstr "Requerido - un valor para esta opción debe ser especificado"
+
+#~ msgid "Optional - a value for this option can be omitted"
+#~ msgstr "Opcional - un valor para esta opción puede ser omitido"
+
+#~ msgid "Original"
+#~ msgstr "Original"
+
+#~ msgid "Caption"
+#~ msgstr "Título"
+
+#~ msgid "Product images"
+#~ msgstr "Imágenes del producto"
+
+#~ msgid "%(obj)s has no attribute named '%(attr)s'"
+#~ msgstr "%(obj)s no tiene un nombre atributo %(attr)s'"
+
+#~ msgid "%(attr)s attribute %(err)s"
+#~ msgstr "%(attr)s atributo %(err)s"
+
+#~ msgid "Body"
+#~ msgstr "Missatge"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Requires moderation"
+#~ msgstr "Requiere moderación "
+
+#~ msgid "Approved"
+#~ msgstr "Aprovado"
+
+#~ msgid "Rejected"
+#~ msgstr "Denegado"
+
+#~ msgid "Total Votes"
+#~ msgstr "Vots totals"
+
+#~ msgid "Delta Votes"
+#~ msgstr "Votos Delta"
+
+#~ msgid "anonymous"
+#~ msgstr "anónimo"
+
+#~ msgid "Up"
+#~ msgstr "Arriba"
+
+#~ msgid "Down"
+#~ msgstr "Abajo"
+
+#~ msgid "Delta"
+#~ msgstr "Delta"
+
+#~ msgid "Vote"
+#~ msgstr "Voto"
+
+#~ msgid "Votes"
+#~ msgstr "Votos"
+
+#~ msgid "You cannot vote on your own reviews"
+#~ msgstr "No pot votar els seu propis comentaris"
+
+#~ msgid "Recency"
+#~ msgstr "Recientes"
+
+#~ msgid "You have already reviewed this product!"
+#~ msgstr "Ya has comentado este producto!"
+
+#~ msgid "Thank you for reviewing this product"
+#~ msgstr "Gracies per evaluar aquest producte"
+
+#~ msgid "Thanks for voting!"
+#~ msgstr "Gracies per votar!."
+
+#~ msgid "%(filename)s is not a valid image (%(error)s)"
+#~ msgstr "%(filename)s no es una imagen válida (%(error)s"
+
+#~ msgid "%s is not a valid image archive"
+#~ msgstr "%s no es un archivo de imagen valido"
+
+#~ msgid "Checkout"
+#~ msgstr "Crea comanda"
+
+#~ msgid "My email address is"
+#~ msgstr "El meu correu electrònic és"
+
+#~ msgid "You need to add some items to your basket to checkout"
+#~ msgstr "Ha d'afegir alguns productes a la teva cistella abans de comprar."
+
+#~ msgid "Please either sign in or enter your email address"
+#~ msgstr "Inicie sesión o bien introduzca su dirección de correo electrónico"
+
+#~ msgid "Please choose a shipping address"
+#~ msgstr "Escull una adreça d'enviament"
+
+#~ msgid "Please choose a shipping method"
+#~ msgstr "Tria un tipus d'enviament"
+
+#~ msgid "Address saved"
+#~ msgstr "Adreça guardada"
+
+#~ msgid "Address deleted"
+#~ msgstr "Adreça eliminada"
+
+#~ msgid "Your submitted shipping method is not permitted"
+#~ msgstr "El mètode d'entrega que heu seleccionat no està permès"
+
+#~ msgid ""
+#~ "A problem occurred while processing payment for this order - no payment "
+#~ "has been taken.  Please contact customer services if this problem persists"
+#~ msgstr ""
+#~ "Ha ocurrido un problema cuando se procesaba el pedido - el tipo de pago. "
+#~ "Contacte con nosotros si el problema continua."
+
+#~ msgid "No order found"
+#~ msgstr "No se ha encontrado ningún pedido."
+
+#~ msgid "Active"
+#~ msgstr "Activo"
+
+#~ msgid "Users"
+#~ msgstr "Usuarios"
+
+#~ msgid "Subject"
+#~ msgstr "Assumpte"
+
+#~ msgid "Body Text"
+#~ msgstr "Missatge text"
+
+#~ msgid "Body HTML"
+#~ msgstr "Missatge HTML"
+
+#~ msgid "Date Sent"
+#~ msgstr "Data enviat"
+
+#~ msgid "Emails"
+#~ msgstr "Correos"
+
+#~ msgid "Email to %(user)s with subject '%(subject)s'"
+#~ msgstr "Correu de %(user)s amb el assumpte '%(subject)s'"
+
+#~ msgid "This is just used for organisational purposes"
+#~ msgstr "Esto es solo usado para propósitos organizacionales"
+
+#~ msgid "Order related"
+#~ msgstr "Pedido relacionado"
+
+#~ msgid "User related"
+#~ msgstr "Usuario relacionado"
+
+#~ msgid "Email Subject Template"
+#~ msgstr "Assumpte plantilla de correu"
+
+#~ msgid "Email Body Template"
+#~ msgstr "Missatge plantilla de correu"
+
+#~ msgid "Email Body HTML Template"
+#~ msgstr "Missatge HTML plantilla de correu"
+
+#~ msgid "HTML template"
+#~ msgstr "Plantilla HTML"
+
+#~ msgid "SMS Template"
+#~ msgstr "Plantilla SMS"
+
+#~ msgid "SMS template"
+#~ msgstr "plantilla SMS"
+
+#~ msgid "Date Updated"
+#~ msgstr "Data actualizada"
+
+#~ msgid "Communication event type"
+#~ msgstr "Tipo de evento de comunicación"
+
+#~ msgid "Communication event types"
+#~ msgstr "Tipos de evento de comunicación"
+
+#~ msgid "Archive"
+#~ msgstr "Archivado"
+
+#~ msgid "Notifications"
+#~ msgstr "Notificacions"
+
+#~ msgid "Key"
+#~ msgstr "Llave"
+
+#~ msgid "Not yet confirmed"
+#~ msgstr "Todavía no se confirmado"
+
+#~ msgid "Cancelled"
+#~ msgstr "Cancel·lat"
+
+#~ msgid "Closed"
+#~ msgstr "Tancat"
+
+#~ msgid "Date confirmed"
+#~ msgstr "Data confirmat"
+
+#~ msgid "Date cancelled"
+#~ msgstr "Data cancel·lat"
+
+#~ msgid "Date closed"
+#~ msgstr "Data tancada"
+
+#~ msgid "Product alerts"
+#~ msgstr "Alertas de producto"
+
+#~ msgid "An alert has been created"
+#~ msgstr "Se ha creado una alerta "
+
+#~ msgid "A confirmation email has been sent to %s"
+#~ msgstr "Un email de confirmacion ha sido enviado a %s"
+
+#~ msgid "Your stock alert is now active"
+#~ msgstr "La alerta de stock ya esta activa "
+
+#~ msgid "Your stock alert cannot be confirmed"
+#~ msgstr "La alerta de stock no se ha confirmado."
+
+#~ msgid "Your stock alert has been cancelled"
+#~ msgstr "La alerta d'estoc s'ha cancel·lat."
+
+#~ msgid "Your stock alert cannot be cancelled"
+#~ msgstr "La alerta d'estock no s'ha cancel·lat."
+
+#~ msgid "Customer"
+#~ msgstr "Cliente"
+
+#~ msgid "Email address"
+#~ msgstr "Correu electrònic"
+
+#~ msgid "Password"
+#~ msgstr "Contrasenya "
+
+#~ msgid "The two password fields didn't match."
+#~ msgstr "Les dues contrasenyes no coincideixen."
+
+#~ msgid "Order number"
+#~ msgstr "Número de comanda"
+
+#~ msgid "All orders"
+#~ msgstr "Todos los pedidos"
+
+#~ msgid "Orders placed between %(date_from)s and %(date_to)s"
+#~ msgstr "Los pedidos realizados entre %(date_from)s y %(date_to)s."
+
+#~ msgid "A user with this email address already exists"
+#~ msgstr "Un usuari amb aquesta adreça de correu ja existeix."
+
+#~ msgid "Send notification to"
+#~ msgstr "Enviar notificacion a "
+
+#~ msgid "Enter your email"
+#~ msgstr "Introduzca su email "
+
+#~ msgid "There is already an active stock alert for %s"
+#~ msgstr "Ya existe una alerta de stock activa para %s"
+
+#~ msgid "You already have an active alert for this product"
+#~ msgstr ""
+#~ "Ya tienes una alerta para avisarle cuando haya stock para este producto."
+
+#~ msgid "%(count)d notification archived"
+#~ msgid_plural "%(count)d notifications archived"
+#~ msgstr[0] "%(count)d notificaciones archivadas."
+#~ msgstr[1] "%(count)d notificacions arxivades"
+
+#~ msgid "%(count)d notification deleted"
+#~ msgid_plural "%(count)d notifications deleted"
+#~ msgstr[0] "%(count)d notificaciones eliminadas."
+#~ msgstr[1] "%(count)d notificacions eliminades"
+
+#~ msgid "Profile"
+#~ msgstr "Perfil"
+
+#~ msgid "Password updated"
+#~ msgstr "Contrasenya actualizada "
+
+#~ msgid "Email History"
+#~ msgstr "Historial de emails"
+
+#~ msgid "Order History"
+#~ msgstr "Historial de comandes"
+
+#~ msgid "Order"
+#~ msgstr "Pedido "
+
+#~ msgid ""
+#~ "All available lines from order %(number)s have been added to your basket"
+#~ msgstr "S'ha clonat les linies de la comanda %(number)s a la seva cistella."
+
+#~ msgid ""
+#~ "It is not possible to re-order order %(number)s as none of its lines are "
+#~ "available to purchase"
+#~ msgstr ""
+#~ "No se puede reordenar %(number)s ya que ninguna de sus líneas se "
+#~ "encuentran disponibles para comprar."
+
+#~ msgid "%(qty)d copies of '%(product)s' have been added to your basket"
+#~ msgstr "S'ha copiat %(qty)d de '%(product)s' a la seva cistella."
+
+#~ msgid "'%s' has been added to your basket"
+#~ msgstr "'%s' s'ha afegit a la seva cistella."
+
+#~ msgid "Address Book"
+#~ msgstr "Adreces"
+
+#~ msgid "Add a new address"
+#~ msgstr "Afegir una nova adreça"
+
+#~ msgid "Edit address"
+#~ msgstr "Editar direccion "
+
+#~ msgid "Delete address?"
+#~ msgstr "Eliminar l'adreça?"
+
+#~ msgid "Create a new product of type"
+#~ msgstr "Nuevo tipo de producto"
+
+#~ msgid "Title"
+#~ msgstr "Títol"
+
+#~ msgid "Actions"
+#~ msgstr "Acciones"
+
+#~ msgid "Number of child categories"
+#~ msgstr "Número de categorías hijas"
+
+#~ msgid "Delete product?"
+#~ msgstr "¿Eliminar producto?"
+
+#~ msgid "Deleted product '%s'"
+#~ msgstr "Eliminar producto '%s' "
+
+#~ msgid "Alerts with status \"%s\""
+#~ msgstr "Alertes amb l'estat \"%s\""
+
+#~ msgid "All alerts"
+#~ msgstr "Totes les alertes"
+
+#~ msgid "Add a new category"
+#~ msgstr "Afegeix una nueva categoría"
+
+#~ msgid "Category created successfully"
+#~ msgstr "Se ha creado la categoría"
+
+#~ msgid "Update category '%s'"
+#~ msgstr "Actualitzar categoria '%s'"
+
+#~ msgid "Category updated successfully"
+#~ msgstr "Categoría actualizada correctamente."
+
+#~ msgid "Category deleted successfully"
+#~ msgstr "Categoría eliminada correctamente."
+
+#~ msgid "Email subject template"
+#~ msgstr "Plantilla de asunto de correo electrónico"
+
+#~ msgid "Email body text template"
+#~ msgstr "Missatge plantilla de correu"
+
+#~ msgid "Email body HTML template"
+#~ msgstr "Missatge HTML plantilla de correu"
+
+#~ msgid "Preview email"
+#~ msgstr "Vista previa email"
+
+#~ msgid "No order found with this number"
+#~ msgstr "No se ha encontrado pedidos con este número "
+
+#~ msgid "Please enter an email address"
+#~ msgstr "Introduzca un correo electrónico."
+
+#~ msgid ""
+#~ "The submitted form was not valid, please correct the errors and resubmit"
+#~ msgstr ""
+#~ "El formulario enviado no es valido. Corrija los errores y reenvíelo "
+
+#~ msgid "Email saved"
+#~ msgstr "Email guardado "
+
+#~ msgid "A preview email has been sent to %s"
+#~ msgstr "Una vista previa del email ha sido enviado a %s"
+
+#~ msgid "Start date"
+#~ msgstr "Data d'inici"
+
+#~ msgid "End date"
+#~ msgstr "Data finalització"
+
+#~ msgid "The end date must be after the start date"
+#~ msgstr "La fecha de finalización debe ser posterior a la fecha de inicio."
+
+#~ msgid "Custom condition"
+#~ msgstr "Condición de Personalizacion  "
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom condition"
+#~ msgstr ""
+#~ "Elija un rango, tipo y valor o seleccione una condición personalizada."
+
+#~ msgid "Custom incentive"
+#~ msgstr "Descuento personalizado"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom incentive"
+#~ msgstr "Elige un rango, tipo y el valor o selecciona un descuento."
+
+#~ msgid "No other options can be set if you are using a custom incentive"
+#~ msgstr ""
+#~ "Otras opciones no pueden activarse si usa un descuento personalizado."
+
+#~ msgid "Offer name"
+#~ msgstr "Nombre de la oferta"
+
+#~ msgid "Is active?"
+#~ msgstr "Esta activo? "
+
+#~ msgid "Order date"
+#~ msgstr "Data comanda"
+
+#~ msgid "Order total"
+#~ msgstr "Total comanda"
+
+#~ msgid "Cost"
+#~ msgstr "Cost"
+
+#~ msgid "All offers"
+#~ msgstr "Totes les ofertes"
+
+#~ msgid "Offers matching '%s'"
+#~ msgstr "Pedidos con similitud '%s'"
+
+#~ msgid "%s step not complete"
+#~ msgstr "%s paso sin completar"
+
+#~ msgid "Offer '%s' updated"
+#~ msgstr "Oferta '%s' actualizada "
+
+#~ msgid "Offer '%s' created!"
+#~ msgstr "Oferta '%s' creado "
+
+#~ msgid "Name and description"
+#~ msgstr "Nombre y descripción  "
+
+#~ msgid "Incentive"
+#~ msgstr "Descuento "
+
+#~ msgid "Restrictions"
+#~ msgstr "Restricciones "
+
+#~ msgid "Offer deleted!"
+#~ msgstr "Se ha eliminado la oferta."
+
+#~ msgid "Offer is already suspended"
+#~ msgstr "Se ha suspendido la oferta."
+
+#~ msgid "Offer suspended"
+#~ msgstr "Suspender oferta"
+
+#~ msgid "Offer cannot be reinstated as it is not currently suspended"
+#~ msgstr "La oferta no puede ser activada ya que no está suspendido."
+
+#~ msgid "Offer reinstated"
+#~ msgstr "Oferta reinstaurada "
+
+#~ msgid "Orders placed since %s"
+#~ msgstr "Pedidos desde %s"
+
+#~ msgid "Orders placed until %s"
+#~ msgstr "Pedidos hasta %s"
+
+#~ msgid "Customer name"
+#~ msgstr "Cliente "
+
+#~ msgid "Product name"
+#~ msgstr "Nombre del producto "
+
+#~ msgid "Partner SKU"
+#~ msgstr "Codi client"
+
+#~ msgid "Date from"
+#~ msgstr "Fecha desde "
+
+#~ msgid "Date to"
+#~ msgstr "Fins la data"
+
+#~ msgid "Voucher code"
+#~ msgstr "Codi del cupó"
+
+#~ msgid "Payment method"
+#~ msgstr "Metodo de pago "
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "CSV"
+#~ msgstr "CSV"
+
+#~ msgid "Get results as"
+#~ msgstr "Obtener resultados como "
+
+#~ msgid "Order value"
+#~ msgstr "Valor de pedido "
+
+#~ msgid "Date of purchase"
+#~ msgstr "Fecha de compra"
+
+#~ msgid "Number of items"
+#~ msgstr "Número de artículos "
+
+#~ msgid "Order status"
+#~ msgstr "Estado del pedido"
+
+#~ msgid "Customer email address"
+#~ msgstr "Correo electrónico del cliente"
+
+#~ msgid "Deliver to name"
+#~ msgstr "Entregar a nombre"
+
+#~ msgid "Bill to name"
+#~ msgstr "Factura a"
+
+#~ msgid "The new status '%s' is not valid"
+#~ msgstr "El nuevo estado '%s' no es valido "
+
+#~ msgid "The new status '%s' is not valid for this order"
+#~ msgstr "El nuevo estado '%s' no es valido para este pedido "
+
+#~ msgid "Unable to change order status due to payment error: %s"
+#~ msgstr ""
+#~ "No es posible cambiar el estado del pedido debido al error de pago: %s "
+
+#~ msgid "Order status changed from '%(old_status)s' to '%(new_status)s'"
+#~ msgstr ""
+#~ "El estado del pedido ha cambiado de '%(old_status)s' a '%(new_status)s'"
+
+#~ msgid "No valid action submitted"
+#~ msgstr "Acción no válida enviada"
+
+#~ msgid "Invalid action"
+#~ msgstr "Acción invalida"
+
+#~ msgid "You must select some lines to act on"
+#~ msgstr "Debes seleccionar algunas líneas"
+
+#~ msgid "Note saved"
+#~ msgstr "Nota guardada "
+
+#~ msgid "Note cannot be deleted"
+#~ msgstr "Nota no puede ser eliminada "
+
+#~ msgid "Note deleted"
+#~ msgstr "Nota eliminada"
+
+#~ msgid "Please choose a valid amount"
+#~ msgstr "Utilitza una quantitat vàlida"
+
+#~ msgid "'%(status)s' is not a valid new status for line %(line_id)d"
+#~ msgstr "'%(status)s' no es un nuevo estado válido para linea %(line_id)d "
+
+#~ msgid ""
+#~ "Status of line #%(line_id)d changed from '%(old_status)s' to "
+#~ "'%(new_status)s'"
+#~ msgstr ""
+#~ "El estado #%(line_id)d ha cambiado '%(old_status)s' por '%(new_status)s'"
+
+#~ msgid "The event type '%s' is not valid"
+#~ msgstr "El tipo de evento '%s' no es valido "
+
+#~ msgid "Unable to create shipping event: %s"
+#~ msgstr "No es posible crear evento de envío: %s"
+
+#~ msgid "Unable to create shipping event due to payment error: %s"
+#~ msgstr "No es posible crear evento de envío debido a error de pago: %s"
+
+#~ msgid "Shipping event created"
+#~ msgstr "Evento de envió creado "
+
+#~ msgid "Payment event created"
+#~ msgstr "Evento de pago creado "
+
+#~ msgid "%(field)s changed from '%(old_value)s' to '%(new_value)s'"
+#~ msgstr "%(field)s ha cambiado de '%(old_value)s' por '%(new_value)s'"
+
+#~ msgid ""
+#~ "Delivery address updated:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Actualizada l'adreça de entrega:\n"
+#~ "%s"
+
+#~ msgid "Delivery address updated"
+#~ msgstr "Direccion de entrega actualizado "
+
+#~ msgid "All pages"
+#~ msgstr "Todas las paginas "
+
+#~ msgid " with title containing '%s'"
+#~ msgstr "mientras el título contiene: '%s'."
+
+#~ msgid "Create New Page"
+#~ msgstr "Nueva página "
+
+#~ msgid "Deleted page '%s'"
+#~ msgstr "Pagina eliminada '%s' "
+
+#~ msgid "Confirm Password"
+#~ msgstr "Confirma contrasenya "
+
+#~ msgid "Create new partner"
+#~ msgstr "Crear un nuevo cliente"
+
+#~ msgid "Create user"
+#~ msgstr "Crear usuario"
+
+#~ msgid "Promotion type"
+#~ msgstr "Tipo de promoción "
+
+#~ msgid "Position"
+#~ msgstr "Posición "
+
+#~ msgid "Where in the page this content block will appear"
+#~ msgstr "Donde en la página este módulo aparecerá."
+
+#~ msgid "Content block removed successfully"
+#~ msgstr "Se ha eliminado un módulo de contenido."
+
+#~ msgid "Content block created successfully"
+#~ msgstr "Se ha creado un módulo de contenido."
+
+#~ msgid "Create a new %s content block"
+#~ msgstr "Se ha creado un %s módulo de contenido "
+
+#~ msgid "Product list content block created"
+#~ msgstr "Módulo de lista de producto creado "
+
+#~ msgid "Update content block"
+#~ msgstr "Modificar módulo de contenido "
+
+#~ msgid "Content block updated successfully"
+#~ msgstr "Se ha actualizado un módulo de contenido."
+
+#~ msgid "Content block '%(block)s' added to page '%(page)s'"
+#~ msgstr "Módulo '%(block)s' relacionado a la página '%(page)s' "
+
+#~ msgid "No link found to delete"
+#~ msgstr "No se ha encontrado un link para eliminar "
+
+#~ msgid "Content block removed from page '%s'"
+#~ msgstr "Módulo eliminado de la página '%s'"
+
+#~ msgid "Product list promotion updated"
+#~ msgstr "Lista de promoción de producto actualizado "
+
+#~ msgid "Content block deleted successfully"
+#~ msgstr "Se ha eliminado un módulo de contenido."
+
+#~ msgid "Product SKUs or UPCs"
+#~ msgstr "Producto SKUs o UPSs"
+
+#~ msgid "You can paste in a selection of SKUs or UPCs"
+#~ msgstr ""
+#~ "Pots fer 'enganxar' a la selecció de SKUs (Stock Keeping Unit) or UPCs "
+#~ "(Universal Product Code)"
+
+#~ msgid "File of SKUs or UPCs"
+#~ msgstr "Archivo de SKUs o UPCs"
+
+#~ msgid "Either comma-separated, or one identifier per line"
+#~ msgstr "O bé separats per comes o bé un identificador per línia"
+
+#~ msgid "You must submit either a list of SKU/UPCs or a file"
+#~ msgstr "Debe enviar una lista de SKU/UPCs o un fichero"
+
+#~ msgid "The products with SKUs or UPCs matching %s are already in this range"
+#~ msgstr ""
+#~ "Ja existeixem productes amb %s SKU (Unitat de Manteniment d'Estoc) o UPC "
+#~ "(Codi Universal de Producte) en aquest mateix rang."
+
+#~ msgid "No products exist with a SKU or UPC matching %s"
+#~ msgstr ""
+#~ "No trobo productes amb SKU (Unitat de Manteniment d'Estoc) o UPC (Codi "
+#~ "Universal de Producte) que casin amb %s"
+
+#~ msgid "Create range"
+#~ msgstr "Crear rango "
+
+#~ msgid "Range deleted"
+#~ msgstr "Rango eliminado "
+
+#~ msgid "Removed %d product from range"
+#~ msgid_plural "Removed %d products from range"
+#~ msgstr[0] "Eliminado producto %d  del rango"
+#~ msgstr[1] "Eliminado productos %d del rango"
+
+#~ msgid "%d product added to range"
+#~ msgid_plural "%d products added to range"
+#~ msgstr[0] "%d producto añadidos al rango"
+#~ msgstr[1] "%d productos añadidos al rango"
+
+#~ msgid "No product(s) were found with SKU or UPC matching %s"
+#~ msgstr ""
+#~ "No s'ha trobat producte(s) amb SKU (Unitat de Manteniment d'Estoc) o UPC "
+#~ "(Codi Universal de Producte) que casin amb %s"
+
+#~ msgid "Report Type"
+#~ msgstr "Tipo de informe "
+
+#~ msgid "Only the offer and order reports use the selected date range"
+#~ msgstr "Sólo los informes de ofertas y pedidos usan la fecha seleccionada."
+
+#~ msgid "The report is inclusive of this date"
+#~ msgstr "El informe esta incluido en esta fecha "
+
+#~ msgid "Download"
+#~ msgstr "Descargar "
+
+#~ msgid "Your start date must be before your end date"
+#~ msgstr "La fecha de inicio debe ser antes de la fecha de finalización. "
+
+#~ msgid "%(report_filter)s between %(start_date)s and %(end_date)s"
+#~ msgstr "%(report_filter)s entre %(start_date)s y %(end_date)s"
+
+#~ msgid "You do not have access to this report"
+#~ msgstr "No tienes acceso a este informe "
+
+#~ msgid "Keyword"
+#~ msgstr "Palabra clave "
+
+#~ msgid "to"
+#~ msgstr "para "
+
+#~ msgid ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+#~ msgstr ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+
+#~ msgid " created after %s"
+#~ msgstr "creado después de %s"
+
+#~ msgid " created before %s"
+#~ msgstr "creado antes de %s"
+
+#~ msgid " created between %(start_date)s and %(end_date)s"
+#~ msgstr "creado entre %(start_date)s y %(end_date)s "
+
+#~ msgid "All reviews"
+#~ msgstr "Tots els comentaris"
+
+#~ msgid " with status matching '%s'"
+#~ msgstr "con estado coincidiendo con '%s' "
+
+#~ msgid " with keyword matching '%s'"
+#~ msgstr "con palabra clave coincidiendo con '%s' "
+
+#~ msgid " with customer name matching '%s'"
+#~ msgstr "con nombre de cliente coincidiendo con '%s'"
+
+#~ msgid "%(main_filter)s %(email_filter)s %(name_filter)s"
+#~ msgstr "%(main_filter)s %(email_filter)s %(name_filter)s"
+
+#~ msgid "All users"
+#~ msgstr "Todos los usuarios "
+
+#~ msgid " with email matching '%s'"
+#~ msgstr "con email coincidiendo con '%s'"
+
+#~ msgid " with name matching '%s'"
+#~ msgstr "con nombre coincidiendo con '%s'"
+
+#~ msgid "Users' status successfully changed"
+#~ msgstr "El estado del usuario se ha cambiado con éxito."
+
+#~ msgid "All Alerts"
+#~ msgstr "Totes les alertes"
+
+#~ msgid " with customer email matching '%s'"
+#~ msgstr "con email del cliente coincidente con '%s'"
+
+#~ msgid "Product alert saved"
+#~ msgstr "Alerta de producto guardado "
+
+#~ msgid "Product alert deleted"
+#~ msgstr "Alerta de producto eliminado "
+
+#~ msgid "Usage"
+#~ msgstr "Modo de uso "
+
+#~ msgid "Which products get a discount?"
+#~ msgstr "Que producto obtiene un descuento? "
+
+#~ msgid "Discount is a percentage off of the shipping cost"
+#~ msgstr "El descuento es un porcentaje del total del coste de envío."
+
+#~ msgid "Get shipping for a fixed price"
+#~ msgstr "Obtener envío por un precio fijo "
+
+#~ msgid "Discount type"
+#~ msgstr "Tipus de descompte "
+
+#~ msgid "Discount value"
+#~ msgstr "Valor del descompte "
+
+#~ msgid "The name '%s' is already in use"
+#~ msgstr "El nombre '%s' ya esta en uso "
+
+#~ msgid "The code '%s' is already in use"
+#~ msgstr "El codi '%s' ja està en ús"
+
+#~ msgid "The start date must be before the end date"
+#~ msgstr "La fecha de inicio debe ser antes de la fecha de finalización. "
+
+#~ msgid "Is Active?"
+#~ msgstr "Esta activo? "
+
+#~ msgid "%(main_filter)s %(name_filter)s %(code_filter)s"
+#~ msgstr "%(main_filter)s %(name_filter)s %(code_filter)s"
+
+#~ msgid "All vouchers"
+#~ msgstr "Todos los cupones "
+
+#~ msgid "with name matching '%s'"
+#~ msgstr "con nombre coincidiendo con '%s'"
+
+#~ msgid "with code '%s'"
+#~ msgstr "amb codi '%s' "
+
+#~ msgid "Active vouchers"
+#~ msgstr "Cupones activos "
+
+#~ msgid "Create voucher"
+#~ msgstr "Crear un cupón "
+
+#~ msgid "Offer for voucher '%s'"
+#~ msgstr "Pedidos del cupón '%s'."
+
+#~ msgid "Voucher created"
+#~ msgstr "Cupón creado "
+
+#~ msgid "Voucher updated"
+#~ msgstr "Se ha actualizado el cupón. "
+
+#~ msgid "Voucher deleted"
+#~ msgstr "Cupón eliminado "
+
+#~ msgid "This is displayed within the customer's basket"
+#~ msgstr "Es mostra la cistella del client"
+
+#~ msgid "This is displayed on the offer browsing page"
+#~ msgstr "Se muestra en la página de la oferta."
+
+#~ msgid "Site offer - available to all users"
+#~ msgstr "Oferta del sitio - disponible para todos los usuarios "
+
+#~ msgid ""
+#~ "Voucher offer - only available after entering the appropriate voucher code"
+#~ msgstr "Oferta de cupón - Disponible solo después de insertar el código."
+
+#~ msgid "User offer - available to certain types of user"
+#~ msgstr "Oferta de usuario - disponible para cierto tipo de usuario "
+
+#~ msgid ""
+#~ "Session offer - temporary offer, available for a user for the duration of "
+#~ "their session"
+#~ msgstr ""
+#~ "Oferta de sessió - oferta temporal, disponible per a l'usuari durant "
+#~ "aquesta sessió"
+
+#~ msgid "Condition"
+#~ msgstr "Condición "
+
+#~ msgid "Benefit"
+#~ msgstr "Reglas"
+
+#~ msgid "Priority"
+#~ msgstr "Prioridad"
+
+#~ msgid "The highest priority offers are applied first"
+#~ msgstr "La oferta amb prioritat més alta s'ofereix primer"
+
+#~ msgid "Max global applications"
+#~ msgstr "Máximo de veces"
+
+#~ msgid "The number of times this offer can be used before it is unavailable"
+#~ msgstr ""
+#~ "El número de veces que una oferta puede ser usada antes que no esté "
+#~ "disponible."
+
+#~ msgid "Max user applications"
+#~ msgstr "Máximo de veces por usuario"
+
+#~ msgid "The number of times a single user can use this offer"
+#~ msgstr "Número de veces que un usuario puede utilizar esta oferta "
+
+#~ msgid ""
+#~ "The number of times this offer can be applied to a basket (and order)"
+#~ msgstr ""
+#~ "Número de veces que esta oferta puede ser aplicado a un carrito (y "
+#~ "pedido) "
+
+#~ msgid "Max discount"
+#~ msgstr "Máximo descuento"
+
+#~ msgid ""
+#~ "When an offer has given more discount to orders than this threshold, then "
+#~ "the offer becomes unavailable"
+#~ msgstr ""
+#~ "Cuando una oferta ha dado más de descuento para pedidos a este umbral, "
+#~ "entonces la oferta no está disponible."
+
+#~ msgid "Total Discount"
+#~ msgstr "Descompte total"
+
+#~ msgid "Number of applications"
+#~ msgstr "Número de aplicaciones "
+
+#~ msgid "Number of Orders"
+#~ msgstr "Número de comandes"
+
+#~ msgid "URL redirect (optional)"
+#~ msgstr "Redirecció URL  (opcional)"
+
+#~ msgid "Conditional offer"
+#~ msgstr "Condiciones de la oferta"
+
+#~ msgid "Conditional offers"
+#~ msgstr "Condiciones de la oferta"
+
+#~ msgid "End date should be later than start date"
+#~ msgstr "Fecha de finalización debe ser posterior a la fecha de inicio"
+
+#~ msgid "Offer is suspended"
+#~ msgstr "Se ha suspendido la oferta."
+
+#~ msgid "Limited to %(total)d uses (%(remainder)d remaining)"
+#~ msgstr "Limitat a %(total)d (en queden %(remainder)d )"
+
+#~ msgid "Limited to 1 use per user"
+#~ msgstr "Limitado a un uso por usuario "
+
+#~ msgid "Limited to %(total)d uses per user"
+#~ msgstr "Limitado a %(total)d usos por usuario"
+
+#~ msgid "Limited to 1 use per basket"
+#~ msgstr "Limitado a un uso por carrito "
+
+#~ msgid "Limited to %(total)d uses per basket"
+#~ msgstr "Limitat a %(total)d vegades per cistella"
+
+#~ msgid "Available between %(start)s and %(end)s"
+#~ msgstr "Disponible entre %(start)s y %(end)s"
+
+#~ msgid "Available from %(start)s"
+#~ msgstr "Disponible desde %(start)s"
+
+#~ msgid "Available until %(end)s"
+#~ msgstr "Disponible hasta %(end)s"
+
+#~ msgid "Limited to a cost of %(max)s"
+#~ msgstr "Límit al cost de %(max)s"
+
+#~ msgid "Range"
+#~ msgstr "Rango"
+
+#~ msgid "Discount is a percentage off of the product's value"
+#~ msgstr "El descuento es un porcentaje del producto"
+
+#~ msgid "Discount is a fixed amount off of the product's value"
+#~ msgstr "El descuento es un valor fijo del valor del producto"
+
+#~ msgid "Discount is to give the cheapest product for free"
+#~ msgstr "El descuento es para dar el producto gratuitamente"
+
+#~ msgid "Get the products that meet the condition for a fixed price"
+#~ msgstr "Obtener los productos que tienen la condición para un precio fijo "
+
+#~ msgid "Max Affected Items"
+#~ msgstr "Máximo de artículos afectados"
+
+#~ msgid ""
+#~ "Set this to prevent the discount consuming all items within the range "
+#~ "that are in the basket."
+#~ msgstr ""
+#~ "Establezca esta opción para evitar el consumo de descuento de todos los "
+#~ "artículos dentro del mismo rango que se encuentran en el carrito."
+
+#~ msgid "Custom class"
+#~ msgstr "Clase personalizada "
+
+#~ msgid "Benefits"
+#~ msgstr "Reglas"
+
+#~ msgid "Multibuy benefits require a product range"
+#~ msgstr "Reglas multicompra requieren un rango producto  "
+
+#~ msgid "Multibuy benefits don't require a value"
+#~ msgstr "Reglas multicompra no requieren un valor "
+
+#~ msgid "Multibuy benefits don't require a 'max affected items' attribute"
+#~ msgstr ""
+#~ "Reglas multicompra no requieren un atributo de 'máximo de artículos "
+#~ "afectados' "
+
+#~ msgid "Percentage benefits require a product range"
+#~ msgstr "Reglas de porcentaje requiere un rango de producto "
+
+#~ msgid "Percentage discount cannot be greater than 100"
+#~ msgstr "Descuento de porcentaje no puede ser mayor que 100 "
+
+#~ msgid "A discount value is required"
+#~ msgstr "Un valor de descuento es requerido "
+
+#~ msgid ""
+#~ "No range should be selected as this benefit does not apply to products"
+#~ msgstr ""
+#~ "Ningún rango debe ser seleccionado ya que esta regla no se aplica a "
+#~ "productos "
+
+#~ msgid "Shipping discounts don't require a 'max affected items' attribute"
+#~ msgstr ""
+#~ "Descuentos de envío no requieren un atributo de 'máximo de artículos "
+#~ "afectados' "
+
+#~ msgid ""
+#~ "No range should be selected as the condition range will be used instead."
+#~ msgstr ""
+#~ "Ningún rango debe ser seleccionado ya que el rango de condición será "
+#~ "utilizado en este caso."
+
+#~ msgid "Depends on number of items in basket that are in condition range"
+#~ msgstr ""
+#~ "Depende del número de artículos en el carrito que están en rango de "
+#~ "condición. "
+
+#~ msgid "Depends on value of items in basket that are in condition range"
+#~ msgstr ""
+#~ "Depende del valor de los artículos en el carrito que están en condición "
+#~ "de rango  "
+
+#~ msgid ""
+#~ "Needs to contain a set number of DISTINCT items from the condition range"
+#~ msgstr ""
+#~ "Debe contener un número determinado de elementos distintos de condiciones"
+
+#~ msgid "Conditions"
+#~ msgstr "Condiciones "
+
+#~ msgid "Included Products"
+#~ msgstr "Productos Incluidos "
+
+#~ msgid "Excluded Products"
+#~ msgstr "Productos Excluidos "
+
+#~ msgid "Included Categories"
+#~ msgstr "Categorias Incluidas "
+
+#~ msgid "File Path"
+#~ msgstr "Camino de archivo "
+
+#~ msgid "Size"
+#~ msgstr "Tamano "
+
+#~ msgid "Uploaded By"
+#~ msgstr "Cargado Por "
+
+#~ msgid "Date Uploaded"
+#~ msgstr "Fecha de Carga "
+
+#~ msgid "Error Message"
+#~ msgstr "Missatge de error "
+
+#~ msgid "Date Processed"
+#~ msgstr "Fecha procesada"
+
+#~ msgid "Number of New SKUs"
+#~ msgstr "Número de Nuevos SKUs"
+
+#~ msgid "Number of Unknown SKUs"
+#~ msgstr "Número de Desconocidos SKUs"
+
+#~ msgid "Number of Duplicate SKUs"
+#~ msgstr "Número de Duplicados SKUs"
+
+#~ msgid "Range Product Uploaded File"
+#~ msgstr "Fitxer pujat per a Rang de Producte"
+
+#~ msgid "Range Product Uploaded Files"
+#~ msgstr "Fitxers Pujats per a Rang de Producte"
+
+#~ msgid "%(value)s%% discount on %(range)s"
+#~ msgstr "%(value)s%% descuento en %(range)s"
+
+#~ msgid "Percentage discount benefit"
+#~ msgstr "Regla descuento porcentaje "
+
+#~ msgid "Percentage discount benefits"
+#~ msgstr "Regla descuento porcentaje"
+
+#~ msgid "%(value)s discount on %(range)s"
+#~ msgstr "%(value)s descuento en %(range)s"
+
+#~ msgid "Absolute discount benefit"
+#~ msgstr "Regla descuento absoluto "
+
+#~ msgid "Absolute discount benefits"
+#~ msgstr "Regla descuento absolutos "
+
+#~ msgid "The products that meet the condition are sold for %(amount)s"
+#~ msgstr ""
+#~ "Los productos que cumplen con la condicion son vendidos por %(amount)s"
+
+#~ msgid "Fixed price benefit"
+#~ msgstr "Regla precio fijo "
+
+#~ msgid "Fixed price benefits"
+#~ msgstr "Regla precios fijos "
+
+#~ msgid "Cheapest product from %(range)s is free"
+#~ msgstr "El producte més econòmic del %(range)s és de franc"
+
+#~ msgid "Multibuy discount benefit"
+#~ msgstr "Descuento beneficio multicompra "
+
+#~ msgid "Multibuy discount benefits"
+#~ msgstr "Beneficios de descuento multicompra"
+
+#~ msgid "%(amount)s off shipping cost"
+#~ msgstr "%(amount)s descuento de coste de envío"
+
+#~ msgid "Shipping absolute discount benefit"
+#~ msgstr "Descuento absoluto beneficio de envío "
+
+#~ msgid "Shipping absolute discount benefits"
+#~ msgstr "Total descompte en enviament"
+
+#~ msgid "Get shipping for %(amount)s"
+#~ msgstr "Obtener envíos por %(amount)s"
+
+#~ msgid "Fixed price shipping benefit"
+#~ msgstr "Beneficio envío precio fijo "
+
+#~ msgid "Fixed price shipping benefits"
+#~ msgstr "Ventajas del envío del precio fijo"
+
+#~ msgid "Shipping percentage discount benefit"
+#~ msgstr "Beneficio descuento porcentaje envío "
+
+#~ msgid "Shipping percentage discount benefits"
+#~ msgstr "Regla descuento porcentaje envío "
+
+#~ msgid "Basket includes %(count)d item(s) from %(range)s"
+#~ msgstr "Hay en el carrito %(count)d artículo(s) de %(range)s."
+
+#~ msgid "Buy %(delta)d more product from %(range)s"
+#~ msgid_plural "Buy %(delta)d more products from %(range)s"
+#~ msgstr[0] "Compra %(delta)d producto de %(range)s."
+#~ msgstr[1] "Compra %(delta)d productos de %(range)s."
+
+#~ msgid "Basket includes %(count)d distinct item(s) from %(range)s"
+#~ msgstr "Hay en el carrito %(count)d artículo(s) que no están %(range)s."
+
+#~ msgid "Coverage Condition"
+#~ msgstr "Condicion Cobertura "
+
+#~ msgid "Coverage Conditions"
+#~ msgstr "Condiciones de Cobertura "
+
+#~ msgid "Basket includes %(amount)s from %(range)s"
+#~ msgstr "Carrito incluye %(amount)s desde %(range)s"
+
+#~ msgid "Spend %(value)s more from %(range)s"
+#~ msgstr "Gasta %(value)s més a %(range)s"
+
+#~ msgid "Offer"
+#~ msgstr "Oferta"
+
+#~ msgid "Total discount"
+#~ msgstr "Descompte total"
+
+#~ msgid "Offer performance"
+#~ msgstr "Ofertas realizadas"
+
+#~ msgid "Site"
+#~ msgstr "Sitio "
+
+#~ msgid "Billing Address"
+#~ msgstr "Direccion de Facturacion "
+
+#~ msgid "Order total (inc. tax)"
+#~ msgstr "Total comanda (incl. impost)"
+
+#~ msgid "Order total (excl. tax)"
+#~ msgstr "Total comanda (excl. impost)"
+
+#~ msgid "Shipping charge (inc. tax)"
+#~ msgstr "Valor del enviament (incl. impost)"
+
+#~ msgid "Shipping charge (excl. tax)"
+#~ msgstr "Valor de enviament (excl. impost)"
+
+#~ msgid "Shipping Address"
+#~ msgstr "Adreça d'enviament"
+
+#~ msgid "Shipping method"
+#~ msgstr "Tipus d'enviament"
+
+#~ msgid "Guest email address"
+#~ msgstr "Direccion de email huesped "
+
+#~ msgid "In progress"
+#~ msgstr "En progreso "
+
+#~ msgid "Note Type"
+#~ msgstr "Tipo de nota "
+
+#~ msgid "Message"
+#~ msgstr "Missatge"
+
+#~ msgid "Order Note"
+#~ msgstr "Nota de Pedido "
+
+#~ msgid "Order Notes"
+#~ msgstr "Notes de la comanda"
+
+#~ msgid "Event Type"
+#~ msgstr "Tipo de Evento "
+
+#~ msgid "Communication Event"
+#~ msgstr "Evento de Comunicacion "
+
+#~ msgid "Communication Events"
+#~ msgstr "Evento de Comunicacion "
+
+#~ msgid "Partner name"
+#~ msgstr "Cliente "
+
+#~ msgid "Partner reference"
+#~ msgstr "Referencia del cliente "
+
+#~ msgid "This is the item number that the partner uses within their system"
+#~ msgstr "Este es el número utiliza el cliente dentro de su sistema."
+
+#~ msgid "Partner Notes"
+#~ msgstr "Notes del client "
+
+#~ msgid "Price (inc. tax)"
+#~ msgstr "Preu (incl. impost)"
+
+#~ msgid "Price (excl. tax)"
+#~ msgstr "Preu (excl. impost)"
+
+#~ msgid "Price before discounts (inc. tax)"
+#~ msgstr "Preu previ descomptes (incl. impost)"
+
+#~ msgid "Price before discounts (excl. tax)"
+#~ msgstr "Preu previ descomptes (excl. impost)"
+
+#~ msgid "Unit Cost Price"
+#~ msgstr "Preu cost"
+
+#~ msgid "Unit Price (inc. tax)"
+#~ msgstr "Precio unitari (incl. impost)"
+
+#~ msgid "Unit Price (excl. tax)"
+#~ msgstr "Preu unitat (excl. impost)"
+
+#~ msgid "Unit Retail Price"
+#~ msgstr "Precio unidad minorista"
+
+#~ msgid "Estimated Dispatch Date"
+#~ msgstr "Data enviament previst"
+
+#~ msgid "Order Line"
+#~ msgstr "Linea de Compra "
+
+#~ msgid "<missing product>"
+#~ msgstr "<produto no encontrado>"
+
+#~ msgid "Product '%(name)s', quantity '%(qty)s'"
+#~ msgstr "Producte '%(name)s', quantitat '%(qty)s'"
+
+#~ msgid "Line Attribute"
+#~ msgstr "Atributo de linea "
+
+#~ msgid "Line Attributes"
+#~ msgstr "Atributos de linea "
+
+#~ msgid "Shiping (inc. tax)"
+#~ msgstr "Enviament (incl. impost)"
+
+#~ msgid "Shipping (excl. tax)"
+#~ msgstr "Enviament (excl. impost)"
+
+#~ msgid "Line Price"
+#~ msgstr "Precio de Linea "
+
+#~ msgid "Line Prices"
+#~ msgstr "Precios de Linea"
+
+#~ msgid "Line '%(number)s' (quantity %(qty)d) price %(price)s"
+#~ msgstr "Linia '%(number)s' (quantitat %(qty)d) preu %(price)s"
+
+#~ msgid "Payment Event Type"
+#~ msgstr "Tipo de evento de pago"
+
+#~ msgid "Payment Event Types"
+#~ msgstr "Tipos de evento de pago"
+
+#~ msgid "Amount"
+#~ msgstr "Quantitat"
+
+#~ msgid "Reference"
+#~ msgstr "Referencia"
+
+#~ msgid "Lines"
+#~ msgstr "Líneas "
+
+#~ msgid "Payment Event"
+#~ msgstr "Evento de Pago "
+
+#~ msgid "Payment Events"
+#~ msgstr "Eventos de pago"
+
+#~ msgid "Event"
+#~ msgstr "Evento "
+
+#~ msgid "Event notes"
+#~ msgstr "Notas de evento "
+
+#~ msgid "This could be the dispatch reference, or a tracking number"
+#~ msgstr ""
+#~ "Esto puede ser la referencia de despacho, o un Número de seguimiento. "
+
+#~ msgid "Shipping Event"
+#~ msgstr "Evento de envío"
+
+#~ msgid "Shipping Events"
+#~ msgstr "Eventos de envíos"
+
+#~ msgid "Order #%(number)s, type %(type)s"
+#~ msgstr "Comanda #%(number)s, tipus %(type)s"
+
+#~ msgid "Shipping Event Quantity"
+#~ msgstr "Quantitat d'enviament"
+
+#~ msgid "Shipping Event Quantities"
+#~ msgstr "Quantitats d'enviament"
+
+#~ msgid "%(product)s - quantity %(qty)d"
+#~ msgstr "%(product)s - quantitat %(qty)d"
+
+#~ msgid "Shipping Event Type"
+#~ msgstr "Tipo de evento de envío "
+
+#~ msgid "Shipping Event Types"
+#~ msgstr "Tipos de evento de envío "
+
+#~ msgid "Discount category"
+#~ msgstr "Categoria de descompte"
+
+#~ msgid "Offer ID"
+#~ msgstr "Identificacion de oferta "
+
+#~ msgid "Voucher ID"
+#~ msgstr "ID cupón"
+
+#~ msgid "Frequency"
+#~ msgstr "Frecuencia "
+
+#~ msgid "Order Discount"
+#~ msgstr "Descomptes de comandes"
+
+#~ msgid "Order Discounts"
+#~ msgstr "Descomptes de comandes"
+
+#~ msgid "Discount of %(amount)r from order %(order)s"
+#~ msgstr "Descuento de %(amount)r del pedido %(order)s"
+
+#~ msgid "Total incl. tax"
+#~ msgstr "Total amb impuestos"
+
+#~ msgid "Date placed"
+#~ msgstr "Fecha realizado"
+
+#~ msgid "Orders placed"
+#~ msgstr "Pedidos realizados "
+
+#~ msgid "Empty baskets cannot be submitted"
+#~ msgstr "Carritos vacíos no pueden ser substituidos "
+
+#~ msgid "There is already an order with number %s"
+#~ msgstr "Ya existe un pedido con número %s"
+
+#~ msgid "Fulfillment partner"
+#~ msgstr "Tipos de cliente"
+
+#~ msgid "Fulfillment partners"
+#~ msgstr "Tipos de cliente"
+
+#~ msgid "Price (retail)"
+#~ msgstr "Preu (minorista) "
+
+#~ msgid "Cost Price"
+#~ msgstr "Preu cost"
+
+#~ msgid "Number in stock"
+#~ msgstr "Número de stock "
+
+#~ msgid "Number allocated"
+#~ msgstr "Número asignado"
+
+#~ msgid "Low Stock Threshold"
+#~ msgstr "Regla stock mínimo"
+
+#~ msgid "Invalid stock consumption request"
+#~ msgstr "Pedido invalido de consumicion de stock "
+
+#~ msgid "Stock Record"
+#~ msgstr "Registro de Stock "
+
+#~ msgid "Open"
+#~ msgstr "Abierto"
+
+#~ msgid "Date Closed"
+#~ msgstr "Data tancada"
+
+#~ msgid "Stock alerts"
+#~ msgstr "Alertes estock"
+
+#~ msgid "Available"
+#~ msgstr "Disponible"
+
+#~ msgid "In stock (%d available)"
+#~ msgstr "En stock (%d disponible)"
+
+#~ msgid "No file path supplied"
+#~ msgstr "Sin dirección de archivo suministrada"
+
+#~ msgid "%s does not exist"
+#~ msgstr "%s no existe"
+
+#~ msgid "%s is not a file"
+#~ msgstr "%s no es un archivo"
+
+#~ msgid "%s is not readable"
+#~ msgstr "%s no se puede leer"
+
+#~ msgid "Source"
+#~ msgstr "Medio"
+
+#~ msgid "%(type)s of %(amount).2f"
+#~ msgstr " %(amount).2f de %(type)s "
+
+#~ msgid "Transaction"
+#~ msgstr "Transacción"
+
+#~ msgid "Transactions"
+#~ msgstr "Transacciones"
+
+#~ msgid "Source Type"
+#~ msgstr "Tipo de origen"
+
+#~ msgid "Amount Refunded"
+#~ msgstr "Cantidad devuelta"
+
+#~ msgid "Label"
+#~ msgstr "Etiqueta"
+
+#~ msgid "Sources"
+#~ msgstr "Orígenes"
+
+#~ msgid "Source Types"
+#~ msgstr "Tipos de origen"
+
+#~ msgid "Card Type"
+#~ msgstr "Tipo de tarjeta"
+
+#~ msgid "Number"
+#~ msgstr "Número"
+
+#~ msgid "Expiry Date"
+#~ msgstr "Fecha de expiración"
+
+#~ msgid "Partner Reference"
+#~ msgstr "Referencia cliente"
+
+#~ msgid "Bankcard"
+#~ msgstr "Tarjeta bancaria"
+
+#~ msgid "Bankcards"
+#~ msgstr "Tarjetas bancarias"
+
+#~ msgid "Payment"
+#~ msgstr "Pagament"
+
+#~ msgid "Card number"
+#~ msgstr "Número de la tarjeta"
+
+#~ msgid "Please enter a valid credit card number."
+#~ msgstr "Introduzca un número de tarjeta de crédito válido."
+
+#~ msgid "Enter a valid month."
+#~ msgstr "Introduzca un mes válido."
+
+#~ msgid "Enter a valid year."
+#~ msgstr "Introduzca un año válido."
+
+#~ msgid "Valid to"
+#~ msgstr "Válido hasta"
+
+#~ msgid "The expiration date you entered is in the past."
+#~ msgstr "La fecha de expiración que has ingresado ya ha pasado."
+
+#~ msgid "Valid from"
+#~ msgstr "Válido desde"
+
+#~ msgid "The starting date you entered is in the future."
+#~ msgstr "La fecha de inicio que ingresó está en el futuro"
+
+#~ msgid ""
+#~ "This is the 3 or 4 digit security number on the back of your bankcard"
+#~ msgstr ""
+#~ "Estos son los 3 o 4 dígitos del número de seguridad en la parte posterior "
+#~ "de tu tarjeta bancaria."
+
+#~ msgid "Promotions"
+#~ msgstr "Promociones"
+
+#~ msgid "Display Order"
+#~ msgstr "Ordenación"
+
+#~ msgid "Clicks"
+#~ msgstr "Clicks"
+
+#~ msgid "Linked Promotion"
+#~ msgstr "Promociones vinculadas"
+
+#~ msgid "Linked Promotions"
+#~ msgstr "Promociones vinculadas"
+
+#~ msgid "Page URL"
+#~ msgstr "URL"
+
+#~ msgid "Page Promotion"
+#~ msgstr "Promociones"
+
+#~ msgid "Page Promotions"
+#~ msgstr "Promociones"
+
+#~ msgid "Filter"
+#~ msgstr "Filtro"
+
+#~ msgid "Keywords"
+#~ msgstr "Palabras clave"
+
+#~ msgid "Promotion"
+#~ msgstr "Promoción"
+
+#~ msgid "Display type"
+#~ msgstr "Tipo de display"
+
+#~ msgid ""
+#~ "This can be used to have different types of HTML blocks (eg different "
+#~ "widths)"
+#~ msgstr "Puede usar en diferentes tipos de módulos HTML"
+
+#~ msgid "List"
+#~ msgstr "Lista"
+
+#~ msgid "Method"
+#~ msgstr "Tipus"
+
+#~ msgid "Number of Products"
+#~ msgstr "Número de Productos"
+
+#~ msgid "Search"
+#~ msgstr "Buscar"
+
+#~ msgid "Shipping Method"
+#~ msgstr "Tipus d'enviament"
+
+#~ msgid "Shipping Methods"
+#~ msgstr "Tipus d'enviament"
+
+#~ msgid "Price per order"
+#~ msgstr "Precio por pedido"
+
+#~ msgid "Price per item"
+#~ msgstr "Precio por item"
+
+#~ msgid "Free Shipping"
+#~ msgstr "Envío gratis"
+
+#~ msgid "Charge"
+#~ msgstr "Coste de envío"
+
+#~ msgid "Shipping"
+#~ msgstr "Enviament"
+
+#~ msgid "Free shipping"
+#~ msgstr "Envío gratuito"
+
+#~ msgid "No shipping required"
+#~ msgstr "Envío no requerido"
+
+#~ msgid "Fixed price shipping"
+#~ msgstr "Envío del precio fijo"
+
+#~ msgid "You need to define some shipping methods"
+#~ msgstr "Ha de definir tipus d'enviament"
+
+#~ msgid ""
+#~ "This will be shown in the checkout and basket once the voucher is entered"
+#~ msgstr "Esto muestra en su carrito una entrada de cupón."
+
+#~ msgid "Can be used once by one customer"
+#~ msgstr "Uno por cliente"
+
+#~ msgid "Can be used multiple times by multiple customers"
+#~ msgstr "Ilimitado (tantas veces como varios clientes)"
+
+#~ msgid "Can only be used once per customer"
+#~ msgstr "Uno por cliente"
+
+#~ msgid "Voucher"
+#~ msgstr "Cupón"
+
+#~ msgid "This voucher has already been used"
+#~ msgstr "Este cupón ya ha sido utilizado."
+
+#~ msgid "This voucher is only available to signed in users"
+#~ msgstr "Este cupón sólo está disponible en los usuarios registrados."
+
+#~ msgid "You have already used this voucher in a previous order"
+#~ msgstr "Ya ha utilizado este cupón en anteriores pedidos."
+
+#~ msgid "Voucher Application"
+#~ msgstr "Aplicación de cupones"
+
+#~ msgid "Voucher Applications"
+#~ msgstr "Aplicaciones de cupones"
+
+#~ msgid "'%(voucher)s' used by '%(user)s'"
+#~ msgstr "'%(voucher)s' usado por '%(user)s'"
+
+#~ msgid "Added to a basket"
+#~ msgstr "Afegit a la cistella"
+
+#~ msgid "Used in an order"
+#~ msgstr "Usado en un pedido"
+
+#~ msgid "Voucher performance"
+#~ msgstr "Cupones realizados"
+
+#~ msgid "This field is required"
+#~ msgstr "Aquest camp es obligatori"
+
+#~ msgid "Permission denied!"
+#~ msgstr "Permiso denegado!"
+
+#~ msgid "We're sorry but you are not permitted to access this page."
+#~ msgstr "No disposa d'accès per accedir aquesta pàgina."
+
+#~ msgid "Page not found"
+#~ msgstr "Página no encontrada"
+
+#~ msgid "Page not found!"
+#~ msgstr "Página no encontrada!"
+
+#~ msgid "We're sorry but the page you are looking for can't be found."
+#~ msgstr "La página que esta buscando no la encontramos."
+
+#~ msgid "Server error!"
+#~ msgstr "Error de servidor!"
+
+#~ msgid ""
+#~ "This incident has been logged and will be addressed by an engineer as "
+#~ "soon as possible."
+#~ msgstr ""
+#~ "La incidencia ha sido registrada y se intentará solucionar lo más breve "
+#~ "posible."
+
+#~ msgid "Home"
+#~ msgstr "Inici"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(title)s</strong> has been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> s'ha afegit a la seva cistella."
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(quantity)s</strong> copies of <strong>%(title)s</strong>\n"
+#~ "    have been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(quantity)s</strong> clonats de <strong>%(title)s</strong>\n"
+#~ "s'ha afegit a la seva cistella."
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been saved for later\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> s'ha guardat per ser comprat en un altre "
+#~ "moment.\n"
+
+#~ msgid "Your basket is now empty"
+#~ msgstr "La seva cistella es troba buida."
+
+#~ msgid "View basket"
+#~ msgstr "Ver carrito"
+
+#~ msgid "Checkout now"
+#~ msgstr "Crea ara la comanda"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket now qualifies for the \n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "S'ha aplicat la oferta <strong>%(name)s</strong> a la seva cistella.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket no longer qualifies for the\n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "La seva cistella ja no conté ofertes de\n"
+#~ "<strong>%(name)s</strong>.\n"
+
+#~ msgid "Items to buy now"
+#~ msgstr "Esta comprant"
+
+#~ msgid "Price"
+#~ msgstr "Preu"
+
+#~ msgid "Total"
+#~ msgstr "Total"
+
+#~ msgid "Update"
+#~ msgstr "Actualitzar"
+
+#~ msgid "Remove"
+#~ msgstr "Elimina"
+
+#~ msgid "Save for later"
+#~ msgstr "Guardar per mes tard"
+
+#~ msgid "Voucher/promo code"
+#~ msgstr "Codi promocional"
+
+#~ msgid "I have a voucher code..."
+#~ msgstr "Tinc un codi de cupó"
+
+#~ msgid "Add voucher"
+#~ msgstr "Afegeix cupó"
+
+#~ msgid "or"
+#~ msgstr "o"
+
+#~ msgid "cancel"
+#~ msgstr "cancel·la"
+
+#~ msgid "Totals"
+#~ msgstr "Totals"
+
+#~ msgid "Proceed to checkout"
+#~ msgstr "Crea comanda"
+
+#~ msgid "Your basket is empty."
+#~ msgstr "La seva cistella està buida."
+
+#~ msgid "Continue shopping"
+#~ msgstr "Continua les seves compres"
+
+#~ msgid "Items"
+#~ msgstr "Articles"
+
+#~ msgid "Move to basket"
+#~ msgstr "Moure a la cistella"
+
+#~ msgid "Qty"
+#~ msgstr "Quant."
+
+#~ msgid "Total:"
+#~ msgstr "Total:"
+
+#~ msgid "Basket total (before discounts)"
+#~ msgstr "Total cistella (després de descomptes)"
+
+#~ msgid "Discount"
+#~ msgstr "Descompte"
+
+#~ msgid "Basket total (after discounts)"
+#~ msgstr "Total cistella (abans de descomptes)"
+
+#~ msgid "Basket total"
+#~ msgstr "Total cistella"
+
+#~ msgid "Alternative shipping methods can be chosen during checkout"
+#~ msgstr ""
+#~ "Els tipus d'enviament es seleccionaran durant el procés de compra. A "
+#~ "continuació es mostra un cost d'enviament aproximat."
+
+#~ msgid "Post order actions"
+#~ msgstr "Acciones después del pedido"
+
+#~ msgid "No products found."
+#~ msgstr "No se encontraron productos."
+
+#~ msgid "Edit this product"
+#~ msgstr "Editar este producto"
+
+#~ msgid "Product Description"
+#~ msgstr "Descripción del producto"
+
+#~ msgid "Product Information"
+#~ msgstr "Informació del producte"
+
+#~ msgid "Price (incl. tax)"
+#~ msgstr "Preu (incl. impost)"
+
+#~ msgid "Availability"
+#~ msgstr "Disponibilidad"
+
+#~ msgid "See all reviews"
+#~ msgstr "Veure tots els comentaris"
+
+#~ msgid "Customer Reviews"
+#~ msgstr "Comentaris dels clients"
+
+#~ msgid "This product does not have any reviews yet"
+#~ msgstr "Aquest producte no té cap comentari"
+
+#~ msgid "Recommended items"
+#~ msgstr "Articles recomanats"
+
+#~ msgid "Add to basket"
+#~ msgstr "Afegeix a la cistella"
+
+#~ msgid "You have an active stock alert for this product."
+#~ msgstr ""
+#~ "Ya tienes una alerta para avisarle cuando haya stock para este producto."
+
+#~ msgid "You can get an email alert when this product is back in stock."
+#~ msgstr ""
+#~ "Avísame por correo electrónico cuando este producto vuelva a estar "
+#~ "disponible."
+
+#~ msgid "Notify me"
+#~ msgstr "Notificarme"
+
+#~ msgid "Is this review helpful?"
+#~ msgstr "Es este comentario útil?"
+
+#~ msgid "Yes"
+#~ msgstr "Si"
+
+#~ msgid "No"
+#~ msgstr "No"
+
+#~ msgid "Write a review"
+#~ msgstr "Escriure un comentari"
+
+#~ msgid "Customer reviews"
+#~ msgstr "Comentaris de clients"
+
+#~ msgid "Leave a product review"
+#~ msgstr "Comentari del producte"
+
+#~ msgid "This product does not have any reviews yet."
+#~ msgstr "Aquest producte no té cap comentari."
+
+#~ msgid "Payment details to go here"
+#~ msgstr "Detalls del tipus de pagament"
+
+#~ msgid "Edit order contents"
+#~ msgstr "Edita la comanda"
+
+#~ msgid "Order contents"
+#~ msgstr "Detalls de la comanda"
+
+#~ msgid "Who are you?"
+#~ msgstr "Qui ets?"
+
+#~ msgid "Get a password reminder"
+#~ msgstr "Recordar contrasenya"
+
+#~ msgid "Continue"
+#~ msgstr "Continua"
+
+#~ msgid "1. Shipping address"
+#~ msgstr "1. Adreça d'enviament"
+
+#~ msgid "2. Shipping method"
+#~ msgstr "2. Enviament"
+
+#~ msgid "3. Payment"
+#~ msgstr "3. Pagament"
+
+#~ msgid "Payment details"
+#~ msgstr "Detalls del pagament"
+
+#~ msgid "Order preview"
+#~ msgstr "Confirma comanda"
+
+#~ msgid "Place order"
+#~ msgstr "Crea comanda"
+
+#~ msgid "Where should we ship to?"
+#~ msgstr "A on tenim d'enviar el paquet"
+
+#~ msgid "Ship to this address"
+#~ msgstr "Envia aquí"
+
+#~ msgid "Delete"
+#~ msgstr "Elimina"
+
+#~ msgid "Or a new address?"
+#~ msgstr "O a una nova adreça?"
+
+#~ msgid "return to basket"
+#~ msgstr "volver al carrito"
+
+#~ msgid "Select option"
+#~ msgstr "Continua"
+
+#~ msgid ""
+#~ "Please make a note of this reference or print this page and quote it in "
+#~ "any communication with us regarding your order."
+#~ msgstr ""
+#~ "Anoti aquesta referencia o imprimeix aquesta pàgina per qualsevol "
+#~ "comunicació amb el seguiment de la comanda."
+
+#~ msgid "No payment was required for this order."
+#~ msgstr "Pagament no disponible en aquesta comanda de venda."
+
+#~ msgid "Items purchased"
+#~ msgstr "Articles comprats"
+
+#~ msgid "Shipping charge (before discounts)"
+#~ msgstr "Cost d'enviament (després de descomptes)"
+
+#~ msgid "Shipping charge (after discounts)"
+#~ msgstr "Cost d'enviament (abans de descomptes)"
+
+#~ msgid "Shipping charge"
+#~ msgstr "Cost d'enviament"
+
+#~ msgid "Print this page"
+#~ msgstr "Imprimeix aquesta pàgina"
+
+#~ msgid "Yes!"
+#~ msgstr "Si!"
+
+#~ msgid "Save"
+#~ msgstr "Guardar"
+
+#~ msgid "Address book"
+#~ msgstr "Adreces"
+
+#~ msgid "Default shipping address"
+#~ msgstr "Adreça d'enviament per defecte"
+
+#~ msgid "Default billing address"
+#~ msgstr "Adreça de facturació per defecte"
+
+#~ msgid "Edit"
+#~ msgstr "Edita"
+
+#~ msgid "There are no addresses in your address book."
+#~ msgstr "No disposa de adreces al seu compte."
+
+#~ msgid "You do not have any active alerts for out-of-stock products."
+#~ msgstr ""
+#~ "No disposa de cap alerta activa per quan hi hagi estoc dels productes."
+
+#~ msgid "Cancel"
+#~ msgstr "Cancel·la"
+
+#~ msgid "Order #%(number)s"
+#~ msgstr "Comanda #%(number)s"
+
+#~ msgid "Contact number"
+#~ msgstr "Telèfon"
+
+#~ msgid "Notes"
+#~ msgstr "Notes"
+
+#~ msgid "Estimated dispatch date"
+#~ msgstr "Data enviament previst"
+
+#~ msgid "Line price excl. tax"
+#~ msgstr "Preu excl. impost"
+
+#~ msgid "Line price incl. tax"
+#~ msgstr "Preu incl. impost"
+
+#~ msgid "Basket total (inc. tax)"
+#~ msgstr "Total cistella (incl. impost):"
+
+#~ msgid "Email history"
+#~ msgstr "Historial de emails"
+
+#~ msgid "Date sent"
+#~ msgstr "Data enviat"
+
+#~ msgid "Thanks for using our site!"
+#~ msgstr "Gracies per utilitzar la nostra botiga."
+
+#~ msgid "The %(name)s team"
+#~ msgstr "El equip %(name)s"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately "
+#~ "and correct your email address:"
+#~ msgstr ""
+#~ "Si no es usted que la ha cambiado, accede a nuestra tienda y cámbiela de "
+#~ "inmediato."
+
+#~ msgid ""
+#~ "If it was you who changed the email address, you can ignore this email."
+#~ msgstr ""
+#~ "Si es usted que ha cambiado el correo electrónico, puede ignorar mensaje."
+
+#~ msgid "Your email address has changed at %(site_name)s."
+#~ msgstr "Su correo electrónico ha cambiado a %(site_name)s."
+
+#~ msgid "Hello,"
+#~ msgstr "Hola,"
+
+#~ msgid "Your order contains:"
+#~ msgstr "Els articles de la comanda son:"
+
+#~ msgid "Basket total:"
+#~ msgstr "Total cistella:"
+
+#~ msgid "Shipping:"
+#~ msgstr "Enviament:"
+
+#~ msgid "Order Total:"
+#~ msgstr "Total comanda:"
+
+#~ msgid "Shipping address:"
+#~ msgstr "Adreça d'enviament:"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "We are pleased to confirm your order %(order_number)s has been received "
+#~ "and\n"
+#~ "will be processed shortly."
+#~ msgstr ""
+#~ "Hola,\n"
+#~ "\n"
+#~ "S'ha generat la comanda de venda %(order_number)s. En aquests moments "
+#~ "l'estem processant.\n"
+#~ "lo estamos procesando."
+
+#~ msgid "quantity:"
+#~ msgstr "quantitat:"
+
+#~ msgid "price:"
+#~ msgstr "preu:"
+
+#~ msgid "The team"
+#~ msgstr "L'equip"
+
+#~ msgid "Confirmation of order %(number)s"
+#~ msgstr "Confirmació de la comanda %(number)s"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately:"
+#~ msgstr ""
+#~ "Si no es usted que la ha cambiado, accede a nuestra tienda y cámbiela de "
+#~ "inmediato."
+
+#~ msgid "Otherwise, you can ignore this email."
+#~ msgstr "De lo contrario, puede ignorar este correo."
+
+#~ msgid ""
+#~ "\n"
+#~ "You're receiving this email because your password has been changed at "
+#~ "%(name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Reps aquest corrreu perque la contrasenya ha canbiat a %(name)s.\n"
+
+#~ msgid "Your password changed at %(site_name)s."
+#~ msgstr "La seva contrasenya ha canviat a %(site_name)s."
+
+#~ msgid ""
+#~ "You're receiving this e-mail because you requested a password reset for "
+#~ "your user account at %(name)s."
+#~ msgstr ""
+#~ "Ha rebut aquest correu electrònic perque la seva contrasenya se donat "
+#~ "d'alta al compte %(name)s."
+
+#~ msgid "Please go to the following page and choose a new password:"
+#~ msgstr "Accedeix a la pàgina i introdueixi una nova contrasenya:"
+
+#~ msgid "Resetting your password at %(site_name)s."
+#~ msgstr "Reinicia la contrasenya a %(site_name)s."
+
+#~ msgid "Dear %(name)s,"
+#~ msgstr "Estimat(a) %(name)s,"
+
+#~ msgid "Confirmation required for stock alert"
+#~ msgstr "Es requereix confirmació per l'alerta d'estoc"
+
+#~ msgid "Thank you for registering."
+#~ msgstr "Gracies per registrar-se."
+
+#~ msgid "Products you recently viewed"
+#~ msgstr "Productes vistos recentment"
+
+#~ msgid "Log In"
+#~ msgstr "Inicia sessió"
+
+#~ msgid "I've forgotten my password"
+#~ msgstr "He oblidat la meva contrasenya"
+
+#~ msgid "Register"
+#~ msgstr "Registrar-se"
+
+#~ msgid "Registering..."
+#~ msgstr "Registrant-se ..."
+
+#~ msgid "Notifications inbox"
+#~ msgstr "Notificacions "
+
+#~ msgid "View"
+#~ msgstr "Ver"
+
+#~ msgid "With selected items:"
+#~ msgstr "Con artículos seleccionados:"
+
+#~ msgid "There are no notifications to display."
+#~ msgstr "No hi han notificaciones disponibles."
+
+#~ msgid "Order history"
+#~ msgstr "Historial de comandes"
+
+#~ msgid "Dispatch date"
+#~ msgstr "Data enviament"
+
+#~ msgid "Re-order"
+#~ msgstr "Clona"
+
+#~ msgid "Basket total (excl. discounts)"
+#~ msgstr "Total cistella (excl. descomptes)"
+
+#~ msgid "Basket total (inc. discounts)"
+#~ msgstr "Total cistella (incl. descomptes)"
+
+#~ msgid "Shipping total (excl. discounts)"
+#~ msgstr "Total d'enviament (excl. descomptes)"
+
+#~ msgid "Shipping total (inc. discounts)"
+#~ msgstr "Total d'enviament (incl. descomptes)"
+
+#~ msgid "Shipping total"
+#~ msgstr "Total envío"
+
+#~ msgid "Filter results"
+#~ msgstr "Cercar"
+
+#~ msgid "Reset"
+#~ msgstr "Reinicia"
+
+#~ msgid "Total inc tax"
+#~ msgstr "Total incl. impost"
+
+#~ msgid "Change password"
+#~ msgstr "Canvia la contrasenya"
+
+#~ msgid "Edit profile"
+#~ msgstr "Edita perfil"
+
+#~ msgid "Delete?"
+#~ msgstr "Elimina?"
+
+#~ msgid "Delete category?"
+#~ msgstr "¿Eliminar categoría?"
+
+#~ msgid "Delete category"
+#~ msgstr "Eliminar categoría"
+
+#~ msgid "Create new category"
+#~ msgstr "Nueva categoría"
+
+#~ msgid "You are editing:"
+#~ msgstr "Está editando:"
+
+#~ msgid "Edit category"
+#~ msgstr "Edita categoria"
+
+#~ msgid "Edit children"
+#~ msgstr "Editar hijo"
+
+#~ msgid "View on site"
+#~ msgstr "Ver en el sitio"
+
+#~ msgid "Edit again"
+#~ msgstr "Volver a editar"
+
+#~ msgid "Create new product"
+#~ msgstr "Nuevo producto"
+
+#~ msgid "New Product"
+#~ msgstr "Nuevo producto"
+
+#~ msgid "Search Products"
+#~ msgstr "Cercar productes"
+
+#~ msgid "Product details"
+#~ msgstr "Detalles"
+
+#~ msgid "Upload, change or remove images"
+#~ msgstr "Publica, actualiza o elimina imágenes"
+
+#~ msgid "Low stock threshold"
+#~ msgstr "Regla stock mínimo"
+
+#~ msgid "Save and continue editing"
+#~ msgstr "Guarda y continua editant"
+
+#~ msgid "All"
+#~ msgstr "Todo"
+
+#~ msgid "Current available stock"
+#~ msgstr "Stock actual disponible"
+
+#~ msgid "Date alert raised"
+#~ msgstr "Fecha alerta levantada"
+
+#~ msgid "No stock alerts found."
+#~ msgstr "No s'han trobat alertes d'estoc."
+
+#~ msgid "Preview"
+#~ msgstr "Vista previa"
+
+#~ msgid "Email content"
+#~ msgstr "Contenido de email"
+
+#~ msgid "These fields are rendered using Django's template system."
+#~ msgstr ""
+#~ "Estos campos son renderizados usando el sistema de templetas de Django."
+
+#~ msgid "You can use the following variables:"
+#~ msgstr "Puede usar la siguientes variables:"
+
+#~ msgid "The full name of the user (if they have one)"
+#~ msgstr "El nom complert de l'usuari (si disposa)"
+
+#~ msgid "The user's email address"
+#~ msgstr "L'usuari no disposa de correu electrònic"
+
+#~ msgid "The name of the site (eg example.com)"
+#~ msgstr "El nombre del sitio (ej. ejemplo.com)"
+
+#~ msgid "View preview"
+#~ msgstr "Ver vista previa"
+
+#~ msgid "or send a preview to:"
+#~ msgstr "o enviar vista previa a:"
+
+#~ msgid "Send preview email"
+#~ msgstr "Enviar vista previa de email"
+
+#~ msgid "Body text"
+#~ msgstr "Cuerpo del texto"
+
+#~ msgid "There are no defined emails to edit."
+#~ msgstr "No hay correos electrónicos para editar."
+
+#~ msgid "Your Store Statistics"
+#~ msgstr "Las estadísticas de la tienda"
+
+#~ msgid "Total Orders"
+#~ msgstr "Total comandes"
+
+#~ msgid "New Customers"
+#~ msgstr "Nuevos clientes"
+
+#~ msgid "Total Customers"
+#~ msgstr "Total clientes"
+
+#~ msgid "Total Products"
+#~ msgstr "Total productos"
+
+#~ msgid "Latest Orders (last 24 hours)"
+#~ msgstr "Últimos pedidos (últimas 24 horas)"
+
+#~ msgid "Orders - Last 24 Hours"
+#~ msgstr "Pedidos - Últimas 24 horas"
+
+#~ msgid "Total orders"
+#~ msgstr "Total comandes"
+
+#~ msgid "Total lines"
+#~ msgstr "Total líneas"
+
+#~ msgid "Total revenue"
+#~ msgstr "Total ingreso"
+
+#~ msgid "Average order costs"
+#~ msgstr "Coste medio pedidos"
+
+#~ msgid "Manage"
+#~ msgstr "Gestión"
+
+#~ msgid "Orders - All Time"
+#~ msgstr "Pedidos - Historial"
+
+#~ msgid "Total customers"
+#~ msgstr "Total clientes"
+
+#~ msgid "New customers"
+#~ msgstr "Nuevos clientes"
+
+#~ msgid "View Stock Alerts"
+#~ msgstr "Veure alertes d'estoc"
+
+#~ msgid "Catalogue and stock"
+#~ msgstr "Catálogo y stock"
+
+#~ msgid "Total products"
+#~ msgstr "Total productos"
+
+#~ msgid "Offers, vouchers and promotions"
+#~ msgstr "Pedidos, cupones y promociones"
+
+#~ msgid "Welcome"
+#~ msgstr "Bienvenido"
+
+#~ msgid "Return to site"
+#~ msgstr "Volver a la tienda"
+
+#~ msgid "Log out"
+#~ msgstr "Salir"
+
+#~ msgid "Build a new incentive"
+#~ msgstr "Crear un nuevo descuento"
+
+#~ msgid "...or choose a pre-defined one"
+#~ msgstr "... o seleccione uno de predefinido"
+
+#~ msgid "Continue to step 3"
+#~ msgstr "Continua pas 3"
+
+#~ msgid "Build a new condition"
+#~ msgstr "Diseña una nueva condición"
+
+#~ msgid "Continue to step 4"
+#~ msgstr "Continua pas 4"
+
+#~ msgid "Continue to step 2"
+#~ msgstr "Continua pas 2"
+
+#~ msgid "Delete offer"
+#~ msgstr "Eliminar oferta"
+
+#~ msgid "Are you sure you want to delete this offer?"
+#~ msgstr "Desea eliminar esta oferta?"
+
+#~ msgid "Suspend offer"
+#~ msgstr "Suspender oferta"
+
+#~ msgid "Offer currently available"
+#~ msgstr "Esta oferta esta actualmente disponible."
+
+#~ msgid "Offer not available due to restrictions!"
+#~ msgstr "La oferta no está disponible."
+
+#~ msgid "Total cost:"
+#~ msgstr "Total:"
+
+#~ msgid "Number of orders:"
+#~ msgstr "Número de comandes:"
+
+#~ msgid "Number of uses:"
+#~ msgstr "Número de usos:"
+
+#~ msgid "Offer details"
+#~ msgstr "Detalles de la oferta"
+
+#~ msgid "Create new offer"
+#~ msgstr "Nueva oferta"
+
+#~ msgid "Is available?"
+#~ msgstr "Esta disponible"
+
+#~ msgid "Uses"
+#~ msgstr "Usos"
+
+#~ msgid "Browse"
+#~ msgstr "Cercar"
+
+#~ msgid "Stats"
+#~ msgstr "Estado"
+
+#~ msgid "No offers found."
+#~ msgstr "No hi han ofertes."
+
+#~ msgid "Steps"
+#~ msgstr "Proceso"
+
+#~ msgid "1. Name and description"
+#~ msgstr "1. Nombre y descripción  "
+
+#~ msgid "2. Incentive"
+#~ msgstr "2. Descuento"
+
+#~ msgid "3. Condition"
+#~ msgstr "3. Condición"
+
+#~ msgid "4. Restrictions"
+#~ msgstr "4. Restricciones"
+
+#~ msgid "Save this offer"
+#~ msgstr "Guardar esta oferta"
+
+#~ msgid "Fields marked with * are mandatory."
+#~ msgstr "Campos marcados con * son requeridos."
+
+#~ msgid "Offer summary"
+#~ msgstr "Resumen pedido"
+
+#~ msgid "Product Options"
+#~ msgstr "Opciones de Producto"
+
+#~ msgid "Partner details"
+#~ msgstr "Detalles cliente"
+
+#~ msgid "Shipping details"
+#~ msgstr "Detalles de envío"
+
+#~ msgid "Partner reference number"
+#~ msgstr "Número referencia cliente"
+
+#~ msgid "Partner notes"
+#~ msgstr "Notes client"
+
+#~ msgid "Estimate dispatch date"
+#~ msgstr "Data enviament previst"
+
+#~ msgid "Order %(number)s"
+#~ msgstr "Orden %(number)s"
+
+#~ msgid "Customer Information"
+#~ msgstr "Informació del client"
+
+#~ msgid "Order information"
+#~ msgstr "Informació de la comanda"
+
+#~ msgid "Order Total"
+#~ msgstr "Total comanda"
+
+#~ msgid "Time of purchase"
+#~ msgstr "Tiempo destinado en la compra"
+
+#~ msgid "Order Details"
+#~ msgstr "Detalls de la comanda"
+
+#~ msgid "Items ordered"
+#~ msgstr "Articles"
+
+#~ msgid "Supplier"
+#~ msgstr "Proveedor"
+
+#~ msgid "Supplier SKU"
+#~ msgstr "SKU proveedor"
+
+#~ msgid "With selected lines"
+#~ msgstr "Con líneas seleccionadas"
+
+#~ msgid "choose new status"
+#~ msgstr "seleccione un nuevo estado"
+
+#~ msgid "Create shipping event"
+#~ msgstr "Crear un evento de envío"
+
+#~ msgid "choose event type"
+#~ msgstr "seleccione un nuevo tipo"
+
+#~ msgid "with reference"
+#~ msgstr "con referencia"
+
+#~ msgid "Create payment event"
+#~ msgstr "Crear evento de pago"
+
+#~ msgid "with amount"
+#~ msgstr "amb a la quantitat"
+
+#~ msgid "Go!"
+#~ msgstr "Ir!"
+
+#~ msgid "No shipping events."
+#~ msgstr "No hi han tipus d'enviament."
+
+#~ msgid "Product:"
+#~ msgstr "Producto:"
+
+#~ msgid "quantity"
+#~ msgstr "quantitat"
+
+#~ msgid "No payment events."
+#~ msgstr "No hay ningún evento de pago."
+
+#~ msgid "Charge (incl tax)"
+#~ msgstr "Cost enviament (incl. impost)"
+
+#~ msgid "Charge (excl tax)"
+#~ msgstr "Cost enviament (excl impost)"
+
+#~ msgid "Payment sources"
+#~ msgstr "Tipos de pago"
+
+#~ msgid "Amount debited"
+#~ msgstr "Monto debitado"
+
+#~ msgid "Amount refunded"
+#~ msgstr "Monto devuelto"
+
+#~ msgid "No notes available."
+#~ msgstr "No hi han notes disponibles."
+
+#~ msgid "Notes are only editable for 5 minutes after being saved."
+#~ msgstr "Les notes només es poden editar després de 5 minuts de guardar."
+
+#~ msgid "Advanced Search"
+#~ msgstr "Búsqueda avanzada"
+
+#~ msgid "Close"
+#~ msgstr "Tancar"
+
+#~ msgid "Download selected orders as a CSV"
+#~ msgstr "Descargar pedidos seleccionados en CSV"
+
+#~ msgid "No orders found."
+#~ msgstr "No se encontraron pedidos."
+
+#~ msgid "Mark as"
+#~ msgstr "Marcar como"
+
+#~ msgid "Change order status to"
+#~ msgstr "Canvia l'estat de la comanda a"
+
+#~ msgid "Done"
+#~ msgstr "Ok"
+
+#~ msgid "Edit shipping address"
+#~ msgstr "Edita adreça d'enviament"
+
+#~ msgid "Edit shipping address for order %(order.number)s"
+#~ msgstr "Edita adreça d'enviament de la comanda %(order.number)s"
+
+#~ msgid "Update address"
+#~ msgstr "Actualitzar adreça"
+
+#~ msgid "Order statistics"
+#~ msgstr "Estadísticas de pedido"
+
+#~ msgid "Filter result"
+#~ msgstr "Cercar"
+
+#~ msgid "Summary"
+#~ msgstr "Resumen"
+
+#~ msgid "Delete page '%(title)s'?"
+#~ msgstr "Desea eliminar '%(title)s'?"
+
+#~ msgid "Delete page"
+#~ msgstr "Eliminar página"
+
+#~ msgid "Delete page <strong>%(title)s</strong> - are you sure?"
+#~ msgstr "Desea eliminar la página <strong>%(title)s</strong>?"
+
+#~ msgid "No pages found."
+#~ msgstr "No se han encontrado ningún resultado."
+
+#~ msgid "previous"
+#~ msgstr "anterior"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Page %(page_num)s of %(total_pages)s\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Página %(page_num)s de %(total_pages)s"
+
+#~ msgid "next"
+#~ msgstr "siguiente"
+
+#~ msgid "Delete content block '%(name)s'?\""
+#~ msgstr "Desea eliminar el módulo '%(name)s'?\""
+
+#~ msgid ""
+#~ "Delete %(object.type)s content block <strong>%(object.name)s</strong> - "
+#~ "are you sure?"
+#~ msgstr ""
+#~ "Desea eliminar el módulo %(object.type)s  <strong>%(object.name)s</"
+#~ "strong>?"
+
+#~ msgid "Remove promotion from page?"
+#~ msgstr "Eliminar la promoción?"
+
+#~ msgid "Remove promotion"
+#~ msgstr "Eliminar promoción"
+
+#~ msgid ""
+#~ "Remove %(object.content_object.type)s content block <strong>%(object."
+#~ "name)s</strong> from page <strong>%(object.page_url)s</strong> - are you "
+#~ "sure?"
+#~ msgstr ""
+#~ "Desea eliminar el módulo %(object.content_object.type)s <strong>%(object."
+#~ "name)s</strong> de la página <strong>%(object.page_url)s</strong>?"
+
+#~ msgid "Pages displaying this content blocks"
+#~ msgstr "Páginas que usan este módulo"
+
+#~ msgid "Position on page"
+#~ msgstr "Posición en la página"
+
+#~ msgid "View all blocks on this page"
+#~ msgstr "Ver todos los módulos en esta página."
+
+#~ msgid "Remove from page"
+#~ msgstr "Eliminar de la página"
+
+#~ msgid "This promotion is not displayed anywhere at the moment."
+#~ msgstr "Esta promoción no se muestra actualmente."
+
+#~ msgid "Add to a page"
+#~ msgstr "Añadir a la página"
+
+#~ msgid "Add to page"
+#~ msgstr "Afegeix a la página"
+
+#~ msgid "Content blocks for page %(page_url)s"
+#~ msgstr "Módulo por página %(page_url)s"
+
+#~ msgid "Content blocks on page '%(page_url)s'"
+#~ msgstr "Módulo por página '%(page_url)s'"
+
+#~ msgid "Edit promotions in position '%(name)s'"
+#~ msgstr "Edita las promociones en la posición  '%(name)s'."
+
+#~ msgid "Promotion Name"
+#~ msgstr "Nombre promoción"
+
+#~ msgid "No promotions in this position."
+#~ msgstr "No hay promociones en esta posición."
+
+#~ msgid "Pages with content blocks"
+#~ msgstr "Páginas que contienen módulos"
+
+#~ msgid "View by page"
+#~ msgstr "Ver por página"
+
+#~ msgid "View all content blocks"
+#~ msgstr "Ver todos los módulos"
+
+#~ msgid "View content blocks by page"
+#~ msgstr "Ver módulos por página"
+
+#~ msgid "Pages with content blocks on them"
+#~ msgstr "Páginas que contenga este módulo"
+
+#~ msgid "Number of content blocks"
+#~ msgstr "Número de módulos"
+
+#~ msgid "No content blocks found."
+#~ msgstr "No hay módulos disponibles."
+
+#~ msgid "Create a new content block"
+#~ msgstr "Nuevo módulo"
+
+#~ msgid "Create block"
+#~ msgstr "Nuevo módulo"
+
+#~ msgid "Return to ranges homepage"
+#~ msgstr "Volver al inicio de rangos"
+
+#~ msgid "Edit included products"
+#~ msgstr "Editar los productos "
+
+#~ msgid "Are you sure you want to delete this range?"
+#~ msgstr "Desea borrar este rango?"
+
+#~ msgid "Create new range"
+#~ msgstr "Nuevo rango"
+
+#~ msgid "Save and edit products"
+#~ msgstr "Guardar y editar productos"
+
+#~ msgid "New products"
+#~ msgstr "Nuevos productos"
+
+#~ msgid "Remove selected products"
+#~ msgstr "Eliminar los productos seleccionados"
+
+#~ msgid "Products in Range"
+#~ msgstr "Productos por rango"
+
+#~ msgid "Edit range"
+#~ msgstr "Editar rango"
+
+#~ msgid "return to range list"
+#~ msgstr "volver al listado de rangos"
+
+#~ msgid "Reporting Dashboard"
+#~ msgstr "Taulell d'informes"
+
+#~ msgid "Reporting dashboard"
+#~ msgstr "Taulell d'informes"
+
+#~ msgid "Generate report"
+#~ msgstr "Generar informe"
+
+#~ msgid "No results found."
+#~ msgstr "No se han encontrado resultados."
+
+#~ msgid "No vouchers were used in this period"
+#~ msgstr "No hay cupones en este período"
+
+#~ msgid "Review Search"
+#~ msgstr "Revisar búsqueda"
+
+#~ msgid "Update status of selected reviews"
+#~ msgstr "Actualitzar l'estat:"
+
+#~ msgid "No reviews found."
+#~ msgstr "No hi han comentaris."
+
+#~ msgid "Review information"
+#~ msgstr "Informació del comentari"
+
+#~ msgid "Delete alert #%(id)s?"
+#~ msgstr "Eliminar alerta #%(id)s?"
+
+#~ msgid "Product alert #%(id)s"
+#~ msgstr "Alerta de producto #%(id)s"
+
+#~ msgid "Are you sure that you want to delete this alert?"
+#~ msgstr "Estás seguro que quieres eliminar esta alerta?"
+
+#~ msgid "Search product alerts"
+#~ msgstr "Cercar alertes de producte"
+
+#~ msgid "reset"
+#~ msgstr "reinicia"
+
+#~ msgid "Date alert sent"
+#~ msgstr "Data alerta enviat"
+
+#~ msgid "(Anonymous)"
+#~ msgstr "(Anónimo)"
+
+#~ msgid "No alerts found."
+#~ msgstr "No s'han trobat alertes."
+
+#~ msgid "Number of orders"
+#~ msgstr "Número de comandes:"
+
+#~ msgid "This customer has not placed any orders yet."
+#~ msgstr "Este cliente no ha realizado ningún pedido."
+
+#~ msgid "This customer has not saved any addresses."
+#~ msgstr "Aquest client no ha desat cap adreça."
+
+#~ msgid "Product ID"
+#~ msgstr "ID de Producto"
+
+#~ msgid "This customer has not written any reviews yet."
+#~ msgstr "Este cliente no ha publicado ningún comentario."
+
+#~ msgid "No customers found."
+#~ msgstr "No se encontraron clientes."
+
+#~ msgid "Bulk Actions"
+#~ msgstr "Volumen de acciones"
+
+#~ msgid "With selected customers:"
+#~ msgstr "Con los clientes seleccionados:"
+
+#~ msgid "Make active"
+#~ msgstr "Activar"
+
+#~ msgid "Make inactive"
+#~ msgstr "Desactivar"
+
+#~ msgid "Delete voucher '%(name)s'?"
+#~ msgstr "Borrar cupón '%(name)s'?"
+
+#~ msgid "Voucher details"
+#~ msgstr "Detalles de cupón"
+
+#~ msgid "Number of basket additions"
+#~ msgstr "Número en pedidos añadidos"
+
+#~ msgid "Recent orders"
+#~ msgstr "Pedidos recientes"
+
+#~ msgid "No orders have been placed that use this voucher."
+#~ msgstr "No hay pedidos que usen este cupón."
+
+#~ msgid "Create new voucher"
+#~ msgstr "Nuevo cupón"
+
+#~ msgid "Num baskets"
+#~ msgstr "Número de carritos"
+
+#~ msgid "Num orders"
+#~ msgstr "Número pedidos"
+
+#~ msgid "No vouchers found."
+#~ msgstr "No hay cupones"
+
+#~ msgid "Sorry!"
+#~ msgstr "Lo sentimos!"
+
+#~ msgid "Return to previous page"
+#~ msgstr "Volver a la página anterior"
+
+#~ msgid "Go to homepage"
+#~ msgstr "Anar a la pàgina d'inici"
+
+#~ msgid "Upload Image"
+#~ msgstr "Subir Imagen"
+
+#~ msgid "This page is only available to users who aren't logged in."
+#~ msgstr ""
+#~ "Esta página sólo está disponible para los usuarios que no se han "
+#~ "identificado."
+
+#~ msgid " This offer is no longer available."
+#~ msgstr "La oferta no está disponible."
+
+#~ msgid "What you need to do"
+#~ msgstr "Que puedes hacer"
+
+#~ msgid "There are no site offers at the moment."
+#~ msgstr "No hay ofertas en este momento."
+
+#~ msgid "Browse products in offer"
+#~ msgstr "Productes en aquesta oferta"
+
+#~ msgid "Change my password"
+#~ msgstr "Canvia la meva contrasenya"
+
+#~ msgid "Password reset unsuccessful"
+#~ msgstr "La contrasenya no s'ha pogut reiniciar."
+
+#~ msgid "Send reset email"
+#~ msgstr "Envia per correu electrònic"
+
+#~ msgid "You need to select some %ss"
+#~ msgstr "Selecciona algunos %ss."

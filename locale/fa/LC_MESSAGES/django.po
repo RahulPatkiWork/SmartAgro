@@ -1,0 +1,6374 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Ali Nikneshan <ali@nikneshan.com>, 2013
+# ali ranjbar <ali.ranjbar.sharif@gmail.com>, 2015
+# amir rad <amir.radan@gmail.com>, 2018
+# amirtds <amirtds@gmail.com>, 2014
+# amirtds <amirtds@gmail.com>, 2014
+# ashkanBIG <ashkanxoxoxo@gmail.com>, 2015
+# ashkanBIG <ashkanxoxoxo@gmail.com>, 2015
+# Behnam Mazaheri <mazaheri@gmail.com>, 2015
+# Danial Keshvary <d.keshvary@gmail.com>, 2016
+# eneepo <eneepo@gmail.com>, 2018
+# eneepo <eneepo@gmail.com>, 2018
+# Foad Nosrati Habibi <foad.nh@gmail.com>, 2015
+# Hasan Hejdari Nasab <hsn6@openmailbox.org>, 2016
+# Hasan Hejdari Nasab <hsn6@openmailbox.org>, 2016
+# Kaveh Karimi, 2014
+# Kaveh Karimi, 2014
+# mohammad <mnikneshan@ymail.com>, 2013
+# mostafar <mostafa.rokooie@gmail.com>, 2014
+# mostafar <mostafa.rokooie@gmail.com>, 2014
+# pouya <poooooyabarzegar@gmail.com>, 2018
+# sol m <masoudian.soheila@gmail.com>, 2017
+# mohammad <mnikneshan@ymail.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-05-16 11:47+0000\n"
+"Last-Translator: amir rad <amir.radan@gmail.com>\n"
+"Language-Team: Persian (http://www.transifex.com/codeinthehole/django-oscar/"
+"language/fa/)\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr "داشبورد"
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr "کاتالوگ"
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "محصولات"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr "گونه‌های محصول"
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "دسته بندی ها"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr "محدوده ها"
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr "اخطار کمبود موجودی"
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr "امکانات"
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr "تکمیل"
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "سفارش‌ها"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr "آمار"
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr "شریک‌ها"
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr "مشتریان"
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr "تقاضاهای اخطار موجودی"
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr "پیشنهادات"
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "کوپن"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr "مجموعه کوپن ها"
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr "محتوا"
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr "بلاکهای محتوا"
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr "بلاک های محتوا بر حسب صفحه"
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr "صفحات"
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr "قالبهای ایمیل"
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr "نظرات"
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr "گزارشات"
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr "نوع"
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr "امتیاز"
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr "محدوده ی قیمت"
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr "0 تا 20"
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr "۲۰ تا ۴۰"
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr "۴۰ تا ۶۰"
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr "بیش از ۶۰ "
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+#, fuzzy
+#| msgid "Catalogue"
+msgid "Catalan"
+msgstr "کاتالوگ"
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+#, fuzzy
+#| msgid "Permalink"
+msgid "German"
+msgstr "پیوند یکتا"
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr "در حال ارسال ..."
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr "برو"
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr "حساب"
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr "خروج"
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr "ورود یا ثبت نام"
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "سبد"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+"\n"
+"کل: %(total)s"
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr "فهرست فروشگاه"
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "همه محصولات"
+
+#~ msgid "Mr"
+#~ msgstr "آقا"
+
+#~ msgid "Miss"
+#~ msgstr "خانم"
+
+#~ msgid "Mrs"
+#~ msgstr "خانم"
+
+#~ msgid "Ms"
+#~ msgstr "خانم"
+
+#~ msgid "Dr"
+#~ msgstr "دکتر"
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+#~ msgid "First name"
+#~ msgstr "نام"
+
+#~ msgid "Last name"
+#~ msgstr "نام خانوادگی"
+
+#~ msgid "First line of address"
+#~ msgstr "خط اول نشانی"
+
+#~ msgid "Second line of address"
+#~ msgstr "خط دوم نشانی"
+
+#~ msgid "Third line of address"
+#~ msgstr "خط سوم نشانی"
+
+#~ msgid "City"
+#~ msgstr "شهر"
+
+#~ msgid "State/County"
+#~ msgstr "استان"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "کد پستی"
+
+#~ msgid "Country"
+#~ msgstr "کشور"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "متن جستجو - ویژهٔ جستجوی نشانی‌ها"
+
+#~ msgid "Address"
+#~ msgstr "نشانی"
+
+#~ msgid "Addresses"
+#~ msgstr "نشانی‌ها"
+
+#~ msgid "Addresses in %(country)s require a valid postcode"
+#~ msgstr "نشانی‌های %(country)s نیازمند کد پستی می‌باشند."
+
+#~ msgid "The postcode '%(postcode)s' is not valid for %(country)s"
+#~ msgstr "کد پستی '%(postcode)s' برای کشور  %(country)s معتبر نیست"
+
+#~ msgid "ISO 3166-1 alpha-2"
+#~ msgstr "ISO 3166-1 alpha-2"
+
+#~ msgid "ISO 3166-1 alpha-3"
+#~ msgstr "ISO 3166-1 alpha-3"
+
+#~ msgid "ISO 3166-1 numeric"
+#~ msgstr "ISO 3166-1 numeric"
+
+#~ msgid "Country name"
+#~ msgstr "نام کشور"
+
+#~ msgid "Official name"
+#~ msgstr "نام رسمی"
+
+#~ msgid "Display order"
+#~ msgstr "ترتیب نمایش"
+
+#~ msgid "Higher the number, higher the country in the list."
+#~ msgstr "هرچقدر عدد بیشتر باشد،‌ کشور در فهرست بالاتر است."
+
+#~ msgid "Is shipping country"
+#~ msgstr "می‌توان به این کشور فرستاد؟"
+
+#~ msgid "Countries"
+#~ msgstr "کشورها"
+
+#~ msgid "Phone number"
+#~ msgstr "شماره تلفن"
+
+#~ msgid "In case we need to call you about your order"
+#~ msgstr "شماره تلفن برای هماهنگی سفارش شما لازم است."
+
+#~ msgid "Instructions"
+#~ msgstr "دستور‌العمل‌ها"
+
+#~ msgid "Tell us anything we should know when delivering your order."
+#~ msgstr "توضیحات لازم را در مورد سفارش خود به ما بگویید."
+
+#~ msgid "Shipping address"
+#~ msgstr "آدرس حمل"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "آدرس های حمل"
+
+#~ msgid "User"
+#~ msgstr "کاربر"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "نشانی حمل پیش‌فرض؟"
+
+#~ msgid "Default billing address?"
+#~ msgstr "نشانی پرداخت پیش‌فرض"
+
+#~ msgid "Number of Orders as Shipping Address"
+#~ msgstr "تعداد سفارشات بر اساس آدرس ارسال"
+
+#~ msgid "Number of Orders as Billing Address"
+#~ msgstr "تعداد سفارشات بر اساس آدرس پرداخت صورتحساب"
+
+#~ msgid "Address Hash"
+#~ msgstr "هش نشانی"
+
+#~ msgid "Date Created"
+#~ msgstr "تاریخ ایجاد"
+
+#~ msgid "User address"
+#~ msgstr "نشانی کاربر"
+
+#~ msgid "User addresses"
+#~ msgstr "نشانی‌های کاربر"
+
+#~ msgid "This address is already in your address book"
+#~ msgstr "این نشانی در فهرست نشانی‌های شما موجود است."
+
+#~ msgid "Billing address"
+#~ msgstr "نشانی پرداخت صورت‌حساب"
+
+#~ msgid "Billing addresses"
+#~ msgstr "نشانی‌های پرداخت صورت‌حساب"
+
+#~ msgid "Partner"
+#~ msgstr "شریک"
+
+#~ msgid "Partner address"
+#~ msgstr "نشانی شریک"
+
+#~ msgid "Partner addresses"
+#~ msgstr "نشانی‌های شریک"
+
+#~ msgid "Product"
+#~ msgstr "محصول"
+
+#~ msgid "Views"
+#~ msgstr "نماها"
+
+#~ msgid "Basket Additions"
+#~ msgstr "اضافات سبد"
+
+#~ msgid "Purchases"
+#~ msgstr "خریدها"
+
+#~ msgid "Score"
+#~ msgstr "امتیاز"
+
+#~ msgid "Product record"
+#~ msgstr "پیشینهٔ محصول"
+
+#~ msgid "Product records"
+#~ msgstr "پیشینه‌های محصول"
+
+#~ msgid "Record for '%s'"
+#~ msgstr "پیشینه برای '%s'"
+
+#~ msgid "Product Views"
+#~ msgstr "نماهای محصول"
+
+#~ msgid "Order Lines"
+#~ msgstr "خط‌های سفارش"
+
+#~ msgid "Order Items"
+#~ msgstr "موردهای سفارش"
+
+#~ msgid "Total Spent"
+#~ msgstr "مجموع پرداخت‌شده"
+
+#~ msgid "Last Order Date"
+#~ msgstr "آخرین تاریخ سفارش"
+
+#~ msgid "User record"
+#~ msgstr "پیشینهٔ کاربر"
+
+#~ msgid "User records"
+#~ msgstr "پیشینه‌های کاربر"
+
+#~ msgid "User product view"
+#~ msgstr "نمایش محصول کاربر"
+
+#~ msgid "User product views"
+#~ msgstr "نمایش محصولات کاربر"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "%(user)s ،'%(product)s' را دید"
+
+#~ msgid "Search term"
+#~ msgstr "شرط جستجو"
+
+#~ msgid "User search query"
+#~ msgstr "جستجوی کاربر"
+
+#~ msgid "User search queries"
+#~ msgstr "جستجوهای کاربر"
+
+#~ msgid "%(user)s searched for '%(query)s'"
+#~ msgstr "%(user)s برای '%(query)s' جستجو کرد."
+
+#~ msgid "Analytics"
+#~ msgstr "تحلیل"
+
+#~ msgid "Basket additions"
+#~ msgstr "اضافات سبد"
+
+#~ msgid "Product analytics"
+#~ msgstr "تحلیل محصول"
+
+#~ msgid "Name"
+#~ msgstr "نام"
+
+#~ msgid "Date registered"
+#~ msgstr "تاریخ ثبت "
+
+#~ msgid "Product views"
+#~ msgstr "نماهای محصول"
+
+#~ msgid "Order lines"
+#~ msgstr "خطوط سفارش"
+
+#~ msgid "Order items"
+#~ msgstr "موارد سفارش"
+
+#~ msgid "Total spent"
+#~ msgstr "مجموع پرداخت‌شده"
+
+#~ msgid "Date of last order"
+#~ msgstr "تاریخ آخرین سفارش"
+
+#~ msgid "User analytics"
+#~ msgstr "تحلیل کاربر"
+
+#~ msgid "Owner"
+#~ msgstr "مالک"
+
+#~ msgid "Open - currently active"
+#~ msgstr "باز - اکنون فعال است"
+
+#~ msgid "Merged - superceded by another basket"
+#~ msgstr "ادغام‌شده - با سبدی دیگر جایگزین شده"
+
+#~ msgid "Saved - for items to be purchased later"
+#~ msgstr "ذخیره‌شده - موارد برای خریدهای آینده ذخیره شدند."
+
+#~ msgid "Frozen - the basket cannot be modified"
+#~ msgstr "بسته‌شده - سبد خرید شما بسته شده و قابل تغییر نیست."
+
+#~ msgid "Submitted - has been ordered at the checkout"
+#~ msgstr "ارائه‌شده - در مرحلهٔ وارسی سفارش داده شده است"
+
+#~ msgid "Status"
+#~ msgstr "وضعیت"
+
+#~ msgid "Date created"
+#~ msgstr "تاریخ ایجاد"
+
+#~ msgid "Date merged"
+#~ msgstr "تاریخ ادغام"
+
+#~ msgid "Date submitted"
+#~ msgstr "تاریخ ارائه"
+
+#~ msgid "Baskets"
+#~ msgstr "سبدها"
+
+#~ msgid "%(status)s basket (owner: %(owner)s, lines: %(num_lines)d)"
+#~ msgstr "%(status)s سبد (مالک: %(owner)s, قلم: %(num_lines)d)"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order."
+#~ msgstr ""
+#~ "به دلیل مشکلات فنی ما قادر به فرستادن بیش از  %(threshold)d کالا در یک "
+#~ "سفارش نیستیم."
+
+#~ msgid "Line Reference"
+#~ msgstr "مرجع خط"
+
+#~ msgid "Quantity"
+#~ msgstr "تعداد"
+
+#~ msgid "Currency"
+#~ msgstr "واحد پول"
+
+#~ msgid "Price excl. Tax"
+#~ msgstr "قمیت بدون مالیات"
+
+#~ msgid "Price incl. Tax"
+#~ msgstr "قیمت با مالیات"
+
+#~ msgid "Basket line"
+#~ msgstr "خط سبد"
+
+#~ msgid "Basket lines"
+#~ msgstr "خطوط سبد"
+
+#~ msgid ""
+#~ "Basket #%(basket_id)d, Product #%(product_id)d, quantity %(quantity)d"
+#~ msgstr "سبد خرید #%(basket_id)d, محصول #%(product_id)d, تعداد %(quantity)d"
+
+#~ msgid "You cannot modify a %s basket"
+#~ msgstr "شما نمی‌توانید یک سبد %s را تغییر دهید"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has increased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "قیمت '%(product)s' از مبلغ %(old_price)s به مبلغ %(new_price)s  افزایش "
+#~ "یافته است."
+
+#~ msgid ""
+#~ "The price of '%(product)s' has decreased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "قیمت '%(product)s' از مبلغ %(old_price)s به مبلغ %(new_price)s  کاهش "
+#~ "یافته است."
+
+#~ msgid "Line"
+#~ msgstr "خط"
+
+#~ msgid "Option"
+#~ msgstr "گزینه"
+
+#~ msgid "Value"
+#~ msgstr "مقدار"
+
+#~ msgid "Line attribute"
+#~ msgstr "ویژگی خط"
+
+#~ msgid "Line attributes"
+#~ msgstr "ویژگی‌های خط"
+
+#~ msgid "Save for Later"
+#~ msgstr "ذخیره برای آینده"
+
+#~ msgid "Move to Basket"
+#~ msgstr "انتقال به سبد خرید"
+
+#~ msgid "Code"
+#~ msgstr "کد"
+
+#~ msgid "Variant"
+#~ msgstr "انواع"
+
+#~ msgid "Please select a valid product"
+#~ msgstr "لطفا یک محصول معتبر انتخاب کنید"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order. Your basket currently has %(basket)d "
+#~ "items."
+#~ msgstr ""
+#~ "به دلیل مشکلات فنی ما قادر به فرستادن بیش از  %(threshold)d قلم کالا در "
+#~ "یک سفارش نیستیم. سبد شما  %(basket)d قلم کالا دارد."
+
+#~ msgid ""
+#~ "This product cannot be added to the basket as its currency isn't the same "
+#~ "as other products in your basket"
+#~ msgstr ""
+#~ "واحد پولی این محصول با دیگر محصولات سبد شما یکسان نیست، پس به سبد افزوده "
+#~ "نخواهد شد"
+
+#~ msgid ""
+#~ "We have merged a basket from a previous session. Its contents might have "
+#~ "changed."
+#~ msgstr ""
+#~ "ما سبدی را از نشست پیشین ادغام کرده‌ایم. محتویاتش ممکن است تغییر کرده باشد."
+
+#~ msgid "User ID"
+#~ msgstr "شناسهٔ کاربری"
+
+#~ msgid "Email"
+#~ msgstr "رایانامه"
+
+#~ msgid "Basket status"
+#~ msgstr "وضیعت سبد خرید"
+
+#~ msgid "Num lines"
+#~ msgstr "خطوط شماره"
+
+#~ msgid "Num items"
+#~ msgstr "موارد شماره"
+
+#~ msgid "Date of creation"
+#~ msgstr "تاریخ ایجاد"
+
+#~ msgid "Time since creation"
+#~ msgstr "زمان سپری شده از ایجاد"
+
+#~ msgid "Open baskets"
+#~ msgstr "سبدهای باز"
+
+#~ msgid "Time between creation and submission"
+#~ msgstr "زمان بین ایجاد و فرستادن"
+
+#~ msgid "Submitted baskets"
+#~ msgstr "سبدهای فرستاده شده"
+
+#~ msgid "You can't save an item for later if you're not logged in!"
+#~ msgstr "برای ذخیرهٔ خریدهایتان برای بعد، باید به سیستم وارد شوید."
+
+#~ msgid ""
+#~ "Your basket couldn't be updated. Please correct any validation errors "
+#~ "below."
+#~ msgstr ""
+#~ "به‌روزرسانی سبد خرید شما با مشکل مواجه شد - لطفا خطاهای اعتبارسنجی زیر را "
+#~ "درست کنید."
+
+#~ msgid "The '%(code)s' voucher has expired"
+#~ msgstr "کوپن  '%(code)s' منقضی شده است."
+
+#~ msgid "The '%(code)s' voucher is not active"
+#~ msgstr "کوپن '%(code)s' فعال نیست."
+
+#~ msgid "Your basket does not qualify for a voucher discount"
+#~ msgstr "سبد خرید شما واجد شرایط استفاده از کوپن تخفیف نیست."
+
+#~ msgid "Voucher '%(code)s' added to basket"
+#~ msgstr "کوپن  '%(code)s' به سبد اضافه شد."
+
+#~ msgid "You have already added the '%(code)s' voucher to your basket"
+#~ msgstr "شما قبلا کوپن  '%(code)s' را به سبد خود اضافه کرده اید."
+
+#~ msgid "No voucher found with code '%(code)s'"
+#~ msgstr "هیچ کوپنی با کد  '%(code)s' یافت نشد"
+
+#~ msgid "Please enter a voucher code"
+#~ msgstr "لطفا کد کوپن خود را وارد کنید"
+
+#~ msgid "No voucher found with id '%s'"
+#~ msgstr "کوپن با شناسه %s یافت نشد"
+
+#~ msgid "Voucher '%s' removed from basket"
+#~ msgstr "کوپن '%s' از سبد حذف شد"
+
+#~ msgid "Slug"
+#~ msgstr "تیتر داخلی"
+
+#~ msgid "Requires shipping?"
+#~ msgstr "نیازمند ارسال است؟"
+
+#~ msgid "Track stock levels?"
+#~ msgstr "پیگیری موجودی انبار؟"
+
+#~ msgid "Product class"
+#~ msgstr "کلاس محصولات"
+
+#~ msgid "Product classes"
+#~ msgstr "کلاس های محصولات"
+
+#~ msgid "Description"
+#~ msgstr "توضیحات"
+
+#~ msgid "Image"
+#~ msgstr "عکس"
+
+#~ msgid "Category"
+#~ msgstr "دسته بندی"
+
+#~ msgid "Product category"
+#~ msgstr "دسته بندی محصول"
+
+#~ msgid "Product categories"
+#~ msgstr "دسته بندی های محصولات"
+
+#~ msgid "Stand-alone product"
+#~ msgstr "کالای مستقل"
+
+#~ msgid "Parent product"
+#~ msgstr "کالای پدر"
+
+#~ msgid "Child product"
+#~ msgstr "کالای فرزند"
+
+#~ msgid "Product structure"
+#~ msgstr "ساختار کالا"
+
+#~ msgid "UPC"
+#~ msgstr "کد اختصاصی"
+
+#~ msgid ""
+#~ "Universal Product Code (UPC) is an identifier for a product which is not "
+#~ "specific to a particular  supplier. Eg an ISBN for a book."
+#~ msgstr ""
+#~ "کد جهانی کالا (‌UPC) شناسه ای برای یک کالا است که به تامین کننده ی آن "
+#~ "وابستگی ندارد. مثلا شماره ی ISBN برای یک کتاب."
+
+#~ msgid ""
+#~ "Only choose a parent product if you're creating a child product.  For "
+#~ "example if this is a size 4 of a particular t-shirt.  Leave blank if this "
+#~ "is a stand-alone product (i.e. there is only one version of this product)."
+#~ msgstr ""
+#~ "تنها وقتی یک کالای پدر بسازید که می خواهید کالای فرزندی داشته باشید."
+
+#~ msgctxt "Product title"
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+#~ msgid "Product type"
+#~ msgstr "نوع کالا"
+
+#~ msgid "Choose what type of product this is"
+#~ msgstr "نوع کالا را انتخاب کنید"
+
+#~ msgid "Attributes"
+#~ msgstr "خواص"
+
+#~ msgid ""
+#~ "A product attribute is something that this product may have, such as a "
+#~ "size, as specified by its class"
+#~ msgstr ""
+#~ "خصیصه ی یک کالا خاصیتی است که ممکن است این کالا داشته باشد، مثلا بسته به "
+#~ "نوع کالا، سایز می تواند یک خصیصه باشد."
+
+#~ msgid "Product options"
+#~ msgstr "امکانات کالا"
+
+#~ msgid ""
+#~ "Options are values that can be associated with a item when it is added to "
+#~ "a customer's basket.  This could be something like a personalised message "
+#~ "to be printed on a T-shirt."
+#~ msgstr ""
+#~ "امکانات در واقع مقادیری هستند که می توانند به یک کالا هنگام اضافه شدن به "
+#~ "سبد خرید متصل شوند. مثلا برای یک تی شرت، یک نوشته ی خاص برای انداختن روی "
+#~ "تی شرت می تواند یک امکان باشد."
+
+#~ msgid "Recommended products"
+#~ msgstr "کالاهای پیشنهادی"
+
+#~ msgid ""
+#~ "These are products that are recommended to accompany the main product."
+#~ msgstr ""
+#~ "این ها کالاهایی هستند که به عنوان پیشنهاد همراه کالای اصلی قرار می گیرند."
+
+#~ msgid "Date updated"
+#~ msgstr "تاریخ به روزرسانی"
+
+#~ msgid "Is discountable?"
+#~ msgstr "قابل تخفیف؟"
+
+#~ msgid "This flag indicates if this product can be used in an offer or not"
+#~ msgstr ""
+#~ "این امکان مشخص می کند که آیا این کالا در فرصت های تخفیف می تواند قرار "
+#~ "بگیرد یا نه."
+
+#~ msgid "Your product must have a title."
+#~ msgstr "محصول شما باید عنوان داشته باشد."
+
+#~ msgid "Your product must have a product class."
+#~ msgstr "محصول شما باید به یک کلاس محصول متعلق باشد"
+
+#~ msgid "Only child products can have a parent."
+#~ msgstr "تنها محصولات زیردسته میتوانند سردسته داشته باشند."
+
+#~ msgid "A child product needs a parent."
+#~ msgstr "هر محصول زیردسته نیاز به یک سردسته دارد."
+
+#~ msgid "You can only assign child products to parent products."
+#~ msgstr "شما تنها می‌توانید محصولات کودک را به محصولات والدین ارجاع دهید"
+
+#~ msgid "A child product can't have a product class."
+#~ msgstr "محصول زیر دسته نمیتواند در یک کلاس محصول باشد."
+
+#~ msgid "A child product can't have a category assigned."
+#~ msgstr "یک محصول زیر دسته نمیتواند دسته بندی داشته باشد."
+
+#~ msgid "A child product can't have options."
+#~ msgstr "محصول زیردسته تنظیمات ندارد."
+
+#~ msgid "A parent product can't have stockrecords."
+#~ msgstr "محصول سرشاخه نمی تواند شامل سابقه موجودی باشد"
+
+#~ msgid "The specified parent product is a child product."
+#~ msgstr "محصول سرشاخه مشخص شده یک محصول زیرشاخه می باشد"
+
+#~ msgid "Primary product"
+#~ msgstr "محصول اصلی"
+
+#~ msgid "Recommended product"
+#~ msgstr "محصول پیشنهاد شده"
+
+#~ msgid "Ranking"
+#~ msgstr "رتبه بندی"
+
+#~ msgid ""
+#~ "Determines order of the products. A product with a higher value will "
+#~ "appear before one with a lower ranking."
+#~ msgstr ""
+#~ "ترتیب محصولات را تعیین می‌کند. محصول با رتبه بالاتر قبل از محصول با رتبه "
+#~ "کمتر نمایش داده می‌شود"
+
+#~ msgid "Product recommendation"
+#~ msgstr "پیشنهاد محصول"
+
+#~ msgid "Product recomendations"
+#~ msgstr "پیشنهاد محصولات"
+
+#~ msgid ""
+#~ "Code can only contain the letters a-z, A-Z, digits, and underscores, and "
+#~ "can't start with a digit."
+#~ msgstr ""
+#~ "کد فقط می‌تواند شامل حروف A-Z، a-z، اعداد و زیرخط‌ها باشد، و نمی‌تواند با یک "
+#~ "عدد شروع شود."
+
+#~ msgid "Text"
+#~ msgstr "متن"
+
+#~ msgid "Integer"
+#~ msgstr "عدد صحیح"
+
+#~ msgid "True / False"
+#~ msgstr "درست / غلط"
+
+#~ msgid "Float"
+#~ msgstr "عدد اعشاری"
+
+#~ msgid "Rich Text"
+#~ msgstr "متن پیشرفته"
+
+#~ msgid "Date"
+#~ msgstr "تاریخ"
+
+#~ msgid "Datetime"
+#~ msgstr "تاریخ زمان"
+
+#~ msgid "Multi Option"
+#~ msgstr "چند گزینه"
+
+#~ msgid "Entity"
+#~ msgstr "وجود"
+
+#~ msgid "File"
+#~ msgstr "فایل"
+
+#~ msgid "Option Group"
+#~ msgstr "انتخاب گروه"
+
+#~ msgid "Required"
+#~ msgstr "مورد نیاز"
+
+#~ msgid "Product attribute"
+#~ msgstr "ویژگی محصول"
+
+#~ msgid "Product attributes"
+#~ msgstr "ویژگی‌های محصول"
+
+#~ msgid "Must be str or unicode"
+#~ msgstr "باید رشته و یا از یونیکد باشد"
+
+#~ msgid "Must be a float"
+#~ msgstr "باید یک عدد اعشاری باشد"
+
+#~ msgid "Must be an integer"
+#~ msgstr "باید یک عدد صحیح باشد"
+
+#~ msgid "Must be a date or datetime"
+#~ msgstr "باید یک تاریخ و یا تاریخ ساعت"
+
+#~ msgid "Must be a datetime"
+#~ msgstr "میبایست تاریخ زمان باشد"
+
+#~ msgid "Must be a boolean"
+#~ msgstr "باید یک بولین باشد"
+
+#~ msgid "Must be a model instance"
+#~ msgstr "باید نمونه‌ای از یک مدل باشد"
+
+#~ msgid "Must be a list or AttributeOption queryset"
+#~ msgstr "باید یک لیست یا queryset از مجموعه ویژگی ها باشد"
+
+#~ msgid "Must be an AttributeOption model object instance"
+#~ msgstr "Must be an AttributeOption model object instance"
+
+#~ msgid "AttributeOption has not been saved yet"
+#~ msgstr "AttributeOption هنوز ذخیره نشده است"
+
+#~ msgid "%(enum)s is not a valid choice for %(attr)s"
+#~ msgstr "%(enum)s یک انتخاب معتبر برای %(attr)s نیست"
+
+#~ msgid "Must be a file field"
+#~ msgstr "باید فیلد فایل باشد"
+
+#~ msgid "Attribute"
+#~ msgstr "صفت"
+
+#~ msgid "Boolean"
+#~ msgstr "بولی"
+
+#~ msgid "Richtext"
+#~ msgstr "غنی متن"
+
+#~ msgid "DateTime"
+#~ msgstr "تاریخ زمان"
+
+#~ msgid "Value option"
+#~ msgstr "مقدار گزینه"
+
+#~ msgid "Product attribute value"
+#~ msgstr "مقدار ویژگی محصول"
+
+#~ msgid "Product attribute values"
+#~ msgstr "مقادیر ویژگی محصول"
+
+#~ msgid "Attribute option group"
+#~ msgstr "ویژگی انتخاب گروه"
+
+#~ msgid "Attribute option groups"
+#~ msgstr "ویژگی انتخاب گروه ها"
+
+#~ msgid "Group"
+#~ msgstr "گروه"
+
+#~ msgid "Attribute option"
+#~ msgstr "ویژگی موجود"
+
+#~ msgid "Attribute options"
+#~ msgstr "مجموعه ویژگی ها"
+
+#~ msgid "Required - a value for this option must be specified"
+#~ msgstr "الزامی - یک مقدار برای این گزینه باید تعیین شود"
+
+#~ msgid "Optional - a value for this option can be omitted"
+#~ msgstr "اختیاری - مقدار این گزینه می‌تواند حذف شود"
+
+#~ msgid "Original"
+#~ msgstr "اصلی"
+
+#~ msgid "Caption"
+#~ msgstr "عنوان"
+
+#~ msgid "Product image"
+#~ msgstr "تصویر محصول"
+
+#~ msgid "Product images"
+#~ msgstr "تصاویر محصول"
+
+#~ msgid "%(obj)s has no attribute named '%(attr)s'"
+#~ msgstr "%(obj)s هیچ ویژگی به نام '%(attr)s' ندارد"
+
+#~ msgid "%(attr)s attribute cannot be blank"
+#~ msgstr "%(attr)sویژگی نمی‌تواند خالی باشد"
+
+#~ msgid "%(attr)s attribute %(err)s"
+#~ msgstr "%(attr)sویژگی %(err)s"
+
+#~ msgctxt "Product review title"
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+#~ msgid "Body"
+#~ msgstr "بدنه"
+
+#~ msgctxt "Anonymous reviewer name"
+#~ msgid "Name"
+#~ msgstr "نام"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Requires moderation"
+#~ msgstr "نیاز به"
+
+#~ msgid "Approved"
+#~ msgstr "تایید شده"
+
+#~ msgid "Rejected"
+#~ msgstr "رد"
+
+#~ msgid "Total Votes"
+#~ msgstr "جمع آراء"
+
+#~ msgid "Delta Votes"
+#~ msgstr "امتیاز دلتا"
+
+#~ msgid "Product review"
+#~ msgstr "بررسی محصول"
+
+#~ msgid "Product reviews"
+#~ msgstr "بررسی های محصول"
+
+#~ msgid "Anonymous reviews must include a name and an email"
+#~ msgstr "بررسی های ناشناس باید شامل یک نام و یک ایمیل باشند."
+
+#~ msgid "anonymous"
+#~ msgstr "ناشناس"
+
+#~ msgid "Only signed in users can vote"
+#~ msgstr "تنها کاربران وارد شده به سیستم می توانند امتیاز دهند."
+
+#~ msgid "Up"
+#~ msgstr "بالا"
+
+#~ msgid "Down"
+#~ msgstr "پایین"
+
+#~ msgid "Delta"
+#~ msgstr "دلتا"
+
+#~ msgid "Vote"
+#~ msgstr "رای"
+
+#~ msgid "Votes"
+#~ msgstr "آراء"
+
+#~ msgid "You cannot vote on your own reviews"
+#~ msgstr "شما نمی توانید به مطلب بررسی محصول خود رای دهید."
+
+#~ msgid "Only signed-in users can vote on reviews"
+#~ msgstr "فقط کاربران وارد شده به سیستم می توانند به بررسی ها رای دهند"
+
+#~ msgid "You can only vote once on a review"
+#~ msgstr "شما فقط میتوانید یک بار به یک بررسی رای دهید"
+
+#~ msgid "Catalogue reviews"
+#~ msgstr "بررسی‌های کاتالوگ"
+
+#~ msgid "Recency"
+#~ msgstr "تازگی"
+
+#~ msgid "Sort by"
+#~ msgstr "مرتب کن بر اساس"
+
+#~ msgid "You have already reviewed this product!"
+#~ msgstr "شما قبلا یک بررسی برای این محصول نوشته اید!"
+
+#~ msgid "You can't leave a review for this product."
+#~ msgstr "شما نمی توانید برای این کالا بررسی بنویسید."
+
+#~ msgid "Thank you for reviewing this product"
+#~ msgstr "از بررسی شما برای این محصول سپاس گزاریم."
+
+#~ msgid "Thanks for voting!"
+#~ msgstr "از رای دادن شما سپاس گزاریم!"
+
+#~ msgid "%(filename)s is not a valid image (%(error)s)"
+#~ msgstr "%(filename)s تصویر معتبر نیست (%(error)s)"
+
+#~ msgid "%s is not a valid image archive"
+#~ msgstr "%s یک آرشیو تصویری معتبر نیست"
+
+#~ msgid "The given page number was invalid."
+#~ msgstr "شماره صفحه‌ی وارد شده نامعتبر است."
+
+#~ msgid "Checkout"
+#~ msgstr "پرداخت نهایی"
+
+#~ msgid "My email address is"
+#~ msgstr "آدرس ایمیل من"
+
+#~ msgid "I am a new customer and want to checkout as a guest"
+#~ msgstr "من یک مشتری جدید هستم و می خواهم به عنوان مهمان خریدم را انجام دهم."
+
+#~ msgid ""
+#~ "I am a new customer and want to create an account before checking out"
+#~ msgstr ""
+#~ "من یک مشتری جدید هستم و می خواهم قبل از خریدم یک اکانت در سایت شما ایجاد "
+#~ "کنم و از این طریق خریدم را انجام دهم."
+
+#~ msgid "I am a returning customer, and my password is"
+#~ msgstr ""
+#~ "من قبلا از فروشگاه شما خرید کرده ام و در سایت شما اکانت دارم.\n"
+#~ "رمز عبور من:"
+
+#~ msgid "A user with that email address already exists"
+#~ msgstr "کاربری با همین ایمیل قبلا در سیستم ثبت نام کرده است."
+
+#~ msgid "You need to add some items to your basket to checkout"
+#~ msgstr ""
+#~ "برای پرداخت نهایی شما ابتدا باید تعدادی محصول را به سبد خرید خود اضافه "
+#~ "کنید!"
+
+#~ msgid ""
+#~ "'%(title)s' is no longer available to buy (%(reason)s). Please adjust "
+#~ "your basket to continue"
+#~ msgstr ""
+#~ "'%(title)s' دیگر موجود نیست، به این دلایل (%(reason)s). لطفا برای ادامه "
+#~ "کالا(ها)ی ذکر شده را از سبد خود حذف کنید."
+
+#~ msgid "Please either sign in or enter your email address"
+#~ msgstr "لطفا یا وارد سیستم شوید و یا آدرس ایمیل خود را وارد کنید."
+
+#~ msgid "Please choose a shipping address"
+#~ msgstr "لطفا یک برای ارسال انتخاب کنید"
+
+#~ msgid ""
+#~ "Your previously chosen shipping address is no longer valid.  Please "
+#~ "choose another one"
+#~ msgstr ""
+#~ "آدرس ارسال قبلی شما دیگر معتبر نیست. لطفا آدرس دیگری را انتخاب کنید."
+
+#~ msgid "Please choose a shipping method"
+#~ msgstr "لطفا یک روش ارسال انتخاب کنید."
+
+#~ msgid ""
+#~ "Your previously chosen shipping method is no longer valid.  Please choose "
+#~ "another one"
+#~ msgstr ""
+#~ "روش ارسالی که شما قبلا انتخاب کرده بودید دیگر معتبر نیست. لطفا روش دیگری "
+#~ "را برای ارسال انتخاب کنید."
+
+#~ msgid ""
+#~ "Create your account and then you will be redirected back to the checkout "
+#~ "process"
+#~ msgstr ""
+#~ "اکانت خود را در سایت ما بسازید و ما شما را به پروسه ی پرداخت نهایی برمی "
+#~ "گردانیم."
+
+#~ msgid "Address saved"
+#~ msgstr "آدرس ذخیره شد."
+
+#~ msgid "Address deleted"
+#~ msgstr "آدرس حذف شد."
+
+#~ msgid ""
+#~ "Shipping is unavailable for your chosen address - please choose another"
+#~ msgstr "ارسال کالا به آدرس شما مقدور نیست. لطفا آدرس دیگری را انتخاب کنید."
+
+#~ msgid "Your submitted shipping method is not permitted"
+#~ msgstr "شما اجازه ی انتخاب شیوه ی ارسال انتخاب شده را ندارید."
+
+#~ msgid ""
+#~ "A problem occurred while processing payment for this order - no payment "
+#~ "has been taken.  Please contact customer services if this problem persists"
+#~ msgstr ""
+#~ "در هنگام انجام پرداخت سفارش شما مشکلی پیش آمده، هیچ هزینه ای از حساب شما "
+#~ "کاسته نشده. در صورت مشکلات بیشتر با پشتیبانی تماس حاصل فرمایید."
+
+#~ msgid "No order found"
+#~ msgstr "هیچ سفارشی یافت نشد"
+
+#~ msgid "email address"
+#~ msgstr "ایمیل"
+
+#~ msgid "Staff status"
+#~ msgstr "وضعیت کارمند"
+
+#~ msgid "Designates whether the user can log into this admin site."
+#~ msgstr "مشخص می کند که آیا کاربری می تواند وارد قسمت ادمین شود یا نه."
+
+#~ msgid "Active"
+#~ msgstr "فعال"
+
+#~ msgid ""
+#~ "Designates whether this user should be treated as active. Unselect this "
+#~ "instead of deleting accounts."
+#~ msgstr ""
+#~ "مشخص می کند که وضعیت این کابر فعال باشد. به جای پاک کردن حساب های کاربری "
+#~ "این گزینه را از حالت انتخاب خارج کنید"
+
+#~ msgid "date joined"
+#~ msgstr "تاریخ عضویت"
+
+#~ msgid "Users"
+#~ msgstr "کاربران"
+
+#~ msgid "Email Address"
+#~ msgstr "آدرس ایمیل"
+
+#~ msgid "Subject"
+#~ msgstr "موضوع"
+
+#~ msgid "Body Text"
+#~ msgstr "بدنه ی متن"
+
+#~ msgid "Body HTML"
+#~ msgstr "بدنه HTML"
+
+#~ msgid "Date Sent"
+#~ msgstr "تاریخ ارسال"
+
+#~ msgid "Emails"
+#~ msgstr "ایمیل"
+
+#~ msgid "Email to %(user)s with subject '%(subject)s'"
+#~ msgstr "ایمیل به %(user)s با عنوان %(subject)s"
+
+#~ msgid "Anonymous email to %(email)s with subject '%(subject)s'"
+#~ msgstr "ارسال ایمیل به صورت ناشناس به %(email)s با موضوع %(subject)s"
+
+#~ msgid "Code used for looking up this event programmatically"
+#~ msgstr "کد استفاده شده برای دیدن این رویداد به صورت برنامه‌نویسی‌شده"
+
+#~ msgid "This is just used for organisational purposes"
+#~ msgstr "این تنها برای اهداف سازمانی مورد استفاده قرار گیرد"
+
+#~ msgid "Order related"
+#~ msgstr "سفارش مربوطه"
+
+#~ msgid "User related"
+#~ msgstr "کاربر مربوطه"
+
+#~ msgid "Email Subject Template"
+#~ msgstr "عنوان ایمیل قالب"
+
+#~ msgid "Email Body Template"
+#~ msgstr "قالب بدنه پست الکترونیک "
+
+#~ msgid "Email Body HTML Template"
+#~ msgstr "قالب بدنه ایمیل HTML "
+
+#~ msgid "HTML template"
+#~ msgstr "قالب HTML"
+
+#~ msgid "SMS Template"
+#~ msgstr "قالب پیام کوتاه"
+
+#~ msgid "SMS template"
+#~ msgstr "قالب پیام کوتاه"
+
+#~ msgid "Date Updated"
+#~ msgstr "زمان بروزرسانی"
+
+#~ msgid "Communication event type"
+#~ msgstr "ارتباطات نوع رویداد"
+
+#~ msgid "Communication event types"
+#~ msgstr "انواع رویداد ارتباطات"
+
+#~ msgid "Inbox"
+#~ msgstr "صندوق ورودی"
+
+#~ msgid "Archive"
+#~ msgstr "بایگانی"
+
+#~ msgid "Notification"
+#~ msgstr "آگاه شدن از طریق"
+
+#~ msgid "Notifications"
+#~ msgstr "اعلان‌ها"
+
+#~ msgid "Key"
+#~ msgstr "کلید"
+
+#~ msgid "Not yet confirmed"
+#~ msgstr "هنوز تایید نشده"
+
+#~ msgid "Cancelled"
+#~ msgstr "لغو"
+
+#~ msgid "Closed"
+#~ msgstr "بسته شد"
+
+#~ msgid "Date confirmed"
+#~ msgstr "تاریخ تایید"
+
+#~ msgid "Date cancelled"
+#~ msgstr "عضویت لغو شد"
+
+#~ msgid "Date closed"
+#~ msgstr "تاریخ بسته شدن"
+
+#~ msgid "Product alert"
+#~ msgstr "هشدار محصول"
+
+#~ msgid "Product alerts"
+#~ msgstr "هشدارهای محصول"
+
+#~ msgid "Product Alerts"
+#~ msgstr "محصولات هشدار دهنده"
+
+#~ msgid "An alert has been created"
+#~ msgstr "هشدار ایجاد شده است"
+
+#~ msgid "A confirmation email has been sent to %s"
+#~ msgstr "ای‌میل تایید به این آدرس ارسال‌شد %s"
+
+#~ msgid "Your stock alert is now active"
+#~ msgstr "یادآور هشدار شما هم اکنون فعال است"
+
+#~ msgid "Your stock alert cannot be confirmed"
+#~ msgstr "یادآور هشدار شما قابل تایید نمی باشد."
+
+#~ msgid "Your stock alert has been cancelled"
+#~ msgstr "یادآور هشدار شما لغو شده است."
+
+#~ msgid "Your stock alert cannot be cancelled"
+#~ msgstr "یادآور هشدار شما امکان لغو شدن ندارد."
+
+#~ msgid "Customer"
+#~ msgstr "مشتری"
+
+#~ msgid "Email address"
+#~ msgstr "ایمیل"
+
+#~ msgid "Password"
+#~ msgstr "رمز عبور"
+
+#~ msgid "The entered password is not valid!"
+#~ msgstr "رمز وارد شده معتبر نیست."
+
+#~ msgid "Confirm password"
+#~ msgstr "تکرار رمز عبور"
+
+#~ msgid "The two password fields didn't match."
+#~ msgstr "دو فیلد رمز عبور با هم مطابقت ندارند."
+
+#~ msgctxt "start date"
+#~ msgid "From"
+#~ msgstr "از طرف"
+
+#~ msgctxt "end date"
+#~ msgid "To"
+#~ msgstr "به"
+
+#~ msgid "Order number"
+#~ msgstr "شماره سفارش"
+
+#~ msgid "At least one field is required."
+#~ msgstr "حداقل پر کردن یکی از بخش ها الزامی است."
+
+#~ msgid "All orders"
+#~ msgstr "تمام سفارشات"
+
+#~ msgid ""
+#~ "Orders placed between %(date_from)s and %(date_to)s and order number "
+#~ "containing %(order_number)s"
+#~ msgstr ""
+#~ "سفارش‌های ثبت شده بین %(date_from)s و %(date_to)s و شماره سفارش‌های حاوی "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed between %(date_from)s and %(date_to)s"
+#~ msgstr "سفارشات بین %(date_from)s و %(date_to)s قرار داده شده"
+
+#~ msgid ""
+#~ "Orders placed since %(date_from)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "سفارش‌های ثبت شده از تاریخ %(date_from)s و شماره سفارش‌های حاوی "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed since %(date_from)s"
+#~ msgstr "سفارشاتی که از تاریخ %(date_from)s قرار داده شده اند"
+
+#~ msgid ""
+#~ "Orders placed until %(date_to)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "سفارش‌های ثبت شده تا تاریخ %(date_to)s و شماره سفارش‌های حاوی "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed until %(date_to)s"
+#~ msgstr "سفارش‌های ثبت شده تا تاریخ %(date_to)s"
+
+#~ msgid "Orders with order number containing %(order_number)s"
+#~ msgstr "سفارش‌ها با شماره سفارشِ حاوی %(order_number)s"
+
+#~ msgid "A user with this email address already exists"
+#~ msgstr "کاربری با این آدرس ایمیل قبلا ثبت‌نام کرده‌است"
+
+#~ msgid "Send notification to"
+#~ msgstr "اعلان ها را بفرست به"
+
+#~ msgid "Enter your email"
+#~ msgstr "ایمیل خود را وارد کنید"
+
+#~ msgid "There is already an active stock alert for %s"
+#~ msgstr "یک هشدار موجودی برای %s از پیش فعال است"
+
+#~ msgid ""
+#~ "%s has been sent a confirmation email for another product alert on this "
+#~ "site. Please confirm or cancel that request before signing up for more "
+#~ "alerts."
+#~ msgstr ""
+#~ "%s یک ایمیل تایید برای هشدار محصول دیگری در این سایت ارسال شده. لطفاً قبل "
+#~ "از آنکه هشدار‌های بیشتری را ثبت کنید. آن درخواست را تایید یا لغو کنید "
+
+#~ msgid "You already have an active alert for this product"
+#~ msgstr "شما یک هشدار فعال برای این محصول از پیش دارید"
+
+#~ msgid "%(count)d notification archived"
+#~ msgid_plural "%(count)d notifications archived"
+#~ msgstr[0] "%(count)d اطلاعیه بایگانی شد"
+#~ msgstr[1] "%(count)d اطلاعیه بایگانی شد"
+
+#~ msgid "%(count)d notification deleted"
+#~ msgid_plural "%(count)d notifications deleted"
+#~ msgstr[0] "%(count)d اطلاعیه حذف شدند"
+#~ msgstr[1] "%(count)d اطلاعیه حذف شدند"
+
+#~ msgid "Welcome back"
+#~ msgstr "خوش آمدید"
+
+#~ msgid "Thanks for registering!"
+#~ msgstr "از ثبت نام شما سپاس گزاریم!"
+
+#~ msgid "Profile"
+#~ msgstr "پروفایل "
+
+#~ msgid "Edit Profile"
+#~ msgstr "ویرایش پروفایل"
+
+#~ msgid "Profile updated"
+#~ msgstr "پروفایل شما به روز شد."
+
+#~ msgid "Delete profile"
+#~ msgstr "حذف پروفایل"
+
+#~ msgid "Your profile has now been deleted. Thanks for using the site."
+#~ msgstr "پروفایل شما از سیستم حذف شد."
+
+#~ msgid "Change Password"
+#~ msgstr "تغییر رمز عبور"
+
+#~ msgid "Password updated"
+#~ msgstr "رمز عبور به روز شد"
+
+#~ msgid "Email History"
+#~ msgstr "تاریخچه ی ایمیل"
+
+#~ msgid "Order History"
+#~ msgstr "تاریخچه سفارشات"
+
+#~ msgid "Order"
+#~ msgstr "سفارش"
+
+#~ msgid ""
+#~ "All available lines from order %(number)s have been added to your basket"
+#~ msgstr "همه ی خطوط موجود از سفارش %(number)s به سبد خرید شما اضافه شد."
+
+#~ msgid ""
+#~ "It is not possible to re-order order %(number)s as none of its lines are "
+#~ "available to purchase"
+#~ msgstr ""
+#~ "امکان سفارش مجدد کالای %(number)s به دلیل موجود نبودن برای خرید، وجود "
+#~ "ندارد."
+
+#~ msgid "%(qty)d copies of '%(product)s' have been added to your basket"
+#~ msgstr "%(qty)d کپی از '%(product)s' به سبد خرید شما اضافه شد."
+
+#~ msgid "'%s' has been added to your basket"
+#~ msgstr "'%s' به سبد خرید شما اضافه‌شد"
+
+#~ msgid "Address Book"
+#~ msgstr "دفتر تلفن و آدرس"
+
+#~ msgid "Add a new address"
+#~ msgstr "اضافه کردن یک آدرس جدید"
+
+#~ msgid "Address '%s' created"
+#~ msgstr "آدرس '%s' ایجاد شد."
+
+#~ msgid "Edit address"
+#~ msgstr "ویرایش آدرس "
+
+#~ msgid "Address '%s' updated"
+#~ msgstr "آدرس %s بروزرسانی شد"
+
+#~ msgid "Delete address?"
+#~ msgstr "آدرس را حذف کنید؟"
+
+#~ msgid "Address '%s' deleted"
+#~ msgstr "آدرس %s حذف شد"
+
+#~ msgid "We do not ship to this country"
+#~ msgstr "متاسفانه برای کشور شما امکان حمل و نقل نداریم"
+
+#~ msgid "Wish Lists"
+#~ msgstr "لیست درخواست ها"
+
+#~ msgid "Quantities updated."
+#~ msgstr "مقادیر به روز شد."
+
+#~ msgid "Create a new wish list"
+#~ msgstr "لیست درخواست جدید ایجاد کن."
+
+#~ msgid "The requested product no longer exists"
+#~ msgstr "محصول درخواست شده دیگر وجود ندارد."
+
+#~ msgid "Your wishlist has been created and '%(name)s has been added"
+#~ msgstr "لیست درخواست های شما ایجاد شد و '%(name)s اضافه شدند"
+
+#~ msgid "Your wishlist has been created"
+#~ msgstr "لیست درخواست شما ایجاد شد"
+
+#~ msgid "%(title)s has been added to your wishlist"
+#~ msgstr "%(title)s به لیست درخواست شما اضافه شد"
+
+#~ msgid "Your '%s' wishlist has been updated"
+#~ msgstr "لیست درخواست '%s' شما به روز رسانی شد."
+
+#~ msgid "Delete %s"
+#~ msgstr "%s را حذف کن"
+
+#~ msgid "Your '%s' wish list has been deleted"
+#~ msgstr "لیست درخواست '%s' شما حذف شد "
+
+#~ msgid "'%s' was added to your wish list."
+#~ msgstr "'%s'  به لیست درخواست شما اضافه شد"
+
+#~ msgid "Remove %s"
+#~ msgstr "%s را بردار"
+
+#~ msgid "'%(title)s' was removed from your '%(name)s' wish list"
+#~ msgstr "'%(title)s' از لیست درخواست '%(name)s' شما برداشته شد"
+
+#~ msgid "Wish list '%(name)s' already containing '%(title)s'"
+#~ msgstr "لیست علاقه‌ها ی '%(name)s' از قبل شامل '%(title)s' می باشد"
+
+#~ msgid "'%(title)s' moved to '%(name)s' wishlist"
+#~ msgstr "'%(title)s' به لیست درخواست '%(name)s' انتقال یافت"
+
+#~ msgid "Create a new product of type"
+#~ msgstr "محصول جدیدی از این نوع را بساز"
+
+#~ msgid "-- Choose type --"
+#~ msgstr "-- Choose type --"
+
+#~ msgid "Product title"
+#~ msgstr "عنوان محصول"
+
+#~ msgid "Select an option group"
+#~ msgstr "یک مجموعه را انتخاب کنید"
+
+#~ msgid ""
+#~ "At least one stock record must be set to a partner that you're associated "
+#~ "with."
+#~ msgstr "حداقل یک سابقه موجودى باید به شریک فروش شما اختصاص داده شده باشد"
+
+#~ msgid "Stand-alone and parent products must have at least one category"
+#~ msgstr "محصولات اصلی و مستقل باید حداقل یک دسته داشته باشند."
+
+#~ msgid "A child product should not have categories"
+#~ msgstr "یک محصول زیر دسته نیازی به دسته بندی ندارد."
+
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+#~ msgid "Variants"
+#~ msgstr "انواع"
+
+#~ msgid "Stock records"
+#~ msgstr "سوابق محصولات"
+
+#~ msgid "Actions"
+#~ msgstr "عملکردها"
+
+#~ msgid "Number of child categories"
+#~ msgstr "تعداد فرزندهای گروه "
+
+#~ msgid "%s Category"
+#~ msgid_plural "%s Categories"
+#~ msgstr[0] "دسته‌های %s"
+#~ msgstr[1] "دسته‌های %s"
+
+#~ msgid "Option summary"
+#~ msgstr "خلاصه گزینه‌ها"
+
+#~ msgid "%s Attribute Option Group"
+#~ msgid_plural "%s Attribute Option Groups"
+#~ msgstr[0] "%sویژگی انتخاب گروه"
+#~ msgstr[1] "%sویژگی انتخاب گروه"
+
+#~ msgid "Product search results"
+#~ msgstr "نتایج جست و جوی محصول"
+
+#~ msgid "Please choose a product type"
+#~ msgstr "نوع محصول را انتخاب کنید"
+
+#~ msgid "Create new %(product_class)s product"
+#~ msgstr "ایجاد محصول %(product_class)s جدید"
+
+#~ msgid "Create new variant of %(parent_product)s"
+#~ msgstr "ایجاد یک نوع جدید از %(parent_product)s"
+
+#~ msgid "Editing variant of %(parent_product)s"
+#~ msgstr "اصلاح انواع %(parent_product)s"
+
+#~ msgid "Your submitted data was not valid - please correct the errors below"
+#~ msgstr "اطلاعات وارد شده صحیح نمی باشد - خطاهای موجود را تصحیح کنید."
+
+#~ msgid "Delete product variant?"
+#~ msgstr "نوع دیگر محصول حذف شود؟"
+
+#~ msgid "Delete product?"
+#~ msgstr "محصول حذف کنید؟"
+
+#~ msgid "Deleted product variant '%s'"
+#~ msgstr "محصول حذف شده ی نوع '%s'"
+
+#~ msgid "Deleted product '%s'"
+#~ msgstr "محصول حذف شده '%s'"
+
+#~ msgid "Alerts with status \"%s\""
+#~ msgstr "هشدار با موقعیت \"%s\""
+
+#~ msgid "All alerts"
+#~ msgstr "تمام هشدارها"
+
+#~ msgid "Add a new category"
+#~ msgstr "دسته جدید اضافه کنید"
+
+#~ msgid "Category created successfully"
+#~ msgstr "دسته با موفقیت ایجاد شد"
+
+#~ msgid "Update category '%s'"
+#~ msgstr "به روز کردن دسته ی '%s'"
+
+#~ msgid "Category updated successfully"
+#~ msgstr "دسته با موفقیت به روز رسانی شد"
+
+#~ msgid "Category deleted successfully"
+#~ msgstr "دسته با موفقیت حذف شد"
+
+#~ msgid "Add a new product type"
+#~ msgstr "نوع جدیدی از محصول اضافه کنید"
+
+#~ msgid "Product type created successfully"
+#~ msgstr "نوع محصول با موفقیت ایجاد شد."
+
+#~ msgid "Update product type '%s'"
+#~ msgstr "به روز کردن نوع محصول '%s'"
+
+#~ msgid "Product type updated successfully"
+#~ msgstr "نوع محصول با موفقیت به‌روز شد"
+
+#~ msgid "Delete product type '%s'"
+#~ msgstr "حذف کردن نوع محصول '%s'"
+
+#~ msgid "Unable to delete '%s'"
+#~ msgstr "ناتوانی از حذف '%s'"
+
+#~ msgid "%i products are still assigned to this type"
+#~ msgstr "%i از محصولات هنوز به این دسته اختصاص دارند"
+
+#~ msgid "Product type deleted successfully"
+#~ msgstr "نوع محصول با موفقیت حذف شد."
+
+#~ msgid "Add a new Attribute Option Group"
+#~ msgstr "افزودن یک گروه ویژگی انتخاب"
+
+#~ msgid "Attribute Option Group created successfully"
+#~ msgstr "مجموعه ویژگی با موفقیت ساخته شد"
+
+#~ msgid "Update Attribute Option Group '%s'"
+#~ msgstr "بروز رسانی ویژگی انتخاب گروه «%s»"
+
+#~ msgid "Attribute Option Group updated successfully"
+#~ msgstr "مجموعه ویژگی با موفقیت بروز رسانی شد"
+
+#~ msgid "Delete Attribute Option Group '%s'"
+#~ msgstr "پاک کردن مجموعه ویژگی ها ی '%s'"
+
+#~ msgid ""
+#~ "%i product attributes are still assigned to this attribute option group"
+#~ msgstr "ویژگی های محصول %i همچنان به این مجموعه ویژگی اختصاص داده شده است"
+
+#~ msgid "Attribute Option Group deleted successfully"
+#~ msgstr "مجموعه ویژگی ها با موفقیت پاک شدند"
+
+#~ msgid "Communications dashboard"
+#~ msgstr "داشبورد ارتباطات"
+
+#~ msgid "Email subject template"
+#~ msgstr "پست الکترونیک قالب موضوع"
+
+#~ msgid "Email body text template"
+#~ msgstr "قالب بدنه متن ایمیل"
+
+#~ msgid "Email body HTML template"
+#~ msgstr "قالب بدنه HTML ایمیل  "
+
+#~ msgid "Preview email"
+#~ msgstr "ایمیل پیشین"
+
+#~ msgid "No order found with this number"
+#~ msgstr "هیچ سفارش به این شماره پیدا نشد"
+
+#~ msgid "Please enter an email address"
+#~ msgstr "لطفا یک آدرس ایمیل وارد کنید"
+
+#~ msgid ""
+#~ "The submitted form was not valid, please correct the errors and resubmit"
+#~ msgstr "فرم ثبت شده صحیح نمی باشد،خطا ها را صحیح کرده و دوباره ثبت کنید."
+
+#~ msgid "Email saved"
+#~ msgstr "ایمیل ذخیره شده"
+
+#~ msgid "A preview email has been sent to %s"
+#~ msgstr "یک ایمیل پیش نمایشی ارسال شد به %s"
+
+#~ msgid "Offers dashboard"
+#~ msgstr "داشبورد پیشنهادات"
+
+#~ msgid "Start date"
+#~ msgstr "تاریخ شروع"
+
+#~ msgid "End date"
+#~ msgstr "تاریخ پایان"
+
+#~ msgid "The end date must be after the start date"
+#~ msgstr "تاریخ پایان می بایست بعد از تاریخ شروع باشد."
+
+#~ msgid "Custom condition"
+#~ msgstr "شرایط سفارشی"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom condition"
+#~ msgstr "یا یک محدوده،نوع و مقدار  و یا وضعیت سفارشی را انتخاب کنید."
+
+#~ msgid "A range is required"
+#~ msgstr "یک محدوده الزامی است."
+
+#~ msgid "Custom incentive"
+#~ msgstr "انگیزه های همیشگی"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom incentive"
+#~ msgstr ""
+#~ "لطفا یک محدوده، نوع و مقدار را انتخاب کنید یا انگیزه های همیشگی را "
+#~ "برگزینید"
+
+#~ msgid "No other options can be set if you are using a custom incentive"
+#~ msgstr ""
+#~ "اگر از انگیزه های همیشگی استفاده میکنید هیچ انتخاب دیگری نمیتواند تنظیم "
+#~ "شود"
+
+#~ msgid "Offer name"
+#~ msgstr "نام پیشنهاد"
+
+#~ msgid "Is active?"
+#~ msgstr "آیا فعال است ؟"
+
+#~ msgid "Order date"
+#~ msgstr "تاریخ سفارش"
+
+#~ msgid "Order total"
+#~ msgstr "مجموع سفارش"
+
+#~ msgid "Cost"
+#~ msgstr "هزینه"
+
+#~ msgid "All offers"
+#~ msgstr "تمامی پیشنهادات"
+
+#~ msgid "Offers matching '%s'"
+#~ msgstr "انطباق دادن پیشنهادات '%s'"
+
+#~ msgid "%s step not complete"
+#~ msgstr "%s مرحله انجام نشدند"
+
+#~ msgid "Offer '%s' updated"
+#~ msgstr "پیشنهاد '%s' به روز رسانی شد"
+
+#~ msgid "Offer '%s' created!"
+#~ msgstr "پیشنهاد '%s' ایجاد شد!"
+
+#~ msgid "Name and description"
+#~ msgstr "نام و توضیحات"
+
+#~ msgid "Incentive"
+#~ msgstr "انگیزه"
+
+#~ msgid "Restrictions"
+#~ msgstr "محدودیت"
+
+#~ msgid "Offer deleted!"
+#~ msgstr "حذف پیشنهاد !"
+
+#~ msgid "Offer is already suspended"
+#~ msgstr "پیشنهاد در حال حاضر حالت تعلیق درآمده"
+
+#~ msgid "Offer suspended"
+#~ msgstr "پیشنهاد حالت تعلیق درآمده"
+
+#~ msgid "Offer cannot be reinstated as it is not currently suspended"
+#~ msgstr ""
+#~ "پیشنهاد تا زمانی که به حالت تعلیق درنیامده باشد نمی تواند مجددا ثبت شود."
+
+#~ msgid "Offer reinstated"
+#~ msgstr "پیشنهاد مجددا"
+
+#~ msgid "Orders dashboard"
+#~ msgstr "داشبورد سفارشات"
+
+#~ msgid "Orders placed since %s"
+#~ msgstr "زمان قرار داده شده سفارشات %s"
+
+#~ msgid "Orders placed until %s"
+#~ msgstr "سفارشات قرار داده شدند تا  %s"
+
+#~ msgid "Customer name"
+#~ msgstr "نام مشتری"
+
+#~ msgid "Product name"
+#~ msgstr "نام محصول"
+
+#~ msgid "Partner SKU"
+#~ msgstr "شریک SKU"
+
+#~ msgid "Date from"
+#~ msgstr "از تاریخ "
+
+#~ msgid "Date to"
+#~ msgstr "تا تاریخ "
+
+#~ msgid "Voucher code"
+#~ msgstr "کد کوپن"
+
+#~ msgid "Payment method"
+#~ msgstr "روش های پرداخت"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "CSV"
+#~ msgstr "CSV"
+
+#~ msgid "Get results as"
+#~ msgstr "گرفتن نتیجه ها به عنوان"
+
+#~ msgid "New order status"
+#~ msgstr "وضعیت جدید سفارشات"
+
+#~ msgid "Order number starts with \"{order_number}\""
+#~ msgstr "شماره‌ی سفارش با \"{order_number}\" شروع می‌شود"
+
+#~ msgid "Customer name matches \"{customer_name}\""
+#~ msgstr "نام مشتری مطابقت دارد با \"{customer_name}\""
+
+#~ msgid "Product name matches \"{product_name}\""
+#~ msgstr "نام محصول مطابقت دارد با  \"{product_name}\""
+
+#~ msgid "Includes an item with UPC \"{upc}\""
+#~ msgstr "شامل یک قلم کالا با کد جهانی محصول  ‍\"{upc}\""
+
+#~ msgid "Includes an item with partner SKU \"{partner_sku}\""
+#~ msgstr "شامل یک قلم کالا از واحد نگهداری موجودی همکار \"{partner_sku}\""
+
+#~ msgid "Placed between {start_date} and {end_date}"
+#~ msgstr "واقع شده بین تاریخ {start_date} و {end_date}"
+
+#~ msgid "Placed after {start_date}"
+#~ msgstr "واقع شده بعد از تاریخ {start_date}"
+
+#~ msgid "Placed before {end_date}"
+#~ msgstr "واقع شده قبل از تاریخ {end_date}"
+
+#~ msgid "Paid using {payment_method}"
+#~ msgstr "پرداخت به وسیله {payment_method}"
+
+#~ msgid "Order status is {order_status}"
+#~ msgstr "وضعیت سفارش برابر است با {order_status}"
+
+#~ msgid "Order value"
+#~ msgstr "قیمت سفارش"
+
+#~ msgid "Date of purchase"
+#~ msgstr "تاریخ خرید"
+
+#~ msgid "Number of items"
+#~ msgstr "تعداد اقلام"
+
+#~ msgid "Order status"
+#~ msgstr "وضعیت سفارش"
+
+#~ msgid "Customer email address"
+#~ msgstr "آدرس الکترونیکی خریدار"
+
+#~ msgid "Deliver to name"
+#~ msgstr "تحویل دادن به اسم"
+
+#~ msgid "Bill to name"
+#~ msgstr "رسید به نام"
+
+#~ msgid "The new status '%s' is not valid"
+#~ msgstr "وضعیت جدید '%s' معتبر نمیباشد"
+
+#~ msgid "The new status '%s' is not valid for this order"
+#~ msgstr "وضعیت جدید '%s' برای این سفارش معتبر نمیباشد"
+
+#~ msgid "Unable to change order status due to payment error: %s"
+#~ msgstr "ناتوان از تغییر وضعیت سفارش بدلیل خطای پرداخت: %s"
+
+#~ msgid "Order status changed from '%(old_status)s' to '%(new_status)s'"
+#~ msgstr "وضعیت سفارش تغییر پیدا کرد از '%(old_status)s' به '%(new_status)s'"
+
+#~ msgid "No valid action submitted"
+#~ msgstr "هیچ عملکرد صحیحی ثبت نشده"
+
+#~ msgid "Invalid action"
+#~ msgstr "اقدام نامعتبر"
+
+#~ msgid "You must select some lines to act on"
+#~ msgstr "شما باید ردیفی برای عمل کردن روی آن انتخاب کنید"
+
+#~ msgid "Invalid lines requested"
+#~ msgstr "ردیف های نامعتبری درخواست شده است."
+
+#~ msgid "The entered quantity for line #%s is not valid"
+#~ msgstr "مقدار وارد شده برای ردیف #%s معتبر نمیباشد."
+
+#~ msgid ""
+#~ "The entered quantity for line #%(line_id)s should not be higher than "
+#~ "%(quantity)s"
+#~ msgstr ""
+#~ "مقدار وارد شده برای ردیف #%(line_id)s نباید بیشتر از %(quantity)s باشد."
+
+#~ msgid "Note saved"
+#~ msgstr "یادداشت ذخیره شد"
+
+#~ msgid "Note cannot be deleted"
+#~ msgstr "یادداشت قابل حذف نمی باشد"
+
+#~ msgid "Note deleted"
+#~ msgstr "یادداشت حذف شد"
+
+#~ msgid "Invalid form submission"
+#~ msgstr "ثبت فرم نامعتبر"
+
+#~ msgid ""
+#~ "Unable to change order status as the requested new status is not valid"
+#~ msgstr ""
+#~ "وضعیت سفارش قابل تغییر نمی باشد زیرا وضعیت جدید درخواست شده نامعتبر است."
+
+#~ msgid "Please choose a valid amount"
+#~ msgstr "لطفا یک مقدار معتبر اتنخاب کنید."
+
+#~ msgid "'%(status)s' is not a valid new status for line %(line_id)d"
+#~ msgstr "وضعیت '%(status)s' یک وضعیت معتبر برای ردیف %(line_id)d نمیباشد."
+
+#~ msgid ""
+#~ "Status of line #%(line_id)d changed from '%(old_status)s' to "
+#~ "'%(new_status)s'"
+#~ msgstr ""
+#~ "وضعیت ردیف #%(line_id)d از '%(old_status)s' به '%(new_status)s' تغییر "
+#~ "پیدا کرد."
+
+#~ msgid "The event type '%s' is not valid"
+#~ msgstr "نوع رویداد '%s' معتبر نمیباشد."
+
+#~ msgid "Unable to create shipping event: %s"
+#~ msgstr "ایجاد رویداد حمل و نقل %s میسر نمیباشد."
+
+#~ msgid "Unable to create shipping event due to payment error: %s"
+#~ msgstr "ایجاد رویداد حمل و نقل به دلیل خطا در پرداخت میسر نمیباشد : %s"
+
+#~ msgid "Shipping event created"
+#~ msgstr "رویداد حمل و نقل ایجاد شد."
+
+#~ msgid "Unable to create payment event due to payment error: %s"
+#~ msgstr "ایجاد رویداد پرداخت به دلیل خطای پرداخت میسر نمیباشد: %s"
+
+#~ msgid "Unable to create payment event: %s"
+#~ msgstr "ایجاد رویداد پرداخت میسر نمیباشد : %s"
+
+#~ msgid "Payment event created"
+#~ msgstr "رویداد پرداخت ایجاد شد"
+
+#~ msgid "%(field)s changed from '%(old_value)s' to '%(new_value)s'"
+#~ msgstr "%(field)s از '%(old_value)s' به '%(new_value)s' تغییر یافتند."
+
+#~ msgid ""
+#~ "Delivery address updated:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "آدرس تحویل به روز رسانی شد:\n"
+#~ "%s"
+
+#~ msgid "Delivery address updated"
+#~ msgstr "آدرس تحویل به روز رسانی شد"
+
+#~ msgid "Pages dashboard"
+#~ msgstr "داشبورد صفحات"
+
+#~ msgctxt "Page title"
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+#~ msgid "Example: '/about/contact/'."
+#~ msgstr "مثال : '/about/contact/'"
+
+#~ msgid ""
+#~ "This value must contain only letters, numbers, dots, underscores, dashes, "
+#~ "slashes or tildes."
+#~ msgstr ""
+#~ "این عبارت تنها می تواند شامل حرف عدد نقطه آندرلاین خط تیره ممیز و علامت "
+#~ "تیلدا باشد"
+
+#~ msgid "All pages"
+#~ msgstr "تمامی صفحات"
+
+#~ msgid " with title containing '%s'"
+#~ msgstr "همراه با دارا بودن عنوان '%s'"
+
+#~ msgid "Create New Page"
+#~ msgstr "ایجاد صفحه جدید"
+
+#~ msgid "Deleted page '%s'"
+#~ msgstr "صفحه ی '%s' حذف شد."
+
+#~ msgid "Partners dashboard"
+#~ msgstr "داشبور همکاران"
+
+#~ msgctxt "Partner's name"
+#~ msgid "Name"
+#~ msgstr "نام"
+
+#~ msgid "Full dashboard access"
+#~ msgstr "همه ی داشبورد دردسترس است."
+
+#~ msgid "Limited dashboard access"
+#~ msgstr "داشبورد به طور محدود در دسترس است."
+
+#~ msgid "User role"
+#~ msgstr "نقش کاربر"
+
+#~ msgid "Confirm Password"
+#~ msgstr "تکرار رمز عبور"
+
+#~ msgid "All partners"
+#~ msgstr "همه ی همکاران"
+
+#~ msgid "Partners matching '%s'"
+#~ msgstr "تطبیق دادن همکاران '%s'"
+
+#~ msgid "Create new partner"
+#~ msgstr "ایجاد همکار جدید"
+
+#~ msgid "Partner '%s' was created successfully."
+#~ msgstr "همکار '%s' با موفقیت ایجاد شد."
+
+#~ msgid "Partner '%s' was updated successfully."
+#~ msgstr "همکار '%s' با موفقیت به روز رسانی شد."
+
+#~ msgid "Partner '%s' was deleted successfully."
+#~ msgstr "همکار '%s' با موفقیت حذف شد."
+
+#~ msgid "Create user"
+#~ msgstr "ایجاد کاربر"
+
+#~ msgid "User '%s' was created successfully."
+#~ msgstr "کاربر '%s' با موفقیت ایجاد شد."
+
+#~ msgid "User '%(name)s' was linked to '%(partner_name)s'"
+#~ msgstr "کاربر '%(name)s' به همکار '%(partner_name)s' لینک شد."
+
+#~ msgid "User '%(name)s' is already linked to '%(partner_name)s'"
+#~ msgstr "کاربر '%(name)s' اخیرا به همکار '%(partner_name)s' لینک شده است."
+
+#~ msgid "User '%(name)s' is not linked to '%(partner_name)s'"
+#~ msgstr "کاربر '%(name)s' به همکار '%(partner_name)s' لینک نشده است."
+
+#~ msgid "Edit user '%s'"
+#~ msgstr "ویرایش کاربر '%s'"
+
+#~ msgid "User '%s' was updated successfully."
+#~ msgstr "کاربر '%s' با موفقیت به روز رسانی شد."
+
+#~ msgid "Promotions dashboard"
+#~ msgstr "داشبرد ترفیعات"
+
+#~ msgid "Promotion type"
+#~ msgstr "نوع ترفیع"
+
+#~ msgid "Position"
+#~ msgstr "موقعیت"
+
+#~ msgid "Where in the page this content block will appear"
+#~ msgstr "در کجای صفحه این بلوک محتوی ایجاد خواهد شد؟"
+
+#~ msgid "Content blocks can only be linked to internal URLs"
+#~ msgstr "بلوک های محتوی میتوانند فقط به URL های داخلی لینک شوند"
+
+#~ msgid "Content block removed successfully"
+#~ msgstr "بلوک های محتوی با موفقیت حذف شدند"
+
+#~ msgid "Content block created successfully"
+#~ msgstr "بلوک های محتوی با موفقیت ایجاد شدند"
+
+#~ msgid "Create a new %s content block"
+#~ msgstr "ایجاد یک بلوک محتوی جدید %s"
+
+#~ msgid "Product list content block created"
+#~ msgstr "لیست محصولات بلوک محتوی ایجاد شد"
+
+#~ msgid "Update content block"
+#~ msgstr "به روز رسانی بلوک محتوی"
+
+#~ msgid "Content block updated successfully"
+#~ msgstr "بلوک محتوی با موفقیت به روز رسانی شد"
+
+#~ msgid "Content block '%(block)s' added to page '%(page)s'"
+#~ msgstr "بلوک های محتوی '%(block)s' به صفحه ی '%(page)s' اضافه شدند"
+
+#~ msgid "No link found to delete"
+#~ msgstr "هیچ لینکی برای حذف کردن یافت نشد"
+
+#~ msgid "Content block removed from page '%s'"
+#~ msgstr "بلوک محتوی از صفحه ی '%s' حذف شد"
+
+#~ msgid "Product list promotion updated"
+#~ msgstr "لیست محصولات ترفیع به روز رسانی شد"
+
+#~ msgid "Content block deleted successfully"
+#~ msgstr "بلوک محتوی با موفقیت حذف شد"
+
+#~ msgid "Ranges dashboard"
+#~ msgstr "محدوده داشبورد"
+
+#~ msgid "Product SKUs or UPCs"
+#~ msgstr "محصولات SKUs یا UPCs"
+
+#~ msgid "You can paste in a selection of SKUs or UPCs"
+#~ msgstr "شما میتوانید در  SKUs یا UPCs بچسبانید"
+
+#~ msgid "File of SKUs or UPCs"
+#~ msgstr "فایل SKUs یا UPCs"
+
+#~ msgid "Either comma-separated, or one identifier per line"
+#~ msgstr "یا به صورت \"جدا شده با ویرگول\" یا یک شناسه برای هر خط"
+
+#~ msgid "You must submit either a list of SKU/UPCs or a file"
+#~ msgstr "شما باید یک لیست از SKU/UPCs  یا یک فایل را بپذیرید"
+
+#~ msgid "The products with SKUs or UPCs matching %s are already in this range"
+#~ msgstr ""
+#~ "محصولات SKUs یا UPCs مطابقت داده شده با %s در این محدوده موجود هستند"
+
+#~ msgid "No products exist with a SKU or UPC matching %s"
+#~ msgstr "هیچ محصول SKU یا UPC مطابقت داده شده با %s موجود نمیباشد"
+
+#~ msgid "Create range"
+#~ msgstr "ایجاد محدوده"
+
+#~ msgid "Range deleted"
+#~ msgstr "محدوده حذف شده"
+
+#~ msgid "Removed %d product from range"
+#~ msgid_plural "Removed %d products from range"
+#~ msgstr[0] "%d محصولات از محدوده حذف شدند"
+#~ msgstr[1] "%d محصولات از محدوده حذف شدند"
+
+#~ msgid "%d product added to range"
+#~ msgid_plural "%d products added to range"
+#~ msgstr[0] "%d محصولات به محدوده اضافه شدند"
+#~ msgstr[1] "%d محصولات به محدوده اضافه شدند"
+
+#~ msgid "No product(s) were found with SKU or UPC matching %s"
+#~ msgstr "هیچ محصولی (محصولاتی) با SKU یا UPC مطابقت داده شده با %s یافت نشد"
+
+#~ msgid "There are more than one product with SKU %s"
+#~ msgstr "بیشتر از یک محصول با واحد نگهداری موجودی %s وجود دارد"
+
+#~ msgid "Reports dashboard"
+#~ msgstr "داشبورد گزارشات"
+
+#~ msgid "Report Type"
+#~ msgstr "نوع گزارش"
+
+#~ msgid "Only the offer and order reports use the selected date range"
+#~ msgstr ""
+#~ "فقط این پیشنهاد و گزارشات سفارش از دامنه تاریخ انتخابی استفاده می کنند"
+
+#~ msgid "The report is inclusive of this date"
+#~ msgstr "گزارش شامل این تاریخ میشود"
+
+#~ msgid "Download"
+#~ msgstr "دانلود"
+
+#~ msgid "Your start date must be before your end date"
+#~ msgstr "تاریخ شروع باید قبل از تاریخ پایان باشد"
+
+#~ msgid "%(report_filter)s between %(start_date)s and %(end_date)s"
+#~ msgstr "%(report_filter)s بین تاریخ‌های %(start_date)s و %(end_date)s"
+
+#~ msgid "You do not have access to this report"
+#~ msgstr "شما به این گزارش دسترسی ندارید"
+
+#~ msgid "Reviews dashboard"
+#~ msgstr "داشبورد مرور"
+
+#~ msgid "Keyword"
+#~ msgstr "کلمه کلیدی"
+
+#~ msgid "to"
+#~ msgstr "به"
+
+#~ msgid ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+#~ msgstr ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+
+#~ msgid " created after %s"
+#~ msgstr "بعد از %s ایجاد شده"
+
+#~ msgid " created before %s"
+#~ msgstr "قبل از %s ایجاد شده "
+
+#~ msgid " created between %(start_date)s and %(end_date)s"
+#~ msgstr "در بین تاریخ %(start_date)s و %(end_date)s ایجاد شده است"
+
+#~ msgid "All reviews"
+#~ msgstr "همه ی مرورها"
+
+#~ msgid " with status matching '%s'"
+#~ msgstr "با مطابقت دادن با وضعیت '%s'"
+
+#~ msgid " with keyword matching '%s'"
+#~ msgstr "با مطابقت دادن با کلمه کلیدی '%s'"
+
+#~ msgid " with customer name matching '%s'"
+#~ msgstr "با مطابقت با نام مشتری '%s'"
+
+#~ msgid "Shipping dashboard"
+#~ msgstr "داشبورد حمل و نقل"
+
+#~ msgid "%d Row"
+#~ msgid_plural "%d Rows"
+#~ msgstr[0] "ردیف‌های %d"
+#~ msgstr[1] "ردیف‌های %d"
+
+#~ msgid "Users dashboard"
+#~ msgstr "داشبورد کاربران"
+
+#~ msgctxt "User's name"
+#~ msgid "Name"
+#~ msgstr "نام"
+
+#~ msgid "%(main_filter)s %(email_filter)s %(name_filter)s"
+#~ msgstr "%(main_filter)s %(email_filter)s %(name_filter)s"
+
+#~ msgid "All users"
+#~ msgstr "همه ی کاربران"
+
+#~ msgid " with email matching '%s'"
+#~ msgstr "با مطابقت دادن با ایمیل '%s'"
+
+#~ msgid " with name matching '%s'"
+#~ msgstr "با مطابقت دادن با نام '%s'"
+
+#~ msgid "Users' status successfully changed"
+#~ msgstr "وضعیت کاربران با موفقیت تغییر یافت"
+
+#~ msgid "A password reset email has been sent"
+#~ msgstr "ایمیل حاوی تنظیم مجدد رمز ورود ارسال گردید"
+
+#~ msgid "All Alerts"
+#~ msgstr "همه ی اعلان ها"
+
+#~ msgid " with customer email matching '%s'"
+#~ msgstr "با مطابقت دادن با ایمیل مشتری '%s'"
+
+#~ msgid "Product alert saved"
+#~ msgstr "اعلان محصول ذخیره گردید"
+
+#~ msgid "Product alert deleted"
+#~ msgstr "اعلان محصول حذف گردید"
+
+#~ msgid "Vouchers dashboard"
+#~ msgstr "داشبورد کپن ها"
+
+#~ msgid "Start datetime"
+#~ msgstr "تاریخ شروع"
+
+#~ msgid "End datetime"
+#~ msgstr "تاریخ پایان"
+
+#~ msgid "Usage"
+#~ msgstr "استفاده"
+
+#~ msgid "Which products get a discount?"
+#~ msgstr "به کدام محصولات تخفیف تعلق میگیرد؟"
+
+#~ msgid "Percentage off of products in range"
+#~ msgstr "درصد تخفیف برای محصولات در محدوده"
+
+#~ msgid "Fixed amount off of products in range"
+#~ msgstr "مبلغ تخفیف محصولات در محدوده"
+
+#~ msgid "Discount is a percentage off of the shipping cost"
+#~ msgstr "تخفیف شامل درصدی از هزینه ی حمل و نقل میباشد"
+
+#~ msgid "Discount is a fixed amount of the shipping cost"
+#~ msgstr "تخفیف شامل تمامی هزینه ی حمل و نقل میباشد"
+
+#~ msgid "Get shipping for a fixed price"
+#~ msgstr "دریافت حمل و نقل با قیمت ثابت"
+
+#~ msgid "Discount type"
+#~ msgstr "نوع تخفیف"
+
+#~ msgid "Discount value"
+#~ msgstr "ارزش تخفیف"
+
+#~ msgid "Exclusive offers cannot be combined on the same items"
+#~ msgstr "پیشنهاد‌های ویژه همزمان نمی توانند بر روی اقلام یکسان اعمال شوند"
+
+#~ msgid "The name '%s' is already in use"
+#~ msgstr "نام '%s' اخیرا استفاده شده است"
+
+#~ msgid "The code '%s' is already in use"
+#~ msgstr "کد '%s' اخیرا استفاده شده است"
+
+#~ msgid "The start date must be before the end date"
+#~ msgstr "تاریخ شروع باید قبل از تاریخ اتمام باشد"
+
+#~ msgid "Is Active?"
+#~ msgstr "آیا فعال است؟"
+
+#~ msgid "In Voucherset?"
+#~ msgstr "در مجموعه کوپن است؟"
+
+#~ msgid "%(main_filter)s %(name_filter)s %(code_filter)s"
+#~ msgstr "%(main_filter)s %(name_filter)s %(code_filter)s"
+
+#~ msgid "All vouchers"
+#~ msgstr "همه ی کوپن ها"
+
+#~ msgid "with name matching '%s'"
+#~ msgstr "با مطابقت دادن با نام '%s' "
+
+#~ msgid "with code '%s'"
+#~ msgstr "با کد '%s'"
+
+#~ msgid "Active vouchers"
+#~ msgstr "کوپن های فعال"
+
+#~ msgid "Create voucher"
+#~ msgstr "ایجاد کردن کوپن"
+
+#~ msgid "Offer for voucher '%s'"
+#~ msgstr "درخواست برای کوپن '%s'"
+
+#~ msgid "Voucher created"
+#~ msgstr "کوپن ایجاد گردید"
+
+#~ msgid "Voucher updated"
+#~ msgstr "کوپن به روز رسانی شد"
+
+#~ msgid "Voucher deleted"
+#~ msgstr "کوپن حذف شد"
+
+#~ msgid "Create voucher set"
+#~ msgstr "ساخت یک مجموعه کوپن"
+
+#~ msgid "Voucher set created"
+#~ msgstr "مجموعه کوپن ساخته شد"
+
+#~ msgid "Voucher sets"
+#~ msgstr "مجموعه کوپن ها"
+
+#~ msgid "This is displayed within the customer's basket"
+#~ msgstr "این در داخل سبد مشتری نمایش داده میشود"
+
+#~ msgid "This is displayed on the offer browsing page"
+#~ msgstr "این بر روی صفحه ی پیشنهاد نمایش داده میشود"
+
+#~ msgid "Site offer - available to all users"
+#~ msgstr "محل پیشنهاد - قابل استفاده برای همه ی کاربران"
+
+#~ msgid ""
+#~ "Voucher offer - only available after entering the appropriate voucher code"
+#~ msgstr "پیشنهاد کوپن - فقط بعد از وارد کردن کد کوپن قابل استفاده است"
+
+#~ msgid "User offer - available to certain types of user"
+#~ msgstr "پیشنهاد کاربر - برای انواع خاصی از کاربران قابل استفاده است"
+
+#~ msgid ""
+#~ "Session offer - temporary offer, available for a user for the duration of "
+#~ "their session"
+#~ msgstr ""
+#~ "پیشنهاد دوره ای - پیشنهاد موقتی ، برای کابر در مدت دوره اش قابل استفاده "
+#~ "است"
+
+#~ msgid "Exclusive offer"
+#~ msgstr "پیشنهاد شگفت انگیز"
+
+#~ msgid "Condition"
+#~ msgstr "شرایط"
+
+#~ msgid "Benefit"
+#~ msgstr "سود"
+
+#~ msgid "Priority"
+#~ msgstr "اولویت"
+
+#~ msgid "The highest priority offers are applied first"
+#~ msgstr "پیشنهاد هایی که بالاترین اولویت را دارند ابتدا اعمال میشوند"
+
+#~ msgid ""
+#~ "Offers are active from the start date. Leave this empty if the offer has "
+#~ "no start date."
+#~ msgstr ""
+#~ "پیشنهاد ها از تاریخ شروع فعال هستند. در صورتی که این پیشنهاد تاریخ شروع "
+#~ "ندارد این گزینه را خالی بگذارید"
+
+#~ msgid ""
+#~ "Offers are active until the end date. Leave this empty if the offer has "
+#~ "no expiry date."
+#~ msgstr ""
+#~ "پیشنهاد ها تا زمان انقضای آن فعال هستند. در صورتی که این پیشنهاد تاریخ "
+#~ "انقضا ندارد این گزینه را خالی بگذارید"
+
+#~ msgid "Max global applications"
+#~ msgstr "حداکثر درخواست های جهانی"
+
+#~ msgid "The number of times this offer can be used before it is unavailable"
+#~ msgstr ""
+#~ "تعداد دفعاتی که این پیشنهاد قبل از اینکه غیرقابل استفاده شود، میتواند "
+#~ "مورد استفاده قرار بگیرد"
+
+#~ msgid "Max user applications"
+#~ msgstr "حداکثر درخواست های کاربران"
+
+#~ msgid "The number of times a single user can use this offer"
+#~ msgstr "تعداد دفعاتی که یک کاربر میتواند از این پیشنهاد استفاده کند"
+
+#~ msgid "Max basket applications"
+#~ msgstr "حداکثر سبد درخواست ها"
+
+#~ msgid ""
+#~ "The number of times this offer can be applied to a basket (and order)"
+#~ msgstr ""
+#~ "تعداد دفعاتی که این پیشنهاد میتواند برای یک سبد مورد استفاده قرار گیرد (و "
+#~ "سفارش)"
+
+#~ msgid "Max discount"
+#~ msgstr "حداکثر تخفیف"
+
+#~ msgid "Total Discount"
+#~ msgstr "مجموع تخفیف ها"
+
+#~ msgid "Number of applications"
+#~ msgstr "تعداد درخواست ها"
+
+#~ msgid "Number of Orders"
+#~ msgstr "تعداد سفارش‌ها"
+
+#~ msgid "URL redirect (optional)"
+#~ msgstr "هدایت آدرس URL (اختیاری)"
+
+#~ msgid "Conditional offer"
+#~ msgstr "پیشنهاد مشروط"
+
+#~ msgid "Conditional offers"
+#~ msgstr "پیشنهاد های مشروط"
+
+#~ msgid "End date should be later than start date"
+#~ msgstr "تاریخ پایان باید بعد از تاریخ شروع باشد"
+
+#~ msgid "Offer is suspended"
+#~ msgstr "پیشنهاد تعلیق شده است"
+
+#~ msgid "Limited to %(total)d uses (%(remainder)d remaining)"
+#~ msgstr "محدود به %(total)d استفاده ( %(remainder)d باقی مانده)"
+
+#~ msgid "Limited to 1 use per user"
+#~ msgstr "محدود به 1 بار استفاده برای هر کاربر"
+
+#~ msgid "Limited to %(total)d uses per user"
+#~ msgstr "محدود به %(total)d بار استفاده برای هر کاربر"
+
+#~ msgid "Limited to 1 use per basket"
+#~ msgstr "محدود به 1 بار استفاده برای هر سبد"
+
+#~ msgid "Limited to %(total)d uses per basket"
+#~ msgstr "محدود به %(total)d بار استفاده برای هر سبد"
+
+#~ msgid "Available between %(start)s and %(end)s"
+#~ msgstr "بین تاریخ %(start)s و %(end)s قابل استفاده است"
+
+#~ msgid "Available from %(start)s"
+#~ msgstr "ازتاریخ %(start)s قابل استفاده است"
+
+#~ msgid "Available until %(end)s"
+#~ msgstr "تا تاریخ %(end)s قابل استفاده است"
+
+#~ msgid "Limited to a cost of %(max)s"
+#~ msgstr "محدود به قیمت %(max)s "
+
+#~ msgid "Range"
+#~ msgstr "محدوده"
+
+#~ msgid "Discount is a percentage off of the product's value"
+#~ msgstr "تخفیف شامل درصدی از ارزش محصول میباشد"
+
+#~ msgid "Discount is a fixed amount off of the product's value"
+#~ msgstr "تخفیف شامل مقدار معینی از ارزش محصول میشود"
+
+#~ msgid "Discount is to give the cheapest product for free"
+#~ msgstr "تخفیف شامل دادن رایگان ارزان ترین محصول میباشد"
+
+#~ msgid "Get the products that meet the condition for a fixed price"
+#~ msgstr "گرفتن محصولاتی که با شرایط قیمت ثابت مطابقت دارند"
+
+#~ msgid "Max Affected Items"
+#~ msgstr "بیشترین موارد مورد تاثیر واقع شده"
+
+#~ msgid "Custom class"
+#~ msgstr "کلاس رسم و رسومات"
+
+#~ msgid "Benefits"
+#~ msgstr "مزایا"
+
+#~ msgid "Multibuy benefits require a product range"
+#~ msgstr "مزایای خریدهای چندگانه به یک گستره ی محصول نیاز دارند"
+
+#~ msgid "Multibuy benefits don't require a value"
+#~ msgstr "مزایای خریدهای چندگانه به هیچ ارزشی نیاز ندارند"
+
+#~ msgid "Multibuy benefits don't require a 'max affected items' attribute"
+#~ msgstr ""
+#~ "مزایای خریدهای چندگانه به ویژگی \"بیشترین موارد موردتاثیر واقع شده\" نیاز "
+#~ "ندارند"
+
+#~ msgid "Percentage benefits require a product range"
+#~ msgstr "مزایای درصد به یک گستره ی محصول نیاز دارد"
+
+#~ msgid "Percentage discount benefits require a value"
+#~ msgstr "مقدار درصد تخفیف باید شامل یک مقدار باشد"
+
+#~ msgid "Percentage discount cannot be greater than 100"
+#~ msgstr "درصد تخفیف نمیتواند بیشتر از 100 باشد"
+
+#~ msgid "A discount value is required"
+#~ msgstr "مقدار تخفیف موردنیاز است"
+
+#~ msgid "Shipping discounts don't require a 'max affected items' attribute"
+#~ msgstr ""
+#~ "تخفبف های حمل ونقل به ویژگی \"بیشترین موارد موردتاثیر واقع شده\" نیاز "
+#~ "ندارند"
+
+#~ msgid "Fixed discount benefits require a product range"
+#~ msgstr "مزایای تخفیف ثابت به یک گستره ی محصول نیاز دارد"
+
+#~ msgid "Fixed discount benefits require a value"
+#~ msgstr "مزایای تخفیف ثابت به یک مقدار، نیاز دارد"
+
+#~ msgid "Depends on number of items in basket that are in condition range"
+#~ msgstr "بستگی به تعداد اقلام درسبد ،که در محدوده شرایط هستند، دارد"
+
+#~ msgid "Depends on value of items in basket that are in condition range"
+#~ msgstr "بستگی به ارزش اقلام در سبد، که در محدوده شرایط هستند، دارد"
+
+#~ msgid ""
+#~ "Needs to contain a set number of DISTINCT items from the condition range"
+#~ msgstr "باید شامل یک مجموعه از اقلام متمایز از دامنه شرایط باشد"
+
+#~ msgid "Conditions"
+#~ msgstr "شرایط"
+
+#~ msgid "Is public?"
+#~ msgstr "عمومی است؟"
+
+#~ msgid "Public ranges have a customer-facing page"
+#~ msgstr "محدوده های عمومی یک صفحه ی در ارتباط با مشتری دارند"
+
+#~ msgid "Includes all products?"
+#~ msgstr "شامل تمامی محصولات میشود؟"
+
+#~ msgid "Included Products"
+#~ msgstr "محصولات شامل شده"
+
+#~ msgid "Excluded Products"
+#~ msgstr "محصولات شامل نشده"
+
+#~ msgid "Included Categories"
+#~ msgstr "دسته های شامل شده"
+
+#~ msgid "File Path"
+#~ msgstr "مسیر فایل"
+
+#~ msgid "Size"
+#~ msgstr "سایز"
+
+#~ msgid "Uploaded By"
+#~ msgstr "آپلود شده توسط"
+
+#~ msgid "Date Uploaded"
+#~ msgstr "تاریخ آپلود"
+
+#~ msgid "Error Message"
+#~ msgstr "پیغام خطا"
+
+#~ msgid "Date Processed"
+#~ msgstr "تاریخ پردازش شده"
+
+#~ msgid "Number of New SKUs"
+#~ msgstr "تعداد SKUهای جدید"
+
+#~ msgid "Number of Unknown SKUs"
+#~ msgstr "تعداد SKUهای ناشناخته"
+
+#~ msgid "Number of Duplicate SKUs"
+#~ msgstr "تعداد SKUهای کپی شده"
+
+#~ msgid "Range Product Uploaded File"
+#~ msgstr "محدوده ی محصولات فایل آپلود شده"
+
+#~ msgid "Range Product Uploaded Files"
+#~ msgstr "محدوده ی محصولات فایل های آپلود شده"
+
+#~ msgid "%(value)s%% discount on %(range)s"
+#~ msgstr "%(value)s%% تخفیف روی %(range)s "
+
+#~ msgid "Percentage discount benefit"
+#~ msgstr "مزیت درصد تخفیف"
+
+#~ msgid "Percentage discount benefits"
+#~ msgstr "مزایای درصد تخفیف"
+
+#~ msgid "%(value)s discount on %(range)s"
+#~ msgstr "%(value)s تخفیف روی %(range)s "
+
+#~ msgid "Absolute discount benefit"
+#~ msgstr "مزیت تخفیف مستقل"
+
+#~ msgid "Absolute discount benefits"
+#~ msgstr "مزایای تخفیف مستقل"
+
+#~ msgid "The products that meet the condition are sold for %(amount)s"
+#~ msgstr "محصولاتی که با شرایط مطابقت کنند با %(amount)s مقدار به فروش میرسند"
+
+#~ msgid "Fixed price benefit"
+#~ msgstr "مزیت قیمت ثابت"
+
+#~ msgid "Fixed price benefits"
+#~ msgstr "مزایای قیمت ثابت"
+
+#~ msgid "Cheapest product from %(range)s is free"
+#~ msgstr "ارزان ترین محصول از %(range)s محدوده رایگان میباشد"
+
+#~ msgid "Multibuy discount benefit"
+#~ msgstr "مزیت تخفیف خریدهای چندگانه"
+
+#~ msgid "Multibuy discount benefits"
+#~ msgstr "مزایای تخفیف خریدهای چندگانه"
+
+#~ msgid "%(amount)s off shipping cost"
+#~ msgstr "%(amount)s تخفیف هزینه‌ی ارسال"
+
+#~ msgid "Shipping absolute discount benefit"
+#~ msgstr " "
+
+#~ msgid "Get shipping for %(amount)s"
+#~ msgstr "حمل و نقل برای %(amount)s"
+
+#~ msgid "Fixed price shipping benefit"
+#~ msgstr "مزایای حمل و نقل قیمت ثابت"
+
+#~ msgid "Fixed price shipping benefits"
+#~ msgstr "مزایای حمل و نقل قیمت ثابت"
+
+#~ msgid "%(value)s%% off of shipping cost"
+#~ msgstr "%(value)s%% از هزینه حمل و نقل"
+
+#~ msgid "Basket includes %(count)d item(s) from %(range)s"
+#~ msgstr "سبد شامل %(count)d تعداد مورد(ها) از %(range)s محدوده هاست"
+
+#~ msgid "Count condition"
+#~ msgstr "شرط شمارش"
+
+#~ msgid "Count conditions"
+#~ msgstr "شرایط شمارش"
+
+#~ msgid "Buy %(delta)d more product from %(range)s"
+#~ msgid_plural "Buy %(delta)d more products from %(range)s"
+#~ msgstr[0] "خریدن %(delta)d محصولات بیشتر از %(range)s "
+#~ msgstr[1] "خریدن %(delta)d محصولات بیشتر از %(range)s "
+
+#~ msgid "Basket includes %(count)d distinct item(s) from %(range)s"
+#~ msgstr "سبد شامل %(count)d مورد یکتا از محدوده %(range)s است."
+
+#~ msgid "Coverage Condition"
+#~ msgstr "شرط پوشش"
+
+#~ msgid "Coverage Conditions"
+#~ msgstr "شرایط پوشش"
+
+#~ msgid "Basket includes %(amount)s from %(range)s"
+#~ msgstr "سبد شامل %(amount)s از %(range)s محدوده است"
+
+#~ msgid "Value condition"
+#~ msgstr "شرط ارزش"
+
+#~ msgid "Value conditions"
+#~ msgstr "شرایط ارزش"
+
+#~ msgid "Spend %(value)s more from %(range)s"
+#~ msgstr "خرج کردن %(value)s بیشتر از %(range)s محدوده"
+
+#~ msgid "Offer"
+#~ msgstr "پیشنهاد"
+
+#~ msgid "Total discount"
+#~ msgstr "مجموع تخفیف"
+
+#~ msgid "Offer performance"
+#~ msgstr "اجرای پیشنهاد"
+
+#~ msgid "Site"
+#~ msgstr "مکان"
+
+#~ msgid "Billing Address"
+#~ msgstr "آدرس صورت حساب"
+
+#~ msgid "Order total (inc. tax)"
+#~ msgstr "مجموع سفارشات (شامل مالیات)"
+
+#~ msgid "Order total (excl. tax)"
+#~ msgstr "مجموع سفارشات (بدون مالیات)"
+
+#~ msgid "Shipping charge (inc. tax)"
+#~ msgstr "هزینه حمل ونقل (شامل مالیات)"
+
+#~ msgid "Shipping charge (excl. tax)"
+#~ msgstr "هزینه حمل ونقل (بدون مالیات)"
+
+#~ msgid "Shipping Address"
+#~ msgstr "آدرس حمل ونقل"
+
+#~ msgid "Shipping method"
+#~ msgstr "روش دریافت"
+
+#~ msgid "Guest email address"
+#~ msgstr "آدرس ایمیل مهمان"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status for order %(number)s (current "
+#~ "status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s' یک وضعیت معتبر برای سفارش %(number)s نمیباشد (وضعیت "
+#~ "کنونی: '%(status)s' )"
+
+#~ msgid "In progress"
+#~ msgstr "درحال پیشرفت"
+
+#~ msgid "Note Type"
+#~ msgstr "نوع یادداشت"
+
+#~ msgid "Message"
+#~ msgstr "پیغام"
+
+#~ msgid "Order Note"
+#~ msgstr "یادداشت سفارش"
+
+#~ msgid "Order Notes"
+#~ msgstr "یادداشت های سفارش"
+
+#~ msgid "Event Type"
+#~ msgstr "نوع رویداد"
+
+#~ msgid "Communication Event"
+#~ msgstr "رویداد ارتباط"
+
+#~ msgid "Communication Events"
+#~ msgstr "رویدادهای ارتباط"
+
+#~ msgid "'%(type)s' event for order #%(number)s"
+#~ msgstr "رویداد '%(type)s' برای سفارش #%(number)s "
+
+#~ msgid "Partner name"
+#~ msgstr "اسم شریک "
+
+#~ msgid "Partner reference"
+#~ msgstr "مرجع شریک"
+
+#~ msgid "This is the item number that the partner uses within their system"
+#~ msgstr "این شماره ی موردی هست که شریک در سیستمش استفاده میکند"
+
+#~ msgid "Partner Notes"
+#~ msgstr "یادداشت های شریک"
+
+#~ msgid "Stock record"
+#~ msgstr "سابقه موجودی"
+
+#~ msgid "Price (inc. tax)"
+#~ msgstr "قیمت با مالیات"
+
+#~ msgid "Price (excl. tax)"
+#~ msgstr "قیمت بدون مالیات"
+
+#~ msgid "Price before discounts (inc. tax)"
+#~ msgstr "قیمت قبل از تخفیف، شامل مالیات"
+
+#~ msgid "Price before discounts (excl. tax)"
+#~ msgstr "قیمت قبل از تخفیف، بدون مالیات"
+
+#~ msgid "Unit Cost Price"
+#~ msgstr "واحد بهای قیمت"
+
+#~ msgid "Unit Price (inc. tax)"
+#~ msgstr "قیمت واحد، شامل مالیات"
+
+#~ msgid "Unit Price (excl. tax)"
+#~ msgstr "قیمت واحد، بدون مالیات"
+
+#~ msgid "Unit Retail Price"
+#~ msgstr "قیمت واحد خرده فروشی"
+
+#~ msgid "Estimated Dispatch Date"
+#~ msgstr "تاریخ ارسال تخمینی"
+
+#~ msgid "Order Line"
+#~ msgstr "خط سفارش"
+
+#~ msgid "<missing product>"
+#~ msgstr "<محصول ازدست رفته>"
+
+#~ msgid "Product '%(name)s', quantity '%(qty)s'"
+#~ msgstr "محصول %(name)s، تعداد %(qty)s"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status (current status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s' یک وضعیت معتبر نمیباشد (وضعیت کنونی: '%(status)s' )"
+
+#~ msgid "'%(title)s' is no longer available"
+#~ msgstr "'%(title)s' دیگر قابل دسترس نمیباشد"
+
+#~ msgid "Line Attribute"
+#~ msgstr "خط صفت"
+
+#~ msgid "Line Attributes"
+#~ msgstr "خط صفات"
+
+#~ msgid "Shiping (inc. tax)"
+#~ msgstr "حمل ونقل (شامل مالیات)"
+
+#~ msgid "Shipping (excl. tax)"
+#~ msgstr "حمل ونقل (بدون مالیات)"
+
+#~ msgid "Line Price"
+#~ msgstr "قیمت خطی"
+
+#~ msgid "Line Prices"
+#~ msgstr "قیمت های خطی"
+
+#~ msgid "Line '%(number)s' (quantity %(qty)d) price %(price)s"
+#~ msgstr "خط '%(number)s' (مقدار %(qty)d) قیمت %(price)s"
+
+#~ msgid "Payment Event Type"
+#~ msgstr "شیوه پرداخت رویداد"
+
+#~ msgid "Payment Event Types"
+#~ msgstr "انواع شیوه های پرداخت رویداد"
+
+#~ msgid "Amount"
+#~ msgstr "مقدار"
+
+#~ msgid "Reference"
+#~ msgstr "ارجاع"
+
+#~ msgid "Lines"
+#~ msgstr "خطوط"
+
+#~ msgid "Payment Event"
+#~ msgstr "رویداد پرداخت"
+
+#~ msgid "Payment Events"
+#~ msgstr "رویداد های پرداخت"
+
+#~ msgid "Payment event for order %s"
+#~ msgstr "رویداد پرداخت برای سفارش %s"
+
+#~ msgid "Event"
+#~ msgstr "رویداد"
+
+#~ msgid "Payment Event Quantity"
+#~ msgstr "تعداد رویداد پرداخت "
+
+#~ msgid "Payment Event Quantities"
+#~ msgstr "تعداد رویدادهای پرداخت"
+
+#~ msgid "Event notes"
+#~ msgstr "یادداشت های رویداد"
+
+#~ msgid "This could be the dispatch reference, or a tracking number"
+#~ msgstr "این می تواند شماره پیگیری ارسال باشد"
+
+#~ msgid "Shipping Event"
+#~ msgstr "رویداد ارسال"
+
+#~ msgid "Shipping Events"
+#~ msgstr "رویدادهای ارسال"
+
+#~ msgid "Order #%(number)s, type %(type)s"
+#~ msgstr "سفارش #%(number)s، نوع %(type)s"
+
+#~ msgid "Shipping Event Quantity"
+#~ msgstr "تعداددد رویداد ارسال"
+
+#~ msgid "Shipping Event Quantities"
+#~ msgstr "تعداد رویدادهای ارسال"
+
+#~ msgid "%(product)s - quantity %(qty)d"
+#~ msgstr "%(product)s - تعداد %(qty)d"
+
+#~ msgid "Shipping Event Type"
+#~ msgstr "نوع رویداد ارسال"
+
+#~ msgid "Shipping Event Types"
+#~ msgstr "انواع رویداد ارسال"
+
+#~ msgid "Discount category"
+#~ msgstr "دسته بندی تخفیف"
+
+#~ msgid "Offer ID"
+#~ msgstr "کد پیشنهاد"
+
+#~ msgid "Voucher ID"
+#~ msgstr "کد کوپن"
+
+#~ msgid "Frequency"
+#~ msgstr "تکرار"
+
+#~ msgid "Order Discount"
+#~ msgstr "تخفیف سفارش"
+
+#~ msgid "Order Discounts"
+#~ msgstr "تخفیفات سفارش"
+
+#~ msgid "The selected quantity for line #%(line_id)s is too large"
+#~ msgstr "مقدار انتخابی برای خط #%(line_id)s بسیار بزرگ است"
+
+#~ msgid "Total incl. tax"
+#~ msgstr "مجموع با مالیات"
+
+#~ msgid "Date placed"
+#~ msgstr "تاریخ ثبت"
+
+#~ msgid "Orders placed"
+#~ msgstr "سفارشات ثبت شده"
+
+#~ msgid "Empty baskets cannot be submitted"
+#~ msgstr "سبد خرید خالی امکان ارسال ندارد"
+
+#~ msgid "There is already an order with number %s"
+#~ msgstr "قبلا سفارشی با شماره ی %s ثبت شده است."
+
+#~ msgid "Fulfillment partner"
+#~ msgstr "شریک دستاورد"
+
+#~ msgid "Fulfillment partners"
+#~ msgstr "شرکای دستاورد"
+
+#~ msgid "Price (retail)"
+#~ msgstr "قیمت خرده فروشی"
+
+#~ msgid "Cost Price"
+#~ msgstr "قیمت هزینه"
+
+#~ msgid "Number in stock"
+#~ msgstr "تعداد موجود در انبار"
+
+#~ msgid "Number allocated"
+#~ msgstr "تعداد تخصیص داده شده"
+
+#~ msgid "Low Stock Threshold"
+#~ msgstr "آستانه کمبود موجودی"
+
+#~ msgid "Invalid stock consumption request"
+#~ msgstr "درخواست نامعتبر محاسبه‌ی موجودی"
+
+#~ msgid "Stock Record"
+#~ msgstr "لیست فروشندگان"
+
+#~ msgid "Threshold"
+#~ msgstr "آستانه"
+
+#~ msgid "Open"
+#~ msgstr "باز"
+
+#~ msgid "Date Closed"
+#~ msgstr "تاریخ بسته شدن"
+
+#~ msgid "<stockalert for \"%(stock)s\" status %(status)s>"
+#~ msgstr "<stockalert for \"%(stock)s\" status %(status)s>"
+
+#~ msgid "Stock alert"
+#~ msgstr "اخطار موجودی"
+
+#~ msgid "Stock alerts"
+#~ msgstr "هشدارهای موجودی"
+
+#~ msgid "unavailable"
+#~ msgstr "ناموجود"
+
+#~ msgid "Unavailable"
+#~ msgstr "ناموجود"
+
+#~ msgid "Available"
+#~ msgstr "دسترس"
+
+#~ msgid "no stock available"
+#~ msgstr "کمبود موجودی "
+
+#~ msgid "a maximum of %(max)d can be bought"
+#~ msgstr "حداکثر %(max)dتا میتوانید خریداری کنید"
+
+#~ msgid "In stock"
+#~ msgstr "موجود در انبار"
+
+#~ msgid "In stock (%d available)"
+#~ msgstr "در انبار( %d موجود)"
+
+#~ msgid "No file path supplied"
+#~ msgstr "آدرس فایل داده نشد"
+
+#~ msgid "%s does not exist"
+#~ msgstr "%s وجود ندارد"
+
+#~ msgid "%s is not a file"
+#~ msgstr "%s یک فایل نیست"
+
+#~ msgid "%s is not readable"
+#~ msgstr "%s خوانا نیست"
+
+#~ msgid "Source"
+#~ msgstr "منبع"
+
+#~ msgid "%(type)s of %(amount).2f"
+#~ msgstr "%(amount).2fتا از %(type)s"
+
+#~ msgid "Transaction"
+#~ msgstr "تراکنش"
+
+#~ msgid "Transactions"
+#~ msgstr "تراکنش ها"
+
+#~ msgid "Source Type"
+#~ msgstr "نوع منبع"
+
+#~ msgid "Amount Allocated"
+#~ msgstr "مقدار اختصاص داده شده"
+
+#~ msgid "Amount Debited"
+#~ msgstr "مقدار بدهی"
+
+#~ msgid "Amount Refunded"
+#~ msgstr "مقدار بازگشت داده شد"
+
+#~ msgid "Label"
+#~ msgstr "برچسب"
+
+#~ msgid "Sources"
+#~ msgstr "منابع"
+
+#~ msgid "Allocation of %(amount)s from type %(type)s"
+#~ msgstr "تخصیص %(amount)s از نوع %(type)s"
+
+#~ msgid " (reference: %s)"
+#~ msgstr " (مرجع: %s)"
+
+#~ msgid "Source Types"
+#~ msgstr "انواع منبع"
+
+#~ msgid "Card Type"
+#~ msgstr "نوع کارت"
+
+#~ msgid "Number"
+#~ msgstr "شماره"
+
+#~ msgid "Expiry Date"
+#~ msgstr "تاریخ انقضاء"
+
+#~ msgid "Partner Reference"
+#~ msgstr "شریک مرجع"
+
+#~ msgid "%(card_type)s %(number)s (Expires: %(expiry)s)"
+#~ msgstr "%(card_type)s%(number)s (منقضی می‌شود در: %(expiry)s)"
+
+#~ msgid "Bankcard"
+#~ msgstr "کارت بانکی"
+
+#~ msgid "Bankcards"
+#~ msgstr "کارت های بانکی "
+
+#~ msgid "Payment"
+#~ msgstr "پرداخت"
+
+#~ msgid "Card number"
+#~ msgstr "شماره کارت"
+
+#~ msgid "Please enter a valid credit card number."
+#~ msgstr "لطفاً شماره کارت اعتباری معتبر وارد کنید."
+
+#~ msgid "%s cards are not accepted."
+#~ msgstr "%s کارت ها قبول نشده اند"
+
+#~ msgid "Enter a valid month."
+#~ msgstr "یک ماه معتبر وارد کنید."
+
+#~ msgid "Enter a valid year."
+#~ msgstr "یک سال معتبر وارد کنید."
+
+#~ msgid "Valid to"
+#~ msgstr "معتبر برای"
+
+#~ msgid "The expiration date you entered is in the past."
+#~ msgstr "تاریخ انقضای که وارد کرده اید  گذشته است."
+
+#~ msgid "Valid from"
+#~ msgstr "معتبر از"
+
+#~ msgid "The starting date you entered is in the future."
+#~ msgstr "تاریخ شروعی که شما وارد کردید در آینده است."
+
+#~ msgid "CCV number"
+#~ msgstr "شماره CCV کارت اعتباری"
+
+#~ msgid "Please enter a 3 or 4 digit number"
+#~ msgstr "لطفا یک عدد 3 یا 4 رقمی وارد کنید"
+
+#~ msgid ""
+#~ "This is the 3 or 4 digit security number on the back of your bankcard"
+#~ msgstr "پشت کارت بانکی شما یک شماره امنیت 3 یا 4 رقمی وجود دارد"
+
+#~ msgid "American Express cards use a 4 digit security code"
+#~ msgstr "کارت های اعتباری American Express دارای کد امنیتی 4 رقمی هستند"
+
+#~ msgid "Promotions"
+#~ msgstr "ارتقاء ها"
+
+#~ msgid "Display Order"
+#~ msgstr "نمایش ترتیب"
+
+#~ msgid "Clicks"
+#~ msgstr "کلیک"
+
+#~ msgid "Linked Promotion"
+#~ msgstr "رتقاء لینک"
+
+#~ msgid "Linked Promotions"
+#~ msgstr "لینک ها ارتقاء"
+
+#~ msgid "Page URL"
+#~ msgstr "صفحه URL"
+
+#~ msgid "Page Promotion"
+#~ msgstr "صفحه ارتقاء"
+
+#~ msgid "Page Promotions"
+#~ msgstr "صفحه های ترفیع"
+
+#~ msgid "Filter"
+#~ msgstr "فیلتر"
+
+#~ msgid "Keyword Promotion"
+#~ msgstr "ارتقاء کلید واژه"
+
+#~ msgid "Keyword Promotions"
+#~ msgstr "ارتقاء کلید واژه ها"
+
+#~ msgid "Keywords"
+#~ msgstr "کلید واژه ها"
+
+#~ msgid "Promotion"
+#~ msgstr "ارتقاء"
+
+#~ msgid "Display type"
+#~ msgstr "نوع صفحه نمایش"
+
+#~ msgid ""
+#~ "This can be used to have different types of HTML blocks (eg different "
+#~ "widths)"
+#~ msgstr ""
+#~ "برای داشتن انواع مختلف بلاک های HTML می تواند استفاده شود (مثلا عرض های "
+#~ "متفاوت)"
+
+#~ msgid "Raw HTML"
+#~ msgstr "خام HTML"
+
+#~ msgid "Link URL"
+#~ msgstr "URL لینک"
+
+#~ msgid "This is where this promotion links to"
+#~ msgstr "این جایی است که ترفیع به آن لینک می شود"
+
+#~ msgid "Multi Image"
+#~ msgstr "چند تصویر"
+
+#~ msgid "Multi Images"
+#~ msgstr "چند تصویر"
+
+#~ msgid "Single product"
+#~ msgstr "تک محصول"
+
+#~ msgctxt "Promotion product list title"
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+#~ msgid "Link text"
+#~ msgstr "متن لینک"
+
+#~ msgid "Product list"
+#~ msgstr "لیست محصولات"
+
+#~ msgid "Product lists"
+#~ msgstr "لیست محصولات"
+
+#~ msgid "Hand Picked Product List"
+#~ msgstr "لیست محصول های نشان دار شده"
+
+#~ msgid "Hand Picked Product Lists"
+#~ msgstr "لیست های محصولات نشان دار شده"
+
+#~ msgid "List"
+#~ msgstr "فهرست"
+
+#~ msgid "Ordered product"
+#~ msgstr "محصول سفارش داده شده"
+
+#~ msgid "Bestselling products"
+#~ msgstr "پرفروشترین محصول"
+
+#~ msgid "Recently added products"
+#~ msgstr "محصولاتی که به تازگی اضافه شده اند"
+
+#~ msgid "Method"
+#~ msgstr "روش"
+
+#~ msgid "Number of Products"
+#~ msgstr "تعداد محصولات"
+
+#~ msgid "Automatic product list"
+#~ msgstr "لیست اتوماتیک محصولات "
+
+#~ msgid "Automatic product lists"
+#~ msgstr "لیست های اتوماتیک محصولات"
+
+#~ msgid "Tabbed Block"
+#~ msgstr "بلوک جدول بندی شده"
+
+#~ msgid "Ordered Product List"
+#~ msgstr "لیست مرتب شده محصولات"
+
+#~ msgid "Ordered Product Lists"
+#~ msgstr "لیست های مرتب شده محصولات"
+
+#~ msgctxt "Tabbed block title"
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+#~ msgid "Tabbed Blocks"
+#~ msgstr "بلوک های جدول بندی شده"
+
+#~ msgid "Search"
+#~ msgstr "جستجو"
+
+#~ msgid "Relevancy"
+#~ msgstr "رابطه"
+
+#~ msgid "Customer rating"
+#~ msgstr "رتبه بندی مشتریان"
+
+#~ msgid "Newest"
+#~ msgstr "جدیدترین"
+
+#~ msgid "Price high to low"
+#~ msgstr "قیمت از بالا به پایین"
+
+#~ msgid "Price low to high"
+#~ msgstr "قیمت از پایین به بالا"
+
+#~ msgid "Title A to Z"
+#~ msgstr "عنوان از a تا z "
+
+#~ msgid "Title Z to A"
+#~ msgstr "عنوان از z تا a "
+
+#~ msgid "Shipping Method"
+#~ msgstr "روش حمل ونقل"
+
+#~ msgid "Shipping Methods"
+#~ msgstr "روش های حمل ونقل"
+
+#~ msgid "Price per order"
+#~ msgstr "قیمت هر سفارش"
+
+#~ msgid "Price per item"
+#~ msgstr "قیمت هر مورد"
+
+#~ msgid "Free Shipping"
+#~ msgstr "حمل ونقل رایگان"
+
+#~ msgid "Order and Item Charge"
+#~ msgstr "سفارش و هزینه اقلام"
+
+#~ msgid "Order and Item Charges"
+#~ msgstr "سفارش و هزینه اقلام"
+
+#~ msgid "Default Weight"
+#~ msgstr "وزن پیش فرض"
+
+#~ msgid "Default product weight in kg when no weight attribute is defined"
+#~ msgstr "وزن پیش فرض محصول به کیلو، زمانی که هیچ وزنی تعریف نشده است"
+
+#~ msgid "Weight-based Shipping Method"
+#~ msgstr "روش حمل ونقل بر اساس وزن"
+
+#~ msgid "Weight-based Shipping Methods"
+#~ msgstr "روش های حمل ونقل بر اساس وزن"
+
+#~ msgid "Upper Limit"
+#~ msgstr "محدودیت از بالا"
+
+#~ msgid ""
+#~ "Enter upper limit of this weight band in kg. The lower limit will be "
+#~ "determined by the other weight bands."
+#~ msgstr ""
+#~ "محدودیت از بالا را برای این گروه وزنی به کیلوگرم وارد کنید. محدودیت از "
+#~ "پایین توسط گروه های وزنی دیگر مشخص میشود"
+
+#~ msgid "Charge"
+#~ msgstr "هزینه"
+
+#~ msgid "Weight Band"
+#~ msgstr "گروه وزنی"
+
+#~ msgid "Weight Bands"
+#~ msgstr "گروه های وزنی"
+
+#~ msgid "Charge for weights up to %s kg"
+#~ msgstr "شارژ کردن برای وزن های تا %s کیلوگرم"
+
+#~ msgid "Shipping"
+#~ msgstr "حمل و نقل"
+
+#~ msgid "Free shipping"
+#~ msgstr "حمل ونقل رایگان"
+
+#~ msgid "No shipping required"
+#~ msgstr "حمل ونقل نیاز ندارد"
+
+#~ msgid "Fixed price shipping"
+#~ msgstr "قیمت ثابت حمل ونقل"
+
+#~ msgid "You need to define some shipping methods"
+#~ msgstr "شما باید چند روش حمل ونقل تعریف کنید"
+
+#~ msgid "Number of vouchers"
+#~ msgstr "تعداد کوپن ها"
+
+#~ msgid "Length of Code"
+#~ msgstr "طول کد"
+
+#~ msgid "VoucherSet"
+#~ msgstr "مجموعه کوپن"
+
+#~ msgid "VoucherSets"
+#~ msgstr "مجموعه کوپن ها"
+
+#~ msgid ""
+#~ "This will be shown in the checkout and basket once the voucher is entered"
+#~ msgstr ""
+#~ "این در قسمت وارسی نهایی و در سبد، هنگامی که کوپن وارد شد، نمایش داده میشود"
+
+#~ msgid "Case insensitive / No spaces allowed"
+#~ msgstr "مورد غیر حساس/ هیچ فضایی داده نمیشود"
+
+#~ msgid "Can be used once by one customer"
+#~ msgstr "فقط 1 بار میتواند توسط یک مشتری استفاده شود"
+
+#~ msgid "Can be used multiple times by multiple customers"
+#~ msgstr "میتواند چندین بار توسط چند مشتری استفاده شود"
+
+#~ msgid "Can only be used once per customer"
+#~ msgstr "فقط میتواند یک بار به ازای هر مشتری استفاده شود"
+
+#~ msgid "Times added to basket"
+#~ msgstr "دفعات به سبد اضافه شد"
+
+#~ msgid "Voucher"
+#~ msgstr "کوپن"
+
+#~ msgid "This voucher has already been used"
+#~ msgstr "این کوپن اخیرا استفاده شده است"
+
+#~ msgid "This voucher is only available to signed in users"
+#~ msgstr "این کوپن فقط برای کاربران وارد شده در دسترس است"
+
+#~ msgid "You have already used this voucher in a previous order"
+#~ msgstr "شما اخیرا از این کوپن در سفارش قبلی استفاده کرده اید"
+
+#~ msgid "Voucher Application"
+#~ msgstr "کاربرد کوپن"
+
+#~ msgid "Voucher Applications"
+#~ msgstr "کاربرد های کوپن"
+
+#~ msgid "'%(voucher)s' used by '%(user)s'"
+#~ msgstr "'%(voucher)s' استفاده شده توسط '%(user)s' "
+
+#~ msgid "Added to a basket"
+#~ msgstr "اضافه کردن به سبد خرید"
+
+#~ msgid "Used in an order"
+#~ msgstr "استفاده شده به ترتیب"
+
+#~ msgid "Voucher performance"
+#~ msgstr "کارایی کوپن"
+
+#~ msgid "Default"
+#~ msgstr "پیش فرض"
+
+#~ msgid "Private - Only the owner can see the wish list"
+#~ msgstr "خصوصی- فقط مالک میتواند لیست خاسته ها را ببیند"
+
+#~ msgid ""
+#~ "Shared - Only the owner and people with access to the obfuscated link can "
+#~ "see the wish list"
+#~ msgstr ""
+#~ "به اشتراک گذاشته شده- فقط مالک و کسانی که به لینک مبهم دسترسی دارند "
+#~ "میتوانند لیست خاسته ها را ببینند"
+
+#~ msgid "Public - Everybody can see the wish list"
+#~ msgstr "عمومی- همه میتوانند لیست خاسته ها را ببینند"
+
+#~ msgid "Visibility"
+#~ msgstr "قابلیت دید"
+
+#~ msgid "Wish List"
+#~ msgstr "لیست درخواست ها"
+
+#~ msgid "Wish list line"
+#~ msgstr "خط لیست درخاست "
+
+#~ msgid "Wishlists"
+#~ msgstr "لیست های خاسته ها"
+
+#~ msgid "The URL \"%s\" does not exist"
+#~ msgstr "URL \"%s\" وجود ندارد"
+
+#~ msgid "Specified page already exists!"
+#~ msgstr "صفحه ی مشخص شده از قبل وجود دارد"
+
+#~ msgid "This field is required"
+#~ msgstr "این فیلد الزامی است"
+
+#~ msgid "This field is invalid as its value is forbidden"
+#~ msgstr "این ورودی نامعتبر است زیرا مقدار وارد شده غیرمجاز است"
+
+#~ msgid "This is not a valid international phone format."
+#~ msgstr "شماره وارد شده دارای فرمت استاندارد بین الملی نمی باشد"
+
+#~ msgid "This is not a valid local phone format for %s."
+#~ msgstr "شماره %s  دارای فرمت صحیح محلی نمی باشد"
+
+#~ msgid "This is not a valid local or international phone format."
+#~ msgstr "شماره وارد شده دارای فرمت صحیح محلی و بین المللی نمی باشد"
+
+#~ msgid "Check for products that are back in stock and send out alerts"
+#~ msgstr "محصولاتی که موجود شده‌اند را چک کن و خبر بده"
+
+#~ msgid "Permission denied!"
+#~ msgstr "مجوز رد شد!"
+
+#~ msgid "We're sorry but you are not permitted to access this page."
+#~ msgstr "متاسفیم، اما شما اجازه به دسترسی به این صفحه را ندارید."
+
+#~ msgid "Page not found"
+#~ msgstr "صفحه یافت نشد"
+
+#~ msgid "Page not found!"
+#~ msgstr "صفحه یافت نشد!"
+
+#~ msgid "We're sorry but the page you are looking for can't be found."
+#~ msgstr "با عرض پوزش، صفحه ای که شما دنبال آن هستید پیدا نمی شود."
+
+#~ msgid "Server error!"
+#~ msgstr "خطای سرور!"
+
+#~ msgid ""
+#~ "We're sorry but something went terribly wrong and we've been unable to "
+#~ "generate the page you requested."
+#~ msgstr ""
+#~ "با عرض پوزش، خطایی رخ داد و ما قادر به ارائه ی صفحه ی مورد نظر نشدیم."
+
+#~ msgid ""
+#~ "This incident has been logged and will be addressed by an engineer as "
+#~ "soon as possible."
+#~ msgstr ""
+#~ "این حادثه وارد سیستم شده و توسط یک مهندس در اسرع وقت.مورد توجه قرار می "
+#~ "گیرد"
+
+#~ msgid "Home"
+#~ msgstr "خانه"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(title)s</strong> has been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong>  به سبد خرید شما اضافه شد"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(quantity)s</strong> copies of <strong>%(title)s</strong>\n"
+#~ "    have been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(quantity)s</strong> کپی هایی از <strong>%(title)s</strong>\n"
+#~ "به شبد خرید شما اضافه شدند"
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been moved back to your basket.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> به سبد خرید شما برگردانده شد\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been saved for later\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> برای بعد ذخیره شد\n"
+
+#~ msgid "Your basket is now empty"
+#~ msgstr "سبد خرید شما اکنون خالی است"
+
+#~ msgid ""
+#~ "\n"
+#~ "            Your basket total is now <strong>%(total)s</strong>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "تمام سبد شما در حال حاظر <strong>%(total)s</strong>"
+
+#~ msgid "View basket"
+#~ msgstr "نمایش سبد خرید"
+
+#~ msgid "Checkout now"
+#~ msgstr "رفتن برای چک کردن نهایی"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket now qualifies for the \n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "سبدخرید شما اکنون واجد شرایط \n"
+#~ "<strong>%(name)s</strong> پیشنهاد میباشد\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket no longer qualifies for the\n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "سبد خرید شما دیگر واجد شرایط\n"
+#~ "<strong>%(name)s</strong> پیشنهاد نمیباشد\n"
+
+#~ msgid "Important messages about items in your basket"
+#~ msgstr "پیغام های مهم درباره ی موردهای درون سبد خریدشما"
+
+#~ msgid "You could be missing out on offers!"
+#~ msgstr "شما ممکن است پیشنهاد‌ها را از دست بدهید"
+
+#~ msgid ""
+#~ "\n"
+#~ "                <div class=\"warning\">%(message)s to qualify for the <a "
+#~ "href=\"%(url)s\">%(offer_name)s</a> special offer</div>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "</div>%(message)s واجد شرایط بودن برای <a href=\"%(url)s\">"
+#~ "%(offer_name)s</a> پیشنهاد ویژه<div class=\"warning\">"
+
+#~ msgid "Items to buy now"
+#~ msgstr "آیتم ها برای خرید در حال حاضر"
+
+#~ msgid "Price"
+#~ msgstr "قیمت"
+
+#~ msgid "Total"
+#~ msgstr "کل"
+
+#~ msgid "Updating..."
+#~ msgstr "...درحال به روز رسانی"
+
+#~ msgid "Update"
+#~ msgstr "به روز رسانی"
+
+#~ msgid "Remove"
+#~ msgstr "برداشتن"
+
+#~ msgid "Save for later"
+#~ msgstr "ذخیره برای بعد"
+
+#~ msgid "Voucher/promo code"
+#~ msgstr "کد کوپن تخفیف / طرح فروش ویژه"
+
+#~ msgid "I have a voucher code..."
+#~ msgstr "...من یک کد کوپن گرفتم"
+
+#~ msgid "Adding..."
+#~ msgstr "درحال اضافه کردن"
+
+#~ msgid "Add voucher"
+#~ msgstr "اضافه کردن کوپن"
+
+#~ msgid "or"
+#~ msgstr "یا"
+
+#~ msgid "cancel"
+#~ msgstr "لغو کردن"
+
+#~ msgid "Totals"
+#~ msgstr "مجموع"
+
+#~ msgid "Proceed to checkout"
+#~ msgstr "پرداخت نهایی"
+
+#~ msgid "Your basket is empty."
+#~ msgstr "سبد خرید شما خالی است."
+
+#~ msgid "Continue shopping"
+#~ msgstr "ادامه خرید"
+
+#~ msgid "Items to buy later"
+#~ msgstr "مواردی برای خرید های بعد"
+
+#~ msgid "Items"
+#~ msgstr "آیتم ها"
+
+#~ msgid "Move to basket"
+#~ msgstr "انتقال به سبد خرید"
+
+#~ msgid "Qty"
+#~ msgstr "تعداد"
+
+#~ msgid "Total:"
+#~ msgstr "مجموع:"
+
+#~ msgid "Basket total (before discounts)"
+#~ msgstr "مجموع سبد خرید (قبل از تخفیف)"
+
+#~ msgid "Discount"
+#~ msgstr "تخفیف"
+
+#~ msgid "Basket total (after discounts)"
+#~ msgstr "مجموع سبد خرید (پس از تخفیف)"
+
+#~ msgid "Basket total"
+#~ msgstr "مجموع سبد خرید"
+
+#~ msgid "Alternative shipping methods can be chosen during checkout"
+#~ msgstr "روش حمل و نقل جایگزین می تواند در طول زمان پرداخت انتخاب شود"
+
+#~ msgid "Shipping total (before discounts)"
+#~ msgstr "مجموع هزینه حمل و نقل (قبل از تخفیف)"
+
+#~ msgid "Shipping total (after discounts)"
+#~ msgstr "مجموع هزینه حمل و نقل (پس از تخفیف)"
+
+#~ msgid "Tax"
+#~ msgstr "مالیات"
+
+#~ msgid "Post order actions"
+#~ msgstr "عملیات بعد سفارش"
+
+#~ msgid "These will be applied once your order is placed."
+#~ msgstr "این موارد بعد از ثبت سفارش انجام خواهند شد"
+
+#~ msgid "Taxes will be added during checkout."
+#~ msgstr "مالیات به هنگام تصویه اضافه خواهد شد"
+
+#~ msgid "Show results for"
+#~ msgstr "نمایش نتایج برای"
+
+#~ msgid "Refine by"
+#~ msgstr "مرتب سازی بر حسب"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                   نتایج <strong>%(num_results)s</strong>  <strong>\n"
+#~ " %(end)s</strong> تا <strong>%(start)s</strong> از"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "                   نتایج <strong>%(num_results)s</strong>  <strong>\n"
+#~ " %(end)s</strong> تا <strong>%(start)s</strong> از"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> نتیجه"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> نتیجه"
+
+#~ msgid "<strong>0</strong> results."
+#~ msgstr "<strong>0</strong> نتیجه."
+
+#~ msgid "No products found."
+#~ msgstr "محصولی یافت نشد"
+
+#~ msgid "Edit this category"
+#~ msgstr "ویرایش این دسته‌بندی"
+
+#~ msgid "Edit this product"
+#~ msgstr "ویرایش محصول"
+
+#~ msgid "Product Description"
+#~ msgstr "توضیحات محصول"
+
+#~ msgid "Product Information"
+#~ msgstr "اطلاعات محصول"
+
+#~ msgid "Product Type"
+#~ msgstr "نوع محصول"
+
+#~ msgid "Price (incl. tax)"
+#~ msgstr "قیمت شامل مالیات"
+
+#~ msgid "Availability"
+#~ msgstr "دسترسی"
+
+#~ msgid "Number of reviews"
+#~ msgstr "تعداد نظرها"
+
+#~ msgid "See all reviews"
+#~ msgstr "همه ی نظرات"
+
+#~ msgid "Customer Reviews"
+#~ msgstr "نظرات مشتریان"
+
+#~ msgid ""
+#~ "This product does not have any reviews yet -\n"
+#~ "                            <a href=\"%(add_review_url)s#addreview\">be "
+#~ "the first to write one</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "هنوز نظری درباره‌ی این محصول ثبت‌نشده‌است -\n"
+#~ "<a href=\"%(add_review_url)s#addreview\">اولین نفری باشید که نظر می‌دهد</"
+#~ "a>."
+
+#~ msgid "This product does not have any reviews yet"
+#~ msgstr "هنوز نظری درباره‌ی این محصول ثبت‌نشده‌است"
+
+#~ msgid "Recommended items"
+#~ msgstr "آیتم های توصیه شده"
+
+#~ msgid "Add to basket"
+#~ msgstr "اضافه کردن به سبد"
+
+#~ msgid "You have an active stock alert for this product."
+#~ msgstr "شما یک هشدار موجودی فعال برای این محصول دارید"
+
+#~ msgid "You can get an email alert when this product is back in stock."
+#~ msgstr "می‌توانید با ثبت ای‌میل خود از موجود شدن دوباره ی این محصولمطلع‌شوید."
+
+#~ msgid "Notify me"
+#~ msgstr "به من اطلاع بده"
+
+#~ msgid "Add to wish list"
+#~ msgstr "اضافه کردن به فهرست علاقمندیها"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                            Add to '%(name)s' wish list\n"
+#~ "                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "اضافه کردن به لیست علاقه‌ها ی %(name)s"
+
+#~ msgid "Create a new wishlist"
+#~ msgstr "ایجاد یک علاقه‌مندی جدید"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <span class=\"pull-left\">Product is in <a href="
+#~ "\"%(url)s\">'%(name)s'</a> wishlist.</span>\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "<span class=\"pull-left\">محصول در لیست علاقه‌مندی‌های <a href=\"%(url)s"
+#~ "\">'%(name)s'</a>است."
+
+#~ msgid "Removing..."
+#~ msgstr "در حال حذف..."
+
+#~ msgid "Please login to add products to a wish list."
+#~ msgstr "لطفا برای اضافه کردن محصولات به لیست علاقه‌مندی وارد سایت شوید."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Reviewed by you on %(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ " نظر توسط شما در تاریخ %(review_date)s"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Reviewed by <strong>%(name)s</strong> on "
+#~ "%(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "نظر داده شده توسط <strong>%(name)s</strong> در تاریخ %(review_date)s"
+
+#~ msgid "Is this review helpful?"
+#~ msgstr "آیا این بررسی به درد بخور بود؟"
+
+#~ msgid "Yes"
+#~ msgstr "بله"
+
+#~ msgid "No"
+#~ msgstr "نه"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customer "
+#~ "found this useful\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customers "
+#~ "found this useful\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(num_up_votes)s</strong> از %(num_votes)s مشتریان این را مثبت "
+#~ "ارزابی کرده اند"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(num_up_votes)s</strong> از %(num_votes)s مشتریان این را مثبت "
+#~ "ارزابی کرده اند"
+
+#~ msgid "This review has no votes."
+#~ msgstr "کسی به این نظر رای نداده"
+
+#~ msgid "Free"
+#~ msgstr "رایگان"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer review\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer reviews\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "%(num_reviews)sبررسی‌ها ی مشتری "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "%(num_reviews)sبررسی‌ها ی مشتری "
+
+#~ msgid "Write a review"
+#~ msgstr "نظر خود را بنویسید"
+
+#~ msgid "Customer reviews"
+#~ msgstr "بررسی های محصول"
+
+#~ msgid "Leave a product review"
+#~ msgstr "ترک بررسی محصول"
+
+#~ msgid "Saving..."
+#~ msgstr "در حال ذخیره..."
+
+#~ msgid "Save review"
+#~ msgstr "ذخیره‌ی نظر"
+
+#~ msgid "This product does not have any reviews yet."
+#~ msgstr "هنوز نظری درباره‌ی این محصول ثبت‌نشده‌است."
+
+#~ msgid "Change"
+#~ msgstr "تغییر"
+
+#~ msgid "Contact"
+#~ msgstr "تماس"
+
+#~ msgid "Phone"
+#~ msgstr "تلفن"
+
+#~ msgid "Payment details to go here"
+#~ msgstr "جزئیات پرداخت به اینجا"
+
+#~ msgid "Edit order contents"
+#~ msgstr "محتویات ویرایش منظور"
+
+#~ msgid "Order contents"
+#~ msgstr "محتویات سفارش"
+
+#~ msgid "Item"
+#~ msgstr "محصول"
+
+#~ msgid "Checkout gateway"
+#~ msgstr "دروازه های پرداخت"
+
+#~ msgid "Who are you?"
+#~ msgstr "شما که هستید؟"
+
+#~ msgid "Get a password reminder"
+#~ msgstr "دریافت یک یادآوری رمز عبور"
+
+#~ msgid "Continuing..."
+#~ msgstr "در حال ادامه دادن..."
+
+#~ msgid "Continue"
+#~ msgstr "ادامه"
+
+#~ msgid "1. Shipping address"
+#~ msgstr "1. آدرس حمل و نقل"
+
+#~ msgid "2. Shipping method"
+#~ msgstr "2. روش حمل و نقل"
+
+#~ msgid "3. Payment"
+#~ msgstr "3. پرداخت"
+
+#~ msgid "4. Preview"
+#~ msgstr "4. پیش نمایش"
+
+#~ msgid "5. Confirmation"
+#~ msgstr "5. تایید"
+
+#~ msgid "Payment details"
+#~ msgstr "مشخصات پرداخت"
+
+#~ msgid "Enter payment details"
+#~ msgstr "مشخصات پرداخت را وارد کنید"
+
+#~ msgid ""
+#~ "This page needs implementing within your project.  You may want to use "
+#~ "one of Oscar's payment gateway libraries:"
+#~ msgstr ""
+#~ "این صفحه باید در پروژه شما قرار بگیرد. می توانید از یکی از کتابخانه های "
+#~ "درگاه های پرداخت اسکار استفاده کنید"
+
+#~ msgid "Order preview"
+#~ msgstr "پیش نمایش سفارش "
+
+#~ msgid "Preview order"
+#~ msgstr "پیش نمایش سفارش"
+
+#~ msgid "Place order"
+#~ msgstr "سفارش دهید"
+
+#~ msgid "Where should we ship to?"
+#~ msgstr "حمل ونقل به کجا صورت میگیرد؟"
+
+#~ msgid "An address from your address book?"
+#~ msgstr "یک آدرس از دفترچه آدرس شما؟"
+
+#~ msgid "Ship to your default shipping address"
+#~ msgstr "فرستادن به آدرس حمل ونقل پیش فرض شما"
+
+#~ msgid "Ship to this address"
+#~ msgstr "حمل و نقل به این آدرس"
+
+#~ msgid "Delete"
+#~ msgstr "حذف کردن"
+
+#~ msgid "Or a new address?"
+#~ msgstr "یا یک آدرس جدید؟"
+
+#~ msgid "return to basket"
+#~ msgstr "بازگشت به سبد خرید"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                This includes a discount of <strong>"
+#~ "%(amount)s</strong> as\n"
+#~ "                                your basket qualifies for the <strong>"
+#~ "%(name)s</strong> offer.\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "شامل یک تخفیف <strong>%(amount)s</strong> به عنوان\n"
+#~ "سبد شما قابلیت <strong>%(name)s</strong> پیشنهاد را دارد"
+
+#~ msgid "Select option"
+#~ msgstr "انتخاب گزینه"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s: confirmation\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "سفارش %(number)s : تایید"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Your order has been placed and a confirmation email has been sent "
+#~ "- your order number is\n"
+#~ "        <strong>%(number)s</strong>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "سفارش شما در سیستم ما ثبت شد. همکاران ما به زودی آن را آماده و برای شما "
+#~ "ارسال خواهند کرد. شماره ی سفارش شما :‌\n"
+#~ "<strong>%(number)s</strong>"
+
+#~ msgid ""
+#~ "Please make a note of this reference or print this page and quote it in "
+#~ "any communication with us regarding your order."
+#~ msgstr ""
+#~ "لطفا از این رسید یادداشت برداری کنید یا آن را پرینت کنید و برای پیگیری "
+#~ "سفارش خود از آن استفاده کنید."
+
+#~ msgid "No shipping address required."
+#~ msgstr "هیچ آدرس حمل ونقلی مورد نیاز نمیباشد"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s (reference: %(reference)s)\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "تخصیص %(amount)s از نوع %(type)s - مرجع : %(reference)s "
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "تخصیص %(amount)s از نوع %(type)s"
+
+#~ msgid "No payment was required for this order."
+#~ msgstr ""
+#~ "پرداخت برای این سفارش لازم نیست. پرداخت به هنگام تحویل کالا انجام می گیرد"
+
+#~ msgid "Items purchased"
+#~ msgstr "اقلام خریداری شده"
+
+#~ msgid ""
+#~ "\n"
+#~ "                            Estimated dispatch: <strong>%(date)s</"
+#~ "strong>\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "زمان تخمینی فرستادن: <strong>%(date)s</strong> "
+
+#~ msgid "Shipping charge (before discounts)"
+#~ msgstr "هزینه حمل ونقل - قبل از تخفیف"
+
+#~ msgid "Shipping charge (after discounts)"
+#~ msgstr "هزینه حمل ونقل - بعد از تخفیف"
+
+#~ msgid "Shipping charge"
+#~ msgstr "هزینه حمل ونقل"
+
+#~ msgid "Order tax"
+#~ msgstr "مالیات سفارش"
+
+#~ msgid "Tracking your order"
+#~ msgstr "پیگیری سفارش شما"
+
+#~ msgid "You can track the status of your order"
+#~ msgstr "شما میتوانید وضعیت سفارش خود را پیگیری کنید"
+
+#~ msgid "View order status"
+#~ msgstr "نمایش وضعیت سفارش"
+
+#~ msgid "Print this page"
+#~ msgstr "چاپ این صفحه"
+
+#~ msgid "Are you sure you want to delete this address?"
+#~ msgstr "آیا مطمئن هستید که می خواهید این آدرس را حذف کنید؟"
+
+#~ msgid "Yes!"
+#~ msgstr "بله!"
+
+#~ msgid "Save"
+#~ msgstr "صرفه جویی"
+
+#~ msgid "Address book"
+#~ msgstr "تاب آدرس"
+
+#~ msgid "Deleting..."
+#~ msgstr "درحال حذف کردن..."
+
+#~ msgid "Default shipping address"
+#~ msgstr "آدرس ارسال پیش فرض"
+
+#~ msgid "Default billing address"
+#~ msgstr "پیش فرض آدرس صورت حساب"
+
+#~ msgid "Edit"
+#~ msgstr "ویرایش"
+
+#~ msgid "Set as default shipping address"
+#~ msgstr "قرار دادن به عنوان آدرس حمل و نقل به طور پیش فرض"
+
+#~ msgid "Set as default billing address"
+#~ msgstr "قرار دادن صورت حساب به عنوان آدرس پیش فرض "
+
+#~ msgid "There are no addresses in your address book."
+#~ msgstr "هیچ آدرس در دفترچه آدرس شما وجود ندارد."
+
+#~ msgid "You do not have any active alerts for out-of-stock products."
+#~ msgstr "شما هیچ اعلان فعالی برای محصولات تمام شده ندارید"
+
+#~ msgid "Cancel"
+#~ msgstr "کنسل"
+
+#~ msgid ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> is back in stock\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> به انبار اضافه شد\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "%(title)s is back in stock\n"
+#~ msgstr ""
+#~ "\n"
+#~ "%(title)sموجود شده است\n"
+
+#~ msgid "Order #%(number)s"
+#~ msgstr "سفارش #%(number)s "
+
+#~ msgid "Contact number"
+#~ msgstr "شماره تماس"
+
+#~ msgid "Notes"
+#~ msgstr "یادداشت ها"
+
+#~ msgid "Estimated dispatch date"
+#~ msgstr "برآورد تاریخ اعزام"
+
+#~ msgid "Line price excl. tax"
+#~ msgstr "قیمت خطی بدون مالیات"
+
+#~ msgid "Line price incl. tax"
+#~ msgstr "قیمت خطی شامل مالیات"
+
+#~ msgid "Basket total (inc. tax)"
+#~ msgstr "مجموع سبد - شامل مالیات"
+
+#~ msgid "Email history"
+#~ msgstr "تاریخ پست الکترونیک"
+
+#~ msgid "Date sent"
+#~ msgstr "تاریخ ارسال"
+
+#~ msgid "No emails found"
+#~ msgstr "هیج ایمیل پیدا نشد"
+
+#~ msgid "Thanks for using our site!"
+#~ msgstr "بابت استفاده از سایت ما تشکر میکنیم"
+
+#~ msgid "The %(name)s team"
+#~ msgstr "گروه %(name)s "
+
+#~ msgid ""
+#~ "You're receiving this email because your email address has been changed "
+#~ "to <strong>%(email)s</strong>."
+#~ msgstr ""
+#~ "شما این ایمیل را دریافت کرده اید زیرا آدرس ایمیل شما به <strong>"
+#~ "%(email)s</strong> تغییر کرد"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately "
+#~ "and correct your email address:"
+#~ msgstr ""
+#~ "اگر شما آن را تغییر نداده‌اید، لطفا فورا رمز عبور خود را تغییر داده و آدرس "
+#~ "ایمیل خود را اصلاح کنید:"
+
+#~ msgid ""
+#~ "If it was you who changed the email address, you can ignore this email."
+#~ msgstr ""
+#~ "اگر خودتان آدرس ایمیل را تغییر دادید، می‌توانید این ایمیل را نادیده بگیرید"
+
+#~ msgid ""
+#~ "You're receiving this email because your email address has been changed "
+#~ "to %(email)s."
+#~ msgstr ""
+#~ "شما این ایمیل را دریافت کرده‌اید، زیرا آدرس ایمیل شما به %(email)s تغییر "
+#~ "یافته است."
+
+#~ msgid "Your email address has changed at %(site_name)s."
+#~ msgstr "آدرس ایمیل شما در %(site_name)s تغییر یافته است."
+
+#~ msgid "Hello,"
+#~ msgstr "سلام"
+
+#~ msgid ""
+#~ "We are pleased to confirm your order %(order_number)s has been received "
+#~ "and\n"
+#~ "        will be processed shortly."
+#~ msgstr "سفارش %(order_number)s شما دریافت شد و به زودی پردازش خواهد شد"
+
+#~ msgid "Your order contains:"
+#~ msgstr "سفارش شما شامل: "
+
+#~ msgid "Basket total:"
+#~ msgstr "مجموع سبد خرید:"
+
+#~ msgid "Shipping:"
+#~ msgstr "حمل و نقل:"
+
+#~ msgid "Order Total:"
+#~ msgstr "سفارش کل:"
+
+#~ msgid "Shipping address:"
+#~ msgstr "آدرس حمل و نقل:"
+
+#~ msgid ""
+#~ "You can view the status of this order by clicking <a href=\"%(status_url)s"
+#~ "\" title=\"order status\">here</a>"
+#~ msgstr ""
+#~ "شما می‌توانید وضعیت این سفارش را با کلیک کردن <a href=\"%(status_url)s\" "
+#~ "title=\"order status\">اینجا</a> مشاهده نمایید"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "We are pleased to confirm your order %(order_number)s has been received "
+#~ "and\n"
+#~ "will be processed shortly."
+#~ msgstr ""
+#~ "سلام!\n"
+#~ "سفارش %(order_number)s شما دریافت شد و به زودی پردازش خواهد شد"
+
+#~ msgid "quantity:"
+#~ msgstr "تعداد:"
+
+#~ msgid "price:"
+#~ msgstr "قیمت:"
+
+#~ msgid ""
+#~ "You can view the status of this order at the below URL:\n"
+#~ "%(status_url)s"
+#~ msgstr ""
+#~ "شما می‌توانید وضعیت سفارش خود را از طریق URL زیر ببینید\n"
+#~ "%(status_url)s"
+
+#~ msgid "The team"
+#~ msgstr "تیم"
+
+#~ msgid "Confirmation of order %(number)s"
+#~ msgstr "تأییدیه‌ی سفارش %(number)s"
+
+#~ msgid ""
+#~ "You're receiving this e-mail because your password has been changed at "
+#~ "%(name)s."
+#~ msgstr ""
+#~ "شما این ایمیل را دریافت کرده اید زیرا کلمه عبور شما برای %(name)s تغییر "
+#~ "داده شده است"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately:"
+#~ msgstr "اگر شما آن را تغییر نداده‌اید، لطفا فورا رمز عبور خود را تغییر دهید:"
+
+#~ msgid "Otherwise, you can ignore this email."
+#~ msgstr "در غیر این صورت، می‌توانید این ایمیل را نادیده بگیرید."
+
+#~ msgid ""
+#~ "\n"
+#~ "You're receiving this email because your password has been changed at "
+#~ "%(name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "شما این ایمیل را دریافت کرده اید زیرا کلمه عبور شما برای %(name)s تغییر "
+#~ "داده شده است\n"
+#~ "\n"
+
+#~ msgid "Your password changed at %(site_name)s."
+#~ msgstr "رمز عبور شما در %(site_name)s تغییر یافته است."
+
+#~ msgid ""
+#~ "You're receiving this e-mail because you requested a password reset for "
+#~ "your user account at %(name)s."
+#~ msgstr ""
+#~ "شما این ایمیل را دریافت کرده اید زیرا برای حساب کاربری شما در %(name)s "
+#~ "درخواست بازنشانی کردن کلمه عبور شده است"
+
+#~ msgid "Please go to the following page and choose a new password:"
+#~ msgstr ""
+#~ "لطفا وارد صفحه بعد شوید و برای انتخاب کردن یک کلمه عبور جدید اقدام کنید"
+
+#~ msgid "Resetting your password at %(site_name)s."
+#~ msgstr "بازنشانی کردن کلمه عبور شما در %(site_name)s"
+
+#~ msgid "Dear %(name)s,"
+#~ msgstr "%(name)s عزیز"
+
+#~ msgid ""
+#~ "\n"
+#~ "            We are happy to inform you that our product '%(title)s' is "
+#~ "back in stock:\n"
+#~ "            http://%(site)s%(path)s\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "خوشحالیم که به اطلاع برسانیم موجودی محصول %(title)s  تامین شده است و هم "
+#~ "اکنون در فروشگاه موجود است\n"
+#~ "http://%(site)s%(path)s"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Beware that the amount of items in stock is limited. Be "
+#~ "quick or someone might get there first.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "مطلع باشید که موجودی اقلام محدود می باشد. سفارش خود را به سرعت تکمیل کنید "
+#~ "زیرا ممکن است شخص دیگری آن را ثبت کند"
+
+#~ msgid ""
+#~ "\n"
+#~ "            With this email we have disabled your alert automatically and "
+#~ "you will not\n"
+#~ "            receive any further email regarding this product.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "با این ایمیل هشدار شما به طور خودکار غیر فعال شده است و شما ایمیل دیگری "
+#~ "را برای این محصول دریافت نخواهید کرد"
+
+#~ msgid ""
+#~ "\n"
+#~ "We are happy to inform you that our product '%(title)s' is back in "
+#~ "stock:\n"
+#~ "http://%(site)s%(path)s\n"
+#~ msgstr ""
+#~ "\n"
+#~ "خوشحالیم که به اطلاع برسانیم موجودی محصول %(title)s تامین شده است و هم "
+#~ "اکنون در فروشگاه موجود است\n"
+#~ "http://%(site)s%(path)s\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "Beware that the amount of items in stock is limited. Be quick or someone "
+#~ "might get there first.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "آگاه باشید که مقدار موارد درون انبار محدود است. قبل ازینکه مشتری به آنجا "
+#~ "سر بزند سریعتر اقدام کنید\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "With this email we have disabled your alert automatically and you will "
+#~ "not\n"
+#~ "receive any further email regarding this product.\n"
+#~ "\n"
+#~ "Thanks for your interest,\n"
+#~ "The %(site_name)s Team\n"
+#~ msgstr ""
+#~ "\n"
+#~ "بوسیله ی این ایمیل ما اعلان شما را به صورت اتوماتیک غیرفعال میکنیم \n"
+#~ "وشما هیچ ایمیل دیگری مرتبط با این محصول دریافت نخواهید کرد\n"
+#~ "\n"
+#~ "بابت علاقه ی شما تشکر میکنیم\n"
+#~ "گروه %(site_name)s  \n"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "Somebody (hopefully you) has requested an email alert when\n"
+#~ "'%(title)s' is back in stock.  Please click the following link\n"
+#~ "to confirm:\n"
+#~ "http://%(domain)s%(confirm_path)s\n"
+#~ "\n"
+#~ "You can cancel this alert at any time by clicking the following link:\n"
+#~ "http://%(domain)s%(cancel_path)s\n"
+#~ "\n"
+#~ "Thanks for your interest,\n"
+#~ "The %(site)s Team\n"
+#~ msgstr ""
+#~ "سلام\n"
+#~ "شخصی (امیدواریم خود شما!) درخواست یک ایمیل هشدار را در هنگام موجود شدن "
+#~ "%(title)s در سایت را کرده است. لطفا برای تایید روی لینک زیر کلیک کنید:\n"
+#~ "http://%(domain)s%(confirm_path)s\n"
+#~ "شما می توانید این پیام هشدار را در هر زمانی که مایل بودید با کلیک بر روی "
+#~ "لینک زیر لغو‌ کنید:\n"
+#~ "http://%(domain)s%(cancel_path)s\n"
+#~ "ممنون از توجهتان.\n"
+#~ "از طرف تیم %(site)s\n"
+#~ "\n"
+
+#~ msgid "Confirmation required for stock alert"
+#~ msgstr "برای اعلان انبار تایید نیاز است"
+
+#~ msgid "%(title)s is back in stock"
+#~ msgstr "موجودی محصول %(title)s تامین شده است"
+
+#~ msgid "Thank you for registering."
+#~ msgstr "با تشکر از شما برای ثبت نام."
+
+#~ msgid "Products you recently viewed"
+#~ msgstr "محصولات شما به تازگی مشاهده شده"
+
+#~ msgid "Log In"
+#~ msgstr "ورود به سیستم"
+
+#~ msgid "I've forgotten my password"
+#~ msgstr "من رمز عبور را فراموش کرده ام"
+
+#~ msgid "Logging in..."
+#~ msgstr "در حال ورود..."
+
+#~ msgid "Register"
+#~ msgstr "ثبات"
+
+#~ msgid "Registering..."
+#~ msgstr "ثبت ..."
+
+#~ msgid "Notifications inbox"
+#~ msgstr "صندوق اعلانات"
+
+#~ msgid "Sender"
+#~ msgstr "فرستنده"
+
+#~ msgid "Return to notifications inbox"
+#~ msgstr "بازگشت به تذکرات صندوق"
+
+#~ msgctxt "noun"
+#~ msgid "Archive"
+#~ msgstr "آرشیو"
+
+#~ msgid "View"
+#~ msgstr "نمایش"
+
+#~ msgctxt "verb"
+#~ msgid "Archive"
+#~ msgstr "آرشیو"
+
+#~ msgid "With selected items:"
+#~ msgstr "با آیتم های انتخاب شده:"
+
+#~ msgid "Archiving..."
+#~ msgstr "در حال بایگانی..."
+
+#~ msgid "There are no notifications to display."
+#~ msgstr "هیچ اطلاعیه برای نمایش وجود ندارد."
+
+#~ msgid "Order history"
+#~ msgstr "سابقه سفارش"
+
+#~ msgid "Dispatch date"
+#~ msgstr "تاریخ اعزام"
+
+#~ msgid "Re-ordering..."
+#~ msgstr "در حال سفارش مجدد..."
+
+#~ msgid "Re-order"
+#~ msgstr "سفارش مجدد "
+
+#~ msgid "Not available anymore"
+#~ msgstr "دیگر موجود نیست"
+
+#~ msgid "Basket total (excl. discounts)"
+#~ msgstr "مجموع سبد خرید (بدون احتساب تخفیف ها)"
+
+#~ msgid "Basket total (inc. discounts)"
+#~ msgstr "مجموع سبد خرید (شامل تخفیف ها)"
+
+#~ msgid "Shipping total (excl. discounts)"
+#~ msgstr "مجموع هزینه حمل و نقل (بدون احتساب تخفیف ها)"
+
+#~ msgid "Shipping total (inc. discounts)"
+#~ msgstr "مجموع هزینه حمل و نقل (شامل تخفیف ها)"
+
+#~ msgid "Shipping total"
+#~ msgstr "هزینه حمل و نقل"
+
+#~ msgid "Re-order all items"
+#~ msgstr "سفارش مجدد همه موارد"
+
+#~ msgid "Contact Number"
+#~ msgstr "شماره تماس"
+
+#~ msgid "Shipping Notes"
+#~ msgstr "توضیحات حمل و نقل"
+
+#~ msgid "Filtering..."
+#~ msgstr "در حال فیلتر کردن..."
+
+#~ msgid "Filter results"
+#~ msgstr "نتایج فیلتر"
+
+#~ msgid "Reset"
+#~ msgstr "تنظیم مجدد"
+
+#~ msgid "Total inc tax"
+#~ msgstr "مجموع شامل مالیات"
+
+#~ msgid "No orders match your search."
+#~ msgstr "هیچ محصولی یافت نشد"
+
+#~ msgid "You haven't placed any orders."
+#~ msgstr "شما هیچ گونه سفارشی قرار نداده اید."
+
+#~ msgid "Change password"
+#~ msgstr "تغییر رمز عبور"
+
+#~ msgid "Edit profile"
+#~ msgstr "ویرایش مشخصات"
+
+#~ msgid "Please confirm your password to delete your profile."
+#~ msgstr "لطفا برای پاک کردن حساب کاربری کلمه عبور خود را تایید کنید"
+
+#~ msgid "Warning"
+#~ msgstr "اخطار"
+
+#~ msgid ""
+#~ "\n"
+#~ "                This will delete all information about you from the "
+#~ "site.  Deleting your profile cannot be\n"
+#~ "                undone.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "همه اطلاعات شما از سایت پاک خواهد شد. پاک کردن حساب کاربری شما برگشت "
+#~ "ناپذیر است"
+
+#~ msgid "Delete?"
+#~ msgstr "حذف ؟"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "آیا مطمئن هستید که می خواهید %(name)s را حذف کنید؟"
+
+#~ msgid "Remove product"
+#~ msgstr "حذف محصول"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(product_name)s from "
+#~ "wish list %(wishlist_name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "از پاک کردن محصول %(product_name)s از لیست علاقه‌ها ی %(wishlist_name)s "
+#~ "اطمینان دارید؟"
+
+#~ msgid "Action"
+#~ msgstr "اقدام"
+
+#~ msgid "View product"
+#~ msgstr "مشاهده محصول"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                            Move to "
+#~ "'%(name)s' wish list\n"
+#~ "                                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "انتقال به لیست علاقه‌ها ی%(name)s"
+
+#~ msgid "Update quantities"
+#~ msgstr "به روز رسانی کمیت ها"
+
+#~ msgid "Your wish list is empty."
+#~ msgstr "لیست درخواست شما خالی است."
+
+#~ msgid "Create"
+#~ msgstr "ساختن"
+
+#~ msgid "What should your new wish list be called?"
+#~ msgstr "اسم لیست درخواست جدید شما چیست؟"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    After your wishlist is created, <strong>%(title)s</"
+#~ "strong> will be added.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "بعد از ساخته شدن لیست علاقه‌ها <strong>%(title)s</strong> اضافه خواهد شد"
+
+#~ msgid "Number of products"
+#~ msgstr "تعداد محصولات"
+
+#~ msgid "Wish list settings"
+#~ msgstr "تنظیمات لیست علاقه‌ها"
+
+#~ msgid "You don't have any wish lists yet."
+#~ msgstr "شما هنوز هیچ لیست درخواستی ندارید."
+
+#~ msgid "Create Attribute Option Group"
+#~ msgstr "ساخت گروه مجموعه ویژگی ها"
+
+#~ msgid "Attribute Option Group"
+#~ msgstr "مجموعه ویژگی ها"
+
+#~ msgid "Delete Attribute Option Group?"
+#~ msgstr "حذف مجموعه ویژگی ها؟"
+
+#~ msgid ""
+#~ "Please make sure all Product Attributes are assigned to another Attribute "
+#~ "Option Group before deletion."
+#~ msgstr ""
+#~ "لطفا قبل از پاک کردن مطمئن شوید که همه ویژگی های محصول به یک مجموعه ویژگی "
+#~ "دیگر اختصاص داده شده باشند"
+
+#~ msgid "Delete Attribute Option Group"
+#~ msgstr "حذف مجموعه ویژگی ها"
+
+#~ msgid ""
+#~ "Delete Attribute Option Group <strong>%(name)s</strong> - are you sure?"
+#~ msgstr "حذف مجموعه ویژگی های <strong>%(name)s</strong> - آیا مطمئن هستید؟"
+
+#~ msgid "Sections"
+#~ msgstr "دسته بندی ها"
+
+#~ msgid "Attribute Option Group details"
+#~ msgstr "جزئیات مجموعه ویژگی ها"
+
+#~ msgid "Attribute Options"
+#~ msgstr "مجموعه ویژگی ها"
+
+#~ msgid "Attribute Option Groups"
+#~ msgstr "گروه مجموعه ویژگی ها"
+
+#~ msgid "Create new Attribute Option Group"
+#~ msgstr "ایجاد مجموعه ویژگی جدید"
+
+#~ msgid "No Attribute Option Groups found."
+#~ msgstr "هیچ مجموعه ویژگی یافت نشد"
+
+#~ msgid "Edit Attribute Option Group"
+#~ msgstr "ویرایش مجموعه ویژگی"
+
+#~ msgid "Delete category?"
+#~ msgstr "حذف دسته بندی ؟"
+
+#~ msgid "Delete category"
+#~ msgstr "حذف دسته بندی"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <p>Delete category <strong>%(name)s</strong> - are you sure?</"
+#~ "p>\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "<p>آیا دسته‌بندی <strong>%(name)s</strong> پاک شود؟ - مطمئن هستید؟</p>"
+
+#~ msgid "Create new category"
+#~ msgstr "ساخت دسته‌بندی جدید"
+
+#~ msgid "You are editing:"
+#~ msgstr "شما در حال ویرایش:"
+
+#~ msgid "There are no categories."
+#~ msgstr "هیچ دسته‌بندی وجود ندارد"
+
+#~ msgid "Edit category"
+#~ msgstr "ویرایش دسته بندی"
+
+#~ msgid "Add child category"
+#~ msgstr "اضافه کردن زیرشاخه"
+
+#~ msgid "Edit children"
+#~ msgstr "ویرایش فرزندان"
+
+#~ msgid "View on site"
+#~ msgstr "نمایش در سایت"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "نوع محصول ایجاد شده «%(name)s»."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "نوع ایجاد شده برای «%(parent_name)s»"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "نوع محصول «%(name)s» به روز رسانی شده."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Created product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "محصول %(name)s ساخته شد"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Updated product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "محصول %(name)s بروز رسانی شد"
+
+#~ msgid "Edit again"
+#~ msgstr "ویرایش مجدد"
+
+#~ msgid "View it on the site"
+#~ msgstr "نمایش در وبسایت"
+
+#~ msgid "Delete product type?"
+#~ msgstr "آیا نوع محصول حذف شود؟"
+
+#~ msgid ""
+#~ "Please make sure all products are assigned to another type before "
+#~ "deletion."
+#~ msgstr ""
+#~ "لطفا مطئمن شوید که همه محصولات قبل از پاک شدن به یک نوع دیگر اختصاص داده "
+#~ "شوند"
+
+#~ msgid "Delete product type"
+#~ msgstr "حذف کردن نوع محصول"
+
+#~ msgid "Delete product type <strong>%(name)s</strong> - are you sure?"
+#~ msgstr "آیا محصول <strong>%(name)s</strong> حذف شود؟ - مطمئن هستید؟"
+
+#~ msgid "Create product type"
+#~ msgstr "ایجاد نوع محصول"
+
+#~ msgid "Product Class details"
+#~ msgstr "جزئیات کلاس محصول"
+
+#~ msgid "Create new product type"
+#~ msgstr "ایجاد نوع محصول جدید"
+
+#~ msgid "Product types"
+#~ msgstr "انواع محصول"
+
+#~ msgid "Requires shipping"
+#~ msgstr "نیاز به ارسال"
+
+#~ msgid "Track stock?"
+#~ msgstr "پیگیری موجودی انبار؟"
+
+#~ msgid "Edit product type"
+#~ msgstr "ویرایش انواع محصول"
+
+#~ msgid "There are no product types."
+#~ msgstr ".دسته بندی محصول وجود ندارد"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product variant <strong>%(title)s</strong> - "
+#~ "are you sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "حذف نوع محصول <strong>%(title)s</strong> - آیا مطمئن هستید؟"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product <strong>%(title)s</strong> - are you "
+#~ "sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "حذف محصول <strong>%(title)s</strong> - آیا مطمئن هستید؟"
+
+#~ msgid "This will also delete the following child products:"
+#~ msgstr "این عمل همچنین باعث حذف محصولات کودک زیر می شود:"
+
+#~ msgid "Create new product"
+#~ msgstr "ایجاد محصول جدید"
+
+#~ msgid "New Product"
+#~ msgstr "محصول جدید"
+
+#~ msgid "Search Products"
+#~ msgstr "جستجو در محصولات"
+
+#~ msgid "Searching..."
+#~ msgstr "...در حال جستجو"
+
+#~ msgid ""
+#~ "\n"
+#~ "                            You are currently editing a product variant "
+#~ "of\n"
+#~ "                            <a href=\"%(parent_url)s\">%(title)s</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "شما در حال ویرایش نوع محصول <a href=\"%(parent_url)s\">%(title)s</a> "
+#~ "هستید."
+
+#~ msgid "Product details"
+#~ msgstr "جزئیات محصول"
+
+#~ msgid "Images"
+#~ msgstr "تصاویر"
+
+#~ msgid "Stock and pricing"
+#~ msgstr "موجودی و قیمت"
+
+#~ msgid "Upselling"
+#~ msgstr "ترغیب به خرید بیشتر"
+
+#~ msgid "Product Type:"
+#~ msgstr "نوع محصول:"
+
+#~ msgid "Upload, change or remove images"
+#~ msgstr "بارگذاری تغییر یا حذف تصاویر"
+
+#~ msgid "SKU"
+#~ msgstr "واحد نگهداری موجودی"
+
+#~ msgid "Num in stock"
+#~ msgstr "تعداد موجودی"
+
+#~ msgid "Num allocated"
+#~ msgstr "تعداد تخصیص داده شده"
+
+#~ msgid "Low stock threshold"
+#~ msgstr "آستانه کمبود موجودی"
+
+#~ msgid "Cost price"
+#~ msgstr "قیمت هزینه"
+
+#~ msgid "Price (excl tax)"
+#~ msgstr "قیمت بدون مالیات"
+
+#~ msgid "Retail price"
+#~ msgstr "قیمت خرده فروشی"
+
+#~ msgid "Add variant"
+#~ msgstr "افزودن انواع"
+
+#~ msgid "This product does not have any variants."
+#~ msgstr "این محصول نوع دیگری ندارد"
+
+#~ msgid "One can't add variants to this product at this point."
+#~ msgstr "در حال حاضر امکان افزودن نوع برای این محصول وجود ندارد"
+
+#~ msgid "This is likely because this product still has stock records."
+#~ msgstr "احتمالا به دلیل وجود سابقه موجودی برای این محصول می باشد"
+
+#~ msgid "Save and add another variant"
+#~ msgstr "ذخیره و افزودن انواع دیگر"
+
+#~ msgid "Save and continue editing"
+#~ msgstr "ذخیره و ادامه ویرایش"
+
+#~ msgid "All"
+#~ msgstr "همه"
+
+#~ msgid "Current available stock"
+#~ msgstr "موجود‌ی در حال حاضر"
+
+#~ msgid "Date alert raised"
+#~ msgstr "اضافه کردن هشدار تاریخ"
+
+#~ msgid "No stock alerts found."
+#~ msgstr "هیچ هشدار‌ی برای موجودی یافت نشد"
+
+#~ msgid "Preview"
+#~ msgstr "پیش نمایش"
+
+#~ msgid "Edit email"
+#~ msgstr "تغییر ایمیل"
+
+#~ msgid "Email content"
+#~ msgstr "محتوای ایمیل"
+
+#~ msgid "These fields are rendered using Django's template system."
+#~ msgstr "این ورودی ها توسط Django's template system ساخته شده است"
+
+#~ msgid "You can use the following variables:"
+#~ msgstr "شما می توانید از متغیر های زیر استفاده کنید"
+
+#~ msgid "The full name of the user (if they have one)"
+#~ msgstr "نام کامل کاربر (در صورت وجود)"
+
+#~ msgid "The user's email address"
+#~ msgstr "آدرس ایمیل کاربر"
+
+#~ msgid "The name of the site (eg example.com)"
+#~ msgstr "نام سایت (مثلا example.com)"
+
+#~ msgid "View a preview of this email using order:"
+#~ msgstr "نمایش یک پیش نمایش از ایمیل استفاده شده برای سفارش:"
+
+#~ msgid "View preview"
+#~ msgstr "نمایش دادن پیش نمایش"
+
+#~ msgid "or send a preview to:"
+#~ msgstr "یا ارسال یک پیش نمایش به:"
+
+#~ msgid "Sending..."
+#~ msgstr "در حال ارسال..."
+
+#~ msgid "Send preview email"
+#~ msgstr "ارسال ایمیل پیش نمایش"
+
+#~ msgid "Body text"
+#~ msgstr "متن بدنه"
+
+#~ msgid "There are no defined emails to edit."
+#~ msgstr "هیچ ایمیلی برای ویرایش تعریف نشده است"
+
+#~ msgid "Your Store Statistics"
+#~ msgstr " آمار فروشگاه شما"
+
+#~ msgid "Total Orders"
+#~ msgstr "مجموع سفارشات"
+
+#~ msgid "New Customers"
+#~ msgstr "مشتریان جدید"
+
+#~ msgid "Total Customers"
+#~ msgstr "مجموع مشتریان"
+
+#~ msgid "Total Products"
+#~ msgstr "مجموع محصولات"
+
+#~ msgid "Latest Orders (last 24 hours)"
+#~ msgstr "آخرین سفارشات (24 ساعت گذشته)"
+
+#~ msgid "Orders - Last 24 Hours"
+#~ msgstr "سفارشات - 24 ساعت گذشته"
+
+#~ msgid "Total orders"
+#~ msgstr "مجموع سفارشات"
+
+#~ msgid "Total lines"
+#~ msgstr "مجموع خطوط"
+
+#~ msgid "Total revenue"
+#~ msgstr "درآمد کل"
+
+#~ msgid "Average order costs"
+#~ msgstr "میانگین هزینه های سفارش"
+
+#~ msgid "Manage"
+#~ msgstr "مدیریت"
+
+#~ msgid "Orders - All Time"
+#~ msgstr "سفارشات - همه زمان ها"
+
+#~ msgid "Total <em>open</em> baskets"
+#~ msgstr "مجموع سبد خرید <em>باز</em>"
+
+#~ msgid "Total customers"
+#~ msgstr "مجموع مشتریان"
+
+#~ msgid "New customers"
+#~ msgstr "مشتریان جدید"
+
+#~ msgid "View Stock Alerts"
+#~ msgstr "نمایش  هشدارها سهام"
+
+#~ msgid "Catalogue and stock"
+#~ msgstr "کاتالوگ و سهام"
+
+#~ msgid "Total products"
+#~ msgstr "تعداد کل محصولات"
+
+#~ msgid "<em>Open</em> stock alerts"
+#~ msgstr "<em>باز کردن</em> هشدار موجودی"
+
+#~ msgid "<em>Closed</em> stock alerts"
+#~ msgstr "هشدار موجودی های <em>مسدود</em>"
+
+#~ msgid "Offers, vouchers and promotions"
+#~ msgstr "پیشنهادات، کوپن و تبلیغات"
+
+#~ msgid "Active <em>Site</em> Offers"
+#~ msgstr "پیشنهادات فعال <em>سایت</em>"
+
+#~ msgid "Active <em>Vouchers</em>"
+#~ msgstr "<em>کوپن</em> فعال"
+
+#~ msgid "Welcome"
+#~ msgstr "خوش آمد"
+
+#~ msgid "Return to site"
+#~ msgstr "بازگشت به سایت"
+
+#~ msgid "Log out"
+#~ msgstr "خارج شدن"
+
+#~ msgid ""
+#~ "Please enter a correct username and password. Note that both fields may "
+#~ "be case-sensitive."
+#~ msgstr ""
+#~ "لطفا یک نام کاربری و کلمه عبور صحیح وارد کنید. ممکن است هردو به بزرگی و "
+#~ "کوچکی حروف حساس باشند."
+
+#~ msgid "Login"
+#~ msgstr "ورود"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Ranges can be created and edited from within the <a href="
+#~ "\"%(range_list_url)s\">range dashboard</a>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "دامنه می تواند ساخته و ویرایش شود در داخل <a href=\"%(range_list_url)s"
+#~ "\">دامنه داشبورد</a>"
+
+#~ msgid "...or choose a pre-defined one"
+#~ msgstr "... یا یک از قبل تعریف شده انتخاب کنید"
+
+#~ msgid "Continue to step 3"
+#~ msgstr "ادامه دادن به مرحله 3"
+
+#~ msgid "Build a new condition"
+#~ msgstr "ساخت یک شرط جدید"
+
+#~ msgid "Continue to step 4"
+#~ msgstr "ادامه به مرحله 4"
+
+#~ msgid "Continue to step 2"
+#~ msgstr "ادامه به مرحله 2"
+
+#~ msgid "Delete offer"
+#~ msgstr "حذف پیشنهاد"
+
+#~ msgid "Are you sure you want to delete this offer?"
+#~ msgstr "آیا مطمئنید که میخواهید این پیشنهاد حذف شود؟"
+
+#~ msgid ""
+#~ "\n"
+#~ "        %(name)s | Offers\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "%(name)s پیشنهادات"
+
+#~ msgid "Reinstating..."
+#~ msgstr "درحال بازگرداندن به حالت قبل..."
+
+#~ msgid "Reinstate offer"
+#~ msgstr "پیشنهاد بازگرداندن"
+
+#~ msgid "Suspending..."
+#~ msgstr "درحال متوقف ساختن..."
+
+#~ msgid "Suspend offer"
+#~ msgstr "پیشنهاد متوقف ساختن"
+
+#~ msgid "Offer currently available"
+#~ msgstr "پیشنهادی که اخیرا دردسترس است"
+
+#~ msgid "Offer not available due to restrictions!"
+#~ msgstr "پیشنهاد به دلیل محدودیت دردسترس نیست!"
+
+#~ msgid "Total cost:"
+#~ msgstr "هزینه نهایی:"
+
+#~ msgid "Number of orders:"
+#~ msgstr "تعداد سفارشات:"
+
+#~ msgid "Number of uses:"
+#~ msgstr "تعداد استفاده ها:"
+
+#~ msgid "Date created:"
+#~ msgstr "تاریخ تولید:"
+
+#~ msgid "Offer details"
+#~ msgstr "جزییات پیشنهاد"
+
+#~ msgid "Export to CSV"
+#~ msgstr "صادر کردن به CSV"
+
+#~ msgid "Orders that used this offer"
+#~ msgstr "سفارشاتی که از این پیشنهاد استفاده کرده اند"
+
+#~ msgid "Create new offer"
+#~ msgstr "ایجاد پیشنهاد جدید"
+
+#~ msgid "Is available?"
+#~ msgstr "آیا قابل استفاده است؟"
+
+#~ msgid "Uses"
+#~ msgstr "استفاده ها"
+
+#~ msgid "Browse"
+#~ msgstr "مرور"
+
+#~ msgid "Stats"
+#~ msgstr "آمار"
+
+#~ msgid "No offers found."
+#~ msgstr "هیچ پیشنهادی یافت نشد"
+
+#~ msgid "Steps"
+#~ msgstr "مراحل"
+
+#~ msgid "1. Name and description"
+#~ msgstr "1. نام و توضیحات"
+
+#~ msgid "2. Incentive"
+#~ msgstr "2. انگیزه"
+
+#~ msgid "3. Condition"
+#~ msgstr "3. حالت"
+
+#~ msgid "4. Restrictions"
+#~ msgstr "4. محدودیت ها"
+
+#~ msgid "Save this offer"
+#~ msgstr "ذخیره کردن این پیشنهاد"
+
+#~ msgid "Fields marked with * are mandatory."
+#~ msgstr "مناطقی که با * نشان دار شده اند اجباری میباشند"
+
+#~ msgid "Save changes"
+#~ msgstr "ذخیره کردن تغییرات"
+
+#~ msgid "Offer summary"
+#~ msgstr "خلاصه ی پیشنهاد"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s - Line #%(id)s\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "سفارش %(number)s - خط #%(id)s "
+
+#~ msgid "Line #%(id)s"
+#~ msgstr "خط #%(id)s "
+
+#~ msgid "Order #%(number)s - Line #%(id)s"
+#~ msgstr "سفارش #%(number)s - خط #%(id)s"
+
+#~ msgid "Product Options"
+#~ msgstr "گزینه های محصول"
+
+#~ msgid "Partner details"
+#~ msgstr "جزییات شریک"
+
+#~ msgid "Shipping details"
+#~ msgstr "جزییات حمل ونقل"
+
+#~ msgid "Partner reference number"
+#~ msgstr "شماره مرجع شریک"
+
+#~ msgid "Partner notes"
+#~ msgstr "یادداشت های شریک"
+
+#~ msgid "Estimate dispatch date"
+#~ msgstr "برآورد تاریخ اعزام"
+
+#~ msgid "Shipping status"
+#~ msgstr "وضعیت حمل ونقل"
+
+#~ msgid "State"
+#~ msgstr "وضعیت"
+
+#~ msgid "No shipping events have occurred."
+#~ msgstr "هیچ رویداد حمل و نقلی رخ نداده است"
+
+#~ msgid "Shipping events"
+#~ msgstr "رویدادهای حمل ونقل"
+
+#~ msgid "Payment events"
+#~ msgstr "رویدادهای پرداخت"
+
+#~ msgid "No payment events have occurred."
+#~ msgstr "هیچ رویداد پرداختی رخ نداده است"
+
+#~ msgid "Order %(number)s"
+#~ msgstr "سفارش %(number)s"
+
+#~ msgid "Customer Information"
+#~ msgstr "اطلاعات مشتریان"
+
+#~ msgid "Customer checked out as a guest."
+#~ msgstr "مشتری به عنوان مهمان شناخته شد"
+
+#~ msgid "Customer has deleted their account."
+#~ msgstr "مشتری حساب کاربریش را حذف کرد"
+
+#~ msgid "Order information"
+#~ msgstr "اطلاعات سفارش"
+
+#~ msgid "Order Total"
+#~ msgstr "سفارش کل"
+
+#~ msgid "Time of purchase"
+#~ msgstr "زمان خرید"
+
+#~ msgid "Order Details"
+#~ msgstr "جزئیات سفارش"
+
+#~ msgid "Discounts"
+#~ msgstr "تخفیف ها"
+
+#~ msgid "Items ordered"
+#~ msgstr "موارد سفارش داده شده"
+
+#~ msgid "Line ID"
+#~ msgstr "خط ID"
+
+#~ msgid "Supplier"
+#~ msgstr "تامین کننده"
+
+#~ msgid "Supplier SKU"
+#~ msgstr "تامین کننده SKU"
+
+#~ msgid "Est. dispatch date"
+#~ msgstr "تاریخ ارسال "
+
+#~ msgid "Price excl tax (before discounts)"
+#~ msgstr "قیمت بدون مالیات، قبل از تخفیف"
+
+#~ msgid "Price inc tax (before discounts)"
+#~ msgstr "قیمت شامل مالیات، قبل از تخفیف"
+
+#~ msgid "With selected lines"
+#~ msgstr "همراه با خطوط انتخاب شده"
+
+#~ msgid "Change line status to"
+#~ msgstr "تغییر وضعیت خط به"
+
+#~ msgid "choose new status"
+#~ msgstr "انتخاب وضعیت جدید"
+
+#~ msgid "Create shipping event"
+#~ msgstr "ایجاد رویداد حمل ونقل"
+
+#~ msgid "choose event type"
+#~ msgstr "انتخاب نوع رویداد"
+
+#~ msgid "with reference"
+#~ msgstr "با مرجع"
+
+#~ msgid "Create payment event"
+#~ msgstr "ایحاد رویداد پرداخت"
+
+#~ msgid "with amount"
+#~ msgstr "با مبلغ"
+
+#~ msgid "Go!"
+#~ msgstr "برو!"
+
+#~ msgid "Change order status"
+#~ msgstr "تغییر وضعیت های سفارش"
+
+#~ msgid "Change status"
+#~ msgstr "تغییر وضعیت ها"
+
+#~ msgid "This order can't have its status changed."
+#~ msgstr "این پیشنهاد نمیتواند وضعیت هایش را تغییر دهد"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                                %(title)s "
+#~ "(quantity %(event_qty)s/%(total_qty)s)\n"
+#~ "                                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "%(title)s(مقدار %(event_qty)s/%(total_qty)s)"
+
+#~ msgid "No shipping events."
+#~ msgstr "بدون رویدادهای حمل ونقل"
+
+#~ msgid "Product:"
+#~ msgstr "محصول:"
+
+#~ msgid "quantity"
+#~ msgstr "مقدار"
+
+#~ msgid "No payment events."
+#~ msgstr "بدون رویداد های پرداخت"
+
+#~ msgid "Method name"
+#~ msgstr "نام روش"
+
+#~ msgid "Method code"
+#~ msgstr "کد روش"
+
+#~ msgid "Charge (incl tax)"
+#~ msgstr "شارژ کردن- شامل مالیات"
+
+#~ msgid "Charge (excl tax)"
+#~ msgstr "شارژ کردن- بدون مالیات"
+
+#~ msgid "Payment sources"
+#~ msgstr "منابع پرداخت"
+
+#~ msgid "Allocation"
+#~ msgstr "تخصیص"
+
+#~ msgid "Amount debited"
+#~ msgstr "مبلغ بدهی"
+
+#~ msgid "Amount refunded"
+#~ msgstr "مبلغ مسترد"
+
+#~ msgid "No payment sources found for this order."
+#~ msgstr "هیچ منبع پرداختی برای این سفارش یافت نشد"
+
+#~ msgid "No discounts were applied to this order."
+#~ msgstr "هیچ تخفیفی به این سفارش تعلق نگرفته است"
+
+#~ msgid "Admin"
+#~ msgstr "مدیریت"
+
+#~ msgid "No notes available."
+#~ msgstr "هیچ یادداشتی قابل استفاده نیست"
+
+#~ msgid "Save note"
+#~ msgstr "ذخیره کردن یادداشت"
+
+#~ msgid "Notes are only editable for 5 minutes after being saved."
+#~ msgstr ""
+#~ "یادداشت ها فقط برای 5 دقیقه بعد از ذخیره شدن، قابلیت ویرایش را دارند"
+
+#~ msgid "Advanced Search"
+#~ msgstr "جستجوی پیشرفته"
+
+#~ msgid "Close"
+#~ msgstr "بستن"
+
+#~ msgid "Order Search Results"
+#~ msgstr "نتایج جستجوی سفارش"
+
+#~ msgid "All Orders"
+#~ msgstr "همه ی سفارشات"
+
+#~ msgid "Download selected orders as a CSV"
+#~ msgstr "دانلود سفارشات انتخاب شده به عنوان CSV"
+
+#~ msgid "Deleted"
+#~ msgstr "حذف شده"
+
+#~ msgid "Changing..."
+#~ msgstr "درحال تغییر..."
+
+#~ msgid "No orders found."
+#~ msgstr "هیچ سفارشی یافت نشد"
+
+#~ msgid "Mark as"
+#~ msgstr "نشاندار کردن به عنوان"
+
+#~ msgid "Change order status to"
+#~ msgstr "تغییر وضعیت سفارش به"
+
+#~ msgid "Done"
+#~ msgstr "انجام شد"
+
+#~ msgid "Edit shipping address"
+#~ msgstr "ویرایش آدرس حمل ونقل"
+
+#~ msgid "Edit shipping address for order %(order.number)s"
+#~ msgstr "ویرایش آدرس حمل ونقل برای سفارش %(order.number)s"
+
+#~ msgid "Update address"
+#~ msgstr "بروز رسانی آدرس"
+
+#~ msgid "Order statistics"
+#~ msgstr "آمار سفارش"
+
+#~ msgid "Filter result"
+#~ msgstr "فیلتر نتایج"
+
+#~ msgid "Summary"
+#~ msgstr "خلاصه"
+
+#~ msgid "Delete page '%(title)s'?"
+#~ msgstr "پاک کردن صفحه %(title)s ؟"
+
+#~ msgid "Delete page"
+#~ msgstr "پاک کردن صفحه"
+
+#~ msgid "Delete page <strong>%(title)s</strong> - are you sure?"
+#~ msgstr "پاک کردن صفحه <strong>%(title)s</strong> - آیا مطئن هستید؟"
+
+#~ msgid "Create new page"
+#~ msgstr "ساخت صفحه جدید"
+
+#~ msgid "No pages found."
+#~ msgstr ".هیچ صفحه ای یافت نشد"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Page <strong>%(title)s</strong> saved!\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "صفحه <strong>%(title)s</strong> ذخیره شد"
+
+#~ msgid "Oops! We found some errors"
+#~ msgstr "اوه! مشکلی رخ داد"
+
+#~ msgid "please check the error messages below and try again"
+#~ msgstr "لطفا پیغام های خطای زیر را بررسی کنید و دوباره امتحان کنید"
+
+#~ msgid "previous"
+#~ msgstr "قبلی"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Page %(page_num)s of %(total_pages)s\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "صفحه %(page_num)s از %(total_pages)s "
+
+#~ msgid "next"
+#~ msgstr "بعدی"
+
+#~ msgid ""
+#~ "\n"
+#~ "User %(user_name)s was unlinked from %(partner_name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "کاربر %(user_name)s از %(partner_name)s جدا شد\n"
+
+#~ msgid "Undo"
+#~ msgstr "باطل کردن"
+
+#~ msgid "Delete partner"
+#~ msgstr "حذف شریک"
+
+#~ msgid "Are you sure you want to delete this partner?"
+#~ msgstr "آیا مطمئنید که میخواهید این شریک را حذف کنید؟"
+
+#~ msgid "Edit the user's details"
+#~ msgstr "ویرایش جزییات کاربر"
+
+#~ msgid "No users associated."
+#~ msgstr "هیچ کاربری مرتبط نشده است"
+
+#~ msgid "No address associated."
+#~ msgstr "هیچ آدرسی مرتبط نشده است"
+
+#~ msgid "Manage partner and users"
+#~ msgstr "مدیریت شریک ها و کاربران"
+
+#~ msgid "Link an existing user"
+#~ msgstr "متصل کردن یک کاربر موجود"
+
+#~ msgid "Link a new user"
+#~ msgstr "متصل کردن یک کاربر جدید"
+
+#~ msgid "No partners found."
+#~ msgstr "هیچ شریکی یافت نشد"
+
+#~ msgid "Unlinking..."
+#~ msgstr "درحال لغو اتصال..."
+
+#~ msgid "Unlink user"
+#~ msgstr "جداکردن کاربر"
+
+#~ msgid "No users linked."
+#~ msgstr "هیچ کاربری متصل نشد"
+
+#~ msgid "Link a user"
+#~ msgstr "متصل کردن یک کاربر"
+
+#~ msgid "Manage users"
+#~ msgstr "مدیریت کاربران"
+
+#~ msgid "Update details"
+#~ msgstr "به روزرسانی جزییات"
+
+#~ msgid ""
+#~ "A partial email address can be entered (eg '@example.com') to match "
+#~ "multiple addresses."
+#~ msgstr ""
+#~ "برای مطابقت داشتن با چندین آدرس ایمیل قسمتی از آدرس (مثلا '@example.com') "
+#~ "می تواند وارد شود"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                User is already linked to "
+#~ "%(name)s.\n"
+#~ "                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "کاربر اخیرا به %(name)s متصل شده است"
+
+#~ msgid "Linking..."
+#~ msgstr "درحال اتصال..."
+
+#~ msgid "Link user"
+#~ msgstr "متصل کردن کاربر"
+
+#~ msgid "No users found."
+#~ msgstr "هیچ کاربری یافت نشد"
+
+#~ msgid "Delete content block '%(name)s'?\""
+#~ msgstr "بلوک های محتوی '%(name)s' حذف شوند؟"
+
+#~ msgid "Delete content block"
+#~ msgstr "حذف بلوک محتوی"
+
+#~ msgid ""
+#~ "Delete %(object.type)s content block <strong>%(object.name)s</strong> - "
+#~ "are you sure?"
+#~ msgstr ""
+#~ "حذف %(object.type)s بلوک محتوی <strong>%(object.name)s</strong> - آیا "
+#~ "مطمئنید؟"
+
+#~ msgid "Remove promotion from page?"
+#~ msgstr "حذف ترفیع از صفحه؟"
+
+#~ msgid "Remove promotion"
+#~ msgstr "حذف ترفیع"
+
+#~ msgid "Content block"
+#~ msgstr "بلوک محتوی"
+
+#~ msgid "Position on page"
+#~ msgstr "موقعیت در صفحه"
+
+#~ msgid "View all blocks on this page"
+#~ msgstr "نمایش همه بخش ها در این صفحه"
+
+#~ msgid "Remove from page"
+#~ msgstr "حذف کردن از صفحه"
+
+#~ msgid "This promotion is not displayed anywhere at the moment."
+#~ msgstr "این ترفیع در حال حاضر در هیچ جایی نمایش داده نشده است"
+
+#~ msgid "Add to a page"
+#~ msgstr "اضافه کردن به یک صفحه"
+
+#~ msgid "Add to page"
+#~ msgstr "اضافه کردن به صفحه"
+
+#~ msgid "Content blocks for page %(page_url)s"
+#~ msgstr "بلوک های محتوی برای صفحه %(page_url)s "
+
+#~ msgid "Content blocks on page '%(page_url)s'"
+#~ msgstr "بلوک های محتوی روی صفحه '%(page_url)s' "
+
+#~ msgid "Edit promotions in position '%(name)s'"
+#~ msgstr "ویرایش ترفیعات در مکان '%(name)s' "
+
+#~ msgid "Promotion Name"
+#~ msgstr "نام ترفیع"
+
+#~ msgid "Change display order"
+#~ msgstr "تغییر در ترتیب نمایش"
+
+#~ msgid "No promotions in this position."
+#~ msgstr "بدون هیچ ترفیعی در این جایگاه"
+
+#~ msgid "Pages with content blocks"
+#~ msgstr "صفحه هایی با بلوک های محتوی"
+
+#~ msgid "View by page"
+#~ msgstr "نمایش دادن با صفحه"
+
+#~ msgid "View all content blocks"
+#~ msgstr "نمایش تمامی بلوک های محتوی"
+
+#~ msgid "View content blocks by page"
+#~ msgstr "نمایش بلوک های محتوی بوسیله صفحه"
+
+#~ msgid "Pages with content blocks on them"
+#~ msgstr "صفحاتی با بلوک های محتوی روی آنها"
+
+#~ msgid "Number of content blocks"
+#~ msgstr "تعداد بلوک های محتوی"
+
+#~ msgid "No content blocks found."
+#~ msgstr "هیچ بلوک محتوی ای یافت نشد"
+
+#~ msgid "Create a new content block"
+#~ msgstr "ایجاد یک بلوک محتوی جدید"
+
+#~ msgid "Creating..."
+#~ msgstr "درحال ساختن..."
+
+#~ msgid "Create block"
+#~ msgstr "ایجاد بلوک"
+
+#~ msgid "Number of times used"
+#~ msgstr "تعداد دفعات استفاده "
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>File <strong>%(filename)s</strong> processed.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>File <strong>%(filename)s</strong> processed\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> product added\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> products added\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(n)s</strong> محصولات اضافه شده"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(n)s</strong> محصولات اضافه شده"
+
+#~ msgid ""
+#~ "\n"
+#~ "                There was <strong>%(n)s</strong> duplicate product in the "
+#~ "file\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                There were <strong>%(n)s</strong> duplicate products in "
+#~ "the file\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(n)s</strong> محصولات تکراری در فایل وجود داشت"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(n)s</strong> محصولات تکراری در فایل وجود داشت"
+
+#~ msgid ""
+#~ "\n"
+#~ "                There was <strong>%(n)s</strong> product in the file that "
+#~ "couldn't be found in the catalogue\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                There were <strong>%(n)s</strong> products in the file "
+#~ "that couldn't be found in the catalogue\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(n)s</strong> محصولات در فایل وجود داشت که در کاتالوگ یافت "
+#~ "نمیشدند"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(n)s</strong> محصولات در فایل وجود داشت که در کاتالوگ یافت "
+#~ "نمیشدند"
+
+#~ msgid "Edit range metadata"
+#~ msgstr "ویرایش گستره ی فراداده"
+
+#~ msgid "Return to ranges homepage"
+#~ msgstr "بازگشت به گستره های صفحه اصلی"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>Range <strong>%(name)s</strong> saved.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p> گستره <strong>%(name)s</strong> ذخیره شد. </p>\n"
+
+#~ msgid "Edit included products"
+#~ msgstr "ویرایش محصولات شامل شده"
+
+#~ msgid "Delete range '%(name)s'?"
+#~ msgstr "آیا گستره '%(name)s' حذف شود؟"
+
+#~ msgid "Are you sure you want to delete this range?"
+#~ msgstr "آیا مطمئنید که میخواهید این گستره را حذف کنید؟"
+
+#~ msgid "Create new range"
+#~ msgstr "ایجاد گستره جدید"
+
+#~ msgid "Save and edit products"
+#~ msgstr "ذخیره و ویرایش محصولات"
+
+#~ msgid "Num products"
+#~ msgstr "تعداد محصولات"
+
+#~ msgid "Edit products"
+#~ msgstr "ویرایش محصولات"
+
+#~ msgid "No ranges found."
+#~ msgstr "هیچ گستره ای یافت نشد"
+
+#~ msgid "Products in range '%(name)s'"
+#~ msgstr "محصولات در گستره '%(name)s' "
+
+#~ msgid "products"
+#~ msgstr "محصولات"
+
+#~ msgid ""
+#~ "This range contains all products. To add products manually, please "
+#~ "unselect the 'Includes All Products' option on the edit range page."
+#~ msgstr ""
+#~ "این گستره حاوی تمامی محصولات میباشد. برای اضافه کردن دستی محصولات، لطفا "
+#~ "گزینه \" شامل تمامی محصولات\" که در صفحه ویرایش گستره است را از حالت "
+#~ "انتخاب درآورید"
+
+#~ msgid "Add products"
+#~ msgstr "اضافه کردن محصولات"
+
+#~ msgid "Running..."
+#~ msgstr "درحال اجرا..."
+
+#~ msgid "Upload history"
+#~ msgstr "به روز رسانی سابقه"
+
+#~ msgid "Filename"
+#~ msgstr "نام فایل"
+
+#~ msgid "New products"
+#~ msgstr "محصولات جدید"
+
+#~ msgid "Duplicate products"
+#~ msgstr "محصولات تکراری"
+
+#~ msgid "Unknown products"
+#~ msgstr "محصولات ناشناخته"
+
+#~ msgid "Date uploaded"
+#~ msgstr "تاریخ به روز رسانی"
+
+#~ msgid "Products in range"
+#~ msgstr "محصولات در گستره"
+
+#~ msgid "Remove selected products"
+#~ msgstr "ازبین بردن محصولات اننتخاب شده"
+
+#~ msgid "Is product discountable?"
+#~ msgstr "آیا محصول قابل تخفیف دادن میباشد؟"
+
+#~ msgid "Products in Range"
+#~ msgstr "محصولات در گستره"
+
+#~ msgid "Edit range"
+#~ msgstr "ویرایش گستره"
+
+#~ msgid "return to range list"
+#~ msgstr "بازگشت به لیست گستره"
+
+#~ msgid "Reporting Dashboard"
+#~ msgstr "داشبورد گزارش"
+
+#~ msgid "Reporting dashboard"
+#~ msgstr "داشبورد گزارش"
+
+#~ msgid "Generating..."
+#~ msgstr "درحال تولید..."
+
+#~ msgid "Generate report"
+#~ msgstr "ایجاد گزارش"
+
+#~ msgid "No results found."
+#~ msgstr "نتیجه‌ای یافت نشد."
+
+#~ msgid "No vouchers were used in this period"
+#~ msgstr "هیچ کوپنی در این دوره استفاده نشد"
+
+#~ msgid "Delete review '%(title)s'?"
+#~ msgstr "مرور '%(title)s' حذف شود؟"
+
+#~ msgid "Delete review \"%(title)s\"?"
+#~ msgstr "مرور \"%(title)s\" حذف شود؟"
+
+#~ msgid "Review"
+#~ msgstr "مرور"
+
+#~ msgid "Review Search"
+#~ msgstr "جستجوی مرور"
+
+#~ msgid "Update status of selected reviews"
+#~ msgstr "به روز رسانی وضعیت مرورهای انتخاب شده"
+
+#~ msgctxt "Review title"
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+#~ msgid "[Product deleted]"
+#~ msgstr "[محصول پاک شده]"
+
+#~ msgid "No reviews found."
+#~ msgstr "هیچ مروری یافت نشد"
+
+#~ msgid "Update review"
+#~ msgstr "به روز رسانی مرور"
+
+#~ msgid "Review #%(review.id)s"
+#~ msgstr "مرور #%(review.id)s "
+
+#~ msgid "Review #%(review_id)s"
+#~ msgstr "بررسی #%(review_id)s"
+
+#~ msgid "Review information"
+#~ msgstr "اطلاعات مرور"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>A weight band has been added to the <strong>%(name)s</strong> "
+#~ "shipping method.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p> یک نوار وزنی به <strong>%(name)s</strong> روش حمل ونقل اضافه شده است. "
+#~ "</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>Weight band deleted from the <strong>%(name)s</strong> shipping "
+#~ "method \n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p> باند وززنی از <strong>%(name)s</strong> روش حمل ونقل حذف شد\n"
+
+#~ msgid "Weight band updated"
+#~ msgstr "باند وزنی به روز رسانی شد"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>A shipping method <strong>%(name)s</strong> has been created.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p> یک روش حمل ونقل <strong>%(name)s</strong> ایجاد شد. </p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been deleted.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p> <strong>%(name)s</strong> روش حمل ونقل حذف شده است. </p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been updated.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p> <strong>%(name)s</strong> روش حمل ونقل به روز رسانی شده است. </p>\n"
+
+#~ msgid "Delete weight band?"
+#~ msgstr "باند وزنی حذف شود؟"
+
+#~ msgid "Shipping methods"
+#~ msgstr "روش های حمل ونقل"
+
+#~ msgid "Weight range (kg)"
+#~ msgstr "گستره وزنی (kg)"
+
+#~ msgid "Are you sure you want to delete this weight band method?"
+#~ msgstr "آیا مطمئنید که میخواهید این روش باند وزنی حذف شود؟"
+
+#~ msgid "Edit weight band"
+#~ msgstr "ویرایش باند وزنی"
+
+#~ msgid "Delete shipping method '%(name)s'?"
+#~ msgstr "روش حمل ونقل '%(name)s' حذف شود؟"
+
+#~ msgid "Are you sure you want to delete this shipping method?"
+#~ msgstr "آیا مطمئنید که میخواهید این روش حمل ونقل حذف شود؟"
+
+#~ msgid "Applies to countries"
+#~ msgstr "شامل کشورهای"
+
+#~ msgid "Default product weight (kg)"
+#~ msgstr "وزن پیش فرض محصول (kg)"
+
+#~ msgid "Edit shipping method"
+#~ msgstr "ویرایش روش حمل ونقل"
+
+#~ msgid "Delete shipping method"
+#~ msgstr "حذف روش حمل ونقل"
+
+#~ msgid "Weight bands"
+#~ msgstr "باندهای وزنی"
+
+#~ msgid "No weight bands have been added yet."
+#~ msgstr "هیچ باند وزنی ای هنوز اضافه نشده است"
+
+#~ msgid "Add a new weight band"
+#~ msgstr "اضافه کردن یک باند وزنی جدید"
+
+#~ msgid "Add weight band"
+#~ msgstr "اضافه کردن باند وزنی"
+
+#~ msgid "Create a new shipping method"
+#~ msgstr "ایجاد یک روش حمل ونقل جدید"
+
+#~ msgid "Create new shipping charge"
+#~ msgstr "ایجاد شارژ حمل ونقل جدید"
+
+#~ msgid "Number of weight bands"
+#~ msgstr "تعداد باندهای وزنی"
+
+#~ msgid "Default weight (kg)"
+#~ msgstr "وزن پیش فرض (kg)"
+
+#~ msgid "No shipping methods found."
+#~ msgstr "هیچ روش حمل ونقلی یافت نشد"
+
+#~ msgid "Alert #%(id)s"
+#~ msgstr "هشدار #%(id)s "
+
+#~ msgid "Delete alert #%(id)s?"
+#~ msgstr "هشدار #%(id)s حذف شود؟"
+
+#~ msgid "Product alert #%(id)s"
+#~ msgstr "هشدار محصول #%(id)s "
+
+#~ msgid "Are you sure that you want to delete this alert?"
+#~ msgstr "آیا مطمئنید که میخواهید این هشدار حذف شود؟"
+
+#~ msgid "Search product alerts"
+#~ msgstr "جستجوی هشدارهای محصول"
+
+#~ msgid "reset"
+#~ msgstr "تنظیم مجدد"
+
+#~ msgid "Date alert sent"
+#~ msgstr "تاریخی که هشدار فرستاده شد"
+
+#~ msgid "(Anonymous)"
+#~ msgstr "(ناشناس)"
+
+#~ msgid "No alerts found."
+#~ msgstr "هیچ هشداری یافت نشد"
+
+#~ msgid "Update alert #%(id)s"
+#~ msgstr "به روز رسانی هشدار #%(id)s "
+
+#~ msgid "General"
+#~ msgstr "عمومی"
+
+#~ msgid "Yes,No"
+#~ msgstr "بله،خیر"
+
+#~ msgid "Superuser"
+#~ msgstr "سرکاربر"
+
+#~ msgid "True,False"
+#~ msgstr "صحیح غلط"
+
+#~ msgid "Staff"
+#~ msgstr "کارکنان"
+
+#~ msgid "Last login"
+#~ msgstr "آخرین ورود"
+
+#~ msgid "Date joined"
+#~ msgstr "تاریخ پیوست"
+
+#~ msgid "Products viewed"
+#~ msgstr "محصولات دیده شده"
+
+#~ msgid "Number of orders"
+#~ msgstr "تعداد سفارش ها"
+
+#~ msgid "Number of ordered items"
+#~ msgstr "تعداد اقلام سفارش داده شده"
+
+#~ msgid "Reviews written"
+#~ msgstr "بررسی‌ها ی نوشته شده"
+
+#~ msgid "Send password reset email"
+#~ msgstr "ارسال ایمیل بازیابی کلمه عبور"
+
+#~ msgid "Order Number"
+#~ msgstr "تعداد سفارش"
+
+#~ msgid "Total value"
+#~ msgstr "قیمت کل"
+
+#~ msgid "This customer has not placed any orders yet."
+#~ msgstr "این مشتری هنوز هیچ سفارشی ثبت نکرده است"
+
+#~ msgid "This customer has not saved any addresses."
+#~ msgstr "این مشتری هیچ آدرس را ذخیره نکرده است"
+
+#~ msgid "Product ID"
+#~ msgstr "شماره محصول"
+
+#~ msgid "This customer has not written any reviews yet."
+#~ msgstr "این مشتری هنوز هیچ بررسی را ننوشته است"
+
+#~ msgid "No customers found."
+#~ msgstr "مشتری یافت نشد"
+
+#~ msgid "Bulk Actions"
+#~ msgstr "ویرایش دسته جمعی"
+
+#~ msgid "With selected customers:"
+#~ msgstr "با مشتریان انتخاب شده:"
+
+#~ msgid "Make active"
+#~ msgstr "فعال شود"
+
+#~ msgid "Make inactive"
+#~ msgstr "غیر فعل شود"
+
+#~ msgid "Delete voucher '%(name)s'?"
+#~ msgstr "آیا کوپن «%(name)s» پاک شود؟"
+
+#~ msgid "Voucher details"
+#~ msgstr "جزئیات کوپن"
+
+#~ msgid "Number of basket additions"
+#~ msgstr "تعداد اضافات سبد خرید"
+
+#~ msgid "Recent orders"
+#~ msgstr "سفارش‌های اخیر"
+
+#~ msgid "No orders have been placed that use this voucher."
+#~ msgstr "سفارشی قابل استفاده با این کوپن داده نشده"
+
+#~ msgid "Edit voucher"
+#~ msgstr "ویرایش کوپن"
+
+#~ msgid "Create new voucher"
+#~ msgstr "ایجاد کوپن جدید"
+
+#~ msgid "Num baskets"
+#~ msgstr "تعداد سبد"
+
+#~ msgid "Num orders"
+#~ msgstr "تعداد سفارش"
+
+#~ msgid "Inactive"
+#~ msgstr "غیرفعال"
+
+#~ msgid "No vouchers found."
+#~ msgstr "کوپنی یافت نشد"
+
+#~ msgid "Update voucher set"
+#~ msgstr "بروز رسانی مجموعه کوپن‌‎ها"
+
+#~ msgid "Download CSV"
+#~ msgstr "دانلود فایل CSV"
+
+#~ msgid "Voucher set"
+#~ msgstr "مجموعه کوپن ها"
+
+#~ msgid "Start"
+#~ msgstr "شروع"
+
+#~ msgid "End"
+#~ msgstr "پایان"
+
+#~ msgid "Created"
+#~ msgstr "ایجاد شده"
+
+#~ msgid "Create new voucher set"
+#~ msgstr "ایجاد مجموعه کوپن جدید"
+
+#~ msgid "Num"
+#~ msgstr "تعداد"
+
+#~ msgid "Popup closing..."
+#~ msgstr "پنجره در حال بسته شدن..."
+
+#~ msgid "Change selected %(model)s"
+#~ msgstr "تغییر %(model)s انتخاب شده"
+
+#~ msgid "Add another %(model)s"
+#~ msgstr "افزودن %(model)s دیگر"
+
+#~ msgid "Add"
+#~ msgstr "افزودن"
+
+#~ msgid "Delete selected %(model)s"
+#~ msgstr "پاک کردن %(model)s انتخاب شده"
+
+#~ msgid "Sorry!"
+#~ msgstr "با عرض پوزش!"
+
+#~ msgid "Return to previous page"
+#~ msgstr "بازگشت به صفحه قبل"
+
+#~ msgid "Go to homepage"
+#~ msgstr "برو به صفحه خانگی"
+
+#~ msgid "Edit this page"
+#~ msgstr "ویرایش این صفحه"
+
+#~ msgid "thumbnail"
+#~ msgstr "بند انگشتی"
+
+#~ msgid "Unrecognized image type!"
+#~ msgstr "نوع تصویر غیر قابل شناسایی می‌باشد"
+
+#~ msgid "Upload Image"
+#~ msgstr "بارگذاری تصویر"
+
+#~ msgid "This page is only available to users who aren't logged in."
+#~ msgstr "این صفحه فقط برای کاربرانی که در حال وارد سایت نشده اید دسترس است."
+
+#~ msgid " This offer is no longer available."
+#~ msgstr "این پیشنهاد دیگر موجود نیست"
+
+#~ msgid "What you need to do"
+#~ msgstr "چه باید انجام دهید"
+
+#~ msgid "There are no site offers at the moment."
+#~ msgstr "پیشنهاد سایت در حال حاضر موجود نیست"
+
+#~ msgid "Browse products in offer"
+#~ msgstr "گشتن در محصولات با پیشنهاد ویژه"
+
+#~ msgid "See more"
+#~ msgstr "بیشتر"
+
+#~ msgid "Password reset complete"
+#~ msgstr "بازیابی کلمه عبور انجام شد"
+
+#~ msgid "Password reset"
+#~ msgstr "بازیابی کلمه عبور"
+
+#~ msgid "Complete"
+#~ msgstr "کامل"
+
+#~ msgid "Your password has been set.  You may go ahead and log in now."
+#~ msgstr "کلمه عبور شما ارسال شد. اکنون می توانید وارد شوید."
+
+#~ msgid "Log in"
+#~ msgstr "ورود به سیستم"
+
+#~ msgid "Enter a new password"
+#~ msgstr "رمز عبور جدید را وارد کنید"
+
+#~ msgid ""
+#~ "Please enter your new password twice so we can verify you typed it in "
+#~ "correctly."
+#~ msgstr ""
+#~ "لطفاً دو بار کلمه عبور خود را وارد کنید تا تاید شود که به درستی تایپ شده "
+#~ "است."
+
+#~ msgid "Change my password"
+#~ msgstr "تغییر رمز عبور"
+
+#~ msgid "Password reset unsuccessful"
+#~ msgstr "تغییر رمز عبور ناموفق"
+
+#~ msgid ""
+#~ "The password reset link was invalid, possibly because it has already been "
+#~ "used.  Please request a new password reset."
+#~ msgstr ""
+#~ "لینک بازیابی کلمه عبور نامعتبر بود. به احتمال آنکه پیش تر استفاده شده "
+#~ "بود. لطفاً بار دیگر درخواست بازیابی کلمه عبور دهید."
+
+#~ msgid "Password reset email sent"
+#~ msgstr "ایمیل بازیابی کلمه عبور ارسال شد"
+
+#~ msgid "Email sent"
+#~ msgstr "ایمیل فرستاده شد"
+
+#~ msgid ""
+#~ "\n"
+#~ "        We've e-mailed you instructions for resetting your password. You "
+#~ "should be receiving it shortly.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "ما راهنمایی‌های لازم برای انتخاب کلمه عبور جدید را برای شما ارسال کرده‌ایم. "
+#~ "که به زودی آن را دریافت خواهید کرد."
+
+#~ msgid ""
+#~ "\n"
+#~ "        If you don't receive an email, please make sure you've entered "
+#~ "the address you registered with, and check\n"
+#~ "        your spam folder.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "اگر ایمیلی دریافت نکرده‌اید لطفا مطمئن شوید که آدرس ایمیل ثبت شده برای این "
+#~ "حساب کاربری را وارد کرده‌اید و پوشه‌ اسپم ایمیل خود را بررسی کنید."
+
+#~ msgid ""
+#~ "Forgotten your password? Enter your e-mail address below, and we'll e-"
+#~ "mail instructions for setting a new one."
+#~ msgstr ""
+#~ "کلمه عبور خود را فراموش کرده اید؟ آدرس ایمیل خود را اینجا وارد کنید٬ تا "
+#~ "راهنمایی‌های لازم برای انتخاب کلمه عبور جدید برای شما ارسال شود."
+
+#~ msgid "Send reset email"
+#~ msgstr "ارسال کردن ایمیل بازیابی"
+
+#~ msgid "Refine your search"
+#~ msgstr "جستجو خود را تصحیح کنید"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Products matching \"%(q)s\"\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "محصولات مرتبط با «%(q)s»"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Found <strong>%(num_results)s</strong> results, "
+#~ "showing <strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                   .نتیجه یافت شد <strong>%(num_results)s</strong>  "
+#~ "<strong>\n"
+#~ " %(end)s</strong> تا <strong>%(start)s</strong> از"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Found <strong>%(num_results)s</strong> result.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    Found <strong>%(num_results)s</strong> results.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> نتیجه پیدا شد"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> نتیجه پیدا شد"
+
+#~ msgid "Found <strong>0</strong> results."
+#~ msgstr ".نتیجه یافت شد <strong>0</strong> "
+
+#~ msgid ""
+#~ "\n"
+#~ "                        Did you mean <a href=\"%(search_url)s?q="
+#~ "%(suggestion)s\">\"%(suggestion)s\"</a>?\n"
+#~ "                    "
+#~ msgstr ""
+#~ "\n"
+#~ "آیا منظور شما <a href=\"%(search_url)s?q=%(suggestion)s"
+#~ "\">«%(suggestion)s»</a> بود؟"
+
+#~ msgid "Back to search results"
+#~ msgstr "بازگشت به نتایج جستجو"
+
+#~ msgid "You need to select some %ss"
+#~ msgstr "باید چند %s انتخاب کنید"

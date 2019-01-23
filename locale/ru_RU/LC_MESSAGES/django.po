@@ -1,0 +1,6668 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Alexander Gritsenko <forsashka@gmail.com>, 2013
+# alien <dejavy@inbox.ru>, 2014
+# Eugene MechanisM <eugene@mechanism.pro>, 2013
+# Georgy <g.kutsurua@gmail.com>, 2013
+# Lex Berezhny <lex@damoti.com>, 2013
+# Max Brajsky <kzerot@gmail.com>, 2016
+# Michael van Tellingen <michaelvantellingen@gmail.com>, 2016
+# Oleg Fish <okfish@yandex.ru>, 2018
+# Oleg Fish <okfish@yandex.ru>, 2013-2017
+# Putilov Artem <putilkin@gmail.com>, 2013
+# Владимиров Антон Павлович <styleex@inbox.ru>, 2014
+# Ivan Gromov <summer.is.gone@gmail.com>, 2013
+# Vasya <yarik.just@gmail.com>, 2013
+# Vlad <bdzhon@gmail.com>, 2015-2016
+# Владимиров Антон Павлович <styleex@inbox.ru>, 2014
+# Игнат Кудрявцев <ignat@ignat.tel>, 2013
+# Ігор <singularitty@gmail.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-11 21:24+0000\n"
+"Last-Translator: Oleg Fish <okfish@yandex.ru>\n"
+"Language-Team: Russian (Russia) (http://www.transifex.com/codeinthehole/"
+"django-oscar/language/ru_RU/)\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr "Панель"
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr "Каталог"
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "Товары"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr "Типы товара"
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "Категории"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr "Ассортименты"
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr "Оповещения о снижении запаса на складе"
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr "Опции"
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr "Продажи"
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "Заказы"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr "Статистика"
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr "Партнеры"
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr "Клиенты"
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr "Запросы извещения о поступлении товаров"
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr "Предложения"
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "Купоны"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr "Наборы купонов"
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr "Содержимое"
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr "Блоки содержимого"
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr "Блоки содержимого по страницам"
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr "Страницы"
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr "Шаблоны электронных писем"
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr "Отзывы"
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr "Отчёты"
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr "Тип"
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr "Диапазон цен"
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr "от 0 до 20"
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr "от 20 до 40"
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr "от 40 до 60"
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr "60+"
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+#, fuzzy
+#| msgid "Catalogue"
+msgid "Catalan"
+msgstr "Каталог"
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+#, fuzzy
+#| msgid "Permalink"
+msgid "German"
+msgstr "Постоянная ссылка"
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr "Отправка..."
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr "Старт"
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr "Аккаунт"
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr "Выход"
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr "Войти или зарегистрироваться"
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "Корзина"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+"\n"
+"                        Итого: %(total)s\n"
+"                    "
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr "Просмотр магазина"
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "Все товары"
+
+#~ msgid "Mr"
+#~ msgstr "Г-н"
+
+#~ msgid "Miss"
+#~ msgstr "Мисс"
+
+#~ msgid "Mrs"
+#~ msgstr "Г-жа"
+
+#~ msgid "Ms"
+#~ msgstr "Мисс"
+
+#~ msgid "Dr"
+#~ msgstr "Доктор"
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "Обращение"
+
+#~ msgid "First name"
+#~ msgstr "Имя"
+
+#~ msgid "Last name"
+#~ msgstr "Фамилия"
+
+#~ msgid "First line of address"
+#~ msgstr "Первая строка адреса"
+
+#~ msgid "Second line of address"
+#~ msgstr "Вторая строка адреса"
+
+#~ msgid "Third line of address"
+#~ msgstr "Третья строка адреса"
+
+#~ msgid "City"
+#~ msgstr "Город"
+
+#~ msgid "State/County"
+#~ msgstr "Штат/провинция"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "Почтовый индекс"
+
+#~ msgid "Country"
+#~ msgstr "Страна"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "Искать текст - используется только для поиска адресов"
+
+#~ msgid "Address"
+#~ msgstr "Адрес"
+
+#~ msgid "Addresses"
+#~ msgstr "Адреса"
+
+#~ msgid "Addresses in %(country)s require a valid postcode"
+#~ msgstr "Требуется правильный почтовый индекс для страны %(country)s"
+
+#~ msgid "The postcode '%(postcode)s' is not valid for %(country)s"
+#~ msgstr "Индекс '%(postcode)s' не подходит для страны: %(country)s"
+
+#~ msgid "ISO 3166-1 alpha-2"
+#~ msgstr "ISO 3166-1 alpha-2"
+
+#~ msgid "ISO 3166-1 alpha-3"
+#~ msgstr "ISO 3166-1 alpha-3"
+
+#~ msgid "ISO 3166-1 numeric"
+#~ msgstr "ISO 3166-1 numeric"
+
+#~ msgid "Country name"
+#~ msgstr "Название страны"
+
+#~ msgid "Official name"
+#~ msgstr "Официальное название"
+
+#~ msgid "Display order"
+#~ msgstr "Порядок отображения"
+
+#~ msgid "Higher the number, higher the country in the list."
+#~ msgstr "Чем больше значение тем выше в списке будет отображаться страна."
+
+#~ msgid "Is shipping country"
+#~ msgstr "Доставка в страну осуществляется"
+
+#~ msgid "Countries"
+#~ msgstr "Страны"
+
+#~ msgid "Phone number"
+#~ msgstr "Телефонный номер"
+
+#~ msgid "In case we need to call you about your order"
+#~ msgstr "В случае, если нам нужно будет связаться с вами по вашему заказу"
+
+#~ msgid "Instructions"
+#~ msgstr "Инструкции"
+
+#~ msgid "Tell us anything we should know when delivering your order."
+#~ msgstr "Сообщите нам, что мы еще должны знать для доставки вашего заказа."
+
+#~ msgid "Shipping address"
+#~ msgstr "Адрес доставки"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "Адреса доставки"
+
+#~ msgid "User"
+#~ msgstr "Пользователь"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "Это основной адрес доставки?"
+
+#~ msgid "Default billing address?"
+#~ msgstr "Это основной платёжный адрес?"
+
+#~ msgid "Number of Orders as Shipping Address"
+#~ msgstr "Количество заказов с таким адресом доставки"
+
+#~ msgid "Number of Orders as Billing Address"
+#~ msgstr "Количество заказов с таким платежным адресом"
+
+#~ msgid "Address Hash"
+#~ msgstr "Хэш адреса"
+
+#~ msgid "Date Created"
+#~ msgstr "Дата создания"
+
+#~ msgid "User address"
+#~ msgstr "Адрес пользователя"
+
+#~ msgid "User addresses"
+#~ msgstr "Адреса пользователя"
+
+#~ msgid "This address is already in your address book"
+#~ msgstr "Этот адрес уже есть в Вашей адресной книге"
+
+#~ msgid "Billing address"
+#~ msgstr "Платёжный адрес"
+
+#~ msgid "Billing addresses"
+#~ msgstr "Платёжные адреса"
+
+#~ msgid "Partner"
+#~ msgstr "Партнер"
+
+#~ msgid "Partner address"
+#~ msgstr "Адрес партнера"
+
+#~ msgid "Partner addresses"
+#~ msgstr "Адреса партнера"
+
+#~ msgid "Product"
+#~ msgstr "Товар"
+
+#~ msgid "Views"
+#~ msgstr "Просмотров"
+
+#~ msgid "Basket Additions"
+#~ msgstr "Добавлений в корзину"
+
+#~ msgid "Purchases"
+#~ msgstr "Покупки"
+
+#~ msgid "Score"
+#~ msgstr "Оценка"
+
+#~ msgid "Product record"
+#~ msgstr "Запись товара"
+
+#~ msgid "Product records"
+#~ msgstr "Записи товаров"
+
+#~ msgid "Record for '%s'"
+#~ msgstr "Запись для '%s'"
+
+#~ msgid "Product Views"
+#~ msgstr "Просмотров Товара"
+
+#~ msgid "Order Lines"
+#~ msgstr "Строки заказов"
+
+#~ msgid "Order Items"
+#~ msgstr "Товары заказов"
+
+#~ msgid "Total Spent"
+#~ msgstr "Всего Потрачено"
+
+#~ msgid "Last Order Date"
+#~ msgstr "Дата Последнего Платежа"
+
+#~ msgid "User record"
+#~ msgstr "Запись пользователя"
+
+#~ msgid "User records"
+#~ msgstr "Пользовательские записи"
+
+#~ msgid "User product view"
+#~ msgstr "Просмотр товара пользователем"
+
+#~ msgid "User product views"
+#~ msgstr "Просмотры товара пользователем"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "%(user)s просмотрел '%(product)s'"
+
+#~ msgid "Search term"
+#~ msgstr "Поисковый запрос"
+
+#~ msgid "User search query"
+#~ msgstr "Поисковый запрос пользователя"
+
+#~ msgid "User search queries"
+#~ msgstr "Поисковые запросы пользователей"
+
+#~ msgid "%(user)s searched for '%(query)s'"
+#~ msgstr "%(user)s искал '%(query)s'"
+
+#~ msgid "Analytics"
+#~ msgstr "Аналитика"
+
+#~ msgid "Basket additions"
+#~ msgstr "Добавления в корзину"
+
+#~ msgid "Product analytics"
+#~ msgstr "Товарная аналитика"
+
+#~ msgid "Name"
+#~ msgstr "Название"
+
+#~ msgid "Date registered"
+#~ msgstr "Дата регистрации"
+
+#~ msgid "Product views"
+#~ msgstr "Просмотров товара"
+
+#~ msgid "Order lines"
+#~ msgstr "Строк заказа"
+
+#~ msgid "Order items"
+#~ msgstr "Позиций заказа"
+
+#~ msgid "Total spent"
+#~ msgstr "Всего провел"
+
+#~ msgid "Date of last order"
+#~ msgstr "Дата последнего заказа"
+
+#~ msgid "User analytics"
+#~ msgstr "Аналитика пользователей"
+
+#~ msgid "Owner"
+#~ msgstr "Владелец"
+
+#~ msgid "Open - currently active"
+#~ msgstr "Открыто - сейчас активно"
+
+#~ msgid "Merged - superceded by another basket"
+#~ msgstr "Слито - заменено другой корзиной"
+
+#~ msgid "Saved - for items to be purchased later"
+#~ msgstr "Сохранено - товары могут быть куплены позднее"
+
+#~ msgid "Frozen - the basket cannot be modified"
+#~ msgstr "Заморожено - корзина не может быть изменена"
+
+#~ msgid "Submitted - has been ordered at the checkout"
+#~ msgstr ""
+#~ "Корзина отправлена - заказ проверен покупателем и оформлен для выполнения"
+
+#~ msgid "Status"
+#~ msgstr "Статус"
+
+#~ msgid "Date created"
+#~ msgstr "Дата создания"
+
+#~ msgid "Date merged"
+#~ msgstr "Дата слияния"
+
+#~ msgid "Date submitted"
+#~ msgstr "Дата добавления"
+
+#~ msgid "Baskets"
+#~ msgstr "Корзины"
+
+#~ msgid "%(status)s basket (owner: %(owner)s, lines: %(num_lines)d)"
+#~ msgstr "%(status)s корзина (клиент: %(owner)s, строк: %(num_lines)d)"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order."
+#~ msgstr ""
+#~ "В связи с техническими ограничениями мы не можем доставить более "
+#~ "%(threshold)d позиций в одном заказе."
+
+#~ msgid "Line Reference"
+#~ msgstr "Уникальная ссылка"
+
+#~ msgid "Quantity"
+#~ msgstr "Количество"
+
+#~ msgid "Currency"
+#~ msgstr "Валюта"
+
+#~ msgid "Price excl. Tax"
+#~ msgstr "Цена, без НДС"
+
+#~ msgid "Price incl. Tax"
+#~ msgstr "Цена, с НДС"
+
+#~ msgid "Basket line"
+#~ msgstr "Строка корзины"
+
+#~ msgid "Basket lines"
+#~ msgstr "Строки корзины"
+
+#~ msgid ""
+#~ "Basket #%(basket_id)d, Product #%(product_id)d, quantity %(quantity)d"
+#~ msgstr ""
+#~ "Корзина #%(basket_id)d, Товар #%(product_id)d, количество %(quantity)d"
+
+#~ msgid "You cannot modify a %s basket"
+#~ msgstr "Вы не можете изменить %s корзину"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has increased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "Цена на товар '%(product)s' увеличилась с %(old_price)s до %(new_price)s "
+#~ "с того момента, как вы добавили его в корзину"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has decreased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "Цена на товар '%(product)s' уменьшилась с %(old_price)s до %(new_price)s "
+#~ "с того момента, как вы добавили его в корзину"
+
+#~ msgid "Line"
+#~ msgstr "Строка"
+
+#~ msgid "Option"
+#~ msgstr "Опция"
+
+#~ msgid "Value"
+#~ msgstr "Значение"
+
+#~ msgid "Line attribute"
+#~ msgstr "Атрибут строки"
+
+#~ msgid "Line attributes"
+#~ msgstr "Атрибуты строк"
+
+#~ msgid "Save for Later"
+#~ msgstr "Сохранить для последующего"
+
+#~ msgid "Move to Basket"
+#~ msgstr "Переместить в корзину"
+
+#~ msgid "Code"
+#~ msgstr "Код"
+
+#~ msgid "Variant"
+#~ msgstr "Вариант"
+
+#~ msgid "Please select a valid product"
+#~ msgstr "Пожалуйста, выберите другой товар"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order. Your basket currently has %(basket)d "
+#~ "items."
+#~ msgstr ""
+#~ "В связи с техническими ограничениями мы не можем доставить более "
+#~ "%(threshold)d позиций в одном заказе. Ваша корзина в настоящий момент "
+#~ "содержит %(basket)d позиций."
+
+#~ msgid ""
+#~ "This product cannot be added to the basket as its currency isn't the same "
+#~ "as other products in your basket"
+#~ msgstr ""
+#~ "Эти товары невозможно добавить в корзину, так как валюта цены отличается "
+#~ "от валюты других товаров в вашей корзине"
+
+#~ msgid ""
+#~ "We have merged a basket from a previous session. Its contents might have "
+#~ "changed."
+#~ msgstr ""
+#~ "Мы добавили корзину из предыдущей сессии. Ее содержимое могло измениться."
+
+#~ msgid "User ID"
+#~ msgstr "Идентификатор пользователя"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Basket status"
+#~ msgstr "Статус корзины"
+
+#~ msgid "Num lines"
+#~ msgstr "Количество строк"
+
+#~ msgid "Num items"
+#~ msgstr "Количество позиций"
+
+#~ msgid "Date of creation"
+#~ msgstr "Дата создания"
+
+#~ msgid "Time since creation"
+#~ msgstr "Время, прошедшее с момента создания"
+
+#~ msgid "Open baskets"
+#~ msgstr "Открытые корзины"
+
+#~ msgid "Time between creation and submission"
+#~ msgstr "Время между добавлением в корзину и заказом"
+
+#~ msgid "Submitted baskets"
+#~ msgstr "Оформленные корзины"
+
+#~ msgid "You can't save an item for later if you're not logged in!"
+#~ msgstr "Вы не можете поставить закладку на товар, если вы не вошли!"
+
+#~ msgid ""
+#~ "Your basket couldn't be updated. Please correct any validation errors "
+#~ "below."
+#~ msgstr ""
+#~ "Ваша корзина не может быть обновлена. Пожалуйста, исправьте все ошибки, "
+#~ "перечисленные ниже."
+
+#~ msgid "The '%(code)s' voucher has expired"
+#~ msgstr "Купон '%(code)s' просрочен"
+
+#~ msgid "The '%(code)s' voucher is not active"
+#~ msgstr "'%(code)s' купон неактивен"
+
+#~ msgid "Your basket does not qualify for a voucher discount"
+#~ msgstr "Ваша корзина не удовлетворяет условиям купона"
+
+#~ msgid "Voucher '%(code)s' added to basket"
+#~ msgstr "Купон '%(code)s' добавлен в корзину"
+
+#~ msgid "You have already added the '%(code)s' voucher to your basket"
+#~ msgstr "Купон '%(code)s' уже был добавлен в корзину ранее"
+
+#~ msgid "No voucher found with code '%(code)s'"
+#~ msgstr "Не найдено купонов с кодом '%(code)s'"
+
+#~ msgid "Please enter a voucher code"
+#~ msgstr "Пожалуйста, введите код купона"
+
+#~ msgid "No voucher found with id '%s'"
+#~ msgstr "Не найдено купонов с кодом '%s'"
+
+#~ msgid "Voucher '%s' removed from basket"
+#~ msgstr "Купон '%s' удалён из корзины"
+
+#~ msgid "Slug"
+#~ msgstr "Имя в URL"
+
+#~ msgid "Requires shipping?"
+#~ msgstr "Требует доставки?"
+
+#~ msgid "Track stock levels?"
+#~ msgstr "Отслеживать остатки на складе?"
+
+#~ msgid "Product class"
+#~ msgstr "Класс товара"
+
+#~ msgid "Product classes"
+#~ msgstr "Классы товаров"
+
+#~ msgid "Description"
+#~ msgstr "Описание"
+
+#~ msgid "Image"
+#~ msgstr "Изображение"
+
+#~ msgid "Category"
+#~ msgstr "Категория"
+
+#~ msgid "Product category"
+#~ msgstr "Категория товара"
+
+#~ msgid "Product categories"
+#~ msgstr "Категории товаров"
+
+#~ msgid "Stand-alone product"
+#~ msgstr "Самостоятельный товар"
+
+#~ msgid "Parent product"
+#~ msgstr "Родительский товар"
+
+#~ msgid "Child product"
+#~ msgstr "Дочерний товар"
+
+#~ msgid "Product structure"
+#~ msgstr "Структура товара"
+
+#~ msgid "UPC"
+#~ msgstr "Артикул"
+
+#~ msgid ""
+#~ "Universal Product Code (UPC) is an identifier for a product which is not "
+#~ "specific to a particular  supplier. Eg an ISBN for a book."
+#~ msgstr ""
+#~ "Универсальный Код Товара (UPC) - идентификатор товара, не специфичный для "
+#~ "поставщика. Например, ISBN для книги."
+
+#~ msgid ""
+#~ "Only choose a parent product if you're creating a child product.  For "
+#~ "example if this is a size 4 of a particular t-shirt.  Leave blank if this "
+#~ "is a stand-alone product (i.e. there is only one version of this product)."
+#~ msgstr ""
+#~ "Выберите родителский товар, только если вы создаете дочерний. Например, "
+#~ "если это 4-й размер обычной футболки. Оставьте поле пустым, если это "
+#~ "самостоятельный товар (т.е. возможно только одна версия этого товара)"
+
+#~ msgctxt "Product title"
+#~ msgid "Title"
+#~ msgstr "Наименование"
+
+#~ msgid "Product type"
+#~ msgstr "Тип товара"
+
+#~ msgid "Choose what type of product this is"
+#~ msgstr "Выберите какой это вид товара"
+
+#~ msgid "Attributes"
+#~ msgstr "Атрибуты"
+
+#~ msgid ""
+#~ "A product attribute is something that this product may have, such as a "
+#~ "size, as specified by its class"
+#~ msgstr ""
+#~ "Атрибут товара - нечто, что товар должен иметь (например, размер), в "
+#~ "соответствии с определением его класса"
+
+#~ msgid "Product options"
+#~ msgstr "Опции товара"
+
+#~ msgid ""
+#~ "Options are values that can be associated with a item when it is added to "
+#~ "a customer's basket.  This could be something like a personalised message "
+#~ "to be printed on a T-shirt."
+#~ msgstr ""
+#~ "Опции - это значения, которые могут быть ассоциированы с товаром, когда "
+#~ "он добавляется в корзину клиента. Это может быть что-нибудь типа "
+#~ "индивидуальной надписи для печати ее на футболке."
+
+#~ msgid "Recommended products"
+#~ msgstr "Рекомендованные товары"
+
+#~ msgid ""
+#~ "These are products that are recommended to accompany the main product."
+#~ msgstr ""
+#~ "Товары, которые вы могли бы порекомендовать покупателю приобрести в "
+#~ "дополнение к основной покупке."
+
+#~ msgid "Date updated"
+#~ msgstr "Дата обновления"
+
+#~ msgid "Is discountable?"
+#~ msgstr "Скидки действуют?"
+
+#~ msgid "This flag indicates if this product can be used in an offer or not"
+#~ msgstr ""
+#~ "Этот флаг указывает, может ли этот товар использоваться в предложениях "
+#~ "или нет."
+
+#~ msgid "Your product must have a title."
+#~ msgstr "У вашего товара должно быть название."
+
+#~ msgid "Your product must have a product class."
+#~ msgstr "У вашего товара должен быть назначен класс."
+
+#~ msgid "Only child products can have a parent."
+#~ msgstr "Только дочерние товары могут иметь родительские."
+
+#~ msgid "A child product needs a parent."
+#~ msgstr "У дочернего товара должен быть назначен родительский товар."
+
+#~ msgid "You can only assign child products to parent products."
+#~ msgstr "Вы можете назначать дочерние товары только родительским."
+
+#~ msgid "A child product can't have a product class."
+#~ msgstr "У дочернего товара не может быть назначен тип товара"
+
+#~ msgid "A child product can't have a category assigned."
+#~ msgstr "У дочернего товара не может быть категорий."
+
+#~ msgid "A child product can't have options."
+#~ msgstr "У дочернего товара не может быть опций."
+
+#~ msgid "A parent product can't have stockrecords."
+#~ msgstr "У родительского товара не может быть складских записей."
+
+#~ msgid "The specified parent product is a child product."
+#~ msgstr "Товар, указанный как родительский, сам является дочерним."
+
+#~ msgid "One can't add a child product to a product with stock records."
+#~ msgstr "Нельзя добавить дочерний товар к товару со складскими записями."
+
+#~ msgid "Primary product"
+#~ msgstr "Основной товар"
+
+#~ msgid "Recommended product"
+#~ msgstr "Рекомендованный товар"
+
+#~ msgid "Ranking"
+#~ msgstr "Оценка"
+
+#~ msgid ""
+#~ "Determines order of the products. A product with a higher value will "
+#~ "appear before one with a lower ranking."
+#~ msgstr ""
+#~ "Определяет порядок товаров. Товар с большим значением будет показан выше "
+#~ "других."
+
+#~ msgid "Product recommendation"
+#~ msgstr "Рекомендация товара"
+
+#~ msgid "Product recomendations"
+#~ msgstr "Рекомендации товара"
+
+#~ msgid ""
+#~ "Code can only contain the letters a-z, A-Z, digits, and underscores, and "
+#~ "can't start with a digit."
+#~ msgstr ""
+#~ "Код может содержать только буквы a-z, A-Z, цифры и символ подчеркивания "
+#~ "'_' и не может начинаться с цифры."
+
+#~ msgid "Text"
+#~ msgstr "Текст"
+
+#~ msgid "Integer"
+#~ msgstr "Целое число"
+
+#~ msgid "True / False"
+#~ msgstr "Истина / Ложь"
+
+#~ msgid "Float"
+#~ msgstr "Дробное число"
+
+#~ msgid "Rich Text"
+#~ msgstr "Форматированный Текст"
+
+#~ msgid "Date"
+#~ msgstr "Дата"
+
+#~ msgid "Datetime"
+#~ msgstr "Дата и время"
+
+#~ msgid "Multi Option"
+#~ msgstr "Мульти-опция"
+
+#~ msgid "Entity"
+#~ msgstr "Сущность"
+
+#~ msgid "File"
+#~ msgstr "Файл"
+
+#~ msgid "Option Group"
+#~ msgstr "Группа опций"
+
+#~ msgid "Select an option group if using type \"Option\" or \"Multi Option\""
+#~ msgstr ""
+#~ "Выберите группу опций если используете тип \"Опция\" или \"Мульти-опция\""
+
+#~ msgid "Required"
+#~ msgstr "Обязательное"
+
+#~ msgid "Product attribute"
+#~ msgstr "Атрибут товара"
+
+#~ msgid "Product attributes"
+#~ msgstr "Атрибуты товара"
+
+#~ msgid "Must be str or unicode"
+#~ msgstr "Должно быть простой строкой или строкой Unicode"
+
+#~ msgid "Must be a float"
+#~ msgstr "Должно быть дробным числом"
+
+#~ msgid "Must be an integer"
+#~ msgstr "Должно быть целым числом"
+
+#~ msgid "Must be a date or datetime"
+#~ msgstr "Должно быть датой или датой с временем"
+
+#~ msgid "Must be a datetime"
+#~ msgstr "Должно содержать значения даты и времени"
+
+#~ msgid "Must be a boolean"
+#~ msgstr "Должно быть логическим"
+
+#~ msgid "Must be a model instance"
+#~ msgstr "Должно быть экземпляром модели"
+
+#~ msgid "Must be a list or AttributeOption queryset"
+#~ msgstr "Должно быть списком или выборкой (queryset) из AttributeOption"
+
+#~ msgid "Must be an AttributeOption model object instance"
+#~ msgstr "Должно быть экземпляром объекта модели AttributeOption"
+
+#~ msgid "AttributeOption has not been saved yet"
+#~ msgstr "AttributeOption еще не был сохранен"
+
+#~ msgid "%(enum)s is not a valid choice for %(attr)s"
+#~ msgstr "%(enum)s неправильный выбор для %(attr)s"
+
+#~ msgid "Must be a file field"
+#~ msgstr "Должно быть файловым полем"
+
+#~ msgid "Attribute"
+#~ msgstr "Атрибут"
+
+#~ msgid "Boolean"
+#~ msgstr "Логическое"
+
+#~ msgid "Richtext"
+#~ msgstr "Форматированный текст"
+
+#~ msgid "DateTime"
+#~ msgstr "Дата и время"
+
+#~ msgid "Value multi option"
+#~ msgstr "Мульти-опция"
+
+#~ msgid "Value option"
+#~ msgstr "Значение опции"
+
+#~ msgid "Product attribute value"
+#~ msgstr "Значение атрибута товара"
+
+#~ msgid "Product attribute values"
+#~ msgstr "Значения атрибутов товара"
+
+#~ msgid "Attribute option group"
+#~ msgstr "Группа опций атрибутов"
+
+#~ msgid "Attribute option groups"
+#~ msgstr "Группы опций атрибутов"
+
+#~ msgid "Group"
+#~ msgstr "Группа"
+
+#~ msgid "Attribute option"
+#~ msgstr "Опция атрибута"
+
+#~ msgid "Attribute options"
+#~ msgstr "Опции атрибута"
+
+#~ msgid "Required - a value for this option must be specified"
+#~ msgstr "Обязательное - значение для этой опции должно быть указано"
+
+#~ msgid "Optional - a value for this option can be omitted"
+#~ msgstr "Необязательное - значение для этой опции может быть незаполненным"
+
+#~ msgid "Original"
+#~ msgstr "Оригинал"
+
+#~ msgid "Caption"
+#~ msgstr "Подпись"
+
+#~ msgid ""
+#~ "An image with a display order of zero will be the primary image for a "
+#~ "product"
+#~ msgstr ""
+#~ "Изображение с нулевым порядком отображения будет основным изображением "
+#~ "для товара"
+
+#~ msgid "Product image"
+#~ msgstr "Изображение товара"
+
+#~ msgid "Product images"
+#~ msgstr "Изображения товара"
+
+#~ msgid "%(obj)s has no attribute named '%(attr)s'"
+#~ msgstr "У %(obj)s нет атрибута с названием '%(attr)s'"
+
+#~ msgid "%(attr)s attribute cannot be blank"
+#~ msgstr "%(attr)s атрибут не может быть пустым"
+
+#~ msgid "%(attr)s attribute %(err)s"
+#~ msgstr "%(attr)s атрибут %(err)s"
+
+#~ msgctxt "Product review title"
+#~ msgid "Title"
+#~ msgstr "Заголовок"
+
+#~ msgid "Body"
+#~ msgstr "Сообщение"
+
+#~ msgctxt "Anonymous reviewer name"
+#~ msgid "Name"
+#~ msgstr "Имя"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Requires moderation"
+#~ msgstr "Требует модерации"
+
+#~ msgid "Approved"
+#~ msgstr "Принят"
+
+#~ msgid "Rejected"
+#~ msgstr "Отклонён"
+
+#~ msgid "Total Votes"
+#~ msgstr "Всего голосов"
+
+#~ msgid "Delta Votes"
+#~ msgstr "Разница голосов"
+
+#~ msgid "Product review"
+#~ msgstr "Отзыв о товаре"
+
+#~ msgid "Product reviews"
+#~ msgstr "Отзывы о товаре"
+
+#~ msgid "Anonymous reviews must include a name and an email"
+#~ msgstr "Анонимный отзыв должен содержать имя и емейл"
+
+#~ msgid "anonymous"
+#~ msgstr "аноним"
+
+#~ msgid "Only signed in users can vote"
+#~ msgstr "Голосовать могут только зарегистрированные пользователи "
+
+#~ msgid "Up"
+#~ msgstr "За"
+
+#~ msgid "Down"
+#~ msgstr "Против"
+
+#~ msgid "Delta"
+#~ msgstr "Разница"
+
+#~ msgid "Vote"
+#~ msgstr "Голос"
+
+#~ msgid "Votes"
+#~ msgstr "Голоса"
+
+#~ msgid "You cannot vote on your own reviews"
+#~ msgstr "Вы не можете голосовать за свои отзывы"
+
+#~ msgid "Only signed-in users can vote on reviews"
+#~ msgstr "Только зарегистрированные пользователи могут оценивать отзывы"
+
+#~ msgid "You can only vote once on a review"
+#~ msgstr "Вы можете голосовать за отзыв только один раз"
+
+#~ msgid "Catalogue reviews"
+#~ msgstr "Отзывы каталога"
+
+#~ msgid "Recency"
+#~ msgstr "Новизна"
+
+#~ msgid "Sort by"
+#~ msgstr "Сортировать"
+
+#~ msgid "You have already reviewed this product!"
+#~ msgstr "Вы уже оставили отзыв на этот товар!"
+
+#~ msgid "You can't leave a review for this product."
+#~ msgstr "Вы не можете оставить отзыв об этом товаре."
+
+#~ msgid "Thank you for reviewing this product"
+#~ msgstr "Благодарим Вас за отзыв об этом товаре"
+
+#~ msgid "Thanks for voting!"
+#~ msgstr "Спасибо за участие в голосовании!"
+
+#~ msgid "%(filename)s is not a valid image (%(error)s)"
+#~ msgstr "%(filename)s не является корректным изображением (%(error)s)"
+
+#~ msgid "%s is not a valid image archive"
+#~ msgstr "%s неправильный архив с картниками"
+
+#~ msgid "The given page number was invalid."
+#~ msgstr "Указан неверный номер страницы."
+
+#~ msgid "Checkout"
+#~ msgstr "Оформить"
+
+#~ msgid "My email address is"
+#~ msgstr "Мой адрес электронной почты:"
+
+#~ msgid "I am a new customer and want to checkout as a guest"
+#~ msgstr "Я новый пользователь и буду расплачиваться как гость"
+
+#~ msgid ""
+#~ "I am a new customer and want to create an account before checking out"
+#~ msgstr "Хочу зарегистрироваться и оформить заказ"
+
+#~ msgid "I am a returning customer, and my password is"
+#~ msgstr "Я здесь уже был, мой пароль"
+
+#~ msgid "A user with that email address already exists"
+#~ msgstr "Пользователь с таким адресом электронной почты уже зарегистрирован."
+
+#~ msgid "You need to add some items to your basket to checkout"
+#~ msgstr "Вы должны добавить товары в корзину до оформления заказа"
+
+#~ msgid ""
+#~ "'%(title)s' is no longer available to buy (%(reason)s). Please adjust "
+#~ "your basket to continue"
+#~ msgstr ""
+#~ "Товар '%(title)s' более не доступен для покупки (%(reason)s). Пожалуйста, "
+#~ "удалите его из корзины для продолжения."
+
+#~ msgid "Please either sign in or enter your email address"
+#~ msgstr "Пожалуйста, войдите или введите адрес вашего email"
+
+#~ msgid "Please choose a shipping address"
+#~ msgstr "Пожалуйста, выберите адрес доставки"
+
+#~ msgid ""
+#~ "Your previously chosen shipping address is no longer valid.  Please "
+#~ "choose another one"
+#~ msgstr ""
+#~ "Выбранный вами ранее адрес доставки более не действителен. Пожалуйста, "
+#~ "выберите другой."
+
+#~ msgid "Please choose a shipping method"
+#~ msgstr "Пожалуйста, выберите способ доставки"
+
+#~ msgid ""
+#~ "Your previously chosen shipping method is no longer valid.  Please choose "
+#~ "another one"
+#~ msgstr ""
+#~ "Выбранный вами ранее способ доставки более не действителен. Пожалуйста, "
+#~ "выберите другой."
+
+#~ msgid ""
+#~ "Create your account and then you will be redirected back to the checkout "
+#~ "process"
+#~ msgstr ""
+#~ "Зарегистрируйтесь и вы будет перенаправлены обратно для оформления заказа"
+
+#~ msgid "Address saved"
+#~ msgstr "Адрес сохранен"
+
+#~ msgid "Address deleted"
+#~ msgstr "Адрес удален"
+
+#~ msgid ""
+#~ "Shipping is unavailable for your chosen address - please choose another"
+#~ msgstr ""
+#~ "Доставка невозможна по выбранному адресу. Пожалуйста, выберите другой."
+
+#~ msgid "Your submitted shipping method is not permitted"
+#~ msgstr "Выбранный способ доставки неприменим"
+
+#~ msgid ""
+#~ "A problem occurred while processing payment for this order - no payment "
+#~ "has been taken.  Please contact customer services if this problem persists"
+#~ msgstr ""
+#~ "При обработке платежа для этого заказа были возникла проблема - оплата не "
+#~ "была принята. Пожалуйста, свяжитесь с отделом обслуживания клиентов если "
+#~ "проблема сохранится."
+
+#~ msgid "No order found"
+#~ msgstr "Заказ не найден"
+
+#~ msgid "email address"
+#~ msgstr "адрес электронной почты"
+
+#~ msgid "Staff status"
+#~ msgstr "Статус персонала"
+
+#~ msgid "Designates whether the user can log into this admin site."
+#~ msgstr ""
+#~ "Определяет, может ли пользователь входить в администраторскую панель."
+
+#~ msgid "Active"
+#~ msgstr "Активный"
+
+#~ msgid ""
+#~ "Designates whether this user should be treated as active. Unselect this "
+#~ "instead of deleting accounts."
+#~ msgstr ""
+#~ "Обозначает, что пользователь активен. Снимите флажок вместо удаления "
+#~ "аккаунта пользователя."
+
+#~ msgid "date joined"
+#~ msgstr "дата регистрации"
+
+#~ msgid "Users"
+#~ msgstr "Пользователи"
+
+#~ msgid "Email Address"
+#~ msgstr "Адрес электронной почты"
+
+#~ msgid "Subject"
+#~ msgstr "Тема"
+
+#~ msgid "Body Text"
+#~ msgstr "Текст тела"
+
+#~ msgid "Body HTML"
+#~ msgstr "HTML Тела"
+
+#~ msgid "Date Sent"
+#~ msgstr "Дата Отправления"
+
+#~ msgid "Emails"
+#~ msgstr "Письма"
+
+#~ msgid "Email to %(user)s with subject '%(subject)s'"
+#~ msgstr "Письмо к %(user)s с темой '%(subject)s'"
+
+#~ msgid "Anonymous email to %(email)s with subject '%(subject)s'"
+#~ msgstr "Анонимное письмо на %(email)s с темой '%(subject)s'"
+
+#~ msgid "Code used for looking up this event programmatically"
+#~ msgstr "Код используется для обращения к этому событию программно"
+
+#~ msgid "This is just used for organisational purposes"
+#~ msgstr "Это нужно только для организационных целей"
+
+#~ msgid "Order related"
+#~ msgstr "относится к заказу"
+
+#~ msgid "User related"
+#~ msgstr "Пользователь"
+
+#~ msgid "Email Subject Template"
+#~ msgstr "Шаблон Темы Письма"
+
+#~ msgid "Email Body Template"
+#~ msgstr "Шаблон Тела Письма"
+
+#~ msgid "Email Body HTML Template"
+#~ msgstr "Шаблон HTML Тела Письма"
+
+#~ msgid "HTML template"
+#~ msgstr "HTML шаблон"
+
+#~ msgid "SMS Template"
+#~ msgstr "SMS Шаблон"
+
+#~ msgid "SMS template"
+#~ msgstr "SMS шаблон"
+
+#~ msgid "Date Updated"
+#~ msgstr "Дата обновления"
+
+#~ msgid "Communication event type"
+#~ msgstr "Тип события коммуникации"
+
+#~ msgid "Communication event types"
+#~ msgstr "Типы событий коммуникаций"
+
+#~ msgid "Inbox"
+#~ msgstr "Входящие"
+
+#~ msgid "Archive"
+#~ msgstr "Архив"
+
+#~ msgid "Notification"
+#~ msgstr "Уведомления"
+
+#~ msgid "Notifications"
+#~ msgstr "Уведомления"
+
+#~ msgid "Key"
+#~ msgstr "Ключ"
+
+#~ msgid "Not yet confirmed"
+#~ msgstr "Еще не подтвержден"
+
+#~ msgid "Cancelled"
+#~ msgstr "Отменен"
+
+#~ msgid "Closed"
+#~ msgstr "Закрытый"
+
+#~ msgid "Date confirmed"
+#~ msgstr "Дата подтверждения"
+
+#~ msgid "Date cancelled"
+#~ msgstr "Дата отмены"
+
+#~ msgid "Date closed"
+#~ msgstr "Дата закрытия"
+
+#~ msgid "Product alert"
+#~ msgstr "Товарное уведомление"
+
+#~ msgid "Product alerts"
+#~ msgstr "Товарные уведомления"
+
+#~ msgid "Product Alerts"
+#~ msgstr "Оповещения о товарах"
+
+#~ msgid "An alert has been created"
+#~ msgstr "Уведомление создано"
+
+#~ msgid "A confirmation email has been sent to %s"
+#~ msgstr "Письмо с подтверждением отправлено на %s"
+
+#~ msgid "Your stock alert is now active"
+#~ msgstr "Складское уведомление теперь активно"
+
+#~ msgid "Your stock alert cannot be confirmed"
+#~ msgstr "Складское уведомление не может быть подтверждено"
+
+#~ msgid "Your stock alert has been cancelled"
+#~ msgstr "Складское уведомление отменено"
+
+#~ msgid "Your stock alert cannot be cancelled"
+#~ msgstr "Складское уведомление не может быть отменено"
+
+#~ msgid "Customer"
+#~ msgstr "Клиент"
+
+#~ msgid "Email address"
+#~ msgstr "Адрес электронной почты"
+
+#~ msgid "Password"
+#~ msgstr "Пароль"
+
+#~ msgid "The entered password is not valid!"
+#~ msgstr "Введенный пароль неправильный!"
+
+#~ msgid "Confirm password"
+#~ msgstr "Повторите пароль"
+
+#~ msgid "The two password fields didn't match."
+#~ msgstr "Пароли не совпадают"
+
+#~ msgctxt "start date"
+#~ msgid "From"
+#~ msgstr "От"
+
+#~ msgctxt "end date"
+#~ msgid "To"
+#~ msgstr "До"
+
+#~ msgid "Order number"
+#~ msgstr "Номер заказа"
+
+#~ msgid "At least one field is required."
+#~ msgstr "Как минимум одно поле обязательно."
+
+#~ msgid "All orders"
+#~ msgstr "Все заказы"
+
+#~ msgid ""
+#~ "Orders placed between %(date_from)s and %(date_to)s and order number "
+#~ "containing %(order_number)s"
+#~ msgstr ""
+#~ "Заказы, размещенные с %(date_from)s по %(date_to)s и заказы с номером, "
+#~ "содержащим %(order_number)s"
+
+#~ msgid "Orders placed between %(date_from)s and %(date_to)s"
+#~ msgstr "Заказы размещены с %(date_from)s по %(date_to)s"
+
+#~ msgid ""
+#~ "Orders placed since %(date_from)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "Заказы, размещенные с %(date_from)s с номером, содержащим %(order_number)s"
+
+#~ msgid "Orders placed since %(date_from)s"
+#~ msgstr "Заказы, размещенные с %(date_from)s"
+
+#~ msgid ""
+#~ "Orders placed until %(date_to)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "Заказы, размещенные до %(date_to)s с номером, содержащим %(order_number)s"
+
+#~ msgid "Orders placed until %(date_to)s"
+#~ msgstr "Заказы, размещенные до %(date_to)s"
+
+#~ msgid "Orders with order number containing %(order_number)s"
+#~ msgstr "Заказы с номером, содержащим %(order_number)s"
+
+#~ msgid "A user with this email address already exists"
+#~ msgstr "Пользователь с таким адресом электронной почты уже зарегистрирован."
+
+#~ msgid "Send notification to"
+#~ msgstr "Отправить уведомление на"
+
+#~ msgid "Enter your email"
+#~ msgstr "Введите ваш email"
+
+#~ msgid "There is already an active stock alert for %s"
+#~ msgstr "Для %s уже есть складское уведомление"
+
+#~ msgid ""
+#~ "%s has been sent a confirmation email for another product alert on this "
+#~ "site. Please confirm or cancel that request before signing up for more "
+#~ "alerts."
+#~ msgstr ""
+#~ "На адрес %s были отправлены письма с подтверждениями об уведомлении о "
+#~ "других товарах этого сайта. Пожалуйста, подтвердите или отмените эти "
+#~ "запросы перед входом на сайт, если хотите получать больше уведомлений."
+
+#~ msgid "You already have an active alert for this product"
+#~ msgstr "У вас уже есть уведомление для этого товара"
+
+#~ msgid "%(count)d notification archived"
+#~ msgid_plural "%(count)d notifications archived"
+#~ msgstr[0] "%(count)d уведомление архивировано"
+#~ msgstr[1] "%(count)d уведомления архивировано"
+#~ msgstr[2] "%(count)d уведомлений архивировано"
+#~ msgstr[3] "%(count)d уведомлений архивировано"
+
+#~ msgid "%(count)d notification deleted"
+#~ msgid_plural "%(count)d notifications deleted"
+#~ msgstr[0] "%(count)d уведомление удалено"
+#~ msgstr[1] "%(count)d уведомления удалено"
+#~ msgstr[2] "%(count)d уведомлений удалено"
+#~ msgstr[3] "%(count)d уведомлений удалено"
+
+#~ msgid "Welcome back"
+#~ msgstr "Рады видеть вас снова"
+
+#~ msgid "Thanks for registering!"
+#~ msgstr "Спасибо за регистрацию!"
+
+#~ msgid "Profile"
+#~ msgstr "Профиль"
+
+#~ msgid "Edit Profile"
+#~ msgstr "Редактировать профиль"
+
+#~ msgid "Profile updated"
+#~ msgstr "Профиль обновлен"
+
+#~ msgid "Delete profile"
+#~ msgstr "Удалить профиль"
+
+#~ msgid "Your profile has now been deleted. Thanks for using the site."
+#~ msgstr "Ваш профиль удален. Спасибо, что воспользовались нашим сайтом."
+
+#~ msgid "Change Password"
+#~ msgstr "Изменить пароль"
+
+#~ msgid "Password updated"
+#~ msgstr "Пароль обновлён"
+
+#~ msgid "Email History"
+#~ msgstr "История сообщений"
+
+#~ msgid "Order History"
+#~ msgstr "История заказов"
+
+#~ msgid "Order"
+#~ msgstr "Заказ"
+
+#~ msgid ""
+#~ "All available lines from order %(number)s have been added to your basket"
+#~ msgstr "Все доступные позиции заказа %(number)s  добавлены в вашу корзину"
+
+#~ msgid ""
+#~ "It is not possible to re-order order %(number)s as none of its lines are "
+#~ "available to purchase"
+#~ msgstr ""
+#~ "Невозможно повторно заказать %(number)s, так как ни один пункт не "
+#~ "доступен для покупки"
+
+#~ msgid "%(qty)d copies of '%(product)s' have been added to your basket"
+#~ msgstr "'%(product)s' в количестве %(qty)d добавлены в вашу корзину"
+
+#~ msgid "'%s' has been added to your basket"
+#~ msgstr "Товар '%s' добавлен в Вашу корзину"
+
+#~ msgid "Address Book"
+#~ msgstr "Адресная книга"
+
+#~ msgid "Add a new address"
+#~ msgstr "Добавить новый адрес"
+
+#~ msgid "Address '%s' created"
+#~ msgstr "Адрес '%s' добавлен"
+
+#~ msgid "Edit address"
+#~ msgstr "Редактировать адрес"
+
+#~ msgid "Address '%s' updated"
+#~ msgstr "Адрес '%s' обновлен"
+
+#~ msgid "Delete address?"
+#~ msgstr "Удалить адрес?"
+
+#~ msgid "Address '%s' deleted"
+#~ msgstr "Адрес '%s' удален"
+
+#~ msgid "We do not ship to this country"
+#~ msgstr "К сожалению, мы не доставляем товары в эту страну"
+
+#~ msgid "Wish Lists"
+#~ msgstr "Списки желаемого"
+
+#~ msgid "Quantities updated."
+#~ msgstr "Количества обновлены."
+
+#~ msgid "Create a new wish list"
+#~ msgstr "Создать новый список желаемого"
+
+#~ msgid "The requested product no longer exists"
+#~ msgstr "Запрошенный товар больше не существует"
+
+#~ msgid "Your wishlist has been created and '%(name)s has been added"
+#~ msgstr "Список желаемого был создан и в него добавлен товар: '%(name)s"
+
+#~ msgid "Your wishlist has been created"
+#~ msgstr "Список создан"
+
+#~ msgid "%(title)s has been added to your wishlist"
+#~ msgstr "Товар под названием %(title)s добавлен в список желаемых покупок"
+
+#~ msgid "Your '%s' wishlist has been updated"
+#~ msgstr "Список '%s' был обновлен"
+
+#~ msgid "Delete %s"
+#~ msgstr "Удалить %s"
+
+#~ msgid "Your '%s' wish list has been deleted"
+#~ msgstr "Список '%s' был удален"
+
+#~ msgid "'%s' was added to your wish list."
+#~ msgstr "'%s' теперь в списке желаемого."
+
+#~ msgid "Remove %s"
+#~ msgstr "Удалить %s"
+
+#~ msgid "'%(title)s' was removed from your '%(name)s' wish list"
+#~ msgstr "'%(title)s' больше не в списке '%(name)s'"
+
+#~ msgid "Wish list '%(name)s' already containing '%(title)s'"
+#~ msgstr "Список '%(name)s' уже содержит '%(title)s'"
+
+#~ msgid "'%(title)s' moved to '%(name)s' wishlist"
+#~ msgstr "'%(title)s' теперь в списке '%(name)s'"
+
+#~ msgid "Create a new product of type"
+#~ msgstr "Создать товар типа"
+
+#~ msgid "-- Choose type --"
+#~ msgstr "-- Выберите тип --"
+
+#~ msgid "Product title"
+#~ msgstr "Название товара"
+
+#~ msgid "Select an option group"
+#~ msgstr "Выберите группу опций"
+
+#~ msgid ""
+#~ "At least one stock record must be set to a partner that you're associated "
+#~ "with."
+#~ msgstr ""
+#~ "Как минимум одна запись об этом товаре должна быть на складе вашего "
+#~ "поставщика."
+
+#~ msgid "Stand-alone and parent products must have at least one category"
+#~ msgstr ""
+#~ "У самостоятельных и родительских товаров должна быть назначена как "
+#~ "минимум одна категория"
+
+#~ msgid "A child product should not have categories"
+#~ msgstr "У дочернего товара категорий быть не должно"
+
+#~ msgid "Title"
+#~ msgstr "Название"
+
+#~ msgid "Variants"
+#~ msgstr "Варианты"
+
+#~ msgid "Stock records"
+#~ msgstr "Складские записи"
+
+#~ msgid "Actions"
+#~ msgstr "Действия"
+
+#~ msgid "Number of child categories"
+#~ msgstr "Количество подкатегорий"
+
+#~ msgid "%s Category"
+#~ msgid_plural "%s Categories"
+#~ msgstr[0] "%s категория"
+#~ msgstr[1] "%s категории"
+#~ msgstr[2] "%s категории"
+#~ msgstr[3] "%s категорий"
+
+#~ msgid "Option summary"
+#~ msgstr "Сводка"
+
+#~ msgid "%s Attribute Option Group"
+#~ msgid_plural "%s Attribute Option Groups"
+#~ msgstr[0] "%s группа опций"
+#~ msgstr[1] "%s группы опций"
+#~ msgstr[2] "%s групп опций"
+#~ msgstr[3] "%s групп опций"
+
+#~ msgid "Product search results"
+#~ msgstr "Результаты поиска товаров"
+
+#~ msgid "Please choose a product type"
+#~ msgstr "Пожалуйста, выберите тип товара"
+
+#~ msgid "Create new %(product_class)s product"
+#~ msgstr "Создать новый товар типа %(product_class)s"
+
+#~ msgid "Create new variant of %(parent_product)s"
+#~ msgstr "Добавить новый вариант товара %(parent_product)s"
+
+#~ msgid "Editing variant of %(parent_product)s"
+#~ msgstr "Редактирование варианта товара %(parent_product)s"
+
+#~ msgid "Your submitted data was not valid - please correct the errors below"
+#~ msgstr "Вы отправили неверные данные, пожалуйста, исправьте ошибки"
+
+#~ msgid "Delete product variant?"
+#~ msgstr "Удалить этот вариант?"
+
+#~ msgid "Delete product?"
+#~ msgstr "Удалить товар?"
+
+#~ msgid "Deleted product variant '%s'"
+#~ msgstr "Удален вариант товара '%s'"
+
+#~ msgid "Deleted product '%s'"
+#~ msgstr "Удален товар '%s'"
+
+#~ msgid "Alerts with status \"%s\""
+#~ msgstr "Уведомления со статусом \"%s\""
+
+#~ msgid "All alerts"
+#~ msgstr "Все уведомления"
+
+#~ msgid "Add a new category"
+#~ msgstr "Добавить категорию"
+
+#~ msgid "Category created successfully"
+#~ msgstr "Категория успешно создана"
+
+#~ msgid "Update category '%s'"
+#~ msgstr "Обновить категорию '%s'"
+
+#~ msgid "Category updated successfully"
+#~ msgstr "Категория успешно обновлена"
+
+#~ msgid "Category deleted successfully"
+#~ msgstr "Категория успешно удалена"
+
+#~ msgid "Add a new product type"
+#~ msgstr "Добавить новый тип товара"
+
+#~ msgid "Product type created successfully"
+#~ msgstr "Тип товара создан"
+
+#~ msgid "Update product type '%s'"
+#~ msgstr "Обновить тип товара '%s'"
+
+#~ msgid "Product type updated successfully"
+#~ msgstr "Тип товара обновлен"
+
+#~ msgid "Delete product type '%s'"
+#~ msgstr "Удалить типа товара '%s'"
+
+#~ msgid "Unable to delete '%s'"
+#~ msgstr "Невозможно удалить '%s'"
+
+#~ msgid "%i products are still assigned to this type"
+#~ msgstr "До сих пор существуют некоторые товары этого типа (%i шт. найдено)"
+
+#~ msgid "Product type deleted successfully"
+#~ msgstr "Тип товара удален"
+
+#~ msgid "Add a new Attribute Option Group"
+#~ msgstr "Добавить новую группу опций"
+
+#~ msgid "Attribute Option Group created successfully"
+#~ msgstr "Группа опций атрибутов добавлена"
+
+#~ msgid "Update Attribute Option Group '%s'"
+#~ msgstr "Обновить группу опций  '%s'"
+
+#~ msgid "Attribute Option Group updated successfully"
+#~ msgstr "Группа опций атрибутов успешно обновлена"
+
+#~ msgid "Delete Attribute Option Group '%s'"
+#~ msgstr "Удалить группу опций  '%s'"
+
+#~ msgid ""
+#~ "%i product attributes are still assigned to this attribute option group"
+#~ msgstr ""
+#~ " Есть атрибуты продуктов в количестве %i, которые все еще назначены в эту "
+#~ "группу опций."
+
+#~ msgid "Attribute Option Group deleted successfully"
+#~ msgstr "Группа опций атрибутов успешно удалена"
+
+#~ msgid "Communications dashboard"
+#~ msgstr "Панель сообщений"
+
+#~ msgid "Email subject template"
+#~ msgstr "Шаблон темы письма"
+
+#~ msgid "Email body text template"
+#~ msgstr "Шаблон текстового тела письма"
+
+#~ msgid "Email body HTML template"
+#~ msgstr "Шаблон HTML тела письма"
+
+#~ msgid "Preview email"
+#~ msgstr "Просмотреть email"
+
+#~ msgid "No order found with this number"
+#~ msgstr "С этим номером не найдено ни одного заказа"
+
+#~ msgid "Please enter an email address"
+#~ msgstr "Пожалуйста, введите корректный адрес электронной почты"
+
+#~ msgid ""
+#~ "The submitted form was not valid, please correct the errors and resubmit"
+#~ msgstr ""
+#~ "Вы отправили неверные данные, пожалуйста, исправьте ошибки и отправьте "
+#~ "заново"
+
+#~ msgid "Email saved"
+#~ msgstr "Email сохранен"
+
+#~ msgid "A preview email has been sent to %s"
+#~ msgstr "Тестовое письмо было отправлено на %s"
+
+#~ msgid "Offers dashboard"
+#~ msgstr "Панель предложений"
+
+#~ msgid "Start date"
+#~ msgstr "Дата начала"
+
+#~ msgid "End date"
+#~ msgstr "Дата окончания"
+
+#~ msgid "The end date must be after the start date"
+#~ msgstr "Дата окончания должна быть позже даты начала"
+
+#~ msgid "Custom condition"
+#~ msgstr "Настраиваемое условие"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom condition"
+#~ msgstr ""
+#~ "Пожалуйста, выберите или ассортимент, тип и стоимость, ИЛИ настраиваемое "
+#~ "условие"
+
+#~ msgid "A range is required"
+#~ msgstr "Необходим ассортимент"
+
+#~ msgid "Custom incentive"
+#~ msgstr "Настраиваемый Стимул"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom incentive"
+#~ msgstr ""
+#~ "Пожалуйста, выберите или ассортимент, тип и значение, ИЛИ настраиваемый "
+#~ "Стимул"
+
+#~ msgid "No other options can be set if you are using a custom incentive"
+#~ msgstr ""
+#~ "При использовании настраиваемого Стимула нельзя устанавливать никакие "
+#~ "другие опции"
+
+#~ msgid "Offer name"
+#~ msgstr "Название предложения"
+
+#~ msgid "Is active?"
+#~ msgstr "Действует?"
+
+#~ msgid "Order date"
+#~ msgstr "Дата заказа"
+
+#~ msgid "Order total"
+#~ msgstr "Всего"
+
+#~ msgid "Cost"
+#~ msgstr "Стоимость"
+
+#~ msgid "All offers"
+#~ msgstr "Все предложения"
+
+#~ msgid "Offers matching '%s'"
+#~ msgstr "Предложения, содержащие '%s'"
+
+#~ msgid "%s step not complete"
+#~ msgstr "%s шаг не закончен"
+
+#~ msgid "Offer '%s' updated"
+#~ msgstr "Предложение '%s' обновлено"
+
+#~ msgid "Offer '%s' created!"
+#~ msgstr "Предложение '%s' создано"
+
+#~ msgid "Name and description"
+#~ msgstr "Название и описание"
+
+#~ msgid "Incentive"
+#~ msgstr "Стимул"
+
+#~ msgid "Restrictions"
+#~ msgstr "Ограничения"
+
+#~ msgid "Offer deleted!"
+#~ msgstr "Предложение удалено!"
+
+#~ msgid "Offer is already suspended"
+#~ msgstr "Предложение уже приостановлено"
+
+#~ msgid "Offer suspended"
+#~ msgstr "Предложение приостановлено"
+
+#~ msgid "Offer cannot be reinstated as it is not currently suspended"
+#~ msgstr "Нельзя возобновить предложение, так как оно не приостановлено"
+
+#~ msgid "Offer reinstated"
+#~ msgstr "Предложение возобновлено"
+
+#~ msgid "Orders dashboard"
+#~ msgstr "Панель заказов"
+
+#~ msgid "Orders placed since %s"
+#~ msgstr "Заказы размещены с %s"
+
+#~ msgid "Orders placed until %s"
+#~ msgstr "Заказы размещены до %s"
+
+#~ msgid "Customer name"
+#~ msgstr "Имя клиента"
+
+#~ msgid "Product name"
+#~ msgstr "Название товара"
+
+#~ msgid "Partner SKU"
+#~ msgstr "Артикул партнера"
+
+#~ msgid "Date from"
+#~ msgstr "Дата начала"
+
+#~ msgid "Date to"
+#~ msgstr "Дата окончания"
+
+#~ msgid "Voucher code"
+#~ msgstr "Код купона"
+
+#~ msgid "Payment method"
+#~ msgstr "Способ оплаты"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "CSV"
+#~ msgstr "CSV"
+
+#~ msgid "Get results as"
+#~ msgstr "Получить результаты как"
+
+#~ msgid "New order status"
+#~ msgstr "Новый статус заказа"
+
+#~ msgid "Order number starts with \"{order_number}\""
+#~ msgstr "Заказы с номером, начинающимся с \"{order_number}\""
+
+#~ msgid "Customer name matches \"{customer_name}\""
+#~ msgstr "Покупатели с именем, соответствующим \"{customer_name}\""
+
+#~ msgid "Product name matches \"{product_name}\""
+#~ msgstr "Продукты, соответствующие \"{product_name}\""
+
+#~ msgid "Includes an item with UPC \"{upc}\""
+#~ msgstr "Включая позиции с артикулом (UPC) \"{upc}\""
+
+#~ msgid "Includes an item with partner SKU \"{partner_sku}\""
+#~ msgstr "Включая позиции со складским кодом (SKU) \"{partner_sku}\""
+
+#~ msgid "Placed between {start_date} and {end_date}"
+#~ msgstr "Размещенные с {start_date} по {end_date}"
+
+#~ msgid "Placed after {start_date}"
+#~ msgstr "Размещенные после {start_date}"
+
+#~ msgid "Placed before {end_date}"
+#~ msgstr "Размещенные до {end_date}"
+
+#~ msgid "Used voucher code \"{voucher_code}\""
+#~ msgstr "Использован промо-код \"{voucher_code}\""
+
+#~ msgid "Paid using {payment_method}"
+#~ msgstr "Оплачено через {payment_method}"
+
+#~ msgid "Order status is {order_status}"
+#~ msgstr "Статус заказа: {order_status}"
+
+#~ msgid "Order value"
+#~ msgstr "Стоимость заказа"
+
+#~ msgid "Date of purchase"
+#~ msgstr "Дата покупки"
+
+#~ msgid "Number of items"
+#~ msgstr "Количество предметов"
+
+#~ msgid "Order status"
+#~ msgstr "Статус заказа"
+
+#~ msgid "Customer email address"
+#~ msgstr "Адрес электронной почты клиента"
+
+#~ msgid "Deliver to name"
+#~ msgstr "Кому доставить"
+
+#~ msgid "Bill to name"
+#~ msgstr "Счет на имя"
+
+#~ msgid "The new status '%s' is not valid"
+#~ msgstr "Новый статус '%s' невозможен"
+
+#~ msgid "The new status '%s' is not valid for this order"
+#~ msgstr "Новый статус '%s' неверен для этого заказа"
+
+#~ msgid "Unable to change order status due to payment error: %s"
+#~ msgstr "Невозможно изменить статус заказа из-за ошибки платежа: %s"
+
+#~ msgid "Order status changed from '%(old_status)s' to '%(new_status)s'"
+#~ msgstr "Статус заказа изменен с '%(old_status)s' на '%(new_status)s'"
+
+#~ msgid "No valid action submitted"
+#~ msgstr "Корректные действия не запрошены"
+
+#~ msgid "Invalid action"
+#~ msgstr "Недопустимое действие"
+
+#~ msgid "You must select some lines to act on"
+#~ msgstr "Для действия вы должны выбрать несколько строк"
+
+#~ msgid "Invalid lines requested"
+#~ msgstr "Запрошены неверные строки"
+
+#~ msgid "The entered quantity for line #%s is not valid"
+#~ msgstr "Введенное количество для строки #%s неверно"
+
+#~ msgid ""
+#~ "The entered quantity for line #%(line_id)s should not be higher than "
+#~ "%(quantity)s"
+#~ msgstr ""
+#~ "Количество, введенное в строке #%(line_id)s не должно быть больше чем "
+#~ "%(quantity)s"
+
+#~ msgid "Note saved"
+#~ msgstr "Заметка сохранена"
+
+#~ msgid "Note cannot be deleted"
+#~ msgstr "Заметка не может быть удалена"
+
+#~ msgid "Note deleted"
+#~ msgstr "Заметка удалена"
+
+#~ msgid "Invalid form submission"
+#~ msgstr "Ошибка при отправке формы"
+
+#~ msgid ""
+#~ "Unable to change order status as the requested new status is not valid"
+#~ msgstr ""
+#~ "Невозможно поменять статус заказа, так как запрошен неверый новый статус"
+
+#~ msgid "Please choose a valid amount"
+#~ msgstr "Пожалуйста, выберите корректное количество"
+
+#~ msgid "'%(status)s' is not a valid new status for line %(line_id)d"
+#~ msgstr "'%(status)s' некорректный статус для строки %(line_id)d"
+
+#~ msgid ""
+#~ "Status of line #%(line_id)d changed from '%(old_status)s' to "
+#~ "'%(new_status)s'"
+#~ msgstr ""
+#~ "Статус строки #%(line_id)d изменен с '%(old_status)s' на '%(new_status)s'"
+
+#~ msgid "The event type '%s' is not valid"
+#~ msgstr "Тип события '%s' некорректен"
+
+#~ msgid "Unable to create shipping event: %s"
+#~ msgstr "Невозможно создать событие доставки: %s"
+
+#~ msgid "Unable to create shipping event due to payment error: %s"
+#~ msgstr "Невозможно создать событие доставки из-за ошибки оплаты: %s"
+
+#~ msgid "Shipping event created"
+#~ msgstr "Событие доставки создано"
+
+#~ msgid "Unable to create payment event due to payment error: %s"
+#~ msgstr "Невозможно создать платежное событие из-за ошибки: %s"
+
+#~ msgid "Unable to create payment event: %s"
+#~ msgstr "Невозможно создать платежное событие: %s"
+
+#~ msgid "Payment event created"
+#~ msgstr "Платежное событие создано"
+
+#~ msgid "%(field)s changed from '%(old_value)s' to '%(new_value)s'"
+#~ msgstr "%(field)s изменено с '%(old_value)s' на '%(new_value)s'"
+
+#~ msgid ""
+#~ "Delivery address updated:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Адрес доставки обновлён:\n"
+#~ "%s"
+
+#~ msgid "Delivery address updated"
+#~ msgstr "Адрес доставки обновлён"
+
+#~ msgid "Pages dashboard"
+#~ msgstr "Панель страниц сайта"
+
+#~ msgctxt "Page title"
+#~ msgid "Title"
+#~ msgstr "Заголовок"
+
+#~ msgid "Example: '/about/contact/'."
+#~ msgstr "Например: '/about/contact/'."
+
+#~ msgid ""
+#~ "This value must contain only letters, numbers, dots, underscores, dashes, "
+#~ "slashes or tildes."
+#~ msgstr ""
+#~ "Это значение должно содержать только буквы, цифры, точки, символы "
+#~ "подчеркивания, тире, слэши или тильды."
+
+#~ msgid "All pages"
+#~ msgstr "Все страницы"
+
+#~ msgid " with title containing '%s'"
+#~ msgstr ", с названием, содержащим '%s'"
+
+#~ msgid "Create New Page"
+#~ msgstr "Создать Страницу"
+
+#~ msgid "Deleted page '%s'"
+#~ msgstr "Удалена страница '%s'"
+
+#~ msgid "Partners dashboard"
+#~ msgstr "Панель поставщиков"
+
+#~ msgctxt "Partner's name"
+#~ msgid "Name"
+#~ msgstr "Название"
+
+#~ msgid "Full dashboard access"
+#~ msgstr "Полный доступ к панели"
+
+#~ msgid "Limited dashboard access"
+#~ msgstr "Ограниченный доступ к панели"
+
+#~ msgid "User role"
+#~ msgstr "Роль пользователя"
+
+#~ msgid "Confirm Password"
+#~ msgstr "Повторите пароль"
+
+#~ msgid "All partners"
+#~ msgstr "Все партнеры"
+
+#~ msgid "Partners matching '%s'"
+#~ msgstr "Партнеры с названием, соответствующим '%s'"
+
+#~ msgid "Create new partner"
+#~ msgstr "Добавить нового партнера"
+
+#~ msgid "Partner '%s' was created successfully."
+#~ msgstr "Партнер '%s' успешно добавлен."
+
+#~ msgid "Partner '%s' was updated successfully."
+#~ msgstr "Данные партнера '%s' успешно обновлены."
+
+#~ msgid "Partner '%s' was deleted successfully."
+#~ msgstr "Данные партнера '%s' успешно удалены."
+
+#~ msgid "Create user"
+#~ msgstr "Добавить пользователя"
+
+#~ msgid "User '%s' was created successfully."
+#~ msgstr "Пользователь '%s' успешно добавлен."
+
+#~ msgid "User '%(name)s' was linked to '%(partner_name)s'"
+#~ msgstr "Пользователь '%(name)s' привязан к партнеру '%(partner_name)s'"
+
+#~ msgid "User '%(name)s' is already linked to '%(partner_name)s'"
+#~ msgstr "Пользователь '%(name)s' уже привязан к партнеру '%(partner_name)s'"
+
+#~ msgid "User '%(name)s' is not linked to '%(partner_name)s'"
+#~ msgstr "Пользователь '%(name)s' не связан с партнером '%(partner_name)s'"
+
+#~ msgid "Edit user '%s'"
+#~ msgstr "Редактировать пользователя '%s'"
+
+#~ msgid "User '%s' was updated successfully."
+#~ msgstr "Данные пользователя '%s' успешно обновлены."
+
+#~ msgid "Promotions dashboard"
+#~ msgstr "Панель рекламы"
+
+#~ msgid "Promotion type"
+#~ msgstr "Тип рекламы"
+
+#~ msgid "Position"
+#~ msgstr "Позиция"
+
+#~ msgid "Where in the page this content block will appear"
+#~ msgstr "Где на странице будет отображаться блок контента"
+
+#~ msgid "Content blocks can only be linked to internal URLs"
+#~ msgstr ""
+#~ "Блоки содержимого могут быть привязаны только ко внутренним адресам URL"
+
+#~ msgid "Content block removed successfully"
+#~ msgstr "Блок контента успешно удален"
+
+#~ msgid "Content block created successfully"
+#~ msgstr "Блок контента успешно создан"
+
+#~ msgid "Create a new %s content block"
+#~ msgstr "Создать новый блок контента: %s"
+
+#~ msgid "Product list content block created"
+#~ msgstr "Блок содержимого \"список товаров\" создан"
+
+#~ msgid "Update content block"
+#~ msgstr "Обновить блок содержимого"
+
+#~ msgid "Content block updated successfully"
+#~ msgstr "Блок контента успешно обновлен"
+
+#~ msgid "Content block '%(block)s' added to page '%(page)s'"
+#~ msgstr "Блок контента '%(block)s' добавлен на страницу '%(page)s'"
+
+#~ msgid "No link found to delete"
+#~ msgstr "Не найдено ссылок для удаления"
+
+#~ msgid "Content block removed from page '%s'"
+#~ msgstr "Блок контента удален со страницы '%s'"
+
+#~ msgid "Product list promotion updated"
+#~ msgstr "Реклама 'Список товаров' обновлена"
+
+#~ msgid "Content block deleted successfully"
+#~ msgstr "Блок контента успешно удален"
+
+#~ msgid "Ranges dashboard"
+#~ msgstr "Панель ассортиментов"
+
+#~ msgid "Product SKUs or UPCs"
+#~ msgstr "Код или Артикул товара"
+
+#~ msgid "You can paste in a selection of SKUs or UPCs"
+#~ msgstr "Вы можете выделить и вставить сюда список кодов или артикулов"
+
+#~ msgid "File of SKUs or UPCs"
+#~ msgstr "Файл с кодами или артикулами"
+
+#~ msgid "Either comma-separated, or one identifier per line"
+#~ msgstr "Или разделенные запятой, или один идентификатор на строку"
+
+#~ msgid "You must submit either a list of SKU/UPCs or a file"
+#~ msgstr "Вы можете предоставить как список кодов/артикулов, так и файл"
+
+#~ msgid "The products with SKUs or UPCs matching %s are already in this range"
+#~ msgstr ""
+#~ "Товары с кодами, соответствующими %s уже присутствуют в этом ассортименте "
+
+#~ msgid "No products exist with a SKU or UPC matching %s"
+#~ msgstr "Не существует товаров с кодами или артикулами, соответствующими %s"
+
+#~ msgid "Create range"
+#~ msgstr "Создать ассортимент"
+
+#~ msgid "Range deleted"
+#~ msgstr "Ассортимент удалён"
+
+#~ msgid "Removed %d product from range"
+#~ msgid_plural "Removed %d products from range"
+#~ msgstr[0] "Удален %d товар из ассортимента"
+#~ msgstr[1] "Удалено %d товара из ассортимента"
+#~ msgstr[2] "Удалено %d товаров из ассортимента"
+#~ msgstr[3] "Удалено %d товаров из ассортимента"
+
+#~ msgid "%d product added to range"
+#~ msgid_plural "%d products added to range"
+#~ msgstr[0] "%d товар добавлен к ассортименту"
+#~ msgstr[1] "%d товара добавлено к ассортименту"
+#~ msgstr[2] "%d товаров добавлено к ассортименту"
+#~ msgstr[3] "%d товаров добавлено к ассортименту"
+
+#~ msgid "No product(s) were found with SKU or UPC matching %s"
+#~ msgstr "Не найдено товаров с кодом или артикулом, сооветствующим %s"
+
+#~ msgid "There are more than one product with SKU %s"
+#~ msgstr "Имеется более одного продукта с КСУ %s"
+
+#~ msgid "Reports dashboard"
+#~ msgstr "Панель отчетов"
+
+#~ msgid "Report Type"
+#~ msgstr "Тип Отчета"
+
+#~ msgid "Only the offer and order reports use the selected date range"
+#~ msgstr "Только предложения и отчеты по заказам используют выбранный период"
+
+#~ msgid "The report is inclusive of this date"
+#~ msgstr "Отчет по эту дату включительно"
+
+#~ msgid "Download"
+#~ msgstr "Скачать"
+
+#~ msgid "Your start date must be before your end date"
+#~ msgstr "Дата начала должна быть до даты конца"
+
+#~ msgid "%(report_filter)s between %(start_date)s and %(end_date)s"
+#~ msgstr "%(report_filter)s между %(start_date)s и %(end_date)s"
+
+#~ msgid "You do not have access to this report"
+#~ msgstr "У вас нет доступа к этому отчету"
+
+#~ msgid "Reviews dashboard"
+#~ msgstr "Панель отзывов"
+
+#~ msgid "Keyword"
+#~ msgstr "Ключевое слово"
+
+#~ msgid "to"
+#~ msgstr "по"
+
+#~ msgid ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+#~ msgstr ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+
+#~ msgid " created after %s"
+#~ msgstr ", созданные после %s"
+
+#~ msgid " created before %s"
+#~ msgstr ", созданные до %s"
+
+#~ msgid " created between %(start_date)s and %(end_date)s"
+#~ msgstr ", созданные между %(start_date)s и %(end_date)s"
+
+#~ msgid "All reviews"
+#~ msgstr "Все отзывы"
+
+#~ msgid " with status matching '%s'"
+#~ msgstr ", со статусом, содержащим '%s'"
+
+#~ msgid " with keyword matching '%s'"
+#~ msgstr ", с ключевым словом, содержащим '%s'"
+
+#~ msgid " with customer name matching '%s'"
+#~ msgstr ", с именем клиента, содержащим '%s'"
+
+#~ msgid "Shipping dashboard"
+#~ msgstr "Панель доставки"
+
+#~ msgid "%d Row"
+#~ msgid_plural "%d Rows"
+#~ msgstr[0] "%d строка"
+#~ msgstr[1] "%d строки"
+#~ msgstr[2] "%d строки"
+#~ msgstr[3] "%d строк"
+
+#~ msgid "Users dashboard"
+#~ msgstr "Панель управления пользователями"
+
+#~ msgctxt "User's name"
+#~ msgid "Name"
+#~ msgstr "Имя"
+
+#~ msgid "%(main_filter)s %(email_filter)s %(name_filter)s"
+#~ msgstr "%(main_filter)s %(email_filter)s %(name_filter)s"
+
+#~ msgid "All users"
+#~ msgstr "Все пользователи"
+
+#~ msgid " with email matching '%s'"
+#~ msgstr "с email, содержащим '%s'"
+
+#~ msgid " with name matching '%s'"
+#~ msgstr ", с именем, содержащим '%s'"
+
+#~ msgid "Users' status successfully changed"
+#~ msgstr "Статус клиента успешно изменен"
+
+#~ msgid "A password reset email has been sent"
+#~ msgstr "Письмо для сброса пароля выслано"
+
+#~ msgid "All Alerts"
+#~ msgstr "Все Уведомления"
+
+#~ msgid " with customer email matching '%s'"
+#~ msgstr ", с email клиента, содержащим '%s'"
+
+#~ msgid "Product alert saved"
+#~ msgstr "Товарное уведомление сохранено"
+
+#~ msgid "Product alert deleted"
+#~ msgstr "Товарное уведомление удалено"
+
+#~ msgid "Vouchers dashboard"
+#~ msgstr "Панель купонов и сертификатов"
+
+#~ msgid "Start datetime"
+#~ msgstr "Дата начала"
+
+#~ msgid "End datetime"
+#~ msgstr "Дата окончания"
+
+#~ msgid "Usage"
+#~ msgstr "Использование"
+
+#~ msgid "Which products get a discount?"
+#~ msgstr "Какие товары получат скидку?"
+
+#~ msgid "Percentage off of products in range"
+#~ msgstr "Процентная скидка на товары из ассортимента"
+
+#~ msgid "Fixed amount off of products in range"
+#~ msgstr "Фиксированная скидка на товары из ассортимента"
+
+#~ msgid "Discount is a percentage off of the shipping cost"
+#~ msgstr "Процент скидки от стоимости доставки"
+
+#~ msgid "Discount is a fixed amount of the shipping cost"
+#~ msgstr "Фиксированная сумма скидки от стоимости доставки"
+
+#~ msgid "Get shipping for a fixed price"
+#~ msgstr "Получить доставку за фиксированную цену"
+
+#~ msgid "Discount type"
+#~ msgstr "Тип скидки"
+
+#~ msgid "Discount value"
+#~ msgstr "Значение скидки"
+
+#~ msgid "Exclusive offers cannot be combined on the same items"
+#~ msgstr "Эксклюзивные предложения не могут быть скомбинированы с такими же."
+
+#~ msgid "The name '%s' is already in use"
+#~ msgstr "Название '%s' уже используется"
+
+#~ msgid "The code '%s' is already in use"
+#~ msgstr "Код '%s' уже используется"
+
+#~ msgid "The start date must be before the end date"
+#~ msgstr "Дата начала должна быть ранее даты окончания"
+
+#~ msgid "Is Active?"
+#~ msgstr "Активный?"
+
+#~ msgid "In Voucherset?"
+#~ msgstr "В наборе купонов?"
+
+#~ msgid "%(main_filter)s %(name_filter)s %(code_filter)s"
+#~ msgstr "%(main_filter)s %(name_filter)s %(code_filter)s"
+
+#~ msgid "All vouchers"
+#~ msgstr "Все купоны"
+
+#~ msgid "with name matching '%s'"
+#~ msgstr "с назвнием, соответствующим '%s'"
+
+#~ msgid "with code '%s'"
+#~ msgstr "с кодом '%s'"
+
+#~ msgid "Active vouchers"
+#~ msgstr "Активные купоны"
+
+#~ msgid "Create voucher"
+#~ msgstr "Создать купон"
+
+#~ msgid "Offer for voucher '%s'"
+#~ msgstr "Предложение для купона '%s'"
+
+#~ msgid "Voucher created"
+#~ msgstr "Купон создан"
+
+#~ msgid "Voucher updated"
+#~ msgstr "Купон обновлён"
+
+#~ msgid "Voucher deleted"
+#~ msgstr "Купон удалён"
+
+#~ msgid "Create voucher set"
+#~ msgstr "Добавить набор купонов"
+
+#~ msgid "Voucher set created"
+#~ msgstr "Набор купонов создан"
+
+#~ msgid "Voucher sets"
+#~ msgstr "Наборы купонов"
+
+#~ msgid "This is displayed within the customer's basket"
+#~ msgstr "Это будет показано на странице корзины клиента"
+
+#~ msgid "This is displayed on the offer browsing page"
+#~ msgstr "Это будет показано на странице просмотра предложений"
+
+#~ msgid "Site offer - available to all users"
+#~ msgstr "Предложение сайта - доступно для всех пользователей"
+
+#~ msgid ""
+#~ "Voucher offer - only available after entering the appropriate voucher code"
+#~ msgstr "Предложение по купону - доступно только после ввода кода купона"
+
+#~ msgid "User offer - available to certain types of user"
+#~ msgstr ""
+#~ "Предложение пользователям - доступно определённым типам пользователей"
+
+#~ msgid ""
+#~ "Session offer - temporary offer, available for a user for the duration of "
+#~ "their session"
+#~ msgstr "Сессионное предложение - доступно пользователю на время его сессии"
+
+#~ msgid "Exclusive offer"
+#~ msgstr "Эксклюзивное предложение"
+
+#~ msgid "Condition"
+#~ msgstr "Условие"
+
+#~ msgid "Benefit"
+#~ msgstr "Выгода"
+
+#~ msgid "Priority"
+#~ msgstr "Приоритет"
+
+#~ msgid "The highest priority offers are applied first"
+#~ msgstr "Предложения с высшим приоритетом применяются первыми"
+
+#~ msgid ""
+#~ "Offers are active from the start date. Leave this empty if the offer has "
+#~ "no start date."
+#~ msgstr ""
+#~ "Предложения будут активны указанной с начальной даты. Оставьте это поле "
+#~ "пустым, если дата не нужна."
+
+#~ msgid ""
+#~ "Offers are active until the end date. Leave this empty if the offer has "
+#~ "no expiry date."
+#~ msgstr ""
+#~ "Предложения будут активны до указанной даты окончания периода. Оставьте "
+#~ "это поле пустым, если предложение не ограничено по времени."
+
+#~ msgid "Max global applications"
+#~ msgstr "Максимальное количество глобальных применений"
+
+#~ msgid "The number of times this offer can be used before it is unavailable"
+#~ msgstr ""
+#~ "Количество раз, которое это предложение может быть использовано, пока "
+#~ "станет недоступным"
+
+#~ msgid "Max user applications"
+#~ msgstr "Максимальное количество применений клиентом"
+
+#~ msgid "The number of times a single user can use this offer"
+#~ msgstr ""
+#~ "Количество раз, которое один клиент может использовать это предложение"
+
+#~ msgid "Max basket applications"
+#~ msgstr "Максимум на одну корзину"
+
+#~ msgid ""
+#~ "The number of times this offer can be applied to a basket (and order)"
+#~ msgstr ""
+#~ "Количество раз, которое это предложение может быть применено к корзине (и "
+#~ "к заказу)"
+
+#~ msgid "Max discount"
+#~ msgstr "Максимальная скидка"
+
+#~ msgid ""
+#~ "When an offer has given more discount to orders than this threshold, then "
+#~ "the offer becomes unavailable"
+#~ msgstr ""
+#~ "Если сумма предоставленной скидки превышает этот уровень, предложение "
+#~ "становится недействительным."
+
+#~ msgid "Total Discount"
+#~ msgstr "Общая скидка"
+
+#~ msgid "Number of applications"
+#~ msgstr "Количество использований"
+
+#~ msgid "Number of Orders"
+#~ msgstr "Количество заказов"
+
+#~ msgid "URL redirect (optional)"
+#~ msgstr "URL для перенаправления (опционально)"
+
+#~ msgid "Conditional offer"
+#~ msgstr "Условное предложение"
+
+#~ msgid "Conditional offers"
+#~ msgstr "Условные предложения"
+
+#~ msgid "End date should be later than start date"
+#~ msgstr "Дата окончания должна быть позже даты начала"
+
+#~ msgid "Offer is suspended"
+#~ msgstr "Предложение приостановлено"
+
+#~ msgid "Limited to %(total)d uses (%(remainder)d remaining)"
+#~ msgstr "Можно использовать %(total)d раз (%(remainder)d осталось)"
+
+#~ msgid "Limited to 1 use per user"
+#~ msgstr "Можно использовать 1 раз на клиента"
+
+#~ msgid "Limited to %(total)d uses per user"
+#~ msgstr "Можно использовать %(total)d раз на пользователя"
+
+#~ msgid "Limited to 1 use per basket"
+#~ msgstr "Можно использовать 1 раз на корзину"
+
+#~ msgid "Limited to %(total)d uses per basket"
+#~ msgstr "Можно использовать %(total)d раз на корзину"
+
+#~ msgid "Available between %(start)s and %(end)s"
+#~ msgstr "Доступно с %(start)s по %(end)s"
+
+#~ msgid "Available from %(start)s"
+#~ msgstr "Доступно с %(start)s"
+
+#~ msgid "Available until %(end)s"
+#~ msgstr "Доступно до %(end)s"
+
+#~ msgid "Limited to a cost of %(max)s"
+#~ msgstr "Ограничено суммой %(max)s"
+
+#~ msgid "Range"
+#~ msgstr "Ассортимент"
+
+#~ msgid "Discount is a percentage off of the product's value"
+#~ msgstr "Процент скидки от стоимости товаров"
+
+#~ msgid "Discount is a fixed amount off of the product's value"
+#~ msgstr "Фиксированная сумма скидки от стоимости товаров"
+
+#~ msgid "Discount is to give the cheapest product for free"
+#~ msgstr "Получить самый дешевый товар бесплатно"
+
+#~ msgid "Get the products that meet the condition for a fixed price"
+#~ msgstr "Получить товары, удовлетворяющие условию, по фиксированной цене"
+
+#~ msgid "Max Affected Items"
+#~ msgstr "Макс. количество позиций для применения"
+
+#~ msgid ""
+#~ "Set this to prevent the discount consuming all items within the range "
+#~ "that are in the basket."
+#~ msgstr ""
+#~ "Установите это, чтобы предотвратить применение скидки ко всем позициям в "
+#~ "ассортименте, которые находятся в корзине."
+
+#~ msgid "Custom class"
+#~ msgstr "Настраиваемый класс"
+
+#~ msgid "Benefits"
+#~ msgstr "Выгоды"
+
+#~ msgid "Multibuy benefits require a product range"
+#~ msgstr "Выгода за несколько покупок требует указания ассортимента"
+
+#~ msgid "Multibuy benefits don't require a value"
+#~ msgstr "Выгода за несколько покупок не требует значения"
+
+#~ msgid "Multibuy benefits don't require a 'max affected items' attribute"
+#~ msgstr ""
+#~ "Выгода за несколько покупок не требует указания атрибута 'максимум "
+#~ "добавленных позиций'"
+
+#~ msgid "Percentage benefits require a product range"
+#~ msgstr "Выгода в процентах требует указания ассортимента"
+
+#~ msgid "Percentage discount benefits require a value"
+#~ msgstr "Процентная скидка требует указания значения"
+
+#~ msgid "Percentage discount cannot be greater than 100"
+#~ msgstr "Скидка не может быть больше 100%"
+
+#~ msgid "A discount value is required"
+#~ msgstr "Обязательно нужно указать значение скидки "
+
+#~ msgid ""
+#~ "No range should be selected as this benefit does not apply to products"
+#~ msgstr ""
+#~ "Не нужно указывать ассортимент, так как эта выгода не действует на товары"
+
+#~ msgid "Shipping discounts don't require a 'max affected items' attribute"
+#~ msgstr ""
+#~ "Скидки на доставку не требуют указания атрибута 'максимум добавленных "
+#~ "позиций'"
+
+#~ msgid ""
+#~ "No range should be selected as the condition range will be used instead."
+#~ msgstr ""
+#~ "Не нужно выбирать обычный ассортимент, если вместо него будет "
+#~ "использоваться условный"
+
+#~ msgid "Fixed discount benefits require a product range"
+#~ msgstr "Выгоды по фиксированной скидке требуют указания ассортимента"
+
+#~ msgid "Fixed discount benefits require a value"
+#~ msgstr "Выгода по фиксированной скидке требует указания значения"
+
+#~ msgid "Depends on number of items in basket that are in condition range"
+#~ msgstr ""
+#~ "Зависит от количества товаров в корзине, удовлетворяющих ассортименту "
+#~ "условия"
+
+#~ msgid "Depends on value of items in basket that are in condition range"
+#~ msgstr ""
+#~ "Зависит от стоимости товаров в корзине, удовлетворяющих ассортименту "
+#~ "условия"
+
+#~ msgid ""
+#~ "Needs to contain a set number of DISTINCT items from the condition range"
+#~ msgstr ""
+#~ "Должно содержать заданное количество РАЗНЫХ товаров из ассортимента "
+#~ "условия"
+
+#~ msgid "Conditions"
+#~ msgstr "Условия"
+
+#~ msgid "Is public?"
+#~ msgstr "Общий?"
+
+#~ msgid "Public ranges have a customer-facing page"
+#~ msgstr ""
+#~ "У открытых ассортиментов должна быть страница с информацией для клиентов"
+
+#~ msgid "Includes all products?"
+#~ msgstr "Включает все товары?"
+
+#~ msgid "Included Products"
+#~ msgstr "Участвующие Товары"
+
+#~ msgid "Excluded Products"
+#~ msgstr "Исключенные Товары"
+
+#~ msgid "Included Categories"
+#~ msgstr "Участвующие Категории"
+
+#~ msgid "File Path"
+#~ msgstr "Путь Файла"
+
+#~ msgid "Size"
+#~ msgstr "Размер"
+
+#~ msgid "Uploaded By"
+#~ msgstr "Загружено "
+
+#~ msgid "Date Uploaded"
+#~ msgstr "Дата Загрузки"
+
+#~ msgid "Error Message"
+#~ msgstr "Сообщение об ошибке"
+
+#~ msgid "Date Processed"
+#~ msgstr "Дата Обработки"
+
+#~ msgid "Number of New SKUs"
+#~ msgstr "Количество новый кодов (SKU)"
+
+#~ msgid "Number of Unknown SKUs"
+#~ msgstr "Количество неизвестных кодов (SKU)"
+
+#~ msgid "Number of Duplicate SKUs"
+#~ msgstr "Количество повторяющихся кодов (SKU)"
+
+#~ msgid "Range Product Uploaded File"
+#~ msgstr "Загруженный файл для ассортимента товаров"
+
+#~ msgid "Range Product Uploaded Files"
+#~ msgstr "Файлы, загруженные для товарного ассортимента"
+
+#~ msgid "%(value)s%% discount on %(range)s"
+#~ msgstr "%(value)s%% скидка на %(range)s"
+
+#~ msgid "Percentage discount benefit"
+#~ msgstr "Выгода от скидки в процентах"
+
+#~ msgid "Percentage discount benefits"
+#~ msgstr "Выгоды от скидки в процентах"
+
+#~ msgid "%(value)s discount on %(range)s"
+#~ msgstr "%(value)s скидка на %(range)s"
+
+#~ msgid "Absolute discount benefit"
+#~ msgstr "Абсолютная выгода по скидке"
+
+#~ msgid "Absolute discount benefits"
+#~ msgstr "Абсолютные выгоды по скидке"
+
+#~ msgid "The products that meet the condition are sold for %(amount)s"
+#~ msgstr "Товары, удовлетворяющие условию, продаются за %(amount)s"
+
+#~ msgid "Fixed price benefit"
+#~ msgstr "Выгода от покупки по фиксированной цене"
+
+#~ msgid "Fixed price benefits"
+#~ msgstr "Выгоды от покупки по фиксированной цене"
+
+#~ msgid "Cheapest product from %(range)s is free"
+#~ msgstr "Самый дешевый товар из ассортимента %(range)s - бесплатно."
+
+#~ msgid "Multibuy discount benefit"
+#~ msgstr "Выгода по скидке за несколько покупок"
+
+#~ msgid "Multibuy discount benefits"
+#~ msgstr "Выгоды по скидке за несколько покупок"
+
+#~ msgid "%(amount)s off shipping cost"
+#~ msgstr "Сумма скидки на доставку %(amount)s"
+
+#~ msgid "Shipping absolute discount benefit"
+#~ msgstr "Выгода по абсолютной скидке на доставку"
+
+#~ msgid "Shipping absolute discount benefits"
+#~ msgstr "Выгоды по абсолютной скидке на доставку"
+
+#~ msgid "Get shipping for %(amount)s"
+#~ msgstr "Доставить за %(amount)s"
+
+#~ msgid "Fixed price shipping benefit"
+#~ msgstr "Выгода за доставку по фиксированной цене"
+
+#~ msgid "Fixed price shipping benefits"
+#~ msgstr "Выгоды за доставку по фиксированной цене"
+
+#~ msgid "%(value)s%% off of shipping cost"
+#~ msgstr "%(value)s%% от стоимости доставки"
+
+#~ msgid "Shipping percentage discount benefit"
+#~ msgstr "Выгода за доставку с процентной скидкой"
+
+#~ msgid "Shipping percentage discount benefits"
+#~ msgstr "Выгоды за доставку с процентной скидкой"
+
+#~ msgid "Basket includes %(count)d item(s) from %(range)s"
+#~ msgstr "Корзина содержит %(count)d шт. товара из ассортимента %(range)s"
+
+#~ msgid "Count condition"
+#~ msgstr "Количественное условие"
+
+#~ msgid "Count conditions"
+#~ msgstr "Количественные условия"
+
+#~ msgid "Buy %(delta)d more product from %(range)s"
+#~ msgid_plural "Buy %(delta)d more products from %(range)s"
+#~ msgstr[0] "Купите еще %(delta)d товар из ассортимента: %(range)s"
+#~ msgstr[1] "Купите еще %(delta)d товара из ассортимента: %(range)s"
+#~ msgstr[2] "Купите еще %(delta)d товаров из ассортимента: %(range)s"
+#~ msgstr[3] "Купите еще %(delta)d товаров из ассортимента: %(range)s"
+
+#~ msgid "Basket includes %(count)d distinct item(s) from %(range)s"
+#~ msgstr "Корзина содержит %(count)d различныхй товаров из %(range)s"
+
+#~ msgid "Coverage Condition"
+#~ msgstr "Условие разнообразия выбора"
+
+#~ msgid "Coverage Conditions"
+#~ msgstr "Условия разнообразия выбора"
+
+#~ msgid "Basket includes %(amount)s from %(range)s"
+#~ msgstr ""
+#~ "Корзина содержит товаров на сумму %(amount)s из ассортимента %(range)s"
+
+#~ msgid "Value condition"
+#~ msgstr "Условие стоимости"
+
+#~ msgid "Value conditions"
+#~ msgstr "Условия стоимости"
+
+#~ msgid "Spend %(value)s more from %(range)s"
+#~ msgstr "Потрачено %(value)s больше из %(range)s"
+
+#~ msgid "Offer"
+#~ msgstr "Предложение"
+
+#~ msgid "Total discount"
+#~ msgstr "Общая скидка"
+
+#~ msgid "Offer performance"
+#~ msgstr "Эффективность предложения"
+
+#~ msgid "Site"
+#~ msgstr "Сайт"
+
+#~ msgid "Billing Address"
+#~ msgstr "Адрес Плательщика"
+
+#~ msgid "Order total (inc. tax)"
+#~ msgstr "Всего (с НДС)"
+
+#~ msgid "Order total (excl. tax)"
+#~ msgstr "Всего (без НДС)"
+
+#~ msgid "Shipping charge (inc. tax)"
+#~ msgstr "Стоимость доставки (с НДС)"
+
+#~ msgid "Shipping charge (excl. tax)"
+#~ msgstr "Стоимость доставки (без НДС)"
+
+#~ msgid "Shipping Address"
+#~ msgstr "Адрес Доставки"
+
+#~ msgid "Shipping method"
+#~ msgstr "Способ доставки"
+
+#~ msgid "Guest email address"
+#~ msgstr "Адрес email гостя"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status for order %(number)s (current "
+#~ "status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s' - некорректный статус для заказа %(number)s (текущий "
+#~ "статус: '%(status)s')"
+
+#~ msgid "In progress"
+#~ msgstr "В процессе"
+
+#~ msgid "Note Type"
+#~ msgstr "Тип Заметки"
+
+#~ msgid "Message"
+#~ msgstr "Сообщение"
+
+#~ msgid "Order Note"
+#~ msgstr "Заметка Заказа"
+
+#~ msgid "Order Notes"
+#~ msgstr "Заметки Заказа"
+
+#~ msgid "Event Type"
+#~ msgstr "Тип События"
+
+#~ msgid "Communication Event"
+#~ msgstr "Событие Коммуникации"
+
+#~ msgid "Communication Events"
+#~ msgstr "Коммуникационные события"
+
+#~ msgid "'%(type)s' event for order #%(number)s"
+#~ msgstr "'%(type)s' события для заказа #%(number)s"
+
+#~ msgid "Partner name"
+#~ msgstr "Название партнера"
+
+#~ msgid "Partner reference"
+#~ msgstr "Ссылка на партнера"
+
+#~ msgid "This is the item number that the partner uses within their system"
+#~ msgstr "Это номер позиции, которую партнер использует в своей системе"
+
+#~ msgid "Partner Notes"
+#~ msgstr "Заметки партнера"
+
+#~ msgid "Stock record"
+#~ msgstr "Складская запись"
+
+#~ msgid "Price (inc. tax)"
+#~ msgstr "Цена (с НДС)"
+
+#~ msgid "Price (excl. tax)"
+#~ msgstr "Цена (без НДС)"
+
+#~ msgid "Price before discounts (inc. tax)"
+#~ msgstr "Цена до скидок (с НДС)"
+
+#~ msgid "Price before discounts (excl. tax)"
+#~ msgstr "Цена до скидок (без НДС)"
+
+#~ msgid "Unit Cost Price"
+#~ msgstr "Цена Единицы Товара"
+
+#~ msgid "Unit Price (inc. tax)"
+#~ msgstr "Цена Единицы (вкл. НДС)"
+
+#~ msgid "Unit Price (excl. tax)"
+#~ msgstr "Цена Единицы (без НДС)"
+
+#~ msgid "Unit Retail Price"
+#~ msgstr "Розничная цена за ед."
+
+#~ msgid "Estimated Dispatch Date"
+#~ msgstr "Примерная дата доставки"
+
+#~ msgid "Order Line"
+#~ msgstr "Строка Заказа"
+
+#~ msgid "<missing product>"
+#~ msgstr "<отсутствующий товар>"
+
+#~ msgid "Product '%(name)s', quantity '%(qty)s'"
+#~ msgstr "Товар '%(name)s', количество '%(qty)s'"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status (current status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s' - некорректный статус (текущий статус: '%(status)s')"
+
+#~ msgid "'%(title)s' is no longer available"
+#~ msgstr "'%(title)s' более недоступно"
+
+#~ msgid "Line Attribute"
+#~ msgstr "Атрибут строки"
+
+#~ msgid "Line Attributes"
+#~ msgstr "Атрибуты строк"
+
+#~ msgid "Shiping (inc. tax)"
+#~ msgstr "Доставка (с НДС)"
+
+#~ msgid "Shipping (excl. tax)"
+#~ msgstr "Доставка (без НДС)"
+
+#~ msgid "Line Price"
+#~ msgstr "Цена позиции"
+
+#~ msgid "Line Prices"
+#~ msgstr "Цены позиций"
+
+#~ msgid "Line '%(number)s' (quantity %(qty)d) price %(price)s"
+#~ msgstr "Строка '%(number)s' (количество %(qty)d) цена %(price)s"
+
+#~ msgid "Payment Event Type"
+#~ msgstr "Тип Платежного События"
+
+#~ msgid "Payment Event Types"
+#~ msgstr "Типы Платежных Событий"
+
+#~ msgid "Amount"
+#~ msgstr "Сумма"
+
+#~ msgid "Reference"
+#~ msgstr "Заметки"
+
+#~ msgid "Lines"
+#~ msgstr "Строки"
+
+#~ msgid "Payment Event"
+#~ msgstr "Платежное Событие"
+
+#~ msgid "Payment Events"
+#~ msgstr "Платежные События"
+
+#~ msgid "Payment event for order %s"
+#~ msgstr "Платежное событие для заказа %s"
+
+#~ msgid "Event"
+#~ msgstr "Событие"
+
+#~ msgid "Payment Event Quantity"
+#~ msgstr "Количество Платежного События"
+
+#~ msgid "Payment Event Quantities"
+#~ msgstr "Количества Платежного События"
+
+#~ msgid "Event notes"
+#~ msgstr "Заметки события"
+
+#~ msgid "This could be the dispatch reference, or a tracking number"
+#~ msgstr "Это может быть номер отправления или код для отслеживания"
+
+#~ msgid "Shipping Event"
+#~ msgstr "Событие Доставки"
+
+#~ msgid "Shipping Events"
+#~ msgstr "События доставки"
+
+#~ msgid "Order #%(number)s, type %(type)s"
+#~ msgstr "Заказ #%(number)s, тип %(type)s"
+
+#~ msgid "Shipping Event Quantity"
+#~ msgstr "Количество события доставки"
+
+#~ msgid "Shipping Event Quantities"
+#~ msgstr "Количества события доставки"
+
+#~ msgid "%(product)s - quantity %(qty)d"
+#~ msgstr "%(product)s - количество %(qty)d"
+
+#~ msgid "Shipping Event Type"
+#~ msgstr "Тип события доставки"
+
+#~ msgid "Shipping Event Types"
+#~ msgstr "Типы событий доставки"
+
+#~ msgid "Discount category"
+#~ msgstr "Категория скидки"
+
+#~ msgid "Offer ID"
+#~ msgstr "ИД Предложения"
+
+#~ msgid "Voucher ID"
+#~ msgstr "Купон ID"
+
+#~ msgid "Frequency"
+#~ msgstr "Частота"
+
+#~ msgid "Order Discount"
+#~ msgstr "Скидка Заказа"
+
+#~ msgid "Order Discounts"
+#~ msgstr "Скидки Заказа"
+
+#~ msgid "Discount of %(amount)r from order %(order)s"
+#~ msgstr "Скидка %(amount)r для заказа %(order)s"
+
+#~ msgid "The selected quantity for line #%(line_id)s is too large"
+#~ msgstr "Выбранное количество в строке #%(line_id)s слишком велико"
+
+#~ msgid "Total incl. tax"
+#~ msgstr "Всего с НДС"
+
+#~ msgid "Date placed"
+#~ msgstr "Дата размещения"
+
+#~ msgid "Orders placed"
+#~ msgstr "Заказа размещены"
+
+#~ msgid "Empty baskets cannot be submitted"
+#~ msgstr "Пустые корзины не могут быть оформлены"
+
+#~ msgid "There is already an order with number %s"
+#~ msgstr "Уже есть заказ с номером %s"
+
+#~ msgid "Fulfillment partner"
+#~ msgstr "Партнер-поставщик"
+
+#~ msgid "Fulfillment partners"
+#~ msgstr "Партнеры-поставщики"
+
+#~ msgid "Price (retail)"
+#~ msgstr "Розничная цена"
+
+#~ msgid "Cost Price"
+#~ msgstr "Себестоимость"
+
+#~ msgid "Number in stock"
+#~ msgstr "Количество на складе"
+
+#~ msgid "Number allocated"
+#~ msgstr "Зарезервированное количество"
+
+#~ msgid "Low Stock Threshold"
+#~ msgstr "Минимальный остаток"
+
+#~ msgid "Invalid stock consumption request"
+#~ msgstr "Неправильный запрос потребностей склада"
+
+#~ msgid "Stock Record"
+#~ msgstr "Складская Запись"
+
+#~ msgid "Threshold"
+#~ msgstr "Предел"
+
+#~ msgid "Open"
+#~ msgstr "Открыто"
+
+#~ msgid "Date Closed"
+#~ msgstr "Дата закрытия"
+
+#~ msgid "<stockalert for \"%(stock)s\" status %(status)s>"
+#~ msgstr "<уведомление о поступлении \"%(stock)s\" статус %(status)s>"
+
+#~ msgid "Stock alert"
+#~ msgstr "Складское уведомление"
+
+#~ msgid "Stock alerts"
+#~ msgstr "Складские уведомления"
+
+#~ msgid "unavailable"
+#~ msgstr "недоступно"
+
+#~ msgid "Unavailable"
+#~ msgstr "Недоступно"
+
+#~ msgid "Available"
+#~ msgstr "Доступно"
+
+#~ msgid "no stock available"
+#~ msgstr "нет в наличии"
+
+#~ msgid "a maximum of %(max)d can be bought"
+#~ msgstr "можно купить только %(max)d шт."
+
+#~ msgid "In stock"
+#~ msgstr "На складе"
+
+#~ msgid "In stock (%d available)"
+#~ msgstr "На складе (доступно %d)"
+
+#~ msgid "No file path supplied"
+#~ msgstr "Не указан путь к файлу"
+
+#~ msgid "%s does not exist"
+#~ msgstr "%s не существует"
+
+#~ msgid "%s is not a file"
+#~ msgstr "%s не является файлом"
+
+#~ msgid "%s is not readable"
+#~ msgstr "%s не читаемый"
+
+#~ msgid "Source"
+#~ msgstr "Источник"
+
+#~ msgid "%(type)s of %(amount).2f"
+#~ msgstr "%(type)s из %(amount).2f"
+
+#~ msgid "Transaction"
+#~ msgstr "Транзакция"
+
+#~ msgid "Transactions"
+#~ msgstr "Транзакции"
+
+#~ msgid "Source Type"
+#~ msgstr "Тип Источника"
+
+#~ msgid "Amount Allocated"
+#~ msgstr "Сумма резерва"
+
+#~ msgid "Amount Debited"
+#~ msgstr "Сумма прихода"
+
+#~ msgid "Amount Refunded"
+#~ msgstr "Сумма возврата"
+
+#~ msgid "Label"
+#~ msgstr "Метка"
+
+#~ msgid "Sources"
+#~ msgstr "Источники"
+
+#~ msgid "Allocation of %(amount)s from type %(type)s"
+#~ msgstr "Сумма %(amount)s начислена через %(type)s"
+
+#~ msgid " (reference: %s)"
+#~ msgstr " (ссылка: %s)"
+
+#~ msgid "This is used within forms to identify this source type"
+#~ msgstr "Используется в формах для определения этого типа источника"
+
+#~ msgid "Source Types"
+#~ msgstr "Типы Источников"
+
+#~ msgid "Card Type"
+#~ msgstr "Тип Карты"
+
+#~ msgid "Number"
+#~ msgstr "Номер"
+
+#~ msgid "Expiry Date"
+#~ msgstr "Дата окончания"
+
+#~ msgid "Partner Reference"
+#~ msgstr "Партнерская Заметка"
+
+#~ msgid "%(card_type)s %(number)s (Expires: %(expiry)s)"
+#~ msgstr "%(card_type)s %(number)s (действительна по: %(expiry)s)"
+
+#~ msgid "Bankcard"
+#~ msgstr "Банковская карта"
+
+#~ msgid "Bankcards"
+#~ msgstr "Банковские карты"
+
+#~ msgid "Payment"
+#~ msgstr "Оплата"
+
+#~ msgid "Card number"
+#~ msgstr "Номер карты"
+
+#~ msgid "Please enter a valid credit card number."
+#~ msgstr "Пожалуйста введите корректный номер кредитной карты."
+
+#~ msgid "%s cards are not accepted."
+#~ msgstr "%s карты не принимаются к оплате."
+
+#~ msgid "Enter a valid month."
+#~ msgstr "Введите корректный месяц."
+
+#~ msgid "Enter a valid year."
+#~ msgstr "Введите корректный год."
+
+#~ msgid "Valid to"
+#~ msgstr "Действительна по"
+
+#~ msgid "The expiration date you entered is in the past."
+#~ msgstr "Вы ввели дату окончания, которая уже прошла"
+
+#~ msgid "Valid from"
+#~ msgstr "Действительна с"
+
+#~ msgid "The starting date you entered is in the future."
+#~ msgstr "Дата начала еще не наступила"
+
+#~ msgid "CCV number"
+#~ msgstr "номер CVV "
+
+#~ msgid "Please enter a 3 or 4 digit number"
+#~ msgstr "Пожалуйста, введите 3 или 4 цифры"
+
+#~ msgid ""
+#~ "This is the 3 or 4 digit security number on the back of your bankcard"
+#~ msgstr ""
+#~ "Это 3 или 5 цифры номера безопасности на обратной стороне вашей "
+#~ "банковской карты"
+
+#~ msgid "American Express cards use a 4 digit security code"
+#~ msgstr "Карты Америкэн Экспресс используют четырехзначный код безопасности"
+
+#~ msgid "Promotions"
+#~ msgstr "Акции"
+
+#~ msgid "Display Order"
+#~ msgstr "Порядок Отображения"
+
+#~ msgid "Clicks"
+#~ msgstr "Клики"
+
+#~ msgid "Linked Promotion"
+#~ msgstr "Связанная реклама"
+
+#~ msgid "Linked Promotions"
+#~ msgstr "Связанные рекламы"
+
+#~ msgid "Page URL"
+#~ msgstr "URL страницы"
+
+#~ msgid "Page Promotion"
+#~ msgstr "Реклама Страницы"
+
+#~ msgid "Page Promotions"
+#~ msgstr "Акции на страницы"
+
+#~ msgid "Filter"
+#~ msgstr "Фильтр"
+
+#~ msgid "Keyword Promotion"
+#~ msgstr "Реклама по ключевому слову"
+
+#~ msgid "Keyword Promotions"
+#~ msgstr "Акции на ключевые слова"
+
+#~ msgid "Keywords"
+#~ msgstr "Ключевые слова"
+
+#~ msgid "Promotion"
+#~ msgstr "Реклама"
+
+#~ msgid "Display type"
+#~ msgstr "Тип отображения"
+
+#~ msgid ""
+#~ "This can be used to have different types of HTML blocks (eg different "
+#~ "widths)"
+#~ msgstr ""
+#~ "Может быть использовано для различных типов блоков HTML (например, с "
+#~ "разной шириной)"
+
+#~ msgid "Raw HTML"
+#~ msgstr "HTML код"
+
+#~ msgid "Link URL"
+#~ msgstr "URL ссылки"
+
+#~ msgid "This is where this promotion links to"
+#~ msgstr "Куда ведет ссылка с этой рекламы"
+
+#~ msgid ""
+#~ "Choose the Image content blocks that this block will use. (You may need "
+#~ "to create some first)."
+#~ msgstr ""
+#~ "Выберите блоки содержимого типа Изображение, которые этот блок будет "
+#~ "использовать (для начала возможно придется создать несколько изображений)"
+
+#~ msgid "Multi Image"
+#~ msgstr "Несколько изображений"
+
+#~ msgid "Multi Images"
+#~ msgstr "Несколько изображений"
+
+#~ msgid "Single product"
+#~ msgstr "Один товар"
+
+#~ msgctxt "Promotion product list title"
+#~ msgid "Title"
+#~ msgstr "Название"
+
+#~ msgid "Link text"
+#~ msgstr "Текст ссылки"
+
+#~ msgid "Product list"
+#~ msgstr "Список товаров"
+
+#~ msgid "Product lists"
+#~ msgstr "Списки товаров"
+
+#~ msgid "Hand Picked Product List"
+#~ msgstr "Список товаров, отобранных вручную"
+
+#~ msgid "Hand Picked Product Lists"
+#~ msgstr "Списки товаров, отобранных вручную"
+
+#~ msgid "List"
+#~ msgstr "Список"
+
+#~ msgid "Ordered product"
+#~ msgstr "Заказанные товары"
+
+#~ msgid "Bestselling products"
+#~ msgstr "Лидеры продаж"
+
+#~ msgid "Recently added products"
+#~ msgstr "Недавно добавленные товары"
+
+#~ msgid "Method"
+#~ msgstr "Метод"
+
+#~ msgid "Number of Products"
+#~ msgstr "Количество Товаров"
+
+#~ msgid "Automatic product list"
+#~ msgstr "Автоматический список товаров"
+
+#~ msgid "Automatic product lists"
+#~ msgstr "Автоматические списки товаров"
+
+#~ msgid "Tabbed Block"
+#~ msgstr "Вкладки"
+
+#~ msgid "Ordered Product List"
+#~ msgstr "Список заказанных товаров"
+
+#~ msgid "Ordered Product Lists"
+#~ msgstr "Списки заказанных товаров"
+
+#~ msgctxt "Tabbed block title"
+#~ msgid "Title"
+#~ msgstr "Название"
+
+#~ msgid "Tabbed Blocks"
+#~ msgstr "Вкладки"
+
+#~ msgid "Search"
+#~ msgstr "Поиск"
+
+#~ msgid "Relevancy"
+#~ msgstr "по релевантности"
+
+#~ msgid "Customer rating"
+#~ msgstr "по рейтингу "
+
+#~ msgid "Newest"
+#~ msgstr "по дате, сначала новые"
+
+#~ msgid "Price high to low"
+#~ msgstr "по цене, сначала дорогие"
+
+#~ msgid "Price low to high"
+#~ msgstr "по цене, сначала дешевые"
+
+#~ msgid "Title A to Z"
+#~ msgstr "по названию от А до Я"
+
+#~ msgid "Title Z to A"
+#~ msgstr "по названию от Я до А"
+
+#~ msgid "Page is not 'last', nor can it be converted to an int."
+#~ msgstr ""
+#~ "Страница либо не 'last', либо невозможно конвертировать номер страницы в "
+#~ "целое число."
+
+#~ msgid "Shipping Method"
+#~ msgstr "Способ доставки"
+
+#~ msgid "Shipping Methods"
+#~ msgstr "Способы доставки"
+
+#~ msgid "Price per order"
+#~ msgstr "Цена за заказ"
+
+#~ msgid "Price per item"
+#~ msgstr "Цена за доставку штуки товара"
+
+#~ msgid "Free Shipping"
+#~ msgstr "Бесплатная доставка"
+
+#~ msgid "Order and Item Charge"
+#~ msgstr "Наценка за доставку заказа и позиции"
+
+#~ msgid "Order and Item Charges"
+#~ msgstr "Наценки за доставку заказа и позиции"
+
+#~ msgid "Default Weight"
+#~ msgstr "Вес по умолчанию"
+
+#~ msgid "Default product weight in kg when no weight attribute is defined"
+#~ msgstr ""
+#~ "Вес товара по умолчанию в кг, в случае, когда весовой атрибут не задан"
+
+#~ msgid "Weight-based Shipping Method"
+#~ msgstr "Доставка по весу"
+
+#~ msgid "Weight-based Shipping Methods"
+#~ msgstr "Способы доставки по весу"
+
+#~ msgid "Upper Limit"
+#~ msgstr "Верхний Предел"
+
+#~ msgid ""
+#~ "Enter upper limit of this weight band in kg. The lower limit will be "
+#~ "determined by the other weight bands."
+#~ msgstr ""
+#~ "Введите верхний предел этой весовой категории в кг. Нижний предел будет "
+#~ "определен в других весовых категориях."
+
+#~ msgid "Charge"
+#~ msgstr "Стоимость"
+
+#~ msgid "Weight Band"
+#~ msgstr "Весовая категория"
+
+#~ msgid "Weight Bands"
+#~ msgstr "Весовые категории"
+
+#~ msgid "Charge for weights up to %s kg"
+#~ msgstr "Плата за вес до %s кг."
+
+#~ msgid "Shipping"
+#~ msgstr "Доставка"
+
+#~ msgid "Free shipping"
+#~ msgstr "Бесплатная доставка"
+
+#~ msgid "No shipping required"
+#~ msgstr "Доставка не требуется"
+
+#~ msgid "Fixed price shipping"
+#~ msgstr "Доставка с фиксированной ценой"
+
+#~ msgid "You need to define some shipping methods"
+#~ msgstr "Вы должны определить методы доставки"
+
+#~ msgid "Number of vouchers"
+#~ msgstr "Количество купонов"
+
+#~ msgid "Length of Code"
+#~ msgstr "Длина кода"
+
+#~ msgid "VoucherSet"
+#~ msgstr "Набор купонов"
+
+#~ msgid "VoucherSets"
+#~ msgstr "Наборы купонов"
+
+#~ msgid ""
+#~ "This will be shown in the checkout and basket once the voucher is entered"
+#~ msgstr ""
+#~ "Будет показано пользователю в корзине и при расчете после ввода "
+#~ "информации о купоне"
+
+#~ msgid "Case insensitive / No spaces allowed"
+#~ msgstr "Регистр неважен / Пробелы недопустимы"
+
+#~ msgid "Can be used once by one customer"
+#~ msgstr "Может быть использован однажды только одним клиентом."
+
+#~ msgid "Can be used multiple times by multiple customers"
+#~ msgstr "Может быть использован множество раз разными клиентами"
+
+#~ msgid "Can only be used once per customer"
+#~ msgstr "Может быть использован по одному разу на клиента."
+
+#~ msgid "Times added to basket"
+#~ msgstr "Сколько раз добавлен в корзину"
+
+#~ msgid "Times on orders"
+#~ msgstr "Сколько раз использован при заказах"
+
+#~ msgid "Voucher"
+#~ msgstr "Купон"
+
+#~ msgid "This voucher has already been used"
+#~ msgstr "Этот купон уже был использован"
+
+#~ msgid "This voucher is only available to signed in users"
+#~ msgstr ""
+#~ "Этот купон может быть использован только зарегистрированными "
+#~ "пользователями"
+
+#~ msgid "You have already used this voucher in a previous order"
+#~ msgstr "Вы уже использовали этот купон в предыдущем заказе"
+
+#~ msgid "Voucher Application"
+#~ msgstr "Применение купона"
+
+#~ msgid "Voucher Applications"
+#~ msgstr "Применение купонов"
+
+#~ msgid "'%(voucher)s' used by '%(user)s'"
+#~ msgstr "'%(voucher)s' использован '%(user)s'"
+
+#~ msgid "Added to a basket"
+#~ msgstr "Добавлено в корзину"
+
+#~ msgid "Used in an order"
+#~ msgstr "Использовано в заказе"
+
+#~ msgid "Voucher performance"
+#~ msgstr "Эффективность купона"
+
+#~ msgid "Default"
+#~ msgstr "По умолчанию"
+
+#~ msgid "Private - Only the owner can see the wish list"
+#~ msgstr "Частный - только владелец может видеть список желаемых покупок"
+
+#~ msgid ""
+#~ "Shared - Only the owner and people with access to the obfuscated link can "
+#~ "see the wish list"
+#~ msgstr ""
+#~ "Поделиться - только владелец и люди, обладающие секретной ссылкой, смогут "
+#~ "увидеть список"
+
+#~ msgid "Public - Everybody can see the wish list"
+#~ msgstr "Общее - все смогут увидеть, что вы хотите купить"
+
+#~ msgid "Visibility"
+#~ msgstr "Доступность"
+
+#~ msgid "Wish List"
+#~ msgstr "Список желаемого"
+
+#~ msgid "Wish list line"
+#~ msgstr "Строка в списке желаемого"
+
+#~ msgid "Wishlists"
+#~ msgstr "Списки желаемого"
+
+#~ msgid "The URL \"%s\" does not exist"
+#~ msgstr "URL \"%s\" не существует"
+
+#~ msgid "Specified page already exists!"
+#~ msgstr "Указанная страница уже существует!"
+
+#~ msgid "This field is required"
+#~ msgstr "Это поле обязательно к заполнению"
+
+#~ msgid "This field is invalid as its value is forbidden"
+#~ msgstr "Это поле неверно, т.к. введено запрещеное значение."
+
+#~ msgid "This is not a valid international phone format."
+#~ msgstr "Неправильный номер телефона в международном формате."
+
+#~ msgid "This is not a valid local phone format for %s."
+#~ msgstr "Неверный формат местного номера телефона: %s."
+
+#~ msgid "This is not a valid local or international phone format."
+#~ msgstr "Неверный местный или международный формат номера телефона."
+
+#~ msgid "Check for products that are back in stock and send out alerts"
+#~ msgstr "Проверять поступления товаров на склад и высылать уведомления"
+
+#~ msgid "Permission denied!"
+#~ msgstr "Доступ запрещен!"
+
+#~ msgid "We're sorry but you are not permitted to access this page."
+#~ msgstr "Нам жаль, но у вас нет прав для доступа к этой странице."
+
+#~ msgid "Page not found"
+#~ msgstr "Страница не найдена"
+
+#~ msgid "Page not found!"
+#~ msgstr "Страница не найдена!"
+
+#~ msgid "We're sorry but the page you are looking for can't be found."
+#~ msgstr "Нам жаль, но страница, которую вы ищете, не существует."
+
+#~ msgid "Server error!"
+#~ msgstr "Ошибка сервера!"
+
+#~ msgid ""
+#~ "We're sorry but something went terribly wrong and we've been unable to "
+#~ "generate the page you requested."
+#~ msgstr ""
+#~ "Мы сожалеем, но что-то ужасным образом пошло не так, и мы не смогли "
+#~ "сгенерировать страницу, которую вы запросили."
+
+#~ msgid ""
+#~ "This incident has been logged and will be addressed by an engineer as "
+#~ "soon as possible."
+#~ msgstr ""
+#~ "Этот инцедент был нами отмечен и в ближайшее время будет передан на "
+#~ "рассмотрение в службу технической поддержки."
+
+#~ msgid "Home"
+#~ msgstr "Начало"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(title)s</strong> has been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    <strong>%(title)s</strong> был добавлен в вашу корзину.\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(quantity)s</strong> copies of <strong>%(title)s</strong>\n"
+#~ "    have been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    <strong>%(quantity)s</strong> штук <strong>%(title)s</strong>\n"
+#~ "    было добавлено в вашу корзину.\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been moved back to your basket.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> возвращено в вашу корзину.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been saved for later\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> сохранено на потом\n"
+
+#~ msgid "Your basket is now empty"
+#~ msgstr "Ваша корзина теперь пуста"
+
+#~ msgid ""
+#~ "\n"
+#~ "            Your basket total is now <strong>%(total)s</strong>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "            Стоимость корзины теперь составляет <strong>%(total)s</"
+#~ "strong>\n"
+#~ "            "
+
+#~ msgid "View basket"
+#~ msgstr "Посмотреть корзину"
+
+#~ msgid "Checkout now"
+#~ msgstr "Оформить"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket now qualifies for the \n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Ваша корзина удовлетворяет условиям\n"
+#~ "предложения <strong>%(name)s</strong>.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket no longer qualifies for the\n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Ваша корзина больше неудовлетворяет условиям\n"
+#~ "предложения <strong>%(name)s</strong>.\n"
+
+#~ msgid "Important messages about items in your basket"
+#~ msgstr "Важные сообщения о товарах в Вашей корзине"
+
+#~ msgid "You could be missing out on offers!"
+#~ msgstr "Вы можете пропустить акции!"
+
+#~ msgid ""
+#~ "\n"
+#~ "                <div class=\"warning\">%(message)s to qualify for the <a "
+#~ "href=\"%(url)s\">%(offer_name)s</a> special offer</div>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                <div class=\"warning\">%(message)s, чтобы получить "
+#~ "специальное предложение <a href=\"%(url)s\">%(offer_name)s</a></div>\n"
+#~ "            "
+
+#~ msgid "Items to buy now"
+#~ msgstr "Товары в корзине"
+
+#~ msgid "Price"
+#~ msgstr "Цена"
+
+#~ msgid "Total"
+#~ msgstr "Всего"
+
+#~ msgid "Updating..."
+#~ msgstr "Обновление..."
+
+#~ msgid "Update"
+#~ msgstr "Обновить"
+
+#~ msgid "Remove"
+#~ msgstr "Удалить"
+
+#~ msgid "Save for later"
+#~ msgstr "Отложить"
+
+#~ msgid "Voucher/promo code"
+#~ msgstr "Код купона на скидку"
+
+#~ msgid "I have a voucher code..."
+#~ msgstr "У меня есть код скидки"
+
+#~ msgid "Adding..."
+#~ msgstr "Добавление..."
+
+#~ msgid "Add voucher"
+#~ msgstr "Добавить купон"
+
+#~ msgid "or"
+#~ msgstr "или"
+
+#~ msgid "cancel"
+#~ msgstr "отмена"
+
+#~ msgid "Totals"
+#~ msgstr "Всего"
+
+#~ msgid "Proceed to checkout"
+#~ msgstr "Перейти к оформлению"
+
+#~ msgid "Your basket is empty."
+#~ msgstr "Ваша корзина пуста"
+
+#~ msgid "Continue shopping"
+#~ msgstr "Продолжить покупки"
+
+#~ msgid "Items to buy later"
+#~ msgstr "Отложенные товары"
+
+#~ msgid "Items"
+#~ msgstr "Позиции"
+
+#~ msgid "Move to basket"
+#~ msgstr "Переместить в корзину"
+
+#~ msgid "Qty"
+#~ msgstr "К-во"
+
+#~ msgid "Total:"
+#~ msgstr "Всего"
+
+#~ msgid "Basket total (before discounts)"
+#~ msgstr "Всего в корзине (без скидок)"
+
+#~ msgid "Discount"
+#~ msgstr "Скидка"
+
+#~ msgid "Basket total (after discounts)"
+#~ msgstr "Всего в корзине (со скидками)"
+
+#~ msgid "Basket total"
+#~ msgstr "Всего в корзине"
+
+#~ msgid "Alternative shipping methods can be chosen during checkout"
+#~ msgstr ""
+#~ "Альтернативные способы доставки будут доступны при оформлении заказа"
+
+#~ msgid "Shipping total (before discounts)"
+#~ msgstr "Всего за доставку (без скидок)"
+
+#~ msgid "Shipping total (after discounts)"
+#~ msgstr "Всего за доставку (со скидками)"
+
+#~ msgid "Tax"
+#~ msgstr "Налог"
+
+#~ msgid "Post order actions"
+#~ msgstr "Действия после заказа"
+
+#~ msgid "These will be applied once your order is placed."
+#~ msgstr "Будут выполнены сразу после размещения заказа."
+
+#~ msgid "Taxes will be added during checkout."
+#~ msgstr "Налоги будут добавлены при расчете."
+
+#~ msgid "Show results for"
+#~ msgstr "Показать результаты для"
+
+#~ msgid "Refine by"
+#~ msgstr "Уточнить"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> результат - показан "
+#~ "с <strong>%(start)s</strong> по <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> результата - "
+#~ "показаны с <strong>%(start)s</strong> по <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr[2] ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> результата - "
+#~ "показаны с <strong>%(start)s</strong> по <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr[3] ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> результатов - "
+#~ "показаны с <strong>%(start)s</strong> по <strong>%(end)s</strong>.\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> результат.\n"
+#~ "                "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> результата.\n"
+#~ "                "
+#~ msgstr[2] ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> результатов.\n"
+#~ "                "
+#~ msgstr[3] ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> результат.\n"
+#~ "                "
+
+#~ msgid "<strong>0</strong> results."
+#~ msgstr "<strong>0</strong> результатов."
+
+#~ msgid "No products found."
+#~ msgstr "Товаров не найдено"
+
+#~ msgid "Edit this category"
+#~ msgstr "Редактировать эту категорию"
+
+#~ msgid "Edit this product"
+#~ msgstr "Редактировать этот товар"
+
+#~ msgid "Product Description"
+#~ msgstr "Описание товара"
+
+#~ msgid "Product Information"
+#~ msgstr "Информация о товаре"
+
+#~ msgid "Product Type"
+#~ msgstr "Тип товара"
+
+#~ msgid "Price (incl. tax)"
+#~ msgstr "Цена (с НДС)"
+
+#~ msgid "Availability"
+#~ msgstr "Доступность"
+
+#~ msgid "Number of reviews"
+#~ msgstr "Количество отзывов"
+
+#~ msgid "See all reviews"
+#~ msgstr "Просмотреть все отзывы"
+
+#~ msgid "Customer Reviews"
+#~ msgstr "Отзывы Клиентов"
+
+#~ msgid ""
+#~ "This product does not have any reviews yet -\n"
+#~ "                            <a href=\"%(add_review_url)s#addreview\">be "
+#~ "the first to write one</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "Этот продукт пока не имеет отзывов -\n"
+#~ "                            <a href=\"%(add_review_url)s#addreview"
+#~ "\">будьте первым, кто напишет отзыв</a>.\n"
+#~ "                        "
+
+#~ msgid "This product does not have any reviews yet"
+#~ msgstr "У этого товара пока еще нет отзывов"
+
+#~ msgid "Recommended items"
+#~ msgstr "Рекомендуемые товары"
+
+#~ msgid "Add to basket"
+#~ msgstr "Добавить в корзину"
+
+#~ msgid "You have an active stock alert for this product."
+#~ msgstr "У вас есть складское уведомление для этого товара."
+
+#~ msgid "You can get an email alert when this product is back in stock."
+#~ msgstr ""
+#~ "Вы получите уведомление по email, когда этот товар появится на складе."
+
+#~ msgid "Notify me"
+#~ msgstr "Сообщить мне"
+
+#~ msgid "Add to wish list"
+#~ msgstr "Добавить к списку желаемого"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                            Add to '%(name)s' wish list\n"
+#~ "                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "                                            Добавить в список '%(name)s'\n"
+#~ "                                        "
+
+#~ msgid "Create a new wishlist"
+#~ msgstr "Создать новый список желаемого"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <span class=\"pull-left\">Product is in <a href="
+#~ "\"%(url)s\">'%(name)s'</a> wishlist.</span>\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    <span class=\"pull-left\">Товар в списке <a href="
+#~ "\"%(url)s\">'%(name)s'</a>.</span>\n"
+#~ "                "
+
+#~ msgid "Removing..."
+#~ msgstr "Удаление..."
+
+#~ msgid "Please login to add products to a wish list."
+#~ msgstr ""
+#~ "Пожалуйста, войдите на сайт под своим именем, чтобы добавлять товары к "
+#~ "списку желаемого."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Reviewed by you on %(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                Вы написали этот отзыв %(review_date)s\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Reviewed by <strong>%(name)s</strong> on "
+#~ "%(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Отзыв <strong>%(name)s</strong> на %(review_date)s\n"
+#~ "                "
+
+#~ msgid "Is this review helpful?"
+#~ msgstr "Этот отзыв полезен?"
+
+#~ msgid "Yes"
+#~ msgstr "Да"
+
+#~ msgid "No"
+#~ msgstr "Нет"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customer "
+#~ "found this useful\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customers "
+#~ "found this useful\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> из %(num_votes)s клиентов "
+#~ "сочли это полезным\n"
+#~ "            "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> из %(num_votes)s клиентов "
+#~ "сочли это полезным\n"
+#~ "            "
+#~ msgstr[2] ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> из %(num_votes)s клиентов "
+#~ "сочли это полезным\n"
+#~ "            "
+#~ msgstr[3] ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> из %(num_votes)s клиентов "
+#~ "сочли это полезным\n"
+#~ "            "
+
+#~ msgid "This review has no votes."
+#~ msgstr "За этот обзор пока никто не проголосовал."
+
+#~ msgid "Free"
+#~ msgstr "Бесплатно"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer review\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer reviews\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                    %(num_reviews)s отзыв покупателя\n"
+#~ "                "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "                    %(num_reviews)s отзыва покупателей\n"
+#~ "                "
+#~ msgstr[2] ""
+#~ "\n"
+#~ "                    %(num_reviews)s отзывов покупателей\n"
+#~ "                "
+#~ msgstr[3] ""
+#~ "\n"
+#~ "                    %(num_reviews)s отзыв покупателя\n"
+#~ "                "
+
+#~ msgid "Write a review"
+#~ msgstr "Написать отзыв"
+
+#~ msgid "Customer reviews"
+#~ msgstr "Отзывы клиента"
+
+#~ msgid "Leave a product review"
+#~ msgstr "Оставить отзыв о товаре"
+
+#~ msgid "Saving..."
+#~ msgstr "Сохранение..."
+
+#~ msgid "Save review"
+#~ msgstr "Сохранить отзыв"
+
+#~ msgid "This product does not have any reviews yet."
+#~ msgstr "У этого товара пока еще нет отзывов."
+
+#~ msgid "Change"
+#~ msgstr "Изменить"
+
+#~ msgid "Contact"
+#~ msgstr "Контакт"
+
+#~ msgid "Phone"
+#~ msgstr "Телефон"
+
+#~ msgid "Payment details to go here"
+#~ msgstr "Здесь должны быть детали платежа"
+
+#~ msgid "Edit order contents"
+#~ msgstr "Редактировать состав заказа"
+
+#~ msgid "Order contents"
+#~ msgstr "Состав заказа"
+
+#~ msgid "Item"
+#~ msgstr "Позиция"
+
+#~ msgid "Checkout gateway"
+#~ msgstr "Платёжная система"
+
+#~ msgid "Who are you?"
+#~ msgstr "Кто Вы?"
+
+#~ msgid "Get a password reminder"
+#~ msgstr "Восстановить пароль"
+
+#~ msgid "Continuing..."
+#~ msgstr "Продолжаем..."
+
+#~ msgid "Continue"
+#~ msgstr "Продолжить"
+
+#~ msgid "1. Shipping address"
+#~ msgstr "1. Адрес доставки"
+
+#~ msgid "2. Shipping method"
+#~ msgstr "2. Способ доставки"
+
+#~ msgid "3. Payment"
+#~ msgstr "3. Оплата"
+
+#~ msgid "4. Preview"
+#~ msgstr "4. Предпросмотр"
+
+#~ msgid "5. Confirmation"
+#~ msgstr "5. Подтверждение"
+
+#~ msgid "Payment details"
+#~ msgstr "Детали платежа"
+
+#~ msgid "Enter payment details"
+#~ msgstr "Введите параметры платежа"
+
+#~ msgid ""
+#~ "This page needs implementing within your project.  You may want to use "
+#~ "one of Oscar's payment gateway libraries:"
+#~ msgstr ""
+#~ "Эта страница должна быть переделана под ваш проект. Вы так же можете "
+#~ "воспользоваться одной из наших платежных библиотек:"
+
+#~ msgid "Order preview"
+#~ msgstr "Предварительный просмотр заказа"
+
+#~ msgid "Preview order"
+#~ msgstr "Просмотреть заказ"
+
+#~ msgid "Place order"
+#~ msgstr "Разместить заказ"
+
+#~ msgid "Where should we ship to?"
+#~ msgstr "Куда доставить заказ?"
+
+#~ msgid "An address from your address book?"
+#~ msgstr "Адрес из адресной книги?"
+
+#~ msgid "Ship to your default shipping address"
+#~ msgstr "Доставить на адрес по умолчанию"
+
+#~ msgid "Ship to this address"
+#~ msgstr "Доставить заказ на этот адрес"
+
+#~ msgid "Delete"
+#~ msgstr "Удалить"
+
+#~ msgid "Or a new address?"
+#~ msgstr "Или новый адрес?"
+
+#~ msgid "return to basket"
+#~ msgstr "вернуться к корзине"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                This includes a discount of <strong>"
+#~ "%(amount)s</strong> as\n"
+#~ "                                your basket qualifies for the <strong>"
+#~ "%(name)s</strong> offer.\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "                                Включая скидку в <strong>%(amount)s</"
+#~ "strong>, так как содержимое вашего заказа попадает под действие "
+#~ "предложения: <strong>%(name)s</strong>.\n"
+#~ "                            "
+
+#~ msgid "Select option"
+#~ msgstr "Выберите опцию"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s: confirmation\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        Подтверждение заказа %(number)s\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "        Your order has been placed and a confirmation email has been sent "
+#~ "- your order number is\n"
+#~ "        <strong>%(number)s</strong>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "        Ваш заказ был размещен и выслано сообщение с подтверждением - "
+#~ "номер вашего заказа\n"
+#~ "        <strong>%(number)s</strong>.\n"
+#~ "        "
+
+#~ msgid ""
+#~ "Please make a note of this reference or print this page and quote it in "
+#~ "any communication with us regarding your order."
+#~ msgstr ""
+#~ "Пожалуйста, скопируйте содержимое этой страницы или распечатайте её для "
+#~ "обращений к нам, связанных с этим заказом."
+
+#~ msgid "No shipping address required."
+#~ msgstr "Адрес доставки не требуется."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s (reference: %(reference)s)\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "                                Запрос суммы %(amount)s из платежного "
+#~ "источника %(type)s (ссылка: %(reference)s)\n"
+#~ "                            "
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "                                Запрос суммы %(amount)s из платежного "
+#~ "источника %(type)s\n"
+#~ "                            "
+
+#~ msgid "No payment was required for this order."
+#~ msgstr "Для этого заказа не требуется оплата."
+
+#~ msgid "Items purchased"
+#~ msgstr "Товаров куплено"
+
+#~ msgid ""
+#~ "\n"
+#~ "                            Estimated dispatch: <strong>%(date)s</"
+#~ "strong>\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "                            Ожидаемая дата доставки: <strong>%(date)s</"
+#~ "strong>\n"
+#~ "                        "
+
+#~ msgid "Shipping charge (before discounts)"
+#~ msgstr "Стоимость доставки (до скидок)"
+
+#~ msgid "Shipping charge (after discounts)"
+#~ msgstr "Стоимость доставки (после скидок)"
+
+#~ msgid "Shipping charge"
+#~ msgstr "Стоимость доставки"
+
+#~ msgid "Order tax"
+#~ msgstr "Налог на заказ"
+
+#~ msgid "Tracking your order"
+#~ msgstr "Отслеживание заказа"
+
+#~ msgid "You can track the status of your order"
+#~ msgstr "Вы можете отслеживать состояние вашего заказа"
+
+#~ msgid "View order status"
+#~ msgstr "Проверить статус заказа"
+
+#~ msgid "Print this page"
+#~ msgstr "Напечатать эту страницу"
+
+#~ msgid "Are you sure you want to delete this address?"
+#~ msgstr "Вы действительно хотите удалить этот адрес?"
+
+#~ msgid "Yes!"
+#~ msgstr "Да!"
+
+#~ msgid "Save"
+#~ msgstr "Сохранить"
+
+#~ msgid "Address book"
+#~ msgstr "Адресная книга"
+
+#~ msgid "Deleting..."
+#~ msgstr "Удаление..."
+
+#~ msgid "Default shipping address"
+#~ msgstr "Адрес доставки по умолчанию"
+
+#~ msgid "Default billing address"
+#~ msgstr "Платёжный адрес по умолчанию"
+
+#~ msgid "Edit"
+#~ msgstr "Редактировать"
+
+#~ msgid "Set as default shipping address"
+#~ msgstr "Установить как адрес доставки по умолчанию"
+
+#~ msgid "Set as default billing address"
+#~ msgstr "Установить как платежный адрес по умолчанию"
+
+#~ msgid "There are no addresses in your address book."
+#~ msgstr "В адресной книге нет ни одного адреса"
+
+#~ msgid "You do not have any active alerts for out-of-stock products."
+#~ msgstr "У вас нет активных уведомлений о поступлении товаров на склад."
+
+#~ msgid "Cancel"
+#~ msgstr "Отмена"
+
+#~ msgid ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> is back in stock\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> поступил на склад\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "%(title)s is back in stock\n"
+#~ msgstr ""
+#~ "\n"
+#~ "%(title)s снова на складе\n"
+
+#~ msgid "Order #%(number)s"
+#~ msgstr "Заказ №%(number)s"
+
+#~ msgid "Contact number"
+#~ msgstr "Контактный номер"
+
+#~ msgid "Notes"
+#~ msgstr "Заметки"
+
+#~ msgid "Estimated dispatch date"
+#~ msgstr "Примерная дата доставки"
+
+#~ msgid "Line price excl. tax"
+#~ msgstr "Цена без НДС"
+
+#~ msgid "Line price incl. tax"
+#~ msgstr "Цена с НДС"
+
+#~ msgid "Basket total (inc. tax)"
+#~ msgstr "Всего в корзине (с НДС)"
+
+#~ msgid "Email history"
+#~ msgstr "История почтовых сообщений"
+
+#~ msgid "Date sent"
+#~ msgstr "Дата отправки"
+
+#~ msgid "No emails found"
+#~ msgstr "Адресов не найдено"
+
+#~ msgid "Thanks for using our site!"
+#~ msgstr "Спасибо за использование нашего сайта!"
+
+#~ msgid "The %(name)s team"
+#~ msgstr "Коллектив %(name)s"
+
+#~ msgid ""
+#~ "You're receiving this email because your email address has been changed "
+#~ "to <strong>%(email)s</strong>."
+#~ msgstr ""
+#~ "Вы получили это письмо, потому то ваш адрес был изменен на <strong>"
+#~ "%(email)s</strong>."
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately "
+#~ "and correct your email address:"
+#~ msgstr ""
+#~ "Если это были не вы, пожалуйста, немедленно измените ваш пароль и "
+#~ "исправьте адрес вашего email:"
+
+#~ msgid ""
+#~ "If it was you who changed the email address, you can ignore this email."
+#~ msgstr ""
+#~ "Если это вы изменили адрес email, то вы можете проигнорировать это письмо."
+
+#~ msgid ""
+#~ "You're receiving this email because your email address has been changed "
+#~ "to %(email)s."
+#~ msgstr ""
+#~ "Вы получили это письмо потому, что адрес вашего email был изменен на "
+#~ "%(email)s."
+
+#~ msgid "Your email address has changed at %(site_name)s."
+#~ msgstr "Ваш адрес email был изменен на %(site_name)s."
+
+#~ msgid "Hello,"
+#~ msgstr "Здравствуйте,"
+
+#~ msgid ""
+#~ "We are pleased to confirm your order %(order_number)s has been received "
+#~ "and\n"
+#~ "        will be processed shortly."
+#~ msgstr ""
+#~ "Мы рады подтвердить, что Ваш заказ №%(order_number)s создан и принят в "
+#~ "обработку. "
+
+#~ msgid "Your order contains:"
+#~ msgstr "Ваш заказ содержит:"
+
+#~ msgid "Basket total:"
+#~ msgstr "Всего в корзине:"
+
+#~ msgid "Shipping:"
+#~ msgstr "Доставка:"
+
+#~ msgid "Order Total:"
+#~ msgstr "Всего:"
+
+#~ msgid "Shipping address:"
+#~ msgstr "Адрес доставки:"
+
+#~ msgid ""
+#~ "You can view the status of this order by clicking <a href=\"%(status_url)s"
+#~ "\" title=\"order status\">here</a>"
+#~ msgstr ""
+#~ "Вы можете посмотреть статус заказа <a href=\"%(status_url)s\" title="
+#~ "\"order status\">здесь</a>"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "We are pleased to confirm your order %(order_number)s has been received "
+#~ "and\n"
+#~ "will be processed shortly."
+#~ msgstr ""
+#~ "Здравствуйте,\n"
+#~ "\n"
+#~ "Мы рады подтвердить, что Ваш заказ №%(order_number)s создан\n"
+#~ "и принят в обработку. "
+
+#~ msgid "quantity:"
+#~ msgstr "количество:"
+
+#~ msgid "price:"
+#~ msgstr "цена:"
+
+#~ msgid ""
+#~ "You can view the status of this order at the below URL:\n"
+#~ "%(status_url)s"
+#~ msgstr ""
+#~ "Вы можете посмотреть статус заказа по указанному URL:\n"
+#~ "%(status_url)s"
+
+#~ msgid "The team"
+#~ msgstr "Команда"
+
+#~ msgid "Confirmation of order %(number)s"
+#~ msgstr "Подтверждение заказа №%(number)s"
+
+#~ msgid ""
+#~ "You're receiving this e-mail because your password has been changed at "
+#~ "%(name)s."
+#~ msgstr ""
+#~ "Вы получили это письмо, потому что ваш пароль на сайте %(name)s был "
+#~ "изменен."
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately:"
+#~ msgstr "Если это были не вы, пожалуйста, немедленно поменяйте ваш пароль:"
+
+#~ msgid "Otherwise, you can ignore this email."
+#~ msgstr "В противном случае, вы можете проигнорировать это письмо."
+
+#~ msgid ""
+#~ "\n"
+#~ "You're receiving this email because your password has been changed at "
+#~ "%(name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Вы получили это письмо потому, что ваш пароль был изменен на %(name)s.\n"
+
+#~ msgid "Your password changed at %(site_name)s."
+#~ msgstr "Ваш пароль изменен на %(site_name)s."
+
+#~ msgid ""
+#~ "You're receiving this e-mail because you requested a password reset for "
+#~ "your user account at %(name)s."
+#~ msgstr ""
+#~ "Вы получили это письмо, так как вы запросили сброс пароля для вашего "
+#~ "аккауна %(name)s."
+
+#~ msgid "Please go to the following page and choose a new password:"
+#~ msgstr "Пожалуйста, выберите новый пароль на следующей странице:"
+
+#~ msgid "Resetting your password at %(site_name)s."
+#~ msgstr "Изменение вашего пароля на %(site_name)s."
+
+#~ msgid "Dear %(name)s,"
+#~ msgstr "Уважаемый %(name)s,"
+
+#~ msgid ""
+#~ "\n"
+#~ "            We are happy to inform you that our product '%(title)s' is "
+#~ "back in stock:\n"
+#~ "            http://%(site)s%(path)s\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "           Мы рады вам сообщить, что наш товар '%(title)s' снова на "
+#~ "складе:\n"
+#~ "            http://%(site)s%(path)s\n"
+#~ "        "
+
+#~ msgid ""
+#~ "\n"
+#~ "                Beware that the amount of items in stock is limited. Be "
+#~ "quick or someone might get there first.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Помните, что количество на складе ограничено. Будьте быстрее или кто-"
+#~ "нибудь сможет заполучить это первым."
+
+#~ msgid ""
+#~ "\n"
+#~ "            With this email we have disabled your alert automatically and "
+#~ "you will not\n"
+#~ "            receive any further email regarding this product.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "Этим письмом мы подтвеждаем отключение автоматического оповещения и "
+#~ "отныне вы более не будете получать письма, относящиеся к этому товару."
+
+#~ msgid ""
+#~ "\n"
+#~ "We are happy to inform you that our product '%(title)s' is back in "
+#~ "stock:\n"
+#~ "http://%(site)s%(path)s\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Мы счастливы сообщить вам, что наш товар '%(title)s' снова на складе:\n"
+#~ "http://%(site)s%(path)s\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "Beware that the amount of items in stock is limited. Be quick or someone "
+#~ "might get there first.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Помните, что количество на складе ограничено. Будьте быстрее или кто-"
+#~ "нибудь сможет заполучить это первым.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "With this email we have disabled your alert automatically and you will "
+#~ "not\n"
+#~ "receive any further email regarding this product.\n"
+#~ "\n"
+#~ "Thanks for your interest,\n"
+#~ "The %(site_name)s Team\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Этим письмом мы подтвеждаем отключение автоматического оповещения и "
+#~ "отныне вы более не будете получать письма, относящиеся к этому товару.\n"
+#~ "\n"
+#~ "Благодарим за проявленный интерес,\n"
+#~ "администрация %(site_name)s \n"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "Somebody (hopefully you) has requested an email alert when\n"
+#~ "'%(title)s' is back in stock.  Please click the following link\n"
+#~ "to confirm:\n"
+#~ "http://%(domain)s%(confirm_path)s\n"
+#~ "\n"
+#~ "You can cancel this alert at any time by clicking the following link:\n"
+#~ "http://%(domain)s%(cancel_path)s\n"
+#~ "\n"
+#~ "Thanks for your interest,\n"
+#~ "The %(site)s Team\n"
+#~ msgstr ""
+#~ "Здравствуйте,\n"
+#~ "\n"
+#~ "Кто-то (надеемся это были Вы) запросил Email уведомление о поступлении "
+#~ "товара '%(title)s'.  Пожалуйста, для подтверждения перейдите по ссылке:\n"
+#~ "http://%(domain)s%(confirm_path)s\n"
+#~ "\n"
+#~ "Вы можете в любой момент отменить уведомление, перейдя по ссылке:\n"
+#~ "http://%(domain)s%(cancel_path)s\n"
+#~ "\n"
+#~ "Благодарим за проявленный интерес,\n"
+#~ "Команда %(site)s\n"
+
+#~ msgid "Confirmation required for stock alert"
+#~ msgstr "Для складского уведомления требуется подтверждение"
+
+#~ msgid "%(title)s is back in stock"
+#~ msgstr "%(title)s снова на складе"
+
+#~ msgid "Thank you for registering."
+#~ msgstr "Спасибо за регистрацию!"
+
+#~ msgid "Products you recently viewed"
+#~ msgstr "Недавно Вы смотрели эти товары"
+
+#~ msgid "Log In"
+#~ msgstr "Войти"
+
+#~ msgid "I've forgotten my password"
+#~ msgstr "Я забыл пароль"
+
+#~ msgid "Logging in..."
+#~ msgstr "Входим..."
+
+#~ msgid "Register"
+#~ msgstr "Зарегистрироваться"
+
+#~ msgid "Registering..."
+#~ msgstr "Регистрация..."
+
+#~ msgid "Notifications inbox"
+#~ msgstr "Входящие уведомления"
+
+#~ msgid "Sender"
+#~ msgstr "Отправитель"
+
+#~ msgid "Return to notifications inbox"
+#~ msgstr "Вернуться к входящим уведомлениям"
+
+#~ msgctxt "noun"
+#~ msgid "Archive"
+#~ msgstr "Архив"
+
+#~ msgid "View"
+#~ msgstr "Просмотр"
+
+#~ msgctxt "verb"
+#~ msgid "Archive"
+#~ msgstr "Архив"
+
+#~ msgid "With selected items:"
+#~ msgstr "С выбранными объектами:"
+
+#~ msgid "Archiving..."
+#~ msgstr "Архивирование..."
+
+#~ msgid "There are no notifications to display."
+#~ msgstr "Нет уведомлений."
+
+#~ msgid "Order history"
+#~ msgstr "История заказов"
+
+#~ msgid "Dispatch date"
+#~ msgstr "Дата отправки"
+
+#~ msgid "Re-ordering..."
+#~ msgstr "Повтор заказа..."
+
+#~ msgid "Re-order"
+#~ msgstr "Повторить заказ"
+
+#~ msgid "Not available anymore"
+#~ msgstr "Уже не доступно"
+
+#~ msgid "Basket total (excl. discounts)"
+#~ msgstr "Стоимость корзины (без скидок)"
+
+#~ msgid "Basket total (inc. discounts)"
+#~ msgstr "Стоимость корзины (со скидками)"
+
+#~ msgid "Shipping total (excl. discounts)"
+#~ msgstr "Стоимость доставки (без скидок)"
+
+#~ msgid "Shipping total (inc. discounts)"
+#~ msgstr "Стоимость доставки (со скидками)"
+
+#~ msgid "Shipping total"
+#~ msgstr "Всего доставка"
+
+#~ msgid "Re-order all items"
+#~ msgstr "Перезаказать все позиции"
+
+#~ msgid "Contact Number"
+#~ msgstr "Контактный номер"
+
+#~ msgid "Shipping Notes"
+#~ msgstr "Заметки по доставке"
+
+#~ msgid "Filtering..."
+#~ msgstr "Фильтруем..."
+
+#~ msgid "Filter results"
+#~ msgstr "Отфильтрованные результаты"
+
+#~ msgid "Reset"
+#~ msgstr "Сброс"
+
+#~ msgid "Total inc tax"
+#~ msgstr "Всего с НДС"
+
+#~ msgid "No orders match your search."
+#~ msgstr "Нет заказов, соответствующих вашему запросу."
+
+#~ msgid "You haven't placed any orders."
+#~ msgstr "Вы не сделали пока ни одного заказа"
+
+#~ msgid "Change password"
+#~ msgstr "Изменить пароль"
+
+#~ msgid "Edit profile"
+#~ msgstr "Редактировать профиль"
+
+#~ msgid "Please confirm your password to delete your profile."
+#~ msgstr "Пожалуйста, подтвердите ваш пароль, чтобы удалить профиль."
+
+#~ msgid "Warning"
+#~ msgstr "Внимание"
+
+#~ msgid ""
+#~ "\n"
+#~ "                This will delete all information about you from the "
+#~ "site.  Deleting your profile cannot be\n"
+#~ "                undone.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Этим действием вы удаляете всю информацию о вас на этом сайте. Удаление "
+#~ "профиля не может быть отменено."
+
+#~ msgid "Delete?"
+#~ msgstr "Удалить?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                Вы уверены, что хотите удалить %(name)s?\n"
+#~ "            "
+
+#~ msgid "Remove product"
+#~ msgstr "Удалить товар"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(product_name)s from "
+#~ "wish list %(wishlist_name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                Вы точно хотите удалить товар %(product_name)s из списка "
+#~ "%(wishlist_name)s?\n"
+#~ "            "
+
+#~ msgid "Action"
+#~ msgstr "Действие"
+
+#~ msgid "View product"
+#~ msgstr "Просмотр товара"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                            Move to "
+#~ "'%(name)s' wish list\n"
+#~ "                                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "                                                            Отправить в "
+#~ "список '%(name)s'\n"
+#~ "                                                        "
+
+#~ msgid "Update quantities"
+#~ msgstr "Обновить количества"
+
+#~ msgid "Your wish list is empty."
+#~ msgstr "Вы пока ничего не добавили в этот список."
+
+#~ msgid "Create"
+#~ msgstr "Создать"
+
+#~ msgid "What should your new wish list be called?"
+#~ msgstr "Как бы вы назвали новый список желаемого?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    After your wishlist is created, <strong>%(title)s</"
+#~ "strong> will be added.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    После создания списка в него добавится <strong>"
+#~ "%(title)s</strong>.\n"
+#~ "                "
+
+#~ msgid "Number of products"
+#~ msgstr "Количество товаров"
+
+#~ msgid "Wish list settings"
+#~ msgstr "Настройки списка желаемого"
+
+#~ msgid "You don't have any wish lists yet."
+#~ msgstr "У вас пока нет ни одного списка желаемых покупок."
+
+#~ msgid "Create Attribute Option Group"
+#~ msgstr "Добавить группу атрибутов-опций"
+
+#~ msgid "Attribute Option Group"
+#~ msgstr "Группа атрибутов-опций"
+
+#~ msgid "Delete Attribute Option Group?"
+#~ msgstr "Удалить группу опций?"
+
+#~ msgid ""
+#~ "Please make sure all Product Attributes are assigned to another Attribute "
+#~ "Option Group before deletion."
+#~ msgstr ""
+#~ "Пожалуйста, перед удалением убедитесь, что все атрибуты товаров назначены "
+#~ "в другую группу опций."
+
+#~ msgid "Delete Attribute Option Group"
+#~ msgstr "Удалить группу опций "
+
+#~ msgid ""
+#~ "Delete Attribute Option Group <strong>%(name)s</strong> - are you sure?"
+#~ msgstr ""
+#~ "Вы уверены, что хотите удалить группу опций <strong>%(name)s</strong>?"
+
+#~ msgid "Sections"
+#~ msgstr "Секции"
+
+#~ msgid "Attribute Option Group details"
+#~ msgstr "Детальная информация о группе опций"
+
+#~ msgid "Attribute Options"
+#~ msgstr "Атрибуты-опции"
+
+#~ msgid "Attribute Option Groups"
+#~ msgstr "Группы опций атрибутов"
+
+#~ msgid "Create new Attribute Option Group"
+#~ msgstr "Добавить новую группу опций"
+
+#~ msgid "No Attribute Option Groups found."
+#~ msgstr "Не найдено ни одной группы опций."
+
+#~ msgid "Edit Attribute Option Group"
+#~ msgstr "Редактировать группу опций"
+
+#~ msgid "Delete category?"
+#~ msgstr "Удалить категорию?"
+
+#~ msgid "Delete category"
+#~ msgstr "Удалить категорию"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <p>Delete category <strong>%(name)s</strong> - are you sure?</"
+#~ "p>\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "            <p>Удаление категории <strong>%(name)s</strong>. Вы уверены?</"
+#~ "p>\n"
+#~ "        "
+
+#~ msgid "Create new category"
+#~ msgstr "Создать категорию"
+
+#~ msgid "You are editing:"
+#~ msgstr "Вы редактируете:"
+
+#~ msgid "There are no categories."
+#~ msgstr "Категорий нет."
+
+#~ msgid "Edit category"
+#~ msgstr "Редактировать категорию"
+
+#~ msgid "Add child category"
+#~ msgstr "Добавить подкатегорию"
+
+#~ msgid "Edit children"
+#~ msgstr "Редактировать потомков"
+
+#~ msgid "View on site"
+#~ msgstr "Смотреть на сайте"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Создан вариант '%(name)s'.\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Создан вариант товара '%(parent_name)s'.\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Обновлен вариант '%(name)s'.\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated a variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Обновлен вариант товара '%(parent_name)s'.\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                Created product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                Создан товар '%(name)s'.\n"
+#~ "            "
+
+#~ msgid ""
+#~ "\n"
+#~ "                Updated product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                Обновлен товар '%(name)s'.\n"
+#~ "            "
+
+#~ msgid "Edit again"
+#~ msgstr "Редактировать снова"
+
+#~ msgid "View it on the site"
+#~ msgstr "Смотреть на сайте"
+
+#~ msgid "Delete product type?"
+#~ msgstr "Удалить тип товара?"
+
+#~ msgid ""
+#~ "Please make sure all products are assigned to another type before "
+#~ "deletion."
+#~ msgstr ""
+#~ "Пожалуйста, перед удалением удостоверьтесь, что всем товарам назначен "
+#~ "другой тип."
+
+#~ msgid "Delete product type"
+#~ msgstr "Удалить тип товара"
+
+#~ msgid "Delete product type <strong>%(name)s</strong> - are you sure?"
+#~ msgstr "Удаление типа товара <strong>%(name)s</strong>. Вы уверены?"
+
+#~ msgid "Create product type"
+#~ msgstr "Создать тип товара"
+
+#~ msgid "Product Class details"
+#~ msgstr "Информация о типе товара"
+
+#~ msgid "Create new product type"
+#~ msgstr "Создать новый тип товара"
+
+#~ msgid "Product types"
+#~ msgstr "Типы товара"
+
+#~ msgid "Requires shipping"
+#~ msgstr "Требует доставки"
+
+#~ msgid "Track stock?"
+#~ msgstr "Отслеживать склад?"
+
+#~ msgid "Edit product type"
+#~ msgstr "Редактировать тип товара"
+
+#~ msgid "There are no product types."
+#~ msgstr "Типов товара пока нет."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product variant <strong>%(title)s</strong> - "
+#~ "are you sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Удалить вариант товара <strong>%(title)s</strong> - "
+#~ "вы уверены?\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product <strong>%(title)s</strong> - are you "
+#~ "sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Удалить товар <strong>%(title)s</strong> - вы "
+#~ "уверены?\n"
+#~ "                "
+
+#~ msgid "This will also delete the following child products:"
+#~ msgstr "Так же удалятся следующие варианты продукта:"
+
+#~ msgid "Create new product"
+#~ msgstr "Создать новый товар"
+
+#~ msgid "New Product"
+#~ msgstr "Новый товар"
+
+#~ msgid "Search Products"
+#~ msgstr "Поиск товаров"
+
+#~ msgid "Searching..."
+#~ msgstr "Ищем..."
+
+#~ msgid ""
+#~ "\n"
+#~ "                            You are currently editing a product variant "
+#~ "of\n"
+#~ "                            <a href=\"%(parent_url)s\">%(title)s</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "                            В данный момент вы редактируете вариант "
+#~ "товара\n"
+#~ "                            <a href=\"%(parent_url)s\">%(title)s</a>.\n"
+#~ "                        "
+
+#~ msgid "Product details"
+#~ msgstr "Подробно о товаре"
+
+#~ msgid "Images"
+#~ msgstr "Изображения"
+
+#~ msgid "Stock and pricing"
+#~ msgstr "Цена и наличие"
+
+#~ msgid "Upselling"
+#~ msgstr "Апсейл"
+
+#~ msgid "Product Type:"
+#~ msgstr "Тип Товара:"
+
+#~ msgid "Upload, change or remove images"
+#~ msgstr "Закачать, изменить или удалить изображения"
+
+#~ msgid "SKU"
+#~ msgstr "КСУ"
+
+#~ msgid "Num in stock"
+#~ msgstr "Кол-во на складе"
+
+#~ msgid "Num allocated"
+#~ msgstr "Кол-во зарезервировано"
+
+#~ msgid "Low stock threshold"
+#~ msgstr "Минимальный остаток"
+
+#~ msgid "Cost price"
+#~ msgstr "Себестоимость"
+
+#~ msgid "Price (excl tax)"
+#~ msgstr "Цена (без налогов)"
+
+#~ msgid "Retail price"
+#~ msgstr "Розничная цена"
+
+#~ msgid "Add variant"
+#~ msgstr "Добавить вариант"
+
+#~ msgid "This product does not have any variants."
+#~ msgstr "У этого товара нет ни одного варианта."
+
+#~ msgid "One can't add variants to this product at this point."
+#~ msgstr "На данном этапе нельзя добавить варианты к этому товару."
+
+#~ msgid "This is likely because this product still has stock records."
+#~ msgstr ""
+#~ "Возможно из-за того, что у этого товара все еще присутствуют складские "
+#~ "записи."
+
+#~ msgid "Save and add another variant"
+#~ msgstr "Сохранить и добавить еще вариант"
+
+#~ msgid "Save and continue editing"
+#~ msgstr "Сохранить и продолжить редактирование"
+
+#~ msgid "All"
+#~ msgstr "Все"
+
+#~ msgid "Current available stock"
+#~ msgstr "Текущий доступный склад"
+
+#~ msgid "Date alert raised"
+#~ msgstr "Дата оповещения"
+
+#~ msgid "No stock alerts found."
+#~ msgstr "Складские уведомления не найдены."
+
+#~ msgid "Preview"
+#~ msgstr "Просмотреть"
+
+#~ msgid "Edit email"
+#~ msgstr "Редактировать письмо"
+
+#~ msgid "Email content"
+#~ msgstr "Содержимое письма"
+
+#~ msgid "These fields are rendered using Django's template system."
+#~ msgstr "Эти поля создаются при помощи системы шаблонов Django"
+
+#~ msgid "You can use the following variables:"
+#~ msgstr "Вы можете использовать следующие переменные:"
+
+#~ msgid "The full name of the user (if they have one)"
+#~ msgstr "Полное имя пользователя (если есть)"
+
+#~ msgid "The user's email address"
+#~ msgstr "Адрес email клиента"
+
+#~ msgid "The name of the site (eg example.com)"
+#~ msgstr "Название сайта (например, example.com)"
+
+#~ msgid "View a preview of this email using order:"
+#~ msgstr "Просмотреть это письмо, используя заказ:"
+
+#~ msgid "View preview"
+#~ msgstr "Предпросмотр"
+
+#~ msgid "or send a preview to:"
+#~ msgstr "или отправить тестовое письмо на:"
+
+#~ msgid "Sending..."
+#~ msgstr "Отправка..."
+
+#~ msgid "Send preview email"
+#~ msgstr "Отправить тестовый email"
+
+#~ msgid "Body text"
+#~ msgstr "Текст сообщения"
+
+#~ msgid "There are no defined emails to edit."
+#~ msgstr "Нет писем для редактирования."
+
+#~ msgid "Your Store Statistics"
+#~ msgstr "Статистика магазина"
+
+#~ msgid "Total Orders"
+#~ msgstr "Всего заказов"
+
+#~ msgid "New Customers"
+#~ msgstr "Новых клиентов"
+
+#~ msgid "Total Customers"
+#~ msgstr "Всего клиентов"
+
+#~ msgid "Total Products"
+#~ msgstr "Всего товаров"
+
+#~ msgid "Latest Orders (last 24 hours)"
+#~ msgstr "Последние заказы (за сутки)"
+
+#~ msgid "Orders - Last 24 Hours"
+#~ msgstr "Заказы (последние сутки)"
+
+#~ msgid "Total orders"
+#~ msgstr "Всего заказов"
+
+#~ msgid "Total lines"
+#~ msgstr "Всего позиций"
+
+#~ msgid "Total revenue"
+#~ msgstr "Всего доход"
+
+#~ msgid "Average order costs"
+#~ msgstr "Средний чек"
+
+#~ msgid "Manage"
+#~ msgstr "Управление"
+
+#~ msgid "Orders - All Time"
+#~ msgstr "Заказы - за всё время"
+
+#~ msgid "Total <em>open</em> baskets"
+#~ msgstr "Всего <em>открытых</em> корзин"
+
+#~ msgid "Total customers"
+#~ msgstr "Всего клиентов"
+
+#~ msgid "New customers"
+#~ msgstr "Новых клиентов"
+
+#~ msgid "View Stock Alerts"
+#~ msgstr "Просмотреть складские уведомления"
+
+#~ msgid "Catalogue and stock"
+#~ msgstr "Каталог и склад"
+
+#~ msgid "Total products"
+#~ msgstr "Всего товаров"
+
+#~ msgid "<em>Open</em> stock alerts"
+#~ msgstr "<em>Открытые</em> складские уведомления"
+
+#~ msgid "<em>Closed</em> stock alerts"
+#~ msgstr "<em>Закрытые</em> складские уведомления"
+
+#~ msgid "Offers, vouchers and promotions"
+#~ msgstr "Предложения, купоны, акции"
+
+#~ msgid "Active <em>Site</em> Offers"
+#~ msgstr "Действующие предложения <em>Сайта</em>"
+
+#~ msgid "Active <em>Vouchers</em>"
+#~ msgstr "Действующие <em>Купоны</em>"
+
+#~ msgid "Welcome"
+#~ msgstr "Добро пожаловать"
+
+#~ msgid "Return to site"
+#~ msgstr "На сайт"
+
+#~ msgid "Log out"
+#~ msgstr "Выход"
+
+#~ msgid ""
+#~ "Please enter a correct username and password. Note that both fields may "
+#~ "be case-sensitive."
+#~ msgstr ""
+#~ "Пожалуйста, введите правильные имя пользователя и пароль. Регистр букв "
+#~ "может иметь значение в обоих случаях."
+
+#~ msgid "Login"
+#~ msgstr "Вход"
+
+#~ msgid "Build a new incentive"
+#~ msgstr "Создать новый Стимул"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Ranges can be created and edited from within the <a href="
+#~ "\"%(range_list_url)s\">range dashboard</a>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "        Ассортименты могут быть созданы и отредактированы с помощью <a "
+#~ "href=\"%(range_list_url)s\">панели управления</a>.\n"
+#~ "        "
+
+#~ msgid "...or choose a pre-defined one"
+#~ msgstr "... или выбрать из предопределенных"
+
+#~ msgid "Continue to step 3"
+#~ msgstr "Перейти к шагу 3"
+
+#~ msgid "Build a new condition"
+#~ msgstr "Создать новое условие"
+
+#~ msgid "Continue to step 4"
+#~ msgstr "Перейти к шагу 4"
+
+#~ msgid "Continue to step 2"
+#~ msgstr "Перейти к шагу 2"
+
+#~ msgid "Delete offer"
+#~ msgstr "Удаление заказа"
+
+#~ msgid "Are you sure you want to delete this offer?"
+#~ msgstr "Вы действительно хотите удалить этот заказ?"
+
+#~ msgid ""
+#~ "\n"
+#~ "        %(name)s | Offers\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        %(name)s | Предложения\n"
+#~ "    "
+
+#~ msgid "Reinstating..."
+#~ msgstr "Восстановление..."
+
+#~ msgid "Reinstate offer"
+#~ msgstr "Возобновить предложение"
+
+#~ msgid "Suspending..."
+#~ msgstr "Приостановка..."
+
+#~ msgid "Suspend offer"
+#~ msgstr "Приостановить выполнение заказа"
+
+#~ msgid "Offer currently available"
+#~ msgstr "Предложение сейчас действует"
+
+#~ msgid "Offer not available due to restrictions!"
+#~ msgstr "Предложение недоступно из-за ограничений!"
+
+#~ msgid "Total cost:"
+#~ msgstr "Общая стоимость:"
+
+#~ msgid "Number of orders:"
+#~ msgstr "Количество заказов:"
+
+#~ msgid "Number of uses:"
+#~ msgstr "Количество применений:"
+
+#~ msgid "Date created:"
+#~ msgstr "Дата создания:"
+
+#~ msgid "Offer details"
+#~ msgstr "Детали предложения"
+
+#~ msgid "Export to CSV"
+#~ msgstr "Экспорт в CSV"
+
+#~ msgid "Orders that used this offer"
+#~ msgstr "Заказы, которые используют это предложение"
+
+#~ msgid "Create new offer"
+#~ msgstr "Создать предложение"
+
+#~ msgid "Is available?"
+#~ msgstr "Доступно?"
+
+#~ msgid "Uses"
+#~ msgstr "Использовалось"
+
+#~ msgid "Browse"
+#~ msgstr "Просмотр"
+
+#~ msgid "Stats"
+#~ msgstr "Статистика"
+
+#~ msgid "No offers found."
+#~ msgstr "Предложения не найдены."
+
+#~ msgid "Steps"
+#~ msgstr "Шаги"
+
+#~ msgid "1. Name and description"
+#~ msgstr "1. Название и описание"
+
+#~ msgid "2. Incentive"
+#~ msgstr "2. Стимул"
+
+#~ msgid "3. Condition"
+#~ msgstr "3. Условие"
+
+#~ msgid "4. Restrictions"
+#~ msgstr "4. Ограничения"
+
+#~ msgid "Save this offer"
+#~ msgstr "Сохранить это предложение"
+
+#~ msgid "Fields marked with * are mandatory."
+#~ msgstr "Поля, отмеченные символом '*', обязательны."
+
+#~ msgid "Save changes"
+#~ msgstr "Сохранить изменения"
+
+#~ msgid "Offer summary"
+#~ msgstr "Предложение вкратце."
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s - Line #%(id)s\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Заказ %(number)s - Строка #%(id)s"
+
+#~ msgid "Line #%(id)s"
+#~ msgstr "Строка #%(id)s"
+
+#~ msgid "Order #%(number)s - Line #%(id)s"
+#~ msgstr "Заказ #%(number)s - Строка #%(id)s"
+
+#~ msgid "Product Options"
+#~ msgstr "Опции Товара"
+
+#~ msgid "Partner details"
+#~ msgstr "Информация партнера"
+
+#~ msgid "Shipping details"
+#~ msgstr "Информация о доставке"
+
+#~ msgid "Partner reference number"
+#~ msgstr "Ссылочный номер партнера"
+
+#~ msgid "Partner notes"
+#~ msgstr "Заметки партнера"
+
+#~ msgid "Estimate dispatch date"
+#~ msgstr "Примерная дата отправки"
+
+#~ msgid "Shipping status"
+#~ msgstr "Статус доставки"
+
+#~ msgid "State"
+#~ msgstr "Состояние"
+
+#~ msgid "No shipping events have occurred."
+#~ msgstr "Событий, связанных с доставкой, еще нет."
+
+#~ msgid "Shipping events"
+#~ msgstr "События доставки"
+
+#~ msgid "Payment events"
+#~ msgstr "Платежные события"
+
+#~ msgid "No payment events have occurred."
+#~ msgstr "Платежных событий еще нет."
+
+#~ msgid "Order %(number)s"
+#~ msgstr "Заказ %(number)s"
+
+#~ msgid "Customer Information"
+#~ msgstr "Информация о клиенте"
+
+#~ msgid "Customer checked out as a guest."
+#~ msgstr "Клиент рассчитался как гость."
+
+#~ msgid "Customer has deleted their account."
+#~ msgstr "Клиент удалил свой профиль."
+
+#~ msgid "Order information"
+#~ msgstr "Информация о заказе"
+
+#~ msgid "Order Total"
+#~ msgstr "Всего"
+
+#~ msgid "Time of purchase"
+#~ msgstr "Время покупки"
+
+#~ msgid "Order Details"
+#~ msgstr "Детали заказа"
+
+#~ msgid "Discounts"
+#~ msgstr "Скидки"
+
+#~ msgid "Items ordered"
+#~ msgstr "Заказанный товар"
+
+#~ msgid "Line ID"
+#~ msgstr "ID строки"
+
+#~ msgid "Supplier"
+#~ msgstr "Поставщик"
+
+#~ msgid "Supplier SKU"
+#~ msgstr "Артикул поставщика"
+
+#~ msgid "Est. dispatch date"
+#~ msgstr "Ожидаемая дата отправки"
+
+#~ msgid "Price excl tax (before discounts)"
+#~ msgstr "Цена без налогов (без скидок)"
+
+#~ msgid "Price inc tax (before discounts)"
+#~ msgstr "Цена с налогами (без скидок)"
+
+#~ msgid "With selected lines"
+#~ msgstr "Для выбранных строк"
+
+#~ msgid "Change line status to"
+#~ msgstr "Изменить статус позиции на"
+
+#~ msgid "choose new status"
+#~ msgstr "выбрать новый статус"
+
+#~ msgid "Create shipping event"
+#~ msgstr "Создать событие доставки"
+
+#~ msgid "choose event type"
+#~ msgstr "выберите тип события"
+
+#~ msgid "with reference"
+#~ msgstr "с заметкой"
+
+#~ msgid "Create payment event"
+#~ msgstr "Создать платежное событие"
+
+#~ msgid "with amount"
+#~ msgstr "с суммой"
+
+#~ msgid "Go!"
+#~ msgstr "Старт!"
+
+#~ msgid "Change order status"
+#~ msgstr "Изменить статус заказа"
+
+#~ msgid "Change status"
+#~ msgstr "Изменить статус"
+
+#~ msgid "This order can't have its status changed."
+#~ msgstr "Статус этого заказа не может быть изменен."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                                %(title)s "
+#~ "(quantity %(event_qty)s/%(total_qty)s)\n"
+#~ "                                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "                                                                %(title)s "
+#~ "(количество %(event_qty)s/%(total_qty)s)\n"
+#~ "                                                            "
+
+#~ msgid "No shipping events."
+#~ msgstr "Нет событий доставки."
+
+#~ msgid "Product:"
+#~ msgstr "Товар:"
+
+#~ msgid "quantity"
+#~ msgstr "количество"
+
+#~ msgid "No payment events."
+#~ msgstr "Нет платежных событий."
+
+#~ msgid "Method name"
+#~ msgstr "Название способа"
+
+#~ msgid "Method code"
+#~ msgstr "Код способа"
+
+#~ msgid "Charge (incl tax)"
+#~ msgstr "Стоимость (с НДС)"
+
+#~ msgid "Charge (excl tax)"
+#~ msgstr "Стоимость (без НДС)"
+
+#~ msgid "Payment sources"
+#~ msgstr "Источники платежей"
+
+#~ msgid "Allocation"
+#~ msgstr "Размещение"
+
+#~ msgid "Amount debited"
+#~ msgstr "Сумма прихода"
+
+#~ msgid "Amount refunded"
+#~ msgstr "Сумма возврата"
+
+#~ msgid "No payment sources found for this order."
+#~ msgstr "Для этого заказа не найдено источников платежей."
+
+#~ msgid "No discounts were applied to this order."
+#~ msgstr "Для этого заказа не действуют никакие скидки."
+
+#~ msgid "Admin"
+#~ msgstr "Админ"
+
+#~ msgid "No notes available."
+#~ msgstr "Нет доступных заметок."
+
+#~ msgid "Save note"
+#~ msgstr "Сохранить заметку"
+
+#~ msgid "Notes are only editable for 5 minutes after being saved."
+#~ msgstr ""
+#~ "Заметки можно редактировать только в течение 5 минут после сохранения."
+
+#~ msgid "Advanced Search"
+#~ msgstr "Расширенный поиск"
+
+#~ msgid "Close"
+#~ msgstr "Закрыть"
+
+#~ msgid "Order Search Results"
+#~ msgstr "Результаты поиска заказов"
+
+#~ msgid "All Orders"
+#~ msgstr "Все заказы"
+
+#~ msgid "Download selected orders as a CSV"
+#~ msgstr "Скачать выбранные заказы в формате CSV"
+
+#~ msgid "Deleted"
+#~ msgstr "Удалено."
+
+#~ msgid "Changing..."
+#~ msgstr "Изменение..."
+
+#~ msgid "No orders found."
+#~ msgstr "Заказы не найдены."
+
+#~ msgid "Print Packaging Slips"
+#~ msgstr "Распечатать упаковочные этикетки"
+
+#~ msgid "Mark as"
+#~ msgstr "Пометить как"
+
+#~ msgid "Change order status to"
+#~ msgstr "Изменить статус заказа на"
+
+#~ msgid "Done"
+#~ msgstr "Готово"
+
+#~ msgid "Edit shipping address"
+#~ msgstr "Редактировать адрес доставки"
+
+#~ msgid "Edit shipping address for order %(order.number)s"
+#~ msgstr "Редактировать адрес доставки для заказа %(order.number)s"
+
+#~ msgid "Update address"
+#~ msgstr "Обновить адрес"
+
+#~ msgid "Order statistics"
+#~ msgstr "Статистика заказов"
+
+#~ msgid "Filter result"
+#~ msgstr "Фильтровать"
+
+#~ msgid "Summary"
+#~ msgstr "Вкратце"
+
+#~ msgid "Order status breakdown"
+#~ msgstr "Распределение статусов заказов"
+
+#~ msgid "Delete page '%(title)s'?"
+#~ msgstr "Удалить страницу '%(title)s'?"
+
+#~ msgid "Delete page"
+#~ msgstr "Удалить страницу"
+
+#~ msgid "Delete page <strong>%(title)s</strong> - are you sure?"
+#~ msgstr "Удалить страницу <strong>%(title)s</strong> - вы уверены?"
+
+#~ msgid "Create new page"
+#~ msgstr "Создать новую страницу"
+
+#~ msgid "No pages found."
+#~ msgstr "Страницы не найдены."
+
+#~ msgid ""
+#~ "\n"
+#~ "        Page <strong>%(title)s</strong> saved!\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Страница <strong>%(title)s</strong> сохранена!"
+
+#~ msgid "Oops! We found some errors"
+#~ msgstr "Опаньки! Мы нашли какие-то ошибки"
+
+#~ msgid "please check the error messages below and try again"
+#~ msgstr ""
+#~ "пожалуйста, проверьте сообщения об ошибках ниже и попробуйте еще раз"
+
+#~ msgid "previous"
+#~ msgstr "назад"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Page %(page_num)s of %(total_pages)s\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                Страница %(page_num)s из %(total_pages)s\n"
+#~ "            "
+
+#~ msgid "next"
+#~ msgstr "вперед"
+
+#~ msgid ""
+#~ "\n"
+#~ "User %(user_name)s was unlinked from %(partner_name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Пользователь %(user_name)s больше не связан с партнером "
+#~ "%(partner_name)s.\n"
+
+#~ msgid "Undo"
+#~ msgstr "Отмена"
+
+#~ msgid "Delete partner"
+#~ msgstr "Удалить партнера"
+
+#~ msgid "Are you sure you want to delete this partner?"
+#~ msgstr "Вы уверены, что хотите удалить этого партнера?"
+
+#~ msgid "Edit the user's details"
+#~ msgstr "Редактировать данные о пользователе"
+
+#~ msgid "No users associated."
+#~ msgstr "С этим партнером пока ни один пользователь не связан."
+
+#~ msgid "No address associated."
+#~ msgstr "Нет действующего адреса"
+
+#~ msgid "Manage partner and users"
+#~ msgstr "Управление пользователями и партнерами"
+
+#~ msgid "Link an existing user"
+#~ msgstr "Привязать существующего пользователя"
+
+#~ msgid "Link a new user"
+#~ msgstr "Привязать нового пользователя"
+
+#~ msgid "No partners found."
+#~ msgstr "Партнеров не найдено"
+
+#~ msgid "Unlinking..."
+#~ msgstr "Отключение..."
+
+#~ msgid "Unlink user"
+#~ msgstr "Убрать пользователя"
+
+#~ msgid "No users linked."
+#~ msgstr "Нет связанных пользователей"
+
+#~ msgid "Link a user"
+#~ msgstr "Привязать пользователя"
+
+#~ msgid "Manage users"
+#~ msgstr "Управление пользователями"
+
+#~ msgid "Update details"
+#~ msgstr "Обновить данные"
+
+#~ msgid ""
+#~ "A partial email address can be entered (eg '@example.com') to match "
+#~ "multiple addresses."
+#~ msgstr ""
+#~ "Можно ввести неполный адрес (например, '@example.com'), чтобы найти "
+#~ "несколько соответствий."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                User is already linked to "
+#~ "%(name)s.\n"
+#~ "                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "                                                Пользователь уже связан с "
+#~ "%(name)s.\n"
+#~ "                                            "
+
+#~ msgid "Linking..."
+#~ msgstr "Связывание..."
+
+#~ msgid "Link user"
+#~ msgstr "Привязать пользователя"
+
+#~ msgid "No users found."
+#~ msgstr "Пользователи не найдены."
+
+#~ msgid "Delete content block '%(name)s'?\""
+#~ msgstr "Удалить блок контента '%(name)s'?\""
+
+#~ msgid "Delete content block"
+#~ msgstr "Удалить блок контента"
+
+#~ msgid ""
+#~ "Delete %(object.type)s content block <strong>%(object.name)s</strong> - "
+#~ "are you sure?"
+#~ msgstr ""
+#~ "Удалить %(object.type)s блок контента <strong>%(object.name)s</strong> - "
+#~ "вы уверены?"
+
+#~ msgid "Remove promotion from page?"
+#~ msgstr "Удалить рекламу со страницы?"
+
+#~ msgid "Remove promotion"
+#~ msgstr "Удалить рекламу"
+
+#~ msgid ""
+#~ "Remove %(object.content_object.type)s content block <strong>%(object."
+#~ "name)s</strong> from page <strong>%(object.page_url)s</strong> - are you "
+#~ "sure?"
+#~ msgstr ""
+#~ "Удалить %(object.content_object.type)s блок контента <strong>%(object."
+#~ "name)s</strong> со страницы <strong>%(object.page_url)s</strong> - вы "
+#~ "уверены?"
+
+#~ msgid "Content block"
+#~ msgstr "Блоки содержимого"
+
+#~ msgid "Pages displaying this content blocks"
+#~ msgstr "Страницы, отображающие этот блок контента"
+
+#~ msgid "Position on page"
+#~ msgstr "Положение на странице"
+
+#~ msgid "View all blocks on this page"
+#~ msgstr "Просмотреть все блоки на этой странице"
+
+#~ msgid "Remove from page"
+#~ msgstr "Удалить со страницы"
+
+#~ msgid "This promotion is not displayed anywhere at the moment."
+#~ msgstr "Эта реклама на данный момент нигде не демонстрируется."
+
+#~ msgid "Add to a page"
+#~ msgstr "Добавить на страницу"
+
+#~ msgid "Add to page"
+#~ msgstr "Добавить на страницу"
+
+#~ msgid "Content blocks for page %(page_url)s"
+#~ msgstr "Блоки контента для страницы %(page_url)s"
+
+#~ msgid "Content blocks on page '%(page_url)s'"
+#~ msgstr "Блоки контента на странице '%(page_url)s'"
+
+#~ msgid "Edit promotions in position '%(name)s'"
+#~ msgstr "Редактировать рекламу в позиции '%(name)s'"
+
+#~ msgid "Promotion Name"
+#~ msgstr "Название Рекламы"
+
+#~ msgid "Change display order"
+#~ msgstr "Изменить порядок отображения"
+
+#~ msgid "No promotions in this position."
+#~ msgstr "Нет рекламы для этой позиции."
+
+#~ msgid "Pages with content blocks"
+#~ msgstr "Страницы с блоками контента"
+
+#~ msgid "View by page"
+#~ msgstr "Просмотреть на странице"
+
+#~ msgid "View all content blocks"
+#~ msgstr "Просмотреть все блоки контента"
+
+#~ msgid "View content blocks by page"
+#~ msgstr "Просмотреть блоки контента по страницам"
+
+#~ msgid "Pages with content blocks on them"
+#~ msgstr "Страницы, содержащие блоки контента"
+
+#~ msgid "Number of content blocks"
+#~ msgstr "Количество блоков контента"
+
+#~ msgid "No content blocks found."
+#~ msgstr "Блоков контента не найдено."
+
+#~ msgid "Create a new content block"
+#~ msgstr "Создать новый блок контента."
+
+#~ msgid "Creating..."
+#~ msgstr "Создание..."
+
+#~ msgid "Create block"
+#~ msgstr "Создать блок"
+
+#~ msgid "Number of times used"
+#~ msgstr "Сколько раз используется"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>File <strong>%(filename)s</strong> processed.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Файл <strong>%(filename)s</strong> обрабатывается.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> product added\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> products added\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> товар добавлен\n"
+#~ "            "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> товара добавлено\n"
+#~ "            "
+#~ msgstr[2] ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> товара добавлено\n"
+#~ "            "
+#~ msgstr[3] ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> товаров добавлено\n"
+#~ "            "
+
+#~ msgid ""
+#~ "\n"
+#~ "                There was <strong>%(n)s</strong> duplicate product in the "
+#~ "file\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                There were <strong>%(n)s</strong> duplicate products in "
+#~ "the file\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                В файле нашелся <strong>%(n)s</strong> дубликат товара\n"
+#~ "            "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "                В файле нашлось <strong>%(n)s</strong> дубликата товаров\n"
+#~ "            "
+#~ msgstr[2] ""
+#~ "\n"
+#~ "                В файле нашлось <strong>%(n)s</strong> дубликата товаров\n"
+#~ "            "
+#~ msgstr[3] ""
+#~ "\n"
+#~ "                В файле нашлось <strong>%(n)s</strong> дубликатов "
+#~ "товаров\n"
+#~ "            "
+
+#~ msgid ""
+#~ "\n"
+#~ "                There was <strong>%(n)s</strong> product in the file that "
+#~ "couldn't be found in the catalogue\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                There were <strong>%(n)s</strong> products in the file "
+#~ "that couldn't be found in the catalogue\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                В файле нашелся <strong>%(n)s</strong> товар, которого "
+#~ "нет в каталоге\n"
+#~ "            "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "                В файле нашлось <strong>%(n)s</strong>товара, которых нет "
+#~ "в каталоге\n"
+#~ "            "
+#~ msgstr[2] ""
+#~ "\n"
+#~ "                В файле нашлось <strong>%(n)s</strong>товара, которых нет "
+#~ "в каталоге\n"
+#~ "            "
+#~ msgstr[3] ""
+#~ "\n"
+#~ "                В файле нашлось <strong>%(n)s</strong> товаров, которых "
+#~ "нет в каталоге\n"
+#~ "            "
+
+#~ msgid "Edit range metadata"
+#~ msgstr "Редактировать метаданные ассортимента"
+
+#~ msgid "Return to ranges homepage"
+#~ msgstr "Вернуться на страницу ассортиментов"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>Range <strong>%(name)s</strong> saved.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Ассортимент <strong>%(name)s</strong> сохранен.</p>\n"
+
+#~ msgid "Edit included products"
+#~ msgstr "Редактировать включенные товары"
+
+#~ msgid "Delete range '%(name)s'?"
+#~ msgstr "Удалить ассортимент '%(name)s'?"
+
+#~ msgid "Are you sure you want to delete this range?"
+#~ msgstr "Вы уверены, что хотите удалить этот ассортимент?"
+
+#~ msgid "Create new range"
+#~ msgstr "Создать ассортимент"
+
+#~ msgid "Save and edit products"
+#~ msgstr "Сохранить и редактировать товары"
+
+#~ msgid "Num products"
+#~ msgstr "Кол-во товаров"
+
+#~ msgid "Edit products"
+#~ msgstr "Редактировать товары"
+
+#~ msgid "No ranges found."
+#~ msgstr "Ассортименты не найдены."
+
+#~ msgid "Products in range '%(name)s'"
+#~ msgstr "Товары в ассортименте '%(name)s'"
+
+#~ msgid "products"
+#~ msgstr "товары"
+
+#~ msgid ""
+#~ "This range contains all products. To add products manually, please "
+#~ "unselect the 'Includes All Products' option on the edit range page."
+#~ msgstr ""
+#~ "Этот ассортимент содержит все товары. Чтобы добавить товары вручную, "
+#~ "пожалуйста, снимите флаг \"Включает все товары\" на странице "
+#~ "редактирования ассортимента."
+
+#~ msgid "Add products"
+#~ msgstr "Добавить товары"
+
+#~ msgid "Running..."
+#~ msgstr "Выполнение..."
+
+#~ msgid "Upload history"
+#~ msgstr "История загрузок"
+
+#~ msgid "Filename"
+#~ msgstr "Имя файла"
+
+#~ msgid "New products"
+#~ msgstr "Новые товары"
+
+#~ msgid "Duplicate products"
+#~ msgstr "Дублирующиеся товары"
+
+#~ msgid "Unknown products"
+#~ msgstr "Неизвестные товары"
+
+#~ msgid "Date uploaded"
+#~ msgstr "Дата загрузки"
+
+#~ msgid "Products in range"
+#~ msgstr "Товары в ассортименте"
+
+#~ msgid "Remove selected products"
+#~ msgstr "Удалить выбранные товары"
+
+#~ msgid "Is product discountable?"
+#~ msgstr "На товар применяется скидка?"
+
+#~ msgid "Products in Range"
+#~ msgstr "Товары в Ассортименте"
+
+#~ msgid "Edit range"
+#~ msgstr "Редактировать ассортимент"
+
+#~ msgid "return to range list"
+#~ msgstr "вернуться к списку ассортиментов"
+
+#~ msgid "Reporting Dashboard"
+#~ msgstr "Панель Отчетов"
+
+#~ msgid "Reporting dashboard"
+#~ msgstr "Панель отчетов"
+
+#~ msgid "Generating..."
+#~ msgstr "Генерируем..."
+
+#~ msgid "Generate report"
+#~ msgstr "Создать отчет"
+
+#~ msgid "No results found."
+#~ msgstr "Ничего не найдено."
+
+#~ msgid "No vouchers were used in this period"
+#~ msgstr "Нет использованных за этот период купонов"
+
+#~ msgid "Delete review '%(title)s'?"
+#~ msgstr "Удалить отзыв '%(title)s'?"
+
+#~ msgid "Delete review \"%(title)s\"?"
+#~ msgstr "Удалить отзыв \"%(title)s\"?"
+
+#~ msgid "Review"
+#~ msgstr "Отзыв"
+
+#~ msgid "Review Search"
+#~ msgstr "Поиск Отзыва"
+
+#~ msgid "Update status of selected reviews"
+#~ msgstr "Обновить статусы выбранных отзывов"
+
+#~ msgctxt "Review title"
+#~ msgid "Title"
+#~ msgstr "Заголовок"
+
+#~ msgid "[Product deleted]"
+#~ msgstr "[товар удален]"
+
+#~ msgid "No reviews found."
+#~ msgstr "Отзывы не найдены."
+
+#~ msgid "Update review"
+#~ msgstr "Обновить отзыв"
+
+#~ msgid "Review #%(review.id)s"
+#~ msgstr "Отзыв #%(review.id)s"
+
+#~ msgid "Review #%(review_id)s"
+#~ msgstr "Отзыв №%(review_id)s"
+
+#~ msgid "Review information"
+#~ msgstr "Информация по отзыву"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>A weight band has been added to the <strong>%(name)s</strong> "
+#~ "shipping method.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "    <p>Весовая категорию была добавлена к способу доставки "
+#~ "<strong>'%(name)s'</strong></p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>Weight band deleted from the <strong>%(name)s</strong> shipping "
+#~ "method \n"
+#~ msgstr ""
+#~ "\n"
+#~ "    <p>Весовая категория удалена из способа доставки <strong>'%(name)s'</"
+#~ "strong> \n"
+
+#~ msgid "Weight band updated"
+#~ msgstr "Весовая категория обновлена"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>A shipping method <strong>%(name)s</strong> has been created.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Создан способ доставки <strong>'%(name)s'</strong>.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been deleted.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "    <p>Способ доставки <strong>'%(name)s'</strong> удален.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been updated.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "    <p>Способо доставки <strong>'%(name)s'</strong> обновлен.</p>\n"
+
+#~ msgid "Delete weight band?"
+#~ msgstr "Удалить весовую категорию?"
+
+#~ msgid "Shipping methods"
+#~ msgstr "Способы доставки"
+
+#~ msgid "Weight range (kg)"
+#~ msgstr "Весовая категория (кг)"
+
+#~ msgid "Are you sure you want to delete this weight band method?"
+#~ msgstr "Вы уверены, что хотите удалить эту весовую категорию?"
+
+#~ msgid "Edit weight band"
+#~ msgstr "Редактировать весовую категорию"
+
+#~ msgid "Delete shipping method '%(name)s'?"
+#~ msgstr "Удалить способ доставки '%(name)s'?"
+
+#~ msgid "Are you sure you want to delete this shipping method?"
+#~ msgstr "Вы уверены, что хотите удалить этот способ доставки?"
+
+#~ msgid "Applies to countries"
+#~ msgstr "Применимо к странам"
+
+#~ msgid "Default product weight (kg)"
+#~ msgstr "Вес товара по-умолчанию (в кг)"
+
+#~ msgid "Edit shipping method"
+#~ msgstr "Редактировать способ доставки"
+
+#~ msgid "Delete shipping method"
+#~ msgstr "Удалить способ доставки"
+
+#~ msgid "Weight bands"
+#~ msgstr "Весовые категории"
+
+#~ msgid "No weight bands have been added yet."
+#~ msgstr "Весовые категории еще не добавлены."
+
+#~ msgid "Add a new weight band"
+#~ msgstr "Добавить новую весовую категорию"
+
+#~ msgid "Add weight band"
+#~ msgstr "Добавить весовую категорию"
+
+#~ msgid "Create a new shipping method"
+#~ msgstr "Создать новый способ доставки"
+
+#~ msgid "Create new shipping charge"
+#~ msgstr "Создать новый тариф на доставку"
+
+#~ msgid "Number of weight bands"
+#~ msgstr "Количество весовых категорий"
+
+#~ msgid "Default weight (kg)"
+#~ msgstr "Вес по-умолчанию (в кг)"
+
+#~ msgid "No shipping methods found."
+#~ msgstr "Способов доставки не найдено."
+
+#~ msgid "Alert #%(id)s"
+#~ msgstr "Предупреждение №%(id)s"
+
+#~ msgid "Delete alert #%(id)s?"
+#~ msgstr "Удалить уведомление #%(id)s?"
+
+#~ msgid "Product alert #%(id)s"
+#~ msgstr "Товарное уведомление #%(id)s"
+
+#~ msgid "Are you sure that you want to delete this alert?"
+#~ msgstr "Вы уверены, что хотите удалить это уведомление?"
+
+#~ msgid "Search product alerts"
+#~ msgstr "Искать товарные уведомления"
+
+#~ msgid "reset"
+#~ msgstr "сбросить"
+
+#~ msgid "Date alert sent"
+#~ msgstr "Дата отправки оповещения"
+
+#~ msgid "(Anonymous)"
+#~ msgstr "(Аноним)"
+
+#~ msgid "No alerts found."
+#~ msgstr "Уведомления не найдены."
+
+#~ msgid "Update alert #%(id)s"
+#~ msgstr "Обновить уведомление #%(id)s"
+
+#~ msgid "General"
+#~ msgstr "Общее"
+
+#~ msgid "Yes,No"
+#~ msgstr "Да, Нет"
+
+#~ msgid "Superuser"
+#~ msgstr "Суперпользователь"
+
+#~ msgid "True,False"
+#~ msgstr "Истина,Ложь"
+
+#~ msgid "Staff"
+#~ msgstr "Персонал"
+
+#~ msgid "Last login"
+#~ msgstr "Последний вход"
+
+#~ msgid "Date joined"
+#~ msgstr "Дата регистрации"
+
+#~ msgid "Products viewed"
+#~ msgstr "Товаров просмотрено"
+
+#~ msgid "Number of orders"
+#~ msgstr "Количество заказов"
+
+#~ msgid "Number of ordered items"
+#~ msgstr "Количество заказанных позиций"
+
+#~ msgid "Reviews written"
+#~ msgstr "Написано отзывов"
+
+#~ msgid "Send password reset email"
+#~ msgstr "Отправить письмо для сброса пароля"
+
+#~ msgid "Order Number"
+#~ msgstr "Номер Заказа"
+
+#~ msgid "Total value"
+#~ msgstr "Общая стоимость"
+
+#~ msgid "This customer has not placed any orders yet."
+#~ msgstr "Этот клиент еще не разместил ни одного заказа."
+
+#~ msgid "This customer has not saved any addresses."
+#~ msgstr "Клиент не сохранил еще ни одного адреса."
+
+#~ msgid "Product ID"
+#~ msgstr "Идентификатор товара"
+
+#~ msgid "This customer has not written any reviews yet."
+#~ msgstr "Этот клиент еще не написал ни одного отзыва."
+
+#~ msgid "No customers found."
+#~ msgstr "Клиенты не найдены"
+
+#~ msgid "Bulk Actions"
+#~ msgstr "Массовые действия"
+
+#~ msgid "With selected customers:"
+#~ msgstr "С выбранными клиентами"
+
+#~ msgid "Make active"
+#~ msgstr "Сделать активными"
+
+#~ msgid "Make inactive"
+#~ msgstr "Сделать неактивными"
+
+#~ msgid "Delete voucher '%(name)s'?"
+#~ msgstr "Удалить купон '%(name)s'?"
+
+#~ msgid "Voucher details"
+#~ msgstr "Подробнее о купоне"
+
+#~ msgid "Number of basket additions"
+#~ msgstr "Количество добавлений в корзину"
+
+#~ msgid "Recent orders"
+#~ msgstr "Последние заказы"
+
+#~ msgid "No orders have been placed that use this voucher."
+#~ msgstr "Нет заказов, сделанных с использованием этого купона."
+
+#~ msgid "Edit voucher"
+#~ msgstr "Редактировать купон"
+
+#~ msgid "Create new voucher"
+#~ msgstr "Создание купона"
+
+#~ msgid "Num baskets"
+#~ msgstr "Количество корзин"
+
+#~ msgid "Num orders"
+#~ msgstr "Количество заказов"
+
+#~ msgid "Inactive"
+#~ msgstr "Неактивный"
+
+#~ msgid "No vouchers found."
+#~ msgstr "Купонов не найдено"
+
+#~ msgid "Update voucher set"
+#~ msgstr "Обновить набор купонов"
+
+#~ msgid "Download CSV"
+#~ msgstr "Скачать CSV файл"
+
+#~ msgid "Voucher set"
+#~ msgstr "Набор купонов"
+
+#~ msgid "Start"
+#~ msgstr "Начало"
+
+#~ msgid "End"
+#~ msgstr "Конец"
+
+#~ msgid "Created"
+#~ msgstr "Создан"
+
+#~ msgid "Create new voucher set"
+#~ msgstr "Добавить новый набор купонов"
+
+#~ msgid "Num"
+#~ msgstr "Кол-во"
+
+#~ msgid "Popup closing..."
+#~ msgstr "Окно закрывается..."
+
+#~ msgid "Change selected %(model)s"
+#~ msgstr "Изменить выбранные %(model)s"
+
+#~ msgid "Add another %(model)s"
+#~ msgstr "Добавить еще одну %(model)s"
+
+#~ msgid "Add"
+#~ msgstr "Добавить"
+
+#~ msgid "Delete selected %(model)s"
+#~ msgstr "Удалить выбранные %(model)s"
+
+#~ msgid "Sorry!"
+#~ msgstr "Извините!"
+
+#~ msgid "Return to previous page"
+#~ msgstr "Вернуться на предыдущую страницу"
+
+#~ msgid "Go to homepage"
+#~ msgstr "На главную"
+
+#~ msgid "Edit this page"
+#~ msgstr "Редактировать эту страницу"
+
+#~ msgid "thumbnail"
+#~ msgstr "превью"
+
+#~ msgid "Unrecognized image type!"
+#~ msgstr "Неизвестный тип изображения!"
+
+#~ msgid "Upload Image"
+#~ msgstr "Загрузить изображение"
+
+#~ msgid "This page is only available to users who aren't logged in."
+#~ msgstr "Эта страница доступна только для авторизованных пользователей."
+
+#~ msgid " This offer is no longer available."
+#~ msgstr "Это предложение уже недействительно."
+
+#~ msgid "What you need to do"
+#~ msgstr "Что вам нужно сделать"
+
+#~ msgid "There are no site offers at the moment."
+#~ msgstr "На данный момент у нас нет специальных предложений."
+
+#~ msgid "Browse products in offer"
+#~ msgstr "Просмотреть товары в предложении"
+
+#~ msgid "See more"
+#~ msgstr "Смотреть еще"
+
+#~ msgid "Password reset complete"
+#~ msgstr "Смена пароля завершена"
+
+#~ msgid "Password reset"
+#~ msgstr "Смена пароля"
+
+#~ msgid "Complete"
+#~ msgstr "Завершено"
+
+#~ msgid "Your password has been set.  You may go ahead and log in now."
+#~ msgstr "Ваш пароль был установлен. Вы можете входить в систему."
+
+#~ msgid "Log in"
+#~ msgstr "Войти"
+
+#~ msgid "Enter a new password"
+#~ msgstr "Введите новый пароль"
+
+#~ msgid ""
+#~ "Please enter your new password twice so we can verify you typed it in "
+#~ "correctly."
+#~ msgstr ""
+#~ "Пожалуйста введите ваш новый пароль дважды, чтобы мы убедились, что вы "
+#~ "ввели его правильно."
+
+#~ msgid "Change my password"
+#~ msgstr "Изменить мой пароль"
+
+#~ msgid "Password reset unsuccessful"
+#~ msgstr "Смена пароля прошла неуспешно"
+
+#~ msgid ""
+#~ "The password reset link was invalid, possibly because it has already been "
+#~ "used.  Please request a new password reset."
+#~ msgstr ""
+#~ "Ссылка для сброса пароля некорректна, возможно из-за того, что она уже "
+#~ "была использована. Пожалуйста, запросите сброс пароля заново."
+
+#~ msgid "Password reset email sent"
+#~ msgstr "Письмо для сброса пароля выслано"
+
+#~ msgid "Email sent"
+#~ msgstr "Письмо отправлено"
+
+#~ msgid ""
+#~ "\n"
+#~ "        We've e-mailed you instructions for resetting your password. You "
+#~ "should be receiving it shortly.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Мы отправили вам инструкции по смене вашего пароля на указанный вами e-"
+#~ "mail. Вскоре вы должны их получить."
+
+#~ msgid ""
+#~ "\n"
+#~ "        If you don't receive an email, please make sure you've entered "
+#~ "the address you registered with, and check\n"
+#~ "        your spam folder.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "       Если вы не получили письма, пожалуйста, убедитесь, что вы ввели "
+#~ "адрес, с которым зарегистрировались,\n"
+#~ "        а так же проверьте папку Спам в почтовой программе.\n"
+#~ "    "
+
+#~ msgid ""
+#~ "Forgotten your password? Enter your e-mail address below, and we'll e-"
+#~ "mail instructions for setting a new one."
+#~ msgstr ""
+#~ "Забыли ваш пароль? Введите ваш e-mail ниже и мы отправим вам инструкции "
+#~ "по установке нового."
+
+#~ msgid "Send reset email"
+#~ msgstr "Отправить письмо для смены пароля"
+
+#~ msgid "Refine your search"
+#~ msgstr "Уточните параметры поиска"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Products matching \"%(q)s\"\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Товары, соответствующие запросу \"%(q)s\""
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Found <strong>%(num_results)s</strong> results, "
+#~ "showing <strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    Найдено <strong>%(num_results)s</strong> результатов, "
+#~ "показаны с <strong>%(start)s</strong> по <strong>%(end)s</strong>.\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Found <strong>%(num_results)s</strong> result.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    Found <strong>%(num_results)s</strong> results.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                    Найден <strong>%(num_results)s</strong> результат.\n"
+#~ "                "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "                    Найдено <strong>%(num_results)s</strong> результата.\n"
+#~ "                "
+#~ msgstr[2] ""
+#~ "\n"
+#~ "                    Найдено <strong>%(num_results)s</strong> "
+#~ "результатов.\n"
+#~ "                "
+#~ msgstr[3] ""
+#~ "\n"
+#~ "                    Найдено <strong>%(num_results)s</strong> "
+#~ "результатов.\n"
+#~ "                "
+
+#~ msgid "Found <strong>0</strong> results."
+#~ msgstr "К сожалению, ничего не найдено."
+
+#~ msgid ""
+#~ "\n"
+#~ "                        Did you mean <a href=\"%(search_url)s?q="
+#~ "%(suggestion)s\">\"%(suggestion)s\"</a>?\n"
+#~ "                    "
+#~ msgstr ""
+#~ "\n"
+#~ "                        Возможно, вы имели в виду <a href="
+#~ "\"%(search_url)s?q=%(suggestion)s\">\"%(suggestion)s\"</a>?\n"
+#~ "                    "
+
+#~ msgid "Back to search results"
+#~ msgstr "Вернуться к результатам поиска"
+
+#~ msgid "You need to select some %ss"
+#~ msgstr "Вам нужно выбрать несколько %ss"

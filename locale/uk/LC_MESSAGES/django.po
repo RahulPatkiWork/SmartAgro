@@ -1,0 +1,6200 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Artem Antsyferov <cifer@yandex.ru>, 2014
+# Lex Berezhny <lex@damoti.com>, 2013
+# Lex Berezhny <lex@damoti.com>, 2013
+# Marina <marina@damoti.com>, 2013-2014
+# Zoriana Zaiats, 2014-2015
+# Taras Petriichuk <t.petriichuk@gmail.com>, 2017
+# Zoriana Zaiats, 2016
+# Николай Инкогнито <mmmsvit@gmail.com>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-11 08:36+0000\n"
+"Last-Translator: Oscar Bot <maik.hoepfel@tangentsnowball.com>\n"
+"Language-Team: Ukrainian (http://www.transifex.com/codeinthehole/django-"
+"oscar/language/uk/)\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != "
+"11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % "
+"100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || "
+"(n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr "Панель"
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr "Каталог"
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "Товари"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr "Типи товарів"
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "Категорії"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr "Асортименти"
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr "Оповіщення про зниження запасу на складі"
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr "Опції"
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr "Виповнення"
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "Замовлення"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr "Статистика"
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr "Партнери"
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr "Клієнти"
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr "Запити сповіщення про надходження товарів"
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr "Пропозиції"
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "Купони"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr "Зміст"
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr "Блоки вмісту"
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr "Блоки вмісту по сторінці"
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr "Сторінки"
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr "Поштові шаблони"
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr "Відгуки"
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr "Звіти"
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr "Тип"
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr "Діапазон цін"
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr "від 0 до 20"
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr "від 20 до 40"
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr "від 40 до 60"
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr "60+"
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+#, fuzzy
+#| msgid "Catalogue"
+msgid "Catalan"
+msgstr "Каталог"
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+#, fuzzy
+#| msgid "Permalink"
+msgid "German"
+msgstr "Постійне посилання"
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr "Надсилається..."
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr "Вперед"
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr "Акаунт"
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr "Вийти"
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr "Увійти або зареєструватися"
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "Кошик"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+"\n"
+"Всього: %(total)s"
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr "Магазин"
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "Всі товари"
+
+#~ msgid "Mr"
+#~ msgstr "Пан"
+
+#~ msgid "Miss"
+#~ msgstr "Міс"
+
+#~ msgid "Mrs"
+#~ msgstr "Пані"
+
+#~ msgid "Ms"
+#~ msgstr "Міс"
+
+#~ msgid "Dr"
+#~ msgstr "Доктор"
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "Назва"
+
+#~ msgid "First name"
+#~ msgstr "Ім'я"
+
+#~ msgid "Last name"
+#~ msgstr "Прізвище"
+
+#~ msgid "First line of address"
+#~ msgstr "Перший рядок адреси"
+
+#~ msgid "Second line of address"
+#~ msgstr "Другий рядок адреси"
+
+#~ msgid "Third line of address"
+#~ msgstr "Третій рядок адреси"
+
+#~ msgid "City"
+#~ msgstr "Місто"
+
+#~ msgid "State/County"
+#~ msgstr "Штат/Провінція"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "Поштовий індекс"
+
+#~ msgid "Country"
+#~ msgstr "Країна"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "Шукати текст - використовується тільки для пошуку адрес"
+
+#~ msgid "Address"
+#~ msgstr "Адреса"
+
+#~ msgid "Addresses"
+#~ msgstr "Адреси"
+
+#~ msgid "Addresses in %(country)s require a valid postcode"
+#~ msgstr "Адреси в %(country)s потребують правильного індексу"
+
+#~ msgid "The postcode '%(postcode)s' is not valid for %(country)s"
+#~ msgstr "Цей індекс '%(postcode)s' невірний для %(country)s"
+
+#~ msgid "ISO 3166-1 alpha-2"
+#~ msgstr "ISO 3166-1 alpha-2"
+
+#~ msgid "ISO 3166-1 alpha-3"
+#~ msgstr "ISO 3166-1 alpha-3"
+
+#~ msgid "ISO 3166-1 numeric"
+#~ msgstr "ISO 3166-1 numeric"
+
+#~ msgid "Country name"
+#~ msgstr "Назва країни"
+
+#~ msgid "Official name"
+#~ msgstr "Офіційна назва"
+
+#~ msgid "Display order"
+#~ msgstr "Відобразити замовлення"
+
+#~ msgid "Higher the number, higher the country in the list."
+#~ msgstr "Чим більший номер, тим вище країна у списку."
+
+#~ msgid "Is shipping country"
+#~ msgstr "Є доставка в країну"
+
+#~ msgid "Countries"
+#~ msgstr "Країни"
+
+#~ msgid "Phone number"
+#~ msgstr "Телефонний номер"
+
+#~ msgid "In case we need to call you about your order"
+#~ msgstr "Якщо потрібно буде зателефонувати Вам з приводу замовлення"
+
+#~ msgid "Instructions"
+#~ msgstr "Інструкції"
+
+#~ msgid "Tell us anything we should know when delivering your order."
+#~ msgstr "Коментарі до Вашого замовлення."
+
+#~ msgid "Shipping address"
+#~ msgstr "Адреса доставки"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "Адреси доставки"
+
+#~ msgid "User"
+#~ msgstr "Користувач"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "Це основна адреса доставки?"
+
+#~ msgid "Default billing address?"
+#~ msgstr "Це основна платіжна адреса?"
+
+#~ msgid "Address Hash"
+#~ msgstr "Хеш Адреси"
+
+#~ msgid "Date Created"
+#~ msgstr "Дата Створення"
+
+#~ msgid "User address"
+#~ msgstr "Адреса користувача"
+
+#~ msgid "User addresses"
+#~ msgstr "Адреси користувача"
+
+#~ msgid "This address is already in your address book"
+#~ msgstr "Ця адреса вже є у Вашій адресній книзі"
+
+#~ msgid "Billing address"
+#~ msgstr "Платіжна адреса"
+
+#~ msgid "Billing addresses"
+#~ msgstr "Платіжні адреси"
+
+#~ msgid "Partner"
+#~ msgstr "Партнер"
+
+#~ msgid "Partner address"
+#~ msgstr "Адреса партнера"
+
+#~ msgid "Partner addresses"
+#~ msgstr "Адреси партнера"
+
+#~ msgid "Product"
+#~ msgstr "Товар"
+
+#~ msgid "Views"
+#~ msgstr "Переглядів"
+
+#~ msgid "Basket Additions"
+#~ msgstr "Додатки до кошика"
+
+#~ msgid "Purchases"
+#~ msgstr "Покупки"
+
+#~ msgid "Score"
+#~ msgstr "Оцінка"
+
+#~ msgid "Product record"
+#~ msgstr "Запис товару"
+
+#~ msgid "Product records"
+#~ msgstr "Записи товарів"
+
+#~ msgid "Record for '%s'"
+#~ msgstr "Запис для '%s'"
+
+#~ msgid "Product Views"
+#~ msgstr "Переглядів Товару"
+
+#~ msgid "Order Lines"
+#~ msgstr "Рядки Замовлень"
+
+#~ msgid "Order Items"
+#~ msgstr "Товари в Замовленні"
+
+#~ msgid "Total Spent"
+#~ msgstr "Всього Витрачено"
+
+#~ msgid "Last Order Date"
+#~ msgstr "Дата Останнього Замовлення"
+
+#~ msgid "User record"
+#~ msgstr "Запис користувача"
+
+#~ msgid "User records"
+#~ msgstr "Записи користувача"
+
+#~ msgid "User product view"
+#~ msgstr "Перегляд товару користувачем"
+
+#~ msgid "User product views"
+#~ msgstr "Перегляди товару користувачем"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "%(user)s переглянув '%(product)s'"
+
+#~ msgid "Search term"
+#~ msgstr "Пошуковий запит"
+
+#~ msgid "User search query"
+#~ msgstr "Пошуковий запит користувача"
+
+#~ msgid "User search queries"
+#~ msgstr "Пошукові запити користувачів"
+
+#~ msgid "%(user)s searched for '%(query)s'"
+#~ msgstr "%(user)s шукав '%(query)s'"
+
+#~ msgid "Analytics"
+#~ msgstr "Аналітика користувачів"
+
+#~ msgid "Basket additions"
+#~ msgstr "Додатки до кошика"
+
+#~ msgid "Product analytics"
+#~ msgstr "Товарна аналітика"
+
+#~ msgid "Name"
+#~ msgstr "Назва"
+
+#~ msgid "Date registered"
+#~ msgstr "Дата реєстрації"
+
+#~ msgid "Product views"
+#~ msgstr "Переглядів Товару"
+
+#~ msgid "Order lines"
+#~ msgstr "Рядки замовлень"
+
+#~ msgid "Order items"
+#~ msgstr "Замовлені товари"
+
+#~ msgid "Total spent"
+#~ msgstr "Всього витрачено"
+
+#~ msgid "Date of last order"
+#~ msgstr "Дата останнього замовлення"
+
+#~ msgid "User analytics"
+#~ msgstr "Аналітика користувачів"
+
+#~ msgid "Owner"
+#~ msgstr "Власник"
+
+#~ msgid "Open - currently active"
+#~ msgstr "Відкриті - в даний час активні"
+
+#~ msgid "Merged - superceded by another basket"
+#~ msgstr "Злиті - замінено іншим кошиком"
+
+#~ msgid "Saved - for items to be purchased later"
+#~ msgstr "Збережено - для товарів, що будуть придбані пізніше"
+
+#~ msgid "Frozen - the basket cannot be modified"
+#~ msgstr "Заморожено - кошик не може бути змінено"
+
+#~ msgid "Submitted - has been ordered at the checkout"
+#~ msgstr "Внесено - було замовлено на виході "
+
+#~ msgid "Status"
+#~ msgstr "Статус"
+
+#~ msgid "Date created"
+#~ msgstr "Дата створення"
+
+#~ msgid "Date merged"
+#~ msgstr "Дата злиття"
+
+#~ msgid "Date submitted"
+#~ msgstr "Дата занесення"
+
+#~ msgid "Baskets"
+#~ msgstr "Кошики"
+
+#~ msgid "%(status)s basket (owner: %(owner)s, lines: %(num_lines)d)"
+#~ msgstr "%(status)s кошик (власник: %(owner)s, ліній: %(num_lines)d)"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order."
+#~ msgstr ""
+#~ "Через технічні обмежень ми не можемо поставляти більше %(threshold)d "
+#~ "товарів в одному замовленні."
+
+#~ msgid "Line Reference"
+#~ msgstr "Довідка Ряду"
+
+#~ msgid "Quantity"
+#~ msgstr "Кількість"
+
+#~ msgid "Currency"
+#~ msgstr "Валюта"
+
+#~ msgid "Price excl. Tax"
+#~ msgstr "Ціна, без податку"
+
+#~ msgid "Price incl. Tax"
+#~ msgstr "Ціна, з податком"
+
+#~ msgid "Basket line"
+#~ msgstr "Pядок кошику"
+
+#~ msgid "Basket lines"
+#~ msgstr "Рядки кошику"
+
+#~ msgid ""
+#~ "Basket #%(basket_id)d, Product #%(product_id)d, quantity %(quantity)d"
+#~ msgstr "Кошик #%(basket_id)d, Товар #%(product_id)d, кількість %(quantity)d"
+
+#~ msgid "You cannot modify a %s basket"
+#~ msgstr "Ви не можете змінити %s кошику."
+
+#~ msgid ""
+#~ "The price of '%(product)s' has increased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "Ціна на '%(product)s' підвищилась з %(old_price)s до %(new_price)s з того "
+#~ "часу, як ви додали їх до кошику"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has decreased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "Ціна на '%(product)s' знизилась з %(old_price)s до %(new_price)s з того "
+#~ "часу, як ви додали їх до кошику"
+
+#~ msgid "Line"
+#~ msgstr "Рядок"
+
+#~ msgid "Option"
+#~ msgstr "Опція"
+
+#~ msgid "Value"
+#~ msgstr "Значення"
+
+#~ msgid "Line attribute"
+#~ msgstr "Атрибут рядка"
+
+#~ msgid "Line attributes"
+#~ msgstr "Атрибути рядка"
+
+#~ msgid "Save for Later"
+#~ msgstr "Відкладено"
+
+#~ msgid "Move to Basket"
+#~ msgstr "Перемістити в Кошик"
+
+#~ msgid "Code"
+#~ msgstr "Код"
+
+#~ msgid "Variant"
+#~ msgstr "Варіант"
+
+#~ msgid "Please select a valid product"
+#~ msgstr "Будь ласка, виберіть інший товар"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order. Your basket currently has %(basket)d "
+#~ "items."
+#~ msgstr ""
+#~ "Через технічні обмеження ми не можемо поставляти більше %(threshold)d "
+#~ "товарів в одному замовленні. У Вашому кошику зараз  %(basket)d товарів."
+
+#~ msgid ""
+#~ "This product cannot be added to the basket as its currency isn't the same "
+#~ "as other products in your basket"
+#~ msgstr ""
+#~ "Цей товар не може бути доданий у кошик, оскільки його валюта "
+#~ "відрізняється від інших у кошику."
+
+#~ msgid ""
+#~ "We have merged a basket from a previous session. Its contents might have "
+#~ "changed."
+#~ msgstr "Ми об'єднали кошик з попередньою сесією. Його вміст міг змінитись."
+
+#~ msgid "User ID"
+#~ msgstr "Ідентифікатор користувача"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Basket status"
+#~ msgstr "Статус кошику"
+
+#~ msgid "Num lines"
+#~ msgstr "Кількість рядків"
+
+#~ msgid "Num items"
+#~ msgstr "Кількість товарів"
+
+#~ msgid "Date of creation"
+#~ msgstr "Дата створення"
+
+#~ msgid "Time since creation"
+#~ msgstr "Час з моменту створення"
+
+#~ msgid "Open baskets"
+#~ msgstr "Відкриті кошики"
+
+#~ msgid "Time between creation and submission"
+#~ msgstr "Час між створенням кошика та замовленням"
+
+#~ msgid "Submitted baskets"
+#~ msgstr "Оформлені кошики"
+
+#~ msgid "You can't save an item for later if you're not logged in!"
+#~ msgstr "Ви не можете відкласти товар, якщо ви не увійшли!"
+
+#~ msgid ""
+#~ "Your basket couldn't be updated. Please correct any validation errors "
+#~ "below."
+#~ msgstr ""
+#~ "Ваш кошик неможливо оновити. Будь ласка, виправте будь-які помилки "
+#~ "валідації допущені нижче."
+
+#~ msgid "The '%(code)s' voucher has expired"
+#~ msgstr "Купон '%(code)s' прострочений"
+
+#~ msgid "The '%(code)s' voucher is not active"
+#~ msgstr "Купон '%(code)s' не активний"
+
+#~ msgid "Your basket does not qualify for a voucher discount"
+#~ msgstr "Ваш кошик не задовольняє умовам купона"
+
+#~ msgid "Voucher '%(code)s' added to basket"
+#~ msgstr "Купон '%(code)s' доданий в кошик"
+
+#~ msgid "You have already added the '%(code)s' voucher to your basket"
+#~ msgstr "Купон '%(code)s' вже був доданий в кошик раніше"
+
+#~ msgid "No voucher found with code '%(code)s'"
+#~ msgstr "Не знайдено купонів з кодом '%(code)s'"
+
+#~ msgid "Please enter a voucher code"
+#~ msgstr "Будь ласка, введіть код купона"
+
+#~ msgid "Voucher '%s' removed from basket"
+#~ msgstr "Купон '%s' видалено з кошика"
+
+#~ msgid "Slug"
+#~ msgstr "Slug"
+
+#~ msgid "Requires shipping?"
+#~ msgstr "Потрібна доставка?"
+
+#~ msgid "Track stock levels?"
+#~ msgstr "Відстежувати залишки на складі?"
+
+#~ msgid "Product class"
+#~ msgstr "Клас товару"
+
+#~ msgid "Product classes"
+#~ msgstr "Класи товарів"
+
+#~ msgid "Description"
+#~ msgstr "Опис"
+
+#~ msgid "Image"
+#~ msgstr "Зображення"
+
+#~ msgid "Category"
+#~ msgstr "Категорія"
+
+#~ msgid "Product category"
+#~ msgstr "Категорія товарів"
+
+#~ msgid "Product categories"
+#~ msgstr "Категорії товарів"
+
+#~ msgid "Stand-alone product"
+#~ msgstr "Самостійний товар"
+
+#~ msgid "Parent product"
+#~ msgstr "Батьківський товар"
+
+#~ msgid "Child product"
+#~ msgstr "Дочірній товар"
+
+#~ msgid "Product structure"
+#~ msgstr "Структура товару"
+
+#~ msgid "UPC"
+#~ msgstr "UPC"
+
+#~ msgid ""
+#~ "Universal Product Code (UPC) is an identifier for a product which is not "
+#~ "specific to a particular  supplier. Eg an ISBN for a book."
+#~ msgstr ""
+#~ "Універсальний товарний код (UPC) є ідентифікатором для товару, який не є "
+#~ "специфічним для якого-небудь конкретного постачальника. Наприклад ISBN "
+#~ "для книги."
+
+#~ msgid ""
+#~ "Only choose a parent product if you're creating a child product.  For "
+#~ "example if this is a size 4 of a particular t-shirt.  Leave blank if this "
+#~ "is a stand-alone product (i.e. there is only one version of this product)."
+#~ msgstr ""
+#~ "Вибирайте батьківський товар лише якщо ви створюєте дочірній товар. "
+#~ "Наприклад, якщо це 4-й розмір звичайної футболки. Залиште поле порожнім, "
+#~ "якщо це самостійний товар (тобто можлива тільки одна версія цього товару)."
+
+#~ msgctxt "Product title"
+#~ msgid "Title"
+#~ msgstr "Назва"
+
+#~ msgid "Product type"
+#~ msgstr "Тип товару"
+
+#~ msgid "Choose what type of product this is"
+#~ msgstr "Оберіть тип товару"
+
+#~ msgid "Attributes"
+#~ msgstr "Aтрибути"
+
+#~ msgid ""
+#~ "A product attribute is something that this product may have, such as a "
+#~ "size, as specified by its class"
+#~ msgstr ""
+#~ "Атрибут товару - щось, що товар може мати (наприклад, розмір), відповідно "
+#~ "до визначення його класу"
+
+#~ msgid "Product options"
+#~ msgstr "Опції товару"
+
+#~ msgid ""
+#~ "Options are values that can be associated with a item when it is added to "
+#~ "a customer's basket.  This could be something like a personalised message "
+#~ "to be printed on a T-shirt."
+#~ msgstr ""
+#~ "Опції - це значення, які можуть бути асоційовані з товаром, коли він "
+#~ "додається до кошика клієнта. Це може бути що-небудь типу індивідуального "
+#~ "напису для друку на футболці."
+
+#~ msgid "Recommended products"
+#~ msgstr "Рекомендовані товари"
+
+#~ msgid ""
+#~ "These are products that are recommended to accompany the main product."
+#~ msgstr ""
+#~ "Товари, які ви могли б порекомендувати покупцеві придбати, як додаток до "
+#~ "основної покупки."
+
+#~ msgid "Date updated"
+#~ msgstr "Дата оновлення"
+
+#~ msgid "Is discountable?"
+#~ msgstr "Діє знижка?"
+
+#~ msgid "This flag indicates if this product can be used in an offer or not"
+#~ msgstr ""
+#~ "Цей прапорець вказує, чи може цей товар використовуватися в пропозиціях "
+#~ "чи ні."
+
+#~ msgid "Your product must have a title."
+#~ msgstr "Ваш товар повинен мати назву."
+
+#~ msgid "Your product must have a product class."
+#~ msgstr "Ваш товар повинен належати до певного класу товарів."
+
+#~ msgid "Only child products can have a parent."
+#~ msgstr "Тільки дочірні товари можуть мати батьківські."
+
+#~ msgid "A child product needs a parent."
+#~ msgstr "Для дочірнього товару повинен бути призначений батьківський товар."
+
+#~ msgid "You can only assign child products to parent products."
+#~ msgstr "Ви можете призначати дочірні товари тільки батьківським."
+
+#~ msgid "A child product can't have a product class."
+#~ msgstr "Дочірньому товару не може бути призначений тип товару."
+
+#~ msgid "A child product can't have a category assigned."
+#~ msgstr "У дочірнього товару не може бути категорій."
+
+#~ msgid "A child product can't have options."
+#~ msgstr "У дочірнього товару не може бути опцій."
+
+#~ msgid "A parent product can't have stockrecords."
+#~ msgstr "У батьківського товару не може бути складських записів."
+
+#~ msgid "The specified parent product is a child product."
+#~ msgstr "Товар, зазначений як батьківський, сам є дочірнім."
+
+#~ msgid "One can't add a child product to a product with stock records."
+#~ msgstr "Не можна додати дочірній товар до товару зі складськими записами."
+
+#~ msgid "Primary product"
+#~ msgstr "Основний товар"
+
+#~ msgid "Recommended product"
+#~ msgstr "Рекомендований товар"
+
+#~ msgid "Ranking"
+#~ msgstr "Оцінка"
+
+#~ msgid ""
+#~ "Determines order of the products. A product with a higher value will "
+#~ "appear before one with a lower ranking."
+#~ msgstr ""
+#~ "Визначає порядок товарів. Товари з більшим значенням будуть показані вище "
+#~ "ніж інші."
+
+#~ msgid "Product recommendation"
+#~ msgstr "Рекомендація товару"
+
+#~ msgid "Product recomendations"
+#~ msgstr "Рекомендації товару"
+
+#~ msgid ""
+#~ "Code can only contain the letters a-z, A-Z, digits, and underscores, and "
+#~ "can't start with a digit."
+#~ msgstr ""
+#~ "Код може містити тільки літери a-z, A-Z, цифри, символ підкреслення '_' і "
+#~ "не може починатися з цифри."
+
+#~ msgid "Text"
+#~ msgstr "Текст"
+
+#~ msgid "Integer"
+#~ msgstr "Ціле Число"
+
+#~ msgid "True / False"
+#~ msgstr "Так / Ні"
+
+#~ msgid "Float"
+#~ msgstr "Дробове число"
+
+#~ msgid "Rich Text"
+#~ msgstr "Форматований Текст"
+
+#~ msgid "Date"
+#~ msgstr "Дата"
+
+#~ msgid "Entity"
+#~ msgstr "Сутність"
+
+#~ msgid "File"
+#~ msgstr "Файл"
+
+#~ msgid "Option Group"
+#~ msgstr "Група Опцій"
+
+#~ msgid "Required"
+#~ msgstr "Обов'язковий"
+
+#~ msgid "Product attribute"
+#~ msgstr "Атрибут товару"
+
+#~ msgid "Product attributes"
+#~ msgstr "Атрибути товару"
+
+#~ msgid "Must be str or unicode"
+#~ msgstr "Має бути простим рядком або рядком Unicode"
+
+#~ msgid "Must be a float"
+#~ msgstr "Має бути дробним числом"
+
+#~ msgid "Must be an integer"
+#~ msgstr "Має бути цілим числом"
+
+#~ msgid "Must be a date or datetime"
+#~ msgstr " Має бути датою або датою з часом"
+
+#~ msgid "Must be a boolean"
+#~ msgstr "Має бути логічним значенням"
+
+#~ msgid "Must be a model instance"
+#~ msgstr "Має бути екземпляром моделі"
+
+#~ msgid "Must be an AttributeOption model object instance"
+#~ msgstr "Має бути екземпляром об'єкту моделі AttributeOption"
+
+#~ msgid "AttributeOption has not been saved yet"
+#~ msgstr "ОпціюАтрибута ще не збережено"
+
+#~ msgid "%(enum)s is not a valid choice for %(attr)s"
+#~ msgstr "%(enum)s неправильний вибір для %(attr)s"
+
+#~ msgid "Must be a file field"
+#~ msgstr "Має бути файловим полем"
+
+#~ msgid "Attribute"
+#~ msgstr "Атрибут"
+
+#~ msgid "Boolean"
+#~ msgstr "Логічне значення"
+
+#~ msgid "Richtext"
+#~ msgstr "Форматований текст"
+
+#~ msgid "Value option"
+#~ msgstr "Значення опції"
+
+#~ msgid "Product attribute value"
+#~ msgstr "Значення атрибута товару"
+
+#~ msgid "Product attribute values"
+#~ msgstr "Значення атрибутів товару"
+
+#~ msgid "Attribute option group"
+#~ msgstr "Група опцій атрибута"
+
+#~ msgid "Attribute option groups"
+#~ msgstr "Групи опцій атрибута"
+
+#~ msgid "Group"
+#~ msgstr "Група"
+
+#~ msgid "Attribute option"
+#~ msgstr "Опція атрибута"
+
+#~ msgid "Attribute options"
+#~ msgstr "Опції атрибута"
+
+#~ msgid "Required - a value for this option must be specified"
+#~ msgstr "Обов'язково - значення для цієї опції має бути вказано"
+
+#~ msgid "Optional - a value for this option can be omitted"
+#~ msgstr " Необов'язково - значення для цієї опції можна не вказувати "
+
+#~ msgid "Original"
+#~ msgstr "Оригінал"
+
+#~ msgid "Caption"
+#~ msgstr "Надпис"
+
+#~ msgid ""
+#~ "An image with a display order of zero will be the primary image for a "
+#~ "product"
+#~ msgstr ""
+#~ "Зображення з нульовим порядком відображення буде основним зображенням "
+#~ "товару"
+
+#~ msgid "Product image"
+#~ msgstr "Зображення товару"
+
+#~ msgid "Product images"
+#~ msgstr "Зображення товару"
+
+#~ msgid "%(obj)s has no attribute named '%(attr)s'"
+#~ msgstr "У %(obj)s немає атрибута з назвою '%(attr)s'"
+
+#~ msgid "%(attr)s attribute cannot be blank"
+#~ msgstr "%(attr)s атрибут не може бути пустим"
+
+#~ msgid "%(attr)s attribute %(err)s"
+#~ msgstr "%(attr)s атрибут %(err)s"
+
+#~ msgctxt "Product review title"
+#~ msgid "Title"
+#~ msgstr "Назва"
+
+#~ msgid "Body"
+#~ msgstr "Тіло"
+
+#~ msgctxt "Anonymous reviewer name"
+#~ msgid "Name"
+#~ msgstr "Ім’я"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Requires moderation"
+#~ msgstr "Потребує модерації"
+
+#~ msgid "Approved"
+#~ msgstr "Підтверджено"
+
+#~ msgid "Rejected"
+#~ msgstr "Видхілено"
+
+#~ msgid "Total Votes"
+#~ msgstr "Всього Голосів"
+
+#~ msgid "Delta Votes"
+#~ msgstr "Різниця Голосів"
+
+#~ msgid "Product review"
+#~ msgstr "Відгук на товар"
+
+#~ msgid "Product reviews"
+#~ msgstr "Відгуки на товар"
+
+#~ msgid "Anonymous reviews must include a name and an email"
+#~ msgstr "В анонімному відгуку мають бути вказані Ім'я та імейл"
+
+#~ msgid "anonymous"
+#~ msgstr "анонім"
+
+#~ msgid "Only signed in users can vote"
+#~ msgstr "Лише зареєстровані користувачі можуть голосувати."
+
+#~ msgid "Up"
+#~ msgstr "Наверх"
+
+#~ msgid "Down"
+#~ msgstr "Униз"
+
+#~ msgid "Delta"
+#~ msgstr "Різниця"
+
+#~ msgid "Vote"
+#~ msgstr "Голос"
+
+#~ msgid "Votes"
+#~ msgstr "Голоси"
+
+#~ msgid "You cannot vote on your own reviews"
+#~ msgstr "Ви не можете голосувати за власні відгуки"
+
+#~ msgid "Only signed-in users can vote on reviews"
+#~ msgstr "Тільки авторизовані користувачі можуть голосувати за відгуки"
+
+#~ msgid "You can only vote once on a review"
+#~ msgstr "Ви можете голосувати за відгук лише один раз"
+
+#~ msgid "Catalogue reviews"
+#~ msgstr "Відгуки на каталог"
+
+#~ msgid "Recency"
+#~ msgstr "Новизна"
+
+#~ msgid "Sort by"
+#~ msgstr "Сортувати по"
+
+#~ msgid "You have already reviewed this product!"
+#~ msgstr "Ви вже залишили відгук на цей товар!"
+
+#~ msgid "You can't leave a review for this product."
+#~ msgstr "Ви не можете залишити відгук на цей товар."
+
+#~ msgid "Thank you for reviewing this product"
+#~ msgstr "Дякуємо за те, що залишили відгук на цей товар"
+
+#~ msgid "Thanks for voting!"
+#~ msgstr "Дякуємо за Ваш голос!"
+
+#~ msgid "%(filename)s is not a valid image (%(error)s)"
+#~ msgstr "%(filename)s не є правильним зображенням (%(error)s)"
+
+#~ msgid "%s is not a valid image archive"
+#~ msgstr "%s не є коректним архівом зображень"
+
+#~ msgid "The given page number was invalid."
+#~ msgstr "Цей номер сторінки не дійсний."
+
+#~ msgid "Checkout"
+#~ msgstr "Оформлення"
+
+#~ msgid "My email address is"
+#~ msgstr "Моя електронна адреса"
+
+#~ msgid "I am a new customer and want to checkout as a guest"
+#~ msgstr "Я новий клієнт і хочу оформити замовлення як гість"
+
+#~ msgid ""
+#~ "I am a new customer and want to create an account before checking out"
+#~ msgstr ""
+#~ "Я новий клієнт і хочу створити акаунт перед тим, як оформити замовлення"
+
+#~ msgid "I am a returning customer, and my password is"
+#~ msgstr "Я вже є клієнтом, і мій пароль "
+
+#~ msgid "A user with that email address already exists"
+#~ msgstr "Користувач з такою адресою електронної пошти вже зареєстрований."
+
+#~ msgid "You need to add some items to your basket to checkout"
+#~ msgstr "Потрібно додати товари до кошика, щоб оформити замовлення"
+
+#~ msgid ""
+#~ "'%(title)s' is no longer available to buy (%(reason)s). Please adjust "
+#~ "your basket to continue"
+#~ msgstr ""
+#~ "Товар '%(title)s' більше не доступний для покупки (%(reason)s). Будь "
+#~ "ласка, видаліть його з кошика для того, щоб продовжити."
+
+#~ msgid "Please either sign in or enter your email address"
+#~ msgstr "Будь ласка, увійдіть у систему або введіть свою електронну адресу"
+
+#~ msgid "Please choose a shipping address"
+#~ msgstr "Будь ласка, оберіть адресу доставки"
+
+#~ msgid ""
+#~ "Your previously chosen shipping address is no longer valid.  Please "
+#~ "choose another one"
+#~ msgstr ""
+#~ "Обрана вами раніше адреса доставки більше не дійсна. Будь ласка, виберіть "
+#~ "іншу."
+
+#~ msgid "Please choose a shipping method"
+#~ msgstr "Будь ласка, оберіть спосіб доставки"
+
+#~ msgid ""
+#~ "Your previously chosen shipping method is no longer valid.  Please choose "
+#~ "another one"
+#~ msgstr ""
+#~ "Обраний вами раніше спосіб доставки більше не дійсний. Будь ласка, "
+#~ "виберіть інший."
+
+#~ msgid ""
+#~ "Create your account and then you will be redirected back to the checkout "
+#~ "process"
+#~ msgstr ""
+#~ "Створіть свій акаунт, і Вас буде направлено назад на процес оформлення"
+
+#~ msgid "Address saved"
+#~ msgstr "Адресу збережено"
+
+#~ msgid "Address deleted"
+#~ msgstr "Адресу видалено"
+
+#~ msgid ""
+#~ "Shipping is unavailable for your chosen address - please choose another"
+#~ msgstr "Доставка за обраною адресою неможлива. Будь ласка, оберіть іншу"
+
+#~ msgid "Your submitted shipping method is not permitted"
+#~ msgstr "Обраний спосіб доставки неможливий"
+
+#~ msgid ""
+#~ "A problem occurred while processing payment for this order - no payment "
+#~ "has been taken.  Please contact customer services if this problem persists"
+#~ msgstr ""
+#~ "Сталася помилка під час оплати цього замовлення - оплату не здійснено. "
+#~ "Будь ласка, зверніться до служби підтримки, якщо ця проблема "
+#~ "повторюватиметься."
+
+#~ msgid "No order found"
+#~ msgstr "Замовлення не знайдено"
+
+#~ msgid "email address"
+#~ msgstr "електронна адреса"
+
+#~ msgid "Staff status"
+#~ msgstr "Статус штату"
+
+#~ msgid "Designates whether the user can log into this admin site."
+#~ msgstr "Визначає, чи може користувач входити до адмін-панелі цього сайту."
+
+#~ msgid "Active"
+#~ msgstr "Активний"
+
+#~ msgid ""
+#~ "Designates whether this user should be treated as active. Unselect this "
+#~ "instead of deleting accounts."
+#~ msgstr ""
+#~ "Визначає, чи треба ідентифікувати цього користувача як яктивного. Зніміть "
+#~ "виділення замість того, щоб видаляти акаунти."
+
+#~ msgid "date joined"
+#~ msgstr "дата приєднання"
+
+#~ msgid "Users"
+#~ msgstr "Користувачі"
+
+#~ msgid "Subject"
+#~ msgstr "Тема"
+
+#~ msgid "Body Text"
+#~ msgstr "Текст Тіла"
+
+#~ msgid "Body HTML"
+#~ msgstr "HTML Тіла"
+
+#~ msgid "Date Sent"
+#~ msgstr "Дата Відправлення"
+
+#~ msgid "Emails"
+#~ msgstr "Електронні адреси"
+
+#~ msgid "Email to %(user)s with subject '%(subject)s'"
+#~ msgstr "Надіслати імейл %(user)s з темою '%(subject)s'"
+
+#~ msgid "Code used for looking up this event programmatically"
+#~ msgstr "Код використовується для звернення до цієї події програмно"
+
+#~ msgid "This is just used for organisational purposes"
+#~ msgstr "Це потрібно тільки для організаційних цілей"
+
+#~ msgid "Order related"
+#~ msgstr "Відноситься до замовлення"
+
+#~ msgid "User related"
+#~ msgstr "Відноситься до користувача"
+
+#~ msgid "Email Subject Template"
+#~ msgstr "Шаблон Теми Імейла"
+
+#~ msgid "Email Body Template"
+#~ msgstr "Шаблон Тіла Імейла"
+
+#~ msgid "Email Body HTML Template"
+#~ msgstr "Шаблон Тіла Імейла в HTML"
+
+#~ msgid "HTML template"
+#~ msgstr "HTML шаблон"
+
+#~ msgid "SMS Template"
+#~ msgstr "SMS Шаблон"
+
+#~ msgid "SMS template"
+#~ msgstr "SMS шаблон"
+
+#~ msgid "Date Updated"
+#~ msgstr "Дата Поновлення"
+
+#~ msgid "Communication event type"
+#~ msgstr "Тип комунікаційної події"
+
+#~ msgid "Communication event types"
+#~ msgstr "Типи комунікаційних подій"
+
+#~ msgid "Inbox"
+#~ msgstr "Вхідні"
+
+#~ msgid "Archive"
+#~ msgstr "Архів"
+
+#~ msgid "Notification"
+#~ msgstr "Нагадування"
+
+#~ msgid "Notifications"
+#~ msgstr "Нагадування"
+
+#~ msgid "Key"
+#~ msgstr "Ключ"
+
+#~ msgid "Not yet confirmed"
+#~ msgstr "Ще не підтверджено"
+
+#~ msgid "Cancelled"
+#~ msgstr "Відмінено"
+
+#~ msgid "Closed"
+#~ msgstr "Закрито"
+
+#~ msgid "Date confirmed"
+#~ msgstr "Дата підтвердження"
+
+#~ msgid "Date cancelled"
+#~ msgstr "Дата відміни"
+
+#~ msgid "Date closed"
+#~ msgstr "Дата закриття"
+
+#~ msgid "Product alert"
+#~ msgstr "Нагадування для товару"
+
+#~ msgid "Product alerts"
+#~ msgstr "Нагадування для товарів"
+
+#~ msgid "Product Alerts"
+#~ msgstr "Товарні Оповіщення"
+
+#~ msgid "An alert has been created"
+#~ msgstr "Створено нагадування"
+
+#~ msgid "A confirmation email has been sent to %s"
+#~ msgstr "Електронний лист з підтвердженням надіслано на %s"
+
+#~ msgid "Your stock alert is now active"
+#~ msgstr "Ваше складське нагадування активовано"
+
+#~ msgid "Your stock alert cannot be confirmed"
+#~ msgstr "Ваше складське нагадування неможливо підтвердити"
+
+#~ msgid "Your stock alert has been cancelled"
+#~ msgstr "Ваше складське нагадування відмінено"
+
+#~ msgid "Your stock alert cannot be cancelled"
+#~ msgstr "Ваше складське нагадування не можна відмінити"
+
+#~ msgid "Customer"
+#~ msgstr "Клієнт"
+
+#~ msgid "Email address"
+#~ msgstr "Електронна адреса"
+
+#~ msgid "Password"
+#~ msgstr "Пароль"
+
+#~ msgid "The entered password is not valid!"
+#~ msgstr "Введений пароль не дійсний!"
+
+#~ msgid "Confirm password"
+#~ msgstr "Підтвердження паролю"
+
+#~ msgid "The two password fields didn't match."
+#~ msgstr "Поля з паролями не співпадають."
+
+#~ msgctxt "start date"
+#~ msgid "From"
+#~ msgstr "Від"
+
+#~ msgctxt "end date"
+#~ msgid "To"
+#~ msgstr "До"
+
+#~ msgid "Order number"
+#~ msgstr "Номер замовлення"
+
+#~ msgid "At least one field is required."
+#~ msgstr "Хоча б одне поле є обов' язковим."
+
+#~ msgid "All orders"
+#~ msgstr "Всі замовлення"
+
+#~ msgid ""
+#~ "Orders placed between %(date_from)s and %(date_to)s and order number "
+#~ "containing %(order_number)s"
+#~ msgstr ""
+#~ "Замовлення, розміщені з %(date_from)s по %(date_to)s та номер яких "
+#~ "містить %(order_number)s"
+
+#~ msgid "Orders placed between %(date_from)s and %(date_to)s"
+#~ msgstr "Замовлення, розміщені між %(date_from)s і %(date_to)s"
+
+#~ msgid ""
+#~ "Orders placed since %(date_from)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "Замовлення, розміщені з %(date_from)s та з номером, що містить "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed since %(date_from)s"
+#~ msgstr "Замовлення, розміщені з %(date_from)s"
+
+#~ msgid ""
+#~ "Orders placed until %(date_to)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "Замовлення, розміщені до %(date_to)s та з номером, що містить "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed until %(date_to)s"
+#~ msgstr "Замовлення, розміщені до %(date_to)s"
+
+#~ msgid "Orders with order number containing %(order_number)s"
+#~ msgstr "Замовлення, номер яких містить %(order_number)s"
+
+#~ msgid "A user with this email address already exists"
+#~ msgstr "Вже існує користувач з таким імейлом"
+
+#~ msgid "Send notification to"
+#~ msgstr "Надіслати повідомлення"
+
+#~ msgid "Enter your email"
+#~ msgstr "Введіть свій імейл"
+
+#~ msgid "There is already an active stock alert for %s"
+#~ msgstr "Вже інсує нагадування про появу на складі для %s"
+
+#~ msgid "You already have an active alert for this product"
+#~ msgstr "У Вас вже є активне нагадування для цього товару"
+
+#~ msgid "%(count)d notification archived"
+#~ msgid_plural "%(count)d notifications archived"
+#~ msgstr[0] "%(count)d нагадування заархівовано"
+#~ msgstr[1] "%(count)d нагадувань заархівовано"
+#~ msgstr[2] "%(count)d нагадувань заархівовано"
+#~ msgstr[3] "%(count)d нагадувань заархівовано"
+
+#~ msgid "%(count)d notification deleted"
+#~ msgid_plural "%(count)d notifications deleted"
+#~ msgstr[0] "%(count)d нагадування видалено"
+#~ msgstr[1] "%(count)d нагадування видалено"
+#~ msgstr[2] "%(count)d нагадувань видалено"
+#~ msgstr[3] "%(count)d нагадувань видалено"
+
+#~ msgid "Welcome back"
+#~ msgstr "Дякуємо, що завітали знову"
+
+#~ msgid "Thanks for registering!"
+#~ msgstr "Дякуємо за реєстрацію!"
+
+#~ msgid "Profile"
+#~ msgstr "Профіль"
+
+#~ msgid "Edit Profile"
+#~ msgstr "Редагувати Профіль"
+
+#~ msgid "Profile updated"
+#~ msgstr "Профіль оновлено"
+
+#~ msgid "Delete profile"
+#~ msgstr "Видалити профіль"
+
+#~ msgid "Your profile has now been deleted. Thanks for using the site."
+#~ msgstr "Ваш профіль видалено. Дякуємо за те, що користувались нашим сайтом."
+
+#~ msgid "Change Password"
+#~ msgstr "Змінити Пароль"
+
+#~ msgid "Password updated"
+#~ msgstr "Пароль оновлено"
+
+#~ msgid "Email History"
+#~ msgstr "Історія Листування"
+
+#~ msgid "Order History"
+#~ msgstr "Історія Замовлень"
+
+#~ msgid "Order"
+#~ msgstr "Замовлення"
+
+#~ msgid ""
+#~ "All available lines from order %(number)s have been added to your basket"
+#~ msgstr ""
+#~ "Усі доступні позиції із замовлення  %(number)s було додано в Ваш кошик"
+
+#~ msgid ""
+#~ "It is not possible to re-order order %(number)s as none of its lines are "
+#~ "available to purchase"
+#~ msgstr ""
+#~ "Неможливо знову зробити замовлення %(number)s, тому що жодної з позицій "
+#~ "немає"
+
+#~ msgid "%(qty)d copies of '%(product)s' have been added to your basket"
+#~ msgstr "%(qty)d штук товару '%(product)s'  було додано до Вашого кошику"
+
+#~ msgid "'%s' has been added to your basket"
+#~ msgstr "'%s' було додано до Вашого кошику"
+
+#~ msgid "Address Book"
+#~ msgstr "Адресна Книга"
+
+#~ msgid "Add a new address"
+#~ msgstr "Додати нову адресу"
+
+#~ msgid "Address '%s' created"
+#~ msgstr "Створено адресу '%s'"
+
+#~ msgid "Edit address"
+#~ msgstr "Редагувати адресу"
+
+#~ msgid "Address '%s' updated"
+#~ msgstr "Оновлено адресу '%s'"
+
+#~ msgid "Delete address?"
+#~ msgstr "Видалити адресу?"
+
+#~ msgid "Address '%s' deleted"
+#~ msgstr "Видалено адресу '%s'"
+
+#~ msgid "We do not ship to this country"
+#~ msgstr "На жаль, ми не доставляємо товари у цю країну."
+
+#~ msgid "Wish Lists"
+#~ msgstr "Список Бажань"
+
+#~ msgid "Quantities updated."
+#~ msgstr "Кількості оновлено."
+
+#~ msgid "Create a new wish list"
+#~ msgstr "Створити новий список бажань"
+
+#~ msgid "The requested product no longer exists"
+#~ msgstr "Товару, який Вас цікавить, вже немає"
+
+#~ msgid "Your wishlist has been created and '%(name)s has been added"
+#~ msgstr "Ваш список бажань було створено і додано '%(name)s"
+
+#~ msgid "Your wishlist has been created"
+#~ msgstr "Ваш список бажань створено"
+
+#~ msgid "%(title)s has been added to your wishlist"
+#~ msgstr "%(title)s було додано до Вашого списку бажань"
+
+#~ msgid "Your '%s' wishlist has been updated"
+#~ msgstr "Ваш  список бажань '%s' оновлено"
+
+#~ msgid "Delete %s"
+#~ msgstr "Видалити %s"
+
+#~ msgid "Your '%s' wish list has been deleted"
+#~ msgstr "Ваш список бажань '%s' було видалено"
+
+#~ msgid "'%s' was added to your wish list."
+#~ msgstr "'%s' додано до списку бажань."
+
+#~ msgid "Remove %s"
+#~ msgstr "Видалити %s"
+
+#~ msgid "'%(title)s' was removed from your '%(name)s' wish list"
+#~ msgstr "'%(title)s' було видалено з Вашого списку бажань '%(name)s' "
+
+#~ msgid "'%(title)s' moved to '%(name)s' wishlist"
+#~ msgstr "'%(title)s' переміщено до списку бажань '%(name)s'"
+
+#~ msgid "Create a new product of type"
+#~ msgstr "Створити новий товар типу"
+
+#~ msgid "-- Choose type --"
+#~ msgstr "-- Виберіть тип --"
+
+#~ msgid "Product title"
+#~ msgstr "Назва товару"
+
+#~ msgid "Select an option group"
+#~ msgstr "Виберіть групу опцій"
+
+#~ msgid ""
+#~ "At least one stock record must be set to a partner that you're associated "
+#~ "with."
+#~ msgstr ""
+#~ "Принаймні, одни запис акцій повинен бути встановлений на партнера, з яким "
+#~ "ви пов'язані."
+
+#~ msgid "Stand-alone and parent products must have at least one category"
+#~ msgstr ""
+#~ "Для самостійних і батьківських товарів повинна бути призначена як мінімум "
+#~ "одна категорія"
+
+#~ msgid "A child product should not have categories"
+#~ msgstr "У дочірнього товару не повинно бути категорій  "
+
+#~ msgid "Title"
+#~ msgstr "Назва"
+
+#~ msgid "Variants"
+#~ msgstr "Варіанти"
+
+#~ msgid "Stock records"
+#~ msgstr "Складські записи"
+
+#~ msgid "Actions"
+#~ msgstr "Дії"
+
+#~ msgid "Number of child categories"
+#~ msgstr "Кількість підкатегорій"
+
+#~ msgid "%s Category"
+#~ msgid_plural "%s Categories"
+#~ msgstr[0] "%s Категорія"
+#~ msgstr[1] "%s Категорії"
+#~ msgstr[2] "%s Категорій"
+#~ msgstr[3] "%s Категорій"
+
+#~ msgid "Product search results"
+#~ msgstr "Результати пошуку товару"
+
+#~ msgid "Please choose a product type"
+#~ msgstr "Будь ласка, виберіть тип товару"
+
+#~ msgid "Create new %(product_class)s product"
+#~ msgstr "Створити новий %(product_class)s товар"
+
+#~ msgid "Create new variant of %(parent_product)s"
+#~ msgstr "Створити новий варіант %(parent_product)s"
+
+#~ msgid "Editing variant of %(parent_product)s"
+#~ msgstr "Редагувати варіант %(parent_product)s"
+
+#~ msgid "Your submitted data was not valid - please correct the errors below"
+#~ msgstr "Надана Вами інформація некоректна - будь ласка, виправте ці помилки"
+
+#~ msgid "Delete product variant?"
+#~ msgstr "Видалити варіант товару?"
+
+#~ msgid "Delete product?"
+#~ msgstr "Видалити товар?"
+
+#~ msgid "Deleted product variant '%s'"
+#~ msgstr "Варіант товару '%s' видалено"
+
+#~ msgid "Deleted product '%s'"
+#~ msgstr "Видалено товар '%s'"
+
+#~ msgid "Alerts with status \"%s\""
+#~ msgstr "Нагадування зі статусом '%s'"
+
+#~ msgid "All alerts"
+#~ msgstr "Усі нагадування"
+
+#~ msgid "Add a new category"
+#~ msgstr "Додати нову категорію"
+
+#~ msgid "Category created successfully"
+#~ msgstr "Категорію успішно створено"
+
+#~ msgid "Update category '%s'"
+#~ msgstr "Оновити категорію '%s'"
+
+#~ msgid "Category updated successfully"
+#~ msgstr "Категорію успішно оновлено"
+
+#~ msgid "Category deleted successfully"
+#~ msgstr "Категорію успішно видалено"
+
+#~ msgid "Add a new product type"
+#~ msgstr "Додати новий тип товару"
+
+#~ msgid "Product type created successfully"
+#~ msgstr "Тип товару успішно створено"
+
+#~ msgid "Update product type '%s'"
+#~ msgstr "Оновити тип товару '%s'"
+
+#~ msgid "Product type updated successfully"
+#~ msgstr "Тип продукту успішно оновлено"
+
+#~ msgid "Delete product type '%s'"
+#~ msgstr "Видалити тип товару '%s'"
+
+#~ msgid "Unable to delete '%s'"
+#~ msgstr "Неможливо видалити '%s'"
+
+#~ msgid "%i products are still assigned to this type"
+#~ msgstr "Досі існують товари цього типу (%i шт. знайдено)"
+
+#~ msgid "Product type deleted successfully"
+#~ msgstr "Тип товару видалено успішно"
+
+#~ msgid "Communications dashboard"
+#~ msgstr "Панель повідомлень"
+
+#~ msgid "Email subject template"
+#~ msgstr "Шаблон теми імейла"
+
+#~ msgid "Email body text template"
+#~ msgstr "Шаблон текста тіла імейла"
+
+#~ msgid "Email body HTML template"
+#~ msgstr "Шаблон тіла імейла в HTML"
+
+#~ msgid "Preview email"
+#~ msgstr "Переглянути імейл"
+
+#~ msgid "No order found with this number"
+#~ msgstr "Замовлення з таким номером не знайдено"
+
+#~ msgid "Please enter an email address"
+#~ msgstr "Будь ласка, введіть електронну адресу"
+
+#~ msgid ""
+#~ "The submitted form was not valid, please correct the errors and resubmit"
+#~ msgstr ""
+#~ "Форма, яку Ви заповнили, некоректна. Будь ласка, виправте ці помилки і "
+#~ "надішліть ще раз"
+
+#~ msgid "Email saved"
+#~ msgstr "Імейл збережено"
+
+#~ msgid "A preview email has been sent to %s"
+#~ msgstr "Тестовий імейл було відправлено на %s"
+
+#~ msgid "Offers dashboard"
+#~ msgstr "Панель пропозицій"
+
+#~ msgid "Start date"
+#~ msgstr "Дата початку"
+
+#~ msgid "End date"
+#~ msgstr "Кінцева дата"
+
+#~ msgid "The end date must be after the start date"
+#~ msgstr "Дата кінця має бути пізніше за дату початку"
+
+#~ msgid "Custom condition"
+#~ msgstr "Спеціальна умова"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom condition"
+#~ msgstr ""
+#~ "Будь ласка, вкажіть діапазон, тип і значення АБО оберіть спеціальну умову"
+
+#~ msgid "A range is required"
+#~ msgstr "Потрібен асортимент"
+
+#~ msgid "Custom incentive"
+#~ msgstr "Спеціальний стимул"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom incentive"
+#~ msgstr ""
+#~ "Будь ласка, оберіть асортимент, тип і значення АБО виберіть спеціальний "
+#~ "стимул"
+
+#~ msgid "No other options can be set if you are using a custom incentive"
+#~ msgstr ""
+#~ "Не можна встановлювати інші опції, якщо Ви використовуєте спеціальний "
+#~ "стимул"
+
+#~ msgid "Offer name"
+#~ msgstr "Назва пропозиції"
+
+#~ msgid "Is active?"
+#~ msgstr "Активний?"
+
+#~ msgid "Order date"
+#~ msgstr "Дата замовлення"
+
+#~ msgid "Order total"
+#~ msgstr "Всього"
+
+#~ msgid "Cost"
+#~ msgstr "Вартість"
+
+#~ msgid "All offers"
+#~ msgstr "Усі замовлення"
+
+#~ msgid "Offers matching '%s'"
+#~ msgstr "Пропозиції, що містять '%s'"
+
+#~ msgid "%s step not complete"
+#~ msgstr "%s крок не завершено"
+
+#~ msgid "Offer '%s' updated"
+#~ msgstr "Пропозицію '%s' оновлено"
+
+#~ msgid "Offer '%s' created!"
+#~ msgstr "Пропозицію %s створено!"
+
+#~ msgid "Name and description"
+#~ msgstr "Назва і опис"
+
+#~ msgid "Incentive"
+#~ msgstr "Стимул"
+
+#~ msgid "Restrictions"
+#~ msgstr " Обмеження"
+
+#~ msgid "Offer deleted!"
+#~ msgstr "Пропозицію видалено!"
+
+#~ msgid "Offer is already suspended"
+#~ msgstr "Пропозицію вже виключено"
+
+#~ msgid "Offer suspended"
+#~ msgstr "Пропозицію виключено"
+
+#~ msgid "Offer cannot be reinstated as it is not currently suspended"
+#~ msgstr "Пропозицію неможливо відновити, тому що вона не була виключена"
+
+#~ msgid "Offer reinstated"
+#~ msgstr "Пропозицію відновлено"
+
+#~ msgid "Orders dashboard"
+#~ msgstr "Панель замовлень"
+
+#~ msgid "Orders placed since %s"
+#~ msgstr "Замовлення, розміщені з %s"
+
+#~ msgid "Orders placed until %s"
+#~ msgstr "Замовлення, розміщені до %s"
+
+#~ msgid "Customer name"
+#~ msgstr "Ім'я клієнта"
+
+#~ msgid "Product name"
+#~ msgstr "Назва товару"
+
+#~ msgid "Partner SKU"
+#~ msgstr "Артикул партнера"
+
+#~ msgid "Date from"
+#~ msgstr "Дата від"
+
+#~ msgid "Date to"
+#~ msgstr "До"
+
+#~ msgid "Voucher code"
+#~ msgstr "Код купона"
+
+#~ msgid "Payment method"
+#~ msgstr "Спосіб оплати"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "CSV"
+#~ msgstr "CSV"
+
+#~ msgid "Get results as"
+#~ msgstr "Отримати результати як"
+
+#~ msgid "New order status"
+#~ msgstr "Статус нового замовлення"
+
+#~ msgid "Order number starts with \"{order_number}\""
+#~ msgstr "Номер замовлення починається з \"{order_number}\""
+
+#~ msgid "Customer name matches \"{customer_name}\""
+#~ msgstr "Ім’я клієнта співпадає з \"{customer_name}\""
+
+#~ msgid "Product name matches \"{product_name}\""
+#~ msgstr "Назва товару співпадає з \"{product_name}\""
+
+#~ msgid "Includes an item with UPC \"{upc}\""
+#~ msgstr "Включає товар з UPC кодом \"{upc}\""
+
+#~ msgid "Includes an item with partner SKU \"{partner_sku}\""
+#~ msgstr "Включає товар з ідентифікатором \"{partner_sku}\""
+
+#~ msgid "Placed between {start_date} and {end_date}"
+#~ msgstr "Розміщено між {start_date} та {end_date}"
+
+#~ msgid "Placed after {start_date}"
+#~ msgstr "Розміщено після {start_date}"
+
+#~ msgid "Placed before {end_date}"
+#~ msgstr "Розміщено до {end_date}"
+
+#~ msgid "Used voucher code \"{voucher_code}\""
+#~ msgstr "Використано купон з кодом \"{voucher_code}\""
+
+#~ msgid "Paid using {payment_method}"
+#~ msgstr "Оплачено за допомогою {payment_method}"
+
+#~ msgid "Order status is {order_status}"
+#~ msgstr "Статус замовлення {order_status}"
+
+#~ msgid "Order value"
+#~ msgstr "Вартість замовлення"
+
+#~ msgid "Date of purchase"
+#~ msgstr "Дата покупки"
+
+#~ msgid "Number of items"
+#~ msgstr "Кількість товарів"
+
+#~ msgid "Order status"
+#~ msgstr "Статус замовлення"
+
+#~ msgid "Customer email address"
+#~ msgstr "Електронна адреса клієнта"
+
+#~ msgid "Deliver to name"
+#~ msgstr "Доставити на ім'я"
+
+#~ msgid "Bill to name"
+#~ msgstr "Рахунок на ім'я"
+
+#~ msgid "The new status '%s' is not valid"
+#~ msgstr "Новий статус '%s' некоректний"
+
+#~ msgid "The new status '%s' is not valid for this order"
+#~ msgstr "Новий статус '%s' невірний для цього замовлення"
+
+#~ msgid "Unable to change order status due to payment error: %s"
+#~ msgstr "Неможливо змінити статус замовлення через помилку оплати: %s"
+
+#~ msgid "Order status changed from '%(old_status)s' to '%(new_status)s'"
+#~ msgstr "Статус замовлення змінено з '%(old_status)s' на '%(new_status)s'"
+
+#~ msgid "No valid action submitted"
+#~ msgstr " Не було зроблено вірних операцій"
+
+#~ msgid "Invalid action"
+#~ msgstr "Невірна дія"
+
+#~ msgid "You must select some lines to act on"
+#~ msgstr "Виберіть рядки, щоб виконати дію"
+
+#~ msgid "Invalid lines requested"
+#~ msgstr "Запит неправильних рядків"
+
+#~ msgid "The entered quantity for line #%s is not valid"
+#~ msgstr "Введена неправильна кількість для рядка #%s"
+
+#~ msgid ""
+#~ "The entered quantity for line #%(line_id)s should not be higher than "
+#~ "%(quantity)s"
+#~ msgstr ""
+#~ "Кількість, вказана в рядку #%(line_id)s, не повинна бути більша ніж "
+#~ "%(quantity)s"
+
+#~ msgid "Note saved"
+#~ msgstr "Нотатку збережено"
+
+#~ msgid "Note cannot be deleted"
+#~ msgstr "Нотатку не можна видалити"
+
+#~ msgid "Note deleted"
+#~ msgstr "Нотату видалено"
+
+#~ msgid "Invalid form submission"
+#~ msgstr "Помилка при відправленни форми"
+
+#~ msgid ""
+#~ "Unable to change order status as the requested new status is not valid"
+#~ msgstr ""
+#~ "Неможливо поміняти статус замовлення, оскільки в запиті вказаний "
+#~ "неправильний новий статус"
+
+#~ msgid "Please choose a valid amount"
+#~ msgstr "Будь ласка, оберіть коректну кількість"
+
+#~ msgid "'%(status)s' is not a valid new status for line %(line_id)d"
+#~ msgstr "'%(status)s' не є новим коректним статус для рядка %(line_id)d"
+
+#~ msgid ""
+#~ "Status of line #%(line_id)d changed from '%(old_status)s' to "
+#~ "'%(new_status)s'"
+#~ msgstr ""
+#~ "Статус рядка #%(line_id)d змінено з '%(old_status)s' на '%(new_status)s'"
+
+#~ msgid "The event type '%s' is not valid"
+#~ msgstr "Тип події '%s' невірний"
+
+#~ msgid "Unable to create shipping event: %s"
+#~ msgstr "Неможливо створити подію доставки: %s"
+
+#~ msgid "Unable to create shipping event due to payment error: %s"
+#~ msgstr "Неможливо створити подію доставки через помилку оплати: %s"
+
+#~ msgid "Shipping event created"
+#~ msgstr "Створено подію доставки"
+
+#~ msgid "Unable to create payment event due to payment error: %s"
+#~ msgstr "Неможливо створити платіжну подію через помилку оплати: %s"
+
+#~ msgid "Unable to create payment event: %s"
+#~ msgstr "Неможливо створити платіжну подію: %s"
+
+#~ msgid "Payment event created"
+#~ msgstr "Створено подію оплати"
+
+#~ msgid "%(field)s changed from '%(old_value)s' to '%(new_value)s'"
+#~ msgstr "%(field)s змінено з '%(old_value)s' на '%(new_value)s'"
+
+#~ msgid ""
+#~ "Delivery address updated:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Адресу доставки оновлено:⏎\n"
+#~ "%s"
+
+#~ msgid "Delivery address updated"
+#~ msgstr "Адресу доставки оновлено"
+
+#~ msgid "Pages dashboard"
+#~ msgstr "Панель сторінок сайту"
+
+#~ msgctxt "Page title"
+#~ msgid "Title"
+#~ msgstr "Назва"
+
+#~ msgid "Example: '/about/contact/'."
+#~ msgstr "Приклад: '/about/contact/'."
+
+#~ msgid "All pages"
+#~ msgstr "Усі сторінки"
+
+#~ msgid " with title containing '%s'"
+#~ msgstr "із назвою, що містить '%s'"
+
+#~ msgid "Create New Page"
+#~ msgstr "Створити Нову Сторінку"
+
+#~ msgid "Deleted page '%s'"
+#~ msgstr "Видалити сторінку '%s'"
+
+#~ msgid "Partners dashboard"
+#~ msgstr "Панель постачальників"
+
+#~ msgctxt "Partner's name"
+#~ msgid "Name"
+#~ msgstr "Назва"
+
+#~ msgid "Full dashboard access"
+#~ msgstr "Повний доступ до панелі"
+
+#~ msgid "Limited dashboard access"
+#~ msgstr "Обмежений доступ до панелі"
+
+#~ msgid "User role"
+#~ msgstr "Роль користувача"
+
+#~ msgid "Confirm Password"
+#~ msgstr "Підтвердження Паролю"
+
+#~ msgid "All partners"
+#~ msgstr "Усі партнери"
+
+#~ msgid "Partners matching '%s'"
+#~ msgstr "Партнери, які містять '%s'"
+
+#~ msgid "Create new partner"
+#~ msgstr "Створити нового партнера"
+
+#~ msgid "Partner '%s' was created successfully."
+#~ msgstr "Успішно створено партнера '%s'"
+
+#~ msgid "Partner '%s' was updated successfully."
+#~ msgstr "Успішно оновлено партнера '%s'."
+
+#~ msgid "Partner '%s' was deleted successfully."
+#~ msgstr "Успішно видалено партнера '%s'"
+
+#~ msgid "Create user"
+#~ msgstr "Створити користувача"
+
+#~ msgid "User '%s' was created successfully."
+#~ msgstr "Користувача '%s' успішно створено."
+
+#~ msgid "User '%(name)s' was linked to '%(partner_name)s'"
+#~ msgstr "Користувач '%(name)s' був прив'язаний до '%(partner_name)s'"
+
+#~ msgid "User '%(name)s' is already linked to '%(partner_name)s'"
+#~ msgstr "Користувач '%(name)s' вже прив'язаний до '%(partner_name)s' "
+
+#~ msgid "User '%(name)s' is not linked to '%(partner_name)s'"
+#~ msgstr "Користувач '%(name)s' не прив'язаний до '%(partner_name)s'"
+
+#~ msgid "Edit user '%s'"
+#~ msgstr "Редагувати користувача '%s'"
+
+#~ msgid "User '%s' was updated successfully."
+#~ msgstr "Користувача '%s' успішно оновлено."
+
+#~ msgid "Promotions dashboard"
+#~ msgstr "Панель реклами"
+
+#~ msgid "Promotion type"
+#~ msgstr "Тип реклами"
+
+#~ msgid "Position"
+#~ msgstr "Позиція"
+
+#~ msgid "Where in the page this content block will appear"
+#~ msgstr "Де на сторінці буде з'являтися цей блок тексту"
+
+#~ msgid "Content blocks can only be linked to internal URLs"
+#~ msgstr "Блоки вмісту можна лінкувати тільки до зовнішніх URL"
+
+#~ msgid "Content block removed successfully"
+#~ msgstr "Змістовий блок вдало видалено"
+
+#~ msgid "Content block created successfully"
+#~ msgstr "Змістовий блок успішно створено"
+
+#~ msgid "Create a new %s content block"
+#~ msgstr "Створити новий блок змісту %s"
+
+#~ msgid "Product list content block created"
+#~ msgstr "Створено змістовий блок для списку товарів"
+
+#~ msgid "Update content block"
+#~ msgstr "Оновити блок вмісту"
+
+#~ msgid "Content block updated successfully"
+#~ msgstr "Блок вмісту успішно оновлено"
+
+#~ msgid "Content block '%(block)s' added to page '%(page)s'"
+#~ msgstr "Блок вмісту '%(block)s' додано до сторінки '%(page)s'"
+
+#~ msgid "No link found to delete"
+#~ msgstr "Не знайдено лінк, який треба видалити"
+
+#~ msgid "Content block removed from page '%s'"
+#~ msgstr "Блок вмісту видалено зі сторінки '%s'"
+
+#~ msgid "Product list promotion updated"
+#~ msgstr "Рекламу товарного списку оновлено"
+
+#~ msgid "Content block deleted successfully"
+#~ msgstr "Вмістовий блок успішно видалено"
+
+#~ msgid "Ranges dashboard"
+#~ msgstr "Панель асортиментів"
+
+#~ msgid "Product SKUs or UPCs"
+#~ msgstr "Товарні артикули або штрих-коди"
+
+#~ msgid "You can paste in a selection of SKUs or UPCs"
+#~ msgstr "Ви можете вставити групу артикулів або штрих-кодів"
+
+#~ msgid "File of SKUs or UPCs"
+#~ msgstr "Файл з артикулами або штрих-кодами"
+
+#~ msgid "Either comma-separated, or one identifier per line"
+#~ msgstr "Через кому або кожний з нового рядка"
+
+#~ msgid "You must submit either a list of SKU/UPCs or a file"
+#~ msgstr "Ви маєте внести список артикулів (кодів) або файл"
+
+#~ msgid "The products with SKUs or UPCs matching %s are already in this range"
+#~ msgstr ""
+#~ "Товари з артикулами або кодами, що містять %s, вже є в цьому діапазоні"
+
+#~ msgid "No products exist with a SKU or UPC matching %s"
+#~ msgstr "Не існує товарів з таким артикулом або кодом %s"
+
+#~ msgid "Create range"
+#~ msgstr "Створити асортимент"
+
+#~ msgid "Range deleted"
+#~ msgstr "Асортимент видалено"
+
+#~ msgid "Removed %d product from range"
+#~ msgid_plural "Removed %d products from range"
+#~ msgstr[0] "Видалено %d товар з асортименту"
+#~ msgstr[1] "Видалено %d товарів з асортименту"
+#~ msgstr[2] "Видалено %d товарів з асортименту"
+#~ msgstr[3] "Видалено %d товарів з асортименту"
+
+#~ msgid "%d product added to range"
+#~ msgid_plural "%d products added to range"
+#~ msgstr[0] "%d товар додано до асортименту"
+#~ msgstr[1] "%d товарів додано до асортименту"
+#~ msgstr[2] "%d товарів додано до асортименту"
+#~ msgstr[3] "%d товарів додано до асортименту"
+
+#~ msgid "No product(s) were found with SKU or UPC matching %s"
+#~ msgstr "Не було знайдено жодного товару з таким артикулом або кодом %s"
+
+#~ msgid "Reports dashboard"
+#~ msgstr "Панель звітів"
+
+#~ msgid "Report Type"
+#~ msgstr "Тип Звіту"
+
+#~ msgid "Only the offer and order reports use the selected date range"
+#~ msgstr ""
+#~ "Даний діапазон дат використовується тільки для звітів по пропозиціях і "
+#~ "замовленнях"
+
+#~ msgid "The report is inclusive of this date"
+#~ msgstr "Звіт охоплює цю дату"
+
+#~ msgid "Download"
+#~ msgstr "Завантажити"
+
+#~ msgid "Your start date must be before your end date"
+#~ msgstr " Дата початку має бути раніше за дату кінця"
+
+#~ msgid "%(report_filter)s between %(start_date)s and %(end_date)s"
+#~ msgstr "%(report_filter)s між %(start_date)s і %(end_date)s"
+
+#~ msgid "You do not have access to this report"
+#~ msgstr "У Вас немає доступу до цього звіту"
+
+#~ msgid "Reviews dashboard"
+#~ msgstr "Панель відгуків"
+
+#~ msgid "Keyword"
+#~ msgstr "Пошукове слово"
+
+#~ msgid "to"
+#~ msgstr "для"
+
+#~ msgid ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+#~ msgstr ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+
+#~ msgid " created after %s"
+#~ msgstr "створені після %s"
+
+#~ msgid " created before %s"
+#~ msgstr "створені до %s"
+
+#~ msgid " created between %(start_date)s and %(end_date)s"
+#~ msgstr ", створені між %(start_date)s і %(end_date)s"
+
+#~ msgid "All reviews"
+#~ msgstr "Усі відгуки"
+
+#~ msgid " with status matching '%s'"
+#~ msgstr "зі статусом, в якому є '%s'"
+
+#~ msgid " with keyword matching '%s'"
+#~ msgstr "з пошуковим словом, в якому є '%s'"
+
+#~ msgid " with customer name matching '%s'"
+#~ msgstr "з іменем клієнта, в якому є '%s'"
+
+#~ msgid "Shipping dashboard"
+#~ msgstr "Панель доставки"
+
+#~ msgid "%d Row"
+#~ msgid_plural "%d Rows"
+#~ msgstr[0] "%d Ряд"
+#~ msgstr[1] "%d Ряди"
+#~ msgstr[2] "%d Рядів"
+#~ msgstr[3] "%d Рядів"
+
+#~ msgid "Users dashboard"
+#~ msgstr "Панель управління користувачами"
+
+#~ msgctxt "User's name"
+#~ msgid "Name"
+#~ msgstr "Ім’я"
+
+#~ msgid "%(main_filter)s %(email_filter)s %(name_filter)s"
+#~ msgstr "%(main_filter)s %(email_filter)s %(name_filter)s"
+
+#~ msgid "All users"
+#~ msgstr "Всі користувачі"
+
+#~ msgid " with email matching '%s'"
+#~ msgstr "з імейлом, в якому є '%s'"
+
+#~ msgid " with name matching '%s'"
+#~ msgstr "з ім'ям, в якому є '%s'"
+
+#~ msgid "Users' status successfully changed"
+#~ msgstr "Статус користувача успішно змінено"
+
+#~ msgid "A password reset email has been sent"
+#~ msgstr "Імейл для встановлення нового паролю надіслано"
+
+#~ msgid "All Alerts"
+#~ msgstr "Усі Нагадування"
+
+#~ msgid " with customer email matching '%s'"
+#~ msgstr "з імейлом клієнта, в якому є '%s'"
+
+#~ msgid "Product alert saved"
+#~ msgstr "Нагадування про товар створено"
+
+#~ msgid "Product alert deleted"
+#~ msgstr "Нагадування про товар видалено"
+
+#~ msgid "Vouchers dashboard"
+#~ msgstr "Панель купонів і сертифікатів"
+
+#~ msgid "Start datetime"
+#~ msgstr "Дата початку"
+
+#~ msgid "End datetime"
+#~ msgstr "Дата закінчення"
+
+#~ msgid "Usage"
+#~ msgstr "Використання"
+
+#~ msgid "Which products get a discount?"
+#~ msgstr "До яких товарів застосовується знижка?"
+
+#~ msgid "Percentage off of products in range"
+#~ msgstr "Відсоткова знижка на товари асортименту"
+
+#~ msgid "Fixed amount off of products in range"
+#~ msgstr "Фіксована сума  на товари асортименту"
+
+#~ msgid "Discount is a percentage off of the shipping cost"
+#~ msgstr "Знижка - це відсоток від вартості доставки"
+
+#~ msgid "Discount is a fixed amount of the shipping cost"
+#~ msgstr "Знижка - це фіксована сума від вартості доставки"
+
+#~ msgid "Get shipping for a fixed price"
+#~ msgstr "Отримати доставку за фіксованою ціною"
+
+#~ msgid "Discount type"
+#~ msgstr "Тип знижки"
+
+#~ msgid "Discount value"
+#~ msgstr "Вартість знижки"
+
+#~ msgid "The name '%s' is already in use"
+#~ msgstr "Назва '%s' вже використовується"
+
+#~ msgid "The code '%s' is already in use"
+#~ msgstr "Код '%s' вже використовується"
+
+#~ msgid "The start date must be before the end date"
+#~ msgstr " Дата початку має бути раніше за дату кінця"
+
+#~ msgid "Is Active?"
+#~ msgstr "Активний?"
+
+#~ msgid "%(main_filter)s %(name_filter)s %(code_filter)s"
+#~ msgstr "%(main_filter)s %(name_filter)s %(code_filter)s"
+
+#~ msgid "All vouchers"
+#~ msgstr "Усі купони"
+
+#~ msgid "with name matching '%s'"
+#~ msgstr "з іменем, в якому є '%s'"
+
+#~ msgid "with code '%s'"
+#~ msgstr "з кодом '%s'"
+
+#~ msgid "Active vouchers"
+#~ msgstr "Активні купони"
+
+#~ msgid "Create voucher"
+#~ msgstr "Створити купон"
+
+#~ msgid "Offer for voucher '%s'"
+#~ msgstr "Пропозиція для ваучера '%s'"
+
+#~ msgid "Voucher created"
+#~ msgstr "Купон створено"
+
+#~ msgid "Voucher updated"
+#~ msgstr "Купон оновлено"
+
+#~ msgid "Voucher deleted"
+#~ msgstr "Купон видалено"
+
+#~ msgid "This is displayed within the customer's basket"
+#~ msgstr "Це відображається у кошику клієнта"
+
+#~ msgid "This is displayed on the offer browsing page"
+#~ msgstr "Це відображається на сторінці перегляду пропозицій"
+
+#~ msgid "Site offer - available to all users"
+#~ msgstr "Пропозиція сайту - доступна для всіх користувачів"
+
+#~ msgid ""
+#~ "Voucher offer - only available after entering the appropriate voucher code"
+#~ msgstr "Пропозиція за купоном - доступна тільки після введення коду купона"
+
+#~ msgid "User offer - available to certain types of user"
+#~ msgstr "Пропозиція користувачам - доступна певним категоріям користувачів"
+
+#~ msgid ""
+#~ "Session offer - temporary offer, available for a user for the duration of "
+#~ "their session"
+#~ msgstr ""
+#~ "Сесійна пропозиція - тимчасова пропозиція, що доступна користувачам "
+#~ "тільки впродовж їхньої сесії"
+
+#~ msgid "Condition"
+#~ msgstr "Умова"
+
+#~ msgid "Benefit"
+#~ msgstr "Вигода"
+
+#~ msgid "Priority"
+#~ msgstr "Приорітет"
+
+#~ msgid "The highest priority offers are applied first"
+#~ msgstr "Пропозиції з найвищим приорітетом застосовуються першими"
+
+#~ msgid "Max global applications"
+#~ msgstr "Максимальна кількість глобальних застосувань"
+
+#~ msgid "The number of times this offer can be used before it is unavailable"
+#~ msgstr ""
+#~ "Кількість разів, коли ця пропозиція може бути застосована до того, як "
+#~ "вона стане недоступною"
+
+#~ msgid "Max user applications"
+#~ msgstr "Максимальна кількість застосувань клієнтом"
+
+#~ msgid "The number of times a single user can use this offer"
+#~ msgstr "Кількість разів викристання даної пропозиції одним користувачем"
+
+#~ msgid "Max basket applications"
+#~ msgstr "Максимальна кількість застосувань до кошика"
+
+#~ msgid ""
+#~ "The number of times this offer can be applied to a basket (and order)"
+#~ msgstr ""
+#~ "Кількість разів, які цю пропозицію можна застосувати до кошику (і товару)"
+
+#~ msgid "Max discount"
+#~ msgstr "Максимальна знижка"
+
+#~ msgid ""
+#~ "When an offer has given more discount to orders than this threshold, then "
+#~ "the offer becomes unavailable"
+#~ msgstr ""
+#~ "Якщо знижка на товари за пропозицією перевищує цей поріг, то пропозиція "
+#~ "стає недоступною"
+
+#~ msgid "Total Discount"
+#~ msgstr "Всього Знижок"
+
+#~ msgid "Number of applications"
+#~ msgstr "Кількість застосувань"
+
+#~ msgid "Number of Orders"
+#~ msgstr "Кількість Замовлень"
+
+#~ msgid "URL redirect (optional)"
+#~ msgstr "Перенаправлення URL (необов'язкове)"
+
+#~ msgid "Conditional offer"
+#~ msgstr "Умовна пропозиція"
+
+#~ msgid "Conditional offers"
+#~ msgstr "Умовні пропозиції"
+
+#~ msgid "End date should be later than start date"
+#~ msgstr "Дата кінця має бути пізніше за дату початку"
+
+#~ msgid "Offer is suspended"
+#~ msgstr "Пропозицію виключено"
+
+#~ msgid "Limited to %(total)d uses (%(remainder)d remaining)"
+#~ msgstr "Обмежено до %(total)d використань (%(remainder)d залишок)"
+
+#~ msgid "Limited to 1 use per user"
+#~ msgstr "Можна використати 1 раз одному користувачу"
+
+#~ msgid "Limited to %(total)d uses per user"
+#~ msgstr "Можна використати %(total)d разів одному користувачу"
+
+#~ msgid "Limited to 1 use per basket"
+#~ msgstr "В одному кошику можна використовувати лише 1 раз"
+
+#~ msgid "Limited to %(total)d uses per basket"
+#~ msgstr "В одному кошику можна використовувати %(total)d разів"
+
+#~ msgid "Available between %(start)s and %(end)s"
+#~ msgstr "Доступний між %(start)s і %(end)s"
+
+#~ msgid "Available from %(start)s"
+#~ msgstr "Доступно від %(start)s"
+
+#~ msgid "Available until %(end)s"
+#~ msgstr "Доступно до %(end)s"
+
+#~ msgid "Limited to a cost of %(max)s"
+#~ msgstr "Обмежено сумою %(max)s"
+
+#~ msgid "Range"
+#~ msgstr "Діапазон"
+
+#~ msgid "Discount is a percentage off of the product's value"
+#~ msgstr "Знижка - це відсоток від вартості товару"
+
+#~ msgid "Discount is a fixed amount off of the product's value"
+#~ msgstr "Знижка - це фіксована сума від вартості товару"
+
+#~ msgid "Discount is to give the cheapest product for free"
+#~ msgstr "Отримати найдешевший товар безкоштовно"
+
+#~ msgid "Get the products that meet the condition for a fixed price"
+#~ msgstr "Отримати товари, що задовільняють умові, за фіксованою ціною"
+
+#~ msgid "Max Affected Items"
+#~ msgstr "Максимальна Кількість Задіяних Позицій"
+
+#~ msgid ""
+#~ "Set this to prevent the discount consuming all items within the range "
+#~ "that are in the basket."
+#~ msgstr ""
+#~ "Встановіть це, щоб уникнути застосування знижки до всіх товарів "
+#~ "асортименту, що є в кошику."
+
+#~ msgid "Custom class"
+#~ msgstr "Спеціальний клас"
+
+#~ msgid "Benefits"
+#~ msgstr "Вигоди"
+
+#~ msgid "Multibuy benefits require a product range"
+#~ msgstr ""
+#~ "Знижки на покупку декількох товарів потребують товарного асортименту"
+
+#~ msgid "Multibuy benefits don't require a value"
+#~ msgstr "Знижки на покупку декількох товарів не потребують значення"
+
+#~ msgid "Multibuy benefits don't require a 'max affected items' attribute"
+#~ msgstr ""
+#~ "Знижки на покупку декількох товарів не потребують параметру 'Максимальна "
+#~ "Кількість Задіяних Позицій'"
+
+#~ msgid "Percentage benefits require a product range"
+#~ msgstr "Відсоткові знижки потребують товарного асортименту"
+
+#~ msgid "Percentage discount cannot be greater than 100"
+#~ msgstr "Відсоткова знижка не може бути більшою за 100"
+
+#~ msgid "A discount value is required"
+#~ msgstr "Потрібно вказати значення знижки"
+
+#~ msgid ""
+#~ "No range should be selected as this benefit does not apply to products"
+#~ msgstr ""
+#~ "Не потрібно обирати жоден асортимент, тому що ця вигода не застосовується "
+#~ "до товарів"
+
+#~ msgid "Shipping discounts don't require a 'max affected items' attribute"
+#~ msgstr ""
+#~ "Для знижок на доставку не потібний параметр 'Максимальна Кількість "
+#~ "Задіяних Позицій'"
+
+#~ msgid ""
+#~ "No range should be selected as the condition range will be used instead."
+#~ msgstr ""
+#~ "Не потрібно обирати асортимент, тому що натомість буде використано "
+#~ "умовний асортимент."
+
+#~ msgid "Fixed discount benefits require a product range"
+#~ msgstr "Для фіксованих знижок потрібно обрати асортимент товару"
+
+#~ msgid "Fixed discount benefits require a value"
+#~ msgstr "Для фіксованих знижок потрібне значення"
+
+#~ msgid "Depends on number of items in basket that are in condition range"
+#~ msgstr ""
+#~ "Залежить від кількості товарів у кошику, що задовольняють асортименту "
+#~ "умови"
+
+#~ msgid "Depends on value of items in basket that are in condition range"
+#~ msgstr ""
+#~ "Залежить від вартості товарів у кошику, що задовольняють асортименту умови"
+
+#~ msgid ""
+#~ "Needs to contain a set number of DISTINCT items from the condition range"
+#~ msgstr "Має містити задану кількість РІЗНИХ товарів із асортименту умови"
+
+#~ msgid "Conditions"
+#~ msgstr "Умови"
+
+#~ msgid "Is public?"
+#~ msgstr "Загальний?"
+
+#~ msgid "Public ranges have a customer-facing page"
+#~ msgstr ""
+#~ "У відкритих асортиментів має бути сторінка з інформацією для клієнтів"
+
+#~ msgid "Includes all products?"
+#~ msgstr "Включає всі товари?"
+
+#~ msgid "Included Products"
+#~ msgstr "Включені Товари"
+
+#~ msgid "Excluded Products"
+#~ msgstr "Виключені Товари"
+
+#~ msgid "Included Categories"
+#~ msgstr "Включені Категорії"
+
+#~ msgid "File Path"
+#~ msgstr "Розташування Файлу"
+
+#~ msgid "Size"
+#~ msgstr "Розмір"
+
+#~ msgid "Uploaded By"
+#~ msgstr "Завантажено"
+
+#~ msgid "Date Uploaded"
+#~ msgstr "Дата Завантаження"
+
+#~ msgid "Error Message"
+#~ msgstr "Повідомлення про Помилку"
+
+#~ msgid "Date Processed"
+#~ msgstr "Дата Обробки"
+
+#~ msgid "Number of New SKUs"
+#~ msgstr "Кількіть Нових Артикулів"
+
+#~ msgid "Number of Unknown SKUs"
+#~ msgstr "Кількість Невідомих Артикулів"
+
+#~ msgid "Number of Duplicate SKUs"
+#~ msgstr "Кількість Дубльованих Артикулів"
+
+#~ msgid "Range Product Uploaded File"
+#~ msgstr "Завантажений Файл з Асортиментом Товарів"
+
+#~ msgid "Range Product Uploaded Files"
+#~ msgstr "Завантажені Файли з Асортиментом Товарів"
+
+#~ msgid "%(value)s%% discount on %(range)s"
+#~ msgstr "%(value)s%% знижка на %(range)s"
+
+#~ msgid "Percentage discount benefit"
+#~ msgstr "Вигода за відсотковою знижкою"
+
+#~ msgid "Percentage discount benefits"
+#~ msgstr "Вигоди за відсотковою знижкою"
+
+#~ msgid "%(value)s discount on %(range)s"
+#~ msgstr "%(value)s знижка на %(range)s"
+
+#~ msgid "Absolute discount benefit"
+#~ msgstr "Вигода за абсолютною знижкою"
+
+#~ msgid "Absolute discount benefits"
+#~ msgstr "Вигоди за абсолютною знижкою"
+
+#~ msgid "The products that meet the condition are sold for %(amount)s"
+#~ msgstr "Товари, що задовольняють умовам, продаються за %(amount)s"
+
+#~ msgid "Fixed price benefit"
+#~ msgstr "Вигода за фіксованою ціною"
+
+#~ msgid "Fixed price benefits"
+#~ msgstr "Вигоди за фіксованою ціною"
+
+#~ msgid "Cheapest product from %(range)s is free"
+#~ msgstr "Найдешевший товар з %(range)s - безкоштовний"
+
+#~ msgid "Multibuy discount benefit"
+#~ msgstr "Вигода від знижки при масовій закупці"
+
+#~ msgid "Multibuy discount benefits"
+#~ msgstr "Вигоди від знижок при масових закупках"
+
+#~ msgid "%(amount)s off shipping cost"
+#~ msgstr "%(amount)s від вартості доставки"
+
+#~ msgid "Shipping absolute discount benefit"
+#~ msgstr "Вигода від абсолютної знижки на доставку"
+
+#~ msgid "Shipping absolute discount benefits"
+#~ msgstr "Вигоди від абсолютних знижок на доставку"
+
+#~ msgid "Get shipping for %(amount)s"
+#~ msgstr "Отримати доставку на  %(amount)s"
+
+#~ msgid "Fixed price shipping benefit"
+#~ msgstr "Вигода за фіксованою ціною на доставку"
+
+#~ msgid "Fixed price shipping benefits"
+#~ msgstr "Вигоди за фіксованою ціною на доставку"
+
+#~ msgid "%(value)s%% off of shipping cost"
+#~ msgstr "%(value)s%% від вартості доставки"
+
+#~ msgid "Shipping percentage discount benefit"
+#~ msgstr "Вигода за відсотковою знижкою на доставку"
+
+#~ msgid "Shipping percentage discount benefits"
+#~ msgstr "Вигоди за відсотковою знижкою на доставку"
+
+#~ msgid "Basket includes %(count)d item(s) from %(range)s"
+#~ msgstr "Кошик містить %(count)d товар(ів) з %(range)s"
+
+#~ msgid "Count condition"
+#~ msgstr "Кількісна умова"
+
+#~ msgid "Count conditions"
+#~ msgstr "Кількісні умови"
+
+#~ msgid "Buy %(delta)d more product from %(range)s"
+#~ msgid_plural "Buy %(delta)d more products from %(range)s"
+#~ msgstr[0] "Придбати ще %(delta)d товар із %(range)s"
+#~ msgstr[1] "Придбати ще %(delta)d товарів із %(range)s"
+#~ msgstr[2] "Придбати ще %(delta)d товарів із %(range)s"
+#~ msgstr[3] "Придбати ще %(delta)d товарів із %(range)s"
+
+#~ msgid "Basket includes %(count)d distinct item(s) from %(range)s"
+#~ msgstr "Кошик містить %(count)d різних товарів із %(range)s"
+
+#~ msgid "Coverage Condition"
+#~ msgstr "Умова Покриття"
+
+#~ msgid "Coverage Conditions"
+#~ msgstr "Умови Покриття"
+
+#~ msgid "Basket includes %(amount)s from %(range)s"
+#~ msgstr "Кошик містить %(amount)s з %(range)s"
+
+#~ msgid "Value condition"
+#~ msgstr "Вартісна умова"
+
+#~ msgid "Value conditions"
+#~ msgstr "Вартісні умови"
+
+#~ msgid "Spend %(value)s more from %(range)s"
+#~ msgstr "Витратити ще %(value)s з %(range)s"
+
+#~ msgid "Offer"
+#~ msgstr "Пропозиція"
+
+#~ msgid "Total discount"
+#~ msgstr "Всього знижок"
+
+#~ msgid "Offer performance"
+#~ msgstr "Ефективність пропозиції"
+
+#~ msgid "Site"
+#~ msgstr "Сайт"
+
+#~ msgid "Billing Address"
+#~ msgstr "Платіжна Адреса"
+
+#~ msgid "Order total (inc. tax)"
+#~ msgstr "Всього (з податками)"
+
+#~ msgid "Order total (excl. tax)"
+#~ msgstr "Всього (без податків)"
+
+#~ msgid "Shipping charge (inc. tax)"
+#~ msgstr "Ціна доставки (з податком)"
+
+#~ msgid "Shipping charge (excl. tax)"
+#~ msgstr "Ціна доставки (без податку)"
+
+#~ msgid "Shipping Address"
+#~ msgstr "Адреса Доставки"
+
+#~ msgid "Shipping method"
+#~ msgstr "Спосіб доставки"
+
+#~ msgid "Guest email address"
+#~ msgstr "Електронна адреса гостя"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status for order %(number)s (current "
+#~ "status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s' не є правильним статусом замовлення %(number)s "
+#~ "(правильний статус: '%(status)s')"
+
+#~ msgid "In progress"
+#~ msgstr "В процесі"
+
+#~ msgid "Note Type"
+#~ msgstr "Тип Нотатки"
+
+#~ msgid "Message"
+#~ msgstr "Повідомлення"
+
+#~ msgid "Order Note"
+#~ msgstr "Нотатка Замовлення"
+
+#~ msgid "Order Notes"
+#~ msgstr "Нотатки Замовлення"
+
+#~ msgid "Event Type"
+#~ msgstr "Тип Події"
+
+#~ msgid "Communication Event"
+#~ msgstr "Комунікаційна Подія"
+
+#~ msgid "Communication Events"
+#~ msgstr "Комунікаціїні Події"
+
+#~ msgid "'%(type)s' event for order #%(number)s"
+#~ msgstr "'%(type)s' подія для замовлення #%(number)s"
+
+#~ msgid "Partner name"
+#~ msgstr "Ім'я партнера"
+
+#~ msgid "Partner reference"
+#~ msgstr "Партнерська довідка"
+
+#~ msgid "This is the item number that the partner uses within their system"
+#~ msgstr "Номер товару, який використовується в системі партнера"
+
+#~ msgid "Partner Notes"
+#~ msgstr "Партнерські Нотатки"
+
+#~ msgid "Stock record"
+#~ msgstr "Складський запис"
+
+#~ msgid "Price (inc. tax)"
+#~ msgstr "Ціна (з податком)"
+
+#~ msgid "Price (excl. tax)"
+#~ msgstr "Ціна (без податку)"
+
+#~ msgid "Price before discounts (inc. tax)"
+#~ msgstr "Ціна без знижок (з податком)"
+
+#~ msgid "Price before discounts (excl. tax)"
+#~ msgstr "Ціна без знижок (без податку)"
+
+#~ msgid "Unit Cost Price"
+#~ msgstr "Вартість Одиниці Товару"
+
+#~ msgid "Unit Price (inc. tax)"
+#~ msgstr "Ціна Товару (з податком)"
+
+#~ msgid "Unit Price (excl. tax)"
+#~ msgstr "Ціна Товару (без податку)"
+
+#~ msgid "Unit Retail Price"
+#~ msgstr "Роздрібна Ціна Товару"
+
+#~ msgid "Estimated Dispatch Date"
+#~ msgstr "Приблизна Дата Відправки"
+
+#~ msgid "Order Line"
+#~ msgstr "Рядок Замовлення"
+
+#~ msgid "<missing product>"
+#~ msgstr "<відсутній товар>"
+
+#~ msgid "Product '%(name)s', quantity '%(qty)s'"
+#~ msgstr "Товар '%(name)s', кількість '%(qty)s'"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status (current status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s' не є коректним статусом (поточний статус: '%(status)s')"
+
+#~ msgid "'%(title)s' is no longer available"
+#~ msgstr "'%(title)s' вже недоступний"
+
+#~ msgid "Line Attribute"
+#~ msgstr "Атрибут Рядка"
+
+#~ msgid "Line Attributes"
+#~ msgstr "Атрибути Рядка"
+
+#~ msgid "Shiping (inc. tax)"
+#~ msgstr "Доставка (з податком)"
+
+#~ msgid "Shipping (excl. tax)"
+#~ msgstr "Доставка (без податку)"
+
+#~ msgid "Line Price"
+#~ msgstr "Ціна"
+
+#~ msgid "Line Prices"
+#~ msgstr "Ціни"
+
+#~ msgid "Line '%(number)s' (quantity %(qty)d) price %(price)s"
+#~ msgstr "Рядок '%(number)s' (кількість %(qty)d) ціна %(price)s"
+
+#~ msgid "Payment Event Type"
+#~ msgstr "Тип Платіжної Події"
+
+#~ msgid "Payment Event Types"
+#~ msgstr "Типи Платіжних Подій"
+
+#~ msgid "Amount"
+#~ msgstr "Сума"
+
+#~ msgid "Reference"
+#~ msgstr "Довідка"
+
+#~ msgid "Lines"
+#~ msgstr "Рядки"
+
+#~ msgid "Payment Event"
+#~ msgstr "Платіжна Подія"
+
+#~ msgid "Payment Events"
+#~ msgstr "Плтаіжні Події"
+
+#~ msgid "Payment event for order %s"
+#~ msgstr "Платіжна подія по замовленню %s"
+
+#~ msgid "Event"
+#~ msgstr "Подія"
+
+#~ msgid "Payment Event Quantity"
+#~ msgstr "Кількість Платіжної Події"
+
+#~ msgid "Payment Event Quantities"
+#~ msgstr "Кількості Платіжної Події"
+
+#~ msgid "Event notes"
+#~ msgstr "Нотатки по події"
+
+#~ msgid "This could be the dispatch reference, or a tracking number"
+#~ msgstr ""
+#~ "Це може бути інформація про відправлення або номер відстежування "
+#~ "замовлення"
+
+#~ msgid "Shipping Event"
+#~ msgstr "Подія Доставки"
+
+#~ msgid "Shipping Events"
+#~ msgstr "Події Доставки"
+
+#~ msgid "Order #%(number)s, type %(type)s"
+#~ msgstr "Замовлення #%(number)s, тип %(type)s"
+
+#~ msgid "Shipping Event Quantity"
+#~ msgstr "Кількість Події Доставки"
+
+#~ msgid "Shipping Event Quantities"
+#~ msgstr "Кількості Подій Доставки"
+
+#~ msgid "%(product)s - quantity %(qty)d"
+#~ msgstr "%(product)s - кількість %(qty)d"
+
+#~ msgid "Shipping Event Type"
+#~ msgstr "Тип Події Доставки"
+
+#~ msgid "Shipping Event Types"
+#~ msgstr "Типи Події Доставки"
+
+#~ msgid "Discount category"
+#~ msgstr "Категорія знижки"
+
+#~ msgid "Offer ID"
+#~ msgstr "Ідентифікатор Пропозиції"
+
+#~ msgid "Voucher ID"
+#~ msgstr "Ідентифікатор Купона"
+
+#~ msgid "Frequency"
+#~ msgstr "Частота"
+
+#~ msgid "Order Discount"
+#~ msgstr "Знижка на Замовлення"
+
+#~ msgid "Order Discounts"
+#~ msgstr "Знижки на Замовлення"
+
+#~ msgid "Discount of %(amount)r from order %(order)s"
+#~ msgstr "Знижка %(amount)r на замовлення %(order)s"
+
+#~ msgid "The selected quantity for line #%(line_id)s is too large"
+#~ msgstr "Вибрана кількість для рядку #%(line_id)s завелика"
+
+#~ msgid "Total incl. tax"
+#~ msgstr "Всього з податком"
+
+#~ msgid "Date placed"
+#~ msgstr "Дата розміщення"
+
+#~ msgid "Orders placed"
+#~ msgstr "Розміщені замовлення"
+
+#~ msgid "Empty baskets cannot be submitted"
+#~ msgstr "Не можна оформити пустий кошик"
+
+#~ msgid "There is already an order with number %s"
+#~ msgstr "Вже є замовлення з номером %s"
+
+#~ msgid "Fulfillment partner"
+#~ msgstr "Парнтерська компанія"
+
+#~ msgid "Fulfillment partners"
+#~ msgstr "Партнерські компанії"
+
+#~ msgid "Price (retail)"
+#~ msgstr "Ціна (роздрібна)"
+
+#~ msgid "Cost Price"
+#~ msgstr "Собівартість"
+
+#~ msgid "Number in stock"
+#~ msgstr "Кількість на складі"
+
+#~ msgid "Number allocated"
+#~ msgstr "Зарезервована кількість"
+
+#~ msgid "Low Stock Threshold"
+#~ msgstr "Мінімальний Залишок"
+
+#~ msgid "Invalid stock consumption request"
+#~ msgstr "Некоректний запит споживання запасів"
+
+#~ msgid "Stock Record"
+#~ msgstr "Складський Запис"
+
+#~ msgid "Threshold"
+#~ msgstr "Поріг"
+
+#~ msgid "Open"
+#~ msgstr "Відкрито"
+
+#~ msgid "Date Closed"
+#~ msgstr "Дата Закриття"
+
+#~ msgid "<stockalert for \"%(stock)s\" status %(status)s>"
+#~ msgstr "<stockalert for \"%(stock)s\" status %(status)s>"
+
+#~ msgid "Stock alert"
+#~ msgstr "Складське оповіщення"
+
+#~ msgid "Stock alerts"
+#~ msgstr "Складські нагадування"
+
+#~ msgid "unavailable"
+#~ msgstr "недоступно"
+
+#~ msgid "Unavailable"
+#~ msgstr "Недоступний"
+
+#~ msgid "Available"
+#~ msgstr "Доступно"
+
+#~ msgid "no stock available"
+#~ msgstr "Немає на складі"
+
+#~ msgid "a maximum of %(max)d can be bought"
+#~ msgstr "Можна придбати максимум %(max)d"
+
+#~ msgid "In stock"
+#~ msgstr "В наявності"
+
+#~ msgid "In stock (%d available)"
+#~ msgstr "В наявності (%d доступно)"
+
+#~ msgid "No file path supplied"
+#~ msgstr "Шлях до файлу не зазначено"
+
+#~ msgid "%s does not exist"
+#~ msgstr "%s не існує"
+
+#~ msgid "%s is not a file"
+#~ msgstr "%s не є файлом"
+
+#~ msgid "%s is not readable"
+#~ msgstr "%s не можна прочитати"
+
+#~ msgid "Source"
+#~ msgstr "Джерело"
+
+#~ msgid "%(type)s of %(amount).2f"
+#~ msgstr "%(type)s %(amount).2f"
+
+#~ msgid "Transaction"
+#~ msgstr "Транзакція"
+
+#~ msgid "Transactions"
+#~ msgstr "Транзакції"
+
+#~ msgid "Source Type"
+#~ msgstr "Тип Джерела"
+
+#~ msgid "Amount Allocated"
+#~ msgstr "Зарезервована Сума"
+
+#~ msgid "Amount Debited"
+#~ msgstr "Списана Сума"
+
+#~ msgid "Amount Refunded"
+#~ msgstr "Повернена Сума"
+
+#~ msgid "Label"
+#~ msgstr "Ярлик"
+
+#~ msgid "Sources"
+#~ msgstr "Джерела"
+
+#~ msgid "Allocation of %(amount)s from type %(type)s"
+#~ msgstr "Сума %(amount)s нарахована через %(type)s"
+
+#~ msgid " (reference: %s)"
+#~ msgstr "(довідка: %s)"
+
+#~ msgid "This is used within forms to identify this source type"
+#~ msgstr "Це використовується у формах для визначення типу джерела"
+
+#~ msgid "Source Types"
+#~ msgstr "Типи Джерел"
+
+#~ msgid "Card Type"
+#~ msgstr "Тип Картки"
+
+#~ msgid "Number"
+#~ msgstr "Номер"
+
+#~ msgid "Expiry Date"
+#~ msgstr "Термін Дії"
+
+#~ msgid "Partner Reference"
+#~ msgstr "Партнерська Довідка"
+
+#~ msgid "%(card_type)s %(number)s (Expires: %(expiry)s)"
+#~ msgstr "%(card_type)s %(number)s (Дійсна до: %(expiry)s)"
+
+#~ msgid "Bankcard"
+#~ msgstr "Банківська картка"
+
+#~ msgid "Bankcards"
+#~ msgstr "Банківські картки"
+
+#~ msgid "Payment"
+#~ msgstr "Платіж"
+
+#~ msgid "Card number"
+#~ msgstr "Номер картки"
+
+#~ msgid "Please enter a valid credit card number."
+#~ msgstr "Будь ласка, введіть правильний номер кредитної картки."
+
+#~ msgid "%s cards are not accepted."
+#~ msgstr "%s карти не приймаються для оплати"
+
+#~ msgid "Enter a valid month."
+#~ msgstr "Введіть правильний місяць."
+
+#~ msgid "Enter a valid year."
+#~ msgstr "Введіть правильний рік."
+
+#~ msgid "Valid to"
+#~ msgstr "Дійсна до"
+
+#~ msgid "The expiration date you entered is in the past."
+#~ msgstr " Вказана вами дата кінця - в минулому."
+
+#~ msgid "Valid from"
+#~ msgstr "Дійсна з"
+
+#~ msgid "The starting date you entered is in the future."
+#~ msgstr "Вказана вами дата початку у майбутньому."
+
+#~ msgid "CCV number"
+#~ msgstr "CCV номер"
+
+#~ msgid "Please enter a 3 or 4 digit number"
+#~ msgstr "Будь ласка, введіть 3 або 4-значний номер"
+
+#~ msgid ""
+#~ "This is the 3 or 4 digit security number on the back of your bankcard"
+#~ msgstr "Це 3 або 4-значний номер на звороті вашої картки"
+
+#~ msgid "American Express cards use a 4 digit security code"
+#~ msgstr "Для карток American Express потрібен 4-значний код безпеки"
+
+#~ msgid "Promotions"
+#~ msgstr "Реклама"
+
+#~ msgid "Display Order"
+#~ msgstr "Порядок Відображення"
+
+#~ msgid "Clicks"
+#~ msgstr "Кліки"
+
+#~ msgid "Linked Promotion"
+#~ msgstr "Прив'язана Реклама"
+
+#~ msgid "Linked Promotions"
+#~ msgstr "Прив'язані Реклами"
+
+#~ msgid "Page URL"
+#~ msgstr "URL Сторінки"
+
+#~ msgid "Page Promotion"
+#~ msgstr "Реклама Сторінки"
+
+#~ msgid "Page Promotions"
+#~ msgstr "Реклами Сторінки"
+
+#~ msgid "Filter"
+#~ msgstr "Фільтр"
+
+#~ msgid "Keyword Promotion"
+#~ msgstr "Просування Ключового Слова"
+
+#~ msgid "Keyword Promotions"
+#~ msgstr "Просування Ключового Слова"
+
+#~ msgid "Keywords"
+#~ msgstr "Ключові Слова"
+
+#~ msgid "Promotion"
+#~ msgstr "Реклама"
+
+#~ msgid "Display type"
+#~ msgstr "Тип відображення"
+
+#~ msgid ""
+#~ "This can be used to have different types of HTML blocks (eg different "
+#~ "widths)"
+#~ msgstr ""
+#~ "Це можна використовувати для різних блоків HTML (наприклад, різної ширини)"
+
+#~ msgid "Raw HTML"
+#~ msgstr "Сирий HTML"
+
+#~ msgid "Link URL"
+#~ msgstr "Лінка URL"
+
+#~ msgid "This is where this promotion links to"
+#~ msgstr "Ось до чого прив'язана ця реклама"
+
+#~ msgid ""
+#~ "Choose the Image content blocks that this block will use. (You may need "
+#~ "to create some first)."
+#~ msgstr ""
+#~ "Виберіть блоки вмісту типу Зображення, які цей блок буде використовувати "
+#~ "(спочатку варто створити декілька зображень)."
+
+#~ msgid "Multi Image"
+#~ msgstr "Мультизображення"
+
+#~ msgid "Multi Images"
+#~ msgstr "Мультизображення"
+
+#~ msgid "Single product"
+#~ msgstr "Одиничний Товар"
+
+#~ msgctxt "Promotion product list title"
+#~ msgid "Title"
+#~ msgstr "Назва"
+
+#~ msgid "Link text"
+#~ msgstr "Текст лінки"
+
+#~ msgid "Product list"
+#~ msgstr "Список товарів"
+
+#~ msgid "Product lists"
+#~ msgstr "Списки товарів"
+
+#~ msgid "Hand Picked Product List"
+#~ msgstr "Список Товарів, Створений Вручну"
+
+#~ msgid "Hand Picked Product Lists"
+#~ msgstr "Списки Товарів, Створені Вручну"
+
+#~ msgid "List"
+#~ msgstr "Список"
+
+#~ msgid "Ordered product"
+#~ msgstr "Замовлений товар"
+
+#~ msgid "Bestselling products"
+#~ msgstr "Лідери продажу"
+
+#~ msgid "Recently added products"
+#~ msgstr "Товари, додані недавно"
+
+#~ msgid "Method"
+#~ msgstr "Метод"
+
+#~ msgid "Number of Products"
+#~ msgstr "Кількість Товарів"
+
+#~ msgid "Automatic product list"
+#~ msgstr "Автоматичний список товарів"
+
+#~ msgid "Automatic product lists"
+#~ msgstr "Автоматичні списки товарів"
+
+#~ msgid "Tabbed Block"
+#~ msgstr "Табульований Блок"
+
+#~ msgid "Ordered Product List"
+#~ msgstr " Список Замовлених Товарів"
+
+#~ msgid "Ordered Product Lists"
+#~ msgstr "Списки Замовлених Товарів"
+
+#~ msgctxt "Tabbed block title"
+#~ msgid "Title"
+#~ msgstr "Назва"
+
+#~ msgid "Tabbed Blocks"
+#~ msgstr "Табульовані Блоки"
+
+#~ msgid "Search"
+#~ msgstr "Пошук"
+
+#~ msgid "Relevancy"
+#~ msgstr "За релевантністю"
+
+#~ msgid "Customer rating"
+#~ msgstr "Клієнтський рейтинг"
+
+#~ msgid "Newest"
+#~ msgstr "Найновіші"
+
+#~ msgid "Price high to low"
+#~ msgstr "За ціною, спочатку дорожчі"
+
+#~ msgid "Price low to high"
+#~ msgstr "За ціною, спочатку дешевші"
+
+#~ msgid "Title A to Z"
+#~ msgstr "За назвою від А до Я"
+
+#~ msgid "Title Z to A"
+#~ msgstr "За назвою від Я до А"
+
+#~ msgid "Page is not 'last', nor can it be converted to an int."
+#~ msgstr "Сторінка не 'last', і не може бути сконвертованою в ціле число."
+
+#~ msgid "Shipping Method"
+#~ msgstr "Спосіб Доставки"
+
+#~ msgid "Shipping Methods"
+#~ msgstr "Способи Доставки"
+
+#~ msgid "Price per order"
+#~ msgstr "Ціна за замовлення"
+
+#~ msgid "Price per item"
+#~ msgstr "Ціна за одиницю"
+
+#~ msgid "Free Shipping"
+#~ msgstr "Безкоштовна Доставка"
+
+#~ msgid "Order and Item Charge"
+#~ msgstr "Ціна Замовлення і Позиції"
+
+#~ msgid "Order and Item Charges"
+#~ msgstr "Ціни Замовлення і Позиції"
+
+#~ msgid "Default Weight"
+#~ msgstr "Вага за Умовчанням"
+
+#~ msgid "Default product weight in kg when no weight attribute is defined"
+#~ msgstr "Вага товару за умовчанням в кг, якщо не вказаний атрибут ваги."
+
+#~ msgid "Weight-based Shipping Method"
+#~ msgstr "Спосіб Доставки на Основі Ваги"
+
+#~ msgid "Weight-based Shipping Methods"
+#~ msgstr "Способи Доставки на Основі Ваги"
+
+#~ msgid "Upper Limit"
+#~ msgstr "Верхня Межа"
+
+#~ msgid ""
+#~ "Enter upper limit of this weight band in kg. The lower limit will be "
+#~ "determined by the other weight bands."
+#~ msgstr ""
+#~ "Введіть верхню межу цієї вагової категорії в кг. Нижня межа буде "
+#~ "визначена іншими ваговими категоріями."
+
+#~ msgid "Charge"
+#~ msgstr "Ціна"
+
+#~ msgid "Weight Band"
+#~ msgstr "Вагова Група"
+
+#~ msgid "Weight Bands"
+#~ msgstr "Вагові Групи"
+
+#~ msgid "Charge for weights up to %s kg"
+#~ msgstr "Ціна за вагу більшу за %s кг"
+
+#~ msgid "Shipping"
+#~ msgstr "Доставка"
+
+#~ msgid "Free shipping"
+#~ msgstr "Безкоштовна доставка"
+
+#~ msgid "No shipping required"
+#~ msgstr "Доставка не потрібна"
+
+#~ msgid "Fixed price shipping"
+#~ msgstr "Фіксований тариф"
+
+#~ msgid "You need to define some shipping methods"
+#~ msgstr "Потрібно обрати один зі способів доставки"
+
+#~ msgid ""
+#~ "This will be shown in the checkout and basket once the voucher is entered"
+#~ msgstr ""
+#~ "Це буде показано при оформленні та в кошику, коли купон буде введено"
+
+#~ msgid "Case insensitive / No spaces allowed"
+#~ msgstr "Регістр не має значення/ Пробіли не дозволені"
+
+#~ msgid "Can be used once by one customer"
+#~ msgstr "Може використовуватися клієнтом лише один раз"
+
+#~ msgid "Can be used multiple times by multiple customers"
+#~ msgstr "Може використовуватися багаторазово більш ніж одним клієнтом"
+
+#~ msgid "Can only be used once per customer"
+#~ msgstr "Може використовуватися один раз одним клієнтом"
+
+#~ msgid "Times added to basket"
+#~ msgstr "Разів додано в кошик"
+
+#~ msgid "Times on orders"
+#~ msgstr "Час по замовленнях"
+
+#~ msgid "Voucher"
+#~ msgstr "Купон"
+
+#~ msgid "This voucher has already been used"
+#~ msgstr "Цей купон вже використано"
+
+#~ msgid "This voucher is only available to signed in users"
+#~ msgstr "Цей купон доступний користувачам, що авторизувалися"
+
+#~ msgid "You have already used this voucher in a previous order"
+#~ msgstr "Ви вже використали цей купон для попереднього замовлення"
+
+#~ msgid "Voucher Application"
+#~ msgstr "Застосуваня Купона"
+
+#~ msgid "Voucher Applications"
+#~ msgstr "Застосування Купона"
+
+#~ msgid "'%(voucher)s' used by '%(user)s'"
+#~ msgstr "'%(voucher)s' , використані '%(user)s'"
+
+#~ msgid "Added to a basket"
+#~ msgstr "Додано в кошик"
+
+#~ msgid "Used in an order"
+#~ msgstr "Використано в замовленні"
+
+#~ msgid "Voucher performance"
+#~ msgstr "Ефективність купона"
+
+#~ msgid "Default"
+#~ msgstr "За умовчанням"
+
+#~ msgid "Private - Only the owner can see the wish list"
+#~ msgstr "Приватний - Тільки власник може бачити цей список бажань"
+
+#~ msgid ""
+#~ "Shared - Only the owner and people with access to the obfuscated link can "
+#~ "see the wish list"
+#~ msgstr ""
+#~ "В загальному доступі - Тільки власник і люди, що мають доступ до цієї "
+#~ "лінки, можут бачити список бажань"
+
+#~ msgid "Public - Everybody can see the wish list"
+#~ msgstr "Публічний - Всі можуть бачити цей список бажань"
+
+#~ msgid "Visibility"
+#~ msgstr "Видимість"
+
+#~ msgid "Wish List"
+#~ msgstr "Список Бажань"
+
+#~ msgid "Wish list line"
+#~ msgstr "Рядок списка бажань"
+
+#~ msgid "Wishlists"
+#~ msgstr "Список Бажань"
+
+#~ msgid "The URL \"%s\" does not exist"
+#~ msgstr "Такого URL \"%s\" не існує"
+
+#~ msgid "Specified page already exists!"
+#~ msgstr "Вказана сторінка вже існує!"
+
+#~ msgid "This field is required"
+#~ msgstr "Це поле обов'язкове "
+
+#~ msgid "This field is invalid as its value is forbidden"
+#~ msgstr "Це поле недійсне, оскільки його значення заборонене"
+
+#~ msgid "This is not a valid international phone format."
+#~ msgstr "Невірний формат міжнародного номеру телефону."
+
+#~ msgid "This is not a valid local phone format for %s."
+#~ msgstr "Невірний формат місцевого номеру телефону: %s."
+
+#~ msgid "This is not a valid local or international phone format."
+#~ msgstr "Невірний місцевий або міжнародний формат номеру телефону."
+
+#~ msgid "Check for products that are back in stock and send out alerts"
+#~ msgstr ""
+#~ "Перевірити наявність товарів, що є знов на складі та розіслати нагадування"
+
+#~ msgid "Permission denied!"
+#~ msgstr "Доступ заборонено!"
+
+#~ msgid "We're sorry but you are not permitted to access this page."
+#~ msgstr "Вибачте, але у вас немає доступу до цієї сторінки."
+
+#~ msgid "Page not found"
+#~ msgstr "Сторінку не знайдено"
+
+#~ msgid "Page not found!"
+#~ msgstr "Сторінку не знайдено!"
+
+#~ msgid "We're sorry but the page you are looking for can't be found."
+#~ msgstr "Вибачте, але сторінку, яку ви шукаєте, не знайдено."
+
+#~ msgid "Server error!"
+#~ msgstr "Помилка сервера!"
+
+#~ msgid ""
+#~ "We're sorry but something went terribly wrong and we've been unable to "
+#~ "generate the page you requested."
+#~ msgstr ""
+#~ "Вибачте, щось пішло не так і ми не змогли згенерувати потрібну сторінку."
+
+#~ msgid ""
+#~ "This incident has been logged and will be addressed by an engineer as "
+#~ "soon as possible."
+#~ msgstr ""
+#~ "Наша команда технічних спеціалістів працює над вирішенням цієї проблеми."
+
+#~ msgid "Home"
+#~ msgstr "Головна"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(title)s</strong> has been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> було додано до Вашого кошику."
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(quantity)s</strong> copies of <strong>%(title)s</strong>\n"
+#~ "    have been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(quantity)s</strong> копій <strong>%(title)s</strong>\n"
+#~ "було додано до Вашого кошика."
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been moved back to your basket.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> було переміщено назад до Вашого кошика.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been saved for later\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> було відкладено на потім\n"
+#~ "\n"
+
+#~ msgid "Your basket is now empty"
+#~ msgstr "Ваш кошик зараз пустий"
+
+#~ msgid ""
+#~ "\n"
+#~ "            Your basket total is now <strong>%(total)s</strong>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Загальна сума в кошику <strong>%(total)s</strong>"
+
+#~ msgid "View basket"
+#~ msgstr "Переглянути кошик"
+
+#~ msgid "Checkout now"
+#~ msgstr "Оформити"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket now qualifies for the \n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Тепер до Вашого кошика можна\n"
+#~ "застосувати пропозцію <strong>%(name)s</strong>.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket no longer qualifies for the\n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "До Вашого кошика вже не можна\n"
+#~ "застосувати пропозицію <strong>%(name)s</strong>.\n"
+
+#~ msgid "Important messages about items in your basket"
+#~ msgstr "Важливі повідомлення про товари у вашому кошику"
+
+#~ msgid "You could be missing out on offers!"
+#~ msgstr "Можливо, ви пропускаєте цікаві пропозиції!"
+
+#~ msgid ""
+#~ "\n"
+#~ "                <div class=\"warning\">%(message)s to qualify for the <a "
+#~ "href=\"%(url)s\">%(offer_name)s</a> special offer</div>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "<div class=\"warning\">%(message)s може кваліфікуватись на спеціальну "
+#~ "пропозицію <a href=\"%(url)s\">%(offer_name)s</a> </div>"
+
+#~ msgid "Items to buy now"
+#~ msgstr "Товари в кошику"
+
+#~ msgid "Price"
+#~ msgstr "Ціна"
+
+#~ msgid "Total"
+#~ msgstr "Всього"
+
+#~ msgid "Updating..."
+#~ msgstr "Оновлення..."
+
+#~ msgid "Update"
+#~ msgstr "Оновлення"
+
+#~ msgid "Remove"
+#~ msgstr "Видалити"
+
+#~ msgid "Save for later"
+#~ msgstr "Відкласти на потім"
+
+#~ msgid "Voucher/promo code"
+#~ msgstr "Купон/промокод"
+
+#~ msgid "I have a voucher code..."
+#~ msgstr "У мене є код купона..."
+
+#~ msgid "Adding..."
+#~ msgstr "Додавання..."
+
+#~ msgid "Add voucher"
+#~ msgstr "Додати купон"
+
+#~ msgid "or"
+#~ msgstr "або"
+
+#~ msgid "cancel"
+#~ msgstr "відмінити"
+
+#~ msgid "Totals"
+#~ msgstr "Всього"
+
+#~ msgid "Proceed to checkout"
+#~ msgstr "Оформити"
+
+#~ msgid "Your basket is empty."
+#~ msgstr "Ваш кошик пустий."
+
+#~ msgid "Continue shopping"
+#~ msgstr "Продовжити покупки"
+
+#~ msgid "Items to buy later"
+#~ msgstr "Товари, відкладені для купівлі потім"
+
+#~ msgid "Items"
+#~ msgstr "Товари"
+
+#~ msgid "Move to basket"
+#~ msgstr "Перемістити в кошик"
+
+#~ msgid "Qty"
+#~ msgstr "Кількість"
+
+#~ msgid "Total:"
+#~ msgstr "Всього:"
+
+#~ msgid "Basket total (before discounts)"
+#~ msgstr "Всього (без знижок)"
+
+#~ msgid "Discount"
+#~ msgstr "Знижка"
+
+#~ msgid "Basket total (after discounts)"
+#~ msgstr "Всього (зі знижками)"
+
+#~ msgid "Basket total"
+#~ msgstr "Всього "
+
+#~ msgid "Alternative shipping methods can be chosen during checkout"
+#~ msgstr "Альтернативні методи доставки можна обрати під час оформлення"
+
+#~ msgid "Shipping total (before discounts)"
+#~ msgstr "Всього доставка (без знижок)"
+
+#~ msgid "Shipping total (after discounts)"
+#~ msgstr "Всього доставка (зі знижками)"
+
+#~ msgid "Tax"
+#~ msgstr "Податок"
+
+#~ msgid "Post order actions"
+#~ msgstr "Дії після замовлення"
+
+#~ msgid "These will be applied once your order is placed."
+#~ msgstr "Це буде застосовано, як тільки Ви оформите замовлення."
+
+#~ msgid "Taxes will be added during checkout."
+#~ msgstr "Податок буде додано під час оформлення."
+
+#~ msgid "Show results for"
+#~ msgstr "Показати результати для"
+
+#~ msgid "Refine by"
+#~ msgstr "Уточнити"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> результат - показано <strong>%(start)s</"
+#~ "strong> до <strong>%(end)s</strong>."
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> результати - показано <strong>%(start)s</"
+#~ "strong> до <strong>%(end)s</strong>."
+#~ msgstr[2] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> результатів - показано <strong>"
+#~ "%(start)s</strong> до <strong>%(end)s</strong>."
+#~ msgstr[3] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> результатів - показано <strong>"
+#~ "%(start)s</strong> до <strong>%(end)s</strong>."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> результат."
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> результата."
+#~ msgstr[2] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> результатів."
+#~ msgstr[3] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> результатів."
+
+#~ msgid "<strong>0</strong> results."
+#~ msgstr "<strong>0</strong> результатів."
+
+#~ msgid "No products found."
+#~ msgstr "Товари не знайдено."
+
+#~ msgid "Edit this product"
+#~ msgstr "Редагувати цей товар"
+
+#~ msgid "Product Description"
+#~ msgstr "Опис Товару"
+
+#~ msgid "Product Information"
+#~ msgstr "Інформація про Товар"
+
+#~ msgid "Product Type"
+#~ msgstr "Тип товару"
+
+#~ msgid "Price (incl. tax)"
+#~ msgstr "Ціна (з податком)"
+
+#~ msgid "Availability"
+#~ msgstr "Доступність"
+
+#~ msgid "Number of reviews"
+#~ msgstr "Кількість відгуків"
+
+#~ msgid "See all reviews"
+#~ msgstr "Переглянути всі відгуки"
+
+#~ msgid "Customer Reviews"
+#~ msgstr "Відгуки Клієнтів"
+
+#~ msgid ""
+#~ "This product does not have any reviews yet -\n"
+#~ "                            <a href=\"%(add_review_url)s#addreview\">be "
+#~ "the first to write one</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "На цей товар ще немає відгуків - \n"
+#~ "<a href=\"%(add_review_url)s#addreview\">будьте першим, хто залишить "
+#~ "відгук</a>."
+
+#~ msgid "This product does not have any reviews yet"
+#~ msgstr "На цей товар ще немає відгуків"
+
+#~ msgid "Recommended items"
+#~ msgstr "Рекомендовані позиції"
+
+#~ msgid "Add to basket"
+#~ msgstr "Додати в кошик"
+
+#~ msgid "You have an active stock alert for this product."
+#~ msgstr "Вже інсує нагадування про появу на складі для цього товару."
+
+#~ msgid "You can get an email alert when this product is back in stock."
+#~ msgstr ""
+#~ "Ви можете отимати імейл-повідомлення, коли цей товар з'явиться на складі."
+
+#~ msgid "Notify me"
+#~ msgstr "Повідомити мене"
+
+#~ msgid "Add to wish list"
+#~ msgstr "Додати до списку бажань"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                            Add to '%(name)s' wish list\n"
+#~ "                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Додати до списку бажань '%(name)s'"
+
+#~ msgid "Create a new wishlist"
+#~ msgstr "Створити новий список бажань"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <span class=\"pull-left\">Product is in <a href="
+#~ "\"%(url)s\">'%(name)s'</a> wishlist.</span>\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "<span class=\"pull-left\">Цей товар -  <a href=\"%(url)s\">'%(name)s'</a> "
+#~ "в списку бажань.</span>"
+
+#~ msgid "Removing..."
+#~ msgstr "Видалення..."
+
+#~ msgid "Please login to add products to a wish list."
+#~ msgstr ""
+#~ "Будь ласка, увійдіть до систему, щоб додати товари до списку бажань."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Reviewed by you on %(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Ви залишили відгук %(review_date)s"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Reviewed by <strong>%(name)s</strong> on "
+#~ "%(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Залишено відгук <strong>%(name)s</strong>  %(review_date)s"
+
+#~ msgid "Is this review helpful?"
+#~ msgstr "Чи був цей відгук корисним?"
+
+#~ msgid "Yes"
+#~ msgstr "Так"
+
+#~ msgid "No"
+#~ msgstr "Ні"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customer "
+#~ "found this useful\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customers "
+#~ "found this useful\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(num_up_votes)s</strong> з %(num_votes)s клієнта вважають це "
+#~ "корисним"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(num_up_votes)s</strong> з %(num_votes)s клієнтів вважають це "
+#~ "корисним"
+#~ msgstr[2] ""
+#~ "\n"
+#~ "<strong>%(num_up_votes)s</strong> з %(num_votes)s клієнтів вважають це "
+#~ "корисним"
+#~ msgstr[3] ""
+#~ "\n"
+#~ "<strong>%(num_up_votes)s</strong> з %(num_votes)s клієнтів вважають це "
+#~ "корисним"
+
+#~ msgid "This review has no votes."
+#~ msgstr "За цей відгук ще немає голосів."
+
+#~ msgid "Free"
+#~ msgstr "Безкоштовно"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer review\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer reviews\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "\n"
+#~ "%(num_reviews)s відгук клієнтів"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "%(num_reviews)s відгуки клієнтів"
+#~ msgstr[2] ""
+#~ "\n"
+#~ "%(num_reviews)s відгуків клієнтів"
+#~ msgstr[3] ""
+#~ "\n"
+#~ "%(num_reviews)s відгуків клієнтів"
+
+#~ msgid "Write a review"
+#~ msgstr "Написати відгук"
+
+#~ msgid "Customer reviews"
+#~ msgstr "Відгуки клієнта"
+
+#~ msgid "Leave a product review"
+#~ msgstr "Залишити відгук на товар"
+
+#~ msgid "Saving..."
+#~ msgstr "Збереження..."
+
+#~ msgid "Save review"
+#~ msgstr "Зберегти відгук"
+
+#~ msgid "This product does not have any reviews yet."
+#~ msgstr "На цей товар ще немає відгуків."
+
+#~ msgid "Change"
+#~ msgstr "Змінити"
+
+#~ msgid "Contact"
+#~ msgstr "Контакт"
+
+#~ msgid "Phone"
+#~ msgstr "Телефон"
+
+#~ msgid "Payment details to go here"
+#~ msgstr "Деталі платежу тут"
+
+#~ msgid "Edit order contents"
+#~ msgstr "Редагувати замовлення"
+
+#~ msgid "Order contents"
+#~ msgstr "Зміст замовлення"
+
+#~ msgid "Item"
+#~ msgstr "Товар"
+
+#~ msgid "Checkout gateway"
+#~ msgstr "Платіжна система"
+
+#~ msgid "Who are you?"
+#~ msgstr "Хто Ви?"
+
+#~ msgid "Get a password reminder"
+#~ msgstr "Відновити пароль"
+
+#~ msgid "Continuing..."
+#~ msgstr "Продовження..."
+
+#~ msgid "Continue"
+#~ msgstr "Продовжити"
+
+#~ msgid "1. Shipping address"
+#~ msgstr "1. Адреса доставки"
+
+#~ msgid "2. Shipping method"
+#~ msgstr "2. Спосіб доставки"
+
+#~ msgid "3. Payment"
+#~ msgstr "3. Оплата"
+
+#~ msgid "4. Preview"
+#~ msgstr "4. Попередній перегляд"
+
+#~ msgid "5. Confirmation"
+#~ msgstr "5. Підтвердження"
+
+#~ msgid "Payment details"
+#~ msgstr "Деталі оплати"
+
+#~ msgid "Enter payment details"
+#~ msgstr "Ввести деталі платежу"
+
+#~ msgid ""
+#~ "This page needs implementing within your project.  You may want to use "
+#~ "one of Oscar's payment gateway libraries:"
+#~ msgstr ""
+#~ "Цю сторінку потрібно налаштувати у Вашому проекті. Можливо, Ви захочете "
+#~ "скористатися однією з бібліотек платіжних систем Oscar:"
+
+#~ msgid "Order preview"
+#~ msgstr "Попередній перегляд замовлення"
+
+#~ msgid "Preview order"
+#~ msgstr "Замовлення"
+
+#~ msgid "Place order"
+#~ msgstr "Розмістити замовлення"
+
+#~ msgid "Where should we ship to?"
+#~ msgstr "Куди доставити замовлення?"
+
+#~ msgid "An address from your address book?"
+#~ msgstr "Адреса з Вашої адресної книги?"
+
+#~ msgid "Ship to your default shipping address"
+#~ msgstr "Відправити на адресу за умовчанням"
+
+#~ msgid "Ship to this address"
+#~ msgstr "Доставити на цю адресу"
+
+#~ msgid "Delete"
+#~ msgstr "Видалити"
+
+#~ msgid "Or a new address?"
+#~ msgstr "Чи нова адреса?"
+
+#~ msgid "return to basket"
+#~ msgstr "повернутися в кошик"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                This includes a discount of <strong>"
+#~ "%(amount)s</strong> as\n"
+#~ "                                your basket qualifies for the <strong>"
+#~ "%(name)s</strong> offer.\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "Сюди включена знижка у розмірі %(amount)s тому, що Ваш кошик "
+#~ "кваліфіковано на пропозицію '%(name)s' ."
+
+#~ msgid "Select option"
+#~ msgstr "Оберіть варіант"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s: confirmation\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Замовлення %(number)s: підтвердження"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Your order has been placed and a confirmation email has been sent "
+#~ "- your order number is\n"
+#~ "        <strong>%(number)s</strong>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "Ваше замовлення розміщено та надіслано імейл з підтвердженням. Номер "
+#~ "Вашого замовлення\n"
+#~ "<strong>%(number)s</strong>."
+
+#~ msgid ""
+#~ "Please make a note of this reference or print this page and quote it in "
+#~ "any communication with us regarding your order."
+#~ msgstr ""
+#~ "Будь ласка, збережіть цю інформацію або роздрукуйте сторінку і "
+#~ "посилайтесь на неї в разі, якщо у Вас виникнуть питання до нас з приводу "
+#~ "замовлення."
+
+#~ msgid "No shipping address required."
+#~ msgstr "Адреса доставки не потрібна."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s (reference: %(reference)s)\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "Запит суми %(amount)s із платіжного джерела %(type)s (посилання "
+#~ "%(reference)s)"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "Запит суми %(amount)s із платіжного джерела %(type)s"
+
+#~ msgid "No payment was required for this order."
+#~ msgstr "Для цього замовлення не потрібна оплата."
+
+#~ msgid "Items purchased"
+#~ msgstr "Придбані позиції"
+
+#~ msgid ""
+#~ "\n"
+#~ "                            Estimated dispatch: <strong>%(date)s</"
+#~ "strong>\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Очікувана дата доставки: <strong>%(date)s</strong>"
+
+#~ msgid "Shipping charge (before discounts)"
+#~ msgstr "За доставку (без знижок)"
+
+#~ msgid "Shipping charge (after discounts)"
+#~ msgstr "За доставку (зі знижками)"
+
+#~ msgid "Shipping charge"
+#~ msgstr "Ціна доставки"
+
+#~ msgid "Order tax"
+#~ msgstr "Податок на замовлення"
+
+#~ msgid "Tracking your order"
+#~ msgstr "Відстеження Вашого замовлення"
+
+#~ msgid "You can track the status of your order"
+#~ msgstr "Ви можете відстежити статус свого замовлення"
+
+#~ msgid "View order status"
+#~ msgstr "Переглянути статус замовлення"
+
+#~ msgid "Print this page"
+#~ msgstr "Роздрукувати цю сторінку"
+
+#~ msgid "Are you sure you want to delete this address?"
+#~ msgstr "Ви впевнені, що хочете видалити цю адресу?"
+
+#~ msgid "Yes!"
+#~ msgstr "Так!"
+
+#~ msgid "Save"
+#~ msgstr "Зберегти"
+
+#~ msgid "Address book"
+#~ msgstr "Адресна книга"
+
+#~ msgid "Deleting..."
+#~ msgstr "Видалення..."
+
+#~ msgid "Default shipping address"
+#~ msgstr "Адреса доставки за умовчанням"
+
+#~ msgid "Default billing address"
+#~ msgstr "Платіжна адреса за умовчанням"
+
+#~ msgid "Edit"
+#~ msgstr "Редагувати"
+
+#~ msgid "Set as default shipping address"
+#~ msgstr "Встановити як адресу доставки за умовчанням"
+
+#~ msgid "Set as default billing address"
+#~ msgstr "Встановити як платіжну адресу за умовчанням"
+
+#~ msgid "There are no addresses in your address book."
+#~ msgstr "У Вашій адресній книзі немає адрес."
+
+#~ msgid "You do not have any active alerts for out-of-stock products."
+#~ msgstr "У вас немає активних нагадувань для товарів, яких немає на складі."
+
+#~ msgid "Cancel"
+#~ msgstr "Відмінити"
+
+#~ msgid ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> is back in stock\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> знов є на складі\n"
+
+#~ msgid "Order #%(number)s"
+#~ msgstr "Замовлення №%(number)s"
+
+#~ msgid "Contact number"
+#~ msgstr "Контактний телефон"
+
+#~ msgid "Notes"
+#~ msgstr "Нотатки"
+
+#~ msgid "Estimated dispatch date"
+#~ msgstr "Приблизна дата відправки"
+
+#~ msgid "Line price excl. tax"
+#~ msgstr "Ціна без податку"
+
+#~ msgid "Line price incl. tax"
+#~ msgstr "Ціна з податком"
+
+#~ msgid "Basket total (inc. tax)"
+#~ msgstr "Всього (з податком)"
+
+#~ msgid "Email history"
+#~ msgstr "Історія листування"
+
+#~ msgid "Date sent"
+#~ msgstr "Дата відправлення"
+
+#~ msgid "No emails found"
+#~ msgstr "Імейлів не знайдено"
+
+#~ msgid "Thanks for using our site!"
+#~ msgstr "Дякуємо, що скористалися цим сайтом!"
+
+#~ msgid "The %(name)s team"
+#~ msgstr "Команда %(name)s"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately "
+#~ "and correct your email address:"
+#~ msgstr ""
+#~ "Якщо це не Ви змінили аресу, будь ласка, оновіть свій пароль негайно і "
+#~ "виправте свою імейл-адресу:"
+
+#~ msgid ""
+#~ "If it was you who changed the email address, you can ignore this email."
+#~ msgstr ""
+#~ "Якщо це Ви змінили імейл-адресу, просто проігноруйте це повідомлення."
+
+#~ msgid ""
+#~ "You're receiving this email because your email address has been changed "
+#~ "to %(email)s."
+#~ msgstr ""
+#~ "Ви отримали це повідомлення тому, що Вашу імейл-адресу було змінено на "
+#~ "%(email)s."
+
+#~ msgid "Your email address has changed at %(site_name)s."
+#~ msgstr "Вашу імейл-адресу на %(site_name)s змінено."
+
+#~ msgid "Hello,"
+#~ msgstr "Привіт,"
+
+#~ msgid "Your order contains:"
+#~ msgstr "Ваше замовлення складається з:"
+
+#~ msgid "Basket total:"
+#~ msgstr "Всього:"
+
+#~ msgid "Shipping:"
+#~ msgstr "Доставка:"
+
+#~ msgid "Order Total:"
+#~ msgstr "Всього:"
+
+#~ msgid "Shipping address:"
+#~ msgstr "Адреса доставки:"
+
+#~ msgid ""
+#~ "You can view the status of this order by clicking <a href=\"%(status_url)s"
+#~ "\" title=\"order status\">here</a>"
+#~ msgstr ""
+#~ "Ви можете переглянути статус цього замовлення <a href=\"%(status_url)s\" "
+#~ "title=\"order status\">тут</a>"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "We are pleased to confirm your order %(order_number)s has been received "
+#~ "and\n"
+#~ "will be processed shortly."
+#~ msgstr ""
+#~ "Привіт,\n"
+#~ "\n"
+#~ "Ми раді повідомити, що Ваше замовлення %(order_number)s в системі і\n"
+#~ "чекає на обробку."
+
+#~ msgid "quantity:"
+#~ msgstr "кількість:"
+
+#~ msgid "price:"
+#~ msgstr "ціна:"
+
+#~ msgid ""
+#~ "You can view the status of this order at the below URL:\n"
+#~ "%(status_url)s"
+#~ msgstr ""
+#~ "Ви можете переглянути статус цього замовлення по лінкі:\n"
+#~ "%(status_url)s"
+
+#~ msgid "The team"
+#~ msgstr "Команда"
+
+#~ msgid "Confirmation of order %(number)s"
+#~ msgstr "Підтвердження замовлення %(number)s"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately:"
+#~ msgstr "Якщо це не Ви змінили пароль, будь ласка, змініть його негайно:"
+
+#~ msgid "Otherwise, you can ignore this email."
+#~ msgstr "В іншому випадку Ви можете проігнорувати цей імейл."
+
+#~ msgid ""
+#~ "\n"
+#~ "You're receiving this email because your password has been changed at "
+#~ "%(name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Ви отримали це повідомлення тому, що Ваш пароль на %(name)s. було "
+#~ "змінено.\n"
+
+#~ msgid "Your password changed at %(site_name)s."
+#~ msgstr "Ваш пароль на %(site_name)s змінено."
+
+#~ msgid ""
+#~ "You're receiving this e-mail because you requested a password reset for "
+#~ "your user account at %(name)s."
+#~ msgstr ""
+#~ "Ви отримали це повідомлення тому, що побажали змінити пароль до Вашого "
+#~ "акаунту на %(name)s."
+
+#~ msgid "Please go to the following page and choose a new password:"
+#~ msgstr "Будь ласка, пройдіть на наступну сторінку і оберіть новий пароль:"
+
+#~ msgid "Resetting your password at %(site_name)s."
+#~ msgstr "Зміна пароля на %(site_name)s."
+
+#~ msgid "Dear %(name)s,"
+#~ msgstr "Любі %(name)s,"
+
+#~ msgid ""
+#~ "\n"
+#~ "Beware that the amount of items in stock is limited. Be quick or someone "
+#~ "might get there first.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Увага, кількість товарів на складі обмежена. Дійте швидко, або хтось "
+#~ "інший Вас випередить.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "With this email we have disabled your alert automatically and you will "
+#~ "not\n"
+#~ "receive any further email regarding this product.\n"
+#~ "\n"
+#~ "Thanks for your interest,\n"
+#~ "The %(site_name)s Team\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Цим імейлом ми автоматично відмінили нагадування, і Ви\n"
+#~ "більше\n"
+#~ "не отримуватиме повідомлень про цей товар.\n"
+#~ "\n"
+#~ "Дякуємо за Ваш інтерес,\n"
+#~ "Команда %(site_name)s\n"
+
+#~ msgid "Confirmation required for stock alert"
+#~ msgstr "Для складського нагадування потрібне підтвердження"
+
+#~ msgid "Thank you for registering."
+#~ msgstr "Дякуємо за реєстрацію."
+
+#~ msgid "Products you recently viewed"
+#~ msgstr "Товари, які Ви нещодавно переглядали"
+
+#~ msgid "Log In"
+#~ msgstr "Увійти"
+
+#~ msgid "I've forgotten my password"
+#~ msgstr "Забули пароль?"
+
+#~ msgid "Logging in..."
+#~ msgstr "Логування..."
+
+#~ msgid "Register"
+#~ msgstr "Зареєструватися"
+
+#~ msgid "Registering..."
+#~ msgstr "Реєстрація..."
+
+#~ msgid "Notifications inbox"
+#~ msgstr "Скринька з нагадуваннями"
+
+#~ msgid "Sender"
+#~ msgstr "Від кого"
+
+#~ msgid "Return to notifications inbox"
+#~ msgstr "Повернутися до вхідних нагадувань"
+
+#~ msgctxt "noun"
+#~ msgid "Archive"
+#~ msgstr "Архів"
+
+#~ msgid "View"
+#~ msgstr "Вид"
+
+#~ msgctxt "verb"
+#~ msgid "Archive"
+#~ msgstr "Архів"
+
+#~ msgid "With selected items:"
+#~ msgstr "З обраними позиціями:"
+
+#~ msgid "Archiving..."
+#~ msgstr "Архівація..."
+
+#~ msgid "There are no notifications to display."
+#~ msgstr "Немає нагадувань."
+
+#~ msgid "Order history"
+#~ msgstr "Історія замовлень"
+
+#~ msgid "Dispatch date"
+#~ msgstr "Дата відправки"
+
+#~ msgid "Re-ordering..."
+#~ msgstr "Ще одне замовлення..."
+
+#~ msgid "Re-order"
+#~ msgstr "Замовити ще раз"
+
+#~ msgid "Not available anymore"
+#~ msgstr "Вже недоступне"
+
+#~ msgid "Basket total (excl. discounts)"
+#~ msgstr "Всього (без знижок)"
+
+#~ msgid "Basket total (inc. discounts)"
+#~ msgstr "Всього (зі знижками)"
+
+#~ msgid "Shipping total (excl. discounts)"
+#~ msgstr "Всього доставка (без знижок)"
+
+#~ msgid "Shipping total (inc. discounts)"
+#~ msgstr "Всього доставка (зі знижками)"
+
+#~ msgid "Shipping total"
+#~ msgstr "Всього доставка"
+
+#~ msgid "Re-order all items"
+#~ msgstr "Перезамовити всі позиції"
+
+#~ msgid "Contact Number"
+#~ msgstr "Контактний номер"
+
+#~ msgid "Shipping Notes"
+#~ msgstr "Примітки до доставки"
+
+#~ msgid "Filtering..."
+#~ msgstr "Фільтрування..."
+
+#~ msgid "Filter results"
+#~ msgstr "Фільтрувати результати"
+
+#~ msgid "Reset"
+#~ msgstr "Скинути"
+
+#~ msgid "Total inc tax"
+#~ msgstr "Всього з податком"
+
+#~ msgid "No orders match your search."
+#~ msgstr "Нема замовлень, що відповідають вашому запиту."
+
+#~ msgid "You haven't placed any orders."
+#~ msgstr "Ви ще не розмістили замовлень."
+
+#~ msgid "Change password"
+#~ msgstr "Змінити пароль"
+
+#~ msgid "Edit profile"
+#~ msgstr "Редагувати профіль"
+
+#~ msgid "Please confirm your password to delete your profile."
+#~ msgstr "Будь ласка, підтвердіть ваш пароль, щоб видалити профіль."
+
+#~ msgid "Warning"
+#~ msgstr "Попередження"
+
+#~ msgid ""
+#~ "\n"
+#~ "                This will delete all information about you from the "
+#~ "site.  Deleting your profile cannot be\n"
+#~ "                undone.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Цією дією ви видаляєте всю інформацію про вас на цьому сайті. Видалення "
+#~ "профілю не може бути \n"
+#~ "скасовано."
+
+#~ msgid "Delete?"
+#~ msgstr "Видалити?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Ви впевнені, що хочете видалити %(name)s?"
+
+#~ msgid "Remove product"
+#~ msgstr "Видалити товар"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(product_name)s from "
+#~ "wish list %(wishlist_name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Ви точно хочете видалити товар %(product_name)s зі списку бажань "
+#~ "%(wishlist_name)s?"
+
+#~ msgid "Action"
+#~ msgstr "Дія"
+
+#~ msgid "View product"
+#~ msgstr "Переглянути товар"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                            Move to "
+#~ "'%(name)s' wish list\n"
+#~ "                                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Перенести до списка бажань '%(name)s'"
+
+#~ msgid "Update quantities"
+#~ msgstr "Оновити кількості"
+
+#~ msgid "Your wish list is empty."
+#~ msgstr "Ваш список бажань пустий."
+
+#~ msgid "Create"
+#~ msgstr "Створити"
+
+#~ msgid "What should your new wish list be called?"
+#~ msgstr "Як назвати Ваш новий список бажань?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    After your wishlist is created, <strong>%(title)s</"
+#~ "strong> will be added.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Після того, як створиться список бажань, буде додано <strong>%(title)s</"
+#~ "strong>."
+
+#~ msgid "Number of products"
+#~ msgstr "Кількість товарів"
+
+#~ msgid "Wish list settings"
+#~ msgstr "Налаштування списку бажань"
+
+#~ msgid "You don't have any wish lists yet."
+#~ msgstr "У вас ще немає списку побажань."
+
+#~ msgid "Sections"
+#~ msgstr "Секції"
+
+#~ msgid "Delete category?"
+#~ msgstr "Видалити категорію?"
+
+#~ msgid "Delete category"
+#~ msgstr "Видалити категорію"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <p>Delete category <strong>%(name)s</strong> - are you sure?</"
+#~ "p>\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Видалити категорію <strong>%(name)s</strong> - Ви впевнені?</p>"
+
+#~ msgid "Create new category"
+#~ msgstr "Створити нову категорію"
+
+#~ msgid "You are editing:"
+#~ msgstr "Ви редагуєте:"
+
+#~ msgid "There are no categories."
+#~ msgstr "Немає категорій."
+
+#~ msgid "Edit category"
+#~ msgstr "Редагувати категорію"
+
+#~ msgid "Add child category"
+#~ msgstr "Додати підкатегорію"
+
+#~ msgid "Edit children"
+#~ msgstr "Редагувати підкатегорії"
+
+#~ msgid "View on site"
+#~ msgstr "Переглянути на сайті"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Створений варіант товару '%(name)s'."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Створений варіант товару '%(parent_name)s'."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Оновлений варіант товару '%(name)s'."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated a variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Оновлений варіант товару '%(parent_name)s'."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Created product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Створений товар '%(name)s'."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Updated product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Оновлений товар '%(name)s'."
+
+#~ msgid "Edit again"
+#~ msgstr "Знову редагувати"
+
+#~ msgid "View it on the site"
+#~ msgstr "Переглянути на сайті"
+
+#~ msgid "Delete product type?"
+#~ msgstr "Видалити тип товару?"
+
+#~ msgid ""
+#~ "Please make sure all products are assigned to another type before "
+#~ "deletion."
+#~ msgstr ""
+#~ "Будь ласка, перед видаленням переконайтеся, що всім товарам призначений "
+#~ "інший тип."
+
+#~ msgid "Delete product type"
+#~ msgstr "Видалити тип товару"
+
+#~ msgid "Delete product type <strong>%(name)s</strong> - are you sure?"
+#~ msgstr "Видалити тип товару <strong>%(name)s</strong> - Ви впевнені?"
+
+#~ msgid "Create product type"
+#~ msgstr "Створити тип товару"
+
+#~ msgid "Product Class details"
+#~ msgstr "Подробиці класу продукта"
+
+#~ msgid "Create new product type"
+#~ msgstr "Створити новий тип товару"
+
+#~ msgid "Product types"
+#~ msgstr "Типи товарів"
+
+#~ msgid "Requires shipping"
+#~ msgstr "Вимагає доставки"
+
+#~ msgid "Track stock?"
+#~ msgstr "Відстежувати товар на складі?"
+
+#~ msgid "Edit product type"
+#~ msgstr "Редагувати типи товарів"
+
+#~ msgid "There are no product types."
+#~ msgstr "Немає типів товару."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product variant <strong>%(title)s</strong> - "
+#~ "are you sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Видалити варіант товару <strong>%(title)s</strong> - Ви впевнені?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product <strong>%(title)s</strong> - are you "
+#~ "sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "Видалити товар <strong>%(title)s</strong> - Ви впевнені?"
+
+#~ msgid "This will also delete the following child products:"
+#~ msgstr "Так само видаляться дочірні товари:"
+
+#~ msgid "Create new product"
+#~ msgstr "Створити новий товар"
+
+#~ msgid "New Product"
+#~ msgstr "Новий Товар"
+
+#~ msgid "Search Products"
+#~ msgstr "Шукати Серед Товарів"
+
+#~ msgid "Searching..."
+#~ msgstr "Пошук..."
+
+#~ msgid ""
+#~ "\n"
+#~ "                            You are currently editing a product variant "
+#~ "of\n"
+#~ "                            <a href=\"%(parent_url)s\">%(title)s</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "В даний момент ви редагуєте варіант товару\n"
+#~ "<a href=\"%(parent_url)s\">%(title)s</a>."
+
+#~ msgid "Product details"
+#~ msgstr "Деталі товару"
+
+#~ msgid "Images"
+#~ msgstr "Зображення"
+
+#~ msgid "Stock and pricing"
+#~ msgstr "Інформація про наявність на складі і ціну"
+
+#~ msgid "Upselling"
+#~ msgstr "Апсейл"
+
+#~ msgid "Product Type:"
+#~ msgstr "Тип товару:"
+
+#~ msgid "Upload, change or remove images"
+#~ msgstr "Завантажити, змінити або видалити зображення"
+
+#~ msgid "SKU"
+#~ msgstr "ІТП (ідентифікатор товарної позиції)"
+
+#~ msgid "Num in stock"
+#~ msgstr "Кількість на складі"
+
+#~ msgid "Num allocated"
+#~ msgstr "Зарезервована кількість"
+
+#~ msgid "Low stock threshold"
+#~ msgstr "Мінімальний залишок"
+
+#~ msgid "Cost price"
+#~ msgstr "Собівартість"
+
+#~ msgid "Price (excl tax)"
+#~ msgstr "Ціна (без податку)"
+
+#~ msgid "Retail price"
+#~ msgstr "Роздрібна ціна товару"
+
+#~ msgid "Add variant"
+#~ msgstr "Додати варіант"
+
+#~ msgid "This product does not have any variants."
+#~ msgstr "Цей товар не має варіантів."
+
+#~ msgid "One can't add variants to this product at this point."
+#~ msgstr "На даному етапі не можна додати варіанти для цього товару."
+
+#~ msgid "This is likely because this product still has stock records."
+#~ msgstr "Можливо через те, що у цього товару все ще є складські записи."
+
+#~ msgid "Save and add another variant"
+#~ msgstr "Зберегти і додати ще варіант"
+
+#~ msgid "Save and continue editing"
+#~ msgstr "Зберегти та продовжити редагування"
+
+#~ msgid "All"
+#~ msgstr "Всі"
+
+#~ msgid "Current available stock"
+#~ msgstr "Зараз в наявності на складі"
+
+#~ msgid "Date alert raised"
+#~ msgstr "Дата нагадування"
+
+#~ msgid "No stock alerts found."
+#~ msgstr "Не знайдено складських нагадувань."
+
+#~ msgid "Preview"
+#~ msgstr "Попередній перегляд"
+
+#~ msgid "Edit email"
+#~ msgstr "Редагувати імейл"
+
+#~ msgid "Email content"
+#~ msgstr "Зміст імейла"
+
+#~ msgid "These fields are rendered using Django's template system."
+#~ msgstr "Ці поля створюються за допомогою системи шаблонів Django."
+
+#~ msgid "You can use the following variables:"
+#~ msgstr "Ви можете використовувати наступні змінні:"
+
+#~ msgid "The full name of the user (if they have one)"
+#~ msgstr "Повне ім'я користувача (якщо є)"
+
+#~ msgid "The user's email address"
+#~ msgstr "Імейл адреса користувача"
+
+#~ msgid "The name of the site (eg example.com)"
+#~ msgstr "Назва сайту (напр. example.com)"
+
+#~ msgid "View a preview of this email using order:"
+#~ msgstr "Переглянути цей імейл, використовуючи замовлення:"
+
+#~ msgid "View preview"
+#~ msgstr "Попередній перегляд"
+
+#~ msgid "or send a preview to:"
+#~ msgstr "або надіслати тестовий імейл на:"
+
+#~ msgid "Sending..."
+#~ msgstr "Відсилання..."
+
+#~ msgid "Send preview email"
+#~ msgstr "Надіслати тестовий імейл"
+
+#~ msgid "Body text"
+#~ msgstr "Текст тіла"
+
+#~ msgid "There are no defined emails to edit."
+#~ msgstr "Немає імейлів для редагування."
+
+#~ msgid "Your Store Statistics"
+#~ msgstr "Статистика Магазину"
+
+#~ msgid "Total Orders"
+#~ msgstr "Всього Замовлень"
+
+#~ msgid "New Customers"
+#~ msgstr "Нові Клієнти"
+
+#~ msgid "Total Customers"
+#~ msgstr "Всього Клієнтив"
+
+#~ msgid "Total Products"
+#~ msgstr "Всього Товарів"
+
+#~ msgid "Latest Orders (last 24 hours)"
+#~ msgstr "Останні Замовлення (останні 24 години)"
+
+#~ msgid "Orders - Last 24 Hours"
+#~ msgstr "Замовлення - Останні 24 Години"
+
+#~ msgid "Total orders"
+#~ msgstr "Всього замовлень"
+
+#~ msgid "Total lines"
+#~ msgstr "Всього рядків"
+
+#~ msgid "Total revenue"
+#~ msgstr "Всього доходів"
+
+#~ msgid "Average order costs"
+#~ msgstr "Середня вартість замовлення"
+
+#~ msgid "Manage"
+#~ msgstr "Управління"
+
+#~ msgid "Orders - All Time"
+#~ msgstr "Замовлення - За Весь Час"
+
+#~ msgid "Total <em>open</em> baskets"
+#~ msgstr "Всього <em>відкритих</em> кошиків"
+
+#~ msgid "Total customers"
+#~ msgstr "Всього клієнтів"
+
+#~ msgid "New customers"
+#~ msgstr "Нові клієнти"
+
+#~ msgid "View Stock Alerts"
+#~ msgstr "Переглянути Складські Нагадування"
+
+#~ msgid "Catalogue and stock"
+#~ msgstr "Каталог і склад"
+
+#~ msgid "Total products"
+#~ msgstr "Всього товарів"
+
+#~ msgid "<em>Open</em> stock alerts"
+#~ msgstr "<em>Відкриті</em> складські нагадування"
+
+#~ msgid "<em>Closed</em> stock alerts"
+#~ msgstr "<em>Закриті</em> складські нагадування"
+
+#~ msgid "Offers, vouchers and promotions"
+#~ msgstr "Пропозиції, купони і реклама"
+
+#~ msgid "Active <em>Site</em> Offers"
+#~ msgstr "Активні пропозиції <em>сайту</em> "
+
+#~ msgid "Active <em>Vouchers</em>"
+#~ msgstr "Активні <em>купони</em>"
+
+#~ msgid "Welcome"
+#~ msgstr "Ласкаво просимо"
+
+#~ msgid "Return to site"
+#~ msgstr "Повернутися на сайт"
+
+#~ msgid "Log out"
+#~ msgstr "Вийти"
+
+#~ msgid "Build a new incentive"
+#~ msgstr "Створити новий стимул"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Ranges can be created and edited from within the <a href="
+#~ "\"%(range_list_url)s\">range dashboard</a>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "Асортименти можуть бути створені та відредаговані за допомогою <a href="
+#~ "\"%(range_list_url)s\">панелі асортиментів</a>."
+
+#~ msgid "...or choose a pre-defined one"
+#~ msgstr "... або обрати задану"
+
+#~ msgid "Continue to step 3"
+#~ msgstr "Перейти до кроку 3"
+
+#~ msgid "Build a new condition"
+#~ msgstr "Створити нову умову"
+
+#~ msgid "Continue to step 4"
+#~ msgstr "Перейти до кроку 4"
+
+#~ msgid "Continue to step 2"
+#~ msgstr "Перейти до кроку 2"
+
+#~ msgid "Delete offer"
+#~ msgstr "Видалити пропозицію"
+
+#~ msgid "Are you sure you want to delete this offer?"
+#~ msgstr "Ви впевнені, що хочете видалити цю пропозицію?"
+
+#~ msgid ""
+#~ "\n"
+#~ "        %(name)s | Offers\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "%(name)s | Пропозиції"
+
+#~ msgid "Reinstating..."
+#~ msgstr "Відновлення..."
+
+#~ msgid "Reinstate offer"
+#~ msgstr "Поновити виконання замовлення"
+
+#~ msgid "Suspending..."
+#~ msgstr "Призупинення..."
+
+#~ msgid "Suspend offer"
+#~ msgstr "Зупинити виконання замовлення"
+
+#~ msgid "Offer currently available"
+#~ msgstr "Пропозиція зараз доступна"
+
+#~ msgid "Offer not available due to restrictions!"
+#~ msgstr "Пропозиція недоступна із-за обмежень!"
+
+#~ msgid "Total cost:"
+#~ msgstr "Всього:"
+
+#~ msgid "Number of orders:"
+#~ msgstr "Кількість замовлень:"
+
+#~ msgid "Number of uses:"
+#~ msgstr "Кількість застосувань:"
+
+#~ msgid "Date created:"
+#~ msgstr "Дата створення:"
+
+#~ msgid "Offer details"
+#~ msgstr "Деталі пропозиції"
+
+#~ msgid "Export to CSV"
+#~ msgstr "Експорт в CSV"
+
+#~ msgid "Orders that used this offer"
+#~ msgstr "Замовлення, в яких була використана ця пропозиція"
+
+#~ msgid "Create new offer"
+#~ msgstr "Створити нову пропозицію"
+
+#~ msgid "Is available?"
+#~ msgstr "Доступне?"
+
+#~ msgid "Uses"
+#~ msgstr "Застосування"
+
+#~ msgid "Browse"
+#~ msgstr "Перегляд"
+
+#~ msgid "Stats"
+#~ msgstr "Статистика"
+
+#~ msgid "No offers found."
+#~ msgstr "Пропозицій не знайдено."
+
+#~ msgid "Steps"
+#~ msgstr "Кроки"
+
+#~ msgid "1. Name and description"
+#~ msgstr "1. Ім'я та опис"
+
+#~ msgid "2. Incentive"
+#~ msgstr "2. Стимул"
+
+#~ msgid "3. Condition"
+#~ msgstr "3.  Умова"
+
+#~ msgid "4. Restrictions"
+#~ msgstr "4. Обмеження"
+
+#~ msgid "Save this offer"
+#~ msgstr "Зберегти цю пропозицію"
+
+#~ msgid "Fields marked with * are mandatory."
+#~ msgstr "Поля, відмічені * - обов'язкові."
+
+#~ msgid "Save changes"
+#~ msgstr "Зберегти зміни"
+
+#~ msgid "Offer summary"
+#~ msgstr "Резюме пропозиції"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s - Line #%(id)s\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Замовлення %(number)s - Рядок #%(id)s"
+
+#~ msgid "Line #%(id)s"
+#~ msgstr "Рядок #%(id)s"
+
+#~ msgid "Order #%(number)s - Line #%(id)s"
+#~ msgstr "Замовлення #%(number)s - Рядок #%(id)s"
+
+#~ msgid "Product Options"
+#~ msgstr "Опції Товару"
+
+#~ msgid "Partner details"
+#~ msgstr "Інформація постачальника"
+
+#~ msgid "Shipping details"
+#~ msgstr "Деталі доставки"
+
+#~ msgid "Partner reference number"
+#~ msgstr "Партнерський номер"
+
+#~ msgid "Partner notes"
+#~ msgstr "Партнерські нотатки"
+
+#~ msgid "Estimate dispatch date"
+#~ msgstr "Приблизна дата відправки"
+
+#~ msgid "Shipping status"
+#~ msgstr "Статус доставки"
+
+#~ msgid "State"
+#~ msgstr "Стан"
+
+#~ msgid "No shipping events have occurred."
+#~ msgstr "Не було подій доставки."
+
+#~ msgid "Shipping events"
+#~ msgstr "Події доставки"
+
+#~ msgid "Payment events"
+#~ msgstr "Платіжні події"
+
+#~ msgid "No payment events have occurred."
+#~ msgstr "Не було подій оплати."
+
+#~ msgid "Order %(number)s"
+#~ msgstr "Замовлення %(number)s"
+
+#~ msgid "Customer Information"
+#~ msgstr "Інформація про Клієнта"
+
+#~ msgid "Customer checked out as a guest."
+#~ msgstr "Клієнт оформив замовлення як гість."
+
+#~ msgid "Customer has deleted their account."
+#~ msgstr "Клієнт видалив свій профіль."
+
+#~ msgid "Order information"
+#~ msgstr "Інформація про замовлення"
+
+#~ msgid "Order Total"
+#~ msgstr "Всього"
+
+#~ msgid "Time of purchase"
+#~ msgstr "Час покупки"
+
+#~ msgid "Order Details"
+#~ msgstr "Деталі Замовлення"
+
+#~ msgid "Discounts"
+#~ msgstr "Знижки"
+
+#~ msgid "Items ordered"
+#~ msgstr "Замовлені позиції"
+
+#~ msgid "Line ID"
+#~ msgstr "ID рядка"
+
+#~ msgid "Supplier"
+#~ msgstr "Постачальник"
+
+#~ msgid "Supplier SKU"
+#~ msgstr "Артикул постачальника"
+
+#~ msgid "Est. dispatch date"
+#~ msgstr "Приблизна дата відправки"
+
+#~ msgid "Price excl tax (before discounts)"
+#~ msgstr "Ціна без податку (без знижок)"
+
+#~ msgid "Price inc tax (before discounts)"
+#~ msgstr "Ціна з податком (без знижок)"
+
+#~ msgid "With selected lines"
+#~ msgstr "Для вибраних рядків"
+
+#~ msgid "Change line status to"
+#~ msgstr "Змінити статус позиції на"
+
+#~ msgid "choose new status"
+#~ msgstr "обрати новий статус"
+
+#~ msgid "Create shipping event"
+#~ msgstr "Створити подію доставки"
+
+#~ msgid "choose event type"
+#~ msgstr "оберіть тип події"
+
+#~ msgid "with reference"
+#~ msgstr "з поміткою"
+
+#~ msgid "Create payment event"
+#~ msgstr "Створити платіжну подію"
+
+#~ msgid "with amount"
+#~ msgstr "з сумою"
+
+#~ msgid "Go!"
+#~ msgstr "Вперед!"
+
+#~ msgid "Change order status"
+#~ msgstr "Змінити статус замовлення"
+
+#~ msgid "Change status"
+#~ msgstr "Змінити статус "
+
+#~ msgid "This order can't have its status changed."
+#~ msgstr "Статус цього замовлення не можна змінити."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                                %(title)s "
+#~ "(quantity %(event_qty)s/%(total_qty)s)\n"
+#~ "                                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "%(title)s (кількість %(event_qty)s/%(total_qty)s)"
+
+#~ msgid "No shipping events."
+#~ msgstr "Немає подій доставки."
+
+#~ msgid "Product:"
+#~ msgstr "Товар:"
+
+#~ msgid "quantity"
+#~ msgstr "кількість"
+
+#~ msgid "No payment events."
+#~ msgstr "Немає платіжних подій."
+
+#~ msgid "Method name"
+#~ msgstr "Назва методу"
+
+#~ msgid "Method code"
+#~ msgstr "Код методу"
+
+#~ msgid "Charge (incl tax)"
+#~ msgstr "Вартість (з податком)"
+
+#~ msgid "Charge (excl tax)"
+#~ msgstr "Вартість (без податку)"
+
+#~ msgid "Payment sources"
+#~ msgstr "Джерела платежів"
+
+#~ msgid "Allocation"
+#~ msgstr "Розміщення"
+
+#~ msgid "Amount debited"
+#~ msgstr "Списана сума"
+
+#~ msgid "Amount refunded"
+#~ msgstr "Повернута сума"
+
+#~ msgid "No payment sources found for this order."
+#~ msgstr "Не знайдено джерела платежу для цього замовлення."
+
+#~ msgid "No discounts were applied to this order."
+#~ msgstr "Для цього замовлення не було знижок."
+
+#~ msgid "Admin"
+#~ msgstr "Адмін"
+
+#~ msgid "No notes available."
+#~ msgstr "Немає доступних нотаток."
+
+#~ msgid "Save note"
+#~ msgstr "Зберегти нотатку"
+
+#~ msgid "Notes are only editable for 5 minutes after being saved."
+#~ msgstr "Нотатки можна редагувати тільки протягом 5 хвилин після збереження."
+
+#~ msgid "Advanced Search"
+#~ msgstr "Розширений Пошук"
+
+#~ msgid "Close"
+#~ msgstr "Закрити"
+
+#~ msgid "Order Search Results"
+#~ msgstr "Результати пошуку замовлення"
+
+#~ msgid "All Orders"
+#~ msgstr "Всі замовлення"
+
+#~ msgid "Download selected orders as a CSV"
+#~ msgstr "Завантажити вибрані замовлення як CSV-файл"
+
+#~ msgid "Deleted"
+#~ msgstr "Видалено"
+
+#~ msgid "Changing..."
+#~ msgstr "Зміна..."
+
+#~ msgid "No orders found."
+#~ msgstr "Не знайдено ждоного замовлення."
+
+#~ msgid "Print Packaging Slips"
+#~ msgstr "Роздрукувати бланки для упаковки"
+
+#~ msgid "Mark as"
+#~ msgstr "Помітити як"
+
+#~ msgid "Change order status to"
+#~ msgstr "Змінити статус замовлення на"
+
+#~ msgid "Done"
+#~ msgstr "Готово"
+
+#~ msgid "Edit shipping address"
+#~ msgstr "Редагувати адресу доставки"
+
+#~ msgid "Edit shipping address for order %(order.number)s"
+#~ msgstr "Редагувати адресу доставки для замовлення %(order.number)s"
+
+#~ msgid "Update address"
+#~ msgstr "Оновити адресу"
+
+#~ msgid "Order statistics"
+#~ msgstr "Статистика замовлення"
+
+#~ msgid "Filter result"
+#~ msgstr "Фільтрувати результати"
+
+#~ msgid "Summary"
+#~ msgstr "Резюме"
+
+#~ msgid "Order status breakdown"
+#~ msgstr "Розподіл статусів замовлень"
+
+#~ msgid "Delete page '%(title)s'?"
+#~ msgstr "Видалити сторінку '%(title)s'?"
+
+#~ msgid "Delete page"
+#~ msgstr "Видалити сторінку"
+
+#~ msgid "Delete page <strong>%(title)s</strong> - are you sure?"
+#~ msgstr "Видалити сторінку <strong>%(title)s</strong> - Ви впевнені?"
+
+#~ msgid "Create new page"
+#~ msgstr "Створити нову сторінку"
+
+#~ msgid "No pages found."
+#~ msgstr "Сторінок не знайдено."
+
+#~ msgid ""
+#~ "\n"
+#~ "        Page <strong>%(title)s</strong> saved!\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Сторінку <strong>%(title)s</strong> збережено!"
+
+#~ msgid "Oops! We found some errors"
+#~ msgstr "Здається, ми знайшли деякі помилки"
+
+#~ msgid "please check the error messages below and try again"
+#~ msgstr "перегляньте повідомлення про помилку і спробуйте ще раз"
+
+#~ msgid "previous"
+#~ msgstr "назад"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Page %(page_num)s of %(total_pages)s\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "Сторінка %(page_num)s з %(total_pages)s"
+
+#~ msgid "next"
+#~ msgstr "вперед"
+
+#~ msgid ""
+#~ "\n"
+#~ "User %(user_name)s was unlinked from %(partner_name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Користувача %(user_name)s було відв'язано від %(partner_name)s.\n"
+
+#~ msgid "Undo"
+#~ msgstr "Відмінити"
+
+#~ msgid "Delete partner"
+#~ msgstr "Видалити партнера"
+
+#~ msgid "Are you sure you want to delete this partner?"
+#~ msgstr "Ви впевнені, що хочете видалити цього партнера?"
+
+#~ msgid "Edit the user's details"
+#~ msgstr "Редагувати інформацію користувача"
+
+#~ msgid "No users associated."
+#~ msgstr "Не має відношення до жодного користувача."
+
+#~ msgid "No address associated."
+#~ msgstr "Не прив'язана жодна адреса."
+
+#~ msgid "Manage partner and users"
+#~ msgstr "Управління партнерами та користувачами"
+
+#~ msgid "Link an existing user"
+#~ msgstr "Прив'язати існуючого користувача"
+
+#~ msgid "Link a new user"
+#~ msgstr "Прив'язати нового користувача"
+
+#~ msgid "No partners found."
+#~ msgstr "Партнерів не знайдено."
+
+#~ msgid "Unlinking..."
+#~ msgstr "Відключення..."
+
+#~ msgid "Unlink user"
+#~ msgstr "Відв' язати користувача"
+
+#~ msgid "No users linked."
+#~ msgstr "Немає прив'язаних користувачів."
+
+#~ msgid "Link a user"
+#~ msgstr "Прив'язати користувача"
+
+#~ msgid "Manage users"
+#~ msgstr "Управління користувачами"
+
+#~ msgid "Update details"
+#~ msgstr "Оновити деталі"
+
+#~ msgid ""
+#~ "A partial email address can be entered (eg '@example.com') to match "
+#~ "multiple addresses."
+#~ msgstr ""
+#~ "Можна ввести часткову імейл-адресу (напр. '@example.com'), яка буде "
+#~ "відповідати декільком адресам."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                User is already linked to "
+#~ "%(name)s.\n"
+#~ "                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "Цей користувач вже пов' язаний з %(name)s."
+
+#~ msgid "Linking..."
+#~ msgstr "Зв’язування..."
+
+#~ msgid "Link user"
+#~ msgstr "Прив'язати користувача"
+
+#~ msgid "No users found."
+#~ msgstr "Користувачів не знайдено."
+
+#~ msgid "Delete content block '%(name)s'?\""
+#~ msgstr "Видалити блок тексту '%(name)s'?\""
+
+#~ msgid "Delete content block"
+#~ msgstr "Видалити блок контенту"
+
+#~ msgid ""
+#~ "Delete %(object.type)s content block <strong>%(object.name)s</strong> - "
+#~ "are you sure?"
+#~ msgstr ""
+#~ "Видалити %(object.type)s блок контенту <strong>%(object.name)s</strong> - "
+#~ "Ви впевнені?"
+
+#~ msgid "Remove promotion from page?"
+#~ msgstr "Видалити рекламу зі сторінки?"
+
+#~ msgid "Remove promotion"
+#~ msgstr "Видалити рекламу"
+
+#~ msgid ""
+#~ "Remove %(object.content_object.type)s content block <strong>%(object."
+#~ "name)s</strong> from page <strong>%(object.page_url)s</strong> - are you "
+#~ "sure?"
+#~ msgstr ""
+#~ "Видалити %(object.content_object.type)s блок контенту <strong>%(object."
+#~ "name)s</strong> зі сторінки <strong>%(object.page_url)s</strong> - Ви "
+#~ "впевнені?"
+
+#~ msgid "Content block"
+#~ msgstr "Блок контенту"
+
+#~ msgid "Pages displaying this content blocks"
+#~ msgstr "Сторінки, на яких відображаються ці блоки контенту"
+
+#~ msgid "Position on page"
+#~ msgstr "Позиція на сторінці"
+
+#~ msgid "View all blocks on this page"
+#~ msgstr "Переглуняти всі блоки на цій сторінці"
+
+#~ msgid "Remove from page"
+#~ msgstr "Видалити зі сторінки"
+
+#~ msgid "This promotion is not displayed anywhere at the moment."
+#~ msgstr "Ця реклама зараз ніде не відображається."
+
+#~ msgid "Add to a page"
+#~ msgstr "Додати на сторінку"
+
+#~ msgid "Add to page"
+#~ msgstr "Додати на сторінку"
+
+#~ msgid "Content blocks for page %(page_url)s"
+#~ msgstr "Блоки контенту для сторінки %(page_url)s"
+
+#~ msgid "Content blocks on page '%(page_url)s'"
+#~ msgstr "Блоки контенту на сторінці '%(page_url)s'"
+
+#~ msgid "Edit promotions in position '%(name)s'"
+#~ msgstr "Редагувати рекламу в позиції '%(name)s'"
+
+#~ msgid "Promotion Name"
+#~ msgstr "Назва Реклами"
+
+#~ msgid "Change display order"
+#~ msgstr "Змінити порядок відображення"
+
+#~ msgid "No promotions in this position."
+#~ msgstr "Для цієї позиції немає реклами."
+
+#~ msgid "Pages with content blocks"
+#~ msgstr "Сторінки з блоками контенту"
+
+#~ msgid "View by page"
+#~ msgstr "Переглянути на сторінці"
+
+#~ msgid "View all content blocks"
+#~ msgstr "Переглянути всі блоки контенту"
+
+#~ msgid "View content blocks by page"
+#~ msgstr "Переглянути блоки контенту на сторінці"
+
+#~ msgid "Pages with content blocks on them"
+#~ msgstr "Сторінки з блоками контенту на них"
+
+#~ msgid "Number of content blocks"
+#~ msgstr "Кількість блоків контенту"
+
+#~ msgid "No content blocks found."
+#~ msgstr "Не знайдено блоків контенту."
+
+#~ msgid "Create a new content block"
+#~ msgstr "Створити новий контентний блок"
+
+#~ msgid "Creating..."
+#~ msgstr "Створення..."
+
+#~ msgid "Create block"
+#~ msgstr "Створити блок"
+
+#~ msgid "Number of times used"
+#~ msgstr "Кількість застосувань"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>File <strong>%(filename)s</strong> processed.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Файл <strong>%(filename)s</strong> оброблено.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> product added\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> products added\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(n)s</strong> продукт додано"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(n)s</strong> продукти додано"
+#~ msgstr[2] ""
+#~ "\n"
+#~ "<strong>%(n)s</strong> продуктів додано"
+#~ msgstr[3] ""
+#~ "\n"
+#~ "<strong>%(n)s</strong> продуктів додано"
+
+#~ msgid ""
+#~ "\n"
+#~ "                There was <strong>%(n)s</strong> duplicate product in the "
+#~ "file\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                There were <strong>%(n)s</strong> duplicate products in "
+#~ "the file\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "У файлі був <strong>%(n)s</strong> дуплікований продукт"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "У файлі було <strong>%(n)s</strong> дуплікованих продукти"
+#~ msgstr[2] ""
+#~ "\n"
+#~ "У файлі було <strong>%(n)s</strong> дуплікованих продуктів"
+#~ msgstr[3] ""
+#~ "\n"
+#~ "У файлі було <strong>%(n)s</strong> дуплікованих продуктів"
+
+#~ msgid ""
+#~ "\n"
+#~ "                There was <strong>%(n)s</strong> product in the file that "
+#~ "couldn't be found in the catalogue\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                There were <strong>%(n)s</strong> products in the file "
+#~ "that couldn't be found in the catalogue\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "У файлів був <strong>%(n)s</strong> продукт, який не знайдено в каталозі"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "У файлів було <strong>%(n)s</strong> продукта, які не знайдено в каталозі"
+#~ msgstr[2] ""
+#~ "\n"
+#~ "У файлів було <strong>%(n)s</strong> продуктів, які не знайдено в каталозі"
+#~ msgstr[3] ""
+#~ "\n"
+#~ "У файлів було <strong>%(n)s</strong> продуктів, які не знайдено в каталозі"
+
+#~ msgid "Edit range metadata"
+#~ msgstr "Редагувати метадату асортименту"
+
+#~ msgid "Return to ranges homepage"
+#~ msgstr "Повернутися на сторінку асортиментів"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>Range <strong>%(name)s</strong> saved.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Асортимент <strong>%(name)s</strong> збережено.</p>\n"
+
+#~ msgid "Edit included products"
+#~ msgstr "Редагувати включені товари"
+
+#~ msgid "Delete range '%(name)s'?"
+#~ msgstr "Видалити асортимент '%(name)s'?"
+
+#~ msgid "Are you sure you want to delete this range?"
+#~ msgstr "Ви впевнені, що хочете видалити цей асортимент,"
+
+#~ msgid "Create new range"
+#~ msgstr "Створити новий асортимент"
+
+#~ msgid "Save and edit products"
+#~ msgstr "Зберегти та редагувати товари"
+
+#~ msgid "Num products"
+#~ msgstr "К-ть товарів"
+
+#~ msgid "Edit products"
+#~ msgstr "Редагувати товари"
+
+#~ msgid "No ranges found."
+#~ msgstr "Жодного асортименту не знайдено."
+
+#~ msgid "Products in range '%(name)s'"
+#~ msgstr "Товари в асортименті '%(name)s'"
+
+#~ msgid "products"
+#~ msgstr "товари"
+
+#~ msgid ""
+#~ "This range contains all products. To add products manually, please "
+#~ "unselect the 'Includes All Products' option on the edit range page."
+#~ msgstr ""
+#~ "В цьому асортименті є всі товари. Щоб додавати товари вручну, будь ласка, "
+#~ "зніміть прапорець з опції \"Містить Всі Товари\" та відредагуйте "
+#~ "асортимент."
+
+#~ msgid "Add products"
+#~ msgstr "Додати товари"
+
+#~ msgid "Running..."
+#~ msgstr "Виконання..."
+
+#~ msgid "Upload history"
+#~ msgstr "Завантажити історію"
+
+#~ msgid "Filename"
+#~ msgstr "Ім'я файла"
+
+#~ msgid "New products"
+#~ msgstr "Нові товари"
+
+#~ msgid "Duplicate products"
+#~ msgstr "Товари, що повторюються"
+
+#~ msgid "Unknown products"
+#~ msgstr "Невідомі товари"
+
+#~ msgid "Date uploaded"
+#~ msgstr "Дата завантаження"
+
+#~ msgid "Products in range"
+#~ msgstr "Товари в асортименті"
+
+#~ msgid "Remove selected products"
+#~ msgstr "Видалити обрані товари"
+
+#~ msgid "Is product discountable?"
+#~ msgstr "На цей товар діє знижка?"
+
+#~ msgid "Products in Range"
+#~ msgstr "Товари з Асортименту"
+
+#~ msgid "Edit range"
+#~ msgstr "Редагувати асортимент"
+
+#~ msgid "return to range list"
+#~ msgstr "повернутися до списку асортиментів"
+
+#~ msgid "Reporting Dashboard"
+#~ msgstr "Панель Звітів"
+
+#~ msgid "Reporting dashboard"
+#~ msgstr "Панель звітів"
+
+#~ msgid "Generating..."
+#~ msgstr "Генеревання..."
+
+#~ msgid "Generate report"
+#~ msgstr "Згенерувати звіт"
+
+#~ msgid "No results found."
+#~ msgstr "Немає результатів."
+
+#~ msgid "No vouchers were used in this period"
+#~ msgstr "За цей період не було використано жодного купона"
+
+#~ msgid "Delete review '%(title)s'?"
+#~ msgstr "Видалити відгук '%(title)s'?"
+
+#~ msgid "Delete review \"%(title)s\"?"
+#~ msgstr "Видалити відгук \"%(title)s\"?"
+
+#~ msgid "Review"
+#~ msgstr "Відгук"
+
+#~ msgid "Review Search"
+#~ msgstr "Пошук серед відгуків"
+
+#~ msgid "Update status of selected reviews"
+#~ msgstr "Оновити статус вибраних відгуків"
+
+#~ msgctxt "Review title"
+#~ msgid "Title"
+#~ msgstr "Заголовок"
+
+#~ msgid "[Product deleted]"
+#~ msgstr "[Товар видалено]"
+
+#~ msgid "No reviews found."
+#~ msgstr "Відгуків не знайдено."
+
+#~ msgid "Update review"
+#~ msgstr "Оновити відгук"
+
+#~ msgid "Review #%(review.id)s"
+#~ msgstr "Відгук #%(review.id)s"
+
+#~ msgid "Review information"
+#~ msgstr "Інформація про відгук"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>A weight band has been added to the <strong>%(name)s</strong> "
+#~ "shipping method.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Вагову групу було додано до <strong>%(name)s</strong> способу доставки."
+#~ "</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>Weight band deleted from the <strong>%(name)s</strong> shipping "
+#~ "method \n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Вагову групу було видалено з <strong>%(name)s</strong> способу "
+#~ "доставки.</p>\n"
+
+#~ msgid "Weight band updated"
+#~ msgstr "Вагова група була оновлена"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>A shipping method <strong>%(name)s</strong> has been created.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Спосіб доставки <strong>%(name)s</strong> створений.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been deleted.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p><strong>%(name)s</strong> спосіб доставки видалений.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been updated.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p><strong>%(name)s</strong> спосіб доставки оновлений.</p>\n"
+
+#~ msgid "Delete weight band?"
+#~ msgstr "Видалити вагову групу?"
+
+#~ msgid "Shipping methods"
+#~ msgstr "Способи доставки"
+
+#~ msgid "Weight range (kg)"
+#~ msgstr "Діапазон ваги (кг)"
+
+#~ msgid "Are you sure you want to delete this weight band method?"
+#~ msgstr "Ви впевнені, що хочете видалити цей спосіб на основі вагової групи?"
+
+#~ msgid "Edit weight band"
+#~ msgstr "Редагувати вагову групу"
+
+#~ msgid "Delete shipping method '%(name)s'?"
+#~ msgstr "Видалити спосіб доставки '%(name)s'?"
+
+#~ msgid "Are you sure you want to delete this shipping method?"
+#~ msgstr "Ви впевнені, що хочете видалити цей спосіб доставки?"
+
+#~ msgid "Applies to countries"
+#~ msgstr "Застосовується до країн"
+
+#~ msgid "Default product weight (kg)"
+#~ msgstr "Вага товару за замовчуванням (кг)"
+
+#~ msgid "Edit shipping method"
+#~ msgstr "Редагувати спосіб доставки"
+
+#~ msgid "Delete shipping method"
+#~ msgstr "Видалити спосіб доставки"
+
+#~ msgid "Weight bands"
+#~ msgstr "Вагові групи"
+
+#~ msgid "No weight bands have been added yet."
+#~ msgstr "Поки що немає жодної вагової групи."
+
+#~ msgid "Add a new weight band"
+#~ msgstr "Додати нову вагову групу"
+
+#~ msgid "Add weight band"
+#~ msgstr "Додати вагову групу"
+
+#~ msgid "Create a new shipping method"
+#~ msgstr "Створити новий спосіб доставки"
+
+#~ msgid "Create new shipping charge"
+#~ msgstr "Створити новий тариф на доставку"
+
+#~ msgid "Number of weight bands"
+#~ msgstr "Кількість вагових груп"
+
+#~ msgid "Default weight (kg)"
+#~ msgstr "Вага за замовчуванням (кг)"
+
+#~ msgid "No shipping methods found."
+#~ msgstr "Способу доставки не знайдено."
+
+#~ msgid "Alert #%(id)s"
+#~ msgstr "Нагадування #%(id)s"
+
+#~ msgid "Delete alert #%(id)s?"
+#~ msgstr "Видалити нагадування #%(id)s?"
+
+#~ msgid "Product alert #%(id)s"
+#~ msgstr "Товарне нагадування #%(id)s"
+
+#~ msgid "Are you sure that you want to delete this alert?"
+#~ msgstr "Ви впевнені, що хочете видалити це нагадування?"
+
+#~ msgid "Search product alerts"
+#~ msgstr "Пошук серед товарний нагадувань"
+
+#~ msgid "reset"
+#~ msgstr "скинути"
+
+#~ msgid "Date alert sent"
+#~ msgstr "Дата відправлення нагадування"
+
+#~ msgid "(Anonymous)"
+#~ msgstr "(Анонім)"
+
+#~ msgid "No alerts found."
+#~ msgstr "Нагадувань не знайдено."
+
+#~ msgid "Update alert #%(id)s"
+#~ msgstr "Оновити нагадування #%(id)s"
+
+#~ msgid "General"
+#~ msgstr "Загальне"
+
+#~ msgid "Yes,No"
+#~ msgstr "Так, Ні"
+
+#~ msgid "Superuser"
+#~ msgstr "Суперкористувач"
+
+#~ msgid "True,False"
+#~ msgstr "Так, Ні"
+
+#~ msgid "Staff"
+#~ msgstr "Працівник"
+
+#~ msgid "Last login"
+#~ msgstr "Час останнього входу"
+
+#~ msgid "Date joined"
+#~ msgstr "Дата приєднання"
+
+#~ msgid "Products viewed"
+#~ msgstr "Товарів переглянуто"
+
+#~ msgid "Number of orders"
+#~ msgstr "Кількість замовлень"
+
+#~ msgid "Number of ordered items"
+#~ msgstr "Кількість замовлених позицій"
+
+#~ msgid "Reviews written"
+#~ msgstr "Вігуків залишено"
+
+#~ msgid "Send password reset email"
+#~ msgstr "Надіслати імейл для зміни паролю"
+
+#~ msgid "Order Number"
+#~ msgstr "Номер Замовлення"
+
+#~ msgid "Total value"
+#~ msgstr "Загальна вартість"
+
+#~ msgid "This customer has not placed any orders yet."
+#~ msgstr "У цього клієнта ще немає жодного замовлення."
+
+#~ msgid "This customer has not saved any addresses."
+#~ msgstr "Цей клієнт не зберіг жодної адреси."
+
+#~ msgid "Product ID"
+#~ msgstr "Ідентифікатор Товару"
+
+#~ msgid "This customer has not written any reviews yet."
+#~ msgstr "Цей клієнт ще не залишав відгуків."
+
+#~ msgid "No customers found."
+#~ msgstr "Клієнтів не знайдено."
+
+#~ msgid "Bulk Actions"
+#~ msgstr "Масові дії"
+
+#~ msgid "With selected customers:"
+#~ msgstr "З вибраними клієнтами:"
+
+#~ msgid "Make active"
+#~ msgstr "Активувати"
+
+#~ msgid "Make inactive"
+#~ msgstr "Деактивувати"
+
+#~ msgid "Delete voucher '%(name)s'?"
+#~ msgstr "Видалити купон '%(name)s'?"
+
+#~ msgid "Voucher details"
+#~ msgstr "Деталі купона"
+
+#~ msgid "Number of basket additions"
+#~ msgstr "Кількість додавань у кошик"
+
+#~ msgid "Recent orders"
+#~ msgstr "Останні замовлення"
+
+#~ msgid "No orders have been placed that use this voucher."
+#~ msgstr "Немає замовлень, в яких використовується цей купон."
+
+#~ msgid "Edit voucher"
+#~ msgstr "Редагувати купон"
+
+#~ msgid "Create new voucher"
+#~ msgstr "Створити новий купон"
+
+#~ msgid "Num baskets"
+#~ msgstr "Кількість кошиків"
+
+#~ msgid "Num orders"
+#~ msgstr "Кількість замовлень"
+
+#~ msgid "Inactive"
+#~ msgstr "Неактивний"
+
+#~ msgid "No vouchers found."
+#~ msgstr "Не знайдено купонів"
+
+#~ msgid "Sorry!"
+#~ msgstr "Вибачте!"
+
+#~ msgid "Return to previous page"
+#~ msgstr "На попередню сторінку"
+
+#~ msgid "Go to homepage"
+#~ msgstr "На головну сторінку"
+
+#~ msgid "Edit this page"
+#~ msgstr "Редагувати цю сторінку"
+
+#~ msgid "thumbnail"
+#~ msgstr "іконка"
+
+#~ msgid "Unrecognized image type!"
+#~ msgstr "Тип зображення не розпізнано!"
+
+#~ msgid "Upload Image"
+#~ msgstr "Додати Зображення"
+
+#~ msgid "This page is only available to users who aren't logged in."
+#~ msgstr "Ця сторінка доступна тільки неавторизованим користувачам."
+
+#~ msgid " This offer is no longer available."
+#~ msgstr "Ця пропозиція вже недійсна."
+
+#~ msgid "What you need to do"
+#~ msgstr "Що треба зробити"
+
+#~ msgid "There are no site offers at the moment."
+#~ msgstr "На даний момент на сайті немає пропозицій."
+
+#~ msgid "Browse products in offer"
+#~ msgstr "Переглянути товари в пропозиції"
+
+#~ msgid "See more"
+#~ msgstr "Більше"
+
+#~ msgid "Password reset complete"
+#~ msgstr "Оновлення пароля завершено"
+
+#~ msgid "Password reset"
+#~ msgstr "Зміна паролю"
+
+#~ msgid "Complete"
+#~ msgstr "Завершено"
+
+#~ msgid "Your password has been set.  You may go ahead and log in now."
+#~ msgstr "Ваш пароль встановлено. Ви можете увійти до системи."
+
+#~ msgid "Log in"
+#~ msgstr "Увійти"
+
+#~ msgid "Enter a new password"
+#~ msgstr "Введіть новий пароль"
+
+#~ msgid ""
+#~ "Please enter your new password twice so we can verify you typed it in "
+#~ "correctly."
+#~ msgstr ""
+#~ "Будь ласка, введіть Ваш пароль двічі, щоб ми змогли переконатися в його "
+#~ "правильності."
+
+#~ msgid "Change my password"
+#~ msgstr "Змінити пароль"
+
+#~ msgid "Password reset unsuccessful"
+#~ msgstr "Зміна паролю пройшла невдало"
+
+#~ msgid ""
+#~ "The password reset link was invalid, possibly because it has already been "
+#~ "used.  Please request a new password reset."
+#~ msgstr ""
+#~ "Лінка для зміни паролю була некоректною, можливо, тому що її вже "
+#~ "використали. Будь ласка, зробіть новий запит на зміну."
+
+#~ msgid "Password reset email sent"
+#~ msgstr "Імейл для встановлення нового паролю надіслано"
+
+#~ msgid "Email sent"
+#~ msgstr "Імейл надіслано"
+
+#~ msgid ""
+#~ "\n"
+#~ "        We've e-mailed you instructions for resetting your password. You "
+#~ "should be receiving it shortly.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "На вказану Вами адресу ми надіслали інструкції щодо зміни паролю. "
+#~ "Незабаром Ви їх отримаєте."
+
+#~ msgid ""
+#~ "\n"
+#~ "        If you don't receive an email, please make sure you've entered "
+#~ "the address you registered with, and check\n"
+#~ "        your spam folder.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Якщо ви не отримали листа, будь ласка, переконайтеся, що ви ввели адресу, "
+#~ "з якої реєструвалися, а також перевірте\n"
+#~ "папку Спам."
+
+#~ msgid ""
+#~ "Forgotten your password? Enter your e-mail address below, and we'll e-"
+#~ "mail instructions for setting a new one."
+#~ msgstr ""
+#~ "Забули свій пароль? Введіть свій імейл нижче, і ми надішлемо інструкції "
+#~ "для зміни пароля."
+
+#~ msgid "Send reset email"
+#~ msgstr "Надіслати імейл для зміни пароля."
+
+#~ msgid "Refine your search"
+#~ msgstr "Уточніть параметри пошуку"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Products matching \"%(q)s\"\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Товари, що відповідають \"%(q)s\""
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Found <strong>%(num_results)s</strong> results, "
+#~ "showing <strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong> результатів знайдено - показані з "
+#~ "<strong>%(start)s</strong> до <strong>%(end)s</strong>."
+
+#~ msgid "Found <strong>0</strong> results."
+#~ msgstr "Знайдено <strong>0</strong> результатів."
+
+#~ msgid ""
+#~ "\n"
+#~ "                        Did you mean <a href=\"%(search_url)s?q="
+#~ "%(suggestion)s\">\"%(suggestion)s\"</a>?\n"
+#~ "                    "
+#~ msgstr ""
+#~ "\n"
+#~ "Чи мали на увазі <a href=\"%(search_url)s?q=%(suggestion)s\">"
+#~ "\"%(suggestion)s\"</a>?"
+
+#~ msgid "Back to search results"
+#~ msgstr "До результатів пошуку"
+
+#~ msgid "You need to select some %ss"
+#~ msgstr "Ви маєте обрати декілька %ss"

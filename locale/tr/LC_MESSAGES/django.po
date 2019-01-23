@@ -1,0 +1,6156 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# canburak <can@canb.net>, 2013
+# canburak <can@canb.net>, 2013
+# canburak <can@canb.net>, 2013-2014
+# Caner Başaran <basaran.caner@protonmail.com>, 2014
+# caytar caytar <cemaytar@gmail.com>, 2017
+# Cihad GÜNDOĞDU <cihadgundogdu@gmail.com>, 2016
+# DjangoOscar TR <mesut@mesut.net>, 2018
+# Evren Esat Özkan <mail@my.blog.uri>, 2014
+# Fatih ERDEM <93.fatiherdem@gmail.com>, 2014
+# İsmail Demirbilek <ce.demirbilek@gmail.com>, 2014
+# Ömer Boratav <oboratav@sfu.ca>, 2017
+# Ozancan Karataş <inactive+OzancanKaratas96@transifex.com>, 2015
+# Ozancan Karataş <inactive+OzancanKaratas96@transifex.com>, 2015
+# Şeref R. Ayar <serefayar@gmail.com>, 2013
+# Şeref R. Ayar <serefayar@gmail.com>, 2013
+# Yağız Nalçakan <yagiznalcakan@gmail.com>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-11 08:36+0000\n"
+"Last-Translator: Oscar Bot <maik.hoepfel@tangentsnowball.com>\n"
+"Language-Team: Turkish (http://www.transifex.com/codeinthehole/django-oscar/"
+"language/tr/)\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr "Kontrol Paneli"
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr "Katalog"
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "Ürünler"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr "Ürün Tipleri"
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr "Aralıklar"
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr "Düşük Stok Uyarısı"
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr "Seçenekler"
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr "Tedarik"
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "Siparişler"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr "İstatistikler"
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr "Tedarikçiler"
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr "Müşteriler"
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr " Stok Uyarıları"
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr "Kampanyalar"
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "Hediye Çekleri"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr "İçerik"
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr "İçerik Blokları"
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr "Sayfalardaki İçerik Blokları"
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr "Sayfalar"
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr "E-Posta Şablonları"
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr "Yorumlar"
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr "Raporlar"
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr "Tür"
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr "Değerlendirme"
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr "Fiyat aralığı"
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr "0'dan 20'ye"
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr "20'den 40'a"
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr "40'dan 60'a"
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr "60'dan Fazla"
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+#, fuzzy
+#| msgid "Catalogue"
+msgid "Catalan"
+msgstr "Katalog"
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+#, fuzzy
+#| msgid "Permalink"
+msgid "German"
+msgstr "Kalıcı Bağlantı"
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr "Uygulanıyor..."
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr "Git"
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr "Hesap"
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr "Çıkış yap"
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr "Giriş yap ya da kayıt ol"
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "Alışveriş Sepeti"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+"\n"
+"                        Toplam: %(total)s\n"
+"                    "
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr "Mağazaya gözat"
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "Tüm ürünler"
+
+#~ msgid "Mr"
+#~ msgstr "Bay"
+
+#~ msgid "Miss"
+#~ msgstr "Bayan"
+
+#~ msgid "Mrs"
+#~ msgstr "Bayan"
+
+#~ msgid "Ms"
+#~ msgstr "Bayan"
+
+#~ msgid "Dr"
+#~ msgstr "Doktor"
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "Başlık"
+
+#~ msgid "First name"
+#~ msgstr "Ad"
+
+#~ msgid "Last name"
+#~ msgstr "Soyad"
+
+#~ msgid "First line of address"
+#~ msgstr "Adresin ilk satırı"
+
+#~ msgid "Second line of address"
+#~ msgstr "Adresin ikinci satırı"
+
+#~ msgid "Third line of address"
+#~ msgstr "Adresin üçüncü satırı"
+
+#~ msgid "City"
+#~ msgstr "Şehir"
+
+#~ msgid "State/County"
+#~ msgstr "Eyalet/Bölge"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "Posta Kodu"
+
+#~ msgid "Country"
+#~ msgstr "Ülke"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "Metin araması - yalnız adres araması için kullanılır"
+
+#~ msgid "Address"
+#~ msgstr "Adres"
+
+#~ msgid "Addresses"
+#~ msgstr "Adresler"
+
+#~ msgid "Addresses in %(country)s require a valid postcode"
+#~ msgstr ""
+#~ "%(country)s 'de yer alan adresler geçerli bir posta kodu gerektiriyor"
+
+#~ msgid "The postcode '%(postcode)s' is not valid for %(country)s"
+#~ msgstr "'%(postcode)s' posta kodu %(country)s için geçerli değil"
+
+#~ msgid "ISO 3166-1 alpha-2"
+#~ msgstr "ISO 3166-1 alpha-2"
+
+#~ msgid "ISO 3166-1 alpha-3"
+#~ msgstr "ISO 3166-1 alpha-3"
+
+#~ msgid "ISO 3166-1 numeric"
+#~ msgstr "ISO 3166-1 numeric"
+
+#~ msgid "Country name"
+#~ msgstr "Ülke Adı"
+
+#~ msgid "Official name"
+#~ msgstr "Resmi isim"
+
+#~ msgid "Display order"
+#~ msgstr "Siparişi görüntüle"
+
+#~ msgid "Higher the number, higher the country in the list."
+#~ msgstr "Yüksek numaralar listede üstte çıkar"
+
+#~ msgid "Is shipping country"
+#~ msgstr "Ürün gönderilebilen bir ülke mi?"
+
+#~ msgid "Countries"
+#~ msgstr "Ülkeler"
+
+#~ msgid "Phone number"
+#~ msgstr "Telefon Numarası"
+
+#~ msgid "In case we need to call you about your order"
+#~ msgstr "Siparişiniz hakkında sizi aramamız gerekirse"
+
+#~ msgid "Instructions"
+#~ msgstr "Talimatlar"
+
+#~ msgid "Tell us anything we should know when delivering your order."
+#~ msgstr "Siparişinizi teslim ederken bilmemiz gerekenleri bildiriniz"
+
+#~ msgid "Shipping address"
+#~ msgstr "Teslimat Adresi"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "Teslimat Adresleri"
+
+#~ msgid "User"
+#~ msgstr "Kullanıcı"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "Varsayılan teslimat adresi?"
+
+#~ msgid "Default billing address?"
+#~ msgstr "Varsayılan fatura adresi?"
+
+#~ msgid "Address Hash"
+#~ msgstr "Adres Doğruluk Kodu"
+
+#~ msgid "Date Created"
+#~ msgstr "Oluşturulma Tarihi"
+
+#~ msgid "User address"
+#~ msgstr "Kullanıcı Adresi"
+
+#~ msgid "User addresses"
+#~ msgstr "Kullanıcı Adresleri"
+
+#~ msgid "This address is already in your address book"
+#~ msgstr "Bu adres zaten hesabınızda kayıtlı"
+
+#~ msgid "Billing address"
+#~ msgstr "Fatura Adresi"
+
+#~ msgid "Billing addresses"
+#~ msgstr "Fatura Adresleri"
+
+#~ msgid "Partner"
+#~ msgstr "Tedarikçi"
+
+#~ msgid "Partner address"
+#~ msgstr "Tedarikçi Adresi"
+
+#~ msgid "Partner addresses"
+#~ msgstr "Tedarikçi Adresleri"
+
+#~ msgid "Product"
+#~ msgstr "Ürün"
+
+#~ msgid "Views"
+#~ msgstr "Görüntülenme"
+
+#~ msgid "Basket Additions"
+#~ msgstr "Alışveriş Sepeti Eklemeleri"
+
+#~ msgid "Purchases"
+#~ msgstr "Satın almalar"
+
+#~ msgid "Score"
+#~ msgstr "Puan"
+
+#~ msgid "Product record"
+#~ msgstr "Ürün Kaydı"
+
+#~ msgid "Product records"
+#~ msgstr "Ürün Kayıtları"
+
+#~ msgid "Record for '%s'"
+#~ msgstr "'%s' için kayıt"
+
+#~ msgid "Product Views"
+#~ msgstr "Ürün Görüntüleme"
+
+#~ msgid "Order Lines"
+#~ msgstr "Sapariş Satırları"
+
+#~ msgid "Order Items"
+#~ msgstr "Sipariş Kalemleri"
+
+#~ msgid "Total Spent"
+#~ msgstr "Toplam Harcama"
+
+#~ msgid "Last Order Date"
+#~ msgstr "Son Sipariş Tarihi"
+
+#~ msgid "User record"
+#~ msgstr "Kullanıcı kaydı"
+
+#~ msgid "User records"
+#~ msgstr "Kullanıcı kayıtları"
+
+#~ msgid "User product view"
+#~ msgstr "Kullanıcı ürün görüntüleme"
+
+#~ msgid "User product views"
+#~ msgstr "Kullanıcı ürün görüntüleme"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "%(user)s '%(product)s' görüntüledi"
+
+#~ msgid "Search term"
+#~ msgstr "Arama ifadesi"
+
+#~ msgid "User search query"
+#~ msgstr "Kullanıcı arama sorgusu"
+
+#~ msgid "User search queries"
+#~ msgstr "Kullanıcı arama sorguları"
+
+#~ msgid "%(user)s searched for '%(query)s'"
+#~ msgstr "%(user)s '%(query)s' ifadesini aradı"
+
+#~ msgid "Analytics"
+#~ msgstr "Analizler"
+
+#~ msgid "Basket additions"
+#~ msgstr "Alışveriş Sepeti Eklemeleri"
+
+#~ msgid "Product analytics"
+#~ msgstr "Ürün Analizleri"
+
+#~ msgid "Name"
+#~ msgstr "İsim"
+
+#~ msgid "Date registered"
+#~ msgstr "Kayıt tarihi"
+
+#~ msgid "Product views"
+#~ msgstr "Ürün görüntüleme"
+
+#~ msgid "Order lines"
+#~ msgstr "Sipariş satırları"
+
+#~ msgid "Order items"
+#~ msgstr "Sipariş kalemleri"
+
+#~ msgid "Total spent"
+#~ msgstr "Toplam harcama"
+
+#~ msgid "Date of last order"
+#~ msgstr "Son sipariş tarihi"
+
+#~ msgid "User analytics"
+#~ msgstr "Kullanıcı analizleri"
+
+#~ msgid "Owner"
+#~ msgstr "Sahibi"
+
+#~ msgid "Open - currently active"
+#~ msgstr "Açık - halen aktif"
+
+#~ msgid "Merged - superceded by another basket"
+#~ msgstr "Birleşti - başka bir sepetin yerini aldı"
+
+#~ msgid "Saved - for items to be purchased later"
+#~ msgstr "Kaydedildi - daha sonra satın almak üzere"
+
+#~ msgid "Frozen - the basket cannot be modified"
+#~ msgstr "Donduruldu - sepet düzenlenemez"
+
+#~ msgid "Submitted - has been ordered at the checkout"
+#~ msgstr "Onaylandı - ödemesi gerçekleşti"
+
+#~ msgid "Status"
+#~ msgstr "Durum"
+
+#~ msgid "Date created"
+#~ msgstr "Oluşturulma tarihi"
+
+#~ msgid "Date merged"
+#~ msgstr "Birleştirilme tarihi"
+
+#~ msgid "Date submitted"
+#~ msgstr "Onaylanma tarihi"
+
+#~ msgid "Baskets"
+#~ msgstr "Alışveriş Sepetleri"
+
+#~ msgid "%(status)s basket (owner: %(owner)s, lines: %(num_lines)d)"
+#~ msgstr "%(status)s sepet (sahibi: %(owner)s, kalemler: %(num_lines)d)"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order."
+#~ msgstr ""
+#~ "Teknik kısıtlamalardan dolayı bir siparişte %(threshold)d adet üründen "
+#~ "fazlasını gönderemiyoruz."
+
+#~ msgid "Line Reference"
+#~ msgstr "Satır başvurusu"
+
+#~ msgid "Quantity"
+#~ msgstr "Adet"
+
+#~ msgid "Currency"
+#~ msgstr "Kur"
+
+#~ msgid "Price excl. Tax"
+#~ msgstr "Vergi hariç fiyat"
+
+#~ msgid "Price incl. Tax"
+#~ msgstr "Vergi dahil fiyat"
+
+#~ msgid "Basket line"
+#~ msgstr "Sepet satırı"
+
+#~ msgid "Basket lines"
+#~ msgstr "Sepet satırları"
+
+#~ msgid ""
+#~ "Basket #%(basket_id)d, Product #%(product_id)d, quantity %(quantity)d"
+#~ msgstr "Sepet #%(basket_id)d, Ürün #%(product_id)d, adet %(quantity)d"
+
+#~ msgid "You cannot modify a %s basket"
+#~ msgstr "%s sepetini değiştiremezsiniz"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has increased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "'%(product)s' adlı ürünün fiyatı siz sepetinize eklediğinizden bu yana "
+#~ "%(old_price)s 'dan %(new_price)s 'a arttırıldı"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has decreased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "'%(product)s' adlı ürünün fiyatı siz sepetinize eklediğinizden bu yana "
+#~ "%(old_price)s 'dan %(new_price)s 'a düşürüldü"
+
+#~ msgid "Line"
+#~ msgstr "Satır"
+
+#~ msgid "Option"
+#~ msgstr "Seçenek"
+
+#~ msgid "Value"
+#~ msgstr "Değer"
+
+#~ msgid "Line attribute"
+#~ msgstr "Satır özelliği"
+
+#~ msgid "Line attributes"
+#~ msgstr "Satır özellikleri"
+
+#~ msgid "Save for Later"
+#~ msgstr "Sonrası için kaydet"
+
+#~ msgid "Move to Basket"
+#~ msgstr "Sepete taşı"
+
+#~ msgid "Code"
+#~ msgstr "Kod"
+
+#~ msgid "Variant"
+#~ msgstr "Varyant"
+
+#~ msgid "Please select a valid product"
+#~ msgstr "Lütfen geçerli bir ürün seçin"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order. Your basket currently has %(basket)d "
+#~ "items."
+#~ msgstr ""
+#~ "Teknik kısıtlamalardan dolayı bir siparişte %(threshold)d adet üründen "
+#~ "fazlasını gönderemiyoruz. Sepetinizde şu anda %(basket)d ürün var."
+
+#~ msgid ""
+#~ "This product cannot be added to the basket as its currency isn't the same "
+#~ "as other products in your basket"
+#~ msgstr ""
+#~ "Bu ürün, sepetinizde yer alan diğer ürünlerin kur değerleri ile aynı kur "
+#~ "değerine sahip olmadığı için sepetinize eklenemez"
+
+#~ msgid ""
+#~ "We have merged a basket from a previous session. Its contents might have "
+#~ "changed."
+#~ msgstr ""
+#~ "Alışveriş sepeti bir önceki sayfa ile birleştirildi. Sepetiniz içi "
+#~ "değişmiş olabilir."
+
+#~ msgid "User ID"
+#~ msgstr "Kullanıcı No"
+
+#~ msgid "Email"
+#~ msgstr "Eposta"
+
+#~ msgid "Basket status"
+#~ msgstr "Sepet Durumu"
+
+#~ msgid "Num lines"
+#~ msgstr "Satır sayısı"
+
+#~ msgid "Num items"
+#~ msgstr "Ürün sayısı"
+
+#~ msgid "Date of creation"
+#~ msgstr "Oluşturma tarihi"
+
+#~ msgid "Time since creation"
+#~ msgstr "Oluşturulmadan sonra geçen zaman"
+
+#~ msgid "Open baskets"
+#~ msgstr "Açık sepetler"
+
+#~ msgid "Time between creation and submission"
+#~ msgstr "Oluşturulma ile onaylanma arasındaki zaman"
+
+#~ msgid "Submitted baskets"
+#~ msgstr "Onaylanan sepetler"
+
+#~ msgid "You can't save an item for later if you're not logged in!"
+#~ msgstr "Giriş yapmadan sonra işlem yapmak için ürün kaydedemezsiniz"
+
+#~ msgid ""
+#~ "Your basket couldn't be updated. Please correct any validation errors "
+#~ "below."
+#~ msgstr ""
+#~ "Sepetiniz güncellenemedi. Lütfen aşağıdaki doğrulama hatalarını düzeltin."
+
+#~ msgid "The '%(code)s' voucher has expired"
+#~ msgstr "'%(code)s' kuponunun süresi doldu"
+
+#~ msgid "The '%(code)s' voucher is not active"
+#~ msgstr "'%(code)s' kuponu aktif değil"
+
+#~ msgid "Your basket does not qualify for a voucher discount"
+#~ msgstr "Sepetiniz kupon indirimi için uygun değil"
+
+#~ msgid "Voucher '%(code)s' added to basket"
+#~ msgstr "Kupon '%(code)s' sepete eklendi"
+
+#~ msgid "You have already added the '%(code)s' voucher to your basket"
+#~ msgstr "'%(code)s' kuponunu daha önce sepetinize eklediniz"
+
+#~ msgid "No voucher found with code '%(code)s'"
+#~ msgstr "'%(code)s' koduna sahip kupon bulunamadı"
+
+#~ msgid "Please enter a voucher code"
+#~ msgstr "Lütfen kupon kodunu giriniz"
+
+#~ msgid "Voucher '%s' removed from basket"
+#~ msgstr "Kupon '%s' sepetinizden kaldırıldı"
+
+#~ msgid "Slug"
+#~ msgstr "Manşet"
+
+#~ msgid "Requires shipping?"
+#~ msgstr "Teslimat gerekli?"
+
+#~ msgid "Track stock levels?"
+#~ msgstr "Stok seviyelerini izle?"
+
+#~ msgid "Product class"
+#~ msgstr "Ürün sınıfı"
+
+#~ msgid "Product classes"
+#~ msgstr "Ürün sınıfları"
+
+#~ msgid "Description"
+#~ msgstr "Açıklama"
+
+#~ msgid "Image"
+#~ msgstr "Resim"
+
+#~ msgid "Category"
+#~ msgstr "Kategori"
+
+#~ msgid "Product category"
+#~ msgstr "Ürün kategorisi"
+
+#~ msgid "Product categories"
+#~ msgstr "Ürün kategorileri"
+
+#~ msgid "Stand-alone product"
+#~ msgstr "Tek kalan ürün"
+
+#~ msgid "Parent product"
+#~ msgstr "Ana ürün"
+
+#~ msgid "Child product"
+#~ msgstr "Alt ürün"
+
+#~ msgid "Product structure"
+#~ msgstr "Ürün yapısı"
+
+#~ msgid "UPC"
+#~ msgstr "UPC"
+
+#~ msgid ""
+#~ "Universal Product Code (UPC) is an identifier for a product which is not "
+#~ "specific to a particular  supplier. Eg an ISBN for a book."
+#~ msgstr ""
+#~ "Evrensel Ürün Kodu (UPC) , belirli bir tedarikçiye özgü olmayan ürüne ait "
+#~ "bir tanımlayıcıdır. Örneğin ISBN kodunun kitaplar için olduğu gibi."
+
+#~ msgid ""
+#~ "Only choose a parent product if you're creating a child product.  For "
+#~ "example if this is a size 4 of a particular t-shirt.  Leave blank if this "
+#~ "is a stand-alone product (i.e. there is only one version of this product)."
+#~ msgstr ""
+#~ "Bir ana ürünü sadece bir alt ürün oluşturacaksanız seçiniz. Örneğin, eğer "
+#~ "belirli bir tişörtün bedeni 4 ise. Eğer tek kalan bir ürünse boşluk "
+#~ "bırakın (örn. bu ürünün sadece bir versiyonu bulunmaktadır)."
+
+#~ msgctxt "Product title"
+#~ msgid "Title"
+#~ msgstr "Başlık"
+
+#~ msgid "Product type"
+#~ msgstr "Ürün tipi"
+
+#~ msgid "Choose what type of product this is"
+#~ msgstr "Bunun ne tip ürün olduğunu seçin"
+
+#~ msgid "Attributes"
+#~ msgstr "Özellikler"
+
+#~ msgid ""
+#~ "A product attribute is something that this product may have, such as a "
+#~ "size, as specified by its class"
+#~ msgstr ""
+#~ "Bir ürün özelliği, ürünün sahip olabileceği her hangi bir özelliktir, "
+#~ "beden gibi, kendi sınıfı tarafından belirtilir."
+
+#~ msgid "Product options"
+#~ msgstr "Ürün seçenekleri"
+
+#~ msgid ""
+#~ "Options are values that can be associated with a item when it is added to "
+#~ "a customer's basket.  This could be something like a personalised message "
+#~ "to be printed on a T-shirt."
+#~ msgstr ""
+#~ "Seçenekler, ürünün müşteri sepetine eklenmesi sırasında ürünle "
+#~ "ilişkilendirilen değerlerdir. Bu, bir tişörtün üzerine basılacak kişiye "
+#~ "özel mesaj gibi birşey olabilir."
+
+#~ msgid "Recommended products"
+#~ msgstr "Önerilen ürünler"
+
+#~ msgid ""
+#~ "These are products that are recommended to accompany the main product."
+#~ msgstr "Tavsiye edilen benzer ürünler."
+
+#~ msgid "Date updated"
+#~ msgstr "Güncelleme Tarihi"
+
+#~ msgid "Is discountable?"
+#~ msgstr "İndirim uygulanabilir mi?"
+
+#~ msgid "This flag indicates if this product can be used in an offer or not"
+#~ msgstr ""
+#~ "Bu işaret, ürünün bir teklif içerisinde yer alıp alamayacağı bilgisini "
+#~ "gösterir."
+
+#~ msgid "Your product must have a title."
+#~ msgstr "Ürününüz bir başlığa sahip olmalı."
+
+#~ msgid "Your product must have a product class."
+#~ msgstr "Ürününüz bir ürün sınıfına sahip olmalı."
+
+#~ msgid "Only child products can have a parent."
+#~ msgstr "Sadece alt ürünler bir ana ürüne sahip olabilir."
+
+#~ msgid "A child product needs a parent."
+#~ msgstr "Bir alt ürün bir ana ürüne ihtiyaç duyar."
+
+#~ msgid "You can only assign child products to parent products."
+#~ msgstr "Alt ürünleri sadece ana ürünlere atayabilirsiniz."
+
+#~ msgid "A child product can't have a product class."
+#~ msgstr "Bir alt ürün bir ürün sınıfına sahip olamaz."
+
+#~ msgid "A child product can't have a category assigned."
+#~ msgstr "Bir alt ürüne bir kategori atanamaz."
+
+#~ msgid "A child product can't have options."
+#~ msgstr "Bir alt ürün seçeneklere sahip olamaz."
+
+#~ msgid "A parent product can't have stockrecords."
+#~ msgstr "Bir ana ürünün stok kayıtları olamaz."
+
+#~ msgid "The specified parent product is a child product."
+#~ msgstr "Belirtilen ana ürün bir alt üründür."
+
+#~ msgid "One can't add a child product to a product with stock records."
+#~ msgstr "Stok kayıtlarına sahip bir ürüne bir alt ürün ekleyemezsiniz."
+
+#~ msgid "Primary product"
+#~ msgstr "Temel ürün"
+
+#~ msgid "Recommended product"
+#~ msgstr "Önerilen ürün"
+
+#~ msgid "Ranking"
+#~ msgstr "Sıralama"
+
+#~ msgid ""
+#~ "Determines order of the products. A product with a higher value will "
+#~ "appear before one with a lower ranking."
+#~ msgstr ""
+#~ "Ürünlerin sırasını belirler. Yüksek sıralama değerine sahip olan bir ürün "
+#~ "daha düşük değere sahip olandan daha önce gözükür."
+
+#~ msgid "Product recommendation"
+#~ msgstr "Ürün önerisi"
+
+#~ msgid "Product recomendations"
+#~ msgstr "Ürün önerileri"
+
+#~ msgid ""
+#~ "Code can only contain the letters a-z, A-Z, digits, and underscores, and "
+#~ "can't start with a digit."
+#~ msgstr ""
+#~ "Kod yalnızca harfler a-z, A-Z, sayılar, ve alt çizgiler içerebilir, ve "
+#~ "bir sayı ile başlayamaz."
+
+#~ msgid "Text"
+#~ msgstr "Metin"
+
+#~ msgid "Integer"
+#~ msgstr "Tamsayı"
+
+#~ msgid "True / False"
+#~ msgstr "Doğru / Yanlış"
+
+#~ msgid "Float"
+#~ msgstr "Kesirli Sayı"
+
+#~ msgid "Rich Text"
+#~ msgstr "Zengin Metin"
+
+#~ msgid "Date"
+#~ msgstr "Tarih"
+
+#~ msgid "Entity"
+#~ msgstr "Varlık"
+
+#~ msgid "File"
+#~ msgstr "Dosya"
+
+#~ msgid "Option Group"
+#~ msgstr "Özellik Grubu"
+
+#~ msgid "Required"
+#~ msgstr "Gerekli"
+
+#~ msgid "Product attribute"
+#~ msgstr "Ürün özelliği"
+
+#~ msgid "Product attributes"
+#~ msgstr "Ürün özellikleri"
+
+#~ msgid "Must be str or unicode"
+#~ msgstr "karakter dizisi veya evrensel kod olmalı"
+
+#~ msgid "Must be a float"
+#~ msgstr "Kesirli sayı olmalı"
+
+#~ msgid "Must be an integer"
+#~ msgstr "Tamsayı olmalı"
+
+#~ msgid "Must be a date or datetime"
+#~ msgstr "Tarih veya tarih-zaman olmalı"
+
+#~ msgid "Must be a boolean"
+#~ msgstr "Doğru/Yanlış değeri almalı"
+
+#~ msgid "Must be a model instance"
+#~ msgstr "Bir model örneği olmalı"
+
+#~ msgid "Must be an AttributeOption model object instance"
+#~ msgstr "AttributeOption modeli nesne örneği olmalı"
+
+#~ msgid "AttributeOption has not been saved yet"
+#~ msgstr "AttributeOption henüz kaydedilmedi"
+
+#~ msgid "%(enum)s is not a valid choice for %(attr)s"
+#~ msgstr "%(enum)s %(attr)s için geçerli bir seçim değil"
+
+#~ msgid "Must be a file field"
+#~ msgstr "Bir dosya alanı olmalı"
+
+#~ msgid "Attribute"
+#~ msgstr "Özellik"
+
+#~ msgid "Boolean"
+#~ msgstr "Doğru/Yanlış"
+
+#~ msgid "Richtext"
+#~ msgstr "ZenginMetin"
+
+#~ msgid "Value option"
+#~ msgstr "Değer seçeneği"
+
+#~ msgid "Product attribute value"
+#~ msgstr "Ürün özellik değeri"
+
+#~ msgid "Product attribute values"
+#~ msgstr "Ürün özellik değerleri"
+
+#~ msgid "Attribute option group"
+#~ msgstr "Özellik seçeneği grubu"
+
+#~ msgid "Attribute option groups"
+#~ msgstr "Özellik seçeneği grupları"
+
+#~ msgid "Group"
+#~ msgstr "Grup"
+
+#~ msgid "Attribute option"
+#~ msgstr "Özellik seçeneği"
+
+#~ msgid "Attribute options"
+#~ msgstr "Özellik seçenekleri"
+
+#~ msgid "Required - a value for this option must be specified"
+#~ msgstr "Gerekli - bu seçeneğin değeri belirtilmeli"
+
+#~ msgid "Optional - a value for this option can be omitted"
+#~ msgstr "İsteğe Bağlı - bu seçeneğin değeri belirtilmeyebilir"
+
+#~ msgid "Original"
+#~ msgstr "Özgün"
+
+#~ msgid "Caption"
+#~ msgstr "Başlık"
+
+#~ msgid ""
+#~ "An image with a display order of zero will be the primary image for a "
+#~ "product"
+#~ msgstr ""
+#~ "Gösterim sırası sıfır olan bir resim o ürün için ana resim olacaktır"
+
+#~ msgid "Product image"
+#~ msgstr "Ürün resmi"
+
+#~ msgid "Product images"
+#~ msgstr "Ürün resimleri"
+
+#~ msgid "%(obj)s has no attribute named '%(attr)s'"
+#~ msgstr "%(obj)s '%(attr)s' özelliğine sahip değil"
+
+#~ msgid "%(attr)s attribute cannot be blank"
+#~ msgstr "%(attr)s özelliği boş bırakılamaz"
+
+#~ msgid "%(attr)s attribute %(err)s"
+#~ msgstr "%(attr)s özellik %(err)s"
+
+#~ msgctxt "Product review title"
+#~ msgid "Title"
+#~ msgstr "Başlık"
+
+#~ msgid "Body"
+#~ msgstr "Gövde"
+
+#~ msgctxt "Anonymous reviewer name"
+#~ msgid "Name"
+#~ msgstr "İsim"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Requires moderation"
+#~ msgstr "Onay gerekiyor"
+
+#~ msgid "Approved"
+#~ msgstr "Onaylandı"
+
+#~ msgid "Rejected"
+#~ msgstr "Reddedildi"
+
+#~ msgid "Total Votes"
+#~ msgstr "Toplam Oy"
+
+#~ msgid "Delta Votes"
+#~ msgstr "Delta Oylar"
+
+#~ msgid "Product review"
+#~ msgstr "Ürün yorumu"
+
+#~ msgid "Product reviews"
+#~ msgstr "Ürün yorumları"
+
+#~ msgid "Anonymous reviews must include a name and an email"
+#~ msgstr "Anonim yorumlar bir isim ve bir e-posta adresi içermeli"
+
+#~ msgid "anonymous"
+#~ msgstr "anonim"
+
+#~ msgid "Only signed in users can vote"
+#~ msgstr "Sadece kayıtlı kullanıcılar oy verebilir"
+
+#~ msgid "Up"
+#~ msgstr "Yukarı"
+
+#~ msgid "Down"
+#~ msgstr "Aşağı"
+
+#~ msgid "Delta"
+#~ msgstr "Delta"
+
+#~ msgid "Vote"
+#~ msgstr "Oy"
+
+#~ msgid "Votes"
+#~ msgstr "Oylar"
+
+#~ msgid "You cannot vote on your own reviews"
+#~ msgstr "Kendi yorumunuza oy veremezsiniz"
+
+#~ msgid "Only signed-in users can vote on reviews"
+#~ msgstr "Sadece kayıtlı kullanıcılar yorumlara oy verebilir"
+
+#~ msgid "You can only vote once on a review"
+#~ msgstr "Bir yoruma sadece bir kez oy verebilirsiniz"
+
+#~ msgid "Catalogue reviews"
+#~ msgstr "Katalog yorumları"
+
+#~ msgid "Recency"
+#~ msgstr "Yenilik"
+
+#~ msgid "Sort by"
+#~ msgstr "Sırala"
+
+#~ msgid "You have already reviewed this product!"
+#~ msgstr "Bu ürüne daha önceden yorum yaptınız"
+
+#~ msgid "You can't leave a review for this product."
+#~ msgstr "Bu ürüne bir yorum yapamazsınız."
+
+#~ msgid "Thank you for reviewing this product"
+#~ msgstr "Ürüne yorum yaptığınız için teşekkür ederiz"
+
+#~ msgid "Thanks for voting!"
+#~ msgstr "Oy verdiğiniz için teşekkür ederiz!"
+
+#~ msgid "%(filename)s is not a valid image (%(error)s)"
+#~ msgstr "%(filename)s geçerli bir resim değil (%(error)s)"
+
+#~ msgid "%s is not a valid image archive"
+#~ msgstr "%s geçerli bir resim arşivi değil"
+
+#~ msgid "The given page number was invalid."
+#~ msgstr "Girilen sayfa numarası geçerli değil."
+
+#~ msgid "Checkout"
+#~ msgstr "Ödeme yap"
+
+#~ msgid "My email address is"
+#~ msgstr "Eposta adresim"
+
+#~ msgid "I am a new customer and want to checkout as a guest"
+#~ msgstr "Yeni müşteriyim ve konuk olarak ödeme yapmak istiyorum"
+
+#~ msgid ""
+#~ "I am a new customer and want to create an account before checking out"
+#~ msgstr ""
+#~ "Ben yeni bir müşteriyim ve ödeme yapmadan önce bir kullanıcı oluşturmak "
+#~ "istiyorum"
+
+#~ msgid "I am a returning customer, and my password is"
+#~ msgstr "Ben kayıtlı bir müşteriyim, ve şifrem"
+
+#~ msgid "A user with that email address already exists"
+#~ msgstr "Bu e-posta adresine sahip bir kullanıcı zaten var"
+
+#~ msgid "You need to add some items to your basket to checkout"
+#~ msgstr "Ödeme yapmak için sepetinizi ürün eklemelisiniz"
+
+#~ msgid ""
+#~ "'%(title)s' is no longer available to buy (%(reason)s). Please adjust "
+#~ "your basket to continue"
+#~ msgstr ""
+#~ "'%(title)s' artık satın almak için mevcut değil (%(reason)s). Lütfen "
+#~ "devam etmeden önce sepetinizi düzenleyin."
+
+#~ msgid "Please either sign in or enter your email address"
+#~ msgstr "Lütfen giriş yapın veya eposta adresinizi girin"
+
+#~ msgid "Please choose a shipping address"
+#~ msgstr "Lütfen teslimat adresini seçiniz"
+
+#~ msgid ""
+#~ "Your previously chosen shipping address is no longer valid.  Please "
+#~ "choose another one"
+#~ msgstr ""
+#~ "Daha önce seçmiş olduğunuz teslimat adresi artık geçerli değil. Lütfen "
+#~ "başka bir tane seçin"
+
+#~ msgid "Please choose a shipping method"
+#~ msgstr "Lütfen teslimat yöntemini seçiniz"
+
+#~ msgid ""
+#~ "Your previously chosen shipping method is no longer valid.  Please choose "
+#~ "another one"
+#~ msgstr ""
+#~ "Daha önce seçmiş olduğunuz teslimat yöntemi artık geçerli değil. Lütfen "
+#~ "başka bir tane seçin"
+
+#~ msgid ""
+#~ "Create your account and then you will be redirected back to the checkout "
+#~ "process"
+#~ msgstr ""
+#~ "Kullanıcı oluşturun, daha sonra tekrar ödeme işlemi sayfasına geri "
+#~ "yönlendirileceksiniz"
+
+#~ msgid "Address saved"
+#~ msgstr "Adres kaydedildi"
+
+#~ msgid "Address deleted"
+#~ msgstr "Adres silindi"
+
+#~ msgid ""
+#~ "Shipping is unavailable for your chosen address - please choose another"
+#~ msgstr ""
+#~ "Teslimat yöntemi seçmiş olduğunuz adres için uygun değil - lütfen başka "
+#~ "bir tane seçiniz"
+
+#~ msgid "Your submitted shipping method is not permitted"
+#~ msgstr "Belirttiğiniz teslimat yöntemi kabul edilmedi"
+
+#~ msgid ""
+#~ "A problem occurred while processing payment for this order - no payment "
+#~ "has been taken.  Please contact customer services if this problem persists"
+#~ msgstr ""
+#~ "Bu sipariş için ödeme işlemi yapılırken bir problem meydana geldi - hiç "
+#~ "bir ödeme alınmadı. Eğer bu sorun devam ederse lütfen müşteri hizmetleri "
+#~ "ile iletişime geçiniz"
+
+#~ msgid "No order found"
+#~ msgstr "Sipariş bulunamadı"
+
+#~ msgid "email address"
+#~ msgstr "e-posta adresi"
+
+#~ msgid "Staff status"
+#~ msgstr "Personel durumu"
+
+#~ msgid "Designates whether the user can log into this admin site."
+#~ msgstr "Kullanıcının admin sitesine girip giremeyeceğini belirler."
+
+#~ msgid "Active"
+#~ msgstr "Aktif"
+
+#~ msgid ""
+#~ "Designates whether this user should be treated as active. Unselect this "
+#~ "instead of deleting accounts."
+#~ msgstr ""
+#~ "Bu kullanıcının aktif olarak değerlendirilip değerlendirilmeyeceğini "
+#~ "belirler. Kullanıcıları silmek yerine bu seçimi kaldırın."
+
+#~ msgid "date joined"
+#~ msgstr "katılma tarihi"
+
+#~ msgid "Users"
+#~ msgstr "Kullanıcılar"
+
+#~ msgid "Subject"
+#~ msgstr "Konu"
+
+#~ msgid "Body Text"
+#~ msgstr "İçerik Metni"
+
+#~ msgid "Body HTML"
+#~ msgstr "İçerik HTML"
+
+#~ msgid "Date Sent"
+#~ msgstr "Gönderilme Tarihi"
+
+#~ msgid "Emails"
+#~ msgstr "Epostalar"
+
+#~ msgid "Email to %(user)s with subject '%(subject)s'"
+#~ msgstr "%(user)s için '%(subject)s' konulu eposta"
+
+#~ msgid "Code used for looking up this event programmatically"
+#~ msgstr "Kod bu olay programlı olarak aranırken kullanılır"
+
+#~ msgid "This is just used for organisational purposes"
+#~ msgstr "Sadece organizasyonel amaçlar için kullanılacaktır"
+
+#~ msgid "Order related"
+#~ msgstr "İlgili sipariş"
+
+#~ msgid "User related"
+#~ msgstr "İlgili kullanıcı"
+
+#~ msgid "Email Subject Template"
+#~ msgstr "Eposta Konu Şablonu"
+
+#~ msgid "Email Body Template"
+#~ msgstr "Eposta İçerik Şablonu"
+
+#~ msgid "Email Body HTML Template"
+#~ msgstr "Eposta İçeriği HTML Şablonu"
+
+#~ msgid "HTML template"
+#~ msgstr "HTML Şablonu"
+
+#~ msgid "SMS Template"
+#~ msgstr "SMS Şablonu"
+
+#~ msgid "SMS template"
+#~ msgstr "SMS şablonu"
+
+#~ msgid "Date Updated"
+#~ msgstr "Güncelleme Tarihi"
+
+#~ msgid "Communication event type"
+#~ msgstr "İletişim olay türü"
+
+#~ msgid "Communication event types"
+#~ msgstr "İletişim olay türleri"
+
+#~ msgid "Inbox"
+#~ msgstr "Gelen kutusu"
+
+#~ msgid "Archive"
+#~ msgstr "Arşiv"
+
+#~ msgid "Notification"
+#~ msgstr "Duyuru"
+
+#~ msgid "Notifications"
+#~ msgstr "Duyurular"
+
+#~ msgid "Key"
+#~ msgstr "Anahtar"
+
+#~ msgid "Not yet confirmed"
+#~ msgstr "Henüz doğrulanmadı"
+
+#~ msgid "Cancelled"
+#~ msgstr "İptal Edildi"
+
+#~ msgid "Closed"
+#~ msgstr "Kapatıldı"
+
+#~ msgid "Date confirmed"
+#~ msgstr "Doğrulanma tarihi"
+
+#~ msgid "Date cancelled"
+#~ msgstr "İptal Edilme tarihi"
+
+#~ msgid "Date closed"
+#~ msgstr "Kapatılma tarihi"
+
+#~ msgid "Product alert"
+#~ msgstr "Ürün uyarısı"
+
+#~ msgid "Product alerts"
+#~ msgstr "Ürün uyarıları"
+
+#~ msgid "Product Alerts"
+#~ msgstr "Ürün Uyarıları"
+
+#~ msgid "An alert has been created"
+#~ msgstr "Uyarı oluşturuldu"
+
+#~ msgid "A confirmation email has been sent to %s"
+#~ msgstr "%s adresine doğrulama epostası gönderildi"
+
+#~ msgid "Your stock alert is now active"
+#~ msgstr "Stok uyarısı aktif durumda"
+
+#~ msgid "Your stock alert cannot be confirmed"
+#~ msgstr "Stok uyarısı doğrulanamadı"
+
+#~ msgid "Your stock alert has been cancelled"
+#~ msgstr "Stok uyarısı iptal edildi"
+
+#~ msgid "Your stock alert cannot be cancelled"
+#~ msgstr "Stok uyarısı iptal edilemedi"
+
+#~ msgid "Customer"
+#~ msgstr "Müşteri"
+
+#~ msgid "Email address"
+#~ msgstr "Eposta adresi"
+
+#~ msgid "Password"
+#~ msgstr "Parola"
+
+#~ msgid "The entered password is not valid!"
+#~ msgstr "Girilen parola geçerli değil !"
+
+#~ msgid "Confirm password"
+#~ msgstr "Parola doğrula"
+
+#~ msgid "The two password fields didn't match."
+#~ msgstr "İki parola alanı eşleşmiyor"
+
+#~ msgctxt "start date"
+#~ msgid "From"
+#~ msgstr "Kimden"
+
+#~ msgctxt "end date"
+#~ msgid "To"
+#~ msgstr "Kime"
+
+#~ msgid "Order number"
+#~ msgstr "Sipariş numarası"
+
+#~ msgid "At least one field is required."
+#~ msgstr "En azından bir alan gereklidir"
+
+#~ msgid "All orders"
+#~ msgstr "Bütün siparişler"
+
+#~ msgid ""
+#~ "Orders placed between %(date_from)s and %(date_to)s and order number "
+#~ "containing %(order_number)s"
+#~ msgstr ""
+#~ "%(date_from)s ile %(date_to)s tarihleri arasında verilen ve sipariş "
+#~ "numarası %(order_number)s içeren siparişler"
+
+#~ msgid "Orders placed between %(date_from)s and %(date_to)s"
+#~ msgstr "%(date_from)s ile %(date_to)s tarihleri arasında verilen siparişler"
+
+#~ msgid ""
+#~ "Orders placed since %(date_from)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "%(date_from)s tarihinden itibaren verilen ve sipariş numarası "
+#~ "%(order_number)s içeren siparişler"
+
+#~ msgid "Orders placed since %(date_from)s"
+#~ msgstr "%(date_from)s tarihinden itibaren verilen siparişler"
+
+#~ msgid ""
+#~ "Orders placed until %(date_to)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr ""
+#~ "%(date_to)s tarihine kadar verilen ve sipariş numarası %(order_number)s "
+#~ "içeren siparişler"
+
+#~ msgid "Orders placed until %(date_to)s"
+#~ msgstr "%(date_to)s tarihine kadar verilen siparişler"
+
+#~ msgid "Orders with order number containing %(order_number)s"
+#~ msgstr "Sipariş numarası %(order_number)s içeren siparişler"
+
+#~ msgid "A user with this email address already exists"
+#~ msgstr "Bu eposta adresi ile önceden kayıt olan bir kullanıcı var"
+
+#~ msgid "Send notification to"
+#~ msgstr "Duyuru gönder"
+
+#~ msgid "Enter your email"
+#~ msgstr "Epostanızı giriniz"
+
+#~ msgid "There is already an active stock alert for %s"
+#~ msgstr "%s için önceden tanımlı bir stok uyarısı var"
+
+#~ msgid "You already have an active alert for this product"
+#~ msgstr "Bu ürün için zaten aktif bir uyarınız var"
+
+#~ msgid "%(count)d notification archived"
+#~ msgid_plural "%(count)d notifications archived"
+#~ msgstr[0] "%(count)d duyuru arşivlendi"
+#~ msgstr[1] "%(count)d duyuru arşivlendi"
+
+#~ msgid "%(count)d notification deleted"
+#~ msgid_plural "%(count)d notifications deleted"
+#~ msgstr[0] "%(count)d duyuru silindi"
+#~ msgstr[1] "%(count)d duyuru silindi"
+
+#~ msgid "Welcome back"
+#~ msgstr "Tekrar Hoşgeldiniz"
+
+#~ msgid "Thanks for registering!"
+#~ msgstr "Kayıt olduğunuz için teşekkürler!"
+
+#~ msgid "Profile"
+#~ msgstr "Profil"
+
+#~ msgid "Edit Profile"
+#~ msgstr "Profil Düzenleme"
+
+#~ msgid "Profile updated"
+#~ msgstr "Profil güncellendi"
+
+#~ msgid "Delete profile"
+#~ msgstr "Profil sil"
+
+#~ msgid "Your profile has now been deleted. Thanks for using the site."
+#~ msgstr "Profiliniz şimdi silindi. Siteyi kullandığın için teşekkürler."
+
+#~ msgid "Change Password"
+#~ msgstr "Parola Değiştirme"
+
+#~ msgid "Password updated"
+#~ msgstr "Parola değiştirildi"
+
+#~ msgid "Email History"
+#~ msgstr "E-posta Geçmişi"
+
+#~ msgid "Order History"
+#~ msgstr "Sipariş Geçmişi"
+
+#~ msgid "Order"
+#~ msgstr "Sipariş"
+
+#~ msgid ""
+#~ "All available lines from order %(number)s have been added to your basket"
+#~ msgstr "%(number)s nolu siparişinizdeki bütün ürünler sepetinize eklendi"
+
+#~ msgid ""
+#~ "It is not possible to re-order order %(number)s as none of its lines are "
+#~ "available to purchase"
+#~ msgstr ""
+#~ "%(number)s nolu siparişinizi, içindeki ürünlerin hiçbiri satın almaya "
+#~ "uygun değil ise tekrar sipariş edemezsiniz"
+
+#~ msgid "%(qty)d copies of '%(product)s' have been added to your basket"
+#~ msgstr "'%(product)s' ürününün %(qty)d adet kopyası sepetinize eklendi"
+
+#~ msgid "'%s' has been added to your basket"
+#~ msgstr "'%s' sepetinize eklendi"
+
+#~ msgid "Address Book"
+#~ msgstr "Adres Defteri"
+
+#~ msgid "Add a new address"
+#~ msgstr "Yeni adres ekle"
+
+#~ msgid "Address '%s' created"
+#~ msgstr "'%s' adresi kaydedildi"
+
+#~ msgid "Edit address"
+#~ msgstr "Adresi düzenle"
+
+#~ msgid "Address '%s' updated"
+#~ msgstr "'%s' adresi güncellendi"
+
+#~ msgid "Delete address?"
+#~ msgstr "Adresi sil?"
+
+#~ msgid "Address '%s' deleted"
+#~ msgstr "'%s' adresi silindi"
+
+#~ msgid "We do not ship to this country"
+#~ msgstr "Bu ülkeye teslimat yapamıyoruz"
+
+#~ msgid "Wish Lists"
+#~ msgstr "İstek Listeleri"
+
+#~ msgid "Quantities updated."
+#~ msgstr "Miktarlar güncellendi."
+
+#~ msgid "Create a new wish list"
+#~ msgstr "Yeni bir istek listesi oluştur"
+
+#~ msgid "The requested product no longer exists"
+#~ msgstr "İstenen ürün artık mevcut değil"
+
+#~ msgid "Your wishlist has been created and '%(name)s has been added"
+#~ msgstr "İstek listeniz oluşturuldu ve '%(name)s eklendi"
+
+#~ msgid "Your wishlist has been created"
+#~ msgstr "İstek listeniz oluşturuldu"
+
+#~ msgid "%(title)s has been added to your wishlist"
+#~ msgstr "%(title)s istek listenize eklendi"
+
+#~ msgid "Your '%s' wishlist has been updated"
+#~ msgstr "'%s' istek listeniz güncellendi"
+
+#~ msgid "Delete %s"
+#~ msgstr "Sil %s"
+
+#~ msgid "Your '%s' wish list has been deleted"
+#~ msgstr "'%s' istek listeniz silindi"
+
+#~ msgid "'%s' was added to your wish list."
+#~ msgstr "'%s' istek listenize eklendi"
+
+#~ msgid "Remove %s"
+#~ msgstr "Kaldır %s"
+
+#~ msgid "'%(title)s' was removed from your '%(name)s' wish list"
+#~ msgstr "'%(title)s' , '%(name)s' istek listenizden kaldırıldı"
+
+#~ msgid "'%(title)s' moved to '%(name)s' wishlist"
+#~ msgstr "'%(title)s' , '%(name)s' istek listenize taşındı"
+
+#~ msgid "Create a new product of type"
+#~ msgstr "Yeni ürün türü oluştur"
+
+#~ msgid "-- Choose type --"
+#~ msgstr "-- Tür seç --"
+
+#~ msgid "Product title"
+#~ msgstr "Ürün başlığı"
+
+#~ msgid "Select an option group"
+#~ msgstr "Bir seçenek grubu seçiniz"
+
+#~ msgid ""
+#~ "At least one stock record must be set to a partner that you're associated "
+#~ "with."
+#~ msgstr ""
+#~ "En azından bir stok kaydı bağlantılı olduğunuz tedarikçiye göre "
+#~ "ayarlanmalıdır."
+
+#~ msgid "Stand-alone and parent products must have at least one category"
+#~ msgstr ""
+#~ "Tek kalan ürünler ve ana ürünler en azından bir kategoriye sahip "
+#~ "olmalıdır."
+
+#~ msgid "A child product should not have categories"
+#~ msgstr "Bir alt ürün kategorilere sahip olamaz"
+
+#~ msgid "Title"
+#~ msgstr "Başlık"
+
+#~ msgid "Variants"
+#~ msgstr "Varyantlar"
+
+#~ msgid "Stock records"
+#~ msgstr "Stok kayıtları"
+
+#~ msgid "Actions"
+#~ msgstr "Eylemler"
+
+#~ msgid "Number of child categories"
+#~ msgstr "Alt kategorilerin sayısı"
+
+#~ msgid "%s Category"
+#~ msgid_plural "%s Categories"
+#~ msgstr[0] "%s Kategori"
+#~ msgstr[1] "%s Kategoriler"
+
+#~ msgid "Product search results"
+#~ msgstr "Ürün araması sonuçları"
+
+#~ msgid "Please choose a product type"
+#~ msgstr "Lütfen bir ürün tipi seçiniz"
+
+#~ msgid "Create new %(product_class)s product"
+#~ msgstr "Yeni %(product_class)s ürünü oluştur"
+
+#~ msgid "Create new variant of %(parent_product)s"
+#~ msgstr "%(parent_product)s için yeni varyant oluştur"
+
+#~ msgid "Editing variant of %(parent_product)s"
+#~ msgstr "%(parent_product)sdeğişkenleri düzenleniyor"
+
+#~ msgid "Your submitted data was not valid - please correct the errors below"
+#~ msgstr ""
+#~ "Belirttiğiniz bilgiler geçerli değil - lütfen aşağıdaki hataları düzeltin"
+
+#~ msgid "Delete product variant?"
+#~ msgstr "Ürün varyantını sil?"
+
+#~ msgid "Delete product?"
+#~ msgstr "Ürünü sil?"
+
+#~ msgid "Deleted product variant '%s'"
+#~ msgstr "'%s' ürün varyantı silindi"
+
+#~ msgid "Deleted product '%s'"
+#~ msgstr "'%s' ürünü silindi"
+
+#~ msgid "Alerts with status \"%s\""
+#~ msgstr "\"%s\" durumu uyarıları"
+
+#~ msgid "All alerts"
+#~ msgstr "Bütün uyarılar"
+
+#~ msgid "Add a new category"
+#~ msgstr "Yeni bir kategori ekle"
+
+#~ msgid "Category created successfully"
+#~ msgstr "Kategori başarı ile oluşturuldu"
+
+#~ msgid "Update category '%s'"
+#~ msgstr "Kategoriyi güncelle '%s'"
+
+#~ msgid "Category updated successfully"
+#~ msgstr "Kategori başarı ile güncellendi"
+
+#~ msgid "Category deleted successfully"
+#~ msgstr "Kategori başarı ile silindi"
+
+#~ msgid "Add a new product type"
+#~ msgstr "Yeni ürün türü oluştur"
+
+#~ msgid "Product type created successfully"
+#~ msgstr "Ürün türü başarı ile oluşturuldu"
+
+#~ msgid "Update product type '%s'"
+#~ msgstr "'%s' ürün tipi güncelle"
+
+#~ msgid "Product type updated successfully"
+#~ msgstr "Ürün tipi başarı ile güncellendi"
+
+#~ msgid "Delete product type '%s'"
+#~ msgstr "'%s' ürün tipini sil"
+
+#~ msgid "Unable to delete '%s'"
+#~ msgstr "'%s' silinemiyor"
+
+#~ msgid "%i products are still assigned to this type"
+#~ msgstr "%iürünleri hala bu türe ait"
+
+#~ msgid "Product type deleted successfully"
+#~ msgstr "Ürün tipi başarıyla silindi"
+
+#~ msgid "Communications dashboard"
+#~ msgstr "İletişim panosu"
+
+#~ msgid "Email subject template"
+#~ msgstr "Eposta konu şablonu"
+
+#~ msgid "Email body text template"
+#~ msgstr "Eposta içerik metni şablonu"
+
+#~ msgid "Email body HTML template"
+#~ msgstr "Eposta içeriği HTML şablonu"
+
+#~ msgid "Preview email"
+#~ msgstr "Eposta önizleme"
+
+#~ msgid "No order found with this number"
+#~ msgstr "Bu numara ile sipariş bulunamadı"
+
+#~ msgid "Please enter an email address"
+#~ msgstr "Lütfen bir eposta adresi giriniz"
+
+#~ msgid ""
+#~ "The submitted form was not valid, please correct the errors and resubmit"
+#~ msgstr ""
+#~ "Belirtilen bilgiler geçerli değil, lütfen hataları düzeltip tekrar "
+#~ "gönderiniz"
+
+#~ msgid "Email saved"
+#~ msgstr "Eposta kaydedildi"
+
+#~ msgid "A preview email has been sent to %s"
+#~ msgstr "%s adresine önizleme epostası gönderildi"
+
+#~ msgid "Offers dashboard"
+#~ msgstr "Kampanyaların panosu"
+
+#~ msgid "Start date"
+#~ msgstr "Başlangıç tarihi"
+
+#~ msgid "End date"
+#~ msgstr "Bitiş Tarihi"
+
+#~ msgid "The end date must be after the start date"
+#~ msgstr "Bitiş tarihi başlangıç tarihinden sonra olmalıdır"
+
+#~ msgid "Custom condition"
+#~ msgstr "Özel koşul"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom condition"
+#~ msgstr "Lütfen aralık, tip ve değer ya da özel koşul seçiniz"
+
+#~ msgid "A range is required"
+#~ msgstr "Bir aralık gerekli"
+
+#~ msgid "Custom incentive"
+#~ msgstr "Özel teşvik"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom incentive"
+#~ msgstr "Lütfen bir aralık, tip, fiyat ya da bir özel teşvik seçiniz"
+
+#~ msgid "No other options can be set if you are using a custom incentive"
+#~ msgstr "Eğer özel teşvik kullanıyorsanız başka seçenekler ayarlanamaz"
+
+#~ msgid "Offer name"
+#~ msgstr "Kampanya adı"
+
+#~ msgid "Is active?"
+#~ msgstr "Aktif mi?"
+
+#~ msgid "Order date"
+#~ msgstr "Sipariş tarihi"
+
+#~ msgid "Order total"
+#~ msgstr "Sipariş toplamı"
+
+#~ msgid "Cost"
+#~ msgstr "Maliyet"
+
+#~ msgid "All offers"
+#~ msgstr "Bütün kampanyalar"
+
+#~ msgid "Offers matching '%s'"
+#~ msgstr "'%s' ile eşleşen kampanyalar"
+
+#~ msgid "%s step not complete"
+#~ msgstr "%s adımı tamamlanmadı"
+
+#~ msgid "Offer '%s' updated"
+#~ msgstr "'%s' kampanyası güncellendi"
+
+#~ msgid "Offer '%s' created!"
+#~ msgstr "'%s' kampanyası oluşturuldu!"
+
+#~ msgid "Name and description"
+#~ msgstr "İsim ve açıklama"
+
+#~ msgid "Incentive"
+#~ msgstr "Harekete geçiren"
+
+#~ msgid "Restrictions"
+#~ msgstr "Kısıtlamalar"
+
+#~ msgid "Offer deleted!"
+#~ msgstr "Kampanya silindi!"
+
+#~ msgid "Offer is already suspended"
+#~ msgstr "Kampanya zaten askıya alındı"
+
+#~ msgid "Offer suspended"
+#~ msgstr "Kampanya askıya alındı"
+
+#~ msgid "Offer cannot be reinstated as it is not currently suspended"
+#~ msgstr "Kampanya, askıya alınmış durumda olmadığı için, yeniden kurulamaz"
+
+#~ msgid "Offer reinstated"
+#~ msgstr "Kampanya yeniden başlatıldı"
+
+#~ msgid "Orders dashboard"
+#~ msgstr "Siparişlerin panosu"
+
+#~ msgid "Orders placed since %s"
+#~ msgstr "%s tarihinden beri verilen siparişler"
+
+#~ msgid "Orders placed until %s"
+#~ msgstr "%s tarihine kadar verilen siparişler"
+
+#~ msgid "Customer name"
+#~ msgstr "Müşteri adı"
+
+#~ msgid "Product name"
+#~ msgstr "Ürün adı"
+
+#~ msgid "Partner SKU"
+#~ msgstr "Ortak  SKU"
+
+#~ msgid "Date from"
+#~ msgstr "Tarihinden"
+
+#~ msgid "Date to"
+#~ msgstr "Tarihine"
+
+#~ msgid "Voucher code"
+#~ msgstr "Kupon kodu"
+
+#~ msgid "Payment method"
+#~ msgstr "Ödeme metodu"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "CSV"
+#~ msgstr "CSV"
+
+#~ msgid "Get results as"
+#~ msgstr "Sonuçları al"
+
+#~ msgid "New order status"
+#~ msgstr "Yeni sipariş durumu"
+
+#~ msgid "Order number starts with \"{order_number}\""
+#~ msgstr "\"{order_number}\" ile başlayan sipariş numaraları"
+
+#~ msgid "Customer name matches \"{customer_name}\""
+#~ msgstr "\"{customer_name}\" ile eşleşen müşteri isimleri"
+
+#~ msgid "Product name matches \"{product_name}\""
+#~ msgstr "\"{product_name}\" ile eşleşen ürün isimleri"
+
+#~ msgid "Includes an item with UPC \"{upc}\""
+#~ msgstr "UPC \"{upc}\" ile bir öğe içerir"
+
+#~ msgid "Includes an item with partner SKU \"{partner_sku}\""
+#~ msgstr "Tedarikçi SKU \"{partner_sku}\" ile ilgili bir öğe içerir"
+
+#~ msgid "Placed between {start_date} and {end_date}"
+#~ msgstr "{start_date} ve {end_date} tarihleri arasında verildi"
+
+#~ msgid "Placed after {start_date}"
+#~ msgstr "{start_date} tarihinden sonra verildi"
+
+#~ msgid "Placed before {end_date}"
+#~ msgstr "{end_date} tarihinden önce verildi"
+
+#~ msgid "Used voucher code \"{voucher_code}\""
+#~ msgstr " \"{voucher_code}\" kupon kodu kullanıldı"
+
+#~ msgid "Paid using {payment_method}"
+#~ msgstr "{payment_method} kullanılarak ödendi"
+
+#~ msgid "Order status is {order_status}"
+#~ msgstr "{order_status} sipariş durumudur"
+
+#~ msgid "Order value"
+#~ msgstr "Sipariş değeri"
+
+#~ msgid "Date of purchase"
+#~ msgstr "Satın alma tarihi"
+
+#~ msgid "Number of items"
+#~ msgstr "Ürün adeti"
+
+#~ msgid "Order status"
+#~ msgstr "Sipariş durumu"
+
+#~ msgid "Customer email address"
+#~ msgstr "Müşteri eposta adresi"
+
+#~ msgid "Deliver to name"
+#~ msgstr "İletilecek kişi"
+
+#~ msgid "Bill to name"
+#~ msgstr "Fatura edilecek kişi"
+
+#~ msgid "The new status '%s' is not valid"
+#~ msgstr "'%s' yeni durumu geçerli değil"
+
+#~ msgid "The new status '%s' is not valid for this order"
+#~ msgstr "'%s' yeni durumu bu sipariş için geçerli değil"
+
+#~ msgid "Unable to change order status due to payment error: %s"
+#~ msgstr "%s ödeme hatası nedeniyle sipariş durumu değiştirilememektedir"
+
+#~ msgid "Order status changed from '%(old_status)s' to '%(new_status)s'"
+#~ msgstr ""
+#~ "Sipariş durumu '%(old_status)s'  iken '%(new_status)s olarak "
+#~ "değiştirilmiştir."
+
+#~ msgid "No valid action submitted"
+#~ msgstr "Geçerli bir işlem gönderilmedi"
+
+#~ msgid "Invalid action"
+#~ msgstr "Geçersiz işlem"
+
+#~ msgid "You must select some lines to act on"
+#~ msgstr "İşlem yapmak için satır seçmelisiniz"
+
+#~ msgid "Invalid lines requested"
+#~ msgstr "Geçerli olmayan satırlar talep edildi"
+
+#~ msgid "The entered quantity for line #%s is not valid"
+#~ msgstr "%ssatırı için girilen miktar geçersizdir"
+
+#~ msgid ""
+#~ "The entered quantity for line #%(line_id)s should not be higher than "
+#~ "%(quantity)s"
+#~ msgstr ""
+#~ "#%(line_id)ssatırı için girilen miktar %(quantity)smiktarından fazla "
+#~ "olmamalıdır"
+
+#~ msgid "Note saved"
+#~ msgstr "Not kaydedildi"
+
+#~ msgid "Note cannot be deleted"
+#~ msgstr "Not silinemez"
+
+#~ msgid "Note deleted"
+#~ msgstr "Not silindi"
+
+#~ msgid "Invalid form submission"
+#~ msgstr "Geçersiz form gönderimi"
+
+#~ msgid ""
+#~ "Unable to change order status as the requested new status is not valid"
+#~ msgstr ""
+#~ "İstenilen yeni durum geçerli olmadığından sipariş durumu "
+#~ "değiştirilememektedir"
+
+#~ msgid "Please choose a valid amount"
+#~ msgstr "Lütfen geçerli bir miktar seçin"
+
+#~ msgid "'%(status)s' is not a valid new status for line %(line_id)d"
+#~ msgstr "%(line_id)dsatırı için '%(status)s'  yeni statürü geçerli değil"
+
+#~ msgid ""
+#~ "Status of line #%(line_id)d changed from '%(old_status)s' to "
+#~ "'%(new_status)s'"
+#~ msgstr ""
+#~ "#%(line_id)d statü satırı '%(old_status)s' durumundan '%(new_status)s' "
+#~ "durumuna değiştirildi"
+
+#~ msgid "The event type '%s' is not valid"
+#~ msgstr "'%s' olay türü geçerli değil"
+
+#~ msgid "Unable to create shipping event: %s"
+#~ msgstr "%steslimat olayı oluşturulamıyor"
+
+#~ msgid "Unable to create shipping event due to payment error: %s"
+#~ msgstr "Ödeme hatasından dolayı %s teslimat olayı oluşturulamıyor"
+
+#~ msgid "Shipping event created"
+#~ msgstr "Teslimat oluşturuldu"
+
+#~ msgid "Unable to create payment event due to payment error: %s"
+#~ msgstr "%södeme hatasından dolayı ödeme olayı oluşturulamıyor"
+
+#~ msgid "Unable to create payment event: %s"
+#~ msgstr "%södeme olayı oluşturulamıyor"
+
+#~ msgid "Payment event created"
+#~ msgstr "Ödeme olayı oluşturuldu"
+
+#~ msgid "%(field)s changed from '%(old_value)s' to '%(new_value)s'"
+#~ msgstr "%(field)s, '%(old_value)s' iken '%(new_value)s' olarak değiştirildi"
+
+#~ msgid ""
+#~ "Delivery address updated:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Teslimat adresi güncellendi:\n"
+#~ "%s"
+
+#~ msgid "Delivery address updated"
+#~ msgstr "Teslimat adresi güncellendi"
+
+#~ msgid "Pages dashboard"
+#~ msgstr "Sayfaların panosu"
+
+#~ msgctxt "Page title"
+#~ msgid "Title"
+#~ msgstr "Başlık"
+
+#~ msgid "Example: '/about/contact/'."
+#~ msgstr "Örnek: '/about/contact/'."
+
+#~ msgid "All pages"
+#~ msgstr "Tüm sayfalar"
+
+#~ msgid " with title containing '%s'"
+#~ msgstr "'%s' içeren başlıklar"
+
+#~ msgid "Create New Page"
+#~ msgstr "Yeni sayfa yarat"
+
+#~ msgid "Deleted page '%s'"
+#~ msgstr "'%s' sayfası silindi"
+
+#~ msgid "Partners dashboard"
+#~ msgstr "Teklifçilerin panosu"
+
+#~ msgctxt "Partner's name"
+#~ msgid "Name"
+#~ msgstr "İsim"
+
+#~ msgid "Full dashboard access"
+#~ msgstr "Sınırsız pano erişimi"
+
+#~ msgid "Limited dashboard access"
+#~ msgstr "Sınırlı pano erişimi"
+
+#~ msgid "User role"
+#~ msgstr "Kullanıcı rolü"
+
+#~ msgid "Confirm Password"
+#~ msgstr "Parola Doğrulama"
+
+#~ msgid "All partners"
+#~ msgstr "Tüm ortaklar"
+
+#~ msgid "Partners matching '%s'"
+#~ msgstr "'%s' ile eşleşen tedarikçiler "
+
+#~ msgid "Create new partner"
+#~ msgstr "Yeni ortak oluştur"
+
+#~ msgid "Partner '%s' was created successfully."
+#~ msgstr "'%s'  tedarikçisi başarıyla oluşturuldu."
+
+#~ msgid "Partner '%s' was updated successfully."
+#~ msgstr "'%s' tedarikçisi başarıyla güncellendi."
+
+#~ msgid "Partner '%s' was deleted successfully."
+#~ msgstr "'%s' tedarikçisi başarıyla silindi."
+
+#~ msgid "Create user"
+#~ msgstr "Yeni kullanıcı oluştur"
+
+#~ msgid "User '%s' was created successfully."
+#~ msgstr "'%s' kullanıcısı başarıyla oluşturuldu."
+
+#~ msgid "User '%(name)s' was linked to '%(partner_name)s'"
+#~ msgstr "'%(name)s' kullanıcısı '%(partner_name)s' na bağlandırıldı"
+
+#~ msgid "User '%(name)s' is already linked to '%(partner_name)s'"
+#~ msgstr ""
+#~ "'%(name)s' kullanıcısı '%(partner_name)s' tedarikçisine zaten "
+#~ "bağlandırıldı"
+
+#~ msgid "User '%(name)s' is not linked to '%(partner_name)s'"
+#~ msgstr ""
+#~ "'%(name)s' kullanıcısı '%(partner_name)s' tedarikçisine bağlanamadı "
+
+#~ msgid "Edit user '%s'"
+#~ msgstr "'%s' kullanıcısını düzenle"
+
+#~ msgid "User '%s' was updated successfully."
+#~ msgstr "'%s' kullanıcısı başarıyla güncellendi."
+
+#~ msgid "Promotions dashboard"
+#~ msgstr "Promosyonlar"
+
+#~ msgid "Promotion type"
+#~ msgstr "Promosyon tipi"
+
+#~ msgid "Position"
+#~ msgstr "Pozisyon"
+
+#~ msgid "Where in the page this content block will appear"
+#~ msgstr "Sayfada bu içerik bloğu görünecek"
+
+#~ msgid "Content blocks can only be linked to internal URLs"
+#~ msgstr "İçerik blokları yalnızca iç URL'lere bağlanabilir"
+
+#~ msgid "Content block removed successfully"
+#~ msgstr "İçerik bloğu başarıyla kaldırıldı."
+
+#~ msgid "Content block created successfully"
+#~ msgstr "İçerik bloğu başarıyla oluşturuldu"
+
+#~ msgid "Create a new %s content block"
+#~ msgstr "Yeni bir %siçerik bloğu oluştur"
+
+#~ msgid "Product list content block created"
+#~ msgstr "Ürün listesi içerik bloğu oluşturuldu"
+
+#~ msgid "Update content block"
+#~ msgstr "İçerik bloğunu güncelle"
+
+#~ msgid "Content block updated successfully"
+#~ msgstr "İçerik bloğu başarıyla güncellendi"
+
+#~ msgid "Content block '%(block)s' added to page '%(page)s'"
+#~ msgstr "'%(block)s' içerik bloğu '%(page)s' sayfasına eklendi"
+
+#~ msgid "No link found to delete"
+#~ msgstr "Silinecek bir bağlantı bulunamadı"
+
+#~ msgid "Content block removed from page '%s'"
+#~ msgstr "İçerik bloğu '%s' sayfasından silindi"
+
+#~ msgid "Product list promotion updated"
+#~ msgstr "Ürün listesi promosyonları güncellendi"
+
+#~ msgid "Content block deleted successfully"
+#~ msgstr "İçerik bloğu başarıyla silindi"
+
+#~ msgid "Ranges dashboard"
+#~ msgstr "Aralıkların panosu"
+
+#~ msgid "Product SKUs or UPCs"
+#~ msgstr "Ürün SKU'ları ya da UPC'leri"
+
+#~ msgid "You can paste in a selection of SKUs or UPCs"
+#~ msgstr "Bir SKU veya UPC seçimini yapıştırabilirsiniz."
+
+#~ msgid "File of SKUs or UPCs"
+#~ msgstr "SKU'ların veya UPC'lerin dosyası"
+
+#~ msgid "Either comma-separated, or one identifier per line"
+#~ msgstr "Ya virgülle ayrılmış ya da satır başına bir tanımlayıcı"
+
+#~ msgid "You must submit either a list of SKU/UPCs or a file"
+#~ msgstr "Ya SKU / UPC'lerin bir listesini ya da bir dosya sunmalısın"
+
+#~ msgid "The products with SKUs or UPCs matching %s are already in this range"
+#~ msgstr "SKU ya da UPC'si %s ile eşleşen ürünler zaten bu aralıkta"
+
+#~ msgid "No products exist with a SKU or UPC matching %s"
+#~ msgstr "SKU ya da UPC'si %s ile eşleşen herhangi bir ürün yoktur"
+
+#~ msgid "Create range"
+#~ msgstr "Bir aralık oluştur"
+
+#~ msgid "Range deleted"
+#~ msgstr "Aralık silindi"
+
+#~ msgid "Removed %d product from range"
+#~ msgid_plural "Removed %d products from range"
+#~ msgstr[0] "%d ürünü aralıktan kaldırıldı"
+#~ msgstr[1] "%dürünleri aralıktan kaldırıldı"
+
+#~ msgid "%d product added to range"
+#~ msgid_plural "%d products added to range"
+#~ msgstr[0] "%dürünü aralığa eklendi"
+#~ msgstr[1] "%dürünleri aralığa eklendi"
+
+#~ msgid "No product(s) were found with SKU or UPC matching %s"
+#~ msgstr ""
+#~ "SKU ya da UPC'si %s ile eşleşen herhangi bir ürün veya ürünler yoktur"
+
+#~ msgid "Reports dashboard"
+#~ msgstr "Raporların panosu"
+
+#~ msgid "Report Type"
+#~ msgstr "Rapor tipi"
+
+#~ msgid "Only the offer and order reports use the selected date range"
+#~ msgstr "Yalnızca teklif ve sipariş raporları seçili gün aralığını kullanır"
+
+#~ msgid "The report is inclusive of this date"
+#~ msgstr "Bu rapor bu tarihi kapsamaktadır."
+
+#~ msgid "Download"
+#~ msgstr "İndirme"
+
+#~ msgid "Your start date must be before your end date"
+#~ msgstr "Başlangıç tarihiniz bitiş tarihinizden önce olmalıdır."
+
+#~ msgid "%(report_filter)s between %(start_date)s and %(end_date)s"
+#~ msgstr "%(start_date)s ve %(end_date)sarasında %(report_filter)svardır"
+
+#~ msgid "You do not have access to this report"
+#~ msgstr "Bu rapora erişme hakkınız bulunmamaktadır"
+
+#~ msgid "Reviews dashboard"
+#~ msgstr "Değerlendirmelerin panosu"
+
+#~ msgid "Keyword"
+#~ msgstr "Anahtar sözcük"
+
+#~ msgid "to"
+#~ msgstr "-e"
+
+#~ msgid ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+#~ msgstr ""
+#~ "%(main_filter)s%(date_filter)s%(status_filter)s%(kw_filter)s"
+#~ "%(name_filter)s"
+
+#~ msgid " created after %s"
+#~ msgstr "%s'dan sonra oluşturuldu"
+
+#~ msgid " created before %s"
+#~ msgstr "%s'dan önce oluşturuldu"
+
+#~ msgid " created between %(start_date)s and %(end_date)s"
+#~ msgstr "%(start_date)s ve %(end_date)s arasında oluşturuldu"
+
+#~ msgid "All reviews"
+#~ msgstr "Tüm değerlendirmeler"
+
+#~ msgid " with status matching '%s'"
+#~ msgstr "'%s' ile eşleşen durumlar"
+
+#~ msgid " with keyword matching '%s'"
+#~ msgstr "'%s' ile eşleşen anahtar sözcük"
+
+#~ msgid " with customer name matching '%s'"
+#~ msgstr "müşteri adı '%s' ile eşleşen"
+
+#~ msgid "Shipping dashboard"
+#~ msgstr "Teslimat panosu"
+
+#~ msgid "%d Row"
+#~ msgid_plural "%d Rows"
+#~ msgstr[0] "%dSatırı"
+#~ msgstr[1] "%dSatırları"
+
+#~ msgid "Users dashboard"
+#~ msgstr "Kullanıcıların panosu"
+
+#~ msgctxt "User's name"
+#~ msgid "Name"
+#~ msgstr "İsim"
+
+#~ msgid "%(main_filter)s %(email_filter)s %(name_filter)s"
+#~ msgstr "%(main_filter)s%(email_filter)s%(name_filter)s"
+
+#~ msgid "All users"
+#~ msgstr "Tüm kullanıcılar"
+
+#~ msgid " with email matching '%s'"
+#~ msgstr "'%s' ile eşleşen e-posta"
+
+#~ msgid " with name matching '%s'"
+#~ msgstr "'%s' ile eşleşen isim"
+
+#~ msgid "Users' status successfully changed"
+#~ msgstr "Kullanıcının statüsü başarıyla değiştirildi"
+
+#~ msgid "A password reset email has been sent"
+#~ msgstr "Parola sıfırlama e-postası gönderildi"
+
+#~ msgid "All Alerts"
+#~ msgstr "Tüm Uyarılar"
+
+#~ msgid " with customer email matching '%s'"
+#~ msgstr "'%s' ile eşleşen kullanıcı e-postası"
+
+#~ msgid "Product alert saved"
+#~ msgstr "Ürün uyarısı kaydedildi"
+
+#~ msgid "Product alert deleted"
+#~ msgstr "Ürün uyarısı silindi"
+
+#~ msgid "Vouchers dashboard"
+#~ msgstr "Kuponların panosu"
+
+#~ msgid "Start datetime"
+#~ msgstr "Başlangıç tarihi"
+
+#~ msgid "End datetime"
+#~ msgstr "Bitiş tarihi"
+
+#~ msgid "Usage"
+#~ msgstr "Kullanım"
+
+#~ msgid "Which products get a discount?"
+#~ msgstr "Hangi ürünlerde indirim var?"
+
+#~ msgid "Percentage off of products in range"
+#~ msgstr "Aralıktaki ürünlerin indirimleri"
+
+#~ msgid "Fixed amount off of products in range"
+#~ msgstr "Bu aralık içindeki ürünlerin sabit fiyatı"
+
+#~ msgid "Discount is a percentage off of the shipping cost"
+#~ msgstr "İndirim, nakliye ücretinin belirli bir yüzdesidir"
+
+#~ msgid "Discount is a fixed amount of the shipping cost"
+#~ msgstr "İndirim, teslimat bedelinin sabit bir miktarıdır"
+
+#~ msgid "Get shipping for a fixed price"
+#~ msgstr "Sabit bir fiyattan teslimat alın"
+
+#~ msgid "Discount type"
+#~ msgstr "İndirim türü"
+
+#~ msgid "Discount value"
+#~ msgstr "İndirim değeri"
+
+#~ msgid "The name '%s' is already in use"
+#~ msgstr "'%s' ismi zaten kullanılıyor"
+
+#~ msgid "The code '%s' is already in use"
+#~ msgstr "%s kodu zaten kullanılıyor"
+
+#~ msgid "The start date must be before the end date"
+#~ msgstr "Başlangıç tarihi bitiş tarihinden önce olmalıdır"
+
+#~ msgid "Is Active?"
+#~ msgstr "Aktif mi?"
+
+#~ msgid "%(main_filter)s %(name_filter)s %(code_filter)s"
+#~ msgstr "%(main_filter)s%(name_filter)s%(code_filter)s"
+
+#~ msgid "All vouchers"
+#~ msgstr "Tüm kuponlar"
+
+#~ msgid "with name matching '%s'"
+#~ msgstr "%s ile eşleşen isim"
+
+#~ msgid "with code '%s'"
+#~ msgstr "'%s' kodu ile"
+
+#~ msgid "Active vouchers"
+#~ msgstr "Aktif kuponlar"
+
+#~ msgid "Create voucher"
+#~ msgstr "Kupon oluştur"
+
+#~ msgid "Offer for voucher '%s'"
+#~ msgstr "%skuponu için kampanya"
+
+#~ msgid "Voucher created"
+#~ msgstr "Kupon oluşturuldu"
+
+#~ msgid "Voucher updated"
+#~ msgstr "Kupon güncellendi"
+
+#~ msgid "Voucher deleted"
+#~ msgstr "Kupon silindi"
+
+#~ msgid "This is displayed within the customer's basket"
+#~ msgstr "Bu müşterinin alışveriş sepetinde görüntülendi"
+
+#~ msgid "This is displayed on the offer browsing page"
+#~ msgstr "Bu, kampanya arama sayfasında görüntülenir"
+
+#~ msgid "Site offer - available to all users"
+#~ msgstr "Site kampanyası - tüm kullanıcılar için geçerli"
+
+#~ msgid ""
+#~ "Voucher offer - only available after entering the appropriate voucher code"
+#~ msgstr ""
+#~ "Kupon kampanyası - sadece uygun kupon kodunu girdikten sonra geçerli"
+
+#~ msgid "User offer - available to certain types of user"
+#~ msgstr "Kullanıcı kampanyası - sadece bazı kullanıcılar için geçerli"
+
+#~ msgid ""
+#~ "Session offer - temporary offer, available for a user for the duration of "
+#~ "their session"
+#~ msgstr ""
+#~ "Oturum teklifi - geçici teklif, oturum süresince bir kullanıcı için "
+#~ "kullanılabilir"
+
+#~ msgid "Condition"
+#~ msgstr "Şart"
+
+#~ msgid "Benefit"
+#~ msgstr "Fayda"
+
+#~ msgid "Priority"
+#~ msgstr "Öncelik"
+
+#~ msgid "The highest priority offers are applied first"
+#~ msgstr "Önce en yüksek önceliğe sahip kampanyalar uygulanır"
+
+#~ msgid "Max global applications"
+#~ msgstr "Maksimum dünya çapındaki başvurular"
+
+#~ msgid "The number of times this offer can be used before it is unavailable"
+#~ msgstr "Teklif geçersiz olmadan önce kaç kere kullanılabileceğinin sayısı"
+
+#~ msgid "Max user applications"
+#~ msgstr "Maksimum kullanıcı başvuruları"
+
+#~ msgid "The number of times a single user can use this offer"
+#~ msgstr "Bir kullanıcının bu teklifi kaç kez kullanabileceğinin sayısı"
+
+#~ msgid "Max basket applications"
+#~ msgstr "Maksimum sepet uygulamaları"
+
+#~ msgid ""
+#~ "The number of times this offer can be applied to a basket (and order)"
+#~ msgstr "Bu kampanyanın bir sepete (ve siparişe) uygulanma sayısı"
+
+#~ msgid "Max discount"
+#~ msgstr "Maksimum indirim"
+
+#~ msgid ""
+#~ "When an offer has given more discount to orders than this threshold, then "
+#~ "the offer becomes unavailable"
+#~ msgstr ""
+#~ "Bir teklif, siparişlere bu eşikten daha fazla indirim verdiğinde, teklif "
+#~ "sunulmaz hale gelir"
+
+#~ msgid "Total Discount"
+#~ msgstr "Toplam indirim"
+
+#~ msgid "Number of applications"
+#~ msgstr "Başvuru sayısı"
+
+#~ msgid "Number of Orders"
+#~ msgstr "Sipariş adeti"
+
+#~ msgid "URL redirect (optional)"
+#~ msgstr "URL yönlendirmesi (isteğe bağlı)"
+
+#~ msgid "Conditional offer"
+#~ msgstr "Şarta bağlı teklif"
+
+#~ msgid "Conditional offers"
+#~ msgstr "Şarta bağlı teklifler"
+
+#~ msgid "End date should be later than start date"
+#~ msgstr "Bitiş tarihi başlangıç tarihinden sonra olmalıdır"
+
+#~ msgid "Offer is suspended"
+#~ msgstr "Kampanya askıya alındı"
+
+#~ msgid "Limited to %(total)d uses (%(remainder)d remaining)"
+#~ msgstr "%(total)dkullanım ile sınırlı (%(remainder)dkaldı)"
+
+#~ msgid "Limited to 1 use per user"
+#~ msgstr "Kullanıcı başına 1 kullanım ile sınırlıdır"
+
+#~ msgid "Limited to %(total)d uses per user"
+#~ msgstr "Kullanıcı başına %(total)d kullanım ile sınırlıdır"
+
+#~ msgid "Limited to 1 use per basket"
+#~ msgstr "Sepet başına 1 kullanım ile sınırlıdır"
+
+#~ msgid "Limited to %(total)d uses per basket"
+#~ msgstr "Sepet başına %(total)dkullanım ile sınırlıdır"
+
+#~ msgid "Available between %(start)s and %(end)s"
+#~ msgstr "%(start)s ve  %(end)s arasında uygun"
+
+#~ msgid "Available from %(start)s"
+#~ msgstr "%(start)s'dan sonra uygun"
+
+#~ msgid "Available until %(end)s"
+#~ msgstr "%(end)s'a kadar uygun"
+
+#~ msgid "Limited to a cost of %(max)s"
+#~ msgstr "%(max)smaliyeti ile sınırlı"
+
+#~ msgid "Range"
+#~ msgstr "Aralık"
+
+#~ msgid "Discount is a percentage off of the product's value"
+#~ msgstr "İndirim, ürünlerin değerinin belirli bir yüzdesi kadardır"
+
+#~ msgid "Discount is a fixed amount off of the product's value"
+#~ msgstr "İndirim, ürünlerin değerinden sabit bir miktar düşürülmesidir"
+
+#~ msgid "Discount is to give the cheapest product for free"
+#~ msgstr "İndirim en ucuz ürünü bedava vermektir"
+
+#~ msgid "Get the products that meet the condition for a fixed price"
+#~ msgstr "Koşulu karşılayan ürünleri sabit bir fiyata alın"
+
+#~ msgid "Max Affected Items"
+#~ msgstr "En fazla etkilenen ürünler"
+
+#~ msgid ""
+#~ "Set this to prevent the discount consuming all items within the range "
+#~ "that are in the basket."
+#~ msgstr ""
+#~ "Sepet içinde olan ve aralıkta bulunan tüm ürünleri tüketen indirimi "
+#~ "önlemek için bunu ayarla."
+
+#~ msgid "Custom class"
+#~ msgstr "Özel sınıf"
+
+#~ msgid "Benefits"
+#~ msgstr "Faydalar"
+
+#~ msgid "Multibuy benefits require a product range"
+#~ msgstr "Çoklu satın alma avantajları bir ürün aralığı gerektirir"
+
+#~ msgid "Multibuy benefits don't require a value"
+#~ msgstr "Çoklu satın alma avantajları bir değere gerek duymamaktadır"
+
+#~ msgid "Multibuy benefits don't require a 'max affected items' attribute"
+#~ msgstr ""
+#~ "Çoklu alım avantajları 'maksimum etkilenen ürünler' özelliği "
+#~ "gerektirmemektedir"
+
+#~ msgid "Percentage benefits require a product range"
+#~ msgstr "Yüzde avantajları bir indirim aralığına ihtiyaç duyar"
+
+#~ msgid "Percentage discount cannot be greater than 100"
+#~ msgstr "İndirim oranı 100'den büyük olamaz"
+
+#~ msgid "A discount value is required"
+#~ msgstr "Bir indirim değeri gerekli"
+
+#~ msgid ""
+#~ "No range should be selected as this benefit does not apply to products"
+#~ msgstr ""
+#~ "Bu avantaj, ürünlere uygulanamadığından hiçbir aralık seçilmemelidir"
+
+#~ msgid "Shipping discounts don't require a 'max affected items' attribute"
+#~ msgstr ""
+#~ "Teslimat indirimleri 'maksimum etkilenen ürünler' özelliğine ihtiyaç "
+#~ "duymamaktadır"
+
+#~ msgid ""
+#~ "No range should be selected as the condition range will be used instead."
+#~ msgstr ""
+#~ "Bunun yerine koşul aralığı kullanılacağından, herhangi bir aralık "
+#~ "seçilmemelidir."
+
+#~ msgid "Fixed discount benefits require a product range"
+#~ msgstr "Sabit indirim avantajları bir ürün aralığına ihtiyaç duyuyor"
+
+#~ msgid "Fixed discount benefits require a value"
+#~ msgstr "Sabit indirim avantajları bir değere ihtiyaç duyuyor"
+
+#~ msgid "Depends on number of items in basket that are in condition range"
+#~ msgstr "Şart aralığında yer alan sepet ürünlerinizin sayısına göre değişir"
+
+#~ msgid "Depends on value of items in basket that are in condition range"
+#~ msgstr "Şart aralığında yer alan sepet ürünlerinizin değerine göre değişir"
+
+#~ msgid ""
+#~ "Needs to contain a set number of DISTINCT items from the condition range"
+#~ msgstr "Koşul aralığından belirli sayıda FARKLI öğe içermesi gerekiyor"
+
+#~ msgid "Conditions"
+#~ msgstr "Şartlar"
+
+#~ msgid "Is public?"
+#~ msgstr "Herkese açık mı?"
+
+#~ msgid "Public ranges have a customer-facing page"
+#~ msgstr "Herkese açık alanlar müşterilere yönelik bir sayfaya sahiptir."
+
+#~ msgid "Includes all products?"
+#~ msgstr "Tüm ürünler dahil mi?"
+
+#~ msgid "Included Products"
+#~ msgstr "Dahil olan ürünler"
+
+#~ msgid "Excluded Products"
+#~ msgstr "Dahil olmayan ürünler"
+
+#~ msgid "Included Categories"
+#~ msgstr "Dahil olan Kategoriler"
+
+#~ msgid "File Path"
+#~ msgstr "Dosya yolu"
+
+#~ msgid "Size"
+#~ msgstr "Boyut"
+
+#~ msgid "Uploaded By"
+#~ msgstr "Tarafından yüklendi"
+
+#~ msgid "Date Uploaded"
+#~ msgstr "Yüklenme tarihi"
+
+#~ msgid "Error Message"
+#~ msgstr "Hata mesajı"
+
+#~ msgid "Date Processed"
+#~ msgstr "İşlenme tarihi"
+
+#~ msgid "Number of New SKUs"
+#~ msgstr "Yeni SKU'ların sayısı"
+
+#~ msgid "Number of Unknown SKUs"
+#~ msgstr "Bilinmeyen SKU'ların sayısı"
+
+#~ msgid "Number of Duplicate SKUs"
+#~ msgstr "Kopyalanan SKU'ların sayısı"
+
+#~ msgid "Range Product Uploaded File"
+#~ msgstr "Aralıktaki ürünü yükleme dosyası"
+
+#~ msgid "Range Product Uploaded Files"
+#~ msgstr "Aralıktaki ürünü yükleme dosyaları"
+
+#~ msgid "%(value)s%% discount on %(range)s"
+#~ msgstr "%(range)saralığındaki %(value)s%%indirimi"
+
+#~ msgid "Percentage discount benefit"
+#~ msgstr "Yüzde indirim faydası"
+
+#~ msgid "Percentage discount benefits"
+#~ msgstr "Yüzde indirim faydaları"
+
+#~ msgid "%(value)s discount on %(range)s"
+#~ msgstr "%(range)saralığındaki %(value)sindirimi"
+
+#~ msgid "Absolute discount benefit"
+#~ msgstr "Mutlak indirim faydası"
+
+#~ msgid "Absolute discount benefits"
+#~ msgstr "Mutlak indirim faydaları"
+
+#~ msgid "The products that meet the condition are sold for %(amount)s"
+#~ msgstr "Koşulunu sağlayan ürünler %(amount)sfiyatına satılır"
+
+#~ msgid "Fixed price benefit"
+#~ msgstr "Sabit fiyat avantajı"
+
+#~ msgid "Fixed price benefits"
+#~ msgstr "Sabit fiyat avantajları"
+
+#~ msgid "Cheapest product from %(range)s is free"
+#~ msgstr "%(range)saralığındaki en ucuz ürünün bedava"
+
+#~ msgid "Multibuy discount benefit"
+#~ msgstr "Çoklu alım indirim avantajı"
+
+#~ msgid "Multibuy discount benefits"
+#~ msgstr "Çoklu alım indirim avantajları"
+
+#~ msgid "%(amount)s off shipping cost"
+#~ msgstr "%(amount)s indirim"
+
+#~ msgid "Shipping absolute discount benefit"
+#~ msgstr "Teslimat mutlak indirim avantajı"
+
+#~ msgid "Shipping absolute discount benefits"
+#~ msgstr "Teslimat mutlak indirim avantajları"
+
+#~ msgid "Get shipping for %(amount)s"
+#~ msgstr "%(amount)siçin teslimat al"
+
+#~ msgid "Fixed price shipping benefit"
+#~ msgstr "Sabit fiyat teslimat avantajı"
+
+#~ msgid "Fixed price shipping benefits"
+#~ msgstr "Sabit fiyat teslimat avantajları"
+
+#~ msgid "%(value)s%% off of shipping cost"
+#~ msgstr "Teslimat ücretinin%(value)s%%'si kadar indirim"
+
+#~ msgid "Shipping percentage discount benefit"
+#~ msgstr "Teslimat yüzdesi indirim avantajı"
+
+#~ msgid "Shipping percentage discount benefits"
+#~ msgstr "Teslimat yüzdesi indirim avantajları"
+
+#~ msgid "Basket includes %(count)d item(s) from %(range)s"
+#~ msgstr "Sepet %(range)saralığından %(count)döğeyi kapsamaktadır"
+
+#~ msgid "Count condition"
+#~ msgstr "Sayım koşulu"
+
+#~ msgid "Count conditions"
+#~ msgstr "Sayım koşulları"
+
+#~ msgid "Buy %(delta)d more product from %(range)s"
+#~ msgid_plural "Buy %(delta)d more products from %(range)s"
+#~ msgstr[0] "%(range)saralığından %(delta)dfazla ürün satın al"
+#~ msgstr[1] "%(range)saralığından %(delta)dfazla ürünler satın al"
+
+#~ msgid "Basket includes %(count)d distinct item(s) from %(range)s"
+#~ msgstr "Sepet, %(range)saralığından %(count)dayrı parçaları içeriyor"
+
+#~ msgid "Coverage Condition"
+#~ msgstr "Kapsama durumu"
+
+#~ msgid "Coverage Conditions"
+#~ msgstr "Kapsama durumları"
+
+#~ msgid "Basket includes %(amount)s from %(range)s"
+#~ msgstr "Sepet, %(range)saralığından %(amount)skadar içermektedir"
+
+#~ msgid "Value condition"
+#~ msgstr "Değer koşulu"
+
+#~ msgid "Value conditions"
+#~ msgstr "Değer koşulları"
+
+#~ msgid "Spend %(value)s more from %(range)s"
+#~ msgstr "%(range)saralığından %(value)sdaha fazlasını harca"
+
+#~ msgid "Offer"
+#~ msgstr "Teklif"
+
+#~ msgid "Total discount"
+#~ msgstr "Toplam indirim"
+
+#~ msgid "Offer performance"
+#~ msgstr "Teklif performansı"
+
+#~ msgid "Site"
+#~ msgstr "Site"
+
+#~ msgid "Billing Address"
+#~ msgstr "Fatura adresi"
+
+#~ msgid "Order total (inc. tax)"
+#~ msgstr "Sipariş toplamı (vergiler dahil)"
+
+#~ msgid "Order total (excl. tax)"
+#~ msgstr "Sipariş toplamı (vergiler hariç)"
+
+#~ msgid "Shipping charge (inc. tax)"
+#~ msgstr "Teslimat ücreti (vergiler dahil)"
+
+#~ msgid "Shipping charge (excl. tax)"
+#~ msgstr "Teslimat ücreti (vergiler hariç)"
+
+#~ msgid "Shipping Address"
+#~ msgstr "Teslimat adresi"
+
+#~ msgid "Shipping method"
+#~ msgstr "Teslimat metodu"
+
+#~ msgid "Guest email address"
+#~ msgstr "Ziyaretçi mail adresi"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status for order %(number)s (current "
+#~ "status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s'  durumu %(number)ssiparişi için geçerli değildir. "
+#~ "(Mevcut durum: '%(status)s')"
+
+#~ msgid "In progress"
+#~ msgstr "İşlem sürüyor"
+
+#~ msgid "Note Type"
+#~ msgstr "Not türü"
+
+#~ msgid "Message"
+#~ msgstr "Mesaj"
+
+#~ msgid "Order Note"
+#~ msgstr "Sipariş notu"
+
+#~ msgid "Order Notes"
+#~ msgstr "Sipariş notları"
+
+#~ msgid "Event Type"
+#~ msgstr "Olay türü"
+
+#~ msgid "Communication Event"
+#~ msgstr "İletişim olayı"
+
+#~ msgid "Communication Events"
+#~ msgstr "İletişim Olayları"
+
+#~ msgid "'%(type)s' event for order #%(number)s"
+#~ msgstr " #%(number)s siparişi için '%(type)s' olayı"
+
+#~ msgid "Partner name"
+#~ msgstr "Tedarikçi adı"
+
+#~ msgid "Partner reference"
+#~ msgstr "Tedarikçi referansı"
+
+#~ msgid "This is the item number that the partner uses within their system"
+#~ msgstr ""
+#~ "Bu ürün numarası tedarikçinin kendi sistemlerinde kullandığı numaradır"
+
+#~ msgid "Partner Notes"
+#~ msgstr "Tedarikçi notları"
+
+#~ msgid "Stock record"
+#~ msgstr "Stok kayıtları"
+
+#~ msgid "Price (inc. tax)"
+#~ msgstr "Fiyat (vergiler dahil)"
+
+#~ msgid "Price (excl. tax)"
+#~ msgstr "Fiyat (vergiler hariç)"
+
+#~ msgid "Price before discounts (inc. tax)"
+#~ msgstr "İndirimlerden önceki fiyat (vergiler dahil)"
+
+#~ msgid "Price before discounts (excl. tax)"
+#~ msgstr "indirimlerden önceki fiyat (vergiler dahil değil)"
+
+#~ msgid "Unit Cost Price"
+#~ msgstr "birim maliyet fiyatı"
+
+#~ msgid "Unit Price (inc. tax)"
+#~ msgstr "Birim fiyat (vergiler dahil)"
+
+#~ msgid "Unit Price (excl. tax)"
+#~ msgstr "Birim fiyat (vergiler dahil değil)"
+
+#~ msgid "Unit Retail Price"
+#~ msgstr "Birim Perakende Fiyatı"
+
+#~ msgid "Estimated Dispatch Date"
+#~ msgstr "Tahmini Sevk Tarihi"
+
+#~ msgid "Order Line"
+#~ msgstr "Sipariş satırı"
+
+#~ msgid "<missing product>"
+#~ msgstr "<missing product>"
+
+#~ msgid "Product '%(name)s', quantity '%(qty)s'"
+#~ msgstr "Ürün '%(name)s', miktar '%(qty)s'"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status (current status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s' geçerli bir durum değildir(şu anki durum: '%(status)s')"
+
+#~ msgid "'%(title)s' is no longer available"
+#~ msgstr "%(title)sartık mevcut değil"
+
+#~ msgid "Line Attribute"
+#~ msgstr "Satır Özniteliği"
+
+#~ msgid "Line Attributes"
+#~ msgstr "Satır Öznitelikleri"
+
+#~ msgid "Shiping (inc. tax)"
+#~ msgstr "Teslimat ücreti (vergiler dahil)"
+
+#~ msgid "Shipping (excl. tax)"
+#~ msgstr "Teslimat ücreti (vergiler hariç)"
+
+#~ msgid "Line Price"
+#~ msgstr "Satır fiyatı"
+
+#~ msgid "Line Prices"
+#~ msgstr "Satır fiyatları"
+
+#~ msgid "Line '%(number)s' (quantity %(qty)d) price %(price)s"
+#~ msgstr "Satır '%(number)s' (miktar %(qty)d) fiyat %(price)s"
+
+#~ msgid "Payment Event Type"
+#~ msgstr "Ödeme olayı türü"
+
+#~ msgid "Payment Event Types"
+#~ msgstr "Ödeme olayı türleri"
+
+#~ msgid "Amount"
+#~ msgstr "Miktar"
+
+#~ msgid "Reference"
+#~ msgstr "Referans"
+
+#~ msgid "Lines"
+#~ msgstr "Satırlar"
+
+#~ msgid "Payment Event"
+#~ msgstr "Ödeme olayı"
+
+#~ msgid "Payment Events"
+#~ msgstr "Ödeme olayları"
+
+#~ msgid "Payment event for order %s"
+#~ msgstr "%ssiparişi için ödeme olayı"
+
+#~ msgid "Event"
+#~ msgstr "Olay"
+
+#~ msgid "Payment Event Quantity"
+#~ msgstr "Ödeme Olayı Miktarı"
+
+#~ msgid "Payment Event Quantities"
+#~ msgstr "Ödeme olayı miktarları"
+
+#~ msgid "Event notes"
+#~ msgstr "Olay notları"
+
+#~ msgid "This could be the dispatch reference, or a tracking number"
+#~ msgstr "Bu, gönderme referansı veya takip numarası olabilir"
+
+#~ msgid "Shipping Event"
+#~ msgstr "Teslimat olayı"
+
+#~ msgid "Shipping Events"
+#~ msgstr "Teslimat olayları"
+
+#~ msgid "Order #%(number)s, type %(type)s"
+#~ msgstr "Sipariş #%(number)s, tip %(type)s"
+
+#~ msgid "Shipping Event Quantity"
+#~ msgstr "Teslimat olayı miktarı"
+
+#~ msgid "Shipping Event Quantities"
+#~ msgstr "Teslimat olayı miktarları"
+
+#~ msgid "%(product)s - quantity %(qty)d"
+#~ msgstr "%(product)s- miktar %(qty)d"
+
+#~ msgid "Shipping Event Type"
+#~ msgstr "Teslimat olayı türü"
+
+#~ msgid "Shipping Event Types"
+#~ msgstr "Teslimat olayı türleri"
+
+#~ msgid "Discount category"
+#~ msgstr "İndirim kategorisi"
+
+#~ msgid "Offer ID"
+#~ msgstr "Sipariş numarası"
+
+#~ msgid "Voucher ID"
+#~ msgstr "Kupon numarası"
+
+#~ msgid "Frequency"
+#~ msgstr "Sıklık"
+
+#~ msgid "Order Discount"
+#~ msgstr "Sipariş indirimi"
+
+#~ msgid "Order Discounts"
+#~ msgstr "Sipariş indirimleri"
+
+#~ msgid "Discount of %(amount)r from order %(order)s"
+#~ msgstr "%(order)ssipaşinden %(amount)r indirimi"
+
+#~ msgid "The selected quantity for line #%(line_id)s is too large"
+#~ msgstr "#%(line_id)ssatırı için seçilen miktar çok fazla"
+
+#~ msgid "Total incl. tax"
+#~ msgstr "Vergiler dahil toplam"
+
+#~ msgid "Date placed"
+#~ msgstr "Tarih yerleştirildi"
+
+#~ msgid "Orders placed"
+#~ msgstr "Siparişleri verildi"
+
+#~ msgid "Empty baskets cannot be submitted"
+#~ msgstr "Boş sepetler gönderilememektedir"
+
+#~ msgid "There is already an order with number %s"
+#~ msgstr "%s numarasıyla zaten bir sipariş var"
+
+#~ msgid "Fulfillment partner"
+#~ msgstr "Tedarikçi"
+
+#~ msgid "Fulfillment partners"
+#~ msgstr "Tedarikçiler"
+
+#~ msgid "Price (retail)"
+#~ msgstr "Fiyat (perakende)"
+
+#~ msgid "Cost Price"
+#~ msgstr "Maliyet fiyatı"
+
+#~ msgid "Number in stock"
+#~ msgstr "Stoktaki sayı"
+
+#~ msgid "Number allocated"
+#~ msgstr "Tahsis edilen numara"
+
+#~ msgid "Low Stock Threshold"
+#~ msgstr "Düşük stok eşiği"
+
+#~ msgid "Invalid stock consumption request"
+#~ msgstr "Geçersiz stok tüketimi talebi"
+
+#~ msgid "Stock Record"
+#~ msgstr "Stok kaydı"
+
+#~ msgid "Threshold"
+#~ msgstr "Eşik"
+
+#~ msgid "Open"
+#~ msgstr "Açık"
+
+#~ msgid "Date Closed"
+#~ msgstr "Kapatılma tarihi"
+
+#~ msgid "<stockalert for \"%(stock)s\" status %(status)s>"
+#~ msgstr "<stockalert for \"%(stock)s\" status %(status)s>"
+
+#~ msgid "Stock alert"
+#~ msgstr "Stok uyarısı"
+
+#~ msgid "Stock alerts"
+#~ msgstr "Stok uyarıları"
+
+#~ msgid "unavailable"
+#~ msgstr "Uygun değil"
+
+#~ msgid "Unavailable"
+#~ msgstr "Uygun değil"
+
+#~ msgid "Available"
+#~ msgstr "Uygun"
+
+#~ msgid "no stock available"
+#~ msgstr "Stokta mevcut değil"
+
+#~ msgid "a maximum of %(max)d can be bought"
+#~ msgstr "en fazla %(max)dürün satın alınabilir"
+
+#~ msgid "In stock"
+#~ msgstr "Stokta"
+
+#~ msgid "In stock (%d available)"
+#~ msgstr "Stokta (%d adet)"
+
+#~ msgid "No file path supplied"
+#~ msgstr "Hiçbir dosya yolu sağlanamadı"
+
+#~ msgid "%s does not exist"
+#~ msgstr "%s mevcut değil"
+
+#~ msgid "%s is not a file"
+#~ msgstr "%sbir dosya değil"
+
+#~ msgid "%s is not readable"
+#~ msgstr "%sokunabilir değil"
+
+#~ msgid "Source"
+#~ msgstr "Kaynak"
+
+#~ msgid "%(type)s of %(amount).2f"
+#~ msgstr "%(amount).2f'nun %(type)s'ı"
+
+#~ msgid "Transaction"
+#~ msgstr "Alışveriş"
+
+#~ msgid "Transactions"
+#~ msgstr "Alışverişler"
+
+#~ msgid "Source Type"
+#~ msgstr "Kaynak türü"
+
+#~ msgid "Amount Allocated"
+#~ msgstr "Tahsis Edilen Miktar"
+
+#~ msgid "Amount Debited"
+#~ msgstr "Borçlu olunan tutar"
+
+#~ msgid "Amount Refunded"
+#~ msgstr "Geri Ödenecek Tutar"
+
+#~ msgid "Label"
+#~ msgstr "Etiket"
+
+#~ msgid "Sources"
+#~ msgstr "Kaynaklar"
+
+#~ msgid "Allocation of %(amount)s from type %(type)s"
+#~ msgstr "%(type)stiplerinden %(amount)stahsisatı"
+
+#~ msgid " (reference: %s)"
+#~ msgstr "(referans: %s)"
+
+#~ msgid "This is used within forms to identify this source type"
+#~ msgstr "Bu, bu kaynak türünü tanımlamak için formlar halinde kullanılır"
+
+#~ msgid "Source Types"
+#~ msgstr "Kaynak türleri"
+
+#~ msgid "Card Type"
+#~ msgstr "Kart tipi"
+
+#~ msgid "Number"
+#~ msgstr "Numara"
+
+#~ msgid "Expiry Date"
+#~ msgstr "Son kullanma tarihi"
+
+#~ msgid "Partner Reference"
+#~ msgstr "Tedarikçi referansı"
+
+#~ msgid "%(card_type)s %(number)s (Expires: %(expiry)s)"
+#~ msgstr "%(card_type)s%(number)s(Bitme Süresi: %(expiry)s)"
+
+#~ msgid "Bankcard"
+#~ msgstr "Banka kartı"
+
+#~ msgid "Bankcards"
+#~ msgstr "Banka kartları"
+
+#~ msgid "Payment"
+#~ msgstr "Ödeme"
+
+#~ msgid "Card number"
+#~ msgstr "Kart numarası"
+
+#~ msgid "Please enter a valid credit card number."
+#~ msgstr "Lütfen geçerli bir kredi kartı numarası giriniz."
+
+#~ msgid "%s cards are not accepted."
+#~ msgstr "%skartları kabul edilmedi"
+
+#~ msgid "Enter a valid month."
+#~ msgstr "Geçerli bir ay giriniz"
+
+#~ msgid "Enter a valid year."
+#~ msgstr "Geçerli bir yıl giriniz"
+
+#~ msgid "Valid to"
+#~ msgstr "kadar geçerli"
+
+#~ msgid "The expiration date you entered is in the past."
+#~ msgstr "Girilen bitiş tarihi geçmiş tarihtedir."
+
+#~ msgid "Valid from"
+#~ msgstr "itibaren geçerli"
+
+#~ msgid "The starting date you entered is in the future."
+#~ msgstr "Girilen başvuru tarihi gelecek tarihtedir."
+
+#~ msgid "CCV number"
+#~ msgstr "CCV no"
+
+#~ msgid "Please enter a 3 or 4 digit number"
+#~ msgstr "Lütfen 3 ya da 4 haneli bir numara giriniz"
+
+#~ msgid ""
+#~ "This is the 3 or 4 digit security number on the back of your bankcard"
+#~ msgstr "Bu, banka kartınızın arkasındaki 3 ya da 4 haneli güvenlik kodudur"
+
+#~ msgid "American Express cards use a 4 digit security code"
+#~ msgstr "American Express kartları 4 haneli güvenlik kodu kullanır"
+
+#~ msgid "Promotions"
+#~ msgstr "Promosyonlar"
+
+#~ msgid "Display Order"
+#~ msgstr "Gösterim Sırası"
+
+#~ msgid "Clicks"
+#~ msgstr "Tıklamalar"
+
+#~ msgid "Linked Promotion"
+#~ msgstr "Bağlantılı promosyon"
+
+#~ msgid "Linked Promotions"
+#~ msgstr "Bağlantılı promosyonlar"
+
+#~ msgid "Page URL"
+#~ msgstr "Sayfa URL'si"
+
+#~ msgid "Page Promotion"
+#~ msgstr "Sayfa promosyonu"
+
+#~ msgid "Page Promotions"
+#~ msgstr "Sayfa promosyonları"
+
+#~ msgid "Filter"
+#~ msgstr "filtre"
+
+#~ msgid "Keyword Promotion"
+#~ msgstr "Anahtar kelime promosyonu"
+
+#~ msgid "Keyword Promotions"
+#~ msgstr "Anahtar kelime promosyonları"
+
+#~ msgid "Keywords"
+#~ msgstr "Anahtar kelimeler"
+
+#~ msgid "Promotion"
+#~ msgstr "Promosyon"
+
+#~ msgid "Display type"
+#~ msgstr "Görüntüleme biçimi"
+
+#~ msgid ""
+#~ "This can be used to have different types of HTML blocks (eg different "
+#~ "widths)"
+#~ msgstr ""
+#~ "Bu, farklı HTML blok türlerine sahip olmak için kullanılabilir (örneğin "
+#~ "farklı genişlikler)"
+
+#~ msgid "Raw HTML"
+#~ msgstr "İşlenmemiş HTML"
+
+#~ msgid "Link URL"
+#~ msgstr "URL bağlantısı"
+
+#~ msgid "This is where this promotion links to"
+#~ msgstr "Bu promosyonun buraya bağlandığı yerdir:"
+
+#~ msgid ""
+#~ "Choose the Image content blocks that this block will use. (You may need "
+#~ "to create some first)."
+#~ msgstr ""
+#~ "Bu bloğun kullanacağı resim içeriği bloklarını seçin. (İlk olarak sizin "
+#~ "oluşturmanız gerekebilir)."
+
+#~ msgid "Multi Image"
+#~ msgstr "Çoklu görüntü"
+
+#~ msgid "Multi Images"
+#~ msgstr "Çoklu görüntüler"
+
+#~ msgid "Single product"
+#~ msgstr "tek ürün"
+
+#~ msgctxt "Promotion product list title"
+#~ msgid "Title"
+#~ msgstr "Başlık"
+
+#~ msgid "Link text"
+#~ msgstr "Bağlantı metni"
+
+#~ msgid "Product list"
+#~ msgstr "ürün listesi"
+
+#~ msgid "Product lists"
+#~ msgstr "Ürün listeleri"
+
+#~ msgid "Hand Picked Product List"
+#~ msgstr "Elle seçilen ürün listesi"
+
+#~ msgid "Hand Picked Product Lists"
+#~ msgstr "Elle seçilen ürün listeleri"
+
+#~ msgid "List"
+#~ msgstr "Liste"
+
+#~ msgid "Ordered product"
+#~ msgstr "Sipariş edilen ürün"
+
+#~ msgid "Bestselling products"
+#~ msgstr "en çok satan ürünler"
+
+#~ msgid "Recently added products"
+#~ msgstr "son eklenen ürünler"
+
+#~ msgid "Method"
+#~ msgstr "metot"
+
+#~ msgid "Number of Products"
+#~ msgstr "Ürünlerin sayısı"
+
+#~ msgid "Automatic product list"
+#~ msgstr "Otomatik ürün listesi"
+
+#~ msgid "Automatic product lists"
+#~ msgstr "Otomatik ürün listeleri"
+
+#~ msgid "Tabbed Block"
+#~ msgstr "Sekmeli blok"
+
+#~ msgid "Ordered Product List"
+#~ msgstr "Sipariş edilen ürün listesi"
+
+#~ msgid "Ordered Product Lists"
+#~ msgstr "sipariş edilen ürün listeleri"
+
+#~ msgctxt "Tabbed block title"
+#~ msgid "Title"
+#~ msgstr "Başlık"
+
+#~ msgid "Tabbed Blocks"
+#~ msgstr "Sekmeli bloklar"
+
+#~ msgid "Search"
+#~ msgstr "Ara"
+
+#~ msgid "Relevancy"
+#~ msgstr "Uygunluk"
+
+#~ msgid "Customer rating"
+#~ msgstr "Müşteri Oylaması"
+
+#~ msgid "Newest"
+#~ msgstr "En yeni"
+
+#~ msgid "Price high to low"
+#~ msgstr "Fiyat - yüksek > düşük"
+
+#~ msgid "Price low to high"
+#~ msgstr "Fiyat - düşük > yüksek"
+
+#~ msgid "Title A to Z"
+#~ msgstr "Ürün adı - A > Z"
+
+#~ msgid "Title Z to A"
+#~ msgstr "Ürün adı - Z > A"
+
+#~ msgid "Page is not 'last', nor can it be converted to an int."
+#~ msgstr "Sayfa 'son' değil, ne de bir tam sayıya dönüştürülebilir "
+
+#~ msgid "Shipping Method"
+#~ msgstr "Teslimat yöntemi"
+
+#~ msgid "Shipping Methods"
+#~ msgstr "Testimat yöntemleri"
+
+#~ msgid "Price per order"
+#~ msgstr "Sipariş başına fiyat"
+
+#~ msgid "Price per item"
+#~ msgstr "Ürün başına fiyat"
+
+#~ msgid "Free Shipping"
+#~ msgstr "Ücretsiz Gönderim"
+
+#~ msgid "Order and Item Charge"
+#~ msgstr "Sipariş ve Ürün Ücreti"
+
+#~ msgid "Order and Item Charges"
+#~ msgstr "Sipariş ve Ürün Ücretleri"
+
+#~ msgid "Default Weight"
+#~ msgstr "Varsayılan Ağırlık"
+
+#~ msgid "Default product weight in kg when no weight attribute is defined"
+#~ msgstr ""
+#~ "Herhangi bir ağırlık niteliği tanımlanmadığında tahmini olarak kg "
+#~ "cinsinden ürün ağırlığı"
+
+#~ msgid "Weight-based Shipping Method"
+#~ msgstr "Ağırlık bazlı nakliye yöntemi"
+
+#~ msgid "Weight-based Shipping Methods"
+#~ msgstr "Ağırlık bazlı nakliye yöntemleri"
+
+#~ msgid "Upper Limit"
+#~ msgstr "Üst limit"
+
+#~ msgid ""
+#~ "Enter upper limit of this weight band in kg. The lower limit will be "
+#~ "determined by the other weight bands."
+#~ msgstr ""
+#~ "Bu ağırlık bandının üst sınırını kg olarak girin. Alt limit, diğer "
+#~ "ağırlık bantları tarafından belirlenecektir."
+
+#~ msgid "Charge"
+#~ msgstr "Masraf"
+
+#~ msgid "Weight Band"
+#~ msgstr "Ağırlık bandı"
+
+#~ msgid "Weight Bands"
+#~ msgstr "Ağırlık bantları"
+
+#~ msgid "Charge for weights up to %s kg"
+#~ msgstr "%skg'a kadar olan ürünler için ödenecek fiyat"
+
+#~ msgid "Shipping"
+#~ msgstr "Teslimat"
+
+#~ msgid "Free shipping"
+#~ msgstr "Ücretsiz Gönderim"
+
+#~ msgid "No shipping required"
+#~ msgstr "Teslimat gerekli değil"
+
+#~ msgid "Fixed price shipping"
+#~ msgstr "Sabit teslimat ücreti"
+
+#~ msgid "You need to define some shipping methods"
+#~ msgstr "Bazı ödeme yöntemleri tanımlamanız gerekli"
+
+#~ msgid ""
+#~ "This will be shown in the checkout and basket once the voucher is entered"
+#~ msgstr "Bu, kupon girildikten sonra kasada ve sepette gösterilecektir."
+
+#~ msgid "Case insensitive / No spaces allowed"
+#~ msgstr "Büyük-küçük harfe duyarsız / Boş alan olmamalıdır"
+
+#~ msgid "Can be used once by one customer"
+#~ msgstr "Sadece bir kullanıcı tarafından kullanılabilir"
+
+#~ msgid "Can be used multiple times by multiple customers"
+#~ msgstr "Birçok kez farklı kullanıcılar tarafından kullanılabilir"
+
+#~ msgid "Can only be used once per customer"
+#~ msgstr "Her müşteri için bir kez kullanılabilir"
+
+#~ msgid "Times added to basket"
+#~ msgstr "Sepete eklenme sayısı"
+
+#~ msgid "Times on orders"
+#~ msgstr "Sipariş Ücretleri"
+
+#~ msgid "Voucher"
+#~ msgstr "Kupon"
+
+#~ msgid "This voucher has already been used"
+#~ msgstr "Bu kupon zaten kullanılmış"
+
+#~ msgid "This voucher is only available to signed in users"
+#~ msgstr "Bu kupon sadece giriş yapan kullanıcılar için geçerlidir"
+
+#~ msgid "You have already used this voucher in a previous order"
+#~ msgstr "Bu kuponu önceki bir siparişinizde zaten kullanmışsınız"
+
+#~ msgid "Voucher Application"
+#~ msgstr "Kupon Uygulaması"
+
+#~ msgid "Voucher Applications"
+#~ msgstr "Kupon uygulamaları"
+
+#~ msgid "'%(voucher)s' used by '%(user)s'"
+#~ msgstr "'%(user)s' tarafından kullanılan '%(voucher)s'"
+
+#~ msgid "Added to a basket"
+#~ msgstr "Sepete eklendi"
+
+#~ msgid "Used in an order"
+#~ msgstr "Bir siparişte kullanıldı"
+
+#~ msgid "Voucher performance"
+#~ msgstr "Kupon performansı"
+
+#~ msgid "Default"
+#~ msgstr "Ödemede gecikme"
+
+#~ msgid "Private - Only the owner can see the wish list"
+#~ msgstr "Kişisel -  Sadece sahibi istek listesini görebilir"
+
+#~ msgid ""
+#~ "Shared - Only the owner and people with access to the obfuscated link can "
+#~ "see the wish list"
+#~ msgstr ""
+#~ "Paylaşımlı- Sadece sahibi ve gizlenen linke erişebilen insanlar istek "
+#~ "listesini görebilir"
+
+#~ msgid "Public - Everybody can see the wish list"
+#~ msgstr "Herkese açık - Herkes istek listesini görebilir"
+
+#~ msgid "Visibility"
+#~ msgstr "Görülebilirlik"
+
+#~ msgid "Wish List"
+#~ msgstr "İstek listesi"
+
+#~ msgid "Wish list line"
+#~ msgstr "İstek listesi satırı"
+
+#~ msgid "Wishlists"
+#~ msgstr "İstek listeleri"
+
+#~ msgid "The URL \"%s\" does not exist"
+#~ msgstr "\"%s\" URL'si mevcut değil"
+
+#~ msgid "Specified page already exists!"
+#~ msgstr "Belirtilen sayfa zaten var!"
+
+#~ msgid "This field is required"
+#~ msgstr "Bu alan gereklidir"
+
+#~ msgid "This field is invalid as its value is forbidden"
+#~ msgstr "Değeri yasak olduğu için bu alan geçersizdir"
+
+#~ msgid "This is not a valid international phone format."
+#~ msgstr "Bu geçerli bir uluslararası telefon numarası formatı değil."
+
+#~ msgid "This is not a valid local phone format for %s."
+#~ msgstr "Bu geçerli bir yerel telefon numarası formatı değil %s."
+
+#~ msgid "This is not a valid local or international phone format."
+#~ msgstr ""
+#~ "Bu geçerli bir yerel veya uluslararası telefon numarası formatı değil."
+
+#~ msgid "Check for products that are back in stock and send out alerts"
+#~ msgstr "Stoğa geri gelmiş olan ürünleri kontrol edin ve uyarıları gönderin"
+
+#~ msgid "Permission denied!"
+#~ msgstr "İzin reddedildi!"
+
+#~ msgid "We're sorry but you are not permitted to access this page."
+#~ msgstr "Üzgünüz ama bu sayfaya ulaşım izniniz bulunmamaktadır."
+
+#~ msgid "Page not found"
+#~ msgstr "Sayfa bulunamadı."
+
+#~ msgid "Page not found!"
+#~ msgstr "Sayfa bulunamadı!"
+
+#~ msgid "We're sorry but the page you are looking for can't be found."
+#~ msgstr "Üzgünüz ama bu sayfada aradığınız bulunamadı."
+
+#~ msgid "Server error!"
+#~ msgstr "Sunucu hatası!"
+
+#~ msgid ""
+#~ "We're sorry but something went terribly wrong and we've been unable to "
+#~ "generate the page you requested."
+#~ msgstr ""
+#~ "Üzgünüz ama bir şeyler ters gitti ve talep ettiğiniz sayfayı "
+#~ "oluşturamadık."
+
+#~ msgid ""
+#~ "This incident has been logged and will be addressed by an engineer as "
+#~ "soon as possible."
+#~ msgstr ""
+#~ "Bu hata kaydedildi ve mümkün olan en kısa sürede bir mühendis tarafından "
+#~ "ele alınacak."
+
+#~ msgid "Home"
+#~ msgstr "Anasafya"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(title)s</strong> has been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    <strong>%(title)s</strong> sepetinize eklendi.\n"
+#~ "        "
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(quantity)s</strong> copies of <strong>%(title)s</strong>\n"
+#~ "    have been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong>'nun <strong>%(quantity)s</strong> kopyası\n"
+#~ "sepetinize eklendi."
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been moved back to your basket.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong>sepetinize geri taşındı.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been saved for later\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> sonrası için kaydedildi.\n"
+
+#~ msgid "Your basket is now empty"
+#~ msgstr "Sepetiniz şu an boş "
+
+#~ msgid ""
+#~ "\n"
+#~ "            Your basket total is now <strong>%(total)s</strong>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "            Şuanki sepet tutarınız <strong>%(total)s</strong>\n"
+#~ "            "
+
+#~ msgid "View basket"
+#~ msgstr "Sepeti görüntüle"
+
+#~ msgid "Checkout now"
+#~ msgstr "Şimdi satın al"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket now qualifies for the \n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Sepetiniz şimdi <strong>%(name)s</strong>indirimi için\n"
+#~ " yetkilendirilmiştir.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket no longer qualifies for the\n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Sepetiniz artık <strong>%(name)s</strong>indirimi için\n"
+#~ " yetkilendirilememektedir.\n"
+
+#~ msgid "Important messages about items in your basket"
+#~ msgstr "Sepetinizdeki ürünler ile ilgili önemli mesajlar"
+
+#~ msgid "You could be missing out on offers!"
+#~ msgstr "Kampanyaları kaçırabilirsin!"
+
+#~ msgid ""
+#~ "\n"
+#~ "                <div class=\"warning\">%(message)s to qualify for the <a "
+#~ "href=\"%(url)s\">%(offer_name)s</a> special offer</div>\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "<div class=\"warning\">%(message)smesajı <a href=\"%(url)s\">"
+#~ "%(offer_name)s</a>özel indirimini değerlendirmek içindir.</div>"
+
+#~ msgid "Items to buy now"
+#~ msgstr "Şimdi satın alınacak ürünler"
+
+#~ msgid "Price"
+#~ msgstr "Fiyat"
+
+#~ msgid "Total"
+#~ msgstr "Toplam"
+
+#~ msgid "Updating..."
+#~ msgstr "Güncelleniyor..."
+
+#~ msgid "Update"
+#~ msgstr "Güncelle"
+
+#~ msgid "Remove"
+#~ msgstr "Kaldır"
+
+#~ msgid "Save for later"
+#~ msgstr "Daha sonrası için kaydet"
+
+#~ msgid "Voucher/promo code"
+#~ msgstr "Kupon/promosyon kodu"
+
+#~ msgid "I have a voucher code..."
+#~ msgstr "Kupun kodum var..."
+
+#~ msgid "Adding..."
+#~ msgstr "Ekleniyor..."
+
+#~ msgid "Add voucher"
+#~ msgstr "Kupon ekle"
+
+#~ msgid "or"
+#~ msgstr "veya"
+
+#~ msgid "cancel"
+#~ msgstr "iptal"
+
+#~ msgid "Totals"
+#~ msgstr "Toplamlar"
+
+#~ msgid "Proceed to checkout"
+#~ msgstr "Ödemeye git"
+
+#~ msgid "Your basket is empty."
+#~ msgstr "Sepetiniz boş"
+
+#~ msgid "Continue shopping"
+#~ msgstr "Alışverişe devam et"
+
+#~ msgid "Items to buy later"
+#~ msgstr "Sonradan alınacak ürünler"
+
+#~ msgid "Items"
+#~ msgstr "Ürünler"
+
+#~ msgid "Move to basket"
+#~ msgstr "Sepete taşı"
+
+#~ msgid "Qty"
+#~ msgstr "Miktar"
+
+#~ msgid "Total:"
+#~ msgstr "Toplam:"
+
+#~ msgid "Basket total (before discounts)"
+#~ msgstr "Sepet tutarı (indirimler hariç)"
+
+#~ msgid "Discount"
+#~ msgstr "İndirim"
+
+#~ msgid "Basket total (after discounts)"
+#~ msgstr "Sepet tutarı (indirimler dahil)"
+
+#~ msgid "Basket total"
+#~ msgstr "Sepet tutarı"
+
+#~ msgid "Alternative shipping methods can be chosen during checkout"
+#~ msgstr "Ödeme sırasında farklı teslimat yöntemleri seçebilirsiniz"
+
+#~ msgid "Shipping total (before discounts)"
+#~ msgstr "Teslimat tutarı toplamı (indirimlerden önce)"
+
+#~ msgid "Shipping total (after discounts)"
+#~ msgstr "Teslimat tutarı toplamı (indirimlerden sonra)"
+
+#~ msgid "Tax"
+#~ msgstr "Vergi"
+
+#~ msgid "Post order actions"
+#~ msgstr "Sipariş sonrası işlemler"
+
+#~ msgid "These will be applied once your order is placed."
+#~ msgstr "Bunlar siparişiniz verildikten sonra uygulanacaktır."
+
+#~ msgid "Taxes will be added during checkout."
+#~ msgstr "Vergiler ödeme yapılırken eklenecek."
+
+#~ msgid "Show results for"
+#~ msgstr "... için sonuçları göster"
+
+#~ msgid "Refine by"
+#~ msgstr "Tarafından düzenle"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results - showing "
+#~ "<strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong>sonucu - <strong>%(start)s</strong>'dan "
+#~ "<strong>%(end)s</strong>'a kadar gösteriyor."
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong>sonuçları - <strong>%(start)s</"
+#~ "strong>'dan <strong>%(end)s</strong>' kadar gösteriyor."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> result.\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    <strong>%(num_results)s</strong> results.\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong>sonucu."
+#~ msgstr[1] ""
+#~ "\n"
+#~ "<strong>%(num_results)s</strong>sonuçları."
+
+#~ msgid "<strong>0</strong> results."
+#~ msgstr "<strong>0</strong> sonuç."
+
+#~ msgid "No products found."
+#~ msgstr "Hiç ürün bulunamadı."
+
+#~ msgid "Edit this product"
+#~ msgstr "Bu ürünü düzenle"
+
+#~ msgid "Product Description"
+#~ msgstr "Ürün Açıklaması"
+
+#~ msgid "Product Information"
+#~ msgstr "Ürün Bilgisi"
+
+#~ msgid "Product Type"
+#~ msgstr "Ürün Türü"
+
+#~ msgid "Price (incl. tax)"
+#~ msgstr "Fiyat (vergi dahil)"
+
+#~ msgid "Availability"
+#~ msgstr "Uygunluk"
+
+#~ msgid "Number of reviews"
+#~ msgstr "Yorumların sayısı"
+
+#~ msgid "See all reviews"
+#~ msgstr "Tüm yorumları gör"
+
+#~ msgid "Customer Reviews"
+#~ msgstr "Müşteri Yorumları"
+
+#~ msgid ""
+#~ "This product does not have any reviews yet -\n"
+#~ "                            <a href=\"%(add_review_url)s#addreview\">be "
+#~ "the first to write one</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "Henüz yorum yok -\n"
+#~ "                            <a href=\"%(add_review_url)s#addreview\">ilk "
+#~ "yazan siz olun</a>.\n"
+#~ "                        "
+
+#~ msgid "This product does not have any reviews yet"
+#~ msgstr "Henüz yorum yok"
+
+#~ msgid "Recommended items"
+#~ msgstr "Önerilen ürünler"
+
+#~ msgid "Add to basket"
+#~ msgstr "Sepete ekle"
+
+#~ msgid "You have an active stock alert for this product."
+#~ msgstr "Bu ürün için aktif stok uyarınız bulunmaktadır."
+
+#~ msgid "You can get an email alert when this product is back in stock."
+#~ msgstr "Bu ürün stokta tekrar bulunduğunda e-posta alabilirsiniz."
+
+#~ msgid "Notify me"
+#~ msgstr "Beni bilgilendir"
+
+#~ msgid "Add to wish list"
+#~ msgstr "İstek listesine ekle"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                            Add to '%(name)s' wish list\n"
+#~ "                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "'%(name)s' istek listesine ekle"
+
+#~ msgid "Create a new wishlist"
+#~ msgstr "Yeni istek listesi oluştur"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    <span class=\"pull-left\">Product is in <a href="
+#~ "\"%(url)s\">'%(name)s'</a> wishlist.</span>\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "<span class=\"pull-left\">Ürün, <a href=\"%(url)s\">'%(name)s'</a> istek "
+#~ "listesinde.</span>"
+
+#~ msgid "Removing..."
+#~ msgstr "Kaldırılıyor..."
+
+#~ msgid "Please login to add products to a wish list."
+#~ msgstr "Ürünleri istek listenize ekleyebilmek için lütfen giriş yapınız."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Reviewed by you on %(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "%(review_date)starihinde sizin tarafınızdan değerlendirildi"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Reviewed by <strong>%(name)s</strong> on "
+#~ "%(review_date)s\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "%(review_date)starihinde <strong>%(name)s</strong> tarafından "
+#~ "değerlendirildi"
+
+#~ msgid "Is this review helpful?"
+#~ msgstr "Bu yorum yardımcı oldu mu?"
+
+#~ msgid "Yes"
+#~ msgstr "Evet"
+
+#~ msgid "No"
+#~ msgstr "Hayır"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customer "
+#~ "found this useful\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "            <strong>%(num_up_votes)s</strong> of %(num_votes)s customers "
+#~ "found this useful\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "%(num_votes)s müşterisinin <strong>%(num_up_votes)s</strong>'si "
+#~ "kullanışlı bulundu."
+#~ msgstr[1] ""
+#~ "\n"
+#~ "%(num_votes)smüşterilerinin<strong>%(num_up_votes)s</strong>'i kullanışlı "
+#~ "bulundu."
+
+#~ msgid "This review has no votes."
+#~ msgstr "Bu değerlendirme herhangi bir oylama almamış."
+
+#~ msgid "Free"
+#~ msgstr "Ücretsiz"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer review\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    %(num_reviews)s customer reviews\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "%(num_reviews)smüşteri değerlendirmesi"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "%(num_reviews)smüşteri değerlendirmeleri"
+
+#~ msgid "Write a review"
+#~ msgstr "Yorum yazın"
+
+#~ msgid "Customer reviews"
+#~ msgstr "Müşteri yorumları"
+
+#~ msgid "Leave a product review"
+#~ msgstr "Bir ürün yorumu bırakın"
+
+#~ msgid "Saving..."
+#~ msgstr "Kaydediliyor..."
+
+#~ msgid "Save review"
+#~ msgstr "Yorumu kaydet"
+
+#~ msgid "This product does not have any reviews yet."
+#~ msgstr "Henüz yorum yok."
+
+#~ msgid "Change"
+#~ msgstr "Değiştir"
+
+#~ msgid "Contact"
+#~ msgstr "İletişim"
+
+#~ msgid "Phone"
+#~ msgstr "Telefon no"
+
+#~ msgid "Payment details to go here"
+#~ msgstr "Ödeme detayları burada belirtilecek"
+
+#~ msgid "Edit order contents"
+#~ msgstr "Sipariş içeriğini düzenle"
+
+#~ msgid "Order contents"
+#~ msgstr "Sipariş içeriği"
+
+#~ msgid "Item"
+#~ msgstr "Ürün"
+
+#~ msgid "Checkout gateway"
+#~ msgstr "Ödeme yöntemi"
+
+#~ msgid "Who are you?"
+#~ msgstr "Kimsiniz?"
+
+#~ msgid "Get a password reminder"
+#~ msgstr "Parola hatırlatma mesajı alın"
+
+#~ msgid "Continuing..."
+#~ msgstr "Devam ediliyor..."
+
+#~ msgid "Continue"
+#~ msgstr "Devam et"
+
+#~ msgid "1. Shipping address"
+#~ msgstr "Teslimat adresi"
+
+#~ msgid "2. Shipping method"
+#~ msgstr "Teslimat methodu"
+
+#~ msgid "3. Payment"
+#~ msgstr "Ödeme"
+
+#~ msgid "4. Preview"
+#~ msgstr "Önizleme"
+
+#~ msgid "5. Confirmation"
+#~ msgstr "Onay"
+
+#~ msgid "Payment details"
+#~ msgstr "Ödeme detayları"
+
+#~ msgid "Enter payment details"
+#~ msgstr "Ödeme detaylarını gir"
+
+#~ msgid ""
+#~ "This page needs implementing within your project.  You may want to use "
+#~ "one of Oscar's payment gateway libraries:"
+#~ msgstr ""
+#~ "Bu sayfanın projenizde uygulanması gerekli. Oscar'ın ödeme ağ geçidi "
+#~ "kitaplıklarından birini kullanmak isteyebilirsiniz:"
+
+#~ msgid "Order preview"
+#~ msgstr "Sipariş önizlemesi"
+
+#~ msgid "Preview order"
+#~ msgstr "Siparişi önizle"
+
+#~ msgid "Place order"
+#~ msgstr "Sipariş ver"
+
+#~ msgid "Where should we ship to?"
+#~ msgstr "Nereye gönderelim?"
+
+#~ msgid "An address from your address book?"
+#~ msgstr "Adres defterinizden bir adres?"
+
+#~ msgid "Ship to your default shipping address"
+#~ msgstr "Varsayılan teslimat adresinize gönder"
+
+#~ msgid "Ship to this address"
+#~ msgstr "Bu adrese gönder"
+
+#~ msgid "Delete"
+#~ msgstr "Sil"
+
+#~ msgid "Or a new address?"
+#~ msgstr "Veya yeni bir adres?"
+
+#~ msgid "return to basket"
+#~ msgstr "sepete geri dön"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                This includes a discount of <strong>"
+#~ "%(amount)s</strong> as\n"
+#~ "                                your basket qualifies for the <strong>"
+#~ "%(name)s</strong> offer.\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "Sepetiniz <strong>%(name)s</strong>indirimi için yetkilendiğinden,\n"
+#~ "bu, <strong>%(amount)s</strong>indirimini içerir."
+
+#~ msgid "Select option"
+#~ msgstr "Bir seçenek grubu seçiniz"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s: confirmation\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Sipariş %(number)s: onaylama"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Your order has been placed and a confirmation email has been sent "
+#~ "- your order number is\n"
+#~ "        <strong>%(number)s</strong>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "Siparişiniz verildi ve e-posta adresinize onaylanma gönderildi - sipariş "
+#~ "numaranız \n"
+#~ "<strong>%(number)s</strong>."
+
+#~ msgid ""
+#~ "Please make a note of this reference or print this page and quote it in "
+#~ "any communication with us regarding your order."
+#~ msgstr ""
+#~ "Lütfen bu referansı not edin veya bu sayfayı yazdırın ve siparişinizle "
+#~ "ilgili olarak bizimle olan herhangi bir iletişiminizde belirtin."
+
+#~ msgid "No shipping address required."
+#~ msgstr "Herhangi bir teslimat adresi gerekli değil."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s (reference: %(reference)s)\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "%(type)stipinden %(amount)stahsisatı (referans: %(reference)s)"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                Allocation of %(amount)s from type "
+#~ "%(type)s\n"
+#~ "                            "
+#~ msgstr ""
+#~ "\n"
+#~ "%(type)stipinden %(amount)stahsisatı"
+
+#~ msgid "No payment was required for this order."
+#~ msgstr "Bu sipariş için ödeme gerekli değil"
+
+#~ msgid "Items purchased"
+#~ msgstr "Satın alınan ürünler"
+
+#~ msgid ""
+#~ "\n"
+#~ "                            Estimated dispatch: <strong>%(date)s</"
+#~ "strong>\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Tahmini sevk: <strong>%(date)s</strong>"
+
+#~ msgid "Shipping charge (before discounts)"
+#~ msgstr "Teslimat ücreti (indirimlerden önce)"
+
+#~ msgid "Shipping charge (after discounts)"
+#~ msgstr "Teslimat ücreti (indirimlerden sonra)"
+
+#~ msgid "Shipping charge"
+#~ msgstr "Teslimat ücreti"
+
+#~ msgid "Order tax"
+#~ msgstr "Sipariş vergisi"
+
+#~ msgid "Tracking your order"
+#~ msgstr "Siparişiniz takip ediliyor"
+
+#~ msgid "You can track the status of your order"
+#~ msgstr "Siparişinizin durumunu takip edebilirsiniz"
+
+#~ msgid "View order status"
+#~ msgstr "Sipariş durumunu görüntüle"
+
+#~ msgid "Print this page"
+#~ msgstr "Bu sayfayı yazdır"
+
+#~ msgid "Are you sure you want to delete this address?"
+#~ msgstr "Bu adresi silmek istediğinizden emin misiniz?"
+
+#~ msgid "Yes!"
+#~ msgstr "Evet!"
+
+#~ msgid "Save"
+#~ msgstr "Kaydet"
+
+#~ msgid "Address book"
+#~ msgstr "Adres defteri"
+
+#~ msgid "Deleting..."
+#~ msgstr "Siliniyor..."
+
+#~ msgid "Default shipping address"
+#~ msgstr "Varsayılan teslimat adresi"
+
+#~ msgid "Default billing address"
+#~ msgstr "Varsayılan fatura adresi"
+
+#~ msgid "Edit"
+#~ msgstr "Düzenle"
+
+#~ msgid "Set as default shipping address"
+#~ msgstr "Varsayılan kargo adresi yap"
+
+#~ msgid "Set as default billing address"
+#~ msgstr "Varsayılan fatura adresi yap"
+
+#~ msgid "There are no addresses in your address book."
+#~ msgstr "Adres defterinde hiç adres yok"
+
+#~ msgid "You do not have any active alerts for out-of-stock products."
+#~ msgstr ""
+#~ "Stokta olmayan ürünler için herhangi bir aktif uyarınız bulunmamaktadır."
+
+#~ msgid "Cancel"
+#~ msgstr "İptal"
+
+#~ msgid ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> is back in stock\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> tekrar stokta\n"
+
+#~ msgid "Order #%(number)s"
+#~ msgstr "Sipariş #%(number)s"
+
+#~ msgid "Contact number"
+#~ msgstr "İletişim numarası"
+
+#~ msgid "Notes"
+#~ msgstr "Notlar"
+
+#~ msgid "Estimated dispatch date"
+#~ msgstr "Tahmini gönderme zamanı"
+
+#~ msgid "Line price excl. tax"
+#~ msgstr "Satır fiyatı vergiler hariç"
+
+#~ msgid "Line price incl. tax"
+#~ msgstr "Satır fiyatı vergiler dahil"
+
+#~ msgid "Basket total (inc. tax)"
+#~ msgstr "Sepet tutarı (vergiler dahil)"
+
+#~ msgid "Email history"
+#~ msgstr "EPosta geçmişi"
+
+#~ msgid "Date sent"
+#~ msgstr "Gönderim tarihi"
+
+#~ msgid "No emails found"
+#~ msgstr "E posta bulunamadı"
+
+#~ msgid "Thanks for using our site!"
+#~ msgstr "Sitemizi kullandığınız için teşekkür ederiz!"
+
+#~ msgid "The %(name)s team"
+#~ msgstr "%(name)stakımı"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately "
+#~ "and correct your email address:"
+#~ msgstr ""
+#~ "Eğer değiştiren siz değilseniz, lütfen hemen şifrenizi değiştirin ve e-"
+#~ "posta adresinizi doğrulayın:"
+
+#~ msgid ""
+#~ "If it was you who changed the email address, you can ignore this email."
+#~ msgstr ""
+#~ "Eğer e-posta adresini değiştiren sizseniz, bu maili görmezden geliniz."
+
+#~ msgid ""
+#~ "You're receiving this email because your email address has been changed "
+#~ "to %(email)s."
+#~ msgstr ""
+#~ "E-posta adresiniz %(email)solarak değiştirildiği için bu e-postayı "
+#~ "alıyorsunuz."
+
+#~ msgid "Your email address has changed at %(site_name)s."
+#~ msgstr "E-posta adresiniz %(site_name)s sitesinde değiştirildi."
+
+#~ msgid "Hello,"
+#~ msgstr "Merhaba,"
+
+#~ msgid "Your order contains:"
+#~ msgstr "Siparişiniz şunları içeriyor:"
+
+#~ msgid "Basket total:"
+#~ msgstr "Sepet tutarı:"
+
+#~ msgid "Shipping:"
+#~ msgstr "Teslimat:"
+
+#~ msgid "Order Total:"
+#~ msgstr "Sipariş toplamı:"
+
+#~ msgid "Shipping address:"
+#~ msgstr "Kargo adresi:"
+
+#~ msgid ""
+#~ "You can view the status of this order by clicking <a href=\"%(status_url)s"
+#~ "\" title=\"order status\">here</a>"
+#~ msgstr ""
+#~ "<a href=\"%(status_url)s\" title=\"order status\">buraya</a> tıklayarak "
+#~ "siparişin durumunu görebilirsiniz"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "We are pleased to confirm your order %(order_number)s has been received "
+#~ "and\n"
+#~ "will be processed shortly."
+#~ msgstr ""
+#~ "Merhaba,\n"
+#~ "\n"
+#~ "%(order_number)snumaralı siparişinizin alındığını ve \n"
+#~ "kısa sürede işleme alınacağını bildirmekten mutluluk duyarız."
+
+#~ msgid "quantity:"
+#~ msgstr "miktar:"
+
+#~ msgid "price:"
+#~ msgstr "fiyat:"
+
+#~ msgid ""
+#~ "You can view the status of this order at the below URL:\n"
+#~ "%(status_url)s"
+#~ msgstr ""
+#~ "Siparişinizin durumunu aşağıdaki site URL'sinden takip edebilirsiniz:\n"
+#~ "%(status_url)s"
+
+#~ msgid "The team"
+#~ msgstr "Takım"
+
+#~ msgid "Confirmation of order %(number)s"
+#~ msgstr "Sipariş onayı %(number)s"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately:"
+#~ msgstr ""
+#~ "Eğer değiştiren siz değilseniz, lütfen hemen parolanızı sıfırlayınız:"
+
+#~ msgid "Otherwise, you can ignore this email."
+#~ msgstr "aksi takdirde, bu e-postayı görmezden geliniz."
+
+#~ msgid ""
+#~ "\n"
+#~ "You're receiving this email because your password has been changed at "
+#~ "%(name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Şifreniz %(name)s'da değiştirildiği için bu e-postayı alıyorsunuz.\n"
+
+#~ msgid "Your password changed at %(site_name)s."
+#~ msgstr "%(site_name)ssitesinde şifreniz değiştirildi."
+
+#~ msgid ""
+#~ "You're receiving this e-mail because you requested a password reset for "
+#~ "your user account at %(name)s."
+#~ msgstr ""
+#~ "Bu e-postayı %(name)s. kullanıcısı adına bir parola sıfırlama isteği "
+#~ "yaptığınız için alıyorsunuz."
+
+#~ msgid "Please go to the following page and choose a new password:"
+#~ msgstr "Lütfen listelenen sayfaya gidin ve yeni bir parola belirleyin:"
+
+#~ msgid "Resetting your password at %(site_name)s."
+#~ msgstr "%(site_name)ssitesinde şifreniz sıfırlandı."
+
+#~ msgid "Dear %(name)s,"
+#~ msgstr "Sevgili %(name)s, "
+
+#~ msgid ""
+#~ "\n"
+#~ "Beware that the amount of items in stock is limited. Be quick or someone "
+#~ "might get there first.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Stoktaki ürünlerin miktarının sınırlı olduğunu unutmayın. Acele edin ya "
+#~ "da birileri sizden önce alabilir.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "With this email we have disabled your alert automatically and you will "
+#~ "not\n"
+#~ "receive any further email regarding this product.\n"
+#~ "\n"
+#~ "Thanks for your interest,\n"
+#~ "The %(site_name)s Team\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Bu e-postayla uyarılarını otomatik olarak devre dışı bıraktık ve \n"
+#~ "bu ürün ile ilgili daha fazla e-posta almayacaksınız.\n"
+#~ "\n"
+#~ "İlginiz için teşekkürler,\n"
+#~ "%(site_name)sTakımı\n"
+
+#~ msgid "Confirmation required for stock alert"
+#~ msgstr "Stok alarmı için doğrulama gerekli"
+
+#~ msgid "Thank you for registering."
+#~ msgstr "Kayıt olduğunuz için teşekkürler !"
+
+#~ msgid "Products you recently viewed"
+#~ msgstr "Yakında incelediğiniz ürünler"
+
+#~ msgid "Log In"
+#~ msgstr "Giriş"
+
+#~ msgid "I've forgotten my password"
+#~ msgstr "Parolamı unuttum"
+
+#~ msgid "Logging in..."
+#~ msgstr "Giriş yapılıyor..."
+
+#~ msgid "Register"
+#~ msgstr "Kayıt ol"
+
+#~ msgid "Registering..."
+#~ msgstr "Kaydediliyor..."
+
+#~ msgid "Notifications inbox"
+#~ msgstr "Duyuru gelen kutusu"
+
+#~ msgid "Sender"
+#~ msgstr "Gönderen"
+
+#~ msgid "Return to notifications inbox"
+#~ msgstr "Bildirim kutusuna geri dön"
+
+#~ msgctxt "noun"
+#~ msgid "Archive"
+#~ msgstr "arşiv"
+
+#~ msgid "View"
+#~ msgstr "Görüntüle"
+
+#~ msgctxt "verb"
+#~ msgid "Archive"
+#~ msgstr "arşiv"
+
+#~ msgid "With selected items:"
+#~ msgstr "Seçili öğeler ile:"
+
+#~ msgid "Archiving..."
+#~ msgstr "Arşivleniyor..."
+
+#~ msgid "There are no notifications to display."
+#~ msgstr "Gösterilecek bir bildirim yok."
+
+#~ msgid "Order history"
+#~ msgstr "Sipariş geçmişi"
+
+#~ msgid "Dispatch date"
+#~ msgstr "Gönderme tarihi"
+
+#~ msgid "Re-ordering..."
+#~ msgstr "Yeniden sipariş veriliyor..."
+
+#~ msgid "Re-order"
+#~ msgstr "Yeniden sipariş ver"
+
+#~ msgid "Not available anymore"
+#~ msgstr "Artık mevcut değil"
+
+#~ msgid "Basket total (excl. discounts)"
+#~ msgstr "Sepet tutarı (indirimler hariç)"
+
+#~ msgid "Basket total (inc. discounts)"
+#~ msgstr "Sepet tutarı (indirimler hariç)"
+
+#~ msgid "Shipping total (excl. discounts)"
+#~ msgstr "Teslimat tutarı (indirimler hariç)"
+
+#~ msgid "Shipping total (inc. discounts)"
+#~ msgstr "Teslimat tutarı (indirimler dahil)"
+
+#~ msgid "Shipping total"
+#~ msgstr "Teslimat tutarı"
+
+#~ msgid "Re-order all items"
+#~ msgstr "Tüm ürünler için yeniden sipariş ver"
+
+#~ msgid "Contact Number"
+#~ msgstr "İletişim Numarası"
+
+#~ msgid "Shipping Notes"
+#~ msgstr "Teslimat Notları"
+
+#~ msgid "Filtering..."
+#~ msgstr "Filtreleniyor..."
+
+#~ msgid "Filter results"
+#~ msgstr "Filtreleme sonuçları"
+
+#~ msgid "Reset"
+#~ msgstr "Reset"
+
+#~ msgid "Total inc tax"
+#~ msgstr "Toplam vergiler dahil"
+
+#~ msgid "No orders match your search."
+#~ msgstr "Aramanıza uygun sipariş bulunamadı."
+
+#~ msgid "You haven't placed any orders."
+#~ msgstr "Herhangi bir sipariş vermediniz."
+
+#~ msgid "Change password"
+#~ msgstr "Parola değiştir"
+
+#~ msgid "Edit profile"
+#~ msgstr "Profil düzenle"
+
+#~ msgid "Please confirm your password to delete your profile."
+#~ msgstr "Lütfen, profilinizi silmek için parolanızı girin."
+
+#~ msgid "Warning"
+#~ msgstr "Uyarı"
+
+#~ msgid ""
+#~ "\n"
+#~ "                This will delete all information about you from the "
+#~ "site.  Deleting your profile cannot be\n"
+#~ "                undone.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                Siteden tüm bilgileriniz silinecek. Profil silme işlemi\n"
+#~ "                geri alınamaz.\n"
+#~ "            "
+
+#~ msgid "Delete?"
+#~ msgstr "Sil?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "%(name)s silmek istediğinize emin misiniz?"
+
+#~ msgid "Remove product"
+#~ msgstr "Ürünü kaldır"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(product_name)s from "
+#~ "wish list %(wishlist_name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "%(product_name)sürününü%(wishlist_name)sistek listesinden silmek "
+#~ "istediğinize emin misiniz?"
+
+#~ msgid "Action"
+#~ msgstr "Eylem"
+
+#~ msgid "View product"
+#~ msgstr "Ürünü görüntüle"
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                            Move to "
+#~ "'%(name)s' wish list\n"
+#~ "                                                        "
+#~ msgstr ""
+#~ "\n"
+#~ "'%(name)s' istek listesine taşı"
+
+#~ msgid "Update quantities"
+#~ msgstr "Adetleri güncelle"
+
+#~ msgid "Your wish list is empty."
+#~ msgstr "İstek listeniz boş."
+
+#~ msgid "Create"
+#~ msgstr "Oluştur"
+
+#~ msgid "What should your new wish list be called?"
+#~ msgstr "Yeni istek listenizin ismi nedir?"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    After your wishlist is created, <strong>%(title)s</"
+#~ "strong> will be added.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "İstek listeniz oluşturulduktan sonra, <strong>%(title)s</strong> "
+#~ "eklenecektir."
+
+#~ msgid "Number of products"
+#~ msgstr "Ürün sayısı"
+
+#~ msgid "Wish list settings"
+#~ msgstr "İstek listesi ayarları"
+
+#~ msgid "You don't have any wish lists yet."
+#~ msgstr "Henüz hiçbir istek listesine sahip değilsiniz."
+
+#~ msgid "Sections"
+#~ msgstr "Bölümler"
+
+#~ msgid "Delete category?"
+#~ msgstr "Kategoriyi sil?"
+
+#~ msgid "Delete category"
+#~ msgstr "Kategoriyi sil"
+
+#~ msgid ""
+#~ "\n"
+#~ "            <p>Delete category <strong>%(name)s</strong> - are you sure?</"
+#~ "p>\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "            <p>Kategoriyi sil <strong>%(name)s</strong> - emin misiniz?</"
+#~ "p>\n"
+#~ "        "
+
+#~ msgid "Create new category"
+#~ msgstr "Yeni kategori oluştur"
+
+#~ msgid "You are editing:"
+#~ msgstr "Düzenliyorsunuz:"
+
+#~ msgid "There are no categories."
+#~ msgstr "Hiç kategori bulunmuyor."
+
+#~ msgid "Edit category"
+#~ msgstr "Kategoriyi düzenle"
+
+#~ msgid "Add child category"
+#~ msgstr "Çocuk kategorisi ekle"
+
+#~ msgid "Edit children"
+#~ msgstr "Çocukları düzenle"
+
+#~ msgid "View on site"
+#~ msgstr "Sitede görüntüle"
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "'%(name)s'ürün varyantı oluşturuldu."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Created variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "'%(parent_name)s'nun varyantı oluşturuldu."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated product variant '%(name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "'%(name)s' ürün varyantı güncellendi."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Updated a variant of '%(parent_name)s'.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "'%(parent_name)s'nun varyantı güncellendi."
+
+#~ msgid ""
+#~ "\n"
+#~ "                Created product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                Oluşturulan ürün '%(name)s'.\n"
+#~ "            "
+
+#~ msgid ""
+#~ "\n"
+#~ "                Updated product '%(name)s'.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                Güncellenen ürün '%(name)s'.\n"
+#~ "            "
+
+#~ msgid "Edit again"
+#~ msgstr "Yeniden düzenle"
+
+#~ msgid "View it on the site"
+#~ msgstr "Sitede görüntüle"
+
+#~ msgid "Delete product type?"
+#~ msgstr "Ürün türünü sil?"
+
+#~ msgid ""
+#~ "Please make sure all products are assigned to another type before "
+#~ "deletion."
+#~ msgstr ""
+#~ "Lütfen silme işleminden önce tüm ürünlerin başka bir ürün türüne "
+#~ "atandığından emin olun."
+
+#~ msgid "Delete product type"
+#~ msgstr "Ürün türü sil"
+
+#~ msgid "Delete product type <strong>%(name)s</strong> - are you sure?"
+#~ msgstr "<strong>%(name)s</strong> ürün türü sil - emin misiniz?"
+
+#~ msgid "Create product type"
+#~ msgstr "Ürün türü oluştur"
+
+#~ msgid "Product Class details"
+#~ msgstr "Ürün Sınıfı detayları"
+
+#~ msgid "Create new product type"
+#~ msgstr "Yeni ürün türü oluştur"
+
+#~ msgid "Product types"
+#~ msgstr "Ürün türleri"
+
+#~ msgid "Requires shipping"
+#~ msgstr "Teslimat gerekli"
+
+#~ msgid "Track stock?"
+#~ msgstr "Stok takibi?"
+
+#~ msgid "Edit product type"
+#~ msgstr "Ürün türü düzenle"
+
+#~ msgid "There are no product types."
+#~ msgstr "Hiç ürün türü bulunmuyor."
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product variant <strong>%(title)s</strong> - "
+#~ "are you sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                     <strong>%(title)s</strong> ürün varyantını sil - "
+#~ "emin misiniz?\n"
+#~ "                "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Delete product <strong>%(title)s</strong> - are you "
+#~ "sure?\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "                    <strong>%(title)s</strong> ürünleri sil - emin "
+#~ "misiniz?\n"
+#~ "                "
+
+#~ msgid "This will also delete the following child products:"
+#~ msgstr "Bu aynı zamanda listelenen alt ürünleri de silecektir:"
+
+#~ msgid "Create new product"
+#~ msgstr "Yeni ürün oluştur"
+
+#~ msgid "New Product"
+#~ msgstr "Yeni Ürün"
+
+#~ msgid "Search Products"
+#~ msgstr "Ürünleri Ara"
+
+#~ msgid "Searching..."
+#~ msgstr "Aranıyor..."
+
+#~ msgid ""
+#~ "\n"
+#~ "                            You are currently editing a product variant "
+#~ "of\n"
+#~ "                            <a href=\"%(parent_url)s\">%(title)s</a>.\n"
+#~ "                        "
+#~ msgstr ""
+#~ "\n"
+#~ "Şu anda <a href=\"%(parent_url)s\">%(title)s</a>'in\n"
+#~ "bir ürün çeşidine ait bir düzenleme yapıyorsunuz."
+
+#~ msgid "Product details"
+#~ msgstr "Ürün detayları"
+
+#~ msgid "Images"
+#~ msgstr "Resimler"
+
+#~ msgid "Stock and pricing"
+#~ msgstr "Stok ve fiyat"
+
+#~ msgid "Upselling"
+#~ msgstr "Çapraz satış"
+
+#~ msgid "Product Type:"
+#~ msgstr "Ürün Türü:"
+
+#~ msgid "Upload, change or remove images"
+#~ msgstr "Resimler yükle, değiştir veya kaldır"
+
+#~ msgid "SKU"
+#~ msgstr "SKU"
+
+#~ msgid "Num in stock"
+#~ msgstr "Stoktaki sayı"
+
+#~ msgid "Num allocated"
+#~ msgstr "Tahsis edilen numara"
+
+#~ msgid "Low stock threshold"
+#~ msgstr "Düşük stok eşiği"
+
+#~ msgid "Cost price"
+#~ msgstr "Maliyet bedeli"
+
+#~ msgid "Price (excl tax)"
+#~ msgstr "Fiyat (vergi hariç)"
+
+#~ msgid "Retail price"
+#~ msgstr "Perakende fiyatı"
+
+#~ msgid "Add variant"
+#~ msgstr "Varyant ekle"
+
+#~ msgid "This product does not have any variants."
+#~ msgstr "Bu ürünün herhangi bir varyantı yok."
+
+#~ msgid "One can't add variants to this product at this point."
+#~ msgstr "Bu noktada bu ürüne varyant eklenemez."
+
+#~ msgid "This is likely because this product still has stock records."
+#~ msgstr ""
+#~ "Bunun nedeni büyük olasılıkla bu ürünün hala stok kayıtları bulunmasıdır."
+
+#~ msgid "Save and add another variant"
+#~ msgstr "Kaydet ve başka bir varyant ekle"
+
+#~ msgid "Save and continue editing"
+#~ msgstr "Kaydet ve düzenlemeye devam et"
+
+#~ msgid "All"
+#~ msgstr "Tümü"
+
+#~ msgid "Current available stock"
+#~ msgstr "Geçerli mevcut stok"
+
+#~ msgid "Date alert raised"
+#~ msgstr "Tarih uyarısı artırıldı"
+
+#~ msgid "No stock alerts found."
+#~ msgstr "Herhangi bir stok uyarısı bulunamadı."
+
+#~ msgid "Preview"
+#~ msgstr "Önizleme"
+
+#~ msgid "Edit email"
+#~ msgstr "E-postayı düzenle"
+
+#~ msgid "Email content"
+#~ msgstr "E-posta içeriği"
+
+#~ msgid "These fields are rendered using Django's template system."
+#~ msgstr "Bu alanlar Django'nun şablon sistemi kullanılarak oluşturulmuştur."
+
+#~ msgid "You can use the following variables:"
+#~ msgstr "Listelenen değişkenleri kullanabilirsiniz:"
+
+#~ msgid "The full name of the user (if they have one)"
+#~ msgstr "Kullanıcının tam adı (eğer belirtilmiş ise)"
+
+#~ msgid "The user's email address"
+#~ msgstr "Kullanıcının e-posta adresi"
+
+#~ msgid "The name of the site (eg example.com)"
+#~ msgstr "Sitenin adı (Ör. example.com)"
+
+#~ msgid "View a preview of this email using order:"
+#~ msgstr "Siparişi kullanarak bu e-postanın önizlemesini görüntüleyin:"
+
+#~ msgid "View preview"
+#~ msgstr "Önizleme görüntüle"
+
+#~ msgid "or send a preview to:"
+#~ msgstr "veya bir önizleme gönder:"
+
+#~ msgid "Sending..."
+#~ msgstr "Gönderiliyor..."
+
+#~ msgid "Send preview email"
+#~ msgstr "Önizleme e-postası gönder"
+
+#~ msgid "Body text"
+#~ msgstr "Gövde metni"
+
+#~ msgid "There are no defined emails to edit."
+#~ msgstr "Düzenlenmesi için tanımlanan hiçbir e-posta bulunmuyor."
+
+#~ msgid "Your Store Statistics"
+#~ msgstr "Dükkanınızın İstatistikleri"
+
+#~ msgid "Total Orders"
+#~ msgstr "Toplam Siparişler"
+
+#~ msgid "New Customers"
+#~ msgstr "Yeni Müşteriler"
+
+#~ msgid "Total Customers"
+#~ msgstr "Tüm Müşteriler"
+
+#~ msgid "Total Products"
+#~ msgstr "Tüm Ürünler"
+
+#~ msgid "Latest Orders (last 24 hours)"
+#~ msgstr "En Son Siparişler (son 24 saat)"
+
+#~ msgid "Orders - Last 24 Hours"
+#~ msgstr "Siparişler - Son 24 Saat"
+
+#~ msgid "Total orders"
+#~ msgstr "Toplam siparişler"
+
+#~ msgid "Total lines"
+#~ msgstr "Toplam satırlar"
+
+#~ msgid "Total revenue"
+#~ msgstr "Toplam gelir"
+
+#~ msgid "Average order costs"
+#~ msgstr "Ortalama sipariş ücreti"
+
+#~ msgid "Manage"
+#~ msgstr "Yönet"
+
+#~ msgid "Orders - All Time"
+#~ msgstr "Siparişler - Tüm zaman"
+
+#~ msgid "Total <em>open</em> baskets"
+#~ msgstr "Toplam <em>açık</em> sepetler"
+
+#~ msgid "Total customers"
+#~ msgstr "Tüm müşteriler"
+
+#~ msgid "New customers"
+#~ msgstr "Yeni müşteriler"
+
+#~ msgid "View Stock Alerts"
+#~ msgstr "Stok uyarılarını görüntüle"
+
+#~ msgid "Catalogue and stock"
+#~ msgstr "Katalog ve stok"
+
+#~ msgid "Total products"
+#~ msgstr "Toplam ürünler"
+
+#~ msgid "<em>Open</em> stock alerts"
+#~ msgstr "<em>Açık</em>stok alarmları"
+
+#~ msgid "<em>Closed</em> stock alerts"
+#~ msgstr "<em>Kapalı</em> stok alarmları"
+
+#~ msgid "Offers, vouchers and promotions"
+#~ msgstr "Kampanyalar, kuponlar ve promosyonlar"
+
+#~ msgid "Active <em>Site</em> Offers"
+#~ msgstr "Aktif <em>Site</em> Teklifler"
+
+#~ msgid "Active <em>Vouchers</em>"
+#~ msgstr "Aktif <em>Kuponlar</em>"
+
+#~ msgid "Welcome"
+#~ msgstr "Hoşgeldiniz"
+
+#~ msgid "Return to site"
+#~ msgstr "Siteye geri dön"
+
+#~ msgid "Log out"
+#~ msgstr "Çıkış"
+
+#~ msgid "Build a new incentive"
+#~ msgstr "Yeni bir teşvik oluşturun"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Ranges can be created and edited from within the <a href="
+#~ "\"%(range_list_url)s\">range dashboard</a>.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "Aralıklar <a href=\"%(range_list_url)s\">aralık panosu</a>içerisinden "
+#~ "oluşturabilir ve düzenlenebilir."
+
+#~ msgid "...or choose a pre-defined one"
+#~ msgstr "... veya önceden tanımlanmış olanını seç"
+
+#~ msgid "Continue to step 3"
+#~ msgstr "3. adıma geçin"
+
+#~ msgid "Build a new condition"
+#~ msgstr "Yeni bir durum oluştur"
+
+#~ msgid "Continue to step 4"
+#~ msgstr "4. adıma geçin"
+
+#~ msgid "Continue to step 2"
+#~ msgstr "2. adıma geçin"
+
+#~ msgid "Delete offer"
+#~ msgstr "Siparişi sil"
+
+#~ msgid "Are you sure you want to delete this offer?"
+#~ msgstr "Bu siparişi silmek istediğinize emin misiniz?"
+
+#~ msgid ""
+#~ "\n"
+#~ "        %(name)s | Offers\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "%(name)s | Kampanyalar\n"
+#~ " "
+
+#~ msgid "Reinstating..."
+#~ msgstr "Geri alınıyor..."
+
+#~ msgid "Reinstate offer"
+#~ msgstr "Kampanyayı yeniden etkinleştir"
+
+#~ msgid "Suspending..."
+#~ msgstr "Askıya alınıyor..."
+
+#~ msgid "Suspend offer"
+#~ msgstr "Kampanyayı durdur"
+
+#~ msgid "Offer currently available"
+#~ msgstr "Kampanya şu anda mevcut"
+
+#~ msgid "Offer not available due to restrictions!"
+#~ msgstr "Sınırlamalar nedeniyle kampanya geçerli değil!"
+
+#~ msgid "Total cost:"
+#~ msgstr "Toplam tutar:"
+
+#~ msgid "Number of orders:"
+#~ msgstr "Siparişler adedi"
+
+#~ msgid "Number of uses:"
+#~ msgstr "Kullanım sayısı:"
+
+#~ msgid "Date created:"
+#~ msgstr "Oluşturulma zamanı:"
+
+#~ msgid "Offer details"
+#~ msgstr "Kampanya detayları"
+
+#~ msgid "Export to CSV"
+#~ msgstr "CSV olarak dışa aktar"
+
+#~ msgid "Orders that used this offer"
+#~ msgstr "Bu kampanyayı kullanan siparişler"
+
+#~ msgid "Create new offer"
+#~ msgstr "Yeni kampanya oluştur"
+
+#~ msgid "Is available?"
+#~ msgstr "Mevcut mu?"
+
+#~ msgid "Uses"
+#~ msgstr "Kullanımlar"
+
+#~ msgid "Browse"
+#~ msgstr "Göz at"
+
+#~ msgid "Stats"
+#~ msgstr "İstatistikler"
+
+#~ msgid "No offers found."
+#~ msgstr "Hiç kampanya bulunamadı."
+
+#~ msgid "Steps"
+#~ msgstr "Adımlar"
+
+#~ msgid "1. Name and description"
+#~ msgstr "1. İsim ve açıklama"
+
+#~ msgid "2. Incentive"
+#~ msgstr "2. Teşvik"
+
+#~ msgid "3. Condition"
+#~ msgstr "3. Şart"
+
+#~ msgid "4. Restrictions"
+#~ msgstr "4. Kısıtlamalar"
+
+#~ msgid "Save this offer"
+#~ msgstr "Bu kampanyayı kaydet"
+
+#~ msgid "Fields marked with * are mandatory."
+#~ msgstr "* sembolü içeren alanlar zorunludur."
+
+#~ msgid "Save changes"
+#~ msgstr "Değişiklikleri kaydet"
+
+#~ msgid "Offer summary"
+#~ msgstr "Kampanya özeti"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Order %(number)s - Line #%(id)s\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "Sipariş%(number)s-Satır #%(id)s"
+
+#~ msgid "Line #%(id)s"
+#~ msgstr "Satır #%(id)s"
+
+#~ msgid "Order #%(number)s - Line #%(id)s"
+#~ msgstr "Sipariş  #%(number)s  - Hat  #%(id)s"
+
+#~ msgid "Product Options"
+#~ msgstr "Ürün Seçenekleri"
+
+#~ msgid "Partner details"
+#~ msgstr "Tedarikçi alanları"
+
+#~ msgid "Shipping details"
+#~ msgstr "Teslimat detayları"
+
+#~ msgid "Partner reference number"
+#~ msgstr "Tedarikçi referansı numarası"
+
+#~ msgid "Partner notes"
+#~ msgstr "Tedarikçi notları"
+
+#~ msgid "Estimate dispatch date"
+#~ msgstr "Tahmini gönderim tarihi"
+
+#~ msgid "Shipping status"
+#~ msgstr "Teslimat tutarı"
+
+#~ msgid "State"
+#~ msgstr "Eyalet"
+
+#~ msgid "No shipping events have occurred."
+#~ msgstr "Herhangi bir teslimat olayı oluşturulmadı."
+
+#~ msgid "Shipping events"
+#~ msgstr "Teslimat olayları"
+
+#~ msgid "Payment events"
+#~ msgstr "Ödeme olayları"
+
+#~ msgid "No payment events have occurred."
+#~ msgstr "Herhangi bir ödeme olayı meydana gelmedi."
+
+#~ msgid "Order %(number)s"
+#~ msgstr "Sipariş %(number)s"
+
+#~ msgid "Customer Information"
+#~ msgstr "Müşteri Bilgisi"
+
+#~ msgid "Customer checked out as a guest."
+#~ msgstr "Müşteri misafir olarak çıkış yaptı."
+
+#~ msgid "Customer has deleted their account."
+#~ msgstr "Müşteri hesabını kaldırdı."
+
+#~ msgid "Order information"
+#~ msgstr "Sipariş bilgisi"
+
+#~ msgid "Order Total"
+#~ msgstr "Sipariş Toplamı"
+
+#~ msgid "Time of purchase"
+#~ msgstr "Satın alınma zamanı"
+
+#~ msgid "Order Details"
+#~ msgstr "Sipariş Detayları"
+
+#~ msgid "Discounts"
+#~ msgstr "İndirimler"
+
+#~ msgid "Items ordered"
+#~ msgstr "Sipariş edilen ürünler"
+
+#~ msgid "Line ID"
+#~ msgstr "Satır no"
+
+#~ msgid "Supplier"
+#~ msgstr "Satıcı"
+
+#~ msgid "Supplier SKU"
+#~ msgstr "Satıcı SKU"
+
+#~ msgid "Est. dispatch date"
+#~ msgstr "Tahmini gönderim tarihi"
+
+#~ msgid "Price excl tax (before discounts)"
+#~ msgstr "Fiyat vergi hariç (indirimlerden önce)"
+
+#~ msgid "Price inc tax (before discounts)"
+#~ msgstr "Fiyat vergi dahil (indirimlerden önce)"
+
+#~ msgid "With selected lines"
+#~ msgstr "Seçili satırlar ile"
+
+#~ msgid "Change line status to"
+#~ msgstr "Satır durumunu şuna değiştir"
+
+#~ msgid "choose new status"
+#~ msgstr "yeni durum seç"
+
+#~ msgid "Create shipping event"
+#~ msgstr "Teslimat olayı oluştur"
+
+#~ msgid "choose event type"
+#~ msgstr "olay türünü seç"
+
+#~ msgid "with reference"
+#~ msgstr "referans ile "
+
+#~ msgid "Create payment event"
+#~ msgstr "Ödeme olayı oluştur"
+
+#~ msgid "with amount"
+#~ msgstr "miktar ile"
+
+#~ msgid "Go!"
+#~ msgstr "Git!"
+
+#~ msgid "Change order status"
+#~ msgstr "Sipariş durumunu değiştir"
+
+#~ msgid "Change status"
+#~ msgstr "Durumu değiştir"
+
+#~ msgid "This order can't have its status changed."
+#~ msgstr "Bu siparişin  durumu değiştirilemez."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                                %(title)s "
+#~ "(quantity %(event_qty)s/%(total_qty)s)\n"
+#~ "                                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "%(title)s(miktar %(event_qty)s/%(total_qty)s)"
+
+#~ msgid "No shipping events."
+#~ msgstr "Herhangi bir teslimat olayı yok."
+
+#~ msgid "Product:"
+#~ msgstr "Ürün:"
+
+#~ msgid "quantity"
+#~ msgstr "adet"
+
+#~ msgid "No payment events."
+#~ msgstr "Herhangi bir ödeme olayı yok."
+
+#~ msgid "Method name"
+#~ msgstr "Method adı"
+
+#~ msgid "Method code"
+#~ msgstr "Method kodu"
+
+#~ msgid "Charge (incl tax)"
+#~ msgstr "Ücret (vergiler dahil)"
+
+#~ msgid "Charge (excl tax)"
+#~ msgstr "Ücret (vergiler hariç)"
+
+#~ msgid "Payment sources"
+#~ msgstr "Ödeme kaynakları"
+
+#~ msgid "Allocation"
+#~ msgstr "Pay etme"
+
+#~ msgid "Amount debited"
+#~ msgstr "Borçlandırılan miktar"
+
+#~ msgid "Amount refunded"
+#~ msgstr "Geri Ödenecek Tutar"
+
+#~ msgid "No payment sources found for this order."
+#~ msgstr "Bu sipariş için herhangi bir ödeme kaynağı bulunamadı."
+
+#~ msgid "No discounts were applied to this order."
+#~ msgstr "Bu siparişe hiçbir indirim uygulanmadı."
+
+#~ msgid "Admin"
+#~ msgstr "Admin"
+
+#~ msgid "No notes available."
+#~ msgstr "Hiç not mevcut değil."
+
+#~ msgid "Save note"
+#~ msgstr "Notu kaydet"
+
+#~ msgid "Notes are only editable for 5 minutes after being saved."
+#~ msgstr "Notlar sadece kaydedildikten 5 dakika sonra tekrar düzenlenebilir."
+
+#~ msgid "Advanced Search"
+#~ msgstr "Detaylı Arama"
+
+#~ msgid "Close"
+#~ msgstr "Kapat"
+
+#~ msgid "Order Search Results"
+#~ msgstr "Sipariş Arama Sonuçları"
+
+#~ msgid "All Orders"
+#~ msgstr "Tüm Siparişler"
+
+#~ msgid "Download selected orders as a CSV"
+#~ msgstr "Seçilen siparişleri CSV dosyası olarak indir"
+
+#~ msgid "Deleted"
+#~ msgstr "Silindi"
+
+#~ msgid "Changing..."
+#~ msgstr "Değiştiriliyor..."
+
+#~ msgid "No orders found."
+#~ msgstr "Hiç sipariş bulunamadı."
+
+#~ msgid "Print Packaging Slips"
+#~ msgstr "Baskı Ambalajı Fişleri"
+
+#~ msgid "Mark as"
+#~ msgstr "İşaretle"
+
+#~ msgid "Change order status to"
+#~ msgstr "Sipariş durumunu şuna değiştir:"
+
+#~ msgid "Done"
+#~ msgstr "Tamamlandı"
+
+#~ msgid "Edit shipping address"
+#~ msgstr "Teslimat adresini düzenle"
+
+#~ msgid "Edit shipping address for order %(order.number)s"
+#~ msgstr "%(order.number)s numaralı siparişin teslimat adresini düzenle"
+
+#~ msgid "Update address"
+#~ msgstr "Adresi güncelle"
+
+#~ msgid "Order statistics"
+#~ msgstr "Sipariş durumları"
+
+#~ msgid "Filter result"
+#~ msgstr "Filtreleme sonuçları"
+
+#~ msgid "Summary"
+#~ msgstr "Özet"
+
+#~ msgid "Order status breakdown"
+#~ msgstr "Sipariş durumu analizi"
+
+#~ msgid "Delete page '%(title)s'?"
+#~ msgstr "'%(title)s' isimli sayfayı sil?"
+
+#~ msgid "Delete page"
+#~ msgstr "Sayfayı sil"
+
+#~ msgid "Delete page <strong>%(title)s</strong> - are you sure?"
+#~ msgstr "<strong>%(title)s</strong> sayfasını sil - emin misiniz?"
+
+#~ msgid "Create new page"
+#~ msgstr "Yeni sayfa oluştur"
+
+#~ msgid "No pages found."
+#~ msgstr "Sayfa bulunamadı."
+
+#~ msgid ""
+#~ "\n"
+#~ "        Page <strong>%(title)s</strong> saved!\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong>sayfası kaydedildi!"
+
+#~ msgid "Oops! We found some errors"
+#~ msgstr "Oops! Bazı hatalar oluştu"
+
+#~ msgid "please check the error messages below and try again"
+#~ msgstr "Lütfen aşağıdaki hata mesajına göz atıp yeniden deneyin"
+
+#~ msgid "previous"
+#~ msgstr "geri"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Page %(page_num)s of %(total_pages)s\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "%(total_pages)s'nun %(page_num)ssayfası"
+
+#~ msgid "next"
+#~ msgstr "sıradaki"
+
+#~ msgid ""
+#~ "\n"
+#~ "User %(user_name)s was unlinked from %(partner_name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "%(user_name)skullanıcısının %(partner_name)sile bağlantısı koparıldı.\n"
+
+#~ msgid "Undo"
+#~ msgstr "Geri al"
+
+#~ msgid "Delete partner"
+#~ msgstr "Tedarikçiyi sil"
+
+#~ msgid "Are you sure you want to delete this partner?"
+#~ msgstr "Bu tedarikçiyi silmek istediğinize emin misiniz?"
+
+#~ msgid "Edit the user's details"
+#~ msgstr "Kullanıcı detaylarını düzenleyiniz"
+
+#~ msgid "No users associated."
+#~ msgstr "İlgili kullanıcı bulunamadı."
+
+#~ msgid "No address associated."
+#~ msgstr "İlgili adres bulunamadı."
+
+#~ msgid "Manage partner and users"
+#~ msgstr "Tedarikçi ve kullanıcıları yönetin"
+
+#~ msgid "Link an existing user"
+#~ msgstr "Mevcut bir kullanıcıya bağlan"
+
+#~ msgid "Link a new user"
+#~ msgstr "Yeni bir kullanıcı bağlayın"
+
+#~ msgid "No partners found."
+#~ msgstr "Herhangi bir tedarikçi bulunamadı."
+
+#~ msgid "Unlinking..."
+#~ msgstr "Bağlantı kaldırılıyor..."
+
+#~ msgid "Unlink user"
+#~ msgstr "Kullanıcının bağlantısını kaldır"
+
+#~ msgid "No users linked."
+#~ msgstr "Hiçbir kullanıcı bağlantılı değil."
+
+#~ msgid "Link a user"
+#~ msgstr "Bir kullanıcı bağla."
+
+#~ msgid "Manage users"
+#~ msgstr "Kullanıcıları yönet"
+
+#~ msgid "Update details"
+#~ msgstr "Güncelleme detayları"
+
+#~ msgid ""
+#~ "A partial email address can be entered (eg '@example.com') to match "
+#~ "multiple addresses."
+#~ msgstr ""
+#~ "Birden fazla adresi eşleştirmek için kısmi bir e-posta adresi (örn. "
+#~ "'@örnek.com') girilebilir."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                User is already linked to "
+#~ "%(name)s.\n"
+#~ "                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "Kullanıcı zaten %(name)s'a bağlandı."
+
+#~ msgid "Linking..."
+#~ msgstr "Bağlanıyor..."
+
+#~ msgid "Link user"
+#~ msgstr "Kullanıcı bağla"
+
+#~ msgid "No users found."
+#~ msgstr "Hiç kullanıcı bulunamadı."
+
+#~ msgid "Delete content block '%(name)s'?\""
+#~ msgstr "'%(name)s' içerik bloğu silinsin mi?"
+
+#~ msgid "Delete content block"
+#~ msgstr "İçerik bloğunu sil"
+
+#~ msgid ""
+#~ "Delete %(object.type)s content block <strong>%(object.name)s</strong> - "
+#~ "are you sure?"
+#~ msgstr ""
+#~ "%(object.type)s içerik bloğu <strong>%(object.name)s</strong>'nu sil - "
+#~ "emin misiniz?"
+
+#~ msgid "Remove promotion from page?"
+#~ msgstr "Promosyon sayfadan kaldırılsın mı?"
+
+#~ msgid "Remove promotion"
+#~ msgstr "Promosyonu kaldır"
+
+#~ msgid ""
+#~ "Remove %(object.content_object.type)s content block <strong>%(object."
+#~ "name)s</strong> from page <strong>%(object.page_url)s</strong> - are you "
+#~ "sure?"
+#~ msgstr ""
+#~ " %(object.content_object.type)s içerik bloğu <strong>%(object.name)s</"
+#~ "strong>'nu <strong>%(object.page_url)s</strong> sayfasından kaldır - emin "
+#~ "misiniz?"
+
+#~ msgid "Content block"
+#~ msgstr "İçerik bloğu"
+
+#~ msgid "Pages displaying this content blocks"
+#~ msgstr "Bu içerik bloğunu gösteren sayfalar"
+
+#~ msgid "Position on page"
+#~ msgstr "Sayfadaki konum"
+
+#~ msgid "View all blocks on this page"
+#~ msgstr "Bu sayfadaki bütün blokları görüntüle"
+
+#~ msgid "Remove from page"
+#~ msgstr "Sayfadan kaldır"
+
+#~ msgid "This promotion is not displayed anywhere at the moment."
+#~ msgstr "Bu promosyon şu anda hiçbir yerde görüntülenemiyor."
+
+#~ msgid "Add to a page"
+#~ msgstr "Bir sayfaya ekle"
+
+#~ msgid "Add to page"
+#~ msgstr "Sayfaya ekle"
+
+#~ msgid "Content blocks for page %(page_url)s"
+#~ msgstr "%(page_url)ssayfası için içerik blokları"
+
+#~ msgid "Content blocks on page '%(page_url)s'"
+#~ msgstr "'%(page_url)s' sayfası için içerik blokları"
+
+#~ msgid "Edit promotions in position '%(name)s'"
+#~ msgstr "'%(name)s' konumundaki promosyonları düzenle"
+
+#~ msgid "Promotion Name"
+#~ msgstr "Promosyon Adı"
+
+#~ msgid "Change display order"
+#~ msgstr "Görüntülenme sırasını değiştir"
+
+#~ msgid "No promotions in this position."
+#~ msgstr "Bu konumda bir promosyon bulunamadı."
+
+#~ msgid "Pages with content blocks"
+#~ msgstr "İçerik blokları olan sayfalar"
+
+#~ msgid "View by page"
+#~ msgstr "Sayfaya göre görüntüle"
+
+#~ msgid "View all content blocks"
+#~ msgstr "Tüm içerik bloklarını görüntüle"
+
+#~ msgid "View content blocks by page"
+#~ msgstr "İçerik bloklarını sayfaya göre görüntüle"
+
+#~ msgid "Pages with content blocks on them"
+#~ msgstr "Üzerinde içerik bloğu bulunan sayfalar"
+
+#~ msgid "Number of content blocks"
+#~ msgstr "İçerik bloklarının sayısı"
+
+#~ msgid "No content blocks found."
+#~ msgstr "Herhangi bir içerik bloğu bulunamadı."
+
+#~ msgid "Create a new content block"
+#~ msgstr "Yeni bir içerik bloğu yarat"
+
+#~ msgid "Creating..."
+#~ msgstr "Oluşturuluyor..."
+
+#~ msgid "Create block"
+#~ msgstr "Blok oluştur"
+
+#~ msgid "Number of times used"
+#~ msgstr "Kullanım sayısı"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>File <strong>%(filename)s</strong> processed.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Dosya<strong>%(filename)s</strong> işlendi.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> product added\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> products added\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> adet ürün eklendi\n"
+#~ "            "
+#~ msgstr[1] ""
+#~ "\n"
+#~ "                <strong>%(n)s</strong> adet ürün eklendi\n"
+#~ "            "
+
+#~ msgid ""
+#~ "\n"
+#~ "                There was <strong>%(n)s</strong> duplicate product in the "
+#~ "file\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                There were <strong>%(n)s</strong> duplicate products in "
+#~ "the file\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "Dosyada <strong>%(n)s</strong>tane aynı üründen vardı"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "Dosyada <strong>%(n)s</strong>tane aynı ürünlerden vardı."
+
+#~ msgid ""
+#~ "\n"
+#~ "                There was <strong>%(n)s</strong> product in the file that "
+#~ "couldn't be found in the catalogue\n"
+#~ "            "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                There were <strong>%(n)s</strong> products in the file "
+#~ "that couldn't be found in the catalogue\n"
+#~ "            "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "Dosyada katalogda bulunamayan <strong>%(n)s</strong>ürünü bulundu"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "Dosyada katalogda bulunamayan <strong>%(n)s</strong>ürünleri bulundu."
+
+#~ msgid "Edit range metadata"
+#~ msgstr "Üstveri aralığını düzenle"
+
+#~ msgid "Return to ranges homepage"
+#~ msgstr "Aralık listesine geri dön"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>Range <strong>%(name)s</strong> saved.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Aralık<strong>%(name)s</strong>kaydedildi.</p>\n"
+
+#~ msgid "Edit included products"
+#~ msgstr "Dahil olan ürünleri düzenle"
+
+#~ msgid "Delete range '%(name)s'?"
+#~ msgstr "'%(name)s' aralığı silinsin mi?"
+
+#~ msgid "Are you sure you want to delete this range?"
+#~ msgstr "Bu aralığı silmek istediğinize emin misiniz?"
+
+#~ msgid "Create new range"
+#~ msgstr "Yeni aralık oluştur"
+
+#~ msgid "Save and edit products"
+#~ msgstr "Kaydet ve ürünleri düzenle"
+
+#~ msgid "Num products"
+#~ msgstr "Ürünlerin numaraları"
+
+#~ msgid "Edit products"
+#~ msgstr "Ürünleri düzenle"
+
+#~ msgid "No ranges found."
+#~ msgstr "Bir aralık bulunamadı."
+
+#~ msgid "Products in range '%(name)s'"
+#~ msgstr "'%(name)s' aralığındaki ürünler"
+
+#~ msgid "products"
+#~ msgstr "ürünler"
+
+#~ msgid ""
+#~ "This range contains all products. To add products manually, please "
+#~ "unselect the 'Includes All Products' option on the edit range page."
+#~ msgstr ""
+#~ "Bu aralık tüm ürünleri içermektedir. Ürünleri el ile eklemek için, lütfen "
+#~ "düzenleme aralığı sayfasındaki 'Tüm Ürünleri Dahil Et' seçeneğini "
+#~ "kaldırın."
+
+#~ msgid "Add products"
+#~ msgstr "Ürünler ekle"
+
+#~ msgid "Running..."
+#~ msgstr "İşleniyor..."
+
+#~ msgid "Upload history"
+#~ msgstr "Yükleme geçmişi"
+
+#~ msgid "Filename"
+#~ msgstr "Dosya adı"
+
+#~ msgid "New products"
+#~ msgstr "Yeni ürünler"
+
+#~ msgid "Duplicate products"
+#~ msgstr "Yinelenen ürünler"
+
+#~ msgid "Unknown products"
+#~ msgstr "Bilinmeyen ürünler"
+
+#~ msgid "Date uploaded"
+#~ msgstr "Yüklenen tarih"
+
+#~ msgid "Products in range"
+#~ msgstr "Aralığındaki ürünler"
+
+#~ msgid "Remove selected products"
+#~ msgstr "Seçili ürünleri kaldır"
+
+#~ msgid "Is product discountable?"
+#~ msgstr "Bu ürün indirim yapılabilir bir ürün mü?"
+
+#~ msgid "Products in Range"
+#~ msgstr "Aralığındaki ürünler"
+
+#~ msgid "Edit range"
+#~ msgstr "Aralığını düzenle"
+
+#~ msgid "return to range list"
+#~ msgstr "Aralık listesine geri dön"
+
+#~ msgid "Reporting Dashboard"
+#~ msgstr "Raporların panosu"
+
+#~ msgid "Reporting dashboard"
+#~ msgstr "Raporların panosu"
+
+#~ msgid "Generating..."
+#~ msgstr "Oluşturuluyor..."
+
+#~ msgid "Generate report"
+#~ msgstr "Rapor oluştur"
+
+#~ msgid "No results found."
+#~ msgstr "Hiç sonuç bulunamadı."
+
+#~ msgid "No vouchers were used in this period"
+#~ msgstr "Bu dönemde herhangi bir kupon kullanılmadı"
+
+#~ msgid "Delete review '%(title)s'?"
+#~ msgstr "'%(title)s' değerlendirmesi silinsin mi?"
+
+#~ msgid "Delete review \"%(title)s\"?"
+#~ msgstr "\"%(title)s\" değerlendirmesi silinsin mi?"
+
+#~ msgid "Review"
+#~ msgstr "Değerlendirme"
+
+#~ msgid "Review Search"
+#~ msgstr "Aramayı incele"
+
+#~ msgid "Update status of selected reviews"
+#~ msgstr "Seçili değerlendirmelerin durumunu güncelle"
+
+#~ msgctxt "Review title"
+#~ msgid "Title"
+#~ msgstr "Başlık"
+
+#~ msgid "[Product deleted]"
+#~ msgstr "[Ürün silindi]"
+
+#~ msgid "No reviews found."
+#~ msgstr "Herhangi bir değerlendirme bulunamadı."
+
+#~ msgid "Update review"
+#~ msgstr "Değerlendirme güncelleme"
+
+#~ msgid "Review #%(review.id)s"
+#~ msgstr "Değerlendirme #%(review.id)s"
+
+#~ msgid "Review information"
+#~ msgstr "Değerlendirme bilgisi"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>A weight band has been added to the <strong>%(name)s</strong> "
+#~ "shipping method.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Bir ağırlık bandı, <strong>%(name)s</strong>teslimat yöntemine "
+#~ "eklenmiştir.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>Weight band deleted from the <strong>%(name)s</strong> shipping "
+#~ "method \n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Ağırlık bandı <strong>%(name)s</strong>teslimat yönteminden silindi\n"
+
+#~ msgid "Weight band updated"
+#~ msgstr "Ağırlık bandı güncellendi"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>A shipping method <strong>%(name)s</strong> has been created.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p><strong>%(name)s</strong> isimli teslimat methodu oluşturuldu.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been deleted.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "    <p><strong>%(name)s</strong> isimli teslimat methodu silindi.</p>\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>The <strong>%(name)s</strong> shipping method has been updated.</"
+#~ "p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "    <p><strong>%(name)s</strong> isimli teslimat methodu güncellendi.</"
+#~ "p>\n"
+
+#~ msgid "Delete weight band?"
+#~ msgstr "Ağırlık bandı silinsin mi?"
+
+#~ msgid "Shipping methods"
+#~ msgstr "Teslimat methodları"
+
+#~ msgid "Weight range (kg)"
+#~ msgstr "Ağırlık sınırı (kg)"
+
+#~ msgid "Are you sure you want to delete this weight band method?"
+#~ msgstr "Bu ağırlık bandı yöntemini silmek istediğinize emin misiniz?"
+
+#~ msgid "Edit weight band"
+#~ msgstr "Ağırlık bandını düzenle"
+
+#~ msgid "Delete shipping method '%(name)s'?"
+#~ msgstr "'%(name)s' isimli teslimat methodunu sil?"
+
+#~ msgid "Are you sure you want to delete this shipping method?"
+#~ msgstr "Bu teslimat methodunu silmek istediğinizden emin misiniz?"
+
+#~ msgid "Applies to countries"
+#~ msgstr "Ülkelere uygulanır"
+
+#~ msgid "Default product weight (kg)"
+#~ msgstr "Varsayılan ürün ağırlığı (kg olarak)"
+
+#~ msgid "Edit shipping method"
+#~ msgstr "Teslimat methodunu düzenle"
+
+#~ msgid "Delete shipping method"
+#~ msgstr "Teslimat methodunu sil"
+
+#~ msgid "Weight bands"
+#~ msgstr "Ağırlık bantları"
+
+#~ msgid "No weight bands have been added yet."
+#~ msgstr "Henüz bir ağırlık bandı eklenmedi."
+
+#~ msgid "Add a new weight band"
+#~ msgstr "Yeni bir ağırlık bandı ekle"
+
+#~ msgid "Add weight band"
+#~ msgstr "Ağırlık bandı ekle"
+
+#~ msgid "Create a new shipping method"
+#~ msgstr "Yeni teslimat methodu oluştur"
+
+#~ msgid "Create new shipping charge"
+#~ msgstr "Yeni teslimat ücreti oluştur"
+
+#~ msgid "Number of weight bands"
+#~ msgstr "Ağırlık bantlarını düzenle"
+
+#~ msgid "Default weight (kg)"
+#~ msgstr "Varsayılan ağırlık (kg)"
+
+#~ msgid "No shipping methods found."
+#~ msgstr "Hiçbir teslimat methodu bulunamadı."
+
+#~ msgid "Alert #%(id)s"
+#~ msgstr "Uyarı #%(id)s"
+
+#~ msgid "Delete alert #%(id)s?"
+#~ msgstr "#%(id)s uyarısı silinsin mi?"
+
+#~ msgid "Product alert #%(id)s"
+#~ msgstr "Ürün uyarısı #%(id)s"
+
+#~ msgid "Are you sure that you want to delete this alert?"
+#~ msgstr "Bu uyarıyı silmek istediğinize emin misiniz?"
+
+#~ msgid "Search product alerts"
+#~ msgstr "Ürün uyarılarını ara"
+
+#~ msgid "reset"
+#~ msgstr "sıfırla"
+
+#~ msgid "Date alert sent"
+#~ msgstr "Tarih uyarısı gönderildi"
+
+#~ msgid "(Anonymous)"
+#~ msgstr "(Anonim)"
+
+#~ msgid "No alerts found."
+#~ msgstr "Herhangi bir uyarı bulunamadı."
+
+#~ msgid "Update alert #%(id)s"
+#~ msgstr "Güncelleme uyarısı #%(id)s"
+
+#~ msgid "General"
+#~ msgstr "Genel"
+
+#~ msgid "Yes,No"
+#~ msgstr "Evet,Hayır"
+
+#~ msgid "Superuser"
+#~ msgstr "Superkullanıcı"
+
+#~ msgid "True,False"
+#~ msgstr "Doğru,Yanlış"
+
+#~ msgid "Staff"
+#~ msgstr "Ekip"
+
+#~ msgid "Last login"
+#~ msgstr "Son giriş"
+
+#~ msgid "Date joined"
+#~ msgstr "Katılma tarihi"
+
+#~ msgid "Products viewed"
+#~ msgstr "İncelenen ürünler"
+
+#~ msgid "Number of orders"
+#~ msgstr "Sipariş sayısı"
+
+#~ msgid "Number of ordered items"
+#~ msgstr "Sipariş verilen ürünlerin sayısı"
+
+#~ msgid "Reviews written"
+#~ msgstr "Yapılan yorumlar"
+
+#~ msgid "Send password reset email"
+#~ msgstr "Parola sıfırlama e-postası gönder"
+
+#~ msgid "Order Number"
+#~ msgstr "Sipariş Numarası"
+
+#~ msgid "Total value"
+#~ msgstr "Toplam değer"
+
+#~ msgid "This customer has not placed any orders yet."
+#~ msgstr "Bu müşteri henüz hiçbir sipariş vermedi."
+
+#~ msgid "This customer has not saved any addresses."
+#~ msgstr "Müşteri henüz bir adres eklemedi"
+
+#~ msgid "Product ID"
+#~ msgstr "Ürün No"
+
+#~ msgid "This customer has not written any reviews yet."
+#~ msgstr "Bu müşteri henüz hiçbir yorum yazmadı."
+
+#~ msgid "No customers found."
+#~ msgstr "Hiçbir müşteri bulunamadı."
+
+#~ msgid "Bulk Actions"
+#~ msgstr "Toplum Eylemler"
+
+#~ msgid "With selected customers:"
+#~ msgstr "Seçili müşteriler ile:"
+
+#~ msgid "Make active"
+#~ msgstr "Aktif yap"
+
+#~ msgid "Make inactive"
+#~ msgstr "Pasif yap"
+
+#~ msgid "Delete voucher '%(name)s'?"
+#~ msgstr "'%(name)s' isimli kuponu sil?"
+
+#~ msgid "Voucher details"
+#~ msgstr "Kupon detayları"
+
+#~ msgid "Number of basket additions"
+#~ msgstr "Sepete eklemelerin sayısı"
+
+#~ msgid "Recent orders"
+#~ msgstr "Son siparişler"
+
+#~ msgid "No orders have been placed that use this voucher."
+#~ msgstr "Bu kuponu kullanabilmek için hiçbir sipariş seçilmedi."
+
+#~ msgid "Edit voucher"
+#~ msgstr "Kuponu güncelle"
+
+#~ msgid "Create new voucher"
+#~ msgstr "Yeni kupon oluştur"
+
+#~ msgid "Num baskets"
+#~ msgstr "Sepetlerin numaraları"
+
+#~ msgid "Num orders"
+#~ msgstr "Sipariş numaraları"
+
+#~ msgid "Inactive"
+#~ msgstr "Pasif"
+
+#~ msgid "No vouchers found."
+#~ msgstr "Hiçbir kupon bulunamadı."
+
+#~ msgid "Sorry!"
+#~ msgstr "Üzgünüm!"
+
+#~ msgid "Return to previous page"
+#~ msgstr "Önceki sayfaya dön"
+
+#~ msgid "Go to homepage"
+#~ msgstr "Anasayfaya git"
+
+#~ msgid "Edit this page"
+#~ msgstr "Bu sayfayı düzenle"
+
+#~ msgid "thumbnail"
+#~ msgstr "Küçük resim"
+
+#~ msgid "Unrecognized image type!"
+#~ msgstr "Tanımlanamayan resim türü"
+
+#~ msgid "Upload Image"
+#~ msgstr "Resim yükle"
+
+#~ msgid "This page is only available to users who aren't logged in."
+#~ msgstr "Bu sayfa sadece giriş yapmayan kullanıcılar için ulaşılabilir."
+
+#~ msgid " This offer is no longer available."
+#~ msgstr "Bu kampanya artık mevcut değil."
+
+#~ msgid "What you need to do"
+#~ msgstr "Ne yapmak istiyorsunuz"
+
+#~ msgid "There are no site offers at the moment."
+#~ msgstr "Şu anda kampanya öneren bir site bulunmuyor."
+
+#~ msgid "Browse products in offer"
+#~ msgstr "Kampanyada olan ürünlere gözat"
+
+#~ msgid "See more"
+#~ msgstr "Daha fazla"
+
+#~ msgid "Password reset complete"
+#~ msgstr "Parola sıfırlama tamamlandı"
+
+#~ msgid "Password reset"
+#~ msgstr "Parola sıfırlama"
+
+#~ msgid "Complete"
+#~ msgstr "Tamamlandı"
+
+#~ msgid "Your password has been set.  You may go ahead and log in now."
+#~ msgstr "Parolanız ayarlandı. Devam etmek için şimdi giriş yapabilirsiniz."
+
+#~ msgid "Log in"
+#~ msgstr "Giriş yap"
+
+#~ msgid "Enter a new password"
+#~ msgstr "Yeni bir parola girin"
+
+#~ msgid ""
+#~ "Please enter your new password twice so we can verify you typed it in "
+#~ "correctly."
+#~ msgstr ""
+#~ "Doğru olarak yazıldığını doğrulamamız için lütfen parolanızı iki kez "
+#~ "girin."
+
+#~ msgid "Change my password"
+#~ msgstr "Parolamı değiştir"
+
+#~ msgid "Password reset unsuccessful"
+#~ msgstr "Parola sıfırlama başarısız"
+
+#~ msgid ""
+#~ "The password reset link was invalid, possibly because it has already been "
+#~ "used.  Please request a new password reset."
+#~ msgstr ""
+#~ "Parola sıfırlama bağlantısı geçersiz, önceden kullanılmış olabilir. "
+#~ "Lütfen, yeni bir parolama sıfırlaması isteyin."
+
+#~ msgid "Password reset email sent"
+#~ msgstr "Parola sıfırlama e-postası gönderildi"
+
+#~ msgid "Email sent"
+#~ msgstr "E-posta gönderildi"
+
+#~ msgid ""
+#~ "\n"
+#~ "        We've e-mailed you instructions for resetting your password. You "
+#~ "should be receiving it shortly.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        Size parola sıfırlama işlemlerini içeren bir e-posta gönderdik. "
+#~ "Kısa zamanda size ulaşmış olacaktır.\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "        If you don't receive an email, please make sure you've entered "
+#~ "the address you registered with, and check\n"
+#~ "        your spam folder.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        Eğer bir e-posta almadıysanız, girdiğiniz e-posta adresinin üye "
+#~ "olduğunuz adres olduğundan emin olun\n"
+#~ "        ve spam dosyanızı da kontrol edin.\n"
+#~ "    "
+
+#~ msgid ""
+#~ "Forgotten your password? Enter your e-mail address below, and we'll e-"
+#~ "mail instructions for setting a new one."
+#~ msgstr ""
+#~ "Parolanızı mı unuttunuz? Aşağıdaki alana e-posta adresinizi girin, bizde "
+#~ "size yeni şifrenizi oluşturmak için yapmanız gereken işlemleri gönderelim."
+
+#~ msgid "Send reset email"
+#~ msgstr "Sıfırlama e-postası gönder"
+
+#~ msgid "Refine your search"
+#~ msgstr "Aramanı düzelt"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Products matching \"%(q)s\"\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "        \"%(q)s\" ile eşleşen ürünler\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "                    Found <strong>%(num_results)s</strong> results, "
+#~ "showing <strong>%(start)s</strong> to <strong>%(end)s</strong>.\n"
+#~ "                "
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(start)s</strong>'dan <strong>%(end)s</strong>'a kadar gösteren  "
+#~ "<strong>%(num_results)s</strong>sonuçları bulundu."
+
+#~ msgid "Found <strong>0</strong> results."
+#~ msgstr "<strong>0</strong> sonuç bulundu."
+
+#~ msgid ""
+#~ "\n"
+#~ "                        Did you mean <a href=\"%(search_url)s?q="
+#~ "%(suggestion)s\">\"%(suggestion)s\"</a>?\n"
+#~ "                    "
+#~ msgstr ""
+#~ "\n"
+#~ "                        Bunu mu demek istediniz <a href=\"%(search_url)s?"
+#~ "q=%(suggestion)s\">\"%(suggestion)s\"</a>?\n"
+#~ "                    "
+
+#~ msgid "Back to search results"
+#~ msgstr "Arama sonuçlarına geri dön"
+
+#~ msgid "You need to select some %ss"
+#~ msgstr "Bazı %slar seçmeniz gerekli"

@@ -1,0 +1,5029 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# ahalasa <ahalasa@gmail.com>, 2014
+# ahalasa <ahalasa@gmail.com>, 2014
+# Bashar Al-Abdulhadi, 2013-2014
+# Bashar Al-Abdulhadi, 2014-2015
+# Bashar Al-Abdulhadi, 2013-2014
+# Eyad Toma <d.eyad.t@gmail.com>, 2014
+# Eyad Toma <d.eyad.t@gmail.com>, 2014
+# Ibrahim Abo Seada <editorwing@gmail.com>, 2014
+# Islam Ali <islam.ali.mail@gmail.com>, 2014
+# KuwaitNET, 2013
+# Bashar Al-Abdulhadi, 2013
+# Mohammed TAMALI <mtamali@gmail.com>, 2017
+# theonlyman2 <omar.abdullahomarabdullah@hotmail.com>, 2014
+# theonlyman2 <omar.abdullahomarabdullah@hotmail.com>, 2014
+# yhhgftyl <yhhgftyl@grr.la>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 22:23+0530\n"
+"PO-Revision-Date: 2018-04-11 08:36+0000\n"
+"Last-Translator: Oscar Bot <maik.hoepfel@tangentsnowball.com>\n"
+"Language-Team: Arabic (http://www.transifex.com/codeinthehole/django-oscar/"
+"language/ar/)\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr "لوحة التحكم"
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr "الكاتالوج"
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "المنتجات"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr "انواع المنتج"
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "الفئات"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr "النطاقات"
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr "تنبيهات انخفاض المخزون"
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr "الخيارات"
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr "الإنجاز"
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "الطلبات"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr "إحصائيات"
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr "الشركاء"
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr "العملاء"
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr "طلبات انخفاض المخزون"
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr "العروض"
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "القسائم"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr ""
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr "المحتوى"
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr "كتل المحتوى"
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr "كتل المحتوى لكل صفحة"
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr "الصفحات"
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr "قوالب البريد الإلكتروني"
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr "الترشيحات"
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr "التقارير"
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr "النوع"
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr "التقييم"
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr "نطاق السعر"
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr "0 إلى 20"
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr "20 إلى 40"
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr "40 إلى 60"
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr "أكثر من 60"
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+#, fuzzy
+#| msgid "Catalogue"
+msgid "Catalan"
+msgstr "الكاتالوج"
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+#, fuzzy
+#| msgid "Permalink"
+msgid "German"
+msgstr "الرابط الدائم"
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Hindi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:181
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr "Submitting..."
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr "أذهب"
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr "حساب"
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr "تسجيل الخروج"
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr "الدخول أو التسجيل"
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "سلة المشتريات"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+"\n"
+"                        الإجمالي: %(total)s\n"
+"                    "
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr "عرض المتجر"
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "جميع المنتجات"
+
+#~ msgid "Mr"
+#~ msgstr "السيد"
+
+#~ msgid "Miss"
+#~ msgstr "الآنسة"
+
+#~ msgid "Mrs"
+#~ msgstr "السيدة"
+
+#~ msgid "Ms"
+#~ msgstr "الآنسة"
+
+#~ msgid "Dr"
+#~ msgstr "الدكتور"
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "المسمى"
+
+#~ msgid "First name"
+#~ msgstr "الأسم الأول"
+
+#~ msgid "Last name"
+#~ msgstr "اسم العائلة"
+
+#~ msgid "First line of address"
+#~ msgstr "القسم الأول من العنوان"
+
+#~ msgid "Second line of address"
+#~ msgstr "القسم الثاني من العنوان"
+
+#~ msgid "Third line of address"
+#~ msgstr "القسم الثالث من العنوان"
+
+#~ msgid "City"
+#~ msgstr "المدينة"
+
+#~ msgid "State/County"
+#~ msgstr "الولاية/المحافظة"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "الرمز البريدي"
+
+#~ msgid "Country"
+#~ msgstr "الدولة"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "نص البحث - تستخدم فقط للبحث عن العناوين"
+
+#~ msgid "Address"
+#~ msgstr "العنوان"
+
+#~ msgid "Addresses"
+#~ msgstr "العناوين"
+
+#~ msgid "Addresses in %(country)s require a valid postcode"
+#~ msgstr "العناوين في %(country)s تتطلب الرمز البريدي"
+
+#~ msgid "The postcode '%(postcode)s' is not valid for %(country)s"
+#~ msgstr "الرمز البريدي '%(postcode)s' غير صالح لدولة %(country)s"
+
+#~ msgid "ISO 3166-1 alpha-2"
+#~ msgstr "ISO 3166-1 alpha-2"
+
+#~ msgid "ISO 3166-1 alpha-3"
+#~ msgstr "ISO 3166-1 alpha-3"
+
+#~ msgid "ISO 3166-1 numeric"
+#~ msgstr "ISO 3166-1 numeric"
+
+#~ msgid "Country name"
+#~ msgstr "الدولة"
+
+#~ msgid "Official name"
+#~ msgstr "الإسم"
+
+#~ msgid "Display order"
+#~ msgstr "طريقة العرض"
+
+#~ msgid "Higher the number, higher the country in the list."
+#~ msgstr "كلما زاد الرقم كلما ارتفعت الدولة بالقائمة"
+
+#~ msgid "Is shipping country"
+#~ msgstr "دولة الشحن"
+
+#~ msgid "Countries"
+#~ msgstr "الدول"
+
+#~ msgid "Phone number"
+#~ msgstr "رقم الهاتف"
+
+#~ msgid "In case we need to call you about your order"
+#~ msgstr "في حال احتجنا الاتصال بك بخصوص طلبك"
+
+#~ msgid "Instructions"
+#~ msgstr "التعليمات"
+
+#~ msgid "Tell us anything we should know when delivering your order."
+#~ msgstr "أخبرنا أي شيء علينا أن نعرفه عند توصيل الطلب."
+
+#~ msgid "Shipping address"
+#~ msgstr "عنوان الشحن"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "عناوين الشحن"
+
+#~ msgid "User"
+#~ msgstr "المستخدم"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "عنوان الشحن الإفتراضي؟"
+
+#~ msgid "Default billing address?"
+#~ msgstr "عنوان المحاسبة الإفتراضي؟"
+
+#~ msgid "Address Hash"
+#~ msgstr "عنوان Hash"
+
+#~ msgid "Date Created"
+#~ msgstr "تاريخ الإنشاء"
+
+#~ msgid "User address"
+#~ msgstr "عنوان المستخدم"
+
+#~ msgid "User addresses"
+#~ msgstr "عناوين المستخدم"
+
+#~ msgid "This address is already in your address book"
+#~ msgstr "هذا العنوان مسجل مسبقا في دفتر العناوين الخاص بك"
+
+#~ msgid "Billing address"
+#~ msgstr "عنوان المحاسبة"
+
+#~ msgid "Billing addresses"
+#~ msgstr "عناوين المحاسبة"
+
+#~ msgid "Partner"
+#~ msgstr "الشريك"
+
+#~ msgid "Partner address"
+#~ msgstr "عنوان الشريك"
+
+#~ msgid "Partner addresses"
+#~ msgstr "عناوين الشريك"
+
+#~ msgid "Product"
+#~ msgstr "المنتج"
+
+#~ msgid "Views"
+#~ msgstr "مشاهدات"
+
+#~ msgid "Basket Additions"
+#~ msgstr "إضافات سلة المشتريات"
+
+#~ msgid "Purchases"
+#~ msgstr "المشتريات"
+
+#~ msgid "Score"
+#~ msgstr "الرصيد"
+
+#~ msgid "Product record"
+#~ msgstr "سجل المنتج"
+
+#~ msgid "Product records"
+#~ msgstr "سجلات المنتج"
+
+#~ msgid "Record for '%s'"
+#~ msgstr "سجل لـ '%s'"
+
+#~ msgid "Product Views"
+#~ msgstr "استعراضات المنتج"
+
+#~ msgid "Order Lines"
+#~ msgstr "خطوط الطلب"
+
+#~ msgid "Order Items"
+#~ msgstr "عناصر الطلب"
+
+#~ msgid "Total Spent"
+#~ msgstr "إجمالي المصروف"
+
+#~ msgid "Last Order Date"
+#~ msgstr "تاريخ آخر طلب"
+
+#~ msgid "User record"
+#~ msgstr "سجل المستخدم"
+
+#~ msgid "User records"
+#~ msgstr "سجلات المستخدم"
+
+#~ msgid "User product view"
+#~ msgstr "مشاهدة المستخدم للمنتج"
+
+#~ msgid "User product views"
+#~ msgstr "مشاهدات المنتج للمستخدم"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "%(user)s استعرض '%(product)s'"
+
+#~ msgid "Search term"
+#~ msgstr "كلمة البحث"
+
+#~ msgid "User search query"
+#~ msgstr "عملية البحث للمستخدم"
+
+#~ msgid "User search queries"
+#~ msgstr "عمليات بحث المستخدم"
+
+#~ msgid "%(user)s searched for '%(query)s'"
+#~ msgstr "%(user)s بحثوا عن '%(query)s'"
+
+#~ msgid "Analytics"
+#~ msgstr "الإحصائيات"
+
+#~ msgid "Basket additions"
+#~ msgstr "إضافات سلة المشتريات"
+
+#~ msgid "Product analytics"
+#~ msgstr "احصائيات المنتج"
+
+#~ msgid "Name"
+#~ msgstr "الإسم"
+
+#~ msgid "Date registered"
+#~ msgstr "تاريخ التسجيل"
+
+#~ msgid "Product views"
+#~ msgstr "استعراضات المنتج"
+
+#~ msgid "Order lines"
+#~ msgstr "خطوط الطلبات"
+
+#~ msgid "Order items"
+#~ msgstr "طلب المنتجات"
+
+#~ msgid "Total spent"
+#~ msgstr "إجمالي المصروف"
+
+#~ msgid "Date of last order"
+#~ msgstr "تاريخ آخر طلب"
+
+#~ msgid "User analytics"
+#~ msgstr "احصائيات المستخدم"
+
+#~ msgid "Owner"
+#~ msgstr "المالك"
+
+#~ msgid "Open - currently active"
+#~ msgstr "مفتوح - حاليا فعال"
+
+#~ msgid "Merged - superceded by another basket"
+#~ msgstr "مدموجة - حلت محلها سلة أخرى"
+
+#~ msgid "Saved - for items to be purchased later"
+#~ msgstr "محفوظة - سيتم شراؤها في وقت لاحقا"
+
+#~ msgid "Frozen - the basket cannot be modified"
+#~ msgstr "مجمدة - لا يمكن إجراء تعديل للسلة"
+
+#~ msgid "Submitted - has been ordered at the checkout"
+#~ msgstr "تم الإرسال - تم طلبها خلال اتمام عملية الشراء"
+
+#~ msgid "Status"
+#~ msgstr "الوضعية"
+
+#~ msgid "Date created"
+#~ msgstr "تاريخ الإنشاء"
+
+#~ msgid "Date merged"
+#~ msgstr "تاريخ الدمج"
+
+#~ msgid "Date submitted"
+#~ msgstr "تاريخ الإرسال"
+
+#~ msgid "Baskets"
+#~ msgstr "سلال المشتريات"
+
+#~ msgid "%(status)s basket (owner: %(owner)s, lines: %(num_lines)d)"
+#~ msgstr "%(status)s سلة التسوق (المالك: %(owner)s, العدد: %(num_lines)d)"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order."
+#~ msgstr ""
+#~ "بسبب القيود التقنية لا يمكننا شحن أكثر من %(threshold)d عنصر في طلب واحد."
+
+#~ msgid "Line Reference"
+#~ msgstr "الخط المرجعي"
+
+#~ msgid "Quantity"
+#~ msgstr "الكمية"
+
+#~ msgid "Currency"
+#~ msgstr "العملة"
+
+#~ msgid "Price excl. Tax"
+#~ msgstr "السعر بدون ضريبة"
+
+#~ msgid "Price incl. Tax"
+#~ msgstr "السعر مع ضريبة"
+
+#~ msgid "Basket line"
+#~ msgstr "خط السلة"
+
+#~ msgid "Basket lines"
+#~ msgstr "خطوط السلة"
+
+#~ msgid ""
+#~ "Basket #%(basket_id)d, Product #%(product_id)d, quantity %(quantity)d"
+#~ msgstr ""
+#~ "سلة التسوق #%(basket_id)d, المنتج #%(product_id)d, الكمية %(quantity)d"
+
+#~ msgid "You cannot modify a %s basket"
+#~ msgstr "لا يمكنك تعديل سلة %s "
+
+#~ msgid ""
+#~ "The price of '%(product)s' has increased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "سعر المنتج '%(product)s' ارتفع من %(old_price)s الى %(new_price)s منذ وقت "
+#~ "إضافته لسلة التسوق الخاصة بك"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has decreased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "سعر المنتج '%(product)s' انخفض من %(old_price)s الى %(new_price)s منذ وقت "
+#~ "إضافته لسلة التسوق الخاصة بك"
+
+#~ msgid "Line"
+#~ msgstr "خط"
+
+#~ msgid "Option"
+#~ msgstr "خيار"
+
+#~ msgid "Value"
+#~ msgstr "القيمة"
+
+#~ msgid "Line attribute"
+#~ msgstr "خط السمة"
+
+#~ msgid "Line attributes"
+#~ msgstr "خط السمات"
+
+#~ msgid "Save for Later"
+#~ msgstr "حفظ لوقت لاحق"
+
+#~ msgid "Move to Basket"
+#~ msgstr "الانتقال إلى سلة المشتريات"
+
+#~ msgid "Code"
+#~ msgstr "رمز"
+
+#~ msgid "Variant"
+#~ msgstr "متنوع"
+
+#~ msgid "Please select a valid product"
+#~ msgstr "الرجاء تحديد منتج صالح"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order. Your basket currently has %(basket)d "
+#~ "items."
+#~ msgstr ""
+#~ "بسبب القيود التقنية لا يمكننا شحن أكثر من %(threshold)d عنصر في طلب واحد. "
+#~ "سلة مشترياتك تحتوي على %(basket)d عناصر."
+
+#~ msgid ""
+#~ "This product cannot be added to the basket as its currency isn't the same "
+#~ "as other products in your basket"
+#~ msgstr ""
+#~ "لا يمكن اضافة هذا المنتج إلى السلة لان عملة هذا المنتج مختلفة عن عملة "
+#~ "المنتجات الموجودة في السلة."
+
+#~ msgid "User ID"
+#~ msgstr "معرف المستخدم"
+
+#~ msgid "Email"
+#~ msgstr "البريد الإلكتروني"
+
+#~ msgid "Basket status"
+#~ msgstr "حالة السلة"
+
+#~ msgid "Num lines"
+#~ msgstr "عدد الأسطر"
+
+#~ msgid "Num items"
+#~ msgstr "عدد المنتجات"
+
+#~ msgid "Date of creation"
+#~ msgstr "تاريخ الإنشاء"
+
+#~ msgid "Time since creation"
+#~ msgstr "وقت مضى منذ الإنشاء"
+
+#~ msgid "Open baskets"
+#~ msgstr "السلال المفتوحة"
+
+#~ msgid "Time between creation and submission"
+#~ msgstr "الوقت بين الإنشاء والتقديم"
+
+#~ msgid "Submitted baskets"
+#~ msgstr "السلال المقدمة"
+
+#~ msgid "You can't save an item for later if you're not logged in!"
+#~ msgstr "لا يمكنك حفظ عنصر لوقت لاحق إذا لم تقم بتسجيل الدخول !"
+
+#~ msgid ""
+#~ "Your basket couldn't be updated. Please correct any validation errors "
+#~ "below."
+#~ msgstr "لم يتمكن تحديث سلة التسوق الخاصة بك. الرجاء تصحيح أي أخطاء بالأسفل."
+
+#~ msgid "The '%(code)s' voucher has expired"
+#~ msgstr "القسيمة الشرائية  '%(code)s' انتهت صلاحيتها"
+
+#~ msgid "Your basket does not qualify for a voucher discount"
+#~ msgstr "سلتك ليست مؤهلة للحصول على قسيمة خصم"
+
+#~ msgid "Voucher '%(code)s' added to basket"
+#~ msgstr "القسيمة الشرائية '%(code)s' تمت إضافتها لسلة التسوق"
+
+#~ msgid "You have already added the '%(code)s' voucher to your basket"
+#~ msgstr "لقد أضفت القسيمة الشرائية '%(code)s' لسلة التسوق مسبقا"
+
+#~ msgid "No voucher found with code '%(code)s'"
+#~ msgstr "لم يتم العثور على القسيمة الشرائية '%(code)s'"
+
+#~ msgid "Please enter a voucher code"
+#~ msgstr "الرجاء إدخال رقم القسيمة الشرائية"
+
+#~ msgid "Voucher '%s' removed from basket"
+#~ msgstr "القسيمة الشرائية '%s' تم إزالتها من سلة التسوق"
+
+#~ msgid "Slug"
+#~ msgstr "slug"
+
+#~ msgid "Requires shipping?"
+#~ msgstr "يتطلب الشحن؟"
+
+#~ msgid "Track stock levels?"
+#~ msgstr "تتبع مستويات المخزون؟"
+
+#~ msgid "Product class"
+#~ msgstr "فئنة المنتج"
+
+#~ msgid "Product classes"
+#~ msgstr "فئات المنتج"
+
+#~ msgid "Description"
+#~ msgstr "التفاصيل"
+
+#~ msgid "Image"
+#~ msgstr "صورة"
+
+#~ msgid "Category"
+#~ msgstr "الفئة"
+
+#~ msgid "Product category"
+#~ msgstr "قسم المنتج"
+
+#~ msgid "Product categories"
+#~ msgstr "أقسام المنتج"
+
+#~ msgid "Stand-alone product"
+#~ msgstr "منتج مستقل"
+
+#~ msgid "Parent product"
+#~ msgstr "المنتج الأب"
+
+#~ msgid "Child product"
+#~ msgstr "المنتج الإبن"
+
+#~ msgid "Product structure"
+#~ msgstr "بنية المنتج"
+
+#~ msgid "UPC"
+#~ msgstr "UPC"
+
+#~ msgid ""
+#~ "Universal Product Code (UPC) is an identifier for a product which is not "
+#~ "specific to a particular  supplier. Eg an ISBN for a book."
+#~ msgstr ""
+#~ "Universal Product Code (UPC) is an identifier for a product which is not "
+#~ "specific to a particular  supplier. Eg an ISBN for a book."
+
+#~ msgid ""
+#~ "Only choose a parent product if you're creating a child product.  For "
+#~ "example if this is a size 4 of a particular t-shirt.  Leave blank if this "
+#~ "is a stand-alone product (i.e. there is only one version of this product)."
+#~ msgstr ""
+#~ "اختر منتج أب اذا كنت تريد ان تنشئ منتج إبن. مثال: هذا المنتج هو حجم 4 من "
+#~ "قميص ما. قم بترك الحقل فارغاً اذا كان هذا منتج مستقل (اي يوجد هناك نسخة "
+#~ "واحدة من المنتج)"
+
+#~ msgctxt "Product title"
+#~ msgid "Title"
+#~ msgstr "العنوان"
+
+#~ msgid "Product type"
+#~ msgstr "نوع المنتج"
+
+#~ msgid "Choose what type of product this is"
+#~ msgstr "إختر ما نوع هذا المنتج"
+
+#~ msgid "Attributes"
+#~ msgstr "سمات"
+
+#~ msgid ""
+#~ "A product attribute is something that this product may have, such as a "
+#~ "size, as specified by its class"
+#~ msgstr "سمة المنتج هي مواصفة للمنتج مثل القياس او شيء معرف في فئة المنتج."
+
+#~ msgid "Product options"
+#~ msgstr "خيارات المنتج"
+
+#~ msgid ""
+#~ "Options are values that can be associated with a item when it is added to "
+#~ "a customer's basket.  This could be something like a personalised message "
+#~ "to be printed on a T-shirt."
+#~ msgstr ""
+#~ "Options are values that can be associated with a item when it is added to "
+#~ "a customer's basket.  This could be something like a personalised message "
+#~ "to be printed on a T-shirt."
+
+#~ msgid "Recommended products"
+#~ msgstr "المنتجات الموصى بها"
+
+#~ msgid ""
+#~ "These are products that are recommended to accompany the main product."
+#~ msgstr "هذه هي المنتجات الموصى بها لترافق المنتج الرئيسي."
+
+#~ msgid "Date updated"
+#~ msgstr "تاريخ التحديث"
+
+#~ msgid "Is discountable?"
+#~ msgstr "قابل للخصم؟"
+
+#~ msgid "This flag indicates if this product can be used in an offer or not"
+#~ msgstr "يشير هذا الخيار إذا كان يمكن استخدام هذا المنتج في العرض أم لا"
+
+#~ msgid "Your product must have a title."
+#~ msgstr "يجب وضع عنوان للمنتج."
+
+#~ msgid "Your product must have a product class."
+#~ msgstr "يجب ان يكون هناك فئة للمنتج."
+
+#~ msgid "Only child products can have a parent."
+#~ msgstr "فقط المنتجات الفرعية يمكن ان يكون لها منتج رئيسي."
+
+#~ msgid "A child product needs a parent."
+#~ msgstr "المنتج الفرعي يحتاج إلى منتج رئيسي."
+
+#~ msgid "You can only assign child products to parent products."
+#~ msgstr "يمكنك فقط تعيين منتجات فرعية لمنتجات رئيسية."
+
+#~ msgid "A child product can't have a product class."
+#~ msgstr "المنتج الفرعي لا يمكن ان يكون له فئة منتج."
+
+#~ msgid "A child product can't have a category assigned."
+#~ msgstr "المنتج الفرعي لا يمكن تعيين قسم له."
+
+#~ msgid "A child product can't have options."
+#~ msgstr "المنتج الفرعي لا يكون له خيارات."
+
+#~ msgid "A parent product can't have stockrecords."
+#~ msgstr "المنتج الرئيسي لا يمكن ان يكون له سجلات مخزون."
+
+#~ msgid "The specified parent product is a child product."
+#~ msgstr "المنتج الرئيسي المحدد هو منتج فرعي."
+
+#~ msgid "One can't add a child product to a product with stock records."
+#~ msgstr "لا يمكن إضافة منتج فرعي لمنتج رئيسي يحتوي على سجلات مخزون."
+
+#~ msgid "Primary product"
+#~ msgstr "المنتج الأساسي"
+
+#~ msgid "Recommended product"
+#~ msgstr "المنتج الموصى به"
+
+#~ msgid "Ranking"
+#~ msgstr "التقييم"
+
+#~ msgid ""
+#~ "Determines order of the products. A product with a higher value will "
+#~ "appear before one with a lower ranking."
+#~ msgstr ""
+#~ "يحدد ترتيب المنتجات. المنتج مع قيمة أعلى سيظهر قبل المنتج الذي معه قيمة "
+#~ "أدنى."
+
+#~ msgid "Product recommendation"
+#~ msgstr "توصيات المنتج"
+
+#~ msgid "Product recomendations"
+#~ msgstr "ترشيحات المنتج"
+
+#~ msgid ""
+#~ "Code can only contain the letters a-z, A-Z, digits, and underscores, and "
+#~ "can't start with a digit."
+#~ msgstr ""
+#~ "يمكن ان يتضمن الكود على أحرف, أرقام و شرطة سفلية _ فقط ولا يمكن ان يبدأ "
+#~ "برقم"
+
+#~ msgid "Text"
+#~ msgstr "النص"
+
+#~ msgid "Integer"
+#~ msgstr "عدد صحيح"
+
+#~ msgid "True / False"
+#~ msgstr "فعال / غير فعال"
+
+#~ msgid "Float"
+#~ msgstr "يطفو"
+
+#~ msgid "Rich Text"
+#~ msgstr "نص منسق"
+
+#~ msgid "Date"
+#~ msgstr "التاريخ"
+
+#~ msgid "Entity"
+#~ msgstr "الكيان"
+
+#~ msgid "File"
+#~ msgstr "الملف"
+
+#~ msgid "Option Group"
+#~ msgstr "مجموعة الخيارات"
+
+#~ msgid "Required"
+#~ msgstr "مطلوب"
+
+#~ msgid "Product attribute"
+#~ msgstr "سمة المنتج"
+
+#~ msgid "Product attributes"
+#~ msgstr "سمات المنتج"
+
+#~ msgid "Must be str or unicode"
+#~ msgstr "Must be str or unicode"
+
+#~ msgid "Must be a float"
+#~ msgstr "Must be a float"
+
+#~ msgid "Must be an integer"
+#~ msgstr "Must be an integer"
+
+#~ msgid "Must be a date or datetime"
+#~ msgstr "يجب أن يكون تاريخ أو الوقت والتاريخ"
+
+#~ msgid "Must be a boolean"
+#~ msgstr "لابد أن تكون قيمة منطقية"
+
+#~ msgid "Must be a model instance"
+#~ msgstr "يجب أن يكون تكوين نموذجي"
+
+#~ msgid "Must be an AttributeOption model object instance"
+#~ msgstr "Must be an AttributeOption model object instance"
+
+#~ msgid "AttributeOption has not been saved yet"
+#~ msgstr "AttributeOption has not been saved yet"
+
+#~ msgid "%(enum)s is not a valid choice for %(attr)s"
+#~ msgstr "%(enum)s is not a valid choice for %(attr)s"
+
+#~ msgid "Must be a file field"
+#~ msgstr "يجب أن يكون حقل ملف"
+
+#~ msgid "Attribute"
+#~ msgstr "سمة"
+
+#~ msgid "Boolean"
+#~ msgstr "منطقي"
+
+#~ msgid "Richtext"
+#~ msgstr "Richtext"
+
+#~ msgid "Value option"
+#~ msgstr "قيمة الخيار"
+
+#~ msgid "Product attribute value"
+#~ msgstr "قيمة سمة المنتج"
+
+#~ msgid "Product attribute values"
+#~ msgstr "قيم سمات المنتج"
+
+#~ msgid "Attribute option group"
+#~ msgstr "خيار سمة المجموعة"
+
+#~ msgid "Attribute option groups"
+#~ msgstr "خيار سمة المجموعات"
+
+#~ msgid "Group"
+#~ msgstr "مجموعة"
+
+#~ msgid "Attribute option"
+#~ msgstr "Attribute option"
+
+#~ msgid "Attribute options"
+#~ msgstr "سمة الخيارات"
+
+#~ msgid "Required - a value for this option must be specified"
+#~ msgstr "Required - a value for this option must be specified"
+
+#~ msgid "Optional - a value for this option can be omitted"
+#~ msgstr "Optional - a value for this option can be omitted"
+
+#~ msgid "Original"
+#~ msgstr "أصلي"
+
+#~ msgid "Caption"
+#~ msgstr "وصف"
+
+#~ msgid ""
+#~ "An image with a display order of zero will be the primary image for a "
+#~ "product"
+#~ msgstr "الصورة مع ترتيب العرض بقيمة الصفر تكون الصورة الرئيسية للمنتج"
+
+#~ msgid "Product image"
+#~ msgstr "صورة المنتج"
+
+#~ msgid "Product images"
+#~ msgstr "صور المنتج"
+
+#~ msgid "%(obj)s has no attribute named '%(attr)s'"
+#~ msgstr "%(obj)s has no attribute named '%(attr)s'"
+
+#~ msgid "%(attr)s attribute cannot be blank"
+#~ msgstr "التخصيص %(attr)s لا يمكن ان يكون فارغا"
+
+#~ msgid "%(attr)s attribute %(err)s"
+#~ msgstr "%(attr)s attribute %(err)s"
+
+#~ msgctxt "Product review title"
+#~ msgid "Title"
+#~ msgstr "العنوان"
+
+#~ msgid "Body"
+#~ msgstr "نص الرسالة"
+
+#~ msgctxt "Anonymous reviewer name"
+#~ msgid "Name"
+#~ msgstr "الإسم"
+
+#~ msgid "URL"
+#~ msgstr "الرابط"
+
+#~ msgid "Requires moderation"
+#~ msgstr "Requires moderation"
+
+#~ msgid "Approved"
+#~ msgstr "موافق عليه"
+
+#~ msgid "Rejected"
+#~ msgstr "مرفوض"
+
+#~ msgid "Total Votes"
+#~ msgstr "إجمالي الأصوات"
+
+#~ msgid "Delta Votes"
+#~ msgstr "Delta Votes"
+
+#~ msgid "Product review"
+#~ msgstr "تقييم المنتج"
+
+#~ msgid "Product reviews"
+#~ msgstr "تقييمات المنتج"
+
+#~ msgid "Anonymous reviews must include a name and an email"
+#~ msgstr "تقييمات الزوار يجب ان تتضمن الإسم و البريد الإلكتروني"
+
+#~ msgid "anonymous"
+#~ msgstr "زائر"
+
+#~ msgid "Only signed in users can vote"
+#~ msgstr "فقط المستخدمين المسجلين يستطيعون التقييم"
+
+#~ msgid "Up"
+#~ msgstr "للأعلى"
+
+#~ msgid "Down"
+#~ msgstr "للأسفل"
+
+#~ msgid "Delta"
+#~ msgstr "دلتا"
+
+#~ msgid "Vote"
+#~ msgstr "تصويت"
+
+#~ msgid "Votes"
+#~ msgstr "الأصوات"
+
+#~ msgid "You cannot vote on your own reviews"
+#~ msgstr "لا يمكنك التصويت على تقييمك"
+
+#~ msgid "Only signed-in users can vote on reviews"
+#~ msgstr "فقط العملاء مسجلي الدخول يمكنهم التصويت على التقييمات"
+
+#~ msgid "You can only vote once on a review"
+#~ msgstr "يمكنك التصويت مرة واحدة على أي تقييم"
+
+#~ msgid "Catalogue reviews"
+#~ msgstr "مراجعات الكاتالوج"
+
+#~ msgid "Recency"
+#~ msgstr "الأحدث"
+
+#~ msgid "Sort by"
+#~ msgstr "فرز حسب:"
+
+#~ msgid "You have already reviewed this product!"
+#~ msgstr "تم تقييم هذا المنتج من قبلكم مسبقا"
+
+#~ msgid "You can't leave a review for this product."
+#~ msgstr "لا يمكنك تقييم هذا المنتج"
+
+#~ msgid "Thank you for reviewing this product"
+#~ msgstr "شكرا لك لتقييمك هذا المنتج"
+
+#~ msgid "Thanks for voting!"
+#~ msgstr "شكرا على التصويت."
+
+#~ msgid "%(filename)s is not a valid image (%(error)s)"
+#~ msgstr "%(filename)s is not a valid image (%(error)s)"
+
+#~ msgid "%s is not a valid image archive"
+#~ msgstr "%s is not a valid image archive"
+
+#~ msgid "The given page number was invalid."
+#~ msgstr "رقم الصفحة المزود غير صحيح."
+
+#~ msgid "Checkout"
+#~ msgstr "إتمام عملية الشراء"
+
+#~ msgid "My email address is"
+#~ msgstr "بريدي الإلكتروني هو"
+
+#~ msgid "I am a new customer and want to checkout as a guest"
+#~ msgstr "انا عميل جديد و أود اتمام عملية الشراء كزائر"
+
+#~ msgid ""
+#~ "I am a new customer and want to create an account before checking out"
+#~ msgstr "انا عميل جديد و أود التسجيل قبل اتمام عملية الشراء"
+
+#~ msgid "I am a returning customer, and my password is"
+#~ msgstr "انا عميل حالي و كلمة المرور الخاصة بي هي"
+
+#~ msgid "A user with that email address already exists"
+#~ msgstr "يوجد مستخدم مسجل بالفعل بهذا البريد الالكتروني"
+
+#~ msgid "You need to add some items to your basket to checkout"
+#~ msgstr "يتوجب عليك إضافة بعض المنتجات لسلة التسوق لإتمام عملية الشراء"
+
+#~ msgid ""
+#~ "'%(title)s' is no longer available to buy (%(reason)s). Please adjust "
+#~ "your basket to continue"
+#~ msgstr ""
+#~ "'%(title)s' غير متاح للشراء بسبب (%(reason)s). الرجاء تعديل سلة المشتريات "
+#~ "و المتابعة"
+
+#~ msgid "Please either sign in or enter your email address"
+#~ msgstr "الرجاء تسجيل الدخول او ادخل بريدك الإلكتروني"
+
+#~ msgid "Please choose a shipping address"
+#~ msgstr "الرجاء إختيار عنوان شحن"
+
+#~ msgid ""
+#~ "Your previously chosen shipping address is no longer valid.  Please "
+#~ "choose another one"
+#~ msgstr "عنوان الشحن المزود سلفا غير صحيح حاليا. الرجاء إختيار عنوان آخر"
+
+#~ msgid "Please choose a shipping method"
+#~ msgstr "الرجاء إختيار طريقة الشحن"
+
+#~ msgid ""
+#~ "Your previously chosen shipping method is no longer valid.  Please choose "
+#~ "another one"
+#~ msgstr "طريقة الشحن المزوده سلفا غير صحيحة حاليا. الرجاء اختيار طريقة اخرى"
+
+#~ msgid ""
+#~ "Create your account and then you will be redirected back to the checkout "
+#~ "process"
+#~ msgstr "أنشئ حسابك معنا و سيتم تحويلك لصفحة اتمام عملية الشراء"
+
+#~ msgid "Address saved"
+#~ msgstr "تم حفظ العنوان"
+
+#~ msgid "Address deleted"
+#~ msgstr "تم حذف العنوان"
+
+#~ msgid ""
+#~ "Shipping is unavailable for your chosen address - please choose another"
+#~ msgstr "الشحن غير متوفر للعنوان الذي تم اختياره - يرجى اختيار عنوان اخر"
+
+#~ msgid "Your submitted shipping method is not permitted"
+#~ msgstr "طريقة الشحن التي تم اختيارها غير مسموح بها"
+
+#~ msgid ""
+#~ "A problem occurred while processing payment for this order - no payment "
+#~ "has been taken.  Please contact customer services if this problem persists"
+#~ msgstr ""
+#~ "حدث خطأ ما في عملية الدفع لهذا الطلب - لم يتم خصم أي مبلغ من بطاقتكم. "
+#~ "الرجاء مراسلة خدمة العملاء ان تكررت هذه المشكلة."
+
+#~ msgid "No order found"
+#~ msgstr "لا يوجد أي طلبات"
+
+#~ msgid "email address"
+#~ msgstr "البريد الإلكتروني"
+
+#~ msgid "Staff status"
+#~ msgstr "وضعية الموظف"
+
+#~ msgid "Designates whether the user can log into this admin site."
+#~ msgstr "يحدد ما إذا كان المستخدم يستطيع الدخول إلى موقع الإدارة."
+
+#~ msgid "Active"
+#~ msgstr "نشط"
+
+#~ msgid ""
+#~ "Designates whether this user should be treated as active. Unselect this "
+#~ "instead of deleting accounts."
+#~ msgstr ""
+#~ "يحدد ما إذا كان المستخدم سيعامل على أنه نشط. ألغي هذا الخيار بدلا من حذف "
+#~ "الحسابات."
+
+#~ msgid "date joined"
+#~ msgstr "تاريخ الاشتراك"
+
+#~ msgid "Users"
+#~ msgstr "الأعضاء"
+
+#~ msgid "Subject"
+#~ msgstr "العنوان"
+
+#~ msgid "Body Text"
+#~ msgstr "نص الرسالة"
+
+#~ msgid "Body HTML"
+#~ msgstr "نص الرسالة بلغة HTML"
+
+#~ msgid "Date Sent"
+#~ msgstr "تاريخ الإرسال"
+
+#~ msgid "Emails"
+#~ msgstr "البريد الإلكتروني"
+
+#~ msgid "Email to %(user)s with subject '%(subject)s'"
+#~ msgstr "Email to %(user)s with subject '%(subject)s'"
+
+#~ msgid "Code used for looking up this event programmatically"
+#~ msgstr "استخدام رمز للبحث عن هذا الحدث برمجيا"
+
+#~ msgid "This is just used for organisational purposes"
+#~ msgstr "This is just used for organisational purposes"
+
+#~ msgid "Order related"
+#~ msgstr "طلب ذو صلة"
+
+#~ msgid "User related"
+#~ msgstr "عضو ذات صلة"
+
+#~ msgid "Email Subject Template"
+#~ msgstr "Email Subject Template"
+
+#~ msgid "Email Body Template"
+#~ msgstr "قالب الرسالة الإلكترونية"
+
+#~ msgid "Email Body HTML Template"
+#~ msgstr "Email Body HTML Template"
+
+#~ msgid "HTML template"
+#~ msgstr "HTML template"
+
+#~ msgid "SMS Template"
+#~ msgstr "قالب SMS"
+
+#~ msgid "SMS template"
+#~ msgstr "قالب SMS"
+
+#~ msgid "Date Updated"
+#~ msgstr "تاريخ التحديث"
+
+#~ msgid "Communication event type"
+#~ msgstr "Communication event type"
+
+#~ msgid "Communication event types"
+#~ msgstr "Communication event types"
+
+#~ msgid "Inbox"
+#~ msgstr "صندوق الوارد"
+
+#~ msgid "Archive"
+#~ msgstr "أرشيف"
+
+#~ msgid "Notification"
+#~ msgstr "تنبيه"
+
+#~ msgid "Notifications"
+#~ msgstr "تنبيهات"
+
+#~ msgid "Key"
+#~ msgstr "مفتاح"
+
+#~ msgid "Not yet confirmed"
+#~ msgstr "لم يتم تفعيله بعد"
+
+#~ msgid "Cancelled"
+#~ msgstr "تم الالغاء"
+
+#~ msgid "Closed"
+#~ msgstr "مغلق"
+
+#~ msgid "Date confirmed"
+#~ msgstr "تاريخ التأكيد"
+
+#~ msgid "Date cancelled"
+#~ msgstr "تاريخ الإلغاء"
+
+#~ msgid "Date closed"
+#~ msgstr "تاريخ الإغلاق"
+
+#~ msgid "Product alert"
+#~ msgstr "تنبيهات المنتج"
+
+#~ msgid "Product alerts"
+#~ msgstr "تنبيهات المنتج"
+
+#~ msgid "Product Alerts"
+#~ msgstr "تنبيهات المنتج"
+
+#~ msgid "An alert has been created"
+#~ msgstr "An alert has been created"
+
+#~ msgid "A confirmation email has been sent to %s"
+#~ msgstr "تم إرسال رسالة التأكيد إلى %s"
+
+#~ msgid "Your stock alert is now active"
+#~ msgstr "تم تفعيل تنبيه مخزون المنتج "
+
+#~ msgid "Your stock alert cannot be confirmed"
+#~ msgstr "تنبيه مخزون المنتج لا يمكن تأكيده"
+
+#~ msgid "Your stock alert has been cancelled"
+#~ msgstr "تم إاغاء تنبيه مخزون المنتج"
+
+#~ msgid "Your stock alert cannot be cancelled"
+#~ msgstr "لا يمكن إلغاء تنبيه مخزون المنتج"
+
+#~ msgid "Customer"
+#~ msgstr "العميل"
+
+#~ msgid "Email address"
+#~ msgstr "البريد الإلكتروني"
+
+#~ msgid "Password"
+#~ msgstr "كلمة المرور"
+
+#~ msgid "The entered password is not valid!"
+#~ msgstr "كلمة المرور المدخلة غير صالحة"
+
+#~ msgid "Confirm password"
+#~ msgstr "تأكيد كلمة المرور"
+
+#~ msgid "The two password fields didn't match."
+#~ msgstr "حقلين كلمة المرور غير متطابقين"
+
+#~ msgctxt "start date"
+#~ msgid "From"
+#~ msgstr "من"
+
+#~ msgctxt "end date"
+#~ msgid "To"
+#~ msgstr "الى"
+
+#~ msgid "Order number"
+#~ msgstr "رقم الطلب"
+
+#~ msgid "At least one field is required."
+#~ msgstr "حقل واحد على الأقل مطلوب"
+
+#~ msgid "All orders"
+#~ msgstr "جميع الطلبات"
+
+#~ msgid ""
+#~ "Orders placed between %(date_from)s and %(date_to)s and order number "
+#~ "containing %(order_number)s"
+#~ msgstr ""
+#~ "الطلبات بين %(date_from)s و %(date_to)s و تشتمل على طلب رقم "
+#~ "%(order_number)s"
+
+#~ msgid "Orders placed between %(date_from)s and %(date_to)s"
+#~ msgstr "الطلبات بين %(date_from)s و %(date_to)s"
+
+#~ msgid ""
+#~ "Orders placed since %(date_from)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr "الطلبات منذ %(date_from)s و تشتمل على طلب رقم %(order_number)s"
+
+#~ msgid "Orders placed since %(date_from)s"
+#~ msgstr "الطلبات منذ %(date_from)s"
+
+#~ msgid ""
+#~ "Orders placed until %(date_to)s and order number containing "
+#~ "%(order_number)s"
+#~ msgstr "الطلبات حتى %(date_to)s و تشتمل على طلب رقم %(order_number)s"
+
+#~ msgid "Orders placed until %(date_to)s"
+#~ msgstr "الطلبات حتى %(date_to)s"
+
+#~ msgid "Orders with order number containing %(order_number)s"
+#~ msgstr "الطلبات التي تشتمل على طلب رقم %(order_number)s"
+
+#~ msgid "A user with this email address already exists"
+#~ msgstr "عميل بنفس البريد الإلكتروني هذا مسجل مسبقا"
+
+#~ msgid "Send notification to"
+#~ msgstr "إرسال التأكيد إلى"
+
+#~ msgid "Enter your email"
+#~ msgstr "أدخل بريدك الإلكتروني"
+
+#~ msgid "There is already an active stock alert for %s"
+#~ msgstr "يوجد تنبيه فعال مسبقا للمنتج %s"
+
+#~ msgid "You already have an active alert for this product"
+#~ msgstr "لديك تنيه فعال مسبقا لهذا المنتج"
+
+#~ msgid "%(count)d notification archived"
+#~ msgid_plural "%(count)d notifications archived"
+#~ msgstr[0] "%(count)d تنبيهات تم أرشفتها"
+#~ msgstr[1] "%(count)d تنبيهات تم أرشفتها"
+#~ msgstr[2] "%(count)d تنبيهات تم أرشفتها"
+#~ msgstr[3] "%(count)d تنبيهات تم أرشفتها"
+#~ msgstr[4] "%(count)d تنبيهات تم أرشفتها"
+#~ msgstr[5] "%(count)d تنبيهات تم أرشفتها"
+
+#~ msgid "%(count)d notification deleted"
+#~ msgid_plural "%(count)d notifications deleted"
+#~ msgstr[0] "%(count)d تنبيهات تم حفظها"
+#~ msgstr[1] "%(count)d تنبيهات تم حفظها"
+#~ msgstr[2] "%(count)d تنبيهات تم حفظها"
+#~ msgstr[3] "%(count)d تنبيهات تم حفظها"
+#~ msgstr[4] "%(count)d تنبيهات تم حفظها"
+#~ msgstr[5] "%(count)d تنبيهات تم حفظها"
+
+#~ msgid "Welcome back"
+#~ msgstr "مرحبا بعودتك"
+
+#~ msgid "Thanks for registering!"
+#~ msgstr "شكرا لإنضمامك"
+
+#~ msgid "Profile"
+#~ msgstr "الملف"
+
+#~ msgid "Edit Profile"
+#~ msgstr "تعديل الملف الشخصي"
+
+#~ msgid "Profile updated"
+#~ msgstr "تحديث الملف الشخصي"
+
+#~ msgid "Delete profile"
+#~ msgstr "حذف الملف الشخصي"
+
+#~ msgid "Your profile has now been deleted. Thanks for using the site."
+#~ msgstr "تم حذف ملفك الشخصي. شكرا لك لإستخدام الموقع."
+
+#~ msgid "Change Password"
+#~ msgstr "تغيير كلمة المرور"
+
+#~ msgid "Password updated"
+#~ msgstr "تم تحديث كلمة المرور"
+
+#~ msgid "Email History"
+#~ msgstr "سجل البريد الإلكتروني"
+
+#~ msgid "Order History"
+#~ msgstr "سجل الطلبات"
+
+#~ msgid "Order"
+#~ msgstr "الطلب"
+
+#~ msgid ""
+#~ "All available lines from order %(number)s have been added to your basket"
+#~ msgstr ""
+#~ "All available lines from order %(number)s have been added to your basket"
+
+#~ msgid ""
+#~ "It is not possible to re-order order %(number)s as none of its lines are "
+#~ "available to purchase"
+#~ msgstr ""
+#~ "لا يمكن إعادة طلب الطلب رقم %(number)s حيث جميع الطلبات به غير متاحة "
+#~ "للشراء"
+
+#~ msgid "%(qty)d copies of '%(product)s' have been added to your basket"
+#~ msgstr "%(qty)d نسخ من '%(product)s' تم إضافتها لسلة التسوق"
+
+#~ msgid "'%s' has been added to your basket"
+#~ msgstr "'%s' تمت إضافته لسلة التسوق"
+
+#~ msgid "Address Book"
+#~ msgstr "دفتر العناوين"
+
+#~ msgid "Add a new address"
+#~ msgstr "إضافة عنوان جديد"
+
+#~ msgid "Address '%s' created"
+#~ msgstr "تم إنشاء العنوان '%s' "
+
+#~ msgid "Edit address"
+#~ msgstr "تعديل العنوان"
+
+#~ msgid "Address '%s' updated"
+#~ msgstr "تم تحديث العنوان '%s' "
+
+#~ msgid "Delete address?"
+#~ msgstr "حذف العنوان؟"
+
+#~ msgid "Address '%s' deleted"
+#~ msgstr "تم حذف العنوان '%s' "
+
+#~ msgid "We do not ship to this country"
+#~ msgstr "لا نشحن لهذه الدولة"
+
+#~ msgid "Wish Lists"
+#~ msgstr "قائمة الأمنيات"
+
+#~ msgid "Quantities updated."
+#~ msgstr "تم تحديث الكميات"
+
+#~ msgid "Create a new wish list"
+#~ msgstr "انشاء قائمة أمنيات جديدة"
+
+#~ msgid "The requested product no longer exists"
+#~ msgstr "المنتج المطلوب غير متاح حاليا"
+
+#~ msgid "Your wishlist has been created and '%(name)s has been added"
+#~ msgstr "قائمة الأمنيات تم انشاؤها و '%(name)s تمت إضافتها"
+
+#~ msgid "Your wishlist has been created"
+#~ msgstr "تم إنشاء قائمة الأمنيات"
+
+#~ msgid "%(title)s has been added to your wishlist"
+#~ msgstr "%(title)s تمت إضافته لقائمة الإمنيات الخاصه بكم"
+
+#~ msgid "Your '%s' wishlist has been updated"
+#~ msgstr "قائمة الأمنيات '%s' تم تحديثها"
+
+#~ msgid "Delete %s"
+#~ msgstr "حذف %s"
+
+#~ msgid "Your '%s' wish list has been deleted"
+#~ msgstr "قائمة الأمنيات '%s' تم حذفها"
+
+#~ msgid "'%s' was added to your wish list."
+#~ msgstr "تمت إضافة '%s' لقائمة الأمنيات الخاصة بكم"
+
+#~ msgid "Remove %s"
+#~ msgstr "إزالة %s"
+
+#~ msgid "'%(title)s' was removed from your '%(name)s' wish list"
+#~ msgstr "تم إزالة '%(title)s' من قائمة الإمنيات '%(name)s'"
+
+#~ msgid "'%(title)s' moved to '%(name)s' wishlist"
+#~ msgstr "تم نقل '%(title)s' إلى قائمة الأمنيات '%(name)s'"
+
+#~ msgid "Create a new product of type"
+#~ msgstr "انشاء منتج جديد من النوع"
+
+#~ msgid "-- Choose type --"
+#~ msgstr "- اختيار النوع -"
+
+#~ msgid "Product title"
+#~ msgstr "اسم المنتج"
+
+#~ msgid "Select an option group"
+#~ msgstr "اختر خيار مجموعة"
+
+#~ msgid ""
+#~ "At least one stock record must be set to a partner that you're associated "
+#~ "with."
+#~ msgstr "يجب تعيين سجل مخزون واحد على الأقل لشريك أنت مرتبط به."
+
+#~ msgid "Stand-alone and parent products must have at least one category"
+#~ msgstr ""
+#~ "المنتجات المنفردة و المرتبطة بمنتج رئيسي يجب ان تكون بقسم واحد على الأقل"
+
+#~ msgid "A child product should not have categories"
+#~ msgstr "المنتج الفرعي لا يجب ان يكون بأي قسم"
+
+#~ msgid "Title"
+#~ msgstr "العنوان"
+
+#~ msgid "Variants"
+#~ msgstr "Variants"
+
+#~ msgid "Stock records"
+#~ msgstr "سجلات المخزون"
+
+#~ msgid "Actions"
+#~ msgstr "Actions"
+
+#~ msgid "Number of child categories"
+#~ msgstr "Number of child categories"
+
+#~ msgid "%s Category"
+#~ msgid_plural "%s Categories"
+#~ msgstr[0] "%s قسم"
+#~ msgstr[1] "قسم %s"
+#~ msgstr[2] "%s قسمين"
+#~ msgstr[3] "%s أقسام"
+#~ msgstr[4] "%s أقسام"
+#~ msgstr[5] "%s أقسام"
+
+#~ msgid "Product search results"
+#~ msgstr "نتائج البحث عن منتج"
+
+#~ msgid "Please choose a product type"
+#~ msgstr "يرجى إختيار نوع منتج"
+
+#~ msgid "Create new %(product_class)s product"
+#~ msgstr "أنشئ %(product_class)s جديد للمنتج"
+
+#~ msgid "Create new variant of %(parent_product)s"
+#~ msgstr "أنشئ متغير جديد لـ %(parent_product)s"
+
+#~ msgid "Editing variant of %(parent_product)s"
+#~ msgstr "تحرير تشكيلة %(parent_product)s"
+
+#~ msgid "Your submitted data was not valid - please correct the errors below"
+#~ msgstr "المعلومات المرسلة غير صحيحة, الرجاء تصحيحها و إعادة إرسالها"
+
+#~ msgid "Delete product variant?"
+#~ msgstr "حذف نوع المنتج؟"
+
+#~ msgid "Delete product?"
+#~ msgstr "حذف المنتج؟"
+
+#~ msgid "Deleted product variant '%s'"
+#~ msgstr "حذفت تشكيلة المنتج '%s'"
+
+#~ msgid "Deleted product '%s'"
+#~ msgstr "Deleted product '%s'"
+
+#~ msgid "Alerts with status \"%s\""
+#~ msgstr "Alerts with status \"%s\""
+
+#~ msgid "All alerts"
+#~ msgstr "جميع التنبيهات"
+
+#~ msgid "Add a new category"
+#~ msgstr "إضافة قسم جديد"
+
+#~ msgid "Category created successfully"
+#~ msgstr "تم إنشاء القسم بنجاح"
+
+#~ msgid "Update category '%s'"
+#~ msgstr "Update category '%s'"
+
+#~ msgid "Category updated successfully"
+#~ msgstr "تم تحديث القسم ينجاح"
+
+#~ msgid "Category deleted successfully"
+#~ msgstr "Category deleted successfully"
+
+#~ msgid "Add a new product type"
+#~ msgstr "إضافة تصنيف منتج جديد"
+
+#~ msgid "Product type created successfully"
+#~ msgstr "تم إنشاء تصنيف المنتج بنجاح"
+
+#~ msgid "Update product type '%s'"
+#~ msgstr "تحديث نوع المنتج '%s'"
+
+#~ msgid "Product type updated successfully"
+#~ msgstr "تم تحديث نوع المنتج بنجاح"
+
+#~ msgid "Delete product type '%s'"
+#~ msgstr "حذف نوع المنتج '%s'"
+
+#~ msgid "Unable to delete '%s'"
+#~ msgstr "غير قادر على حذف '%s'"
+
+#~ msgid "Product type deleted successfully"
+#~ msgstr "تم حذف تصنيف المنتج بنجاح"
+
+#~ msgid "Communications dashboard"
+#~ msgstr "لوحة الاستعلام"
+
+#~ msgid "Email subject template"
+#~ msgstr "قالب عنوان البريد الإلكتروني"
+
+#~ msgid "Email body text template"
+#~ msgstr "المحتوى النصي لقالب البريد الإلكتروني"
+
+#~ msgid "Email body HTML template"
+#~ msgstr "Email body HTML template"
+
+#~ msgid "Preview email"
+#~ msgstr "معاينة البريد الإلكتروني"
+
+#~ msgid "No order found with this number"
+#~ msgstr "لا يوجد طلبات بهذا الرقم"
+
+#~ msgid "Please enter an email address"
+#~ msgstr "الرجاء إدخال البريد الالكتروني"
+
+#~ msgid ""
+#~ "The submitted form was not valid, please correct the errors and resubmit"
+#~ msgstr "المعلومات المرسلة غير صحيحة, الرجاء تصحيحها و إعادة إرسالها"
+
+#~ msgid "Email saved"
+#~ msgstr "تم الحفظ"
+
+#~ msgid "A preview email has been sent to %s"
+#~ msgstr "تم إرسال بريد المعاينة إلى %s"
+
+#~ msgid "Offers dashboard"
+#~ msgstr "لوحة العروض"
+
+#~ msgid "Start date"
+#~ msgstr "تاريخ البداية"
+
+#~ msgid "End date"
+#~ msgstr "تاريخ النهاية"
+
+#~ msgid "The end date must be after the start date"
+#~ msgstr "يجب أن يكون تاريخ النهاية بعد تاريخ البدء"
+
+#~ msgid "Custom condition"
+#~ msgstr "شرط مخصص"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom condition"
+#~ msgstr "الرجاء اختيار مجموعة, نوع, قيمة او تحديد شرط مخصص"
+
+#~ msgid "A range is required"
+#~ msgstr "A range is required"
+
+#~ msgid "Custom incentive"
+#~ msgstr "Custom incentive"
+
+#~ msgid ""
+#~ "Please either choose a range, type and value OR select a custom incentive"
+#~ msgstr ""
+#~ "Please either choose a range, type and value OR select a custom incentive"
+
+#~ msgid "No other options can be set if you are using a custom incentive"
+#~ msgstr "No other options can be set if you are using a custom incentive"
+
+#~ msgid "Offer name"
+#~ msgstr "اسم العرض"
+
+#~ msgid "Is active?"
+#~ msgstr "فعال؟"
+
+#~ msgid "Order date"
+#~ msgstr "تاريخ الطلب"
+
+#~ msgid "Order total"
+#~ msgstr "إجمالي الطلب"
+
+#~ msgid "Cost"
+#~ msgstr "التكلفة"
+
+#~ msgid "All offers"
+#~ msgstr "جميع العروض"
+
+#~ msgid "Offers matching '%s'"
+#~ msgstr "العروض المطابقة '%s'"
+
+#~ msgid "%s step not complete"
+#~ msgstr "الخطوة %s غير مكتملة"
+
+#~ msgid "Offer '%s' updated"
+#~ msgstr "العرض '%s' تم تحديثة"
+
+#~ msgid "Offer '%s' created!"
+#~ msgstr "العرض '%s' تم إنشاؤه!"
+
+#~ msgid "Name and description"
+#~ msgstr "الإسم و الوصف"
+
+#~ msgid "Incentive"
+#~ msgstr "العمولة"
+
+#~ msgid "Restrictions"
+#~ msgstr "القيود"
+
+#~ msgid "Offer deleted!"
+#~ msgstr "تم حذف العرض!"
+
+#~ msgid "Offer is already suspended"
+#~ msgstr "العرض معلق مسبقا"
+
+#~ msgid "Offer suspended"
+#~ msgstr "العرض معلق"
+
+#~ msgid "Offer cannot be reinstated as it is not currently suspended"
+#~ msgstr "العرض لا يمكن تفعيله حيث انه غير معلق حاليا"
+
+#~ msgid "Offer reinstated"
+#~ msgstr "تم تفعيل العرض"
+
+#~ msgid "Orders dashboard"
+#~ msgstr "لوحة الطلبيات"
+
+#~ msgid "Orders placed since %s"
+#~ msgstr "الطلبات منذ %s"
+
+#~ msgid "Orders placed until %s"
+#~ msgstr "الطلبات حتى %s"
+
+#~ msgid "Customer name"
+#~ msgstr "اسم العميل"
+
+#~ msgid "Product name"
+#~ msgstr "اسم المنتج"
+
+#~ msgid "Partner SKU"
+#~ msgstr "SKU الشريك"
+
+#~ msgid "Date from"
+#~ msgstr "التاريخ منذ"
+
+#~ msgid "Date to"
+#~ msgstr "التاريخ إلى"
+
+#~ msgid "Voucher code"
+#~ msgstr "رقم قسيمة الشراء"
+
+#~ msgid "Payment method"
+#~ msgstr "طريقة الدفع"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "CSV"
+#~ msgstr "CSV"
+
+#~ msgid "Get results as"
+#~ msgstr "الحصول على النتائج كـ"
+
+#~ msgid "New order status"
+#~ msgstr "حالة الطلبية الجديدة"
+
+#~ msgid "Placed after {start_date}"
+#~ msgstr "حددت بعد {start_date}"
+
+#~ msgid "Placed before {end_date}"
+#~ msgstr "حددت قبل {end_date}"
+
+#~ msgid "Order status is {order_status}"
+#~ msgstr "حالة الطلبية هي {order_status}"
+
+#~ msgid "Order value"
+#~ msgstr "قيمة الطلب"
+
+#~ msgid "Date of purchase"
+#~ msgstr "تاريخ الشراء"
+
+#~ msgid "Number of items"
+#~ msgstr "عدد المنتجات"
+
+#~ msgid "Order status"
+#~ msgstr "حالة الطلب"
+
+#~ msgid "Customer email address"
+#~ msgstr "عناون البرد الإلكتروني للعميل"
+
+#~ msgid "Deliver to name"
+#~ msgstr "توصيل للإسم"
+
+#~ msgid "Bill to name"
+#~ msgstr "Bill to name"
+
+#~ msgid "The new status '%s' is not valid"
+#~ msgstr "The new status '%s' is not valid"
+
+#~ msgid "The new status '%s' is not valid for this order"
+#~ msgstr "The new status '%s' is not valid for this order"
+
+#~ msgid "Unable to change order status due to payment error: %s"
+#~ msgstr "Unable to change order status due to payment error: %s"
+
+#~ msgid "Order status changed from '%(old_status)s' to '%(new_status)s'"
+#~ msgstr "Order status changed from '%(old_status)s' to '%(new_status)s'"
+
+#~ msgid "No valid action submitted"
+#~ msgstr "No valid action submitted"
+
+#~ msgid "Invalid action"
+#~ msgstr "Invalid action"
+
+#~ msgid "You must select some lines to act on"
+#~ msgstr "You must select some lines to act on"
+
+#~ msgid "The entered quantity for line #%s is not valid"
+#~ msgstr "الكمية المدخلة للمنتج #%s  غير صحيحة"
+
+#~ msgid "Note saved"
+#~ msgstr "تم حفظ الملاحظة"
+
+#~ msgid "Note cannot be deleted"
+#~ msgstr "لا يمكن حذف الملاحظة"
+
+#~ msgid "Note deleted"
+#~ msgstr "تم حذف الملاحظة"
+
+#~ msgid "Invalid form submission"
+#~ msgstr "تقديم غير صالح للنموذج "
+
+#~ msgid "Please choose a valid amount"
+#~ msgstr "يرجى اختيار مبلغ صالح"
+
+#~ msgid "'%(status)s' is not a valid new status for line %(line_id)d"
+#~ msgstr "'%(status)s' is not a valid new status for line %(line_id)d"
+
+#~ msgid ""
+#~ "Status of line #%(line_id)d changed from '%(old_status)s' to "
+#~ "'%(new_status)s'"
+#~ msgstr ""
+#~ "Status of line #%(line_id)d changed from '%(old_status)s' to "
+#~ "'%(new_status)s'"
+
+#~ msgid "The event type '%s' is not valid"
+#~ msgstr "The event type '%s' is not valid"
+
+#~ msgid "Unable to create shipping event: %s"
+#~ msgstr "Unable to create shipping event: %s"
+
+#~ msgid "Unable to create shipping event due to payment error: %s"
+#~ msgstr "Unable to create shipping event due to payment error: %s"
+
+#~ msgid "Shipping event created"
+#~ msgstr "Shipping event created"
+
+#~ msgid "Payment event created"
+#~ msgstr "Payment event created"
+
+#~ msgid "%(field)s changed from '%(old_value)s' to '%(new_value)s'"
+#~ msgstr "%(field)s changed from '%(old_value)s' to '%(new_value)s'"
+
+#~ msgid ""
+#~ "Delivery address updated:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Delivery address updated:\n"
+#~ "%s"
+
+#~ msgid "Delivery address updated"
+#~ msgstr "عنوان التسليم تم تحديثه"
+
+#~ msgid "Pages dashboard"
+#~ msgstr "لوحة الصفحات"
+
+#~ msgctxt "Page title"
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+#~ msgid "All pages"
+#~ msgstr "جميع الصفحات"
+
+#~ msgid " with title containing '%s'"
+#~ msgstr " with title containing '%s'"
+
+#~ msgid "Create New Page"
+#~ msgstr "إضافة صفحة جديدة"
+
+#~ msgid "Deleted page '%s'"
+#~ msgstr "Deleted page '%s'"
+
+#~ msgid "Partners dashboard"
+#~ msgstr "لوحة الداعمون"
+
+#~ msgctxt "Partner's name"
+#~ msgid "Name"
+#~ msgstr "الإسم"
+
+#~ msgid "Full dashboard access"
+#~ msgstr "تحكم كامل بلوحة التحكم"
+
+#~ msgid "Limited dashboard access"
+#~ msgstr "تحكم محدود بلوحة التحكم"
+
+#~ msgid "User role"
+#~ msgstr "دور المستعمل"
+
+#~ msgid "Confirm Password"
+#~ msgstr "تأكيد كلمة المرور"
+
+#~ msgid "All partners"
+#~ msgstr "كل الشركاء"
+
+#~ msgid "Partners matching '%s'"
+#~ msgstr "شركاء يطابقون '%s'"
+
+#~ msgid "Create new partner"
+#~ msgstr "إنشاء شريك جديد"
+
+#~ msgid "Partner '%s' was created successfully."
+#~ msgstr "تم إضافة الشريك '%s' بنجاح."
+
+#~ msgid "Partner '%s' was updated successfully."
+#~ msgstr "الداعم '%s' تم تحديث معلوماته بنجاح"
+
+#~ msgid "Partner '%s' was deleted successfully."
+#~ msgstr "الداعم '%s' تم حذف معلوماته بنجاح"
+
+#~ msgid "Create user"
+#~ msgstr "إنشاء مستخدم"
+
+#~ msgid "User '%s' was created successfully."
+#~ msgstr "المستعمل '%s' تم ادراج معلوماته بنجاح"
+
+#~ msgid "Edit user '%s'"
+#~ msgstr "تحرير معلومات المستعمل '%s'"
+
+#~ msgid "User '%s' was updated successfully."
+#~ msgstr "معلومات المستعمل '%s' تم تحيثها بنجاح"
+
+#~ msgid "Promotion type"
+#~ msgstr "Promotion type"
+
+#~ msgid "Position"
+#~ msgstr "Position"
+
+#~ msgid "Where in the page this content block will appear"
+#~ msgstr "Where in the page this content block will appear"
+
+#~ msgid "Content block removed successfully"
+#~ msgstr "Content block removed successfully"
+
+#~ msgid "Content block created successfully"
+#~ msgstr "Content block created successfully"
+
+#~ msgid "Create a new %s content block"
+#~ msgstr "Create a new %s content block"
+
+#~ msgid "Product list content block created"
+#~ msgstr "Product list content block created"
+
+#~ msgid "Update content block"
+#~ msgstr "Update content block"
+
+#~ msgid "Content block updated successfully"
+#~ msgstr "Content block updated successfully"
+
+#~ msgid "Content block '%(block)s' added to page '%(page)s'"
+#~ msgstr "Content block '%(block)s' added to page '%(page)s'"
+
+#~ msgid "No link found to delete"
+#~ msgstr "No link found to delete"
+
+#~ msgid "Content block removed from page '%s'"
+#~ msgstr "Content block removed from page '%s'"
+
+#~ msgid "Product list promotion updated"
+#~ msgstr "Product list promotion updated"
+
+#~ msgid "Content block deleted successfully"
+#~ msgstr "Content block deleted successfully"
+
+#~ msgid "Product SKUs or UPCs"
+#~ msgstr "Product SKUs or UPCs"
+
+#~ msgid "You can paste in a selection of SKUs or UPCs"
+#~ msgstr "You can paste in a selection of SKUs or UPCs"
+
+#~ msgid "File of SKUs or UPCs"
+#~ msgstr "File of SKUs or UPCs"
+
+#~ msgid "Either comma-separated, or one identifier per line"
+#~ msgstr "Either comma-separated, or one identifier per line"
+
+#~ msgid "You must submit either a list of SKU/UPCs or a file"
+#~ msgstr "You must submit either a list of SKU/UPCs or a file"
+
+#~ msgid "The products with SKUs or UPCs matching %s are already in this range"
+#~ msgstr ""
+#~ "The products with SKUs or UPCs matching %s are already in this range"
+
+#~ msgid "No products exist with a SKU or UPC matching %s"
+#~ msgstr "No products exist with a SKU or UPC matching %s"
+
+#~ msgid "Create range"
+#~ msgstr "Create range"
+
+#~ msgid "Range deleted"
+#~ msgstr "Range deleted"
+
+#~ msgid "%d product added to range"
+#~ msgid_plural "%d products added to range"
+#~ msgstr[0] "تم إضافة %d منتج للنطاق"
+#~ msgstr[1] "تم إضافة %d منتجات للنطاق"
+#~ msgstr[2] "تم إضافة %d منتجات للنطاق"
+#~ msgstr[3] "تم إضافة %d منتجات للنطاق"
+#~ msgstr[4] "تم إضافة %d منتجات للنطاق"
+#~ msgstr[5] "تم إضافة %d منتجات للنطاق"
+
+#~ msgid "No product(s) were found with SKU or UPC matching %s"
+#~ msgstr "No product(s) were found with SKU or UPC matching %s"
+
+#~ msgid "Reports dashboard"
+#~ msgstr "لوحة التقارير"
+
+#~ msgid "Report Type"
+#~ msgstr "نوع التقرير"
+
+#~ msgid "Only the offer and order reports use the selected date range"
+#~ msgstr "Only the offer and order reports use the selected date range"
+
+#~ msgid "The report is inclusive of this date"
+#~ msgstr "The report is inclusive of this date"
+
+#~ msgid "Download"
+#~ msgstr "تحميل"
+
+#~ msgid "Your start date must be before your end date"
+#~ msgstr "Your start date must be before your end date"
+
+#~ msgid "%(report_filter)s between %(start_date)s and %(end_date)s"
+#~ msgstr "%(report_filter)s between %(start_date)s and %(end_date)s"
+
+#~ msgid "You do not have access to this report"
+#~ msgstr "You do not have access to this report"
+
+#~ msgid "Reviews dashboard"
+#~ msgstr "لوحة المراجعات"
+
+#~ msgid "Keyword"
+#~ msgstr "كلمة دليلية"
+
+#~ msgid "to"
+#~ msgstr "إلى"
+
+#~ msgid ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+#~ msgstr ""
+#~ "%(main_filter)s %(date_filter)s %(status_filter)s%(kw_filter)s "
+#~ "%(name_filter)s"
+
+#~ msgid " created after %s"
+#~ msgstr " created after %s"
+
+#~ msgid " created before %s"
+#~ msgstr " created before %s"
+
+#~ msgid " created between %(start_date)s and %(end_date)s"
+#~ msgstr " created between %(start_date)s and %(end_date)s"
+
+#~ msgid "All reviews"
+#~ msgstr "جميع التقييمات"
+
+#~ msgid " with status matching '%s'"
+#~ msgstr " with status matching '%s'"
+
+#~ msgid " with keyword matching '%s'"
+#~ msgstr " with keyword matching '%s'"
+
+#~ msgid " with customer name matching '%s'"
+#~ msgstr " with customer name matching '%s'"
+
+#~ msgid "Shipping dashboard"
+#~ msgstr "لوحة الشحن"
+
+#~ msgid "Users dashboard"
+#~ msgstr "لوحة معلومات المستعمل"
+
+#~ msgctxt "User's name"
+#~ msgid "Name"
+#~ msgstr "الأسم"
+
+#~ msgid "%(main_filter)s %(email_filter)s %(name_filter)s"
+#~ msgstr "%(main_filter)s %(email_filter)s %(name_filter)s"
+
+#~ msgid "All users"
+#~ msgstr "جميع المستخدمين"
+
+#~ msgid " with email matching '%s'"
+#~ msgstr " with email matching '%s'"
+
+#~ msgid " with name matching '%s'"
+#~ msgstr " with name matching '%s'"
+
+#~ msgid "Users' status successfully changed"
+#~ msgstr "Users' status successfully changed"
+
+#~ msgid "A password reset email has been sent"
+#~ msgstr "رسالة إعادة ضبط كلمة المرور تم إرسالها"
+
+#~ msgid "All Alerts"
+#~ msgstr "جميع التنبيهات"
+
+#~ msgid " with customer email matching '%s'"
+#~ msgstr " with customer email matching '%s'"
+
+#~ msgid "Product alert saved"
+#~ msgstr "Product alert saved"
+
+#~ msgid "Product alert deleted"
+#~ msgstr "Product alert deleted"
+
+#~ msgid "Start datetime"
+#~ msgstr "تاريخ البدء"
+
+#~ msgid "End datetime"
+#~ msgstr "تاريخ الانتهاء"
+
+#~ msgid "Usage"
+#~ msgstr "الإستخدام"
+
+#~ msgid "Which products get a discount?"
+#~ msgstr "Which products get a discount?"
+
+#~ msgid "Percentage off of products in range"
+#~ msgstr "Percentage off of products in range"
+
+#~ msgid "Fixed amount off of products in range"
+#~ msgstr "Fixed amount off of products in range"
+
+#~ msgid "Discount is a percentage off of the shipping cost"
+#~ msgstr "Discount is a percentage off of the shipping cost"
+
+#~ msgid "Discount is a fixed amount of the shipping cost"
+#~ msgstr "Discount is a fixed amount of the shipping cost"
+
+#~ msgid "Get shipping for a fixed price"
+#~ msgstr "Get shipping for a fixed price"
+
+#~ msgid "Discount type"
+#~ msgstr "نوع الخصم"
+
+#~ msgid "Discount value"
+#~ msgstr "قيمة الخصم"
+
+#~ msgid "The name '%s' is already in use"
+#~ msgstr "The name '%s' is already in use"
+
+#~ msgid "The code '%s' is already in use"
+#~ msgstr "The code '%s' is already in use"
+
+#~ msgid "The start date must be before the end date"
+#~ msgstr "The start date must be before the end date"
+
+#~ msgid "Is Active?"
+#~ msgstr "هل فعّال؟"
+
+#~ msgid "%(main_filter)s %(name_filter)s %(code_filter)s"
+#~ msgstr "%(main_filter)s %(name_filter)s %(code_filter)s"
+
+#~ msgid "All vouchers"
+#~ msgstr "جميع القسائم"
+
+#~ msgid "with name matching '%s'"
+#~ msgstr "with name matching '%s'"
+
+#~ msgid "with code '%s'"
+#~ msgstr "with code '%s'"
+
+#~ msgid "Active vouchers"
+#~ msgstr "القسائم المفعلة"
+
+#~ msgid "Create voucher"
+#~ msgstr "إنشاء قسيمة"
+
+#~ msgid "Offer for voucher '%s'"
+#~ msgstr "Offer for voucher '%s'"
+
+#~ msgid "Voucher created"
+#~ msgstr "تم إنشاء القسيمة"
+
+#~ msgid "Voucher updated"
+#~ msgstr "تم تحديث القسيمة"
+
+#~ msgid "Voucher deleted"
+#~ msgstr "تم حذف القسيمة"
+
+#~ msgid "This is displayed within the customer's basket"
+#~ msgstr "This is displayed within the customer's basket"
+
+#~ msgid "This is displayed on the offer browsing page"
+#~ msgstr "This is displayed on the offer browsing page"
+
+#~ msgid "Site offer - available to all users"
+#~ msgstr "Site offer - available to all users"
+
+#~ msgid ""
+#~ "Voucher offer - only available after entering the appropriate voucher code"
+#~ msgstr ""
+#~ "Voucher offer - only available after entering the appropriate voucher code"
+
+#~ msgid "User offer - available to certain types of user"
+#~ msgstr "User offer - available to certain types of user"
+
+#~ msgid ""
+#~ "Session offer - temporary offer, available for a user for the duration of "
+#~ "their session"
+#~ msgstr ""
+#~ "Session offer - temporary offer, available for a user for the duration of "
+#~ "their session"
+
+#~ msgid "Condition"
+#~ msgstr "الحالة"
+
+#~ msgid "Benefit"
+#~ msgstr "Benefit"
+
+#~ msgid "Priority"
+#~ msgstr "الأفضلية"
+
+#~ msgid "The highest priority offers are applied first"
+#~ msgstr "The highest priority offers are applied first"
+
+#~ msgid "Max global applications"
+#~ msgstr "Max global applications"
+
+#~ msgid "The number of times this offer can be used before it is unavailable"
+#~ msgstr "The number of times this offer can be used before it is unavailable"
+
+#~ msgid "Max user applications"
+#~ msgstr "Max user applications"
+
+#~ msgid "The number of times a single user can use this offer"
+#~ msgstr "The number of times a single user can use this offer"
+
+#~ msgid "Max basket applications"
+#~ msgstr "الحد الأقصى من برامج سلة المشتريات "
+
+#~ msgid ""
+#~ "The number of times this offer can be applied to a basket (and order)"
+#~ msgstr ""
+#~ "The number of times this offer can be applied to a basket (and order)"
+
+#~ msgid "Max discount"
+#~ msgstr "أقصى حد للخصم"
+
+#~ msgid ""
+#~ "When an offer has given more discount to orders than this threshold, then "
+#~ "the offer becomes unavailable"
+#~ msgstr ""
+#~ "When an offer has given more discount to orders than this threshold, then "
+#~ "the offer becomes unavailable"
+
+#~ msgid "Total Discount"
+#~ msgstr "إجمالي الخصم"
+
+#~ msgid "Number of applications"
+#~ msgstr "عدد التطبيقات"
+
+#~ msgid "Number of Orders"
+#~ msgstr "عدد الطلبات"
+
+#~ msgid "URL redirect (optional)"
+#~ msgstr "URL redirect (optional)"
+
+#~ msgid "Conditional offer"
+#~ msgstr "حالة العرض"
+
+#~ msgid "Conditional offers"
+#~ msgstr "حالة العروض"
+
+#~ msgid "End date should be later than start date"
+#~ msgstr "End date should be later than start date"
+
+#~ msgid "Offer is suspended"
+#~ msgstr "العرض متوقف"
+
+#~ msgid "Limited to %(total)d uses (%(remainder)d remaining)"
+#~ msgstr "Limited to %(total)d uses (%(remainder)d remaining)"
+
+#~ msgid "Limited to 1 use per user"
+#~ msgstr "Limited to 1 use per user"
+
+#~ msgid "Limited to %(total)d uses per user"
+#~ msgstr "Limited to %(total)d uses per user"
+
+#~ msgid "Limited to 1 use per basket"
+#~ msgstr "Limited to 1 use per basket"
+
+#~ msgid "Limited to %(total)d uses per basket"
+#~ msgstr "Limited to %(total)d uses per basket"
+
+#~ msgid "Available between %(start)s and %(end)s"
+#~ msgstr "Available between %(start)s and %(end)s"
+
+#~ msgid "Available from %(start)s"
+#~ msgstr "Available from %(start)s"
+
+#~ msgid "Available until %(end)s"
+#~ msgstr "Available until %(end)s"
+
+#~ msgid "Limited to a cost of %(max)s"
+#~ msgstr "Limited to a cost of %(max)s"
+
+#~ msgid "Range"
+#~ msgstr "Range"
+
+#~ msgid "Discount is a percentage off of the product's value"
+#~ msgstr "Discount is a percentage off of the product's value"
+
+#~ msgid "Discount is a fixed amount off of the product's value"
+#~ msgstr "Discount is a fixed amount off of the product's value"
+
+#~ msgid "Discount is to give the cheapest product for free"
+#~ msgstr "Discount is to give the cheapest product for free"
+
+#~ msgid "Get the products that meet the condition for a fixed price"
+#~ msgstr "Get the products that meet the condition for a fixed price"
+
+#~ msgid "Max Affected Items"
+#~ msgstr "Max Affected Items"
+
+#~ msgid ""
+#~ "Set this to prevent the discount consuming all items within the range "
+#~ "that are in the basket."
+#~ msgstr ""
+#~ "Set this to prevent the discount consuming all items within the range "
+#~ "that are in the basket."
+
+#~ msgid "Custom class"
+#~ msgstr "فئة مخصصة"
+
+#~ msgid "Benefits"
+#~ msgstr "Benefits"
+
+#~ msgid "Multibuy benefits require a product range"
+#~ msgstr "Multibuy benefits require a product range"
+
+#~ msgid "Multibuy benefits don't require a value"
+#~ msgstr "Multibuy benefits don't require a value"
+
+#~ msgid "Multibuy benefits don't require a 'max affected items' attribute"
+#~ msgstr "Multibuy benefits don't require a 'max affected items' attribute"
+
+#~ msgid "Percentage benefits require a product range"
+#~ msgstr "Percentage benefits require a product range"
+
+#~ msgid "Percentage discount cannot be greater than 100"
+#~ msgstr "Percentage discount cannot be greater than 100"
+
+#~ msgid "A discount value is required"
+#~ msgstr "قيمة الخصم مطلوبة"
+
+#~ msgid ""
+#~ "No range should be selected as this benefit does not apply to products"
+#~ msgstr ""
+#~ "No range should be selected as this benefit does not apply to products"
+
+#~ msgid "Shipping discounts don't require a 'max affected items' attribute"
+#~ msgstr "Shipping discounts don't require a 'max affected items' attribute"
+
+#~ msgid ""
+#~ "No range should be selected as the condition range will be used instead."
+#~ msgstr ""
+#~ "No range should be selected as the condition range will be used instead."
+
+#~ msgid "Fixed discount benefits require a product range"
+#~ msgstr "مزايا الحسم الثابت يحتاج مجال منتجات"
+
+#~ msgid "Depends on number of items in basket that are in condition range"
+#~ msgstr "Depends on number of items in basket that are in condition range"
+
+#~ msgid "Depends on value of items in basket that are in condition range"
+#~ msgstr "Depends on value of items in basket that are in condition range"
+
+#~ msgid ""
+#~ "Needs to contain a set number of DISTINCT items from the condition range"
+#~ msgstr ""
+#~ "Needs to contain a set number of DISTINCT items from the condition range"
+
+#~ msgid "Conditions"
+#~ msgstr "الحالات"
+
+#~ msgid "Is public?"
+#~ msgstr "هل الامر عام؟"
+
+#~ msgid "Includes all products?"
+#~ msgstr "إ"
+
+#~ msgid "Included Products"
+#~ msgstr "Included Products"
+
+#~ msgid "Excluded Products"
+#~ msgstr "Excluded Products"
+
+#~ msgid "Included Categories"
+#~ msgstr "Included Categories"
+
+#~ msgid "File Path"
+#~ msgstr "File Path"
+
+#~ msgid "Size"
+#~ msgstr "الحجم"
+
+#~ msgid "Uploaded By"
+#~ msgstr "تم رفعه بواسطة"
+
+#~ msgid "Date Uploaded"
+#~ msgstr "تاريخ الرفع"
+
+#~ msgid "Error Message"
+#~ msgstr "رسالة خطأ"
+
+#~ msgid "Date Processed"
+#~ msgstr "تاريخ المعالجة"
+
+#~ msgid "Number of New SKUs"
+#~ msgstr "Number of New SKUs"
+
+#~ msgid "Number of Unknown SKUs"
+#~ msgstr "Number of Unknown SKUs"
+
+#~ msgid "Number of Duplicate SKUs"
+#~ msgstr "Number of Duplicate SKUs"
+
+#~ msgid "Range Product Uploaded File"
+#~ msgstr "Range Product Uploaded File"
+
+#~ msgid "Range Product Uploaded Files"
+#~ msgstr "Range Product Uploaded Files"
+
+#~ msgid "%(value)s%% discount on %(range)s"
+#~ msgstr "%(value)s%% discount on %(range)s"
+
+#~ msgid "Percentage discount benefit"
+#~ msgstr "Percentage discount benefit"
+
+#~ msgid "Percentage discount benefits"
+#~ msgstr "Percentage discount benefits"
+
+#~ msgid "%(value)s discount on %(range)s"
+#~ msgstr "%(value)s discount on %(range)s"
+
+#~ msgid "Absolute discount benefit"
+#~ msgstr "Absolute discount benefit"
+
+#~ msgid "Absolute discount benefits"
+#~ msgstr "Absolute discount benefits"
+
+#~ msgid "The products that meet the condition are sold for %(amount)s"
+#~ msgstr "The products that meet the condition are sold for %(amount)s"
+
+#~ msgid "Fixed price benefit"
+#~ msgstr "Fixed price benefit"
+
+#~ msgid "Fixed price benefits"
+#~ msgstr "Fixed price benefits"
+
+#~ msgid "Cheapest product from %(range)s is free"
+#~ msgstr "Cheapest product from %(range)s is free"
+
+#~ msgid "Multibuy discount benefit"
+#~ msgstr "Multibuy discount benefit"
+
+#~ msgid "Multibuy discount benefits"
+#~ msgstr "Multibuy discount benefits"
+
+#~ msgid "%(amount)s off shipping cost"
+#~ msgstr "%(amount)s off shipping cost"
+
+#~ msgid "Shipping absolute discount benefit"
+#~ msgstr "Shipping absolute discount benefit"
+
+#~ msgid "Shipping absolute discount benefits"
+#~ msgstr "Shipping absolute discount benefits"
+
+#~ msgid "Get shipping for %(amount)s"
+#~ msgstr "Get shipping for %(amount)s"
+
+#~ msgid "Fixed price shipping benefit"
+#~ msgstr "Fixed price shipping benefit"
+
+#~ msgid "Fixed price shipping benefits"
+#~ msgstr "Fixed price shipping benefits"
+
+#~ msgid "%(value)s%% off of shipping cost"
+#~ msgstr "%(value)s%% off of shipping cost"
+
+#~ msgid "Shipping percentage discount benefit"
+#~ msgstr "Shipping percentage discount benefit"
+
+#~ msgid "Shipping percentage discount benefits"
+#~ msgstr "Shipping percentage discount benefits"
+
+#~ msgid "Basket includes %(count)d item(s) from %(range)s"
+#~ msgstr "Basket includes %(count)d item(s) from %(range)s"
+
+#~ msgid "Buy %(delta)d more product from %(range)s"
+#~ msgid_plural "Buy %(delta)d more products from %(range)s"
+#~ msgstr[0] "إشتري %(delta)d منتجات إضافية من %(range)s"
+#~ msgstr[1] "إشتري %(delta)d منتجات إضافية من %(range)s"
+#~ msgstr[2] "إشتري %(delta)d منتجات إضافية من %(range)s"
+#~ msgstr[3] "إشتري %(delta)d منتجات إضافية من %(range)s"
+#~ msgstr[4] "إشتري %(delta)d منتجات إضافية من %(range)s"
+#~ msgstr[5] "إشتري %(delta)d منتجات إضافية من %(range)s"
+
+#~ msgid "Basket includes %(count)d distinct item(s) from %(range)s"
+#~ msgstr "Basket includes %(count)d distinct item(s) from %(range)s"
+
+#~ msgid "Coverage Condition"
+#~ msgstr "Coverage Condition"
+
+#~ msgid "Coverage Conditions"
+#~ msgstr "Coverage Conditions"
+
+#~ msgid "Basket includes %(amount)s from %(range)s"
+#~ msgstr "Basket includes %(amount)s from %(range)s"
+
+#~ msgid "Spend %(value)s more from %(range)s"
+#~ msgstr "Spend %(value)s more from %(range)s"
+
+#~ msgid "Offer"
+#~ msgstr "العرض"
+
+#~ msgid "Total discount"
+#~ msgstr "اجمالي الخصم"
+
+#~ msgid "Offer performance"
+#~ msgstr "Offer performance"
+
+#~ msgid "Site"
+#~ msgstr "الموقع"
+
+#~ msgid "Billing Address"
+#~ msgstr "عنوان المحاسبة"
+
+#~ msgid "Order total (inc. tax)"
+#~ msgstr "اجمالي الطلب (مع الضريبة)"
+
+#~ msgid "Order total (excl. tax)"
+#~ msgstr "اجمالي الطلب (من دون الضريبة)"
+
+#~ msgid "Shipping charge (inc. tax)"
+#~ msgstr "اجمالي الشحن (مع الضريبة)"
+
+#~ msgid "Shipping charge (excl. tax)"
+#~ msgstr "اجمالي الشحن (من دون الضريبة)"
+
+#~ msgid "Shipping Address"
+#~ msgstr "عنوان الشحن"
+
+#~ msgid "Shipping method"
+#~ msgstr "طريقة الشحن"
+
+#~ msgid "Guest email address"
+#~ msgstr "العنوان البريدي للزائر"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status for order %(number)s (current "
+#~ "status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s' is not a valid status for order %(number)s (current "
+#~ "status: '%(status)s')"
+
+#~ msgid "In progress"
+#~ msgstr "في تقدم"
+
+#~ msgid "Note Type"
+#~ msgstr "Note Type"
+
+#~ msgid "Message"
+#~ msgstr "الرسالة"
+
+#~ msgid "Order Note"
+#~ msgstr "Order Note"
+
+#~ msgid "Order Notes"
+#~ msgstr "Order Notes"
+
+#~ msgid "Event Type"
+#~ msgstr "Event Type"
+
+#~ msgid "Communication Event"
+#~ msgstr "Communication Event"
+
+#~ msgid "Communication Events"
+#~ msgstr "Communication Events"
+
+#~ msgid "'%(type)s' event for order #%(number)s"
+#~ msgstr "'%(type)s' event for order #%(number)s"
+
+#~ msgid "Partner name"
+#~ msgstr "إسم الشري"
+
+#~ msgid "Partner reference"
+#~ msgstr "Partner reference"
+
+#~ msgid "This is the item number that the partner uses within their system"
+#~ msgstr "This is the item number that the partner uses within their system"
+
+#~ msgid "Partner Notes"
+#~ msgstr "ملاحظات الشركاء"
+
+#~ msgid "Price (inc. tax)"
+#~ msgstr "Price (inc. tax)"
+
+#~ msgid "Price (excl. tax)"
+#~ msgstr "Price (excl. tax)"
+
+#~ msgid "Price before discounts (inc. tax)"
+#~ msgstr "Price before discounts (inc. tax)"
+
+#~ msgid "Price before discounts (excl. tax)"
+#~ msgstr "Price before discounts (excl. tax)"
+
+#~ msgid "Unit Cost Price"
+#~ msgstr "سعر تكلفة الوحدة"
+
+#~ msgid "Unit Price (inc. tax)"
+#~ msgstr "Unit Price (inc. tax)"
+
+#~ msgid "Unit Price (excl. tax)"
+#~ msgstr "Unit Price (excl. tax)"
+
+#~ msgid "Unit Retail Price"
+#~ msgstr "Unit Retail Price"
+
+#~ msgid "Estimated Dispatch Date"
+#~ msgstr "Estimated Dispatch Date"
+
+#~ msgid "Order Line"
+#~ msgstr "Order Line"
+
+#~ msgid "<missing product>"
+#~ msgstr "<missing product>"
+
+#~ msgid "Product '%(name)s', quantity '%(qty)s'"
+#~ msgstr "Product '%(name)s', quantity '%(qty)s'"
+
+#~ msgid ""
+#~ "'%(new_status)s' is not a valid status (current status: '%(status)s')"
+#~ msgstr ""
+#~ "'%(new_status)s' is not a valid status (current status: '%(status)s')"
+
+#~ msgid "Line Attribute"
+#~ msgstr "Line Attribute"
+
+#~ msgid "Line Attributes"
+#~ msgstr "Line Attributes"
+
+#~ msgid "Shiping (inc. tax)"
+#~ msgstr "Shiping (inc. tax)"
+
+#~ msgid "Shipping (excl. tax)"
+#~ msgstr "Shipping (excl. tax)"
+
+#~ msgid "Line Price"
+#~ msgstr "Line Price"
+
+#~ msgid "Line Prices"
+#~ msgstr "Line Prices"
+
+#~ msgid "Line '%(number)s' (quantity %(qty)d) price %(price)s"
+#~ msgstr "Line '%(number)s' (quantity %(qty)d) price %(price)s"
+
+#~ msgid "Payment Event Type"
+#~ msgstr "Payment Event Type"
+
+#~ msgid "Payment Event Types"
+#~ msgstr "Payment Event Types"
+
+#~ msgid "Amount"
+#~ msgstr "القيمة"
+
+#~ msgid "Reference"
+#~ msgstr "رقم المرجع"
+
+#~ msgid "Lines"
+#~ msgstr "الأسطر"
+
+#~ msgid "Payment Event"
+#~ msgstr "Payment Event"
+
+#~ msgid "Payment Events"
+#~ msgstr "Payment Events"
+
+#~ msgid "Payment event for order %s"
+#~ msgstr "Payment event for order %s"
+
+#~ msgid "Event"
+#~ msgstr "فاعلية"
+
+#~ msgid "Payment Event Quantity"
+#~ msgstr "Payment Event Quantity"
+
+#~ msgid "Payment Event Quantities"
+#~ msgstr "Payment Event Quantities"
+
+#~ msgid "Event notes"
+#~ msgstr "Event notes"
+
+#~ msgid "This could be the dispatch reference, or a tracking number"
+#~ msgstr "This could be the dispatch reference, or a tracking number"
+
+#~ msgid "Shipping Event"
+#~ msgstr "Shipping Event"
+
+#~ msgid "Shipping Events"
+#~ msgstr "Shipping Events"
+
+#~ msgid "Order #%(number)s, type %(type)s"
+#~ msgstr "Order #%(number)s, type %(type)s"
+
+#~ msgid "Shipping Event Quantity"
+#~ msgstr "Shipping Event Quantity"
+
+#~ msgid "Shipping Event Quantities"
+#~ msgstr "Shipping Event Quantities"
+
+#~ msgid "%(product)s - quantity %(qty)d"
+#~ msgstr "%(product)s - quantity %(qty)d"
+
+#~ msgid "Shipping Event Type"
+#~ msgstr "Shipping Event Type"
+
+#~ msgid "Shipping Event Types"
+#~ msgstr "Shipping Event Types"
+
+#~ msgid "Discount category"
+#~ msgstr "Discount category"
+
+#~ msgid "Offer ID"
+#~ msgstr "رقم العرض"
+
+#~ msgid "Voucher ID"
+#~ msgstr "رقم القسيمة"
+
+#~ msgid "Frequency"
+#~ msgstr "التردد"
+
+#~ msgid "Order Discount"
+#~ msgstr "ترتيب الخصم"
+
+#~ msgid "Order Discounts"
+#~ msgstr "ترتيب الخصومات"
+
+#~ msgid "Discount of %(amount)r from order %(order)s"
+#~ msgstr "Discount of %(amount)r from order %(order)s"
+
+#~ msgid "The selected quantity for line #%(line_id)s is too large"
+#~ msgstr "الكمية المختارة لعناصر الطلب #%(line_id)s كبيرة جدا"
+
+#~ msgid "Total incl. tax"
+#~ msgstr "الإجمالي مع الضريبة"
+
+#~ msgid "Date placed"
+#~ msgstr "تاريخ الطلب"
+
+#~ msgid "Orders placed"
+#~ msgstr "الطلبات المطلوبة"
+
+#~ msgid "Empty baskets cannot be submitted"
+#~ msgstr "سلال المشتريات الفارغة لا يمكن طلبها"
+
+#~ msgid "There is already an order with number %s"
+#~ msgstr "يوجد طلب بالرقم %s مسبقا"
+
+#~ msgid "Fulfillment partner"
+#~ msgstr "Fulfillment partner"
+
+#~ msgid "Fulfillment partners"
+#~ msgstr "Fulfillment partners"
+
+#~ msgid "Price (retail)"
+#~ msgstr "Price (retail)"
+
+#~ msgid "Cost Price"
+#~ msgstr "سعر التكلفة"
+
+#~ msgid "Number in stock"
+#~ msgstr "Number in stock"
+
+#~ msgid "Number allocated"
+#~ msgstr "Number allocated"
+
+#~ msgid "Low Stock Threshold"
+#~ msgstr "Low Stock Threshold"
+
+#~ msgid "Invalid stock consumption request"
+#~ msgstr "Invalid stock consumption request"
+
+#~ msgid "Stock Record"
+#~ msgstr "Stock Record"
+
+#~ msgid "Threshold"
+#~ msgstr "Threshold"
+
+#~ msgid "Open"
+#~ msgstr "مفتوح"
+
+#~ msgid "Date Closed"
+#~ msgstr "تاريخ الإغلاق"
+
+#~ msgid "<stockalert for \"%(stock)s\" status %(status)s>"
+#~ msgstr "<stockalert for \"%(stock)s\" status %(status)s>"
+
+#~ msgid "Stock alerts"
+#~ msgstr "Stock alerts"
+
+#~ msgid "unavailable"
+#~ msgstr "غير متوفر"
+
+#~ msgid "Unavailable"
+#~ msgstr "غير متوفر"
+
+#~ msgid "Available"
+#~ msgstr "متوفر"
+
+#~ msgid "no stock available"
+#~ msgstr "لا يوجد مخزون"
+
+#~ msgid "In stock"
+#~ msgstr "متوفر"
+
+#~ msgid "In stock (%d available)"
+#~ msgstr "In stock (%d available)"
+
+#~ msgid "No file path supplied"
+#~ msgstr "No file path supplied"
+
+#~ msgid "%s does not exist"
+#~ msgstr "%s does not exist"
+
+#~ msgid "%s is not a file"
+#~ msgstr "%s is not a file"
+
+#~ msgid "%s is not readable"
+#~ msgstr "%s is not readable"
+
+#~ msgid "Source"
+#~ msgstr "المصدر"
+
+#~ msgid "%(type)s of %(amount).2f"
+#~ msgstr "%(type)s of %(amount).2f"
+
+#~ msgid "Transaction"
+#~ msgstr "صفقة"
+
+#~ msgid "Transactions"
+#~ msgstr "صفقات"
+
+#~ msgid "Source Type"
+#~ msgstr "نوع المصدر"
+
+#~ msgid "Amount Allocated"
+#~ msgstr "Amount Allocated"
+
+#~ msgid "Amount Debited"
+#~ msgstr "Amount Debited"
+
+#~ msgid "Amount Refunded"
+#~ msgstr "Amount Refunded"
+
+#~ msgid "Label"
+#~ msgstr "Label"
+
+#~ msgid "Sources"
+#~ msgstr "المصادر"
+
+#~ msgid " (reference: %s)"
+#~ msgstr " (reference: %s)"
+
+#~ msgid "This is used within forms to identify this source type"
+#~ msgstr "This is used within forms to identify this source type"
+
+#~ msgid "Source Types"
+#~ msgstr "أنواع المصدر"
+
+#~ msgid "Card Type"
+#~ msgstr "نوع البطاقة"
+
+#~ msgid "Number"
+#~ msgstr "الرقم"
+
+#~ msgid "Expiry Date"
+#~ msgstr "تاريخ الإنتهاء"
+
+#~ msgid "Partner Reference"
+#~ msgstr "مرجع الشريك"
+
+#~ msgid "Bankcard"
+#~ msgstr "Bankcard"
+
+#~ msgid "Bankcards"
+#~ msgstr "Bankcards"
+
+#~ msgid "Payment"
+#~ msgstr "الدفع"
+
+#~ msgid "Card number"
+#~ msgstr "رقم البطاقة"
+
+#~ msgid "Please enter a valid credit card number."
+#~ msgstr "Please enter a valid credit card number."
+
+#~ msgid "Enter a valid month."
+#~ msgstr "Enter a valid month."
+
+#~ msgid "Enter a valid year."
+#~ msgstr "Enter a valid year."
+
+#~ msgid "Valid to"
+#~ msgstr "صالح لغاية"
+
+#~ msgid "The expiration date you entered is in the past."
+#~ msgstr "The expiration date you entered is in the past."
+
+#~ msgid "Valid from"
+#~ msgstr "صالح من"
+
+#~ msgid "The starting date you entered is in the future."
+#~ msgstr "The starting date you entered is in the future."
+
+#~ msgid "CCV number"
+#~ msgstr "رقم التفويض"
+
+#~ msgid "Please enter a 3 or 4 digit number"
+#~ msgstr "يرجى ادخال رقم مكون من 3 او 4 ارقام"
+
+#~ msgid ""
+#~ "This is the 3 or 4 digit security number on the back of your bankcard"
+#~ msgstr ""
+#~ "هذا هو رقم الضمان الذس يتكون من 3 أو 4 أرقام على ظهر بطاقتك المصرفية"
+
+#~ msgid "Promotions"
+#~ msgstr "Promotions"
+
+#~ msgid "Display Order"
+#~ msgstr "عرض الطلب"
+
+#~ msgid "Clicks"
+#~ msgstr "الضغطات"
+
+#~ msgid "Linked Promotion"
+#~ msgstr "Linked Promotion"
+
+#~ msgid "Linked Promotions"
+#~ msgstr "Linked Promotions"
+
+#~ msgid "Page URL"
+#~ msgstr "عنوان الصفحة"
+
+#~ msgid "Page Promotion"
+#~ msgstr "Page Promotion"
+
+#~ msgid "Page Promotions"
+#~ msgstr "Page Promotions"
+
+#~ msgid "Filter"
+#~ msgstr "Filter"
+
+#~ msgid "Keyword Promotion"
+#~ msgstr "Keyword Promotion"
+
+#~ msgid "Keyword Promotions"
+#~ msgstr "Keyword Promotions"
+
+#~ msgid "Keywords"
+#~ msgstr "Keywords"
+
+#~ msgid "Promotion"
+#~ msgstr "Promotion"
+
+#~ msgid "Display type"
+#~ msgstr "Display type"
+
+#~ msgid ""
+#~ "This can be used to have different types of HTML blocks (eg different "
+#~ "widths)"
+#~ msgstr ""
+#~ "This can be used to have different types of HTML blocks (eg different "
+#~ "widths)"
+
+#~ msgid "Raw HTML"
+#~ msgstr "Raw HTML"
+
+#~ msgid "Link URL"
+#~ msgstr "Link URL"
+
+#~ msgid "Multi Image"
+#~ msgstr "Multi Image"
+
+#~ msgid "Multi Images"
+#~ msgstr "Multi Images"
+
+#~ msgid "Link text"
+#~ msgstr "Link text"
+
+#~ msgid "Hand Picked Product List"
+#~ msgstr "Hand Picked Product List"
+
+#~ msgid "Hand Picked Product Lists"
+#~ msgstr "Hand Picked Product Lists"
+
+#~ msgid "List"
+#~ msgstr "قائمة"
+
+#~ msgid "Bestselling products"
+#~ msgstr "Bestselling products"
+
+#~ msgid "Recently added products"
+#~ msgstr "Recently added products"
+
+#~ msgid "Method"
+#~ msgstr "Method"
+
+#~ msgid "Number of Products"
+#~ msgstr "Number of Products"
+
+#~ msgid "Tabbed Block"
+#~ msgstr "Tabbed Block"
+
+#~ msgid "Ordered Product List"
+#~ msgstr "Ordered Product List"
+
+#~ msgid "Ordered Product Lists"
+#~ msgstr "Ordered Product Lists"
+
+#~ msgid "Tabbed Blocks"
+#~ msgstr "Tabbed Blocks"
+
+#~ msgid "Search"
+#~ msgstr "البحث"
+
+#~ msgid "Newest"
+#~ msgstr "الأحدث"
+
+#~ msgid "Title A to Z"
+#~ msgstr "العنوان من أ إلى ي"
+
+#~ msgid "Title Z to A"
+#~ msgstr "العنوان من ي إلى أ"
+
+#~ msgid "Shipping Method"
+#~ msgstr "طريقة الشحن"
+
+#~ msgid "Shipping Methods"
+#~ msgstr "طرق الشحن"
+
+#~ msgid "Price per order"
+#~ msgstr "السعر للطلب"
+
+#~ msgid "Price per item"
+#~ msgstr "السعر للوحدة"
+
+#~ msgid "Free Shipping"
+#~ msgstr "شحن مجاني"
+
+#~ msgid "Order and Item Charge"
+#~ msgstr "Order and Item Charge"
+
+#~ msgid "Order and Item Charges"
+#~ msgstr "Order and Item Charges"
+
+#~ msgid "Default Weight"
+#~ msgstr "الحجم الإفتراضي"
+
+#~ msgid "Weight-based Shipping Method"
+#~ msgstr "Weight-based Shipping Method"
+
+#~ msgid "Weight-based Shipping Methods"
+#~ msgstr "Weight-based Shipping Methods"
+
+#~ msgid "Upper Limit"
+#~ msgstr "Upper Limit"
+
+#~ msgid "Charge"
+#~ msgstr "Charge"
+
+#~ msgid "Weight Band"
+#~ msgstr "Weight Band"
+
+#~ msgid "Weight Bands"
+#~ msgstr "Weight Bands"
+
+#~ msgid "Shipping"
+#~ msgstr "الشحن"
+
+#~ msgid "Free shipping"
+#~ msgstr "شحن مجاني"
+
+#~ msgid "No shipping required"
+#~ msgstr "لا شحن مطلوب"
+
+#~ msgid "Fixed price shipping"
+#~ msgstr "Fixed price shipping"
+
+#~ msgid "You need to define some shipping methods"
+#~ msgstr "You need to define some shipping methods"
+
+#~ msgid ""
+#~ "This will be shown in the checkout and basket once the voucher is entered"
+#~ msgstr ""
+#~ "This will be shown in the checkout and basket once the voucher is entered"
+
+#~ msgid "Case insensitive / No spaces allowed"
+#~ msgstr "Case insensitive / No spaces allowed"
+
+#~ msgid "Can be used once by one customer"
+#~ msgstr "Can be used once by one customer"
+
+#~ msgid "Can be used multiple times by multiple customers"
+#~ msgstr "Can be used multiple times by multiple customers"
+
+#~ msgid "Can only be used once per customer"
+#~ msgstr "Can only be used once per customer"
+
+#~ msgid "Times added to basket"
+#~ msgstr "Times added to basket"
+
+#~ msgid "Times on orders"
+#~ msgstr "Times on orders"
+
+#~ msgid "Voucher"
+#~ msgstr "قسيمة"
+
+#~ msgid "This voucher has already been used"
+#~ msgstr "This voucher has already been used"
+
+#~ msgid "This voucher is only available to signed in users"
+#~ msgstr "This voucher is only available to signed in users"
+
+#~ msgid "You have already used this voucher in a previous order"
+#~ msgstr "You have already used this voucher in a previous order"
+
+#~ msgid "Voucher Application"
+#~ msgstr "Voucher Application"
+
+#~ msgid "Voucher Applications"
+#~ msgstr "Voucher Applications"
+
+#~ msgid "'%(voucher)s' used by '%(user)s'"
+#~ msgstr "'%(voucher)s' used by '%(user)s'"
+
+#~ msgid "Added to a basket"
+#~ msgstr "Added to a basket"
+
+#~ msgid "Used in an order"
+#~ msgstr "Used in an order"
+
+#~ msgid "Voucher performance"
+#~ msgstr "Voucher performance"
+
+#~ msgid "Default"
+#~ msgstr "افتراضي"
+
+#~ msgid "Wish List"
+#~ msgstr "قائمة الأمنيات"
+
+#~ msgid "Wish list line"
+#~ msgstr "قائمة الأمنيات"
+
+#~ msgid "Wishlists"
+#~ msgstr "قائمة الأمنيات"
+
+#~ msgid "This field is required"
+#~ msgstr "هذا الحقل مطلوب"
+
+#~ msgid "This is not a valid local or international phone format."
+#~ msgstr "صيغة رقم الهاتف ليست لرقم محلي او دولي."
+
+#~ msgid "Permission denied!"
+#~ msgstr "Permission denied!"
+
+#~ msgid "We're sorry but you are not permitted to access this page."
+#~ msgstr "We're sorry but you are not permitted to access this page."
+
+#~ msgid "Page not found"
+#~ msgstr "لم نتمكن من إيجاد الصفحة"
+
+#~ msgid "Page not found!"
+#~ msgstr "لم نتمكن من إيجاد الصفحة!"
+
+#~ msgid "We're sorry but the page you are looking for can't be found."
+#~ msgstr "عذرا, الصفحة التي تبحث عنها لم يتم إيجادها"
+
+#~ msgid "Server error!"
+#~ msgstr "خطأ في الخادم!"
+
+#~ msgid ""
+#~ "This incident has been logged and will be addressed by an engineer as "
+#~ "soon as possible."
+#~ msgstr ""
+#~ "This incident has been logged and will be addressed by an engineer as "
+#~ "soon as possible."
+
+#~ msgid "Home"
+#~ msgstr "الصفحة الرئيسية"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(title)s</strong> has been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    <strong>%(title)s</strong> has been added to your basket.\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "    <strong>%(quantity)s</strong> copies of <strong>%(title)s</strong>\n"
+#~ "    have been added to your basket.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    <strong>%(quantity)s</strong> copies of <strong>%(title)s</strong>\n"
+#~ "    have been added to your basket.\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been moved back to your basket.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been moved back to your basket.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "<strong>%(title)s</strong> has been saved for later\n"
+#~ msgstr ""
+#~ "\n"
+#~ "‏<strong>%(title)s</strong> تم حفظه لوقت اخر\n"
+
+#~ msgid "Your basket is now empty"
+#~ msgstr "سلة التسوق الآن فارغة"
+
+#~ msgid "View basket"
+#~ msgstr "عرض سلة التسوق"
+
+#~ msgid "Checkout now"
+#~ msgstr "إتمام عملية الشراء"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket now qualifies for the \n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Your basket now qualifies for the \n"
+#~ "<strong>%(name)s</strong> offer.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "Your basket no longer qualifies for the\n"
+#~ "<strong>%(name)s</strong> offer.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Your basket no longer qualifies for the\n"
+#~ "<strong>%(name)s</strong> offer.\n"
+
+#~ msgid "Important messages about items in your basket"
+#~ msgstr "Important messages about items in your basket"
+
+#~ msgid "You could be missing out on offers!"
+#~ msgstr "قد تفوتك العروض!"
+
+#~ msgid "Items to buy now"
+#~ msgstr "المنتجات للشراء الآن"
+
+#~ msgid "Price"
+#~ msgstr "السعر"
+
+#~ msgid "Total"
+#~ msgstr "مجموع"
+
+#~ msgid "Update"
+#~ msgstr "تحديث"
+
+#~ msgid "Remove"
+#~ msgstr "إزالة"
+
+#~ msgid "Save for later"
+#~ msgstr "حفظ لوقت لاحق"
+
+#~ msgid "Voucher/promo code"
+#~ msgstr "رمز العرض/قسيمة الشراء"
+
+#~ msgid "I have a voucher code..."
+#~ msgstr "لدي قسيمة شرائية..."
+
+#~ msgid "Add voucher"
+#~ msgstr "إضافة قسيمة شرائية"
+
+#~ msgid "or"
+#~ msgstr "أو"
+
+#~ msgid "cancel"
+#~ msgstr "إلغاء"
+
+#~ msgid "Totals"
+#~ msgstr "الإجمالي"
+
+#~ msgid "Proceed to checkout"
+#~ msgstr "المتابعة للشراء"
+
+#~ msgid "Your basket is empty."
+#~ msgstr "سلة التسوق فارغة"
+
+#~ msgid "Continue shopping"
+#~ msgstr "متابعة التسوق"
+
+#~ msgid "Items"
+#~ msgstr "المنتجات"
+
+#~ msgid "Move to basket"
+#~ msgstr "النقل لسلة التسوق"
+
+#~ msgid "Qty"
+#~ msgstr "الكمية"
+
+#~ msgid "Total:"
+#~ msgstr "الاجمالي:"
+
+#~ msgid "Basket total (before discounts)"
+#~ msgstr "اجمالي السلة (قبل الخصم)"
+
+#~ msgid "Discount"
+#~ msgstr "الخصم"
+
+#~ msgid "Basket total (after discounts)"
+#~ msgstr "اجمالي السلة (بعد الخصم)"
+
+#~ msgid "Basket total"
+#~ msgstr "اجمالي سلة التسوق"
+
+#~ msgid "Alternative shipping methods can be chosen during checkout"
+#~ msgstr "يمكن اختيار طرق الشحن بديلة خلال اتمام عملية الشراء"
+
+#~ msgid "Shipping total (before discounts)"
+#~ msgstr "إجمالي الشحن (قبل الخصم)"
+
+#~ msgid "Shipping total (after discounts)"
+#~ msgstr "إجمالي الشحن (بعد الخصم)"
+
+#~ msgid "Tax"
+#~ msgstr "الضريبة"
+
+#~ msgid "Post order actions"
+#~ msgstr "الأحداث بعد الطلب"
+
+#~ msgid "These will be applied once your order is placed."
+#~ msgstr "سيتم التطبيق بعد إرسال الطلب."
+
+#~ msgid "Taxes will be added during checkout."
+#~ msgstr "الضريبة سيتم إضافتها خلال عملية الشراء"
+
+#~ msgid "No products found."
+#~ msgstr "لا يوجد منتجات."
+
+#~ msgid "Edit this product"
+#~ msgstr "Edit this product"
+
+#~ msgid "Product Description"
+#~ msgstr "Product Description"
+
+#~ msgid "Product Information"
+#~ msgstr "معلومات المنتج"
+
+#~ msgid "Product Type"
+#~ msgstr "نوع المنتج"
+
+#~ msgid "Price (incl. tax)"
+#~ msgstr "Price (incl. tax)"
+
+#~ msgid "Availability"
+#~ msgstr "التوافر"
+
+#~ msgid "Number of reviews"
+#~ msgstr "عدد التقييمات"
+
+#~ msgid "See all reviews"
+#~ msgstr "See all reviews"
+
+#~ msgid "Customer Reviews"
+#~ msgstr "Customer Reviews"
+
+#~ msgid "This product does not have any reviews yet"
+#~ msgstr "This product does not have any reviews yet"
+
+#~ msgid "Recommended items"
+#~ msgstr "Recommended items"
+
+#~ msgid "Add to basket"
+#~ msgstr "أضف الى سلة التسوق"
+
+#~ msgid "You have an active stock alert for this product."
+#~ msgstr "لديك تنبيه مخزون فعال لهذا المنتج."
+
+#~ msgid "You can get an email alert when this product is back in stock."
+#~ msgstr "سيتم إعلامك عبر البريد الإلكتروني حال توافر هذا المنتج بالمخزون."
+
+#~ msgid "Notify me"
+#~ msgstr "أبلغني"
+
+#~ msgid "Add to wish list"
+#~ msgstr "أضف إلى قائمة الأمنيات"
+
+#~ msgid "Create a new wishlist"
+#~ msgstr "إنشاء قائمة أمنيات جديدة"
+
+#~ msgid "Please login to add products to a wish list."
+#~ msgstr "الرجاء تسجيل الدخول لإضافة منتجات لقائمة الأمنيات"
+
+#~ msgid "Is this review helpful?"
+#~ msgstr "هل هذا التقييم مفيد؟"
+
+#~ msgid "Yes"
+#~ msgstr "نعم"
+
+#~ msgid "No"
+#~ msgstr "لا"
+
+#~ msgid "Write a review"
+#~ msgstr "اكتب تقييمك"
+
+#~ msgid "Customer reviews"
+#~ msgstr "تقييمات العملاء"
+
+#~ msgid "Leave a product review"
+#~ msgstr "Leave a product review"
+
+#~ msgid "This product does not have any reviews yet."
+#~ msgstr "لم يتم تقييم هذا المنتج حتى الأن."
+
+#~ msgid "Change"
+#~ msgstr "تعديل"
+
+#~ msgid "Contact"
+#~ msgstr "اتصال"
+
+#~ msgid "Phone"
+#~ msgstr "هاتف"
+
+#~ msgid "Payment details to go here"
+#~ msgstr "معلومات الدفع"
+
+#~ msgid "Edit order contents"
+#~ msgstr "تعديل محتوى الطلب"
+
+#~ msgid "Order contents"
+#~ msgstr "محتوى الطلب"
+
+#~ msgid "Item"
+#~ msgstr "المنتج"
+
+#~ msgid "Checkout gateway"
+#~ msgstr "طريقة الدفع"
+
+#~ msgid "Who are you?"
+#~ msgstr "من انت?"
+
+#~ msgid "Get a password reminder"
+#~ msgstr "الحصول على تذكير كلمة المرور"
+
+#~ msgid "Continue"
+#~ msgstr "استمر"
+
+#~ msgid "1. Shipping address"
+#~ msgstr "1. عنوان الشحن"
+
+#~ msgid "2. Shipping method"
+#~ msgstr "2. طريقة الشحن"
+
+#~ msgid "3. Payment"
+#~ msgstr "3. الدفع"
+
+#~ msgid "Payment details"
+#~ msgstr "Payment details"
+
+#~ msgid "Order preview"
+#~ msgstr "Order preview"
+
+#~ msgid "Place order"
+#~ msgstr "Place order"
+
+#~ msgid "Where should we ship to?"
+#~ msgstr "إلى اين يجب ان نشحن الطلب؟"
+
+#~ msgid "Ship to this address"
+#~ msgstr "Ship to this address"
+
+#~ msgid "Delete"
+#~ msgstr "حذف"
+
+#~ msgid "Or a new address?"
+#~ msgstr "Or a new address?"
+
+#~ msgid "return to basket"
+#~ msgstr "return to basket"
+
+#~ msgid "Select option"
+#~ msgstr "اختيار طريقة شحن"
+
+#~ msgid ""
+#~ "Please make a note of this reference or print this page and quote it in "
+#~ "any communication with us regarding your order."
+#~ msgstr ""
+#~ "يرجى حفظ نسخة من هذا المرجع أو طباعة هذه الصفحة لإستخدامها في حال تواصلكم "
+#~ "معنا بخصوص الطلب."
+
+#~ msgid "No shipping address required."
+#~ msgstr "عنوان الشحن غير مطلوب."
+
+#~ msgid "No payment was required for this order."
+#~ msgstr "لا يتطلب الدفع لهذا الطلب"
+
+#~ msgid "Items purchased"
+#~ msgstr "المنتجات المشتراه"
+
+#~ msgid "Shipping charge (before discounts)"
+#~ msgstr "قيمة الشحن (قبل الخصم)"
+
+#~ msgid "Shipping charge (after discounts)"
+#~ msgstr "قيمة الشحن (بعد الخصم)"
+
+#~ msgid "Shipping charge"
+#~ msgstr "قيمة الشحن"
+
+#~ msgid "Order tax"
+#~ msgstr "ضريبة الطلب"
+
+#~ msgid "Tracking your order"
+#~ msgstr "متابعة طلبك"
+
+#~ msgid "You can track the status of your order"
+#~ msgstr "يمكنك تتبع حالة طلبك"
+
+#~ msgid "Print this page"
+#~ msgstr "طباعة هذه الصفحة"
+
+#~ msgid "Are you sure you want to delete this address?"
+#~ msgstr "هل انت متأكد من حذف هذا العنوان؟"
+
+#~ msgid "Yes!"
+#~ msgstr "نعم!"
+
+#~ msgid "Save"
+#~ msgstr "حفظ"
+
+#~ msgid "Address book"
+#~ msgstr "دفتر العناوين"
+
+#~ msgid "Default shipping address"
+#~ msgstr "عنوان الشحن الإفتراضي"
+
+#~ msgid "Default billing address"
+#~ msgstr "عنوان المحاسبة الإفتراضي"
+
+#~ msgid "Edit"
+#~ msgstr "تعديل"
+
+#~ msgid "There are no addresses in your address book."
+#~ msgstr "لا يوجد عناوين في دفتر العناوين الخاص بكم"
+
+#~ msgid "You do not have any active alerts for out-of-stock products."
+#~ msgstr "لا يوجد لديك أي تنبيهات فعالة لأي منتج غير متوفر حاليا"
+
+#~ msgid "Cancel"
+#~ msgstr "إلغاء"
+
+#~ msgid ""
+#~ "\n"
+#~ "<a href=\"%(url)s\">%(title)s</a> is back in stock\n"
+#~ msgstr ""
+#~ "\n"
+#~ "‏<a href=\"%(url)s\">%(title)s</a> متوفر حاليا\n"
+
+#~ msgid "Order #%(number)s"
+#~ msgstr "الطلب #%(number)s"
+
+#~ msgid "Contact number"
+#~ msgstr "رقم الإتصال"
+
+#~ msgid "Notes"
+#~ msgstr "الملاحظات"
+
+#~ msgid "Estimated dispatch date"
+#~ msgstr "التاريخ المتوقع للشحن"
+
+#~ msgid "Line price excl. tax"
+#~ msgstr "المبلغ من دون الضريبة"
+
+#~ msgid "Line price incl. tax"
+#~ msgstr "المبلغ مع الضريبة"
+
+#~ msgid "Basket total (inc. tax)"
+#~ msgstr "اجمالي سلة التسوق (مع الضريبة)"
+
+#~ msgid "Email history"
+#~ msgstr "سجل المراسلات"
+
+#~ msgid "Date sent"
+#~ msgstr "تاريخ الإرسال"
+
+#~ msgid "No emails found"
+#~ msgstr "لم يتم العثور على أي رسائل"
+
+#~ msgid "Thanks for using our site!"
+#~ msgstr "شكرا لك لإستخدامك موقعنا!"
+
+#~ msgid "The %(name)s team"
+#~ msgstr "فريق %(name)s"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately "
+#~ "and correct your email address:"
+#~ msgstr ""
+#~ "ان لم يكن التغيير من قبلكم، يرجى إعادة تعيين كلمة المرور الخاصة بك على "
+#~ "الفور وتصحيح عنوان البريد الإلكتروني الخاص بك:"
+
+#~ msgid ""
+#~ "If it was you who changed the email address, you can ignore this email."
+#~ msgstr ""
+#~ "إذا كنت انت من غير عنوان البريد الإلكتروني، يمكنك تجاهل هذه الرسالة."
+
+#~ msgid ""
+#~ "You're receiving this email because your email address has been changed "
+#~ "to %(email)s."
+#~ msgstr ""
+#~ "تصلك هذه الرسالة لأنه تم تغيير بريدك الإلكتروني إلى <strong>%(email)s</"
+#~ "strong>.    "
+
+#~ msgid "Your email address has changed at %(site_name)s."
+#~ msgstr "تم تغير بريدك الإلكتروني في موقع %(site_name)s."
+
+#~ msgid "Hello,"
+#~ msgstr "مرحبا,"
+
+#~ msgid "Your order contains:"
+#~ msgstr "طلبكم يحتوي على:"
+
+#~ msgid "Basket total:"
+#~ msgstr "اجمالي سلة التسوق:"
+
+#~ msgid "Shipping:"
+#~ msgstr "الشحن:"
+
+#~ msgid "Order Total:"
+#~ msgstr "اجمالي الطلب:"
+
+#~ msgid "Shipping address:"
+#~ msgstr "عنوان الشحن:"
+
+#~ msgid ""
+#~ "You can view the status of this order by clicking <a href=\"%(status_url)s"
+#~ "\" title=\"order status\">here</a>"
+#~ msgstr ""
+#~ "You can view the status of this order by clicking <a href=\"%(status_url)s"
+#~ "\" title=\"order status\">here</a>"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "We are pleased to confirm your order %(order_number)s has been received "
+#~ "and\n"
+#~ "will be processed shortly."
+#~ msgstr ""
+#~ "مرحبا,\n"
+#~ "\n"
+#~ "يسعدنا إعلامكم ان طلبكم رقم %(order_number)s تم إستلامه\n"
+#~ "و جاري العمل على تجهيزه قريبا."
+
+#~ msgid "quantity:"
+#~ msgstr "الكمية:"
+
+#~ msgid "price:"
+#~ msgstr "القيمة:"
+
+#~ msgid ""
+#~ "You can view the status of this order at the below URL:\n"
+#~ "%(status_url)s"
+#~ msgstr ""
+#~ "يمكنك عرض حالة هذا الطلب على الرابط أدناه:\n"
+#~ "‏%(status_url)s"
+
+#~ msgid "The team"
+#~ msgstr "الفريق"
+
+#~ msgid "Confirmation of order %(number)s"
+#~ msgstr "تأكيد الطلب رقم %(number)s"
+
+#~ msgid ""
+#~ "If it wasn't you who changed it, please reset your password immediately:"
+#~ msgstr "اذا لم تكن من قام بتغييرها, الرجاء إعادة ضبطها مباشرة::"
+
+#~ msgid "Otherwise, you can ignore this email."
+#~ msgstr "خلاف ذلك، يمكنك تجاهل هذه الرسالة."
+
+#~ msgid ""
+#~ "\n"
+#~ "You're receiving this email because your password has been changed at "
+#~ "%(name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "تصلك هذه الرسالة لأن كلمة المرور الخاصة بكم لدى %(name)s تم تغييرها.\n"
+
+#~ msgid "Your password changed at %(site_name)s."
+#~ msgstr "تم تغيير كلمة المرور الخاصة بك في %(site_name)s."
+
+#~ msgid ""
+#~ "You're receiving this e-mail because you requested a password reset for "
+#~ "your user account at %(name)s."
+#~ msgstr ""
+#~ "تصلك هذه الرسالة لأنك قمت بطلب تغيير كلمة المرور الخاصة بك لدى %(name)s."
+
+#~ msgid "Please go to the following page and choose a new password:"
+#~ msgstr "الرجاء زيارة الرابط التالي و إعادة ضبط كلمة المرور:"
+
+#~ msgid "Resetting your password at %(site_name)s."
+#~ msgstr "جاري تغيير كلمة المرور الخاصة بك في %(site_name)s."
+
+#~ msgid "Dear %(name)s,"
+#~ msgstr "عزيزي %(name)s,"
+
+#~ msgid ""
+#~ "\n"
+#~ "Beware that the amount of items in stock is limited. Be quick or someone "
+#~ "might get there first.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "يرجى العلم ان الكمية المتوفرة محدودة. اسرع بالحصول عليها اوو قد يتم "
+#~ "شراؤها من قبل عملاء آخرين.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "With this email we have disabled your alert automatically and you will "
+#~ "not\n"
+#~ "receive any further email regarding this product.\n"
+#~ "\n"
+#~ "Thanks for your interest,\n"
+#~ "The %(site_name)s Team\n"
+#~ msgstr ""
+#~ "\n"
+#~ "تم إيقاف التنبيهات التلقائية لهذا المنتج على بريدكم\n"
+#~ "\n"
+#~ "شكرا لإهتمامكم,\n"
+#~ "فريق %(site_name)s\n"
+
+#~ msgid "Confirmation required for stock alert"
+#~ msgstr "تأكيد الإشتراك مطلوب بتنبية توافر المنتج"
+
+#~ msgid "Thank you for registering."
+#~ msgstr "شكرا لتسجيلكم معنا."
+
+#~ msgid "Products you recently viewed"
+#~ msgstr "المنتجات التي استعرضتها مؤخرا"
+
+#~ msgid "Log In"
+#~ msgstr "Log In"
+
+#~ msgid "I've forgotten my password"
+#~ msgstr "I've forgotten my password"
+
+#~ msgid "Register"
+#~ msgstr "التسجيل"
+
+#~ msgid "Registering..."
+#~ msgstr "جاري التسجيل..."
+
+#~ msgid "Notifications inbox"
+#~ msgstr "صندوق التنبيهات"
+
+#~ msgid "Sender"
+#~ msgstr "المرسل"
+
+#~ msgid "Return to notifications inbox"
+#~ msgstr "الرجول لصندوق التنبيهات"
+
+#~ msgctxt "noun"
+#~ msgid "Archive"
+#~ msgstr "الأرشيف"
+
+#~ msgid "View"
+#~ msgstr "عرض"
+
+#~ msgctxt "verb"
+#~ msgid "Archive"
+#~ msgstr "أرشف"
+
+#~ msgid "With selected items:"
+#~ msgstr "العناصر المحددة:"
+
+#~ msgid "There are no notifications to display."
+#~ msgstr "لا يوجد أي تنبيهات للعرض."
+
+#~ msgid "Order history"
+#~ msgstr "Order history"
+
+#~ msgid "Dispatch date"
+#~ msgstr "Dispatch date"
+
+#~ msgid "Re-order"
+#~ msgstr "إعادة ترتيب"
+
+#~ msgid "Basket total (excl. discounts)"
+#~ msgstr "Basket total (excl. discounts)"
+
+#~ msgid "Basket total (inc. discounts)"
+#~ msgstr "Basket total (inc. discounts)"
+
+#~ msgid "Shipping total (excl. discounts)"
+#~ msgstr "Shipping total (excl. discounts)"
+
+#~ msgid "Shipping total (inc. discounts)"
+#~ msgstr "Shipping total (inc. discounts)"
+
+#~ msgid "Shipping total"
+#~ msgstr "Shipping total"
+
+#~ msgid "Filter results"
+#~ msgstr "Filter results"
+
+#~ msgid "Reset"
+#~ msgstr "إعادة تعيين"
+
+#~ msgid "Total inc tax"
+#~ msgstr "Total inc tax"
+
+#~ msgid "Change password"
+#~ msgstr "Change password"
+
+#~ msgid "Edit profile"
+#~ msgstr "Edit profile"
+
+#~ msgid "Please confirm your password to delete your profile."
+#~ msgstr "الرجاء إدخال كلمة المرور لتأكيد حذف حسابكم"
+
+#~ msgid "Warning"
+#~ msgstr "تحذير"
+
+#~ msgid ""
+#~ "\n"
+#~ "                This will delete all information about you from the "
+#~ "site.  Deleting your profile cannot be\n"
+#~ "                undone.\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                سيؤدي ذلك إلى حذف جميع معلومات حسابك من الموقع. عملية حذف "
+#~ "الحساب لا يمكن التراجع\n"
+#~ "                عنها.\n"
+#~ "            "
+
+#~ msgid "Delete?"
+#~ msgstr "حذف؟"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Are you sure you want to delete %(name)s?\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                هل انت متأكد من حذف %(name)s؟\n"
+#~ "            "
+
+#~ msgid "Your wish list is empty."
+#~ msgstr "قائمة الأمنيات فارغة"
+
+#~ msgid "Sections"
+#~ msgstr "التصنيفات"
+
+#~ msgid "Delete category?"
+#~ msgstr "حذف القسم؟"
+
+#~ msgid "Delete category"
+#~ msgstr "حذف القسم"
+
+#~ msgid "Create new category"
+#~ msgstr "إضافة قسم جديد"
+
+#~ msgid "You are editing:"
+#~ msgstr "أنت تقوم بتحرير:"
+
+#~ msgid "Edit category"
+#~ msgstr "تعديل القسم"
+
+#~ msgid "Add child category"
+#~ msgstr "إضافة قسم فرعي"
+
+#~ msgid "Edit children"
+#~ msgstr "Edit children"
+
+#~ msgid "View on site"
+#~ msgstr "عرض على الموقع"
+
+#~ msgid "Edit again"
+#~ msgstr "تحرير مرة أخرى"
+
+#~ msgid "View it on the site"
+#~ msgstr "عرض على الموقع"
+
+#~ msgid "Delete product type?"
+#~ msgstr "حذف نوع المنتج؟"
+
+#~ msgid "Delete product type"
+#~ msgstr "حذف نوع المنتج"
+
+#~ msgid "Create product type"
+#~ msgstr "إضافة نوع منتج"
+
+#~ msgid "Create new product"
+#~ msgstr "إضافة منتج جديد"
+
+#~ msgid "New Product"
+#~ msgstr "منتج جديد"
+
+#~ msgid "Search Products"
+#~ msgstr "بحث المنتجات"
+
+#~ msgid "Product details"
+#~ msgstr "تفاصيل المنتج"
+
+#~ msgid "Product Type:"
+#~ msgstr "نوع المنتج:"
+
+#~ msgid "Upload, change or remove images"
+#~ msgstr "Upload, change or remove images"
+
+#~ msgid "SKU"
+#~ msgstr "SKU"
+
+#~ msgid "Low stock threshold"
+#~ msgstr "Low stock threshold"
+
+#~ msgid "Cost price"
+#~ msgstr "سعر الكلفة"
+
+#~ msgid "Save and continue editing"
+#~ msgstr "Save and continue editing"
+
+#~ msgid "All"
+#~ msgstr "الجميع"
+
+#~ msgid "Current available stock"
+#~ msgstr "Current available stock"
+
+#~ msgid "Date alert raised"
+#~ msgstr "Date alert raised"
+
+#~ msgid "No stock alerts found."
+#~ msgstr "No stock alerts found."
+
+#~ msgid "Preview"
+#~ msgstr "عرض"
+
+#~ msgid "Edit email"
+#~ msgstr "تحرير البريد الإلكتروني"
+
+#~ msgid "Email content"
+#~ msgstr "تعجيل المحتوى"
+
+#~ msgid "These fields are rendered using Django's template system."
+#~ msgstr "These fields are rendered using Django's template system."
+
+#~ msgid "You can use the following variables:"
+#~ msgstr "You can use the following variables:"
+
+#~ msgid "The full name of the user (if they have one)"
+#~ msgstr "The full name of the user (if they have one)"
+
+#~ msgid "The user's email address"
+#~ msgstr "The user's email address"
+
+#~ msgid "The name of the site (eg example.com)"
+#~ msgstr "The name of the site (eg example.com)"
+
+#~ msgid "View a preview of this email using order:"
+#~ msgstr "View a preview of this email using order:"
+
+#~ msgid "View preview"
+#~ msgstr "View preview"
+
+#~ msgid "or send a preview to:"
+#~ msgstr "or send a preview to:"
+
+#~ msgid "Send preview email"
+#~ msgstr "Send preview email"
+
+#~ msgid "Body text"
+#~ msgstr "Body text"
+
+#~ msgid "There are no defined emails to edit."
+#~ msgstr "There are no defined emails to edit."
+
+#~ msgid "Your Store Statistics"
+#~ msgstr "Your Store Statistics"
+
+#~ msgid "Total Orders"
+#~ msgstr "إجمالي الطلبات"
+
+#~ msgid "New Customers"
+#~ msgstr "العملاء الجدد"
+
+#~ msgid "Total Customers"
+#~ msgstr "إجمالي العملاء"
+
+#~ msgid "Total Products"
+#~ msgstr "إجمالي المنتجات"
+
+#~ msgid "Latest Orders (last 24 hours)"
+#~ msgstr "Latest Orders (last 24 hours)"
+
+#~ msgid "Orders - Last 24 Hours"
+#~ msgstr "Orders - Last 24 Hours"
+
+#~ msgid "Total orders"
+#~ msgstr "إجمالي الطلبات"
+
+#~ msgid "Total lines"
+#~ msgstr "إجمالي الخطوط"
+
+#~ msgid "Total revenue"
+#~ msgstr "Total revenue"
+
+#~ msgid "Average order costs"
+#~ msgstr "Average order costs"
+
+#~ msgid "Manage"
+#~ msgstr "إدارة"
+
+#~ msgid "Orders - All Time"
+#~ msgstr "الطلبات - كل الوقت"
+
+#~ msgid "Total customers"
+#~ msgstr "إجمالي العملاء"
+
+#~ msgid "New customers"
+#~ msgstr "العملاء الجدد"
+
+#~ msgid "View Stock Alerts"
+#~ msgstr "View Stock Alerts"
+
+#~ msgid "Catalogue and stock"
+#~ msgstr "Catalogue and stock"
+
+#~ msgid "Total products"
+#~ msgstr "إجمالي المنتجات"
+
+#~ msgid "Offers, vouchers and promotions"
+#~ msgstr "Offers, vouchers and promotions"
+
+#~ msgid "Welcome"
+#~ msgstr "مرحبا"
+
+#~ msgid "Return to site"
+#~ msgstr "العودة للموقع"
+
+#~ msgid "Log out"
+#~ msgstr "خروج"
+
+#~ msgid "Build a new incentive"
+#~ msgstr "Build a new incentive"
+
+#~ msgid "...or choose a pre-defined one"
+#~ msgstr "...or choose a pre-defined one"
+
+#~ msgid "Continue to step 3"
+#~ msgstr "Continue to step 3"
+
+#~ msgid "Build a new condition"
+#~ msgstr "Build a new condition"
+
+#~ msgid "Continue to step 4"
+#~ msgstr "Continue to step 4"
+
+#~ msgid "Continue to step 2"
+#~ msgstr "Continue to step 2"
+
+#~ msgid "Delete offer"
+#~ msgstr "حذف العرض"
+
+#~ msgid "Are you sure you want to delete this offer?"
+#~ msgstr "هل أنت متأكد من حذف هذا العرض؟"
+
+#~ msgid "Reinstate offer"
+#~ msgstr "إرجاع العرض"
+
+#~ msgid "Suspend offer"
+#~ msgstr "عرض متوقف"
+
+#~ msgid "Offer currently available"
+#~ msgstr "Offer currently available"
+
+#~ msgid "Offer not available due to restrictions!"
+#~ msgstr "Offer not available due to restrictions!"
+
+#~ msgid "Total cost:"
+#~ msgstr "إجمالي التكلفة:"
+
+#~ msgid "Number of orders:"
+#~ msgstr "عدد العروض:"
+
+#~ msgid "Number of uses:"
+#~ msgstr "عدد الإستخدامات"
+
+#~ msgid "Date created:"
+#~ msgstr "تاريخ الإنشاء:"
+
+#~ msgid "Offer details"
+#~ msgstr "تفاصيل العرض"
+
+#~ msgid "Export to CSV"
+#~ msgstr "Export to CSV"
+
+#~ msgid "Orders that used this offer"
+#~ msgstr "Orders that used this offer"
+
+#~ msgid "Create new offer"
+#~ msgstr "Create new offer"
+
+#~ msgid "Is available?"
+#~ msgstr "هل متاح؟"
+
+#~ msgid "Uses"
+#~ msgstr "Uses"
+
+#~ msgid "Browse"
+#~ msgstr "تصفح"
+
+#~ msgid "Stats"
+#~ msgstr "الإحصاءات"
+
+#~ msgid "No offers found."
+#~ msgstr "لا توجد عروض."
+
+#~ msgid "Steps"
+#~ msgstr "الخطوات"
+
+#~ msgid "1. Name and description"
+#~ msgstr "١. الإسم والوصف"
+
+#~ msgid "2. Incentive"
+#~ msgstr "2. Incentive"
+
+#~ msgid "3. Condition"
+#~ msgstr "3. Condition"
+
+#~ msgid "4. Restrictions"
+#~ msgstr "4. Restrictions"
+
+#~ msgid "Save this offer"
+#~ msgstr "حفظ هذا العرضذ"
+
+#~ msgid "Fields marked with * are mandatory."
+#~ msgstr "Fields marked with * are mandatory."
+
+#~ msgid "Save changes"
+#~ msgstr "حفظ التغييرات"
+
+#~ msgid "Offer summary"
+#~ msgstr "Offer summary"
+
+#~ msgid "Line #%(id)s"
+#~ msgstr "Line #%(id)s"
+
+#~ msgid "Order #%(number)s - Line #%(id)s"
+#~ msgstr "Order #%(number)s - Line #%(id)s"
+
+#~ msgid "Product Options"
+#~ msgstr "خيارات المنتج"
+
+#~ msgid "Partner details"
+#~ msgstr "تفاصيل الشريك"
+
+#~ msgid "Shipping details"
+#~ msgstr "تفاصيل الشحن"
+
+#~ msgid "Partner reference number"
+#~ msgstr "Partner reference number"
+
+#~ msgid "Partner notes"
+#~ msgstr "ملاحظات الشحن"
+
+#~ msgid "Estimate dispatch date"
+#~ msgstr "Estimate dispatch date"
+
+#~ msgid "Order %(number)s"
+#~ msgstr "Order %(number)s"
+
+#~ msgid "Customer Information"
+#~ msgstr "Customer Information"
+
+#~ msgid "Order information"
+#~ msgstr "Order information"
+
+#~ msgid "Order Total"
+#~ msgstr "اجمالي لطلب"
+
+#~ msgid "Time of purchase"
+#~ msgstr "Time of purchase"
+
+#~ msgid "Order Details"
+#~ msgstr "تفاصيل الطلب"
+
+#~ msgid "Discounts"
+#~ msgstr "خصومات"
+
+#~ msgid "Items ordered"
+#~ msgstr "Items ordered"
+
+#~ msgid "Line ID"
+#~ msgstr "خط"
+
+#~ msgid "Supplier"
+#~ msgstr "Supplier"
+
+#~ msgid "Supplier SKU"
+#~ msgstr "Supplier SKU"
+
+#~ msgid "With selected lines"
+#~ msgstr "With selected lines"
+
+#~ msgid "choose new status"
+#~ msgstr "choose new status"
+
+#~ msgid "Create shipping event"
+#~ msgstr "Create shipping event"
+
+#~ msgid "choose event type"
+#~ msgstr "choose event type"
+
+#~ msgid "with reference"
+#~ msgstr "with reference"
+
+#~ msgid "Create payment event"
+#~ msgstr "Create payment event"
+
+#~ msgid "with amount"
+#~ msgstr "with amount"
+
+#~ msgid "Go!"
+#~ msgstr "ذهاب!"
+
+#~ msgid "No shipping events."
+#~ msgstr "No shipping events."
+
+#~ msgid "Product:"
+#~ msgstr "منتج:"
+
+#~ msgid "quantity"
+#~ msgstr "الكمية"
+
+#~ msgid "No payment events."
+#~ msgstr "No payment events."
+
+#~ msgid "Charge (incl tax)"
+#~ msgstr "Charge (incl tax)"
+
+#~ msgid "Charge (excl tax)"
+#~ msgstr "Charge (excl tax)"
+
+#~ msgid "Payment sources"
+#~ msgstr "Payment sources"
+
+#~ msgid "Allocation"
+#~ msgstr "Allocation"
+
+#~ msgid "Amount debited"
+#~ msgstr "Amount debited"
+
+#~ msgid "Amount refunded"
+#~ msgstr "Amount refunded"
+
+#~ msgid "Admin"
+#~ msgstr "مدير"
+
+#~ msgid "No notes available."
+#~ msgstr "No notes available."
+
+#~ msgid "Save note"
+#~ msgstr "حفظ الملاحظة"
+
+#~ msgid "Notes are only editable for 5 minutes after being saved."
+#~ msgstr "Notes are only editable for 5 minutes after being saved."
+
+#~ msgid "Advanced Search"
+#~ msgstr "بحث متقدم"
+
+#~ msgid "Close"
+#~ msgstr "إغلاق"
+
+#~ msgid "Download selected orders as a CSV"
+#~ msgstr "Download selected orders as a CSV"
+
+#~ msgid "Deleted"
+#~ msgstr "حذف"
+
+#~ msgid "Changing..."
+#~ msgstr "جاري التغيير..."
+
+#~ msgid "No orders found."
+#~ msgstr "No orders found."
+
+#~ msgid "Print Packaging Slips"
+#~ msgstr "Print Packaging Slips"
+
+#~ msgid "Mark as"
+#~ msgstr "Mark as"
+
+#~ msgid "Change order status to"
+#~ msgstr "Change order status to"
+
+#~ msgid "Done"
+#~ msgstr "تم"
+
+#~ msgid "Edit shipping address"
+#~ msgstr "Edit shipping address"
+
+#~ msgid "Edit shipping address for order %(order.number)s"
+#~ msgstr "Edit shipping address for order %(order.number)s"
+
+#~ msgid "Update address"
+#~ msgstr "Update address"
+
+#~ msgid "Order statistics"
+#~ msgstr "Order statistics"
+
+#~ msgid "Filter result"
+#~ msgstr "Filter result"
+
+#~ msgid "Summary"
+#~ msgstr "Summary"
+
+#~ msgid "Order status breakdown"
+#~ msgstr "Order status breakdown"
+
+#~ msgid "Delete page '%(title)s'?"
+#~ msgstr "Delete page '%(title)s'?"
+
+#~ msgid "Delete page"
+#~ msgstr "حذف الصفحة"
+
+#~ msgid "Delete page <strong>%(title)s</strong> - are you sure?"
+#~ msgstr "Delete page <strong>%(title)s</strong> - are you sure?"
+
+#~ msgid "Create new page"
+#~ msgstr "إنشاء صفحة جديدة"
+
+#~ msgid "No pages found."
+#~ msgstr "لا توجد صفحات."
+
+#~ msgid "Oops! We found some errors"
+#~ msgstr "عذرا حدث خطأ فني!"
+
+#~ msgid "please check the error messages below and try again"
+#~ msgstr "الرجاء التحقق من الأخطاء بالأسفل و معاودة المحاولة لاحقا"
+
+#~ msgid "previous"
+#~ msgstr "السابق"
+
+#~ msgid ""
+#~ "\n"
+#~ "                Page %(page_num)s of %(total_pages)s\n"
+#~ "            "
+#~ msgstr ""
+#~ "\n"
+#~ "                صفحة %(page_num)s من %(total_pages)s\n"
+#~ "            "
+
+#~ msgid "next"
+#~ msgstr "التالى"
+
+#~ msgid ""
+#~ "\n"
+#~ "User %(user_name)s was unlinked from %(partner_name)s.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "العميل %(user_name)s تم فك ربطة من %(partner_name)s.\n"
+
+#~ msgid "Undo"
+#~ msgstr "تراجع"
+
+#~ msgid "Delete partner"
+#~ msgstr "حذف الشريك"
+
+#~ msgid "Are you sure you want to delete this partner?"
+#~ msgstr "هل أنت متأكد من حذف هذا الوكيل؟"
+
+#~ msgid "Edit the user's details"
+#~ msgstr "تعديل بيانات العميل"
+
+#~ msgid "No users associated."
+#~ msgstr "لم يتم تحديد اي عميل"
+
+#~ msgid "No address associated."
+#~ msgstr "لا عناوين مرتبطة"
+
+#~ msgid "Manage partner and users"
+#~ msgstr "إدارة الشركاء و العملاء"
+
+#~ msgid "Link an existing user"
+#~ msgstr "ربط عميل حالي"
+
+#~ msgid "Link a new user"
+#~ msgstr "ربط عميل جديد"
+
+#~ msgid "No partners found."
+#~ msgstr "لا يوجد أي شركاء"
+
+#~ msgid "Unlinking..."
+#~ msgstr "جاري فك الربط..."
+
+#~ msgid "Unlink user"
+#~ msgstr "فك ربط عميل"
+
+#~ msgid "No users linked."
+#~ msgstr "لا يوجد عملاء مرتبطين"
+
+#~ msgid "Link a user"
+#~ msgstr "ربط عميل"
+
+#~ msgid "Manage users"
+#~ msgstr "إدارة العملاء"
+
+#~ msgid "Update details"
+#~ msgstr "تحديث التفاصيل"
+
+#~ msgid ""
+#~ "A partial email address can be entered (eg '@example.com') to match "
+#~ "multiple addresses."
+#~ msgstr ""
+#~ "يمكن إدخال جزء من عنوان البريد الإلكتروني لإظهار نتائج عناوين متعدده "
+#~ "(مثلا 'example.com@')."
+
+#~ msgid ""
+#~ "\n"
+#~ "                                                User is already linked to "
+#~ "%(name)s.\n"
+#~ "                                            "
+#~ msgstr ""
+#~ "\n"
+#~ "                                                العميل مرتبط سلفا مع "
+#~ "%(name)s.\n"
+#~ "                                            "
+
+#~ msgid "Linking..."
+#~ msgstr "جاري الربط..."
+
+#~ msgid "Link user"
+#~ msgstr "ربط عميل"
+
+#~ msgid "No users found."
+#~ msgstr "لا يوجد عملاء"
+
+#~ msgid "Delete content block '%(name)s'?\""
+#~ msgstr "Delete content block '%(name)s'?\""
+
+#~ msgid "Delete content block"
+#~ msgstr "Delete content block"
+
+#~ msgid ""
+#~ "Delete %(object.type)s content block <strong>%(object.name)s</strong> - "
+#~ "are you sure?"
+#~ msgstr ""
+#~ "Delete %(object.type)s content block <strong>%(object.name)s</strong> - "
+#~ "are you sure?"
+
+#~ msgid "Remove promotion from page?"
+#~ msgstr "Remove promotion from page?"
+
+#~ msgid "Remove promotion"
+#~ msgstr "Remove promotion"
+
+#~ msgid ""
+#~ "Remove %(object.content_object.type)s content block <strong>%(object."
+#~ "name)s</strong> from page <strong>%(object.page_url)s</strong> - are you "
+#~ "sure?"
+#~ msgstr ""
+#~ "Remove %(object.content_object.type)s content block <strong>%(object."
+#~ "name)s</strong> from page <strong>%(object.page_url)s</strong> - are you "
+#~ "sure?"
+
+#~ msgid "Content block"
+#~ msgstr "منطقة محتوى"
+
+#~ msgid "Pages displaying this content blocks"
+#~ msgstr "Pages displaying this content blocks"
+
+#~ msgid "Position on page"
+#~ msgstr "Position on page"
+
+#~ msgid "View all blocks on this page"
+#~ msgstr "View all blocks on this page"
+
+#~ msgid "Remove from page"
+#~ msgstr "Remove from page"
+
+#~ msgid "This promotion is not displayed anywhere at the moment."
+#~ msgstr "This promotion is not displayed anywhere at the moment."
+
+#~ msgid "Add to a page"
+#~ msgstr "إضافة الى صفحة"
+
+#~ msgid "Add to page"
+#~ msgstr "إضافة إلى الصفحة"
+
+#~ msgid "Content blocks for page %(page_url)s"
+#~ msgstr "Content blocks for page %(page_url)s"
+
+#~ msgid "Content blocks on page '%(page_url)s'"
+#~ msgstr "Content blocks on page '%(page_url)s'"
+
+#~ msgid "Edit promotions in position '%(name)s'"
+#~ msgstr "Edit promotions in position '%(name)s'"
+
+#~ msgid "Promotion Name"
+#~ msgstr "Promotion Name"
+
+#~ msgid "Change display order"
+#~ msgstr "تغيير ترتيب العرض"
+
+#~ msgid "No promotions in this position."
+#~ msgstr "No promotions in this position."
+
+#~ msgid "Pages with content blocks"
+#~ msgstr "Pages with content blocks"
+
+#~ msgid "View by page"
+#~ msgstr "عرض بواسطة الصفحة"
+
+#~ msgid "View all content blocks"
+#~ msgstr "View all content blocks"
+
+#~ msgid "View content blocks by page"
+#~ msgstr "View content blocks by page"
+
+#~ msgid "Pages with content blocks on them"
+#~ msgstr "Pages with content blocks on them"
+
+#~ msgid "Number of content blocks"
+#~ msgstr "Number of content blocks"
+
+#~ msgid "No content blocks found."
+#~ msgstr "No content blocks found."
+
+#~ msgid "Create a new content block"
+#~ msgstr "Create a new content block"
+
+#~ msgid "Creating..."
+#~ msgstr "جاري الإنشاء..."
+
+#~ msgid "Create block"
+#~ msgstr "Create block"
+
+#~ msgid "Number of times used"
+#~ msgstr "Number of times used"
+
+#~ msgid ""
+#~ "\n"
+#~ "    <p>File <strong>%(filename)s</strong> processed.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "    <p>الملف <strong>%(filename)s</strong> تمت معالجته.</p>\n"
+
+#~ msgid "Edit range metadata"
+#~ msgstr "Edit range metadata"
+
+#~ msgid "Return to ranges homepage"
+#~ msgstr "Return to ranges homepage"
+
+#~ msgid ""
+#~ "\n"
+#~ "<p>Range <strong>%(name)s</strong> saved.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<p>Range <strong>%(name)s</strong> saved.</p>\n"
+
+#~ msgid "Edit included products"
+#~ msgstr "Edit included products"
+
+#~ msgid "Delete range '%(name)s'?"
+#~ msgstr "Delete range '%(name)s'?"
+
+#~ msgid "Are you sure you want to delete this range?"
+#~ msgstr "Are you sure you want to delete this range?"
+
+#~ msgid "Create new range"
+#~ msgstr "Create new range"
+
+#~ msgid "Save and edit products"
+#~ msgstr "Save and edit products"
+
+#~ msgid "Num products"
+#~ msgstr "Num products"
+
+#~ msgid "Edit products"
+#~ msgstr "تعديل المنتجات"
+
+#~ msgid "No ranges found."
+#~ msgstr "No ranges found."
+
+#~ msgid "Products in range '%(name)s'"
+#~ msgstr "Products in range '%(name)s'"
+
+#~ msgid "products"
+#~ msgstr "المنتجات"
+
+#~ msgid "Add products"
+#~ msgstr "إضافة منتجات"
+
+#~ msgid "Running..."
+#~ msgstr "جاري التشغيل..."
+
+#~ msgid "Upload history"
+#~ msgstr "Upload history"
+
+#~ msgid "Filename"
+#~ msgstr "إسم الملف"
+
+#~ msgid "New products"
+#~ msgstr "New products"
+
+#~ msgid "Duplicate products"
+#~ msgstr "Duplicate products"
+
+#~ msgid "Unknown products"
+#~ msgstr "Unknown products"
+
+#~ msgid "Date uploaded"
+#~ msgstr "تاريخ الرفع"
+
+#~ msgid "Products in range"
+#~ msgstr "المنتجات بالمجال"
+
+#~ msgid "Remove selected products"
+#~ msgstr "Remove selected products"
+
+#~ msgid "Is product discountable?"
+#~ msgstr "Is product discountable?"
+
+#~ msgid "Products in Range"
+#~ msgstr "Products in Range"
+
+#~ msgid "Edit range"
+#~ msgstr "Edit range"
+
+#~ msgid "return to range list"
+#~ msgstr "return to range list"
+
+#~ msgid "Reporting Dashboard"
+#~ msgstr "Reporting Dashboard"
+
+#~ msgid "Reporting dashboard"
+#~ msgstr "Reporting dashboard"
+
+#~ msgid "Generating..."
+#~ msgstr "جاري الإنشاء..."
+
+#~ msgid "Generate report"
+#~ msgstr "Generate report"
+
+#~ msgid "No results found."
+#~ msgstr "No results found."
+
+#~ msgid "No vouchers were used in this period"
+#~ msgstr "No vouchers were used in this period"
+
+#~ msgid "Delete review '%(title)s'?"
+#~ msgstr "Delete review '%(title)s'?"
+
+#~ msgid "Delete review \"%(title)s\"?"
+#~ msgstr "Delete review \"%(title)s\"?"
+
+#~ msgid "Review"
+#~ msgstr "تقييم"
+
+#~ msgid "Review Search"
+#~ msgstr "Review Search"
+
+#~ msgid "Update status of selected reviews"
+#~ msgstr "Update status of selected reviews"
+
+#~ msgctxt "Review title"
+#~ msgid "Title"
+#~ msgstr "العنوان"
+
+#~ msgid "[Product deleted]"
+#~ msgstr "[تم حذف المنتج]"
+
+#~ msgid "No reviews found."
+#~ msgstr "لا يوجد تقييمات"
+
+#~ msgid "Update review"
+#~ msgstr "Update review"
+
+#~ msgid "Review #%(review.id)s"
+#~ msgstr "Review #%(review.id)s"
+
+#~ msgid "Review information"
+#~ msgstr "Review information"
+
+#~ msgid "Delete weight band?"
+#~ msgstr "حذف فرقة الوزن؟"
+
+#~ msgid "Shipping methods"
+#~ msgstr "طريقة الشحن"
+
+#~ msgid "Weight range (kg)"
+#~ msgstr "مجال الشحن (كغم)"
+
+#~ msgid "Are you sure you want to delete this weight band method?"
+#~ msgstr "هل أنت متأكد أنك تريد حذف طريقة فرقة الوزن هذه؟"
+
+#~ msgid "Edit weight band"
+#~ msgstr "تعديل فرقة الوزن"
+
+#~ msgid "Edit shipping method"
+#~ msgstr "تعديل طريقة الشحن"
+
+#~ msgid "Alert #%(id)s"
+#~ msgstr "Alert #%(id)s"
+
+#~ msgid "Delete alert #%(id)s?"
+#~ msgstr "Delete alert #%(id)s?"
+
+#~ msgid "Product alert #%(id)s"
+#~ msgstr "Product alert #%(id)s"
+
+#~ msgid "Are you sure that you want to delete this alert?"
+#~ msgstr "Are you sure that you want to delete this alert?"
+
+#~ msgid "Search product alerts"
+#~ msgstr "Search product alerts"
+
+#~ msgid "reset"
+#~ msgstr "إعادة تعيين"
+
+#~ msgid "Date alert sent"
+#~ msgstr "تاريخ إرسال التنبيه"
+
+#~ msgid "(Anonymous)"
+#~ msgstr "(Anonymous)"
+
+#~ msgid "No alerts found."
+#~ msgstr "لا يوجد تنبيهات"
+
+#~ msgid "Update alert #%(id)s"
+#~ msgstr "Update alert #%(id)s"
+
+#~ msgid "General"
+#~ msgstr "عام"
+
+#~ msgid "Yes,No"
+#~ msgstr "نعم،لا"
+
+#~ msgid "Superuser"
+#~ msgstr "Superuser"
+
+#~ msgid "True,False"
+#~ msgstr "True,False"
+
+#~ msgid "Staff"
+#~ msgstr "العاملين"
+
+#~ msgid "Last login"
+#~ msgstr "آخر تسجيل دخول"
+
+#~ msgid "Date joined"
+#~ msgstr "تاريخ الإلتحاق"
+
+#~ msgid "Number of orders"
+#~ msgstr "عدد الطلبات"
+
+#~ msgid "Order Number"
+#~ msgstr "رقم الطلب"
+
+#~ msgid "Total value"
+#~ msgstr "إجمالي القيمة"
+
+#~ msgid "This customer has not placed any orders yet."
+#~ msgstr "This customer has not placed any orders yet."
+
+#~ msgid "This customer has not saved any addresses."
+#~ msgstr "This customer has not saved any addresses."
+
+#~ msgid "Product ID"
+#~ msgstr "معرف المنتج"
+
+#~ msgid "This customer has not written any reviews yet."
+#~ msgstr "This customer has not written any reviews yet."
+
+#~ msgid "No customers found."
+#~ msgstr "No customers found."
+
+#~ msgid "Bulk Actions"
+#~ msgstr "Bulk Actions"
+
+#~ msgid "With selected customers:"
+#~ msgstr "With selected customers:"
+
+#~ msgid "Make active"
+#~ msgstr "Make active"
+
+#~ msgid "Make inactive"
+#~ msgstr "Make inactive"
+
+#~ msgid "Delete voucher '%(name)s'?"
+#~ msgstr "Delete voucher '%(name)s'?"
+
+#~ msgid "Voucher details"
+#~ msgstr "تفاصيل القسيمة"
+
+#~ msgid "Number of basket additions"
+#~ msgstr "Number of basket additions"
+
+#~ msgid "Recent orders"
+#~ msgstr "Recent orders"
+
+#~ msgid "No orders have been placed that use this voucher."
+#~ msgstr "No orders have been placed that use this voucher."
+
+#~ msgid "Create new voucher"
+#~ msgstr "إنشاء قسيمة جديدة"
+
+#~ msgid "Num baskets"
+#~ msgstr "Num baskets"
+
+#~ msgid "Num orders"
+#~ msgstr "Num orders"
+
+#~ msgid "Inactive"
+#~ msgstr "غير فعال"
+
+#~ msgid "No vouchers found."
+#~ msgstr "لم يتم العثور على أي قسائم شراء."
+
+#~ msgid "Sorry!"
+#~ msgstr "عذرا!"
+
+#~ msgid "Return to previous page"
+#~ msgstr "الرجوع للصفحة السابقة"
+
+#~ msgid "Go to homepage"
+#~ msgstr "الذهاب للصفحة الرئيسية"
+
+#~ msgid "Edit this page"
+#~ msgstr "تعديل الصفحة"
+
+#~ msgid "Upload Image"
+#~ msgstr "تحميل الصور"
+
+#~ msgid "This page is only available to users who aren't logged in."
+#~ msgstr "This page is only available to users who aren't logged in."
+
+#~ msgid " This offer is no longer available."
+#~ msgstr " هذا العرض لم يعد متاحا."
+
+#~ msgid "What you need to do"
+#~ msgstr "ما عليك القيام به"
+
+#~ msgid "There are no site offers at the moment."
+#~ msgstr "لا يوجد أي عروض عبر الموقع حاليا."
+
+#~ msgid "Browse products in offer"
+#~ msgstr "تصفح المنتجات بقسم العروض"
+
+#~ msgid "See more"
+#~ msgstr "رؤية المزيد"
+
+#~ msgid "Password reset complete"
+#~ msgstr "تم إعادة ضبط كلمة المرور بنجاح"
+
+#~ msgid "Password reset"
+#~ msgstr "إعادة تعيين كلمة المرور"
+
+#~ msgid "Complete"
+#~ msgstr "تمت"
+
+#~ msgid "Your password has been set.  You may go ahead and log in now."
+#~ msgstr ""
+#~ "تم تعيين كلمة المرور الخاصة بك. تستطيع المضي قدما وتسجيل الدخول الآن."
+
+#~ msgid "Log in"
+#~ msgstr "تسجيل الدخول"
+
+#~ msgid "Enter a new password"
+#~ msgstr "ادخل كلمة سر جديدة"
+
+#~ msgid ""
+#~ "Please enter your new password twice so we can verify you typed it in "
+#~ "correctly."
+#~ msgstr ""
+#~ "Please enter your new password twice so we can verify you typed it in "
+#~ "correctly."
+
+#~ msgid "Change my password"
+#~ msgstr "Change my password"
+
+#~ msgid "Password reset unsuccessful"
+#~ msgstr "Password reset unsuccessful"
+
+#~ msgid ""
+#~ "The password reset link was invalid, possibly because it has already been "
+#~ "used.  Please request a new password reset."
+#~ msgstr ""
+#~ "The password reset link was invalid, possibly because it has already been "
+#~ "used.  Please request a new password reset."
+
+#~ msgid "Password reset email sent"
+#~ msgstr "رسالة إعادة ضبط كلمة المرور تم إرسالها"
+
+#~ msgid "Email sent"
+#~ msgstr "تم ارسال البريد الإلكتروني"
+
+#~ msgid ""
+#~ "Forgotten your password? Enter your e-mail address below, and we'll e-"
+#~ "mail instructions for setting a new one."
+#~ msgstr ""
+#~ "هل نسيت كلمة المرورالخاصة بك ؟ ادخل عنوان بريدك الإلكتروني, وسنقوم إرسال "
+#~ "تعليمات لوضع واحدة جديدة ."
+
+#~ msgid "Send reset email"
+#~ msgstr "إرسال رسالة إعادة تعيين البريد الإلكتروني"
+
+#~ msgid "Refine your search"
+#~ msgstr "أعد ضبط البحث"
+
+#~ msgid "Found <strong>0</strong> results."
+#~ msgstr "لا يوجد أي نتائج"
+
+#~ msgid "Back to search results"
+#~ msgstr "العودة لنتائج البحث"
+
+#~ msgid "You need to select some %ss"
+#~ msgstr "يتوجب عليك إختيار بعض %ss"
