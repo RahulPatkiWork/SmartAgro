@@ -189,11 +189,25 @@ USE_I18N = True
 # If you set this to False, Django will not format dates, numbers and
 # calendars according to the current locale
 USE_L10N = True
-
+'''
+#LOCALHOST SETTINGS BELOW:
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
 STATIC_ROOT = 'static'
 STATIC_URL = '/static/'
+#eND OF LOCALHOST SETTINGS
+'''
+#SETTINGS FOR HEROKU
+# Static files (CSS, JavaScript, Images)
+# https://docs.djangoproject.com/en/1.9/howto/static-files/
+STATIC_ROOT = os.path.join(PROJECT_ROOT, 'staticfiles')
+STATIC_URL = '/static/'
+STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
+# Extra places for collectstatic to find static files.
+STATICFILES_DIRS = (
+    os.path.join(PROJECT_ROOT, 'static'),
+)
+#END SETTINGS HEROKU
 MEDIA_ROOT = 'media'
 MEDIA_URL = '/media/'
