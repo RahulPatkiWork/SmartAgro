@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'compressor',
     'widget_tweaks',
 
+
 ] + get_core_apps()
 
 SITE_ID = 1
@@ -189,12 +190,13 @@ USE_I18N = True
 # If you set this to False, Django will not format dates, numbers and
 # calendars according to the current locale
 USE_L10N = True
-'''
+
 #LOCALHOST SETTINGS BELOW:
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
-STATIC_ROOT = 'static'
+#STATIC_ROOT = 'static'
+STATIC_ROOT = os.path.join(BASE_DIR, "static")
 STATIC_URL = '/static/'
 #eND OF LOCALHOST SETTINGS
 '''
@@ -209,5 +211,11 @@ STATICFILES_DIRS = (
     os.path.join(PROJECT_ROOT, 'static'),
 )
 #END SETTINGS HEROKU
+'''
+
 MEDIA_ROOT = 'media'
 MEDIA_URL = '/media/'
+
+OSCAR_SHOP_NAME = 'SmartAgro'
+OSCAR_SHOP_TAGLINE = 'eCommerce for Farmers'
+OSCAR_DEFAULT_CURRENCY = 'INR'
