@@ -1,4 +1,5 @@
 # SmartAgro
+
 Introduction:
   Smart Agro is an ecommerce platform for farmers.This is the web application module of SmartAgro.
   It is developed using Django-oscar!
@@ -22,6 +23,6 @@ ToDo:
   It will further get extended as an android app.The web app will be performing Market Basket Analysis for association rule  mining(integration in view is remaining),and Optimal Crop Price Prediction
 
 Known Issues:
-  a)Currently the static images fail to display on hosted site!--it is an oscar error
+  a)Currently the static images fail to reflect on hosted site!
   b)Payment gateway is configured for vouchers only(code=100),other methods will be added soon,moreover
   hosted site is not populated with enough data as proper working of each functionality will be preferred currently.
