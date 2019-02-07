@@ -16,6 +16,4 @@ Scope:
 Languages:
   The project uses: python,css,less,js,html etc.Sqlite3 and Postgre have been used for database.
 
-ToDo:
-  It will further get extended as an android app.The web app will be performing Market Basket Analysis for association rule  mining(integration in view is remaining),and Optimal Crop Price Prediction
 
