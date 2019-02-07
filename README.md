@@ -3,7 +3,7 @@
 Introduction:
   Smart Agro is an ecommerce platform for farmers.This is the web application module of SmartAgro.
   It is developed using Django-oscar!The main purpose of this app is to provide a recommendation,prediction based platform to the farmers 
-  which will help them buy/sell farming utilities directly to the customer or peer farmers at optimal price.
+  which will help them sell/buy farming utilities/yield directly to/from the customer or peer farmers at optimal price.
   
 Read More--
 Paper:
