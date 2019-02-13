@@ -1,0 +1,602 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Rahul Patki <rahulpatki9@gmail.com>,2019
+msgid ""
+msgstr ""
+"Project-Id-Version: django-oscar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-23 10:59-0600\n"
+"PO-Revision-Date: 2018-04-11 08:36+0000\n"
+"Last-Translator: Oscar Bot <maik.hoepfel@tangentsnowball.com>\n"
+"Language-Team: Marathi (http://www.transifex.com/codeinthehole/django-oscar/"
+"language/mr/)\n"
+"Language: mr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: eshop/defaults.py:99 templates/partials/nav_accounts.html:50
+msgid "Dashboard"
+msgstr "डॅशबोर्ड"
+
+#: eshop/defaults.py:104
+msgid "Catalogue"
+msgstr "कॅटलॉग"
+
+#: eshop/defaults.py:108
+msgid "Products"
+msgstr "उत्पादने"
+
+#: eshop/defaults.py:112
+msgid "Product Types"
+msgstr "उत्पादन प्रकार"
+
+#: eshop/defaults.py:116
+msgid "Categories"
+msgstr "श्रेण्या"
+
+#: eshop/defaults.py:120
+msgid "Ranges"
+msgstr "रेंज"
+
+#: eshop/defaults.py:124
+msgid "Low stock alerts"
+msgstr "कमी स्टॉक अलर्ट"
+
+#: eshop/defaults.py:128
+msgid "Options"
+msgstr "पर्याय"
+
+#: eshop/defaults.py:134
+msgid "Fulfilment"
+msgstr "पूर्तता"
+
+#: eshop/defaults.py:138
+msgid "Orders"
+msgstr "ऑर्डरस"
+
+#: eshop/defaults.py:142
+msgid "Statistics"
+msgstr "सांख्यिकी"
+
+#: eshop/defaults.py:146
+msgid "Partners"
+msgstr "भागीदार"
+
+#: eshop/defaults.py:160 eshop/defaults.py:164
+msgid "Customers"
+msgstr "ग्राहक"
+
+#: eshop/defaults.py:168
+msgid "Stock alert requests"
+msgstr "स्टॉक अलर्ट विनंती"
+
+#: eshop/defaults.py:174 eshop/defaults.py:178
+#: templates/partials/nav_primary.html:64
+msgid "Offers"
+msgstr "ऑफर"
+
+#: eshop/defaults.py:182
+msgid "Vouchers"
+msgstr "वाउचर"
+
+#: eshop/defaults.py:186
+msgid "Voucher Sets"
+msgstr "वाउचर संच"
+
+#: eshop/defaults.py:193
+msgid "Content"
+msgstr "सामग्री"
+
+#: eshop/defaults.py:197
+msgid "Content blocks"
+msgstr "सामग्री अवरोध"
+
+#: eshop/defaults.py:201
+msgid "Content blocks by page"
+msgstr "पृष्ठाद्वारे सामग्री अवरोध"
+
+#: eshop/defaults.py:205
+msgid "Pages"
+msgstr "पृष्ठे"
+
+#: eshop/defaults.py:209
+msgid "Email templates"
+msgstr "ईमेल टेम्पलेट्स"
+
+#: eshop/defaults.py:213
+msgid "Reviews"
+msgstr "पुनरावलोकने"
+
+#: eshop/defaults.py:219
+msgid "Reports"
+msgstr "अहवाल"
+
+#: eshop/defaults.py:231
+msgid "Type"
+msgstr "टाइप करा"
+
+#: eshop/defaults.py:232
+msgid "Rating"
+msgstr "रेटिंग"
+
+#: eshop/defaults.py:246
+msgid "Price range"
+msgstr "मुल्य श्रेणी"
+
+#: eshop/defaults.py:251
+msgid "0 to 20"
+msgstr "0 ते 20"
+
+#: eshop/defaults.py:252
+msgid "20 to 40"
+msgstr "20 ते 40"
+
+#: eshop/defaults.py:253
+msgid "40 to 60"
+msgstr "40 ते 60"
+
+#: eshop/defaults.py:254
+msgid "60+"
+msgstr "60+"
+
+#: eshop/settings.py:159
+msgid "Arabic"
+msgstr ""
+
+#: eshop/settings.py:160
+msgid "Catalan"
+msgstr ""
+
+#: eshop/settings.py:161
+msgid "Czech"
+msgstr ""
+
+#: eshop/settings.py:162
+msgid "Danish"
+msgstr ""
+
+#: eshop/settings.py:163
+msgid "German"
+msgstr ""
+
+#: eshop/settings.py:164
+msgid "British English"
+msgstr ""
+
+#: eshop/settings.py:165
+msgid "Greek"
+msgstr ""
+
+#: eshop/settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: eshop/settings.py:167
+msgid "Finnish"
+msgstr ""
+
+#: eshop/settings.py:168
+msgid "French"
+msgstr ""
+
+#: eshop/settings.py:169
+msgid "Marathi"
+msgstr ""
+
+#: eshop/settings.py:170
+msgid "Italian"
+msgstr ""
+
+#: eshop/settings.py:171
+msgid "Korean"
+msgstr ""
+
+#: eshop/settings.py:172
+msgid "Dutch"
+msgstr ""
+
+#: eshop/settings.py:173
+msgid "Polish"
+msgstr ""
+
+#: eshop/settings.py:174
+msgid "Portuguese"
+msgstr ""
+
+#: eshop/settings.py:175
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: eshop/settings.py:176
+msgid "Romanian"
+msgstr ""
+
+#: eshop/settings.py:177
+msgid "Russian"
+msgstr ""
+
+#: eshop/settings.py:178
+msgid "Slovak"
+msgstr ""
+
+#: eshop/settings.py:179
+msgid "Ukrainian"
+msgstr ""
+
+#: eshop/settings.py:180
+msgid "Simplified Chinese"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Submitting..."
+msgstr ""
+
+#: templates/partials/nav_accounts.html:30
+msgid "Go"
+msgstr ""
+
+#: templates/partials/nav_accounts.html:42
+#: templates/partials/nav_accounts.html:46
+msgid "Account"
+msgstr "खाते"
+
+#: templates/partials/nav_accounts.html:52
+msgid "Logout"
+msgstr "बाहेर पडणे"
+
+#: templates/partials/nav_accounts.html:55
+msgid "Login or register"
+msgstr "लॉगिन करा किंवा नोंदणी करा"
+
+#: templates/partials/nav_primary.html:20
+msgid "Basket"
+msgstr "बास्केट"
+
+#: templates/partials/nav_primary.html:23
+#: templates/partials/nav_primary.html:27
+#, python-format
+msgid ""
+"\n"
+"                        Total: %(total)s\n"
+"                    "
+msgstr ""
+
+#: templates/partials/nav_primary.html:40
+msgid "Browse store"
+msgstr "स्टोअर ब्राउझ करा"
+
+#: templates/partials/nav_primary.html:45
+msgid "All products"
+msgstr "सर्व उत्पादने"
+
+#~ msgid "Mr"
+#~ msgstr "श्री"
+
+#~ msgid "Miss"
+#~ msgstr "कुमारी"
+
+#~ msgid "Mrs"
+#~ msgstr "सौ"
+
+#~ msgid "Ms"
+#~ msgstr "कुमारी"
+
+#~ msgid "Dr"
+#~ msgstr "डॉ"
+
+#~ msgctxt "Treatment Pronouns for the customer"
+#~ msgid "Title"
+#~ msgstr "शीर्षक"
+
+#~ msgid "First name"
+#~ msgstr "पहिले नाव"
+
+#~ msgid "Last name"
+#~ msgstr "आडनाव"
+
+#~ msgid "First line of address"
+#~ msgstr "पत्त्याची पहिली ओळ"
+
+#~ msgid "Second line of address"
+#~ msgstr "पत्त्याची दुसरी ओळ"
+
+#~ msgid "Third line of address"
+#~ msgstr "पत्त्याची तिसरी ओळ"
+
+#~ msgid "City"
+#~ msgstr "शहर"
+
+#~ msgid "State/County"
+#~ msgstr "राज्य / देश"
+
+#~ msgid "Post/Zip-code"
+#~ msgstr "पोस्ट / झिप-कोड"
+
+#~ msgid "Country"
+#~ msgstr "देश"
+
+#~ msgid "Search text - used only for searching addresses"
+#~ msgstr "शोध मजकूर - केवळ पत्ते शोधण्यासाठी वापरला जातो"
+
+#~ msgid "Address"
+#~ msgstr "पत्ता"
+
+#~ msgid "Addresses"
+#~ msgstr "पत्ते"
+
+#~ msgid "Addresses in %(country)s require a valid postcode"
+#~ msgstr "%(country)s मधील पत्त्यांमध्ये वैध पोस्टकोड आवश्यक आहे"
+
+#~ msgid "The postcode '%(postcode)s' is not valid for %(country)s"
+#~ msgstr "पोस्टकोड '%(postcode)s'%(country)s साठी वैध नाही"
+
+#~ msgid "ISO 3166-1 alpha-2"
+#~ msgstr "ISO 3166-1 alpha-2"
+
+#~ msgid "ISO 3166-1 alpha-3"
+#~ msgstr "ISO 3166-1 alpha-3"
+
+#~ msgid "ISO 3166-1 numeric"
+#~ msgstr "ISO 3166-1 numeric"
+
+#~ msgid "Country name"
+#~ msgstr "देशाचे नाव"
+
+#~ msgid "Official name"
+#~ msgstr "अधिकृत नाव"
+
+#~ msgid "Display order"
+#~ msgstr "ऑर्डर प्रदर्शित करा"
+
+#~ msgid "Higher the number, higher the country in the list."
+#~ msgstr "उच्चांक संख्या, यादीत देश सर्वात जास्त."
+
+#~ msgid "Is shipping country"
+#~ msgstr "शिपिंग देश आहे"
+
+#~ msgid "Countries"
+#~ msgstr "देश"
+
+#~ msgid "Phone number"
+#~ msgstr "फोन नंबर"
+
+#~ msgid "In case we need to call you about your order"
+#~ msgstr "आम्हाला आपल्या मागणीबद्दल आपल्याला कॉल करण्याची आवश्यकता असल्यास"
+
+#~ msgid "Instructions"
+#~ msgstr "सूचना"
+
+#~ msgid "Tell us anything we should know when delivering your order."
+#~ msgstr "आपली ऑर्डर वितरीत करताना आम्हाला कोणती अतिरिक्त माहिती माहित पाहिजे"
+
+#~ msgid "Shipping address"
+#~ msgstr "शिपिंग पत्ता"
+
+#~ msgid "Shipping addresses"
+#~ msgstr "शिपिंग पत्ते"
+
+#~ msgid "User"
+#~ msgstr "वापरकर्ता"
+
+#~ msgid "Default shipping address?"
+#~ msgstr "डिफॉल्ट शिपिंग पत्ता?"
+
+#~ msgid "Default billing address?"
+#~ msgstr "डिफॉल्ट बिलिंग पत्ता?"
+
+#~ msgid "Number of Orders as Shipping Address"
+#~ msgstr "प्रति शिपिंग पत्त्याची ऑर्डरची संख्या"
+
+#~ msgid "Number of Orders as Billing Address"
+#~ msgstr "प्रति बिलिंग पत्त्याची ऑर्डरची संख्या"
+
+#~ msgid "Address Hash"
+#~ msgstr "हॅश पत्ता"
+
+#~ msgid "Date Created"
+#~ msgstr "तयार केल्याची तारीख"
+
+#~ msgid "User address"
+#~ msgstr "वापरकर्त्याचा पत्ता"
+
+#~ msgid "User addresses"
+#~ msgstr "वापरकर्त्याचा पत्ते"
+
+#~ msgid "This address is already in your address book"
+#~ msgstr "हा पत्ता आधीपासून आपल्या अॅड्रेस बुकमध्ये आहे"
+
+#~ msgid "Billing address"
+#~ msgstr "बिलाचा पत्ता"
+
+#~ msgid "Billing addresses"
+#~ msgstr "बिलिंग पत्ते"
+
+#~ msgid "Partner"
+#~ msgstr "भागीदार"
+
+#~ msgid "Partner address"
+#~ msgstr "भागीदार पत्ता"
+
+#~ msgid "Partner addresses"
+#~ msgstr "भागीदार पत्ते"
+
+#~ msgid "Product"
+#~ msgstr "उत्पादन"
+
+#~ msgid "Views"
+#~ msgstr "दृश्ये"
+
+#~ msgid "Basket Additions"
+#~ msgstr "बास्केट जोडणे"
+
+#~ msgid "Purchases"
+#~ msgstr "खरेदी"
+
+#~ msgid "Score"
+#~ msgstr "गुण"
+
+#~ msgid "Product record"
+#~ msgstr "उत्पादन पत्रक"
+
+#~ msgid "Product records"
+#~ msgstr "एकाधिक उत्पादन पत्रक"
+
+#~ msgid "Record for '%s'"
+#~ msgstr "'%s'साठी पत्रक"
+
+#~ msgid "Product Views"
+#~ msgstr "उत्पादन दृश्ये"
+
+#~ msgid "Order Lines"
+#~ msgstr "ऑर्डर लाईन्सची संख्या"
+
+#~ msgid "Order Items"
+#~ msgstr "ऑर्डर आयटमस"
+
+#~ msgid "Total Spent"
+#~ msgstr "एकूण खर्च"
+
+#~ msgid "Last Order Date"
+#~ msgstr "अंतिम ऑर्डर तारीख"
+
+#~ msgid "User record"
+#~ msgstr "वापरकर्ता रेकॉर्ड"
+
+#~ msgid "User records"
+#~ msgstr "वापरकर्ता रेकॉर्डस"
+
+#~ msgid "User product view"
+#~ msgstr "वापरकर्ता उत्पादन पहा"
+
+#~ msgid "User product views"
+#~ msgstr "वापरकर्ता उत्पादन पहा"
+
+#~ msgid "%(user)s viewed '%(product)s'"
+#~ msgstr "%(user)s ने पाहिले '%(product)s'"
+
+#~ msgid "Search term"
+#~ msgstr "शोध शब्द"
+
+#~ msgid "User search query"
+#~ msgstr "वापरकर्ता शोध संशय"
+
+#~ msgid "User search queries"
+#~ msgstr "वापरकर्ता शोध संशये"
+
+#~ msgid "%(user)s searched for '%(query)s'"
+#~ msgstr "%(user)s ने शोधले '%(query)s'"
+
+#~ msgid "Analytics"
+#~ msgstr "विश्लेषण"
+
+#~ msgid "Basket additions"
+#~ msgstr "बास्केट जोडण्या"
+
+#~ msgid "Product analytics"
+#~ msgstr "उत्पादन विश्लेषण"
+
+#~ msgid "Name"
+#~ msgstr "नाव"
+
+#~ msgid "Date registered"
+#~ msgstr "नोंदणी केल्याची तारीख"
+
+#~ msgid "Product views"
+#~ msgstr "उत्पादन दृश्ये"
+
+#~ msgid "Order lines"
+#~ msgstr "ऑर्डर लाईन्स"
+
+#~ msgid "Order items"
+#~ msgstr "ऑर्डर आयटमस"
+
+#~ msgid "Total spent"
+#~ msgstr "एकूण खर्च"
+
+#~ msgid "Date of last order"
+#~ msgstr "शेवटच्या ऑर्डरची तारीख"
+
+#~ msgid "User analytics"
+#~ msgstr "वापरकर्ता विश्लेषण"
+
+#~ msgid "Owner"
+#~ msgstr "मालक"
+
+#~ msgid "Open - currently active"
+#~ msgstr "उघडा - सध्या सक्रिय"
+
+#~ msgid "Merged - superceded by another basket"
+#~ msgstr "विलीन - दुसर्या बास्केटद्वारे उतारला"
+
+#~ msgid "Saved - for items to be purchased later"
+#~ msgstr "जतन केले - आयटम नंतर खरेदी करण्यासाठी"
+
+#~ msgid "Frozen - the basket cannot be modified"
+#~ msgstr "फ्रोजन - टोपली सुधारली जाऊ शकत नाही"
+
+#~ msgid "Submitted - has been ordered at the checkout"
+#~ msgstr "सबमिट - चेकआउटवर ऑर्डर केली गेली आहे"
+
+#~ msgid "Status"
+#~ msgstr "स्थिती"
+
+#~ msgid "Date created"
+#~ msgstr "तयार केल्याची तारीख"
+
+#~ msgid "Date merged"
+#~ msgstr "विलीन केल्याची तारीख"
+
+#~ msgid "Date submitted"
+#~ msgstr "सादर केल्याचा दिनांक"
+
+#~ msgid "Baskets"
+#~ msgstr "बास्केटस"
+
+#~ msgid "%(status)s basket (owner: %(owner)s, lines: %(num_lines)d)"
+#~ msgstr "%(status)s च्या बास्केट (मालक:%(owner)s, रेषा:%(num_lines)d)"
+
+#~ msgid ""
+#~ "Due to technical limitations we are not able to ship more than "
+#~ "%(threshold)d items in one order."
+#~ msgstr ""
+#~ "तांत्रिक मर्यादांमुळे आम्ही%(threshold)dपेक्षा जास्त पाठवू शकत नाही आयटम एकाच क्रमाने."
+
+#~ msgid "Line Reference"
+#~ msgstr "रेखा संदर्भ"
+
+#~ msgid "Quantity"
+#~ msgstr "प्रमाण"
+
+#~ msgid "Currency"
+#~ msgstr "चलन"
+
+#~ msgid "Price excl. Tax"
+#~ msgstr "कर वगळता किंमत"
+
+#~ msgid "Price incl. Tax"
+#~ msgstr "कर समावेश किंमत"
+
+#~ msgid "Basket line"
+#~ msgstr "बास्केट ओळ"
+
+#~ msgid "Basket lines"
+#~ msgstr "बास्केट ओळी"
+
+#~ msgid ""
+#~ "Basket #%(basket_id)d, Product #%(product_id)d, quantity %(quantity)d"
+#~ msgstr "बास्केट #%(basket_id)d, उत्पादन #%(product_id)d, मात्रा%(quantity)d"
+
+#~ msgid "You cannot modify a %s basket"
+#~ msgstr "आपण% s टोकरी सुधारित करू शकत नाही"
+
+#~ msgid ""
+#~ "The price of '%(product)s' has increased from %(old_price)s to "
+#~ "%(new_price)s since you added it to your basket"
+#~ msgstr ""
+#~ "'%(product)s' ची किंमत%(old_price)s पासून%(new_price)s वाढली आहेआपण ते आपल्या "
+#~ "बास्केटमध्ये जोडल्यानंतर"
