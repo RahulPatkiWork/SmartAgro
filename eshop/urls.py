@@ -37,10 +37,14 @@ from django.contrib import admin
 from oscar.app import application
 from django.conf import settings
 from django.conf.urls.static import static
+from cashondelivery.dashboard.app import application as cod_app
+
 
 urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
     url(r'^i18n/', include('django.conf.urls.i18n')),
     url(r'', include(application.urls)),
+#cash on delivery 
+    url(r'^dashboard/cod/', include(cod_app.urls)),
 ]+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 #end of try media display
