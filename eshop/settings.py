@@ -41,8 +41,6 @@ INSTALLED_APPS = [
     'django.contrib.flatpages',
     'compressor',
     'widget_tweaks',
-    'cashondelivery'
-    
 
 
 ] + get_core_apps()
@@ -221,4 +219,3 @@ MEDIA_URL = '/media/'
 OSCAR_SHOP_NAME = 'SmartAgro'
 OSCAR_SHOP_TAGLINE = 'eCommerce for Farmers'
 OSCAR_DEFAULT_CURRENCY = 'INR'
-
