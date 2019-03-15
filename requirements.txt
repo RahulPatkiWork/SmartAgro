@@ -18,6 +18,7 @@ django-extra-views==0.11.0
 django-haystack==2.8.1
 django-oscar==1.6.7
 django-oscar-accounts==1.0.0
+-e git+https://github.com/michaelkuty/django-oscar-cash-on-delivery@d5a3c141bfdea143995bbcc89ba90c607c069be7#egg=django_oscar_cash_on_delivery
 django-phonenumber-field==2.0.1
 django-tables2==1.21.2
 django-treebeard==4.3
