@@ -55,3 +55,25 @@ class EmailBackend(ModelBackend):
 
     def authenticate(self, *args, **kwargs):
         return self._authenticate(*args, **kwargs)
+'''
+sha256 custom
+'''
+def post_login():
+    form = UserForm()
+    email = request.form.get('email')
+    password = request.form.get('password')
+    try:
+        user = User.query.filter_by(email=email).first()
+        check_password = pbkdf2_sha256.verify(password, pbkdf2_sha256.hash(password))
+
+        if user != None and check_password:
+            flash('Logged in successfully', 'success')
+            login_user(user)
+            return redirect(url_for('main.get_index'))
+        else:
+            flash(u'Login error', 'danger')
+            return redirect(url_for('main.get_login'))
+
+    except:
+            flash(u'Login error', 'danger')
+            return redirect(url_for('main.get_login'))
