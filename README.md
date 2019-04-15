@@ -9,14 +9,17 @@ Read More--
 Paper:
   http://ijsrd.com/Article.php?manuscript=IJSRDV6I100248
 
-Prototype:
-  (http://nustadhur1.pythonanywhere.com/))
+WebSite:
+  https://smartagroecom.pythonanywhere.com/
+  
+Android:
+It will soon be available on PlayStore!
 
 Scope:
-  The project is cross platform is available on native Android/ios as well as web.The app will provide recommendations for cross   selling, MRP, cash crops (beneficial crops). Regression is used for Optimal Crop Price Prediction and apriori for association rule mining.
-
+ It is a cross platform project.The app is available on native Android/ios as well as web.The app provides recommendations for cross selling, MRP, cash crops (beneficial crops). ARIMAS is used for Optimal Crop Price Prediction and apriori for association rule mining.
+ 
 Languages:
-  The project uses: python,css,less,js,html etc.Sqlite3 and Postgre have been used for database.
-
+  The project uses: python,java,css,js,html etc.Sqlite3 and Postgre have been used for database.
+  
 Creator/Maintainer:
 #Rahul.R.Patki
