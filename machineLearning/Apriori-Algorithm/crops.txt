@@ -1,25 +1,20 @@
-Toor,Wheat,Dhania,Jowar,Rice,Saunf,Sugarcane
-Moong,Wheat,Dhania,Bajra,Jowar,Rice,Saunf,Sugarcane
-Moong,Wheat,Rajma,Bajra,Jowar,Rice,Saunf,Sugarcane
-Moong,Rajma,Bajra,Saunf,Sugarcane
-Toor,Moong,Dhania,Rajma,Jowar,Rice,Saunf,Sugarcane
-Toor,Wheat,Dhania,Rajma,Bajra,Rice,Saunf
-Toor,Rajma,Bajra,Rice,Saunf,Sugarcane
-Moong,Wheat,Dhania,Rajma,Jowar,Rice,Saunf
-Toor,Wheat,Rajma,Dhania,Jowar,Rice,Saunf
-Toor,Moong,Bajra,Jowar,Rice,Sugarcane
-Toor,Moong,Wheat,Dhania,Rajma,Jowar,Saunf
-Toor,Moong,Wheat,Rajma,Dhania,Bajra,Saunf,Sugarcane
-Wheat,Dhania,Rajma,Bajra,Jowar,Sugarcane
-Toor,Dhania,Bajra,Jowar,Rice
-Toor,Rajma,Bajra,Jowar,Saunf
-Toor,Wheat,Rajma,Bajra,Jowar,Rice,Saunf,Sugarcane
-Saunf,Moong,Dhania,Rice
-Toor,Moong,Dhania,Rajma,Bajra,Jowar,Saunf,Sugarcane
-Moong,Wheat,Rajma,Dhania,Jowar,Rice,Saunf,Sugarcane
-Toor,Moong,Wheat,Dhania,Rice,Saunf,Sugarcane
-Toor,Moong,Rajma,Bajra,Rice,Saunf,Sugarcane
-Toor,Moong,Bajra,Jowar,Saunf,Sugarcane
-Moong,Wheat,Rajma,Dhania,Jowar,Sugarcane
-Toor,Moong,Dhania,Rajma,Jowar,Sugarcane
-Toor,Moong,Rajma,Bajra,Jowar,Saunf,Sugarcane
+Cabbage,Onion,Lal Imli Wheat,Bajra,Mp Sortex Wheat,Ginger,Rice
+Cabbage,Brinjal,Lal Imli Wheat,Potato,Rice
+Cabbage,Onion,Lal Imli Wheat,Potato,Jowar,Ginger
+Cabbage,Lal Imli Wheat,Jowar,Mp Sortex Wheat,Ginger,Rice
+Cabbage,Onion,Brinjal,Lal Imli Wheat,Potato,Mp Sortex Wheat,Rice
+Cabbage,Brinjal,Potato,Bajra,Mp Sortex Wheat,Ginger
+Cabbage,Lal Imli Wheat,Potato,Jowar,Rice
+Cabbage,Onion,Brinjal,Lal Imli Wheat,Potato,Bajra,Mp Sortex Wheat,Ginger,Rice
+Cabbage,Bajra,Jowar,Mp Sortex Wheat,Rice
+Onion,Brinjal,Lal Imli Wheat,Potato,Bajra,Mp Sortex Wheat,Rice
+Onion,Brinjal,Potato,Bajra,Jowar,Mp Sortex Wheat,Ginger
+Onion,Brinjal,Bajra,Jowar,Mp Sortex Wheat,Ginger,Rice
+Cabbage,Lal Imli Wheat,Bajra,Jowar,Mp Sortex Wheat,Ginger,Rice
+Brinjal,Lal Imli Wheat,Potato,Bajra,Jowar,Rice
+Onion,Brinjal,Bajra,Jowar,Mp Sortex Wheat,Ginger
+Cabbage,Brinjal,Bajra,Jowar,Mp Sortex Wheat,Rice
+Cabbage,Brinjal,Potato,Lal Imli Wheat,Bajra,Rice
+Cabbage,Brinjal,Lal Imli Wheat,Potato,Ginger,Rice
+Onion,Brinjal,Potato,Lal Imli Wheat,Jowar,Mp Sortex Wheat,Ginger,Rice
+Cabbage,Onion,Potato,Bajra,Jowar,Mp Sortex Wheat,Ginger,Rice

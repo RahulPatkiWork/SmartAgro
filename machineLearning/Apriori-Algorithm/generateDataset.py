@@ -1,7 +1,7 @@
 import random
 
 
-crops = ["Wheat", "Jowar", "Bajra", "Rice", "Moong", "Toor", "Rajma", "Sugarcane", "Saunf", "Dhania"]
+crops = ["Mp Sortex Wheat", "Lal Imli Wheat","Jowar", "Bajra", "Rice", "Potato", "Onion", "Ginger", "Cabbage", "Brinjal", "Banana","Orange","Papaya"]
 automobileStuff = ["SideLight", "HeadLight", "Engine", "SteeringWheel", "WindShield", "Oil", "BreakPad", "Wheels", "Tires", "Car"]
 otherStuff = ["Fertlizer1", "Fertlizer2", "Pesticide1", "Pesticide2",]
 
@@ -11,7 +11,7 @@ selected = []
 #File 1
 file = open('otherStuff.txt' ,'a') 
 file.truncate()
-for j in range(25):
+for j in range(20):
     for x in range(10):
         selected.append(otherStuff[random.randint(0,3)])
     selected = set(selected)
@@ -27,7 +27,7 @@ for j in range(25):
 #File 2
 file = open('crops.txt' ,'a') 
 file.truncate()
-for j in range(25):
+for j in range(20):
     for x in range(10):
         selected.append(crops[random.randint(0,9)])
     selected = set(selected)
@@ -43,7 +43,7 @@ for j in range(25):
 #File 3
 file = open('automobileStuff.txt' ,'a') 
 file.truncate()
-for j in range(25):
+for j in range(20):
     for x in range(10):
         selected.append(automobileStuff[random.randint(0,9)])
     selected = set(selected)
