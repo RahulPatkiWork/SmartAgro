@@ -11,7 +11,7 @@ Arcanut.csv is test data for regression & regressiondb.csv is training data
 
 
 #About:
-The model uses Multiple Linear Regression to predict the most profitable/suitable crop in the current weather and soil conditionsThus it provides farmers with a variety of options for crops that can be cultivated.
+This module uses Multiple Linear Regression to predict the most profitable & suitable crop/s in a given area for the current weather and soil conditions. Thus it provides farmers with variety of options for crops that can be cultivated.
 
 The business logic with datasets(original+preprocessed)are in: SmartAgro/machineLearning/WeatherSoilBasedCropPrediction/code/ directory.
 Final colab notebook is in:SmartAgro/machineLearning/WeatherSoilBasedCropPrediction/
