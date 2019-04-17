@@ -1,7 +1,9 @@
 import random
 
 
-crops = ["Mp Sortex Wheat", "Lal Imli Wheat","Jowar", "Bajra", "Rice", "Potato", "Onion", "Ginger", "Cabbage", "Brinjal", "Banana","Orange","Papaya"]
+crops = ["Mp-Sortex-Wheat", "Lal-Imli-Wheat","Jowar", "Bajra", "Rice", "Potato", "Onion", "Ginger", "Cabbage", "Brinjal", "Banana","Orange","Papaya"]
+
+
 automobileStuff = ["SideLight", "HeadLight", "Engine", "SteeringWheel", "WindShield", "Oil", "BreakPad", "Wheels", "Tires", "Car"]
 otherStuff = ["Fertlizer1", "Fertlizer2", "Pesticide1", "Pesticide2",]
 
@@ -29,7 +31,7 @@ file = open('crops.txt' ,'a')
 file.truncate()
 for j in range(20):
     for x in range(10):
-        selected.append(crops[random.randint(0,5)])
+        selected.append(crops[random.randint(0,12)])
     selected = set(selected)
     selected = list(selected)
     for i in range(len(selected)):

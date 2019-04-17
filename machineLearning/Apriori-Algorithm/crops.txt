@@ -1,20 +1,20 @@
-Bajra,Jowar,Mp Sortex Wheat,Rice,Potato,Lal Imli Wheat
-Bajra,Jowar,Mp Sortex Wheat,Rice,Potato,Lal Imli Wheat
-Bajra,Jowar,Mp Sortex Wheat,Rice,Potato,Lal Imli Wheat
-Bajra,Mp Sortex Wheat,Rice,Potato,Lal Imli Wheat
-Mp Sortex Wheat,Bajra,Jowar,Potato
-Bajra,Jowar,Mp Sortex Wheat,Rice,Potato
-Bajra,Jowar,Rice,Potato,Lal Imli Wheat
-Lal Imli Wheat,Rice,Jowar,Potato
-Bajra,Jowar,Mp Sortex Wheat,Rice,Potato
-Jowar,Mp Sortex Wheat,Rice,Potato,Lal Imli Wheat
-Bajra,Jowar,Mp Sortex Wheat,Potato,Lal Imli Wheat
-Rice,Bajra,Jowar,Potato
-Bajra,Jowar,Mp Sortex Wheat,Potato,Lal Imli Wheat
-Bajra,Jowar,Mp Sortex Wheat,Rice,Potato
-Bajra,Jowar,Mp Sortex Wheat,Rice,Potato,Lal Imli Wheat
-Bajra,Jowar,Mp Sortex Wheat,Rice,Potato,Lal Imli Wheat
-Bajra,Jowar,Mp Sortex Wheat,Rice,Lal Imli Wheat
-Bajra,Jowar,Mp Sortex Wheat,Rice,Potato
-Bajra,Jowar,Mp Sortex Wheat,Rice,Potato,Lal Imli Wheat
-Bajra,Mp Sortex Wheat,Rice,Potato,Lal Imli Wheat
+Brinjal,Mp-Sortex-Wheat,Cabbage,Orange,Bajra
+Brinjal,Mp-Sortex-Wheat,Ginger,Lal-Imli-Wheat,Bajra,Jowar,Rice
+Brinjal,Cabbage,Mp-Sortex-Wheat,Ginger,Potato,Papaya,Bajra,Lal-Imli-Wheat,Rice,Onion
+Mp-Sortex-Wheat,Cabbage,Ginger,Lal-Imli-Wheat,Bajra,Papaya,Orange,Rice
+Brinjal,Cabbage,Ginger,Potato,Lal-Imli-Wheat,Orange,Jowar,Rice
+Potato,Lal-Imli-Wheat,Orange,Rice,Onion
+Brinjal,Mp-Sortex-Wheat,Potato,Lal-Imli-Wheat,Rice,Onion
+Brinjal,Mp-Sortex-Wheat,Ginger,Banana,Lal-Imli-Wheat,Jowar,Rice
+Brinjal,Ginger,Potato,Banana,Lal-Imli-Wheat,Bajra,Orange,Papaya
+Mp-Sortex-Wheat,Cabbage,Potato,Banana,Jowar,Rice
+Brinjal,Cabbage,Potato,Banana,Bajra,Rice,Onion
+Mp-Sortex-Wheat,Ginger,Potato,Papaya,Bajra,Jowar,Onion
+Brinjal,Mp-Sortex-Wheat,Ginger,Potato,Papaya,Orange,Jowar,Rice
+Brinjal,Potato,Banana,Papaya,Orange,Jowar,Rice
+Mp-Sortex-Wheat,Ginger,Banana,Papaya,Bajra,Onion
+Brinjal,Mp-Sortex-Wheat,Ginger,Potato,Lal-Imli-Wheat,Papaya,Rice
+Brinjal,Cabbage,Mp-Sortex-Wheat,Ginger,Banana,Lal-Imli-Wheat,Orange,Papaya,Onion
+Brinjal,Mp-Sortex-Wheat,Ginger,Potato,Banana,Lal-Imli-Wheat,Jowar,Onion
+Brinjal,Ginger,Potato,Banana,Lal-Imli-Wheat,Rice
+Brinjal,Mp-Sortex-Wheat,Ginger,Potato,Jowar,Onion
