@@ -29,7 +29,7 @@ file = open('crops.txt' ,'a')
 file.truncate()
 for j in range(20):
     for x in range(10):
-        selected.append(crops[random.randint(0,9)])
+        selected.append(crops[random.randint(0,5)])
     selected = set(selected)
     selected = list(selected)
     for i in range(len(selected)):

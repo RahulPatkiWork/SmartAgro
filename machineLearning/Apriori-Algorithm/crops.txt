@@ -1,20 +1,20 @@
-Cabbage,Onion,Lal Imli Wheat,Bajra,Mp Sortex Wheat,Ginger,Rice
-Cabbage,Brinjal,Lal Imli Wheat,Potato,Rice
-Cabbage,Onion,Lal Imli Wheat,Potato,Jowar,Ginger
-Cabbage,Lal Imli Wheat,Jowar,Mp Sortex Wheat,Ginger,Rice
-Cabbage,Onion,Brinjal,Lal Imli Wheat,Potato,Mp Sortex Wheat,Rice
-Cabbage,Brinjal,Potato,Bajra,Mp Sortex Wheat,Ginger
-Cabbage,Lal Imli Wheat,Potato,Jowar,Rice
-Cabbage,Onion,Brinjal,Lal Imli Wheat,Potato,Bajra,Mp Sortex Wheat,Ginger,Rice
-Cabbage,Bajra,Jowar,Mp Sortex Wheat,Rice
-Onion,Brinjal,Lal Imli Wheat,Potato,Bajra,Mp Sortex Wheat,Rice
-Onion,Brinjal,Potato,Bajra,Jowar,Mp Sortex Wheat,Ginger
-Onion,Brinjal,Bajra,Jowar,Mp Sortex Wheat,Ginger,Rice
-Cabbage,Lal Imli Wheat,Bajra,Jowar,Mp Sortex Wheat,Ginger,Rice
-Brinjal,Lal Imli Wheat,Potato,Bajra,Jowar,Rice
-Onion,Brinjal,Bajra,Jowar,Mp Sortex Wheat,Ginger
-Cabbage,Brinjal,Bajra,Jowar,Mp Sortex Wheat,Rice
-Cabbage,Brinjal,Potato,Lal Imli Wheat,Bajra,Rice
-Cabbage,Brinjal,Lal Imli Wheat,Potato,Ginger,Rice
-Onion,Brinjal,Potato,Lal Imli Wheat,Jowar,Mp Sortex Wheat,Ginger,Rice
-Cabbage,Onion,Potato,Bajra,Jowar,Mp Sortex Wheat,Ginger,Rice
+Bajra,Jowar,Mp Sortex Wheat,Rice,Potato,Lal Imli Wheat
+Bajra,Jowar,Mp Sortex Wheat,Rice,Potato,Lal Imli Wheat
+Bajra,Jowar,Mp Sortex Wheat,Rice,Potato,Lal Imli Wheat
+Bajra,Mp Sortex Wheat,Rice,Potato,Lal Imli Wheat
+Mp Sortex Wheat,Bajra,Jowar,Potato
+Bajra,Jowar,Mp Sortex Wheat,Rice,Potato
+Bajra,Jowar,Rice,Potato,Lal Imli Wheat
+Lal Imli Wheat,Rice,Jowar,Potato
+Bajra,Jowar,Mp Sortex Wheat,Rice,Potato
+Jowar,Mp Sortex Wheat,Rice,Potato,Lal Imli Wheat
+Bajra,Jowar,Mp Sortex Wheat,Potato,Lal Imli Wheat
+Rice,Bajra,Jowar,Potato
+Bajra,Jowar,Mp Sortex Wheat,Potato,Lal Imli Wheat
+Bajra,Jowar,Mp Sortex Wheat,Rice,Potato
+Bajra,Jowar,Mp Sortex Wheat,Rice,Potato,Lal Imli Wheat
+Bajra,Jowar,Mp Sortex Wheat,Rice,Potato,Lal Imli Wheat
+Bajra,Jowar,Mp Sortex Wheat,Rice,Lal Imli Wheat
+Bajra,Jowar,Mp Sortex Wheat,Rice,Potato
+Bajra,Jowar,Mp Sortex Wheat,Rice,Potato,Lal Imli Wheat
+Bajra,Mp Sortex Wheat,Rice,Potato,Lal Imli Wheat
