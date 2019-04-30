@@ -72,9 +72,17 @@ AUTHENTICATION_BACKENDS = (
     'django.contrib.auth.backends.ModelBackend',
 )
 
-EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
-
+#EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+#EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+#trying smtp email backend
+#Go to django admin and add smartagroecommerce.com as a site in sites for email template
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_HOST_USER = 'smartagroecommerce@gmail.com'
+EMAIL_HOST_PASSWORD = 'nphlqecgrypvbvkg'
+EMAIL_PORT = 587
+EMAIL_USE_TLS = True
 ROOT_URLCONF = 'eshop.urls'
+#ROOT_URLCONF = 'eshop.urls'
 
 from oscar import OSCAR_MAIN_TEMPLATE_DIR
 
@@ -156,30 +164,30 @@ LANGUAGE_CODE = 'en-gb'
 # Includes all languages that have >50% coverage in Transifex
 # Taken from Django's default setting for LANGUAGES
 gettext_noop = lambda s: s
-LANGUAGES = (
-    ('ar', gettext_noop('Arabic')),
-    ('ca', gettext_noop('Catalan')),
-    ('cs', gettext_noop('Czech')),
-    ('da', gettext_noop('Danish')),
-    ('de', gettext_noop('German')),
-    ('en-gb', gettext_noop('British English')),
-    ('el', gettext_noop('Greek')),
-    ('es', gettext_noop('Spanish')),
-    ('fi', gettext_noop('Finnish')),
-    ('fr', gettext_noop('French')),
-    ('mr', gettext_noop('Marathi')),
-    ('it', gettext_noop('Italian')),
-    ('ko', gettext_noop('Korean')),
-    ('nl', gettext_noop('Dutch')),
-    ('pl', gettext_noop('Polish')),
-    ('pt', gettext_noop('Portuguese')),
-    ('pt-br', gettext_noop('Brazilian Portuguese')),
-    ('ro', gettext_noop('Romanian')),
-    ('ru', gettext_noop('Russian')),
-    ('sk', gettext_noop('Slovak')),
-    ('uk', gettext_noop('Ukrainian')),
-    ('zh-cn', gettext_noop('Simplified Chinese')),
-)
+# LANGUAGES = (
+#     ('ar', gettext_noop('Arabic')),
+#     ('ca', gettext_noop('Catalan')),
+#     ('cs', gettext_noop('Czech')),
+#     ('da', gettext_noop('Danish')),
+#     ('de', gettext_noop('German')),
+#     ('en-gb', gettext_noop('British English')),
+#     ('el', gettext_noop('Greek')),
+#     ('es', gettext_noop('Spanish')),
+#     ('fi', gettext_noop('Finnish')),
+#     ('fr', gettext_noop('French')),
+#     ('mr', gettext_noop('Marathi')),
+#     ('it', gettext_noop('Italian')),
+#     ('ko', gettext_noop('Korean')),
+#     ('nl', gettext_noop('Dutch')),
+#     ('pl', gettext_noop('Polish')),
+#     ('pt', gettext_noop('Portuguese')),
+#     ('pt-br', gettext_noop('Brazilian Portuguese')),
+#     ('ro', gettext_noop('Romanian')),
+#     ('ru', gettext_noop('Russian')),
+#     ('sk', gettext_noop('Slovak')),
+#     ('uk', gettext_noop('Ukrainian')),
+#     ('zh-cn', gettext_noop('Simplified Chinese')),
+# )
 
 SITE_ID = 1
 
@@ -219,3 +227,4 @@ MEDIA_URL = '/media/'
 OSCAR_SHOP_NAME = 'SmartAgro'
 OSCAR_SHOP_TAGLINE = 'eCommerce for Farmers'
 OSCAR_DEFAULT_CURRENCY = 'INR'
+OSCAR_FROM_EMAIL = 'smartagroecommerce@gmail.com'
