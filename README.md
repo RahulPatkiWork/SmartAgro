@@ -7,11 +7,15 @@ Smart Agro is a cross platform system for :
 #Prediction of optimal crop prices in future,
 #Recommendation systems for farmers.
 
-*Languages:*
+*Languages*:
+
+
 The project uses: python,java,css,js,html etc.Sqlite3 and Postgre have been used for database.
 It is mainly developed using Python(ML-Google Colab),Java(Android),Django-oscar framework(Ecommerce Website) and is available as a webapp,native android app & ios app!
 
-*Details*
+*Details*:
+
+
 The python based ML modules perform the following tasks:
 #Future Crop price prediction is performed on dataset provided by government(data.gov.in) by applying SVR to perform time series crop price predictions
 
