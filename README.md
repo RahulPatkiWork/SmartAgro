@@ -35,14 +35,14 @@ The java part is used to make the android app which performs following tasks:
   
 Read More--
 Paper1:
-  http://ijsrd.com/Article.php?manuscript=IJSRDV6I100248
+  [Survey-Paper](http://ijsrd.com/Article.php?manuscript=IJSRDV6I100248)
 Paper2:
-
+To be updated!
 WebSite:
-  https://smartagroecom.pythonanywhere.com/
+  [SmartAgro-Ecommerce](https://smartagroecom.pythonanywhere.com/)
   
 Android:
-[SmartAgro-PlayStore]: https://play.google.com/store/apps/details?id=com.sneha.smartagro
+  [SmartAgro-PlayStore](https://play.google.com/store/apps/details?id=com.sneha.smartagro)
 
 Scope of Repository:
 The repo has code for ecommerce platform, recommendation system for : cross selling, MRP,seasonal weather,soil based crop recommendations, price prediction.Datasets,as used from available government sites.
