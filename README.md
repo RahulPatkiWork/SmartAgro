@@ -30,7 +30,7 @@ The java part is used to make the android app which performs following tasks:
 
 #The app provides some motivational videos as well as success stories and ideas used by peer farmers to increase profitability.
 
-#The application provides farmers with the links to various central and state government schemes and websites.Thus the project acts as a complete guide containing different varieties of crops, suitable weather and soil conditions for the crops, production methods, fertilizers, possible diseases along with treatment and yield information thereby meeting most of the farmer’s requirements.
+#The application provides farmers with links to various central and state government schemes and websites.The app acts as a complete guide containing different varieties of crops, suitable weather and soil conditions for the crops, production methods, fertilizers, possible diseases along with treatment and yield information thereby meeting most of the farmer’s requirements.
 
   
 Read More--
@@ -45,7 +45,7 @@ Android:
 It will soon be available on PlayStore!
 
 Scope of Repository:
-The repo has code for ecommerce platform, recommendation system for : cross selling, MRP,seasonal wether,soil based crop recommendations, price prediction.Datasets,as used from available government sites.
+The repo has code for ecommerce platform, recommendation system for : cross selling, MRP,seasonal weather,soil based crop recommendations, price prediction.Datasets,as used from available government sites.
  
 
   
