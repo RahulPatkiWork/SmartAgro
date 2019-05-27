@@ -41,6 +41,8 @@ INSTALLED_APPS = [
     'django.contrib.flatpages',
     'compressor',
     'widget_tweaks',
+    #paypal
+    'paypal',
 
 
 ] + get_core_apps()
@@ -228,3 +230,23 @@ OSCAR_SHOP_NAME = 'SmartAgro'
 OSCAR_SHOP_TAGLINE = 'eCommerce for Farmers'
 OSCAR_DEFAULT_CURRENCY = 'INR'
 OSCAR_FROM_EMAIL = 'smartagroecommerce@gmail.com'
+
+# #Paypal Transactions
+# #sandbox settings--begin
+PAYPAL_API_USERNAME = 'rahulpatki9-facilitator_api1.gmail.com'
+PAYPAL_API_PASSWORD = 'U6PJ9VGEF5B2DHL8'
+PAYPAL_API_SIGNATURE = 'A9r1TbBBUJ.VTYUguK2EqCXGxx.-AixEjZ61L8Zs4dqNhCIsaSqEvwuW'
+PAYPAL_BRAND_NAME = 'Smart Agro Ecommerce'
+PAYPAL_CURRENCY = 'INR'
+from django.utils.translation import ugettext_lazy as _
+OSCAR_DASHBOARD_NAVIGATION.append(
+    {
+        'label': _('PayPal'),
+        'icon': 'icon-globe',
+        'children': [
+            {
+                'label': _('Express transactions'),
+                'url_name': 'paypal-express-list',
+            },
+        ]
+    })

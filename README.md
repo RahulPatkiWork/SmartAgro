@@ -24,7 +24,7 @@ and is available as a webapp,native android app!
 
 
 The python modules perform the following tasks:
-  -Future Crop price prediction is performed on dataset provided by government(data.gov.in) by applying SVR to perform time series crop price predictions.For better accuracy Elastic Net has been applied on updated dataset
+  -Future Crop price prediction is performed on dataset provided by government website (data.gov.in) by applying SVR to perform time series crop price predictions.For better accuracy Elastic Net has been applied on updated dataset
 
   -The website provides a broker-free ecommerce platform to the farmers. It allows citizens, farmers to sell/buy crops needed on a daily basis directly from farmers (partners).
 
@@ -55,7 +55,7 @@ Android:
   [SmartAgro-PlayStore](https://play.google.com/store/apps/details?id=com.sneha.smartagro)
 
 Scope of Repository:
-The repo has code for ecommerce platform, recommendation system for : cross selling, MRP,seasonal weather,soil based crop recommendations, price prediction.Datasets,as used from available government sites.
+The repo has code for ecommerce platform, recommendation system for : cross selling, MRP,seasonal weather,soil based crop recommendations, price prediction.Datasets are used from available government sites.
  
 
   
