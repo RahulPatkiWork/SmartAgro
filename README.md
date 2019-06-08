@@ -1,5 +1,5 @@
 # SmartAgro
-
+--------------------------------------------------------------------------------------------------
 *Introduction*:
 
 Smart Agro is a cross platform system which provides :
@@ -11,7 +11,7 @@ Smart Agro is a cross platform system which provides :
 #**Recommendation systems for farmers.**
 
 *Languages*:
-
+-------------------------------------------------------------------------------------------------
 
 The project uses: python, java, css, js, html etc. Sqlite3 and Postgre have been used for database.
 It is mainly developed using :
@@ -20,8 +20,13 @@ Java(Android),
 Django-oscar framework(Ecommerce Website) .
 and is available as a webapp,native android app!
 
-*Details*:
+API's used:
+Google Analytics;
+Paypal Express;
+Haystack and Solr search backend;
 
+*Details*:
+--------------------------------------------------------------------------------------------------------
 
 The python modules perform the following tasks:
   -Future Crop price prediction is performed on dataset provided by government website (data.gov.in) by applying SVR to perform time series crop price predictions.For better accuracy Elastic Net has been applied on updated dataset
@@ -41,7 +46,7 @@ The java part is used to make the android app which performs following tasks:
 
   
 Read More :-
-
+------------------------------------------------------------------------------------------------------------------------------------
 Paper1:
   [Survey-Paper](http://ijsrd.com/Article.php?manuscript=IJSRDV6I100248)
   
@@ -55,9 +60,31 @@ Android:
   [SmartAgro-PlayStore](https://play.google.com/store/apps/details?id=com.sneha.smartagro)
 
 Scope of Repository:
+----------------------------------------------------------------------------------------------------------------------------------------
 The repo has code for ecommerce platform, recommendation system for : cross selling, MRP,seasonal weather,soil based crop recommendations, price prediction.Datasets are used from available government sites.
- 
+
+
+Demos:
+------------------------------------------------------------------------------------------------------------------------
+
+-[SmartAgro-Ecommerce_Buyer](https://drive.google.com/file/d/1f9vDAmvBEvEVlo6LQEpLa5VmEDFmyFux/view?usp=sharing)
+
+
+-[SmartAgro-Ecommerce_Seller&Admin](https://drive.google.com/file/d/1-3RnuCrpiyhKKd3S4R2w7TEPZTsoCwZz/view?usp=sharing)
+
+
+-[SmartAgro-Recommendation Systems](https://drive.google.com/file/d/1-5zUOuAL0g3oixkQ5lSGBTxP6abzPrkU/view?usp=sharing)
+
+
+-[SmartAgro-Prediction Systems](https://drive.google.com/file/d/1-9s8Cap6RrKnc4h6Xu7PfANhOx7eDb0I/view?usp=sharing)
+
+
+*App Link:*
+[SmartAgro-PlayStore](https://play.google.com/store/apps/details?id=com.sneha.smartagro)
+
+
 
   
 Creator/Maintainer:
-#Rahul.R.Patki
+------------------------------------------------------------------------------------------------------
+Rahul.R.Patki
