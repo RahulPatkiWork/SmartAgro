@@ -29,6 +29,7 @@ Haystack and Solr search backend;
 --------------------------------------------------------------------------------------------------------
 
 The python modules perform the following tasks:
+
   -Future Crop price prediction is performed on dataset provided by government website (data.gov.in) by applying SVR to perform time series crop price predictions.For better accuracy Elastic Net has been applied on updated dataset
 
   -The website provides a broker-free ecommerce platform to the farmers. It allows citizens, farmers to sell/buy crops needed on a daily basis directly from farmers (partners).
@@ -38,7 +39,8 @@ The python modules perform the following tasks:
   -Data from government repositories is used to determine most suitable crops in a particular area for a particular season by applying Regression, these crops are recommended to the seller.
 
 The java part is used to make the android app which performs following tasks:
-  -The android app integrates the ML models and ecommerce site and additional provides information.
+
+  -The android app integrates the ML models and ecommerce site and provides additional information.
 
   -The app provides some motivational videos as well as success stories and ideas used by peer farmers to increase profitability.
 
@@ -67,16 +69,20 @@ The repo has code for ecommerce platform, recommendation system for : cross sell
 Demos:
 ------------------------------------------------------------------------------------------------------------------------
 
--[SmartAgro-Ecommerce_Buyer](https://drive.google.com/file/d/1f9vDAmvBEvEVlo6LQEpLa5VmEDFmyFux/view?usp=sharing)
+-[SmartAgro-Brief-Demo](https://drive.google.com/file/d/1-QM0HnnmrqbW1UooB4SsNs92EvI4LuGv/view?usp=sharing)
+
+Detailed Demo:
+
+  -[SmartAgro-Ecommerce_Buyer](https://drive.google.com/file/d/1f9vDAmvBEvEVlo6LQEpLa5VmEDFmyFux/view?usp=sharing)
 
 
--[SmartAgro-Ecommerce_Seller&Admin](https://drive.google.com/file/d/1-3RnuCrpiyhKKd3S4R2w7TEPZTsoCwZz/view?usp=sharing)
+  -[SmartAgro-Ecommerce_Seller&Admin](https://drive.google.com/file/d/1-3RnuCrpiyhKKd3S4R2w7TEPZTsoCwZz/view?usp=sharing)
 
 
--[SmartAgro-Recommendation Systems](https://drive.google.com/file/d/1-5zUOuAL0g3oixkQ5lSGBTxP6abzPrkU/view?usp=sharing)
+  -[SmartAgro-Recommendation Systems](https://drive.google.com/file/d/1-5zUOuAL0g3oixkQ5lSGBTxP6abzPrkU/view?usp=sharing)
 
 
--[SmartAgro-Prediction Systems](https://drive.google.com/file/d/1-9s8Cap6RrKnc4h6Xu7PfANhOx7eDb0I/view?usp=sharing)
+  -[SmartAgro-Prediction Systems](https://drive.google.com/file/d/1-9s8Cap6RrKnc4h6Xu7PfANhOx7eDb0I/view?usp=sharing)
 
 
 *App Link:*
