@@ -10,7 +10,7 @@ Click==7.0
 cloudpickle==0.7.0
 dask==1.1.1
 distributed==1.25.3
-Django==1.11.20
+Django==1.11.29
 django-appconf==1.0.2
 django-autotranslate==1.1.0
 django-compressor==2.2
