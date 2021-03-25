@@ -49,7 +49,7 @@ purl==1.4
 pycountry==18.12.8
 python-dateutil==2.7.5
 pytz==2018.9
-PyYAML==3.13
+PyYAML==5.4
 rcssmin==1.0.6
 requests==2.21.0
 rjsmin==1.0.12
