@@ -68,6 +68,6 @@ toolz==0.9.0
 tornado==5.1.1
 tqdm==4.30.0
 Unidecode==1.0.23
-urllib3==1.24.1
+urllib3==1.26.5
 whitenoise==4.1.2
 zict==0.1.3
