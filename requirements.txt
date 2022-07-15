@@ -9,7 +9,7 @@ chardet==3.0.4
 Click==7.0
 cloudpickle==0.7.0
 dask==1.1.1
-distributed==1.25.3
+distributed==2021.10.0
 Django==1.11.20
 django-appconf==1.0.2
 django-autotranslate==1.1.0
